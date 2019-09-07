@@ -1,6 +1,4 @@
-# time=2019-09-07 08:07:28
-# count=3615
-#Score	UserID	Lang	Pseudo
+Score	UserID	Lang	Pseudo	#time=2019-09-07 09:54:16,count=3615
 2792	2316796	PHP	Psio
 2795	1485989	Python3	ReActiveNZ
 2806	2288263	Java	dbdr
@@ -24,6 +22,7 @@
 3290	1136521	C	nadrek
 3294	1798477	C#	mnivet
 3356	154984	PHP	_Royale
+3361	973040	F#	papyjo
 3367	806157	Python3	Aveuh
 3370	1068877	C#	[CPC]Tamno
 3378	1425201	C#	JamesPun
@@ -36,8 +35,8 @@
 3430	3035070	C#	Ipso
 3449	941713	C	Bloody95
 3450	893541	Java	wala
-3456	907661	C++	konst
 3456	1788003	C++	MIKHAIL_CHESNOKOV
+3456	907661	C++	konst
 3467	888404	Perl	Intramonk
 3477	1878648	Java	jaudo
 3480	2436448	Java	FrancoisMeme
@@ -63,25 +62,25 @@
 3659	938374	C#	UnmanagedCode
 3680	507383	C#	Vadasz
 3684	351062	Java	Neumann
-3696	858602	C++	Suigetsusake
-3696	1528929	C++	Blackfich
-3696	2162492	C++	BluSomething
-3696	1747776	C++	Lolidragon
-3696	1096228	C++	XiaotianZuo
-3696	2002917	C++	Hackerman007
 3696	2470625	C++	Gazoum
-3696	1753424	C++	FilkinKuiv
-3696	1772510	C++	Aravia
-3696	2359867	C++	Agda
-3696	1794620	C++	
 3696	155928	C++	pk
+3696	1747776	C++	Lolidragon
+3696	2002917	C++	Hackerman007
 3696	1793289	C++	LeQuyDuong
-3696	2075168	C++	PapaEmeritus
-3696	1175255	C++	Joshhh
-3696	2072927	C++	_you_
-3696	1803214	C++	
 3696	1799731	C++	
 3696	1770097	C++	
+3696	1528929	C++	Blackfich
+3696	1794620	C++	
+3696	2075168	C++	PapaEmeritus
+3696	2359867	C++	Agda
+3696	1096228	C++	XiaotianZuo
+3696	858602	C++	Suigetsusake
+3696	1753424	C++	FilkinKuiv
+3696	2162492	C++	BluSomething
+3696	1772510	C++	Aravia
+3696	1803214	C++	
+3696	2072927	C++	_you_
+3696	1175255	C++	Joshhh
 3697	513549	Groovy	y0p
 3719	942810	C++	Xtophe
 3732	201919	C++	LouJo
@@ -110,38 +109,37 @@
 3853	264258	Python3	MrFlibble
 3865	209439	Python3	D4yBr3ak
 3868	2785892	Python3	levbor
-3871	973040	F#	papyjo
 3875	937362	Javascript	josh_
 3879	153927	C++	Cubix
 3883	2242201	C++	Maryan
 3892	918233	Python3	screg
-3895	1341520	Java	egaetan
 3895	2897325	Python3	CAEZAR
+3895	1341520	Java	egaetan
 3900	416762	C#	Khao
 3910	706692	Java	alexhap
 3930	632549	Java	Keiras
 3944	1264368	C#	Ultimacho
+3950	2820691	C++	
+3950	1757340	C++	VadimGulyaev
 3950	1592706	C++	Jockley
+3950	1781218	C++	Zedyyy
+3950	1169762	C++	gagolucasm
+3950	1803239	C++	
 3950	1163331	C++	Banin
 3950	230794	C++	alpha_one_x86
-3950	1803239	C++	
-3950	1169762	C++	gagolucasm
-3950	2820691	C++	
-3950	1374052	C++	Pesegato
-3950	1757340	C++	VadimGulyaev
-3950	2006324	C++	SihardeOussama
-3950	1781218	C++	Zedyyy
 3950	2110342	C++	lchenay
+3950	1071140	C++	BeberLeNewbie
+3950	1803679	C++	
+3950	1374052	C++	Pesegato
+3950	1743393	C++	Yudzhin
+3950	2006324	C++	SihardeOussama
 3950	270881	C++	Maurice_Moss
 3950	1917969	C++	NicosKaralis1
-3950	1743393	C++	Yudzhin
 3950	1707377	C++	Colgate-Blancheur
-3950	1803679	C++	
-3950	1071140	C++	BeberLeNewbie
 3955	833606	Java	mattrero
 3963	660374	Haskell	nomeata
-3972	153674	C	GQMP
 3972	337622	Scala	Isammoc
+3972	153674	C	GQMP
 3976	1778295	Javascript	41x
 3977	1724069	Python3	jmpeg
 3978	1188212	ObjectiveC	superredlark

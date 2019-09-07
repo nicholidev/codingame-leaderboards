@@ -1,6 +1,4 @@
-# time=2019-09-07 08:07:22
-# count=36
-#Score	UserID	Lang	Pseudo
+Score	UserID	Lang	Pseudo	#time=2019-09-07 09:54:11,count=36
 5441	2288263	Rust	dbdr
 5811	1629259	PHP	Marchete
 17322	2924895	C	trictrac
@@ -8,7 +6,7 @@
 19635	1378958	PHP	Illedan
 20600	925695	Bash	Boulet
 25459	934381	Rust	PolyB
-26420	1436776	PHP	BrainSolver
+26291	1436776	PHP	BrainSolver
 26947	1509627	Javascript	puma17
 28213	2416641	PHP	Zenoscave
 34334	3226448	PHP	tobk
