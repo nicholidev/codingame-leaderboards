@@ -1,11 +1,11 @@
-Score	UserID	Lang	Pseudo	#optim,count=37,nonzero=36,time=2019-09-09 00:42:35
+Score	UserID	Lang	Pseudo	#optim,count=37,time=2019-09-10 00:30:02
 5441	2288263	Rust	dbdr	
 5811	1629259	PHP	Marchete	
 6928	155774	PHP	dwarfie	
 17322	2924895	C	trictrac	
 19635	1378958	PHP	Illedan	
-20600	925695	Bash	Boulet	
-23053	1436776	C++	BrainSolver	
+19831	925695	Bash	Boulet	
+22327	1436776	C++	BrainSolver	
 25459	934381	Rust	PolyB	
 26947	1509627	Javascript	puma17	
 28213	2416641	PHP	Zenoscave	
@@ -16,10 +16,11 @@ Score	UserID	Lang	Pseudo	#optim,count=37,nonzero=36,time=2019-09-09 00:42:35
 41569	2007852	PHP	Zorg1	
 43692	1607522	PHP	RoboStac	
 49068	888898	PHP	helgui	
+51258	973040	C	papyjo	
 53715	1854246	PHP	Counterbalance	
 67264	3075636	Dart	Dr-D	
 67728	2802859	Ruby	tdeo	
-68265	973040	C	papyjo	
+71284	1600906	Go	Rots	
 74416	631323	Python3	herve056	
 75203	512097	Haskell	Stilgart	
 76532	925202	PHP	VirtuaL42	
