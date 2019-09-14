@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=4701,time=2019-09-13 00:30:05
+Score	UserID	Lang	Pseudo	#optim,count=4706,time=2019-09-14 01:05:57
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -18,6 +18,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4701,time=2019-09-13 00:30:05
 516590	1436776	C++	BrainSolver	
 476060	1378958	C#	Illedan	
 473330	338469	C++	Sulaf	
+466330	1629259	Java	Marchete	
 463050	1607522	C++	RoboStac	
 458630	1826849	C++	Geplik	
 441200	638784	C++	Yqnn	
@@ -47,7 +48,6 @@ Score	UserID	Lang	Pseudo	#optim,count=4701,time=2019-09-13 00:30:05
 242380	820983	Javascript	Funnybobby	
 240890	1178276	Java	Jerome_95	
 239160	2232811	Javascript	nargile	
-238140	1629259	Java	Marchete	
 235220	2007852	Go	Zorg1	
 234480	1206537	C++	MadKnight	
 233830	528262	C	Niii	
@@ -87,6 +87,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4701,time=2019-09-13 00:30:05
 200740	512097	Haskell	Stilgart	
 199570	1658067	Java	pstavrianos	
 199360	331880	Scala	Monstruo	
+198650	153683	Dart	40R15T3	
 197300	1464932	Java	Tiramon	
 196780	1808019	Java	Aelexe	
 196720	2177599	C++	racezwerg	
@@ -182,6 +183,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4701,time=2019-09-13 00:30:05
 123700	783555	C#	Colin88	
 122730	3264942	C#	maskit	
 118370	728898	Python3	DaddysPrincess	
+117630	2364277	C#	Rubms	
 117420	231653	C++	kappy	
 113480	3310317	Python3	AWOL	
 113140	965891	Javascript	ElanVB	
@@ -997,5 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=4701,time=2019-09-13 00:30:05
 54120	1297837	C	Julien_Barbier	
 54110	610412	C#	Youssouf	
 54100	1521783	Javascript	forrestone	
-54090	958227	Java	LantarSidonis	
-54050	2512016	C#	d3ullist	
