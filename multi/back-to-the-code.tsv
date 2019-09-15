@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4566,time=2019-09-14 00:30:14
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4566,time=2019-09-15 00:30:14
 0	46.95	1433161	1484525	C	Mingu	
 0	45.48	494104	455215	C++	Recar	
 0	45.1	629202	357838	Java	Larry	
@@ -620,6 +620,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4566,time=2019-09-14 00:30:
 0	32.49	940262	357776	Python3	f	
 0	32.49	1060942	346732	C++	raphaelss	
 0	32.48	230015	347996	Java	Kolo9	
+0	32.46	1411423	491913	Perl	Wyllyam	
 0	32.46	406152	357568	Python	TiarinBlate	
 0	32.45	831681	508951	Python	Brindesable	
 0	32.45	863425	353693	C#	Antlershy	
@@ -629,11 +630,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4566,time=2019-09-14 00:30:
 0	32.41	826372	348172	C++	skyyker	
 0	32.41	704737	368735	Python	Azelo	
 0	32.4	751369	340843	C++	tibithegreat	
-0	32.39	1411423	491913	Perl	Wyllyam	
 0	32.38	153661	354407	C++	Lionel	
 0	32.37	973948	365559	Python3	Amnesix	
 0	32.37	890575	341257	C++	Mr.Raoul	
-0	32.36	544969	357850	C++	Nabilion	
 0	32.36	890295	353410	C	Krayz	
 0	32.34	968305	357298	C++	Mickael.a	
 0	32.33	1078563	351968	C++	MiniMe	
@@ -641,6 +640,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4566,time=2019-09-14 00:30:
 0	32.32	604196	342430	Python3	sunny0	
 0	32.31	1427078	485036	Java	ToshiTuringMachine	
 0	32.3	373704	350653	Ruby	LumpyMango	
+0	32.3	544969	357850	C++	Nabilion	
 0	32.3	1229321	369757	Java	yasht	
 0	32.3	900460	352430	PHP	Payalord	
 0	32.3	877003	350476	C++	PauloCezar	
