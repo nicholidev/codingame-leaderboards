@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=4723,time=2019-09-22 00:34:43
+Score	UserID	Lang	Pseudo	#optim,count=4725,time=2019-09-24 00:30:18
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -14,10 +14,10 @@ Score	UserID	Lang	Pseudo	#optim,count=4723,time=2019-09-22 00:34:43
 682520	2522090	C#	MSmits	
 665770	2316796	PHP	Psio	
 663620	1630890	Java	Wld	
+649860	338469	C++	Sulaf	
 543500	1273065	C++	TheRadical	
 516590	1436776	C++	BrainSolver	
 476060	1378958	C#	Illedan	
-473330	338469	C++	Sulaf	
 466330	1629259	Java	Marchete	
 463050	1607522	C++	RoboStac	
 458630	1826849	C++	Geplik	
@@ -64,6 +64,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4723,time=2019-09-22 00:34:43
 222280	579894	C++	Binarii	
 222240	1201796	ObjectiveC	P.Greze	
 220500	2924895	C	trictrac	
+219310	992329	C++	BeeGee	
 219170	1734105	C++	Bibou	
 217250	1449433	C++	Rolf	
 217000	1173064	C#	a.oryol	
@@ -185,7 +186,9 @@ Score	UserID	Lang	Pseudo	#optim,count=4723,time=2019-09-22 00:34:43
 125800	3226448	Python3	tobk	
 124100	1851160	C#	Fabienvs	
 123700	783555	C#	Colin88	
+123050	3319855	C#	Drobor	
 122730	3264942	C#	maskit	
+122410	2455124	C	Scorpik	
 118370	728898	Python3	DaddysPrincess	
 117630	2364277	C#	Rubms	
 117420	231653	C++	kappy	
@@ -996,6 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=4723,time=2019-09-22 00:34:43
 54260	1714529	Python3	NersesAlikhanyan	
 54260	2006503	Java	ivanhanden	
 54260	2007467	Java	Burakiller	
-54260	3438817	C	ClottedCream	
-54210	394667	Python3	elvers	
-54170	1682201	Rust	gtllama	
