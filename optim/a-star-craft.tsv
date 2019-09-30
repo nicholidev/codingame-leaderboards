@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=611,time=2019-09-26 00:35:44
+Score	UserID	Lang	Pseudo	#optim,count=612,time=2019-09-30 00:30:17
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
 11710	1500515	C#	eulerscheZahl	
@@ -212,11 +212,12 @@ Score	UserID	Lang	Pseudo	#optim,count=611,time=2019-09-26 00:35:44
 4037	218189	C	[CG]Maxime	
 3992	831171	Python3	Recoding	
 3957	857521	C#	MrAnderson	
-3929	3076371	C++	NeuMCTS	
+3929	3076371	C++	Eucerin	
 3882	1824376	Java	Kodle	
 3801	301922	Scala	tyrcho	
 3800	1453140	VB.NET	believerboy	
 3797	1802967	Python3	Meruem	
+3762	2115491	Javascript	Haashi	
 3719	3167968	Javascript	Master_Zain	
 3709	2051334	C++	Dwarth	
 3687	2315896	C++	DeCe	
@@ -275,7 +276,6 @@ Score	UserID	Lang	Pseudo	#optim,count=611,time=2019-09-26 00:35:44
 2773	2051278	C++	GuillaumeK	
 2762	2881330	Java	daydreamer	
 2759	1077559	Java	PhOeNyX	
-2758	2115491	Javascript	Haashi	
 2750	1791118	C++	Baboune251	
 2724	1502463	Python3	jitsch	
 2714	893541	Java	wala	
@@ -331,6 +331,7 @@ Score	UserID	Lang	Pseudo	#optim,count=611,time=2019-09-26 00:35:44
 2228	1495491	Java	[Random]-J3ff3z	
 2227	2387233	C#	ThePrimeEvil	
 2210	3360703	Python3	PrzemekS	
+2208	3406881	Java	MarcAn	
 2198	2100572	Python3	sirsatan	
 2191	2297753	Python3	Warly7692	
 2099	155091	Java	smeagol	
@@ -454,7 +455,7 @@ Score	UserID	Lang	Pseudo	#optim,count=611,time=2019-09-26 00:35:44
 1045	1657175	C++	swarosi	
 1045	1717345	Scala	kotobotov	
 1045	1728394	Python3	Momo98	
-1045	1760298	C++	Vivek_Amai_Ramachandra	
+1045	1760298	C++	Go_Kitty_Go	
 1045	1790837	Java	kkouet	
 1045	1822346	C++	Arcaseus	
 1045	1825085	Python3	Val	
@@ -553,7 +554,7 @@ Score	UserID	Lang	Pseudo	#optim,count=611,time=2019-09-26 00:35:44
 1045	3408953	C++	CFDboy	
 1045	3411513	PHP	flame1234	
 1045	3412581	Python3	StevenDePalma	
-1045	3414336	C	AMCG_TEAMX	
+1045	3414336	C	Testingamad	
 1045	3418508	Java	Kharv	
 1045	3443821	Ruby	mougi	
 1045	3460822	Javascript	J2319	
