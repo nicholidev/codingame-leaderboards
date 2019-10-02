@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2265,time=2019-10-01 00:32:16
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2266,time=2019-10-02 00:30:04
 5	31.58	1327028	2102329	C++	FredericBautista	
 5	30.88	1413236	511966	Go	Medici	
 5	30.32	1500515	2061718	C++	eulerscheZahl	
@@ -835,6 +835,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2265,time=2019-10-01 00:32:
 1	23	1455173	493497	Python3	DrSpock	
 1	22.99	1463575	494417	Javascript	Kittenschnitzel	
 1	22.98	215395	502717	Python3	Enknable	
+1	22.97	1477028	577663	Ruby	CbIC	
 1	22.96	1495837	634550	Ruby	pityplatsch	
 1	22.95	1494618	625811	Javascript	Lune	
 1	22.95	1231500	547484	C#	Kinga	
@@ -859,7 +860,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2265,time=2019-10-01 00:32:
 1	22.89	1491359	590307	C++	MurfDude	
 1	22.88	1559074	735117	C#	Meilby	
 1	22.88	1509251	2318409	C#	OmikoGaming	
-1	22.88	1477028	577663	Ruby	CbIC	
 1	22.88	1505744	648167	Python3	tigerrr	
 1	22.88	918962	607474	Python	enc0der	
 1	22.87	973155	576064	C++	Namal	
@@ -913,6 +913,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2265,time=2019-10-01 00:32:
 1	22.76	1051649	491822	PHP	Elektordi	
 1	22.76	1489263	577376	C#	csanti	
 1	22.75	1485377	578484	Javascript	faquarl	
+1	22.75	1409461	510632	Scala	Myk	
 1	22.75	1512821	630661	C#	tiredknees	
 1	22.75	1502298	610550	C#	skargg	
 1	22.75	152953	570509	Go	Minicalion	
@@ -927,7 +928,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2265,time=2019-10-01 00:32:
 1	22.73	1350971	979417	Python	Bodzio	
 1	22.72	1304340	1295886	Java	AntoineLatour	
 1	22.72	876464	582747	C++	mys	
-1	22.71	1409461	510632	Scala	Myk	
 1	22.71	1331444	482332	C#	leglore	
 1	22.71	1603956	759646	Go	Goddamndave	
 1	22.71	1313037	498445	Python3	AaronWhite	
@@ -965,6 +965,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2265,time=2019-10-01 00:32:
 1	22.62	819776	780683	Javascript	Maregas	
 1	22.62	1501413	603380	C++	Aergon	
 1	22.62	1472234	512253	C#	Filip.Lada	
+1	22.62	651153	753673	Python3	jikiliou	
 1	22.61	1012020	634685	Python3	Markusha	
 1	22.61	1120615	482659	C++	kubajz	
 1	22.61	936356	502854	Java	Tajasch	
@@ -998,4 +999,3 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2265,time=2019-10-01 00:32:
 1	22.57	1477937	566928	Java	koeki13	
 1	22.57	1456683	485365	Java	Equardos	
 1	22.57	1563880	672682	Java	Patrick8675	
-1	22.57	2241559	1777628	Python3	eskeln	
