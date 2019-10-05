@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=456,time=2019-10-04 00:30:05
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=456,time=2019-10-05 00:30:05
 5	32.5	2725066	2311007	C#	Cize	
 5	31.48	1314316	2223882	C++	jolindien	
 5	31.27	854952	2245515	C++	dolmen1234	
@@ -20,7 +20,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=456,time=2019-10-04 00:30:0
 5	25.99	1372349	2223865	Java	NinjaDoggy	
 5	25.77	1607522	2223859	C++	RoboStac	
 5	25.68	1479930	2307601	C++	LeRenard	
-5	25.62	1335230	2316806	C++	jft63	
+5	25.62	1335230	2316806	C++	[1A_design]jft63	
 5	25.53	351062	2223886	C++	Neumann	
 5	25.4	2906497	2223849	C++	daaskare	
 5	25.27	1854246	2223873	C++	Counterbalance	
@@ -36,7 +36,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=456,time=2019-10-04 00:30:0
 5	22.9	507383	2223889	C++	Vadasz	
 5	22.84	381613	2223877	C++	Hadou_	
 5	22.44	1987751	2223866	C++	ruu	
-5	22.09	1034635	2223854	C++	SlyB	
+5	22.09	1034635	2223854	C++	[1A_design]SlyB	
 5	21.98	1487392	2223847	Java	Razielwar	
 5	21.97	1336504	2223872	Java	cadaver	
 5	21.82	2741162	2223875	Kotlin	YannT	
@@ -222,7 +222,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=456,time=2019-10-04 00:30:0
 3	20.7	3039456	2209843	Java	SabertheLost	
 3	20.7	157377	2245306	Python3	McKelian	
 3	20.68	1158238	2226024	Python3	Veka	
-3	20.58	1836058	2210057	C++	SeebOmega	
+3	20.58	1836058	2210057	C++	[1A_design]SeebOmega	
 3	20.36	648751	2252538	Haskell	dabino	
 3	20.29	2107217	2212033	C++	Oh-Maley	
 3	20.19	224325	2210082	Scala	TidyMaze	
@@ -336,7 +336,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=456,time=2019-10-04 00:30:0
 3	12.44	1926967	2340840	Kotlin	Stanworld	
 3	12.38	1586397	2209846	Python3	menger3	
 3	12.34	1029602	2209853	C	Potemkine	
-3	12	1481544	2209981	C++	ZarthaxX	
+3	12	1481544	2209981	C++	ZKither	
 3	11.85	2162401	2215227	C++	Eugenijus	
 3	11.67	1272263	2262095	Python3	Caled	
 3	11.36	1967574	2359829	C++	Meradrin	

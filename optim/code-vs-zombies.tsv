@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=4744,time=2019-10-04 00:40:36
+Score	UserID	Lang	Pseudo	#optim,count=4745,time=2019-10-05 00:30:29
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -53,6 +53,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4744,time=2019-10-04 00:40:36
 234480	1206537	C++	MadKnight	
 233830	528262	C	Niii	
 232390	1082167	C++	Smatcher	
+232280	1449433	C++	Rolf	
 232230	154858	Javascript	PoF	
 232020	1876212	C++	PFischbeck	
 229430	155939	C	xylo	
@@ -66,7 +67,6 @@ Score	UserID	Lang	Pseudo	#optim,count=4744,time=2019-10-04 00:40:36
 220500	2924895	C	trictrac	
 219310	992329	C++	BeeGee	
 219170	1734105	C++	Bibou	
-217250	1449433	C++	Rolf	
 217000	1173064	C#	a.oryol	
 215220	1753077	C++	codingWhale	
 213710	1705689	Java	XanX3601	
@@ -190,6 +190,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4744,time=2019-10-04 00:40:36
 123050	3319855	C#	Drobor	
 122730	3264942	C#	maskit	
 122410	2455124	C	Scorpik	
+120310	1498163	Java	Ben-oit	
 118370	728898	Python3	DaddysPrincess	
 117420	231653	C++	kappy	
 113480	3310317	Python3	AWOL	
@@ -236,7 +237,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4744,time=2019-10-04 00:40:36
 88080	1172385	C#	LuckyMe	
 87200	1413544	C#	Christian1978	
 86460	1213898	Kotlin	Gubbel	
-86420	1335230	Java	jft63	
+86420	1335230	Java	[1A_design]jft63	
 86050	425462	Java	Azt-yur	
 85350	256955	C++	cup_of_tea	
 85350	2055377	C++	Covfefe	
@@ -360,7 +361,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4744,time=2019-10-04 00:40:36
 64260	854169	Python3	Silmaen	
 64260	935802	Java	Jerhyn	
 64260	1079787	Java	Eakr	
-64260	1096836	C++	[CG]MoNoTox	
+64260	1096836	C++	[CG]AyoubOuddah	
 64260	1390789	C++	Matthieu.L	
 64260	1451585	C++	NODDY	
 64260	1469819	Javascript	Allsecond	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=4744,time=2019-10-04 00:40:36
 54470	1022488	Python3	Ranisz	
 54450	1142952	Java	Solidstorm	
 54450	1368530	C#	Hassenplug	
-54410	2812380	C	MrKruemel	
