@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2550,time=2019-10-07 00:30:08
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2553,time=2019-10-08 00:30:11
 6	35.42	1400179	1578179	C++	reCurse	
 6	33.65	1818159	2428202	C++	JRFerguson	
 6	33.1	735910	1324204	C++	Agade	
@@ -110,7 +110,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2550,time=2019-10-07 00:30:
 5	20.08	1799131	1496244	C#	LuminousJune	
 5	20.02	1115081	1317062	Haskell	sergeif	
 5	20.01	1853956	1319168	PHP	Nkoyan	
-5	20	1481544	1496243	C++	ZKither	
+5	20	1481544	1496243	C++	ZarthaxX	
 5	19.93	1898847	1330390	C	faga	
 5	19.79	1889981	1493781	C#	rekcahd	
 5	19.78	1195031	1577202	C++	Nekto	
@@ -285,7 +285,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2550,time=2019-10-07 00:30:
 4	20.77	690420	1309163	Java	Babajajuk	
 4	20.69	1625385	1420992	C++	Lollypop	
 4	20.64	1611699	1666797	Java	EpiFlop	
-4	20.61	1902810	1319000	Java	xZwop	
+4	20.62	1902810	1319000	Java	xZwop	
 4	20.61	1714338	1558731	Python3	cobase2010	
 4	20.59	957334	1309391	Java	Dam	
 4	20.57	1528274	1309165	Ruby	BlanCap	
@@ -319,7 +319,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2550,time=2019-10-07 00:30:
 4	19.07	1609946	1771092	Python3	ESILV-Marc	
 4	19.04	1792532	1309250	C#	Zanbez	
 4	19	1829569	1859930	Python3	[0___0]	
-4	18.98	2518498	1758546	Java	LorenzoP	
+4	19	2518498	1758546	Java	LorenzoP	
 4	18.95	2518622	1759510	Java	riv777	
 4	18.93	1981732	1318307	C#	MJS	
 4	18.89	2705262	1938400	Python3	2kAmps	
@@ -392,6 +392,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2550,time=2019-10-07 00:30:
 4	16.79	1775406	1309195	Java	__S__	
 4	16.78	1945936	1465719	Python	Spacerouquin	
 4	16.77	1852554	1311965	C#	Rip	
+4	16.76	2494420	1750017	Python3	Alewan	
 4	16.76	1281339	1309133	Java	notex	
 4	16.75	403748	1309314	C#	[CG]SaiksyApo	
 4	16.74	154372	1394494	C++	Plopx	
@@ -399,14 +400,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2550,time=2019-10-07 00:30:
 4	16.74	1816961	1309387	Java	pwlrfl	
 4	16.73	1615610	1309368	Python3	Jarjar1er	
 4	16.73	1473017	1309147	Python3	justhalf	
-4	16.72	2494420	1750017	Python3	Alewan	
 4	16.72	2898291	2135431	C++	m.zahniser	
 4	16.71	1172354	1309266	Java	MagicGrab	
 4	16.7	1515891	1309299	Ruby	ndc	
 4	16.68	1347650	2309289	C#	T-Dup	
+4	16.68	1334479	1309212	Lua	apintor	
 4	16.67	1348832	1317317	C#	AzatJalilov	
 4	16.67	209372	1331906	C++	quinqua59	
-4	16.65	1334479	1309212	Lua	apintor	
 4	16.64	881037	2059963	Java	Amadeuszx	
 4	16.64	1868716	1514850	Scala	RagingCactus	
 4	16.59	1920780	1757341	C++	WagnerGascho	
@@ -487,7 +487,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2550,time=2019-10-07 00:30:
 4	14.93	1879432	1486016	C++	slymas	
 4	14.92	1029663	1574551	C	Skreamly	
 4	14.91	2136437	2352162	Python3	Majus	
-4	14.91	445200	1309140	Dart	khreenberg	
 4	14.9	1322200	1311576	Python3	TFM	
 4	14.89	1594607	1309575	Java	jesusrflapp	
 4	14.87	2066825	1456910	Java	abhijith	
@@ -503,6 +502,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2550,time=2019-10-07 00:30:
 4	14.77	873974	1330891	Python3	Halfixor	
 4	14.77	650661	1309255	Ruby	Syro	
 4	14.77	2906497	2132943	C++	daaskare	
+4	14.77	445200	1309140	Dart	khreenberg	
 4	14.76	1600779	1475119	C#	AustinSpafford	
 4	14.76	1835802	1309485	Javascript	LeYann	
 4	14.74	1520245	1863088	C++	kintdev	
@@ -555,6 +555,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2550,time=2019-10-07 00:30:
 4	13.84	889427	1758547	Python3	0xID	
 4	13.84	1531050	2428004	Java	Brekekekeke	
 4	13.83	2114863	2205015	C++	QWERTy	
+4	13.83	1803061	1386224	Java	SmokingJoe	
 4	13.82	855492	1312316	Go	Erk	
 4	13.81	783129	1322985	C#	Sookie	
 4	13.8	1337017	1599617	Python3	Teus	
@@ -562,7 +563,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2550,time=2019-10-07 00:30:
 4	13.78	1548299	1309718	Ruby	Curdix	
 4	13.78	3211735	2266748	C++	Fireballl	
 4	13.77	1999715	1486868	Java	Silverio	
-4	13.77	1803061	1386224	Java	SmokingJoe	
 4	13.73	2002555	1318011	Python3	MAXN	
 4	13.72	2372314	1593234	Java		
 4	13.72	1538112	1309169	C#	Pan_Gargamel	
@@ -626,11 +626,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2550,time=2019-10-07 00:30:
 4	12.63	1140177	1318404	Ruby	yckmciaiy	
 4	12.63	1681820	1310575	Ruby	orendon	
 4	12.63	2769647	1997202	Java	RiffShark	
-4	12.63	2077978	1390283	Python3	MichelLaviron	
 4	12.62	1703255	1513806	Python3	Titanmito	
 4	12.59	1927123	1319568	Python3	NetWarKing	
 4	12.59	2307079	1839618	Java	PizzaAndCode	
 4	12.54	3267424	2423573	Java	Codeinatorr	
+4	12.53	2077978	1390283	Python3	MichelLaviron	
 4	12.51	1125295	1329769	C++	Corleon	
 4	12.5	1709078	1318845	PHP	LeMojo	
 4	12.47	1656615	2337197	Java	Sbraaaaaa	
@@ -645,6 +645,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2550,time=2019-10-07 00:30:
 4	12.33	1763029	1309349	Python3	Le40	
 4	12.33	1830993	1885772	C#	jpcheck	
 4	12.32	1759839	1413522	Python3	matleg	
+4	12.32	1802419	1330053	Go	shummie	
 4	12.32	2408893	1631907	Java	jul_dmz	
 4	12.3	1267488	1489559	C	DrMad	
 4	12.3	1555765	1486014	C#	DewJunkie	
@@ -653,7 +654,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2550,time=2019-10-07 00:30:
 4	12.27	762451	1438597	Javascript	Adriensas	
 4	12.26	3267413	2423675	Java	McJanjo	
 4	12.25	514460	1310530	C++	Harv	
-4	12.24	1802419	1330053	Go	shummie	
 4	12.23	2493992	1885773	C#	spacehedron	
 4	12.23	1941138	1596753	Java	DanielPettersson	
 4	12.21	1149814	1501127	C#	VladimirZD	
@@ -688,43 +688,43 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2550,time=2019-10-07 00:30:
 4	11.9	1239303	1610598	Python3	Bodenteppich	
 4	11.88	2233676	1997201	Python3	cleanrock	
 4	11.86	1528055	1596491	C++	YannBeuc	
+4	11.83	1034744	1386171	Python3	mauronz	
 4	11.81	1001266	1384605	Java	Chamel	
 4	11.78	2003464	1509085	Javascript	eya	
 4	11.75	1702373	2049442	C++	Iamhere55	
-4	11.73	1034744	1386171	Python3	mauronz	
 4	11.68	1851013	1318009	Python3	NorthenFox	
 4	11.66	1875472	1404570	C#	BillBert	
-4	11.62	1946882	1748692	PHP	dzikismigol	
-4	11.59	1496013	1322467	Python3	Burk	
-4	11.5	1386924	2263467	Javascript	Ylec	
+4	11.65	1496013	1322467	Python3	Burk	
+4	11.64	1386924	2263467	Javascript	Ylec	
+4	11.49	1946882	1748692	PHP	dzikismigol	
+4	11.26	1487824	2049441	Python	Feathergunner	
 4	11.22	1073240	1489558	C++	IvanSchro	
-4	11.18	1607791	1874075	C++	ildar_1988	
-4	10.98	1487824	2049441	Python	Feathergunner	
-4	10.73	1786654	1318240	C++	Masclins	
-4	10.61	1945348	1311039	C#	Lawyerson	
-4	10.37	2536589	2494683	Java	mjfcolas	
-4	9.15	1588269	1422201	Python3	Emptee	
-4	9.11	1930837	1447005	Scala	dacr	
-4	8.81	1178123	1381884	Java	Chabs	
-4	8.8	1913525	1489600	C++	Drus_O	
-4	7.53	2762653	2305885	Javascript	RAAAT	
-4	7.31	3147366	2240653	Javascript	Kvazimodo	
-4	7.29	1854246	1319288	C++	Counterbalance	
-4	6.84	1192837	1309386	Rust	davidB	
-4	6.81	1711554	1882951	Java	Boboppe	
-4	6.54	1555142	2141153	C#	Thunderkill	
-4	5.9	2114852	1416770	C#	Riddlesly	
+4	11.2	1607791	1874075	C++	ildar_1988	
+4	11.04	1945348	1311039	C#	Lawyerson	
+4	10.77	1786654	1318240	C++	Masclins	
+4	9.33	1588269	1422201	Python3	Emptee	
+4	9.29	1913525	1489600	C++	Drus_O	
+4	8.91	1930837	1447005	Scala	dacr	
+4	8.73	1178123	1381884	Java	Chabs	
+4	7.95	2536589	2529907	Java	mjfcolas	
+4	7.84	2762653	2305885	Javascript	RAAAT	
+4	7.67	3147366	2240653	Javascript	Kvazimodo	
+4	7.23	1711554	1882951	Java	Boboppe	
+4	6.75	1854246	1319288	C++	Counterbalance	
+4	6.45	1192837	1309386	Rust	davidB	
+4	6.34	1555142	2141153	C#	Thunderkill	
+4	6.07	2114852	1416770	C#	Riddlesly	
 4	4.49	2128920	1489659	C++	BishBash	
-4	4.49	1206537	1387593	C++	MadKnight	
-4	4.49	1603437	1385227	C++	turtlebee	
-4	4.47	2179676	1489639	C++	Tzil	
-4	4.45	2128223	1489579	C++	rainbringer	
-4	4.44	1701043	1309304	C++	Qnu	
+4	4.44	1603437	1385227	C++	turtlebee	
 4	4.43	2178052	1489564	C++	NeonRift	
 4	4.43	1778230	1309284	C++	PauloMarco	
 4	4.43	1860953	1309398	C++	Miarem	
+4	4.42	2179676	1489639	C++	Tzil	
 4	4.41	2346323	1587319	Perl		
 4	4.4	2247254	1489635	C++	me222	
+4	4.4	2128223	1489579	C++	rainbringer	
+4	4.39	1206537	1387593	C++	MadKnight	
+4	4.38	1701043	1309304	C++	Qnu	
 4	4.35	1653731	1309249	Go	malud	
 4	4.29	593099	1437433	Java	Maldo	
 4	4.21	1747292	1309144	Swift	CodeReaper	
