@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2270,time=2019-10-08 00:30:07
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2270,time=2019-10-09 00:30:04
 5	31.63	1327028	2102329	C++	FredericBautista	
 5	30.82	1413236	511966	Go	Medici	
 5	30.32	1500515	2061718	C++	eulerscheZahl	
@@ -808,7 +808,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2270,time=2019-10-08 00:30:
 1	23.15	1053403	747446	C#	indomit	
 1	23.14	1463575	494417	Javascript	Kittenschnitzel	
 1	23.14	1155328	484493	Java	Disruption	
-1	23.14	1496034	599319	C++	Treb	
 1	23.11	1471739	506028	Python3	Kronus	
 1	23.11	1294592	575454	Javascript	tetesoulo	
 1	23.11	153927	510765	C++	Cubix	
@@ -817,6 +816,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2270,time=2019-10-08 00:30:
 1	23.09	846817	501778	C++	KENGURU	
 1	23.08	1676969	789328	Java	Louenes	
 1	23.08	614489	493173	C	Nazoum81	
+1	23.07	1496034	599319	C++	Treb	
 1	23.07	1250606	505533	C#	ERROR	
 1	23.07	1603310	713892	Java	yarwest	
 1	23.06	754792	906113	C++	Ramdeath	
@@ -945,6 +945,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2270,time=2019-10-08 00:30:
 1	22.69	1573009	679131	C++	Fibonacci-	
 1	22.68	1517119	1418573	Python3	anej	
 1	22.68	1668670	795097	C	lncubus	
+1	22.68	1502114	604645	C#	Sambock	
 1	22.68	1051649	491822	PHP	Elektordi	
 1	22.68	2133806	1428550	C++	Thechrist	
 1	22.67	1471382	570330	Python3	Andilutten	
@@ -965,7 +966,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2270,time=2019-10-08 00:30:
 1	22.63	2232686	1485237	C#	Goer	
 1	22.63	928305	624070	Javascript	JIrish	
 1	22.63	1842592	1261773	Python3	Ace57	
-1	22.63	2729630	2068358	Java	Halphas	
 1	22.63	1751460	942829	Java	Keylia	
 1	22.63	1499461	612784	Java	boeser_wolff	
 1	22.63	2085679	1486112	C#	ColtonGrimmesey	
@@ -983,7 +983,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2270,time=2019-10-08 00:30:
 1	22.61	1132217	495973	C++	Syhnnn	
 1	22.6	944783	571256	Java	evil_bunny	
 1	22.6	1116946	628892	Java	marhuero	
-1	22.6	1502114	604645	C#	Sambock	
 1	22.6	1860141	1217473	C++	ReturnQi	
 1	22.6	1719648	841849	C	Lilone	
 1	22.6	2422378	1771756	Javascript	C2H5OH	
@@ -999,3 +998,4 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2270,time=2019-10-08 00:30:
 1	22.58	1594820	884827	C++	Hyuga	
 1	22.58	915148	619650	C#	mbsff	
 1	22.57	1458472	488321	Python3	Platicopter	
+1	22.57	1460921	491838	Python3	suchintan	
