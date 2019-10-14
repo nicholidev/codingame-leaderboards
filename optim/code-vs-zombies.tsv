@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=4752,time=2019-10-09 00:30:19
+Score	UserID	Lang	Pseudo	#optim,count=4768,time=2019-10-14 00:30:23
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -17,8 +17,9 @@ Score	UserID	Lang	Pseudo	#optim,count=4752,time=2019-10-09 00:30:19
 649860	338469	C++	Sulaf	
 543500	1273065	C++	TheRadical	
 516590	1436776	C++	BrainSolver	
+505510	1549145	C++	Mealc	
 476060	1378958	C#	Illedan	
-466330	1629259	Java	Marchete	
+470760	1629259	Java	Marchete	
 463050	1607522	C++	RoboStac	
 458630	1826849	C++	Geplik	
 441200	638784	C++	Yqnn	
@@ -354,6 +355,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4752,time=2019-10-09 00:30:19
 64320	2212616	C#	KernelX	
 64310	153062	Java	Guian	
 64260	164640	C++	aaditya	
+64260	270881	Python3	Maurice_Moss	
 64260	481564	VB.NET	mihei	
 64260	536400	C++	Atmel	
 64260	818780	C++	bbodin01	
@@ -410,6 +412,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4752,time=2019-10-09 00:30:19
 64260	3418555	C++		
 64260	3418556	C++	minorikkuma	
 64260	3442915	C++	such	
+64260	3522643	C++	Dragon_Breath	
 64230	155928	PHP	pk	
 64230	855492	Go	Erk	
 64230	1095446	Python3	tarbomb	
@@ -462,7 +465,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4752,time=2019-10-09 00:30:19
 63460	152975	Java	Simona	
 63380	2251375	C++	nflores	
 63370	1620631	Python3	Testadicardi	
-63370	3235897	Java	DanielGorski	
+63370	3235897	Java	Zylo	
 63360	2671038	Python3	1one	
 63260	1586077	C	Rfulop	
 63250	1006340	C	Gamer-omar	
@@ -996,6 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=4752,time=2019-10-09 00:30:19
 54610	1663377	Java	FlavioF	
 54530	892436	C	Napak	
 54500	1689938	Java	Sharksorcist	
-54470	1022488	Python3	Ranisz	
-54450	1142952	Java	Solidstorm	
-54450	1368530	C#	Hassenplug	

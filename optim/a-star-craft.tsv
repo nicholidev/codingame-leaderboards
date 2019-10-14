@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=620,time=2019-10-09 00:30:17
+Score	UserID	Lang	Pseudo	#optim,count=621,time=2019-10-14 00:30:21
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
 11710	1500515	C#	eulerscheZahl	
@@ -265,7 +265,7 @@ Score	UserID	Lang	Pseudo	#optim,count=620,time=2019-10-09 00:30:17
 2939	783555	C#	Colin88	
 2916	2034153	C++	AdriZ	
 2908	1733593	Scala	Wei-1	
-2888	2687239	Go	iskren	
+2888	2687239	Go	baltilius	
 2887	795321	Java	berthy424	
 2853	2482615	Python3	Zenobia	
 2844	717456	Python3	BullsEye72	
@@ -419,7 +419,7 @@ Score	UserID	Lang	Pseudo	#optim,count=620,time=2019-10-09 00:30:17
 1055	490588	Python3	Uljahn	
 1053	513153	Python3	voidle	
 1053	1854639	PHP	iDxMeG	
-1053	3283518	Python3	vintrixom	
+1053	3283518	Python3		
 1048	3321578	C#	MathildeLav	
 1045	153962	Java	[CG]XorMode	
 1045	154906	D	JBM	
@@ -548,6 +548,7 @@ Score	UserID	Lang	Pseudo	#optim,count=620,time=2019-10-09 00:30:17
 1045	3328160	Python3	Mustapha.Boussebaine	
 1045	3339058	C++	Zaap38	
 1045	3342603	Python3	jeremybboy	
+1045	3353015	Python3	Salted	
 1045	3359119	Java		
 1045	3366314	C#	ya_erm	
 1045	3375329	Swift		
