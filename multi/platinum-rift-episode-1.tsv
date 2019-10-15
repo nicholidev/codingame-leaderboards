@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1783,time=2019-10-14 00:30:16
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1783,time=2019-10-15 00:30:15
 5	27.97	1629259	2493409	C++	Marchete	
 5	27.84	598532	1643690	Python	grmel	
 5	27.56	271873	1654422	C#	lionel_fr	
@@ -30,7 +30,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1783,time=2019-10-14 00:30:
 5	25.32	226528	1644325	Java	Manwe	
 5	25.31	583303	1643857	C#	vzverev	
 5	25.18	1500515	1654623	C#	eulerscheZahl	
-5	24.99	1034635	1857816	C++	[1A_design]SlyB	
+5	24.99	1034635	1857816	C++	SlyB	
 5	24.99	2288263	2409014	Rust	dbdr	
 5	24.95	837350	2406359	Python3	BorisZ	
 5	24.94	494104	1643686	C++	Recar	
@@ -745,7 +745,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1783,time=2019-10-14 00:30:
 3	17.83	2290633	1629938	Python3	field3	
 3	17.82	372352	1629880	C++	Maradona	
 3	17.8	523846	1629109	C#	Palmipedus	
-3	17.79	1335230	1655431	Java	[1A_design]jft63	
+3	17.79	1335230	1655431	Java	jft63	
 3	17.75	952784	1629567	C++	Simon21	
 3	17.72	626344	1630089	C#	Moadh	
 3	17.72	613926	1630099	C++	Keeyan	
