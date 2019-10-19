@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=62,time=2019-10-18 00:30:02
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=64,time=2019-10-19 00:30:02
 1	47.34	1607522	2498095	C++	RoboStac	
 1	41.17	351062	2508854	C++	Neumann	
 1	41.11	2924895	2508766	C	trictrac	
@@ -52,12 +52,14 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=62,time=2019-10-18 00:30:02
 1	2.91	1200905	2469727	Python3	OK2	
 1	-4.48	3076371	2484574	C++	Eucerin	
 1	-5.46	2981630	2493088	C++	cricri10000	
-0	16.49	2360690	2570480	Python3	Galrauch	
-0	16.05	3424660	2571835	Python3	Reg5	
-0	8.59	2508635	2469270	Java	hemhel	
-0	7.67	3462442	2478284	Javascript	Elgist	
-0	1.58	999637	2503005	Python3	dinobogan	
-0	1.45	3340505	2469389	Python3	dovg	
-0	0.17	2043908	2469862	Java	AntiSquid	
-0	0.15	3476645	2498122	Java	WinterIsCoding	
-0	0.09	1783604	2477054	C	Vry	
+0	24.8	3241188	2574631	Javascript	Sawa974	
+0	24.39	886483	2574496	C	R4N4R4M4	
+0	17.1	2360690	2570480	Python3	Galrauch	
+0	15.63	3424660	2571835	Python3	Reg5	
+0	8.5	2508635	2469270	Java	hemhel	
+0	6.66	3462442	2478284	Javascript	Elgist	
+0	0.59	999637	2503005	Python3	dinobogan	
+0	0.59	3340505	2469389	Python3	dovg	
+0	-0.14	1783604	2477054	C	Vry	
+0	-0.14	2043908	2469862	Java	AntiSquid	
+0	-0.16	3476645	2498122	Java	WinterIsCoding	
