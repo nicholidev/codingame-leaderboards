@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=623,time=2019-10-19 01:16:27
+Score	UserID	Lang	Pseudo	#optim,count=624,time=2019-10-20 01:06:22
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
 11710	1500515	C#	eulerscheZahl	
@@ -167,6 +167,7 @@ Score	UserID	Lang	Pseudo	#optim,count=623,time=2019-10-19 01:16:27
 5394	2000899	C#	GeoBlack	
 5370	765200	C#	FrancoisB	
 5359	1728288	C#	MOLP	
+5348	1335230	C++	jft63	
 5323	1372349	Java	NinjaDoggy	
 5317	1894833	Python3	Rimailleur	
 5311	607571	Scala	gfabre	
@@ -251,7 +252,6 @@ Score	UserID	Lang	Pseudo	#optim,count=623,time=2019-10-19 01:16:27
 3237	1903031	C++	hard-coded	
 3228	1201796	C#	P.Greze	
 3189	1480384	C++	RockyMullet	
-3155	1335230	C++	jft63	
 3142	808454	C++	.EagleDawn.	
 3126	704875	C#	XaY	
 3125	1861258	Go	Nazdhun	
@@ -593,6 +593,7 @@ Score	UserID	Lang	Pseudo	#optim,count=623,time=2019-10-19 01:16:27
 1010	3090475	Python3	katiepaige	
 1010	3245236	Java	gumast	
 1010	3303876	Python3	[CG]Wood	
+1010	3343665	Java	Quidome	
 1010	3424138	C	pepnou	
 1009	1372843	Java	djjeck	
 1006	1316609	C++	Autoboii92	
