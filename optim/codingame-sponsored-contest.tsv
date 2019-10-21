@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=9768,time=2019-10-20 01:06:24
+Score	UserID	Lang	Pseudo	#optim,count=9780,time=2019-10-21 01:09:54
 14337	329200	C++	BlitzProg	
 13603	1366631	Javascript	Morhaus	
 13285	1307473	C++	Evgenykz	
@@ -45,6 +45,7 @@ Score	UserID	Lang	Pseudo	#optim,count=9768,time=2019-10-20 01:06:24
 4326	1687754	Java	cg123	
 4318	1186273	Ruby	knacky	
 4292	154961	C#	[CPC]Foudge	
+4291	1114834	Python3	k4ng0u	
 4234	1372843	Java	djjeck	
 4197	545951	C++	AntonT	
 4175	1327273	Python3	softice	
@@ -82,7 +83,6 @@ Score	UserID	Lang	Pseudo	#optim,count=9768,time=2019-10-20 01:06:24
 3720	973040	C	papyjo	
 3666	1642926	C++	katabolh	
 3660	3035801	Python3	Geneo	
-3653	1114834	Python3	k4ng0u	
 3650	1348635	PHP	ferbos	
 3642	2350846	C++	DrBloodmoney	
 3641	154372	C++	Plopx	
@@ -449,6 +449,7 @@ Score	UserID	Lang	Pseudo	#optim,count=9768,time=2019-10-20 01:06:24
 2532	3442915	Python3	such	
 2532	3458070	Python3	Ulty	
 2532	3476530	Python3	nico.brs	
+2532	3526028	Python3	severrabaen	
 2528	1034635	C++	SlyB	
 2524	1443769	C#	weweno	
 2520	2014007	PHP	Louise-Francoise	
@@ -498,7 +499,9 @@ Score	UserID	Lang	Pseudo	#optim,count=9768,time=2019-10-20 01:06:24
 2386	1288865	C	codyboto	
 2384	973948	Python3	Amnesix	
 2380	1209562	C++	JohnnyYuge	
+2380	1674683	Python3	OrangeMug	
 2380	1692897	C++	Mingg	
+2378	2976964	Java	BenjaminUrquhart	
 2374	806157	C++	Aveuh	
 2374	2527243	Go	blackzaku	
 2368	1952325	Java	Boogeyman42	
@@ -857,6 +860,7 @@ Score	UserID	Lang	Pseudo	#optim,count=9768,time=2019-10-20 01:06:24
 1668	2682089	C++	BeardPete	
 1666	1609637	PHP	maxsk8fr	
 1664	1569596	C++	JamesYelton	
+1656	2826402	Java	1Alex	
 1648	863265	Java	Anaidel	
 1648	1058831	Java	Hikachu	
 1648	1223883	PHP	danproj	
@@ -904,7 +908,6 @@ Score	UserID	Lang	Pseudo	#optim,count=9768,time=2019-10-20 01:06:24
 1580	790131	Javascript	Mech	
 1580	1172896	C++	Alex.Tsitsura	
 1580	1373231	Python3	shypiguy	
-1580	2826402	Java	1Alex	
 1578	962569	Python3	[K]Gabor	
 1578	1432343	Python3	BlackFregat	
 1574	169033	Groovy	Yasser	
@@ -941,7 +944,6 @@ Score	UserID	Lang	Pseudo	#optim,count=9768,time=2019-10-20 01:06:24
 1516	913867	Python3	marcangel	
 1516	1572711	C#	MiVo	
 1516	1973073	Ruby		
-1512	2976964	Java	BenjaminUrquhart	
 1510	272438	Python3	mullerfr	
 1510	530441	C++	Prime541	
 1510	855230	Python3	JordyH	
@@ -993,9 +995,7 @@ Score	UserID	Lang	Pseudo	#optim,count=9768,time=2019-10-20 01:06:24
 1444	1414648	C++		
 1440	1335590	C++	sztmbr	
 1436	407550	Javascript	McHail	
-1432	806823	C	Zer0	
+1432	946870	Java	Radenko	
 1432	950027	Java	Enleur	
 1432	1007143	Javascript	Hertje	
 1432	1072750	Python3	Shiki	
-1432	1131154	Python3	FoXiCZEk	
-1432	1707377	PHP	Colgate-Blancheur	
