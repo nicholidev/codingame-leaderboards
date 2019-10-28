@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2286,time=2019-10-27 00:30:06
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2286,time=2019-10-28 00:30:04
 5	31.71	1327028	2102329	C++	FredericBautista	
 5	30.58	1413236	511966	Go	Medici	
 5	30.29	1500515	2061718	C++	eulerscheZahl	
@@ -789,7 +789,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2286,time=2019-10-27 00:30:
 1	23.25	1481265	551811	Python3	erdnaxe42	
 1	23.24	1379639	629719	Rust	Bluesk13s	
 1	23.23	1472964	562536	C#	fnudd	
-1	23.23	1409204	487289	Javascript	Ricco7La	
 1	23.23	1397268	2454349	C	RTLB	
 1	23.23	1195394	593115	Python3	Larnak	
 1	23.23	855824	482080	Python3	VoxMortem	
@@ -833,6 +832,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2286,time=2019-10-27 00:30:
 1	23.06	754792	906113	C++	Ramdeath	
 1	23.06	1509251	2318409	C#	OmikoGaming	
 1	23.05	1405775	570996	C	Yiminjune	
+1	23.05	1409204	487289	Javascript	Ricco7La	
 1	23.04	1393911	501141	Javascript	neal_s	
 1	23.03	1472464	507333	Javascript	und3fined	
 1	23.03	1442814	1848811	C++	RedXam	
@@ -960,7 +960,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2286,time=2019-10-27 00:30:
 1	22.65	1154159	499132	C++	MaximePm	
 1	22.65	1501413	603380	C++	Aergon	
 1	22.65	1656386	760825	C++	miszczu	
-1	22.65	1175533	668846	Javascript	Hari87	
 1	22.65	1445241	495925	Javascript	Trial-by-fire	
 1	22.65	1331444	482332	C#	leglore	
 1	22.65	1472234	512253	C#	Filip.Lada	
@@ -999,3 +998,4 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2286,time=2019-10-27 00:30:
 1	22.59	733395	500367	C++	marinaoctober	
 1	22.59	1427326	483962	Lua	FrozenFlaming	
 1	22.59	509617	493272	Javascript	yamahamm	
+1	22.59	1324097	736974	Java	niak75	
