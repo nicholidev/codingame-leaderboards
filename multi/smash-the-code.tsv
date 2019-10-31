@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2286,time=2019-10-30 00:30:04
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2287,time=2019-10-31 00:30:04
 5	31.71	1327028	2102329	C++	FredericBautista	
 5	30.58	1413236	511966	Go	Medici	
 5	30.29	1500515	2061718	C++	eulerscheZahl	
@@ -834,6 +834,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2286,time=2019-10-30 00:30:
 1	23.05	1405775	570996	C	Yiminjune	
 1	23.05	1409204	487289	Javascript	Ricco7La	
 1	23.04	1393911	501141	Javascript	neal_s	
+1	23.04	1355097	746657	Javascript	Manos	
 1	23.03	1472464	507333	Javascript	und3fined	
 1	23.03	1442814	1848811	C++	RedXam	
 1	23.02	1556368	720140	Javascript	ATA_	
@@ -850,7 +851,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2286,time=2019-10-30 00:30:
 1	22.98	1404527	488144	Javascript	Bastiboy	
 1	22.98	224988	506945	Python	DerPferd	
 1	22.98	162982	1122658	Python3	Dami-e	
-1	22.97	1355097	746657	Javascript	Manos	
 1	22.96	1517028	936212	Python3	Nicau	
 1	22.95	549396	494294	Javascript	GoossensPi	
 1	22.94	215395	502717	Python3	Enknable	
@@ -905,6 +905,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2286,time=2019-10-30 00:30:
 1	22.78	1485377	578484	Javascript	faquarl	
 1	22.78	1512821	630661	C#	tiredknees	
 1	22.78	1661081	763842	C++	Melokay	
+1	22.77	1638419	752598	C	Quent21	
 1	22.77	1263862	646541	Python3	Palermo	
 1	22.77	1505665	622783	Python3	NicolasGrosjean	
 1	22.77	2548707	2226397	Javascript	notliam	
@@ -939,7 +940,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2286,time=2019-10-30 00:30:
 1	22.7	2285360	1505940	Javascript	Tatyana	
 1	22.7	1075687	615127	Java	elefank	
 1	22.69	1078446	668296	C++	[CPC]Madgic	
-1	22.69	1638419	752598	C	Quent21	
 1	22.69	1573009	679131	C++	Fibonacci-	
 1	22.68	1668670	795097	C	lncubus	
 1	22.68	1269827	642071	Java	bcourtine	
@@ -976,6 +976,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2286,time=2019-10-30 00:30:
 1	22.63	1463578	494529	Javascript	MarkusMulkahainen	
 1	22.63	2232686	1485237	C#	Goer	
 1	22.63	928305	624070	Javascript	JIrish	
+1	22.63	1600351	687536	Python	rmark	
 1	22.63	1842592	1261773	Python3	Ace57	
 1	22.63	1439371	505383	Python3	Irnakk	
 1	22.63	1489646	579030	C++	eaglet	
@@ -998,4 +999,3 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2286,time=2019-10-30 00:30:
 1	22.59	733395	500367	C++	marinaoctober	
 1	22.59	1427326	483962	Lua	FrozenFlaming	
 1	22.59	509617	493272	Javascript	yamahamm	
-1	22.59	1324097	736974	Java	niak75	
