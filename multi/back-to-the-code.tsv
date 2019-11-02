@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4579,time=2019-11-01 00:30:12
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4581,time=2019-11-02 01:03:25
 0	46.75	1433161	1484525	C	Mingu	
 0	45.71	494104	455215	C++	Recar	
 0	45.58	990110	357643	C++	Rogerup	
@@ -39,11 +39,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4579,time=2019-11-01 00:30:
 0	41.73	3211735	2307448	C++	Fireballl	
 0	41.7	1369177	622526	C++	PernicN	
 0	41.57	1407621	455279	C++	Taohbi	
+0	41.48	1061242	366483	C++	Csipcsirip	
 0	41.48	620448	357152	C++	AB	
 0	41.48	786597	358310	Python3	Fabien	
 0	41.48	1100752	923525	C++	ValNykol	
 0	41.48	162982	1121100	C++	Dami-e	
-0	41.46	1061242	366483	C++	Csipcsirip	
 0	41.46	1206363	369708	C++	DimitarMinchev	
 0	41.45	1390607	1126210	C++	GoperJohn	
 0	41.44	854169	1575126	C++	Silmaen	
@@ -99,8 +99,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4579,time=2019-11-01 00:30:
 0	39	1664044	2116210	C++	BUG	
 0	38.99	873809	1874597	C++	Lucky92	
 0	38.98	2114863	1754493	C++	QWERTy	
+0	38.98	2378983	2079400	C++	jonip	
 0	38.94	1467504	498709	C++	rev.cho	
-0	38.94	2378983	2079400	C++	jonip	
 0	38.93	1043582	342625	C	Nikos	
 0	38.92	1073397	890427	C++	Calsmurf2904	
 0	38.91	2981223	2146946	C++	TH0RAN	
@@ -334,7 +334,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4579,time=2019-11-01 00:30:
 0	35.12	815677	353101	Haskell	icetonic	
 0	35.1	1093968	968670	Java	milosMATRIXrepic	
 0	35.08	372352	351937	Java	Maradona	
-0	35.06	1066742	345568	Python	askywhale	
+0	35.04	1066742	345568	Python	askywhale	
 0	35.03	1014658	354306	Ruby	ZZzzZZ	
 0	35	882162	594021	C#	Catarinao	
 0	35	715431	349514	Javascript	G3r0	
@@ -369,10 +369,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4579,time=2019-11-01 00:30:
 0	34.44	975039	339959	Java	meooow	
 0	34.43	948827	354998	Python	kieranvs	
 0	34.42	1038437	354577	Python3	dbur	
-0	34.42	1039456	343728	C++	nikokolas	
 0	34.41	704875	353003	C#	XaY	
 0	34.41	593099	406417	Python3	Maldo	
 0	34.41	988601	357485	C++	Den818	
+0	34.4	1039456	343728	C++	nikokolas	
 0	34.39	1625108	797319	Python	graphite	
 0	34.39	420835	356520	Python	Ishkulov	
 0	34.39	765200	350611	C#	FrancoisB	
@@ -833,7 +833,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4579,time=2019-11-01 00:30:
 0	30.57	890975	341714	Javascript	e9	
 0	30.53	154395	341815	C#	azedrummer	
 0	30.49	1121485	364728	C++	Dowan	
-0	30.47	880353	1394154	C++	zasmu	
+0	30.48	880353	1394154	C++	zasmu	
 0	30.47	619211	348432	Java	Thrain	
 0	30.47	1261028	370644	C#	asdf.	
 0	30.46	809428	352929	Scala	Andonescu	
