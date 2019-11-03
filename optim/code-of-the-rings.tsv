@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3280,time=2019-11-02 01:03:33
+Score	UserID	Lang	Pseudo	#optim,count=3281,time=2019-11-03 00:59:46
 2792	2316796	PHP	Psio	
 2793	1485989	Python3	ReActiveNZ	
 2806	2288263	Java	dbdr	
@@ -256,6 +256,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3280,time=2019-11-02 01:03:33
 4558	2726969	Ruby	alokhmutov	
 4592	2567580	C++	veryRandom	
 4599	1245791	Python3	Bad_Wolf	
+4609	865548	Python3	Kktus	
 4612	155887	Javascript	BanBan	
 4615	1072200	C	alze	
 4617	943556	C++	DollarAkshay	
@@ -801,6 +802,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3280,time=2019-11-02 01:03:33
 5954	1764618	C++	ave99	
 5955	3230824	C++	blenderfan	
 5956	992891	Go		
+5957	2837454	Java	Inc_	
 5959	1008096	C	StekiKun	
 5960	297641	Java	Blue_Rabbit	
 5960	308188	C++	Azimov	
@@ -823,7 +825,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3280,time=2019-11-02 01:03:33
 5960	1770322	C#	Mr_Sanya	
 5960	1777705	Python3	au2001	
 5960	2422378	Javascript	C2H5OH	
-5960	2837454	Java	Inc_	
 5962	235663	Scala	MicheleM	
 5962	417433	C++	Oakos	
 5962	825231	Go	tumbudu	
@@ -984,7 +985,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3280,time=2019-11-02 01:03:33
 6001	1220528	Java	alexthi94	
 6001	1220859	C++	GAB	
 6001	1232851	PHP	docl	
-6001	1235239	Java	Dhorv	
 6001	1251381	Java	ZepHead	
 6001	1258539	C++	Stojk	
 6001	1260409	C#	SniperMonkeyX	

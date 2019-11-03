@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4581,time=2019-11-02 01:03:25
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4581,time=2019-11-03 00:59:37
 0	46.75	1433161	1484525	C	Mingu	
 0	45.71	494104	455215	C++	Recar	
 0	45.58	990110	357643	C++	Rogerup	
@@ -82,9 +82,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4581,time=2019-11-02 01:03:
 0	39.88	1001096	348402	C#	MyIIone	
 0	39.84	2350846	2338958	C++	DrBloodmoney	
 0	39.83	1017169	346143	C#	bLasT	
+0	39.64	1034338	342969	Python	Galilleos	
 0	39.62	1289001	390758	C++		
 0	39.62	947892	414997	C++	ZachAttackary	
-0	39.6	1034338	342969	Python	Galilleos	
 0	39.57	320053	351116	PHP	Zbug	
 0	39.32	1052271	362037	C#	Bleash	
 0	39.25	841085	339404	C#	Risen	
@@ -311,10 +311,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4581,time=2019-11-02 01:03:
 0	35.49	153683	2487762	Dart	40R15T3	
 0	35.47	393267	354450	C#	M-Graf	
 0	35.46	389632	351320	Python	ma	
-0	35.46	1353669	520665	Python3	XAnimaX	
 0	35.43	1181853	2120265	Python3	joha	
 0	35.43	1378399	610995	Python3	DN38416	
 0	35.43	153057	744215	PHP	PierralF	
+0	35.43	1353669	520665	Python3	XAnimaX	
 0	35.42	976686	600977	C++	a_aly_saeed	
 0	35.42	1034042	357837	Java	dungeon_master	
 0	35.4	264258	350229	Python3	MrFlibble	
@@ -510,6 +510,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4581,time=2019-11-02 01:03:
 0	33.49	927873	350372	C	Charlot67	
 0	33.48	1035283	346552	Python	G	
 0	33.47	1302858	379987	C	Quinton	
+0	33.47	617638	339705	Python3	jcampion	
 0	33.46	977819	352850	C++	Groxx	
 0	33.46	783337	349922	Java	Dewey	
 0	33.46	1070477	382458	Java	Stirius	
@@ -519,7 +520,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4581,time=2019-11-02 01:03:
 0	33.44	511125	350973	C#	Arrekin	
 0	33.43	1047061	342478	Java	ThePiti85	
 0	33.43	1145498	364197	Java	Mouseas	
-0	33.43	617638	339705	Python3	jcampion	
 0	33.43	984260	349554	Go	KapitanOwies	
 0	33.42	523170	339305	C	Pierromagien	
 0	33.41	1058831	521920	C	Hikachu	
@@ -968,12 +968,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4581,time=2019-11-02 01:03:
 0	29.52	955253	350724	Javascript	jackbarrett	
 0	29.44	1255613	370911	Python3	GreenShadow	
 0	29.43	1052506	343594	Java	mnementh	
-0	29.43	1225405	370734	C#	Flailgull	
 0	29.42	779372	356468	C++	ncin	
 0	29.4	314562	2579090	C++	Mechar	
 0	29.39	658368	357749	Perl	bewuethr	
 0	29.39	1063635	351875	Javascript		
 0	29.38	1378648	416735	C++	AKA_Steve	
+0	29.36	1225405	370734	C#	Flailgull	
 0	29.35	2990918	2572150	Javascript	Dingodino	
 0	29.34	569002	345963	Java	Maan	
 0	29.31	1375434	415305	PHP	JimPapadakis	
