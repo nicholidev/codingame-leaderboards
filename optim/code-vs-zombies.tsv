@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=4827,time=2019-11-03 00:59:44
+Score	UserID	Lang	Pseudo	#optim,count=4829,time=2019-11-04 00:41:42
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -24,11 +24,11 @@ Score	UserID	Lang	Pseudo	#optim,count=4827,time=2019-11-03 00:59:44
 458630	1826849	C++	Geplik	
 441200	638784	C++	Yqnn	
 436580	1307473	C++	Evgenykz	
+388780	1485690	C++	Kikoo	
 363400	1786654	C++	Masclins	
 358130	2242201	C++	Maryan	
 349860	1106450	C++	RiSuS	
 346990	1479930	C++	LeRenard	
-322560	1485690	C++	Kikoo	
 319900	1756952	C++	Petras	
 317110	1064903	C++	Ghirtor	
 315410	1854246	C++	Counterbalance	
@@ -119,7 +119,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4827,time=2019-11-03 00:59:44
 177630	1990099	Java	JackDaniel1	
 177190	2470677	C++	Goujon	
 177130	1646165	Python3	CasperHagenaars	
-177030	2451652	Java	_DeadCode_	
+177030	2451652	Java	code_of_the_dead	
 174650	1412140	C++	CyrilMtl	
 173880	1164242	Java	Andry_	
 173740	1488793	Python3	kerloic	
@@ -616,6 +616,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4827,time=2019-11-03 00:59:44
 61180	1180435	Java	IlyaPv	
 61170	1131056	Java	louspawn10	
 61170	1527477	Java	ZamNach	
+61160	3488041	Go	KodeMonkey	
 61140	1949438	Javascript	xtrafrancyz	
 61120	1080837	C++	ktg	
 61120	1222091	Java	val	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=4827,time=2019-11-03 00:59:44
 54880	198916	Java	WhatTrickeryIsThis	
 54880	1262161	Python3	gochit	
 54870	1492308	VB.NET	XenType	
-54860	2661589	F#	LePelicanFushia	
