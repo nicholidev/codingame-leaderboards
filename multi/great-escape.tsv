@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3512,time=2019-11-05 00:31:46
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3512,time=2019-11-06 00:30:05
 5	35.89	1629259	2238218	C++	Marchete	
 5	33.63	494104	960105	C++	Recar	
 5	32.07	818534	960075	C++	Ixanezis	
@@ -810,9 +810,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3512,time=2019-11-05 00:31:
 3	25.44	1106450	971809	C++	RiSuS	
 3	25.43	1364613	937940	Java	DudeXIII	
 3	25.42	2514712	1772105	C#	Shiranji	
+3	25.41	840401	937966	Bash	pedrosorio	
 3	25.4	276099	937854	C++	R1	
 3	25.38	833429	937527	Scala	ldrygala	
-3	25.38	840401	937966	Bash	pedrosorio	
 3	25.36	372001	938127	Python3	Soom	
 3	25.33	827757	1427158	C#	swoog	
 3	25.33	834043	937997	C#	Benoit74B	
@@ -840,12 +840,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3512,time=2019-11-05 00:31:
 3	25.05	2213167	1503868	Java	Camillie	
 3	25.04	871430	937581	Java	Arkandias	
 3	24.97	817812	937892	C++	hiro00	
+3	24.94	1480384	963493	C++	RockyMullet	
 3	24.94	1015020	937887	C#	Scepheo	
 3	24.92	824766	937452	Java	knard	
 3	24.9	153953	937631	C++	brendel	
 3	24.87	1566335	1492935	Java	BeardedWhale	
 3	24.86	1688887	958727	C#	Kryptum	
-3	24.86	1480384	963493	C++	RockyMullet	
 3	24.85	1045485	937636	Java	Jessie	
 3	24.83	3101644	2482638	Java	Tocus	
 3	24.81	586906	937880	Java	tetonator	
@@ -864,7 +864,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3512,time=2019-11-05 00:31:
 3	24.5	915957	937963	C	Tux	
 3	24.34	1933924	1313925	Java	nomader	
 3	24.3	379413	937511	Java	Willim_1985	
-3	24.3	1564309	1473450	Javascript	gravitypx	
+3	24.25	1564309	1473450	Javascript	gravitypx	
 3	24.16	990496	1667740	Python	Harlequin	
 3	24.11	808446	937943	Java	Bev	
 3	24.1	995896	937969	C#	Ro9	
