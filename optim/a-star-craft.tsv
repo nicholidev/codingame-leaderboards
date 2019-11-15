@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=636,time=2019-11-14 00:50:02
+Score	UserID	Lang	Pseudo	#optim,count=637,time=2019-11-15 00:58:12
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
 11710	1500515	C#	eulerscheZahl	
@@ -122,6 +122,7 @@ Score	UserID	Lang	Pseudo	#optim,count=636,time=2019-11-14 00:50:02
 7327	153683	Java	40R15T3	
 7258	788361	C++	Bob	
 7241	153057	PHP	PierralF	
+7205	2115491	Go	Haashi	
 7189	1206537	C++	MadKnight	
 7089	2490008	C++	ebicochineal	
 6965	1178276	Java	Jerome_95	
@@ -187,7 +188,6 @@ Score	UserID	Lang	Pseudo	#optim,count=636,time=2019-11-14 00:50:02
 4761	1420817	Javascript	TheMagicShop	
 4732	880353	C++	zasmu	
 4717	1727535	C#	qr-3	
-4716	2115491	Go	Haashi	
 4712	1479137	C++	lorenzods	
 4683	2155687	Kotlin	NilsTheWizzard	
 4667	1415498	C++	Kirich	
@@ -535,6 +535,7 @@ Score	UserID	Lang	Pseudo	#optim,count=636,time=2019-11-14 00:50:02
 1045	2934744	C++	INF3RNO	
 1045	2938612	C++	lakhcen	
 1045	2952263	Python3	RenSuzaku	
+1045	2968035	C++	DomiKo	
 1045	2977626	Python3	Sandell0	
 1045	3005530	C#	Gnart	
 1045	3020707	C++	yannch	
