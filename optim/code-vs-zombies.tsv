@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=4849,time=2019-11-15 00:58:14
+Score	UserID	Lang	Pseudo	#optim,count=4853,time=2019-11-16 00:38:11
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -25,6 +25,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4849,time=2019-11-15 00:58:14
 441200	638784	C++	Yqnn	
 436580	1307473	C++	Evgenykz	
 388780	1485690	C++	Kikoo	
+385600	2786666	C++	TetraktysPhi	
 363400	1786654	C++	Masclins	
 358130	2242201	C++	Maryan	
 349860	1106450	C++	RiSuS	
@@ -216,7 +217,6 @@ Score	UserID	Lang	Pseudo	#optim,count=4849,time=2019-11-15 00:58:14
 103260	2043908	Java	AntiSquid	
 103170	1715243	Java	Zerfa	
 103080	873958	C#	cheeser	
-103000	2786666	C++	TetraktysPhi	
 101580	1053198	Python3	ProfessorWolf	
 100930	1854639	PHP	iDxMeG	
 100730	1140027	Ruby	theBee	
@@ -538,6 +538,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4849,time=2019-11-15 00:58:14
 62610	2207458	C#	GoodAlex	
 62590	3418530	Python3		
 62550	558770	Java	lD	
+62550	3559724	Javascript	dan_the_bloke	
 62540	1431710	Java	Thorb	
 62540	1537302	Python3	SMyalski	
 62540	1934314	Java	Leech2120	
@@ -677,6 +678,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4849,time=2019-11-15 00:58:14
 60330	212028	Java	GHenry	
 60310	962108	Java	fred-godard	
 60300	1735693	Java	superbob	
+60300	3564009	Lua	Waffle3z	
 60280	995238	Lua	Pyvain	
 60250	1142942	Javascript	Aquamoth	
 60240	448698	Python3	Makz	
@@ -997,5 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=4849,time=2019-11-15 00:58:14
 55090	2504954	Rust	thumphreys	
 55070	369900	Java	Guigeek	
 55050	762451	Javascript	Adriensas	
-55040	1225445	Python3	Lentaq	
-55030	2463909	Java	ckobayashi	
