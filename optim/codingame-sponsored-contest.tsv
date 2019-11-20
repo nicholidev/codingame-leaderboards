@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=9945,time=2019-11-19 00:37:27
+Score	UserID	Lang	Pseudo	#optim,count=9951,time=2019-11-20 00:50:00
 14337	329200	C++	BlitzProg	
 13603	1366631	Javascript	Morhaus	
 13285	1307473	C++	Evgenykz	
@@ -145,6 +145,7 @@ Score	UserID	Lang	Pseudo	#optim,count=9945,time=2019-11-19 00:37:27
 3064	1841051	Python3	Alpacah	
 3060	1203590	Javascript	al1	
 3048	172938	PHP	kuzmaka	
+3040	3361496	Python3	SnowCat29	
 3031	1794108	C++	Jeric	
 3030	1479137	PHP	lorenzods	
 3027	3340387	Java	lambdamu	
@@ -154,7 +155,6 @@ Score	UserID	Lang	Pseudo	#optim,count=9945,time=2019-11-19 00:37:27
 3012	990110	C++	Rogerup	
 3008	1205052	Clojure	Hc232	
 3002	1748899	C#	sometime-sniff	
-3002	3361496	Python3	SnowCat29	
 3000	920987	C#	redna70	
 2996	3002086	C++	Mercy38	
 2996	3489712	C	VIS81	
@@ -165,6 +165,7 @@ Score	UserID	Lang	Pseudo	#optim,count=9945,time=2019-11-19 00:37:27
 2984	999926	C#	SkyyStorm	
 2978	881390	C#		
 2975	832306	C++	pb4	
+2956	953094	Python3	Witman	
 2952	808446	Java	Bev	
 2951	1492070	Ruby		
 2945	3521631	C#	Bamboozled2	
@@ -219,7 +220,6 @@ Score	UserID	Lang	Pseudo	#optim,count=9945,time=2019-11-19 00:37:27
 2706	802230	Java	Orabig	
 2702	833606	Java	mattrero	
 2701	941805	PHP	losGismos	
-2696	953094	Python3	Witman	
 2694	1630890	Java	Wld	
 2694	1954942	C++	H.Potamus	
 2686	1305374	C#	Frankich	
@@ -753,6 +753,7 @@ Score	UserID	Lang	Pseudo	#optim,count=9945,time=2019-11-19 00:37:27
 1924	668906	Java	Sandworm	
 1924	1017944	C#	Werewolf	
 1922	792813	Python3	VilBoub	
+1922	911974	Lua	Manzazuu	
 1920	2176877	C++	pasymows	
 1920	2327967	Ruby	Karocyt	
 1916	937362	Dart	josh_	
@@ -849,7 +850,6 @@ Score	UserID	Lang	Pseudo	#optim,count=9945,time=2019-11-19 00:37:27
 1742	991262	C#	J3r03n	
 1742	1372965	Python3	Crabar	
 1742	1625378	PHP	Mustafa_Kamel_saied	
-1740	911974	C++	Manzazuu	
 1740	1082806	Python3	LowSkill	
 1738	892436	C++	Napak	
 1738	2238312	Javascript	Etalix	
