@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4582,time=2019-11-20 00:49:52
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4583,time=2019-11-21 00:30:15
 0	46.75	1433161	1484525	C	Mingu	
 0	45.71	494104	455215	C++	Recar	
 0	45.58	990110	357643	C++	Rogerup	
@@ -49,7 +49,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4582,time=2019-11-20 00:49:
 0	41.44	854169	1575126	C++	Silmaen	
 0	41.42	569223	345550	Javascript	Glutamatt	
 0	41.38	995463	1266072	C++	Carmen	
-0	41.37	1000778	352558	Python	Aishuu	
+0	41.36	1000778	352558	Python	Aishuu	
 0	41.36	1022926	349392	Python3	_BC_	
 0	41.34	1195934	1611063	C++	odinmillion	
 0	41.31	1201796	885252	C++	P.Greze	
@@ -503,8 +503,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4582,time=2019-11-20 00:49:
 0	33.53	792813	356355	Python3	VilBoub	
 0	33.52	566909	346113	Python	the_travelling-salesman	
 0	33.51	1020325	342056	C	Gon	
-0	33.51	153965	806714	Python3	Keelhaul	
 0	33.51	760921	349645	VB.NET	Skleroz	
+0	33.5	153965	806714	Python3	Keelhaul	
 0	33.5	1907409	1821847	Java	coffee_machine	
 0	33.49	369018	452292	C++	Bnc	
 0	33.49	927873	350372	C	Charlot67	
@@ -936,8 +936,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4582,time=2019-11-20 00:49:
 0	29.82	523322	344918	C++	cocodrips	
 0	29.82	1065546	355994	C++		
 0	29.81	440476	882767	Ruby	yowa	
-0	29.8	627256	382863	C++	LeNiglo	
 0	29.8	153698	362343	Java	obourgain	
+0	29.8	627256	382863	C++	LeNiglo	
 0	29.79	1399102	416743	C#	Awesomenesser	
 0	29.79	1939395	1888427	C++	Feburas	
 0	29.79	939325	356999	C++	Olivr	
