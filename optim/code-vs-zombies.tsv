@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=4880,time=2019-11-25 00:34:44
+Score	UserID	Lang	Pseudo	#optim,count=4883,time=2019-11-26 00:30:23
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -71,12 +71,14 @@ Score	UserID	Lang	Pseudo	#optim,count=4880,time=2019-11-25 00:34:44
 222240	1201796	ObjectiveC	P.Greze	
 220500	2924895	C	trictrac	
 219310	992329	C++	BeeGee	
+219310	1944142	C++	yakalir	
 219170	1734105	C++	Bibou	
 217000	1173064	C#	a.oryol	
 215220	1753077	C++	codingWhale	
 213710	1705689	Java	XanX3601	
 212920	1284747	C++	mr-push	
 212910	1500515	C#	eulerscheZahl	
+212520	1109979	C++	Gloopy	
 212000	1754295	C++	SF	
 209850	1845617	C++	Shingyx	
 209700	1341520	C	egaetan	
@@ -108,7 +110,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4880,time=2019-11-25 00:34:44
 190490	2154217	Java	EliasCanalesNieto	
 189260	1238934	C++	accorp	
 188380	1041619	Java	ryguyfiveatgmaildotcom	
-186560	154388	C++	WORST_DEV_EVER	
+186560	154388	C++	PonyPonyCodeCode	
 185620	2212283	C++	ElieK	
 185110	1122412	Java	TheNinja	
 183930	1114834	Python3	k4ng0u	
@@ -211,6 +213,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4880,time=2019-11-25 00:34:44
 108920	2719604	Python3	vpoulailleau	
 108720	937362	Javascript	josh_	
 108560	947230	C++	gupascal	
+108280	3055749	Go	MatLeChacal	
 108120	3387072	Javascript		
 108070	1131250	Perl	Jooo	
 106100	857521	C#	MrAnderson	
@@ -480,7 +483,6 @@ Score	UserID	Lang	Pseudo	#optim,count=4880,time=2019-11-25 00:34:44
 63370	1620631	Python3	Testadicardi	
 63370	3235897	Java	Zylo	
 63360	2671038	Python3	1one	
-63310	3055749	Go	MatLeChacal	
 63260	1586077	C	Woomb	
 63250	1006340	C	Gamer-omar	
 63240	1527062	Javascript	dst	
@@ -997,5 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=4880,time=2019-11-25 00:34:44
 55190	2407189	C++	Teuchteu	
 55180	3413494	Java	SamStark64	
 55140	1703384	Javascript	ChristopherKoch	
-55130	1353101	Python3	Gnuroux	
-55120	858690	C#	Lumy	
