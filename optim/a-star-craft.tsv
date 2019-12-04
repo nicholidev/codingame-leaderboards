@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=645,time=2019-12-03 00:32:24
+Score	UserID	Lang	Pseudo	#optim,count=647,time=2019-12-04 00:30:20
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
 11710	1500515	C#	eulerscheZahl	
@@ -236,7 +236,7 @@ Score	UserID	Lang	Pseudo	#optim,count=645,time=2019-12-03 00:32:24
 3602	2006324	Python3	SihardeOussama	
 3602	2449144	Python3	Squiki	
 3602	2644772	Python3	Airwaito	
-3602	3326844	Python3	asdasdasddsa	
+3602	3326844	Python3		
 3596	1433688	C++	Geropy	
 3573	1920644	C++	Skygge	
 3563	224325	Scala	TidyMaze	
@@ -466,6 +466,7 @@ Score	UserID	Lang	Pseudo	#optim,count=645,time=2019-12-03 00:32:24
 1045	1425182	Javascript	Dipucian	
 1045	1470606	Haskell	WilQu	
 1045	1480242	Python3	daniel83fr	
+1045	1525821	C#	Jeroo	
 1045	1552764	Python3	466f7272657374	
 1045	1564223	Haskell	RhubarbStefan	
 1045	1657175	C++	swarosi	
@@ -548,6 +549,7 @@ Score	UserID	Lang	Pseudo	#optim,count=645,time=2019-12-03 00:32:24
 1045	3072215	Javascript	klourenco	
 1045	3100079	C++	MoWu	
 1045	3120239	Python3		
+1045	3160962	Python3	Aygalic	
 1045	3162715	Javascript		
 1045	3177616	Python3	kawacchu	
 1045	3191647	C#	Gann4Life	
