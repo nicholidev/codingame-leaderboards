@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3526,time=2019-12-05 00:46:33
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3526,time=2019-12-06 00:30:05
 5	35.89	1629259	2238218	C++	Marchete	
 5	33.63	494104	960105	C++	Recar	
 5	32.07	818534	960075	C++	Ixanezis	
@@ -749,7 +749,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3526,time=2019-12-05 00:46:
 3	28.37	2923506	2574761	C++	darkhorse64	
 3	27.87	925956	2597809	C++	Rentus	
 3	27.13	809643	937701	C#	Magicyo	
-3	26.99	3435738	2588910	C++	Resiakedrom	
+3	27.08	3435738	2588910	C++	Resiakedrom	
 3	26.98	884874	1627758	C	Zauberer	
 3	26.98	1304434	937704	Java	MP-63	
 3	26.96	1926322	1212463	Java	ANewHope2017	
@@ -801,8 +801,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3526,time=2019-12-05 00:46:
 3	26.16	316274	937555	Python	grivin	
 3	26.14	440476	937946	Ruby	yowa	
 3	26.1	330929	937993	Java	shilov	
-3	26.05	855492	937509	Go	Erk	
 3	26.03	816229	1121050	Python	Gamadzila	
+3	25.9	855492	937509	Go	Erk	
 3	25.73	1968818	2128346	C++	TeamTurtle	
 3	25.65	1667366	937865	C	Rasky	
 3	25.64	473750	937999	Java	xiorcal	
@@ -816,7 +816,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3526,time=2019-12-05 00:46:
 3	25.43	842286	937929	Scala	KaliZoy	
 3	25.43	276099	937854	C++	R1	
 3	25.42	1495642	1417921	Javascript	AtomCrafty	
-3	25.38	2590149	2422475	Python3	GoofyGas	
+3	25.4	2590149	2422475	Python3	GoofyGas	
 3	25.37	569247	2062387	Python3	LaurentBouvier	
 3	25.36	2455124	2475576	C	Agiordan	
 3	25.35	937221	1434790	Java	vrampal	
@@ -874,8 +874,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3526,time=2019-12-05 00:46:
 3	24.18	379413	937511	Java	Willim_1985	
 3	24.18	1933924	1313925	Java	nomader	
 3	24.1	3289937	2324831	Java	TheAgents	
-3	24	1268618	958621	Java	Barnou	
-3	24	1437352	937420	C++	lextase	
 3	24	1112730	963186	Python3	lifchicker	
 3	23.99	1774677	1407544	C++	foufou120	
 3	23.96	1069340	937952	C++	Diler	
@@ -883,15 +881,17 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3526,time=2019-12-05 00:46:
 3	23.91	614974	937967	C++	Einstein_Division	
 3	23.88	507538	2128754	C++	Krzybe	
 3	23.87	816299	937426	Python	oawdodiffj	
+3	23.86	1437352	937420	C++	lextase	
 3	23.81	990496	1667740	Python	Harlequin	
 3	23.8	807211	937644	C#	MohamedHamed	
 3	23.78	1655199	1633429	C#	Kobzar	
 3	23.78	153674	938600	C	GQMP	
+3	23.75	1268618	958621	Java	Barnou	
 3	23.69	1630890	1308306	Java	Wld	
 3	23.55	301505	937956	Java	Gaotir	
 3	23.5	911777	1581264	F#	MasakiKyosuke	
 3	23.46	2006559	1319941	Java	tomaszkk	
-3	23.46	2255187	2087043	PHP	rom_02	
+3	23.44	2255187	2087043	PHP	rom_02	
 3	23.29	1272263	940073	Python3	Caled	
 3	23.25	493596	937953	Scala	Magnus	
 3	23.23	2526322	1866714	Python3	fhemsworth	
@@ -901,6 +901,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3526,time=2019-12-05 00:46:
 3	23.08	203779	937676	C++	guille1304	
 3	23.05	385696	937779	Groovy	aldrinm	
 3	23.03	987165	2087715	C#	KaitoKid	
+3	23.02	300874	938132	Java	PeturIngiEgilsson	
 3	23.01	489078	937898	C++	enot	
 3	23	2290633	2338466	Python3	field3	
 3	23	1914302	1170121	Java	Pallina	
@@ -909,7 +910,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3526,time=2019-12-05 00:46:
 3	22.95	3302098	2326233	Java	The_Agents	
 3	22.95	233077	937482	C#	adhie	
 3	22.93	891351	937436	C	AhmedMaher	
-3	22.93	300874	938132	Java	PeturIngiEgilsson	
 3	22.93	209439	937691	Python3	D4yBr3ak	
 3	22.92	1568785	965001	C	Chalzy	
 3	22.87	347894	938012	Python3	baloo	
@@ -955,6 +955,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3526,time=2019-12-05 00:46:
 3	22.39	1682653	937610	Python3	36006291	
 3	22.38	527739	937968	Python3	i_v_a	
 3	22.37	153877	937883	C++	ElderBug	
+3	22.37	3136787	2558921	Java	jacek	
 3	22.36	869457	1317399	Python3	Pthat	
 3	22.33	1802967	2449261	Python3	Meruem	
 3	22.33	266113	937559	C++	Nihil	
@@ -962,7 +963,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3526,time=2019-12-05 00:46:
 3	22.32	1112356	1121017	Java	DeDu	
 3	22.31	186197	937874	Java	jameska	
 3	22.31	589235	938518	C++	fesouek	
-3	22.3	3136787	2558921	Java	jacek	
 3	22.29	1093968	966540	Java	milosMATRIXrepic	
 3	22.29	1425092	937573	Perl	MercurioPT	
 3	22.28	1878116	1502867	C#	Muchtrix	
@@ -984,16 +984,16 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3526,time=2019-12-05 00:46:
 3	22.11	703271	937604	Javascript	DrinkingBird	
 3	22.09	1707377	957065	Java	Colgate-Blancheur	
 3	22.09	1462449	1105887	C++	wackadoodle	
+3	22.08	1926245	1212793	Java	AnonymousUnical	
 3	22.04	574513	938095	PHP	Yassin	
 3	22.03	858034	937830	C#	Sebaplus	
 3	22	831430	937458	C++	Jerome_	
-3	22	564290	937811	Ruby	mainge2036	
 3	21.98	817326	2084938	C++	Trouz	
-3	21.98	1926245	1212793	Java	AnonymousUnical	
 3	21.97	1333869	954741	Python3	kiwijam	
 3	21.96	1958704	1313443	C++	dikey94	
 3	21.9	754792	1630194	C++	Ramdeath	
 3	21.87	1209562	1592295	C++	JohnnyYuge	
+3	21.85	564290	937811	Ruby	mainge2036	
 3	21.84	1943349	1201443	Java	GioWanna	
 3	21.81	193698	937881	C++	snotrabjorn	
 3	21.78	884069	937801	Python3	punxxy	

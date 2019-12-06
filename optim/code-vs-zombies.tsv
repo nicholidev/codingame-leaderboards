@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=4907,time=2019-12-05 01:45:00
+Score	UserID	Lang	Pseudo	#optim,count=4912,time=2019-12-06 00:30:18
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -130,6 +130,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4907,time=2019-12-05 01:45:00
 173290	826914	C++	Kyrus	
 172480	1205152	C#	Artraxus	
 172420	292106	C++	durmus	
+172370	2115491	Go	Haashi	
 171870	1258533	Rust	MathJason	
 171820	957176	F#	MWilliam	
 171720	1096201	Javascript	Maksimov	
@@ -149,7 +150,6 @@ Score	UserID	Lang	Pseudo	#optim,count=4907,time=2019-12-05 01:45:00
 157560	1853956	PHP	Nkoyan	
 157270	2364277	C#	Rubms	
 156030	1162034	C#	krakeusz	
-155760	2115491	Go	Haashi	
 154980	414278	Java	oobException	
 153110	2361019	Python3	kleisauke	
 151360	1131528	C	Owl	

@@ -1,19 +1,19 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=122,time=2019-12-05 00:30:04
-0	38.49	186179	2455798	C++	Nagrarok	
-0	36.87	2924895	2614163	C	trictrac	
-0	36.85	1607522	2605467	C++	RoboStac	
-0	35.58	2522090	2615123	C++	MSmits	
-0	35.53	3193653	2617994	C++	karliso	
-0	34.99	2923506	2616127	C++	darkhorse64	
-0	33.71	2288263	2359830	Rust	dbdr	
-0	33.38	524638	2577827	C++	miklla	
-0	31.88	1566335	2608609	Java	BeardedWhale	
-0	31.32	1436776	2494985	C++	BrainSolver	
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=122,time=2019-12-06 00:30:03
+0	38.28	186179	2455798	C++	Nagrarok	
+0	36.76	1607522	2605467	C++	RoboStac	
+0	36.75	2924895	2614163	C	trictrac	
+0	36.45	3193653	2618637	C++	karliso	
+0	35.89	2522090	2615123	C++	MSmits	
+0	34.82	2923506	2616127	C++	darkhorse64	
+0	34.09	2288263	2359830	Rust	dbdr	
+0	33.49	524638	2577827	C++	miklla	
+0	31.82	1566335	2608609	Java	BeardedWhale	
+0	31.07	1436776	2494985	C++	BrainSolver	
 0	30.75	155774	2421995	C++	dwarfie	
 0	29.58	1489865	2591765	C++	EricSMSO	
 0	26.57	1500515	2605400	C#	eulerscheZahl	
 0	26.35	1661333	2358657	C++	linjoehan	
-0	26.3	1673512	2424082	C++	Ryoken	
+0	26.22	1673512	2424082	C++	Ryoken	
 0	26.02	3136787	2506188	C++	jacek	
 0	25.92	811622	2610300	C++	Scarfield	
 0	25.92	1288527	2355074	C++	Snef	
@@ -35,13 +35,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=122,time=2019-12-05 00:30:0
 0	21.89	631323	2483994	Python3	herve056	
 0	21.3	2290633	2350182	Python3	field3	
 0	20.92	1771970	2436189	Python3	Entei	
-0	20.65	1854246	2407725	C++	Counterbalance	
+0	20.62	1854246	2407725	C++	Counterbalance	
 0	20.1	1833849	2416950	C++	Akromha	
 0	18.88	3510455	2580401	VB.NET	Bishop42	
 0	18.82	1378958	2602200	C#	Illedan	
 0	17.64	2516972	2347123	Python3	Lyxx	
 0	17.34	371603	2348649	Ruby	martin	
-0	17.32	1953786	2585192	Python3	ludowsky	
+0	17.28	1953786	2585192	Python3	ludowsky	
 0	17.23	157377	2354473	Python3	McKelian	
 0	17.22	1418821	2416887	C++	input.txt	
 0	17.21	934381	2414516	C++	PolyB	
@@ -55,7 +55,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=122,time=2019-12-05 00:30:0
 0	17.08	3285580	2409695	Python3	mr.x	
 0	17.06	1838289	2375123	C++	Dagal	
 0	17.05	3055468	2437679	Java	binx33	
-0	17.02	1926967	2407279	Kotlin	Stanworld	
+0	17.01	1926967	2407279	Kotlin	Stanworld	
 0	17	3250221	2350937	Javascript	reimu	
 0	16.99	1412263	2347785	PHP	PatrickMcGinnisII	
 0	16.94	3396528	2460346	C++	surffer3d	
@@ -71,7 +71,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=122,time=2019-12-05 00:30:0
 0	15.74	2069141	2446510	C#	tomeko	
 0	15.55	3561816	2606369	Python3	noname1477	
 0	14.07	314562	2481377	C++	Mechar	
-0	13.9	2049979	2359785	Python3	130N35	
+0	13.89	2049979	2359785	Python3	130N35	
 0	13.54	2749711	2601331	C++	tah3600	
 0	12.87	2508635	2356473	Java	hemhel	
 0	12.85	3101644	2607967	Python3	Tocus	
@@ -85,8 +85,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=122,time=2019-12-05 00:30:0
 0	12.4	2497890	2410436	C#	BlackBird	
 0	12.4	3501793	2527573	Python3	PiggyGod	
 0	12.37	2983004	2434544	PHP	tazorax	
-0	12.32	1548844	2585364	Python3	BlueeTheReed	
 0	12.32	1829569	2469111	Python3	[0___0]	
+0	12.3	1548844	2585364	Python3	BlueeTheReed	
 0	12.28	3334658	2347840	Java	Aquaphobe	
 0	12.25	1206537	2347149	Python3	MadKnight	
 0	12.23	973040	2346674	C	papyjo	
@@ -97,9 +97,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=122,time=2019-12-05 00:30:0
 0	12	1200905	2448932	Python3	OK2	
 0	11.96	1341520	2359481	Lua	egaetan	
 0	11.94	1783604	2347000	C	Vry	
-0	11.94	3076654	2507633	Python3	bonebone	
+0	11.91	3076654	2507633	Python3	bonebone	
 0	11.72	2006830	2579776	Python3	Ironist	
-0	11.65	2450542	2399835	C++	MindControler	
+0	11.63	2450542	2399835	C++	MindControler	
 0	11.59	2006348	2380813	Python3	Koji02	
 0	11.5	1462449	2431795	C++	wackadoodle	
 0	11.42	925695	2347703	OCaml	Boulet	
@@ -117,7 +117,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=122,time=2019-12-05 00:30:0
 0	5.55	3569066	2601659	C++	derjack	
 0	5.43	1760921	2401805	Go	[Leonardone]-[-_-]-[NEETSDKASU]	
 0	4.59	1066745	2594194	Scala	JohnRambo	
-0	4.01	2241559	2414456	Python3	eskeln	
+0	3.99	2241559	2414456	Python3	eskeln	
 0	3.58	2897325	2579607	Python3	CAEZAR	
 0	-6.06	2868729	2347714	C++	Snefff	
 0	-6.67	569247	2406537	Python3	LaurentBouvier	

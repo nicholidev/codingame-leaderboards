@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1551,time=2019-12-05 00:46:36
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1552,time=2019-12-06 00:30:09
 0	46.5	1400179	2090524	C++	reCurse	
 0	44.89	1629259	2339355	C++	Marchete	
 0	44.07	2288263	2418174	Rust	dbdr	
@@ -96,7 +96,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1551,time=2019-12-05 00:46:
 0	35.32	2521526	1999353	Java	Martin_Guillotte	
 0	35.25	2006324	1779737	C++	SihardeOussama	
 0	35.25	153927	253822	C++	Cubix	
-0	35.23	498616	257287	C++	irhc	
+0	35.24	498616	257287	C++	irhc	
 0	35.18	2179676	2132903	Python3	Tzil	
 0	35.14	873075	1095744	Ruby	LiBai	
 0	35.12	2981558	2132897	C++	remotfognik	
@@ -311,7 +311,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1551,time=2019-12-05 00:46:
 0	27.61	1332450	413158	Scala	PatrikBeck	
 0	27.6	873958	667459	C#	cheeser	
 0	27.57	1827247	1090743	C++	mmmd	
-0	27.56	404560	1220425	Ruby	Uquu	
+0	27.57	404560	1220425	Ruby	Uquu	
 0	27.56	1416725	618248	C	BayashiPascal	
 0	27.53	373834	249539	Java	Pirquessa	
 0	27.51	884069	314002	Python3	punxxy	
@@ -585,8 +585,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1551,time=2019-12-05 00:46:
 0	21.61	489078	256122	C++	enot	
 0	21.57	1428047	448025	C++	RenziGalenzi	
 0	21.53	1466631	2565852	Python3	Akrib	
+0	21.4	652984	247160	Python	BibiSpirit42	
 0	21.39	685490	253974	PHP	Yzy	
-0	21.35	652984	247160	Python	BibiSpirit42	
 0	21.3	2698607	2416920	C++	dEsquilas	
 0	21.27	1261388	745145	Java	aleph0	
 0	21.17	1753077	1729420	Python3	codingWhale	
@@ -756,10 +756,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1551,time=2019-12-05 00:46:
 0	18.41	1651569	932961	Go	Insan	
 0	18.37	2997102	2257229	Python3	[SSS]Nass	
 0	18.36	833115	366828	PHP	VSLourenco	
+0	18.33	198916	1118149	Java	WhatTrickeryIsThis	
 0	18.33	1499173	599006	C++	ComradeDog	
 0	18.31	416648	254878	Ruby	dyatlov	
 0	18.3	703957	254722	C++	Nstyrl	
-0	18.28	198916	1118149	Java	WhatTrickeryIsThis	
 0	18.22	184051	256010	Python3	Jl1	
 0	18.13	1072938	364492	Scala	G.Gery	
 0	18.13	1904803	2209641	C#	Martijnjvdd	
@@ -834,6 +834,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1551,time=2019-12-05 00:46:
 0	16.34	639350	257085	C#	Professor	
 0	16.34	2397542	1612345	Java	Peer	
 0	16.32	3195126	2254066	Python3	Rahachu	
+0	16.32	3305510	2441327	PHP	TBali	
 0	16.31	992691	782304	Python3	tredden	
 0	16.31	326301	255566	C++	Merraz	
 0	16.3	1198313	369703	Python	BobBieLoblaw	
@@ -846,7 +847,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1551,time=2019-12-05 00:46:
 0	16.23	574513	255113	PHP	Yassin	
 0	16.23	620448	257348	C++	AB	
 0	16.23	2158904	1449808	Python	ChouBaGuai	
-0	16.23	3305510	2441327	PHP	TBali	
 0	16.2	1838289	1398283	C++	Dagal	
 0	16.18	431967	251338	C++	takazawa	
 0	16.17	3201750	2254403	C++	rakaief	
@@ -973,29 +973,29 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1551,time=2019-12-05 00:46:
 0	10.45	1074071	364632	Python3	NendoTaka	
 0	10.44	1446313	481160	C++	regrub	
 0	10.41	1563809	876545	Python3	rangerassassin	
+0	10.37	557575	255703	C#	DrNoise	
 0	10.35	2165284	2119032	C++	UsherV	
 0	10.34	715642	259744	C++	jam2000	
+0	10.33	1654172	928336	Javascript	hebaref	
 0	10.31	230082	255691	C++	AdriD	
+0	10.31	2106827	1443144	C++	shangshandaye	
 0	10.3	631323	255028	C++	herve056	
 0	10.28	476659	247233	C++	Beard	
 0	10.27	568754	250647	C	Cyrano	
 0	10.27	680865	255748	Java	vinx	
 0	10.27	399564	1331375	Haskell	wizzup	
 0	10.25	585253	255571	Java	Ameen	
-0	10.25	557575	255703	C#	DrNoise	
+0	10.25	734849	255921	Python		
+0	10.24	3190297	2257020	Python3	ArchHiraku	
 0	10.23	385014	259703	Java	nmallott	
 0	10.22	673524	256285	Go	Mr.Yeah	
 0	10.21	1430898	455351	C++	12Ghast	
 0	10.21	393345	252354	C++	Peter9449	
-0	10.18	1654172	928336	Javascript	hebaref	
+0	10.2	1988531	1387945	Ruby	MarcL	
 0	10.17	411945	255878	C++	Ripoder	
+0	10.16	273064	254716	Java	ma2	
 0	10.16	176986	255661	C++	spiker	
+0	10.16	2762324	1970917	Python3	NMC	
+0	10.15	839199	273143	C#	antonytm	
 0	10.14	668906	255323	Java	Sandworm	
-0	10.13	3204088	2254324	Python3	muchammadibnu	
-0	10.13	268988	252264	Go	qperez	
-0	10.12	734849	255921	Python		
-0	10.06	353884	255356	C#	parsley	
-0	10.05	273064	254716	Java	ma2	
-0	10.03	1932857	2007037	Javascript	DonAlonzo	
-0	10.01	839199	273143	C#	antonytm	
-0	10.01	228826	256336	C++	Snark	
+0	10.13	1932857	2007037	Javascript	DonAlonzo	
