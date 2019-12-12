@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=4919,time=2019-12-11 01:20:04
+Score	UserID	Lang	Pseudo	#optim,count=4933,time=2019-12-12 00:33:44
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -92,7 +92,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4919,time=2019-12-11 01:20:04
 204910	1093968	Java	milosMATRIXrepic	
 203480	2350846	C++	DrBloodmoney	
 203360	226528	C++	Manwe	
-202510	3590712	C	asddsaasd	
+202510	3590712	C		
 202450	1853167	Java	rcode	
 202360	272290	Go	Olaf69	
 201370	2729630	C++	Halphas	
@@ -135,6 +135,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4919,time=2019-12-11 01:20:04
 171870	1258533	Rust	MathJason	
 171820	957176	F#	MWilliam	
 171720	1096201	Javascript	Maksimov	
+171060	1049935	C++	Azkellas	
 170820	2592027	C#	ParticleBeam	
 170610	886483	ObjectiveC	R4N4R4M4	
 169500	1620803	C++	Lyapunov	
@@ -337,6 +338,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4919,time=2019-12-11 01:20:04
 65680	2711020	C++	Daniel_Sch	
 65650	1522873	C	ZHUXiang	
 65590	3418514	Python3	TheBeltingBardYouWishWouldnt	
+65450	1293284	Python3	NaraJeamfry	
 65430	1510662	Java	Nandreas	
 65390	3044280	Python3	AminGholizad	
 65340	2400479	Java	lanoix	
@@ -430,6 +432,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4919,time=2019-12-11 01:20:04
 64260	3522643	C++	Dragon_Breath	
 64260	3571584	C++	PastaMamita	
 64260	3574688	C++	RaulButuc	
+64260	3601085	Python3		
 64230	155928	PHP	pk	
 64230	855492	Go	Erk	
 64230	1095446	Python3	tarbomb	
@@ -467,6 +470,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4919,time=2019-12-11 01:20:04
 63740	1202744	Pascal	KILLogic	
 63740	1652988	Javascript	wardialer	
 63740	2006185	C++	Truelight	
+63730	3601127	Java	Commbiekillers	
 63690	1713497	C#	NoisyBoy	
 63670	894985	Java	Warrows	
 63620	2689595	C++	youknowtherules	
@@ -476,6 +480,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4919,time=2019-12-11 01:20:04
 63590	1430243	C++	AlexanderKhodos	
 63590	2857121	PHP	JuM	
 63570	1050014	Scala	OlegSolver	
+63540	3586167	C++	rocky_horror	
 63520	1687648	Python3	Pompom2	
 63490	880111	Go	gghez	
 63490	1081912	C	Wildardoc	
@@ -495,6 +500,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4919,time=2019-12-11 01:20:04
 63160	334009	PHP	abouvier	
 63090	154961	C#	[CPC]Foudge	
 63070	960661	Python3	missingdays	
+63060	1455346	Groovy	sch4rka	
 63040	3406881	Java	MarcAn	
 63010	549583	Javascript	malko	
 63000	420912	C#	safon007	
@@ -874,7 +880,6 @@ Score	UserID	Lang	Pseudo	#optim,count=4919,time=2019-12-11 01:20:04
 57370	232102	Java	Mary	
 57360	869440	PHP	pjonckiere	
 57330	1183581	Java	Reop	
-57330	3586167	C++	rocky_horror	
 57320	1486034	C#	NealN	
 57300	863265	Java	Anaidel	
 57270	597560	C#	DarkWaw	
@@ -921,6 +926,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4919,time=2019-12-11 01:20:04
 56760	880971	Perl	WhyNotHamster	
 56760	2271162	Java	Dingodoodl	
 56750	1070874	C++	Sincos	
+56730	1434665	Clojure	zenon2002	
 56700	1403307	C#	mikko.viitala	
 56660	1054276	C#	Alexein	
 56630	1513227	C#	FabTazZ	
@@ -980,6 +986,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4919,time=2019-12-11 01:20:04
 55530	1572888	Python3	DirtyHarry	
 55530	1705102	C#	budavarimark	
 55530	2220925	C#	Lativado	
+55530	3601092	Javascript	TOKRI	
 55520	190383	Ruby	guilpejon	
 55520	2447349	C#	Krezerox	
 55510	692317	Javascript	Ozzie	
@@ -992,10 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=4919,time=2019-12-11 01:20:04
 55410	1593340	Python3	KopshA	
 55400	1027413	Javascript	HansChiu	
 55340	1171892	Python3	Darkhogg	
-55310	2407700	Ruby	adoxography	
-55290	1421067	C#	EraStormbringer	
-55270	1181923	Python3	kaneeec	
-55260	873845	PHP	xxflip	
-55260	2386770	Go	tnerolf	
-55250	1667366	C	Rasky	
-55250	3035801	Python3	Geneo	
