@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5539,time=2019-12-18 00:41:12
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5540,time=2019-12-19 00:52:14
 5	33.93	3379871	2425521	C	Bitse	
 5	32.8	1542347	1877668	C		
 5	32.24	1059122	762030	C++	g2lm	
@@ -510,7 +510,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5539,time=2019-12-18 00:41:
 4	20.82	2572485	1882684	Ruby	DGynn	
 4	20.73	1143036	2465107	Javascript	joilson-cisne	
 4	20.69	1390607	762527	C++	GoperJohn	
-4	20.68	3574688	2615062	C++	FX-Aspect	
+4	20.68	3574688	2615062	C++	RaulButuc	
 4	20.57	1642440	805979	Python	Niknejm	
 4	20.55	1327028	647433	C++	FredericBautista	
 4	20.55	1528929	767604	Java	Blackfich	
@@ -954,7 +954,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5539,time=2019-12-18 00:41:
 4	-2.86	1428084	1485741	Dart	Mixolyde	
 4	-3.12	2606595	1878556	Rust	PaulH	
 4	-6.29	525818	1315529	C++	[Dima_Gde_Anons]podliy16	
-4	-6.31	2164056	1736581	Java	mr_robot.exe	
+4	-6.31	2164056	1736581	Java	fsociety.bat	
 4	-6.39	2134316	1441496	C++	Robostomper	
 4	-6.51	2424607	1736583	Java	Avizandum	
 4	-6.59	1636415	804119	C++	jamOne-	
@@ -962,18 +962,19 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5539,time=2019-12-18 00:41:
 4	-7.03	1661138	891041	Python3	Papanya	
 4	-7.03	2348411	1598289	Python3	Powermech	
 4	-7.15	2164040	1736580	Java	Doodler	
-3	30	1540208	1494512	C++	SavinVadim	
-3	29.89	1685859	911845	Python3	TRONB0SS	
-3	29.74	2345317	1586993	Python3	HaithemSmirani	
-3	29.33	2838039	2420107	Python3	jlin3392	
-3	29.3	2316796	2335199	Go	Psio	
-3	29.11	2250255	1693447	Python3	Metaerr	
-3	29.02	1392596	759412	Python3	py_master	
-3	28.99	1065038	1223264	Python3	Mohamed_Choaib_Assoualma	
-3	28.95	2028022	2599475	Java	nonnnne	
+3	31.14	2725066	2628700	C#	Cize	
+3	30.21	1540208	1494512	C++	SavinVadim	
+3	29.99	1685859	911845	Python3	TRONB0SS	
+3	29.92	2345317	1586993	Python3	HaithemSmirani	
+3	29.16	2028022	2599475	Java	nonnnne	
+3	29.11	1392596	759412	Python3	py_master	
+3	29.09	2838039	2420107	Python3	jlin3392	
+3	29.07	2316796	2335199	Go	Psio	
+3	29.05	2250255	1693447	Python3	Metaerr	
+3	28.97	1065038	1223264	Python3	Mohamed_Choaib_Assoualma	
+3	28.96	2475749	1667612	Python3	I_copied_this_code	
 3	28.93	1073247	1597632	Python3	DJ_NikJ	
 3	28.89	2051278	2460452	C++	GuillaumeK	
-3	28.86	2475749	1667612	Python3	I_copied_this_code	
 3	28.83	2084781	1941326	Python3	Fryll	
 3	28.8	1195934	1611059	Go	odinmillion	
 3	28.79	3444290	2466994	Go	Noandi	
@@ -997,5 +998,4 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5539,time=2019-12-18 00:41:
 3	28.66	847550	1569465	Python3	Popey	
 3	28.61	2688458	2070808	Python3	AwesomeYouka	
 3	28.61	1703448	2011757	Go	Valdo	
-3	28.6	162982	1120448	Python3	Dami-e	
-3	28.6	1788677	2115121	Go	Neskoss25	
+3	28.61	3176254	2244236	Python3	kevinbassie	
