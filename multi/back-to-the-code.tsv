@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4590,time=2019-12-24 01:59:16
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4591,time=2019-12-25 00:40:28
 0	46.75	1433161	1484525	C	Mingu	
 0	45.62	494104	455215	C++	Recar	
 0	45.61	990110	357643	C++	Rogerup	
@@ -44,7 +44,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4590,time=2019-12-24 01:59:
 0	41.62	786597	358310	Python3	Fabien	
 0	41.55	1500515	1659836	C#	eulerscheZahl	
 0	41.55	1390607	1126210	C++	GoperJohn	
-0	41.5	1195934	1611063	C++	odinmillion	
+0	41.52	1195934	1611063	C++	odinmillion	
 0	41.49	2254195	1751643	C++	BrunoFelthes	
 0	41.49	1369177	622526	C++	PernicN	
 0	41.46	1206363	369708	C++	DimitarMinchev	
@@ -352,9 +352,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4590,time=2019-12-24 01:59:
 0	34.86	2007852	1469765	Go	Zorg1	
 0	34.86	975039	339959	Java	meooow	
 0	34.84	848989	361374	Java	revever	
-0	34.83	960759	341728	C++	fea	
 0	34.82	467773	356653	Python	oxzytoon	
 0	34.82	1131528	415482	C	Owl	
+0	34.81	960759	341728	C++	fea	
 0	34.75	404777	345500	C++	Joodoc	
 0	34.72	978335	343149	ObjectiveC	antonc27	
 0	34.72	153557	339776	C++	ISMAX	
@@ -482,7 +482,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4590,time=2019-12-24 01:59:
 0	33.66	1634607	897724	Python3	Taraxicum	
 0	33.65	995658	354941	C++	Faithy	
 0	33.64	172662	348533	Scala	anzood	
-0	33.63	618776	356555	C	Chafiq	
+0	33.64	618776	356555	C	Chafiq	
 0	33.63	657453	339330	Scala	Hss	
 0	33.62	1717345	2210628	Scala	kotobotov	
 0	33.62	1168819	366851	C++	DAVENINE	
