@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=758,time=2019-12-29 00:35:24
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=759,time=2019-12-31 00:30:11
 9	30.06	2489835	1769668	C#	Akarachudra	
 9	25.82	2254195	1769673	Java	BrunoFelthes	
 9	25.68	1818159	1769663	C++	JRFerguson	
@@ -119,7 +119,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=758,time=2019-12-29 00:35:2
 7	26.85	2051334	1751224	C++	Dwarth	
 7	26.72	2370407	1762404	C++	oneup40	
 7	26.37	1944142	1839704	Python3	yakalir	
-7	24.38	831726	1881785	Java	prophEt666	
+7	24.38	831726	1881785	Java	XprophEtX	
 7	24.05	1464932	1768305	Java	Tiramon	
 7	23.91	1643849	2410268	C++	anton_sh	
 7	23.82	153683	2487764	Dart	40R15T3	
@@ -540,7 +540,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=758,time=2019-12-29 00:35:2
 3	17.98	1787646	1765806	Python3	wognovice	
 3	17.5	2498643	1848125	C	danilop13	
 3	17.31	2193464	1772029	C#	m2bad4u	
-3	16.51	2510484	2214674	OCaml	MPSI-LIV_jesappelGrout	
+3	16.61	2510484	2214674	OCaml	MPSI-LIV_jesappelGrout	
 3	16.32	3347074	2460242	C#	Elritanos	
 3	16.18	817573	1876707	C++	Antmsu	
 3	15.77	1434515	1845535	C++	scor-A	
@@ -581,6 +581,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=758,time=2019-12-29 00:35:2
 3	13.3	2484570	1758867	Java	AnthonyLB	
 3	13.26	3524981	2573096	Python3	AlexKirioshin	
 3	13.25	2545748	2322817	Java	sybernatuz	
+3	13.11	3187336	2637145	Javascript	C6PO	
 3	13.1	807124	1746660	Python3	Destromath	
 3	13.08	2373953	2405286	Javascript	Dridriun	
 3	13.05	3341241	2358567	Python3	StevenJames1	
@@ -606,16 +607,16 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=758,time=2019-12-29 00:35:2
 3	12.15	3020707	2230762	C++	yannch	
 3	11.87	3509983	2508318	Java	Derbeon	
 3	11.76	2653332	2469217	Javascript	SunjiWa	
-3	11.49	855824	1852023	Python3	VoxMortem	
+3	11.46	855824	1852023	Python3	VoxMortem	
 3	11.1	2579751	2594036	C#	Effarek	
-3	11.03	1048882	1743406	Javascript	Ogee	
+3	10.99	1048882	1743406	Javascript	Ogee	
 3	10.98	795321	1845984	Java	berthy424	
 3	10.97	1462635	2345133	C++	nerigardu	
-3	10.97	2534898	1838787	C++		
 3	10.94	2513259	1757529	Javascript	max30272	
 3	10.93	1949696	1771382	C#	Snoresville	
 3	10.9	1466631	1746535	Python3	Akrib	
 3	10.9	2300507	1778367	Javascript	kmaitski	
+3	10.89	2534898	1838787	C++		
 3	10.86	1076352	1747645	C++	Ki-hyeokYoon	
 3	10.85	335327	1743388	Java	Spike	
 3	10.84	2434901	1745261	C++	pikrua	
@@ -629,15 +630,15 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=758,time=2019-12-29 00:35:2
 3	10.59	2354059	1751843	Java	ObviousTroll	
 3	10.1	2171878	1746466	Scala	Louis_ZA	
 3	10.03	886234	1935978	C#	Harkle	
-3	9.8	2012586	1876930	Javascript	ShOoRi	
+3	9.76	2012586	1876930	Javascript	ShOoRi	
 3	9.69	3066193	2325038	Java	Zoff	
-3	9.5	3144403	2310124	Python3	Hugolau	
+3	9.45	3144403	2310124	Python3	Hugolau	
 3	9.29	2479703	1759924	Python3	MichaelDeRoos	
 3	9.24	2156856	2573094	C	Architektor	
-3	9.15	2742674	2082656	C#	JacobGreenslade	
+3	9.12	2742674	2082656	C#	JacobGreenslade	
 3	8.56	1206537	2325039	C++	MadKnight	
 3	8.43	3382452	2438750	C++	e186308	
-3	8.37	2725604	2127198	Java	ErkanUnfresh	
+3	8.34	2725604	2127198	Java	ErkanUnfresh	
 3	8.26	2007262	2327594	Java	Larnth	
 3	8.13	2327967	1742332	Ruby	Karocyt	
 3	7.96	1311521	1776226	C#	dbzadnen	
@@ -654,7 +655,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=758,time=2019-12-29 00:35:2
 3	5.14	2688693	2000104	Go	Catagami	
 3	4.22	2369003	1745925	C#	dreamora	
 3	3.8	1721526	1846703	Kotlin	rm-zzz	
-3	2.75	1389861	2508494	Java	Evgenykz3	
+3	2.73	1389861	2508494	Java	Evgenykz3	
 3	2.55	1717962	1898683	Javascript	Angryshark	
 3	0.04	1375637	2047482	Python3	thibaut77	
 3	-0.5	2833118	2494954	Python3	Adepec	
@@ -664,7 +665,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=758,time=2019-12-29 00:35:2
 3	-0.9	1427648	1745507	Python	Relin	
 3	-0.92	1409657	1742850	C#	HJD	
 3	-2.58	2453289	1770406	C++	Aiyel	
-3	-2.71	2505548	1743262	Java	Hoxst	
+3	-2.72	2505548	1743262	Java	Hoxst	
 3	-2.75	2543667	1771670	C	deuigst	
 3	-3	2019633	2424490	C++	ludolover	
 3	-4.36	1222783	1754362	Java	Calaom	
@@ -675,21 +676,21 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=758,time=2019-12-29 00:35:2
 3	-12.05	1096274	2138360	C#	DrBrask	
 3	-12.38	2520971	1846836	C++	KbsadeKdi	
 3	-13.13	2156974	1752730	Python3	Shrekouille	
-2	6.88	1716558	2620775	Python3	BohdanKorchak	
-2	3.21	1457642	2438747	C#	Muumiankka	
-2	2.41	3367086	2441048	Javascript	Startom	
-2	1.43	1518287	2324808	C++	Vladorf	
-2	1.34	1712648	1749729	Java	luckyy	
-2	1.34	1987512	2053941	C#	FreexXx	
+2	6.74	1716558	2620775	Python3	BohdanKorchak	
+2	3.1	1457642	2438747	C#	Muumiankka	
+2	2.31	3367086	2441048	Javascript	Startom	
+2	1.33	1712648	1749729	Java	luckyy	
+2	1.33	1518287	2324808	C++	Vladorf	
 2	1.32	523846	1740992	C#	Palmipedus	
-2	1.16	2479781	1750210	Java	AndiSwiss	
-2	-4.27	2509674	1740887	C++	AnaIsabelHernandezBarrera	
-2	-11.9	3563052	2620926	C++	Lykor	
-0	15.4	3432180	2458380	C++	TestFon	
-0	13.98	2258103	1858786	Javascript	Jennypatrick	
-0	13.48	3308192	2622833	C++	kitty_bucket	
-0	13.35	925956	1742534	C++	Rentus	
-0	13.21	1546633	1770680	Javascript	duskyshelf	
+2	1.32	1987512	2053941	C#	FreexXx	
+2	1.15	2479781	1750210	Java	AndiSwiss	
+2	-4.29	2509674	1740887	C++	AnaIsabelHernandezBarrera	
+2	-11.91	3563052	2620926	C++	Lykor	
+0	15.35	3432180	2458380	C++	TestFon	
+0	13.89	2258103	1858786	Javascript	Jennypatrick	
+0	13.39	3308192	2622833	C++	kitty_bucket	
+0	13.31	925956	1742534	C++	Rentus	
+0	13.16	1546633	1770680	Javascript	duskyshelf	
 0	11.54	1024388	1837050	Java	SamP	
 0	9.61	2870754	2469944	Python3	Athanatos	
 0	9.6	1993004	1985943	C#	olivR	
@@ -697,7 +698,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=758,time=2019-12-29 00:35:2
 0	8.98	2913627	2102577	C++	GalaxyOwl4	
 0	8.88	2618330	1853488	C++	4rx	
 0	8.65	2649135	1872341	Bash		
-0	7.74	1390607	1748484	Ruby	GoperJohn	
+0	7.7	1390607	1748484	Ruby	GoperJohn	
 0	7.52	2386407	1758606	Javascript	FERNANDOJIMENEZ	
 0	7.45	2800981	2032126	C++		
 0	7.43	1073604	1889999	C#	speedFast	
@@ -705,21 +706,21 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=758,time=2019-12-29 00:35:2
 0	7.33	1520245	2058273	Java	kintdev	
 0	7.27	2558123	1769654	Javascript	Dalivitone	
 0	7.24	2191100	1769292	Java	PEENMASTER	
-0	7.23	2521652	1770372	C#	PANZO	
+0	7.22	2521652	1770372	C#	PANZO	
 0	7.07	918352	1865108	Python3	CoYoTe99	
 0	7.06	2155737	1743172	C#	Z3RP	
 0	7.04	2463653	1761230	C++	sak0909	
 0	7.02	2643779	1871763	C++		
 0	6.92	2538180	1853491	Python3	Guaxinim	
-0	6.91	2612889	2055260	C#	Symphonia	
 0	6.91	1504024	1776606	C#	VNVizitiu	
 0	6.88	221210	1764457	Python3	sdeseille	
 0	6.87	1477622	1741310	C#	zrdon	
+0	6.84	2612889	2055260	C#	Symphonia	
 0	6.83	2414979	1751590	VB.NET	mr.crab	
 0	6.83	1675720	1748718	C	AxFab	
 0	6.81	2512705	1770867	Swift	awesomeFencer	
 0	6.73	2133361	1753300	Python3	VadimKuznetsov1	
-0	6.73	1251131	1754754	C#	ma81xx	
+0	6.72	1251131	1754754	C#	ma81xx	
 0	6.68	2393376	1779791	C++	Pirafu	
 0	6.64	2713608	2026587	C#	LostSymphony	
 0	6.64	1698683	1779702	Java	JujuBassist	
@@ -729,13 +730,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=758,time=2019-12-29 00:35:2
 0	6.58	2897325	2579568	Python3	CAEZAR	
 0	6.57	1881651	1828098	Python3	Alligard	
 0	6.48	2520291	1743419	Java	Compal	
-0	6.42	1717345	2061864	Scala	kotobotov	
+0	6.41	1717345	2061864	Scala	kotobotov	
 0	6.28	2923079	2119502	Python3	Code_Lister	
 0	6.28	1386032	1776489	Java	Houssem_201	
 0	6.21	1085149	1744428	Java	Shala	
-0	6.2	2801000	2032169	C++	demoPilot	
 0	6.2	2982931	2127167	Java	MoerrisWall	
 0	6.19	2462453	2034789	C#	Konamiruku	
+0	6.18	2801000	2032169	C++	demoPilot	
 0	6.01	1969405	1744287	C++	yha	
 0	5.6	2325553	1815861	Javascript	JuanArenas	
 0	5.46	2696966	2110086	Java	Bobifri	
@@ -750,7 +751,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=758,time=2019-12-29 00:35:2
 0	0.62	236902	2313737	C++	Tryum	
 0	-7.69	2643826	1875932	Python3	LeoB	
 0	-7.81	1950105	2144744	Java	[.].-	
-0	-9.83	2315334	1776639	Java	VIP193	
+0	-9.84	2315334	1776639	Java	VIP193	
 0	-9.97	1126419	1761345	C#	seyhen	
 0	-10.08	666934	1768944	Python	93	
 0	-10.25	1264023	1747289	VB.NET	Alamir	
