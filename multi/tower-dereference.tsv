@@ -1,6 +1,11 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5,time=2020-01-01 00:30:03
-0	30.17	2288263	2636812	Rust	dbdr	
-0	27.17	2311105	2637027	C++	kovi	
-0	22.59	1500515	2636799	C#	eulerscheZahl	
-0	21.36	2923506	2636808	C#	darkhorse64	
-0	20.42	2290633	2637859	Python3	field3	
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=10,time=2020-01-02 00:30:04
+0	29.53	2290633	2638071	Python3	field3	
+0	28.76	2288263	2636812	Rust	dbdr	
+0	28.18	2924895	2638373	C	trictrac	
+0	26.76	2311105	2638533	C++	kovi	
+0	23.27	973040	2638518	C	papyjo	
+0	22.11	2923506	2638591	C++	darkhorse64	
+0	21.42	1500515	2636799	C#	eulerscheZahl	
+0	18.72	1378958	2638475	C#	Illedan	
+0	15.69	1029602	2638055	C	Potemkine	
+0	10.47	2043908	2638270	D	AntiSquid	
