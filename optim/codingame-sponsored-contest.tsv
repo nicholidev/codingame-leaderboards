@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=10136,time=2020-01-02 00:42:23
+Score	UserID	Lang	Pseudo	#optim,count=10140,time=2020-01-03 00:31:44
 14337	329200	C++	BlitzProg	
 13603	1366631	Javascript	Morhaus	
 13285	1307473	C++	Evgenykz	
@@ -168,6 +168,7 @@ Score	UserID	Lang	Pseudo	#optim,count=10136,time=2020-01-02 00:42:23
 2984	999926	C#	SkyyStorm	
 2978	881390	C#		
 2975	832306	C++	pb4	
+2964	2516377	Javascript	Miura	
 2956	953094	Python3	Witman	
 2952	808446	Java	Bev	
 2952	3160962	Python3	Aygalic	
@@ -252,7 +253,6 @@ Score	UserID	Lang	Pseudo	#optim,count=10136,time=2020-01-02 00:42:23
 2628	996279	C#	BOBKA	
 2626	2786666	C++	TetraktysPhi	
 2624	1803865	Python3	olinox14	
-2624	2516377	Javascript	Miura	
 2622	933299	Scala	ThibautRobert	
 2620	1719856	PHP	YOANN	
 2618	904178	Javascript	Nirahiel	
@@ -558,6 +558,7 @@ Score	UserID	Lang	Pseudo	#optim,count=10136,time=2020-01-02 00:42:23
 2326	574656	Python3	dmpage	
 2322	802171	PHP	Merome	
 2322	1165720	Java	HuXi	
+2320	925695	OCaml	Boulet	
 2320	1695697	Python3		
 2318	1207939	Python3	Vultrao	
 2310	841420	C#	RandomVariable	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=10136,time=2020-01-02 00:42:23
 1484	1973449	Go	Garndesh	
 1484	2603080	C++		
 1482	1199533	Javascript	russellJones	
-1480	1152335	C#	vyrp	
