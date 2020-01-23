@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2306,time=2020-01-22 00:30:05
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2306,time=2020-01-23 00:30:05
 5	31.86	1327028	2102329	C++	FredericBautista	
 5	31.24	1413236	511966	Go	Medici	
 5	30.56	1500515	2061718	C++	eulerscheZahl	
@@ -785,7 +785,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2306,time=2020-01-22 00:30:
 1	23.28	1397268	2454349	C	RTLB	
 1	23.27	1891787	1400468	Python	Threyeth	
 1	23.27	1379639	629719	Rust	Bluesk13s	
-1	23.27	1495350	591678	PHP	Wranorn	
 1	23.27	1195394	593115	Python3	Larnak	
 1	23.26	609811	969744	C#	Atesz	
 1	23.26	1066028	746798	PHP	JrmC	
@@ -815,6 +814,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2306,time=2020-01-22 00:30:
 1	23.2	880353	497129	Python3	zasmu	
 1	23.2	1603310	713892	Java	yarwest	
 1	23.19	1492574	582671	C	zc	
+1	23.19	1495350	591678	PHP	Wranorn	
 1	23.18	754792	906113	C++	Ramdeath	
 1	23.17	1472964	562536	C#	fnudd	
 1	23.17	614489	493173	C	Nazoum81	
@@ -873,6 +873,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2306,time=2020-01-22 00:30:
 1	22.97	1471723	505853	Javascript	munizart	
 1	22.97	1508772	805634	PHP	LeadFarmer	
 1	22.96	1472464	507333	Javascript	und3fined	
+1	22.96	2285360	1505940	Javascript	Tatyana	
 1	22.96	1517028	936212	Python3	Nicau	
 1	22.94	889640	672424	Javascript	Kaljuk	
 1	22.94	1455173	493497	Python3	DrSpock	
@@ -938,7 +939,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2306,time=2020-01-22 00:30:
 1	22.77	1078446	668296	C++	[CPC]Madgic	
 1	22.77	386279	495760	Python3	Amikum	
 1	22.77	1497497	594920	C#	Sonic8484	
-1	22.77	2285360	1505940	Javascript	Tatyana	
 1	22.77	1489263	577376	C#	csanti	
 1	22.76	651153	753673	Python3	jikiliou	
 1	22.76	1573009	679131	C++	Fibonacci-	
