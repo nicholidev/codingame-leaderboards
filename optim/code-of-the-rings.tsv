@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3377,time=2020-01-23 00:35:49
+Score	UserID	Lang	Pseudo	#optim,count=3380,time=2020-01-24 01:01:55
 2765	2288263	Rust	dbdr	
 2792	2316796	PHP	Psio	
 2793	1485989	Python3	ReActiveNZ	
@@ -128,6 +128,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3377,time=2020-01-23 00:35:49
 3900	416762	C#	Khao	
 3910	706692	Java	alexhap	
 3930	632549	Java	Keiras	
+3936	2202771	Java	Kaplone	
 3944	1264368	C#	Ultimacho	
 3950	230794	C++	alpha_one_x86	
 3950	270881	C++	Maurice_Moss	
@@ -245,7 +246,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3377,time=2020-01-23 00:35:49
 4457	1445969	Python3	JoPich	
 4467	574371	Javascript	Dillysfriend	
 4471	1734105	Python3	Bibou	
-4471	2202771	Java	Kaplone	
 4476	154348	ObjectiveC	ProYd	
 4482	1487535	Perl	SvartRiddare	
 4483	2250452	Python3	Isac	
@@ -347,6 +347,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3377,time=2020-01-23 00:35:49
 5293	1353669	Python3	XAnimaX	
 5300	586933	C++	cems	
 5305	1172385	C#	LuckyMe	
+5320	3480275	Python3	gbg727	
 5343	951933	C	blueweird	
 5352	321254	Scala	athy	
 5357	1060181	Ruby	Dabou	
@@ -523,6 +524,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3377,time=2020-01-23 00:35:49
 5839	389632	Python3	ma	
 5840	817076	C++	IonutSimion	
 5840	1050490	C++	Snark_Chaser	
+5840	1197593	Javascript	NatNgs	
 5842	162661	C	Doraj	
 5842	1140453	Python3	neosymaui	
 5843	389786	Java	menu	
@@ -790,6 +792,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3377,time=2020-01-23 00:35:49
 5928	2037512	Rust	mosh	
 5928	2121472	Python3	Sinned	
 5928	2600975	Python3	Ivarian	
+5928	2962429	Python3	Daneon	
 5929	900697	C++	Mieszko	
 5930	838400	Javascript	SmokeyPHP	
 5930	1215643	Java	Verjok	
@@ -955,11 +958,9 @@ Score	UserID	Lang	Pseudo	#optim,count=3377,time=2020-01-23 00:35:49
 6001	715389	C++	laurent_r	
 6001	765907	Javascript	edejin	
 6001	810181	C++	Talrog	
-6001	810571	C++	Sensei	
 6001	818314	Python3	PROrock	
 6001	830393	Javascript	Proxymyr	
 6001	873809	C++	Lucky92	
-6001	876274	Java	Lord Lothar	
 6001	890345	C++	Siegwald	
 6001	903341	C#	Morthyr	
 6001	918167	C++	xcg	
@@ -989,7 +990,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3377,time=2020-01-23 00:35:49
 6001	1119818	C#	SimonStinson	
 6001	1121088	Java	Silars	
 6001	1125706	C++	Saillou	
-6001	1140027	Ruby	theBee	
 6001	1167833	Javascript	mathmuffin	
 6001	1177179	Javascript	Vinorcola	
 6001	1187543	C#	TheKacsaminator	
