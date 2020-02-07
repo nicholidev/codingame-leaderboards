@@ -1,6 +1,6 @@
-Score	UserID	Lang	Pseudo	#optim,count=62,time=2020-02-06 00:31:38
+Score	UserID	Lang	Pseudo	#optim,count=63,time=2020-02-07 00:36:28
 326	3354337	C++	Westicles	
-300	2288263	Rust	dbdr	
+320	2288263	Rust	dbdr	
 255	1629259	PHP	Marchete	
 214	1607522	PHP	RoboStac	
 208	2522090	PHP	MSmits	
@@ -10,13 +10,14 @@ Score	UserID	Lang	Pseudo	#optim,count=62,time=2020-02-06 00:31:38
 105	3165536	PHP	barbora	
 95	3457031	PHP	YurkovAS	
 80	2924895	C	trictrac	
-68	338469	PHP	[symfunc]-___-	
+69	338469	PHP	[symfunc]-___-	
 68	2311105	C++	kovi	
 64	1489865	PHP	EricSMSO	
-63	2786666	C++	TetraktysPhi	
-55	1457162	PHP	JFB	
+64	2786666	C++	TetraktysPhi	
+59	1457162	PHP	JFB	
 52	155774	PHP	dwarfie	
 52	925695	PHP	Boulet	
+52	1479930	PHP	LeRenard	
 52	3136787	Python3	jacek	
 51	512097	Haskell	Stilgart	
 50	3564009	Lua	Waffle3z	
@@ -26,12 +27,11 @@ Score	UserID	Lang	Pseudo	#optim,count=62,time=2020-02-06 00:31:38
 38	1464932	PHP	Tiramon	
 33	2077805	C++	bamilan	
 32	973040	C	papyjo	
-32	1479930	PHP	LeRenard	
 27	1766181	PHP	jantorestolsvik	
 26	3657893	C	aAardvark	
+25	2069141	C#	tomeko	
 24	1272263	Python3	Caled	
 24	1436776	PHP	BrainSolver	
-24	2069141	C#	tomeko	
 22	371603	Ruby	martin	
 22	2508635	PHP	hemhel	
 20	490588	Python3	Uljahn	
@@ -49,6 +49,7 @@ Score	UserID	Lang	Pseudo	#optim,count=62,time=2020-02-06 00:31:38
 4	888898	PHP	helgui	
 4	3424530	PHP	[symfunc]_Dreamer	
 3	3154694	Python3	TheAristos	
+2	2715508	Python3	Anth	
 1	1251381	Java	ZepHead	
 1	1264581	Python3	BenjiIsBack	
 1	1540478	C++	struct	
