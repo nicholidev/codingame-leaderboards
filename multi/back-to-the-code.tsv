@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4593,time=2020-02-07 00:36:24
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4594,time=2020-02-08 00:30:13
 0	46.75	1433161	1484525	C	Mingu	
 0	45.62	494104	455215	C++	Recar	
 0	45.61	990110	357643	C++	Rogerup	
@@ -252,6 +252,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4593,time=2020-02-07 00:36:
 0	36.62	1051872	357864	Python	Ugrash	
 0	36.6	153045	344273	Python	nib	
 0	36.6	913697	575048	Java	Tsa6	
+0	36.56	417490	352131	Java	Alevohin	
 0	36.56	805637	339048	Java	Twoey	
 0	36.54	1069741	362922	Java	Kakuro	
 0	36.54	1075002	345279	Python	Foie_Gras	
@@ -259,7 +260,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4593,time=2020-02-07 00:36:
 0	36.52	1400179	1311380	C++	reCurse	
 0	36.52	1449919	2436522	Javascript	ChrisWendling	
 0	36.5	846192	345809	Python	phdmnt	
-0	36.5	417490	352131	Java	Alevohin	
 0	36.44	1025212	371677	Java	Asterixk	
 0	36.43	200708	358204	C	kobr4	
 0	36.42	980503	354791	C++	d0_0b	
@@ -316,13 +316,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4593,time=2020-02-07 00:36:
 0	35.39	862336	761667	C	Zaphus	
 0	35.38	1065015	352414	Python	PastaAlPesto	
 0	35.38	1378399	610995	Python3	DN38416	
-0	35.36	1044705	342220	Python	Roysh9	
 0	35.35	2492184	1917794	OCaml	Psychotest	
 0	35.34	1034042	357837	Java	dungeon_master	
 0	35.3	464971	357920	C++	PsyGuy66	
 0	35.3	2550089	1916881	OCaml	MPSI-LIV_CIV[idin]	
 0	35.3	372352	351937	Java	Maradona	
 0	35.3	1060548	358090	Python	Marc-	
+0	35.3	1044705	342220	Python	Roysh9	
 0	35.28	413624	345729	PHP	Mathieu	
 0	35.27	976686	600977	C++	a_aly_saeed	
 0	35.26	827957	352275	Python	harvestsnow	
