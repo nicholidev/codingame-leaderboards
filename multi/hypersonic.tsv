@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2121,time=2020-02-08 00:30:06
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2122,time=2020-02-09 00:30:05
 6	34.71	3193653	2579867	C++	karliso	
 6	34.3	1624809	2653061	C#	DrFekalus	
 6	33.86	1327028	2309998	C++	FredericBautista	
@@ -846,7 +846,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2121,time=2020-02-08 00:30:
 3	18.3	1512667	1227063	Python3	DrevanTonder	
 3	18.29	3171145	2429118	OCaml	MPSI-LIV-OrianeBalthazar	
 3	18.17	1917691	2302751	C#	SilverHR	
-3	18.03	2003755	1499771	C#	mybestbot	
+3	18.05	2003755	1499771	C#	mybestbot	
 3	17.99	2456780	2335962	Java	CarsonJudd	
 3	17.94	1219395	798915	Java	mihaj	
 3	17.93	1023075	775726	Java	Naro	
@@ -893,15 +893,15 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2121,time=2020-02-08 00:30:
 3	16.26	1235841	774479	Pascal	andreasp	
 3	16.23	2264391	1644054	C#	hrkrx	
 3	16.17	2923506	2505890	C++	darkhorse64	
-3	16.1	2052663	1331776	Python3	Kanak	
+3	16.11	2052663	1331776	Python3	Kanak	
 3	16.08	888898	1622264	C++	helgui	
 3	15.95	228826	784583	PHP	Snark	
 3	15.94	1334479	786528	Lua	apintor	
 3	15.77	1170712	1468496	Python3	Djo0012	
 3	15.75	828239	969604	C#	[SG]Bisou	
+3	15.62	918747	802692	Python3	Entilore	
 3	15.61	1456582	902066	C#	freud	
 3	15.55	1930284	1125909	Java	DasBot	
-3	15.5	918747	802692	Python3	Entilore	
 3	15.45	1603408	798132	C++	sandor	
 3	15.44	2409047	1656693	Java	iwpag	
 3	15.29	1441602	1424925	Java	LastVar	
@@ -914,10 +914,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2121,time=2020-02-08 00:30:
 3	14.85	327986	1182748	Javascript	Koutaku	
 3	14.81	1729129	899906	Java	Thorvaldurg	
 3	14.8	359746	777048	Java	Shoohei	
-3	14.78	553938	775086	C++	MagAlex	
 3	14.78	1492850	881687	Python3	Isostatic	
 3	14.77	1653052	796431	Javascript	fbosco	
 3	14.76	1474699	2617137	Python3	coffeepot	
+3	14.73	553938	775086	C++	MagAlex	
 3	14.72	2851591	2070741	C	3k	
 3	14.7	1876212	1577559	Python3	PFischbeck	
 3	14.69	1603199	803777	PHP	Shinidoki	
@@ -928,7 +928,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2121,time=2020-02-08 00:30:
 3	14.39	1854135	1384900	C++	applepen	
 3	14.31	1532448	782217	Javascript	mborecki	
 3	14.2	1681157	787791	Java	Inqy	
-3	14.1	3101644	2433235	Java	Tocus	
+3	14.1	3101644	2433235	Java	HerrHagner	
 3	14.1	2878528	2205999	Python3	jankollar	
 3	14.03	298897	1405920	Javascript	Dayde	
 3	14.03	1815583	1706974	C++	HarderTilt	
@@ -976,8 +976,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2121,time=2020-02-08 00:30:
 3	12.7	1838549	1031352	C#	izik1	
 3	12.7	3337426	2403747	OCaml	MPSI-LIV-tropfort	
 3	12.7	3039504	2175817	Java	LesCodeursMasques	
+3	12.66	254883	1627115	Java	maksim	
 3	12.65	1641076	778199	C#	YaPaKo	
-3	12.61	254883	1627115	Java	maksim	
 3	12.6	1190919	784933	Python	ViacheslavArtemchuk	
 3	12.6	1769289	1222464	C#	Adequate	
 3	12.56	1927123	1212587	Python3	NetWarKing	
