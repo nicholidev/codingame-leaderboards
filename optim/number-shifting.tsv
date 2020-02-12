@@ -1,13 +1,13 @@
-Score	UserID	Lang	Pseudo	#optim,count=67,time=2020-02-11 00:30:19
-350	2288263	Rust	dbdr	
+Score	UserID	Lang	Pseudo	#optim,count=67,time=2020-02-12 00:30:17
+360	2288263	Rust	dbdr	
 330	3354337	C++	Westicles	
-285	1629259	PHP	Marchete	
-214	1344487	PHP	UnnamedCodinGamer	
+312	1629259	PHP	Marchete	
+219	1344487	PHP	UnnamedCodinGamer	
 214	1607522	PHP	RoboStac	
 208	2522090	PHP	MSmits	
 139	1500515	PHP	eulerscheZahl	
+138	3165536	PHP	barbora	
 137	1378958	PHP	Illedan	
-133	3165536	PHP	barbora	
 95	3457031	PHP	YurkovAS	
 80	2924895	C	trictrac	
 69	338469	PHP	[symfunc]-___-	
@@ -27,6 +27,7 @@ Score	UserID	Lang	Pseudo	#optim,count=67,time=2020-02-11 00:30:19
 43	3533119	PHP	wlesavo	
 38	1464932	PHP	Tiramon	
 33	2077805	C++	bamilan	
+32	490588	Python3	Uljahn	
 32	973040	C	papyjo	
 27	1766181	PHP	jantorestolsvik	
 26	3657893	C	aAardvark	
@@ -36,8 +37,7 @@ Score	UserID	Lang	Pseudo	#optim,count=67,time=2020-02-11 00:30:19
 22	371603	Ruby	martin	
 22	2508635	PHP	hemhel	
 21	1203590	Java	al1	
-20	490588	Python3	Uljahn	
-19	1861258	Go	Nazdhun	
+20	1861258	PHP	Nazdhun	
 18	1987512	PHP	FreexXx	
 18	3229071	Java	megawarrior	
 18	3535500	PHP	[symfunc]polnaer	
@@ -49,9 +49,9 @@ Score	UserID	Lang	Pseudo	#optim,count=67,time=2020-02-11 00:30:19
 9	2373953	TypeScript	Dridriun	
 8	1172385	C#	LuckyMe	
 7	1728288	C#	MOLP	
+5	734401	C++	b0n5a1	
 4	888898	PHP	helgui	
 4	3424530	PHP	[symfunc]_Dreamer	
-3	734401	C++	b0n5a1	
 3	3154694	Python3	TheAristos	
 2	1540478	C++	struct	
 2	2715508	Python3	Anth	
