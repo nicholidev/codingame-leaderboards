@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3400,time=2020-02-15 00:39:38
+Score	UserID	Lang	Pseudo	#optim,count=3401,time=2020-02-16 01:12:44
 2765	2288263	Rust	dbdr	
 2792	2316796	PHP	Psio	
 2793	1485989	Python3	ReActiveNZ	
@@ -291,6 +291,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3400,time=2020-02-15 00:39:38
 4640	3354689	Python3		
 4642	2711020	C++	Daniel_Sch	
 4647	949302	C	paweu	
+4650	155774	PHP	dwarfie	
 4653	1500515	C#	eulerscheZahl	
 4654	2731276	C#	panda42	
 4655	840350	Java	Anupam	
@@ -522,7 +523,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3400,time=2020-02-15 00:39:38
 5835	512097	Haskell	Stilgart	
 5835	772415	C++	Ozymandias	
 5835	2290633	Python3	field3	
-5836	155774	PHP	dwarfie	
 5837	1853352	Java	blindPhoenix	
 5838	971145	Python3	FranzR	
 5839	389632	Python3	ma	
@@ -606,6 +606,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3400,time=2020-02-15 00:39:38
 5861	954356	C++		
 5861	1483798	Ruby	hm001	
 5861	2715508	C++	Anth	
+5861	2959342	Scala	spemmons	
 5862	1128320	C++	acapela	
 5862	1164731	C++	Germain	
 5862	1595023	Javascript	rayd	
@@ -635,7 +636,9 @@ Score	UserID	Lang	Pseudo	#optim,count=3400,time=2020-02-15 00:39:38
 5875	908928	Java	estlinara	
 5875	2271162	Java	Dingodoodl	
 5876	994344	Java	Momopouccino	
+5876	3435179	Python3	Valphyr	
 5877	528275	Python3	Ikko69	
+5877	862336	C++	Zaphus	
 5877	880044	C#	Dalmali	
 5878	1162982	C++	bobknows	
 5879	863802	Java	adyg	
@@ -786,7 +789,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3400,time=2020-02-15 00:39:38
 5918	1947375	Java	DeepThought	
 5918	2463909	Java	ckobayashi	
 5919	844863	Java	Magnasilvar	
-5920	3435179	Python3	Valphyr	
 5922	596947	C++	LBandy	
 5922	1151631	Python3	hexabeast	
 5925	1639061	Python3	Anarcobra	
@@ -995,7 +997,5 @@ Score	UserID	Lang	Pseudo	#optim,count=3400,time=2020-02-15 00:39:38
 6001	1121088	Java	Silars	
 6001	1125706	C++	Saillou	
 6001	1167833	Javascript	mathmuffin	
-6001	1177179	Javascript	Vinorcola	
 6001	1211569	C++	GaurangMody	
 6001	1220528	Java	alexthi94	
-6001	1220859	C++	GAB	
