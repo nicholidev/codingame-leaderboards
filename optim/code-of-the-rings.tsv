@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3401,time=2020-02-16 01:12:44
+Score	UserID	Lang	Pseudo	#optim,count=3401,time=2020-02-17 01:02:32
 2765	2288263	Rust	dbdr	
 2792	2316796	PHP	Psio	
 2793	1485989	Python3	ReActiveNZ	
@@ -57,6 +57,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3401,time=2020-02-16 01:12:44
 3553	1131084	C#	pmod	
 3566	1336464	Perl	magaiti	
 3568	1822346	C++	Arcaseus	
+3576	155774	PHP	dwarfie	
 3577	1121543	Scala	Aube	
 3612	887560	Java	stok	
 3613	536400	C++	Atmel	
@@ -291,7 +292,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3401,time=2020-02-16 01:12:44
 4640	3354689	Python3		
 4642	2711020	C++	Daniel_Sch	
 4647	949302	C	paweu	
-4650	155774	PHP	dwarfie	
 4653	1500515	C#	eulerscheZahl	
 4654	2731276	C#	panda42	
 4655	840350	Java	Anupam	
@@ -368,6 +368,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3401,time=2020-02-16 01:12:44
 5429	1779483	C#	h.otto	
 5430	1326194	PHP	nicolef	
 5431	2339129	Python3	ChristianSloper	
+5436	1505744	Python3	KEKW	
 5437	3503501	C++	Dagnarus	
 5439	1257796	C	Oygron	
 5447	835054	Java	mkUltra	
@@ -423,7 +424,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3401,time=2020-02-16 01:12:44
 5660	3414863	Javascript	smsalisbury	
 5664	1488054	C++	vsakraf	
 5668	1501735	Python3	bernardlavilliers	
-5669	1505744	Python3	KEKW	
 5673	438981	Clojure	Drowsy	
 5674	959402	PHP	gmessier	
 5678	482543	C++	seshoumara	
@@ -468,6 +468,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3401,time=2020-02-16 01:12:44
 5743	2928146	PHP	LolCat	
 5746	2067176	Javascript	0bug	
 5748	1640896	Python3	MikeCorp	
+5750	3435179	Python3	Valphyr	
 5751	2158902	Scala	Snowbart	
 5754	854169	Python3	Silmaen	
 5755	347029	Go	Kevapo	
@@ -550,6 +551,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3401,time=2020-02-16 01:12:44
 5852	3407821	Go	SuperBandit228	
 5853	962495	C	Hiboot	
 5854	2717306	Python3	ewindels	
+5854	3046779	Python3	Kathrin	
 5856	1122412	Java	TheNinja	
 5858	953542	C	Hopeanuoli	
 5858	962324	Python3	passick	
@@ -599,7 +601,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3401,time=2020-02-16 01:12:44
 5860	2767070	Python3	mdps	
 5860	2888350	C	Vaner	
 5860	2997543	Python3	Python_Eats_Turtle	
-5860	3046779	Python3	Kathrin	
 5860	3354859	Python3	oneagain	
 5860	3611860	Python3	ChrisPBaconTM	
 5861	420035	Pascal	bvs23bkv33	
@@ -636,7 +637,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3401,time=2020-02-16 01:12:44
 5875	908928	Java	estlinara	
 5875	2271162	Java	Dingodoodl	
 5876	994344	Java	Momopouccino	
-5876	3435179	Python3	Valphyr	
 5877	528275	Python3	Ikko69	
 5877	862336	C++	Zaphus	
 5877	880044	C#	Dalmali	
