@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=73,time=2020-02-17 01:02:28
+Score	UserID	Lang	Pseudo	#optim,count=75,time=2020-02-18 00:37:08
 444	2288263	Rust	dbdr	
 353	3354337	C++	Westicles	
 335	1629259	PHP	Marchete	
@@ -8,14 +8,14 @@ Score	UserID	Lang	Pseudo	#optim,count=73,time=2020-02-17 01:02:28
 169	3165536	PHP	barbora	
 139	1500515	PHP	eulerscheZahl	
 137	1378958	PHP	Illedan	
+96	3533119	PHP	wlesavo	
 95	3457031	PHP	YurkovAS	
-95	3533119	PHP	wlesavo	
 80	2924895	C	trictrac	
+70	2311105	C++	kovi	
 69	338469	PHP	[symfunc]-___-	
-68	2311105	C++	kovi	
+69	490588	PHP	Uljahn	
 67	2786666	C++	TetraktysPhi	
 64	1489865	PHP	EricSMSO	
-63	490588	Python3	Uljahn	
 60	1457162	PHP	JFB	
 53	512097	Haskell	Stilgart	
 52	155774	PHP	dwarfie	
@@ -30,8 +30,10 @@ Score	UserID	Lang	Pseudo	#optim,count=73,time=2020-02-17 01:02:28
 38	1464932	PHP	Tiramon	
 33	2077805	C++	bamilan	
 32	973040	C	papyjo	
+30	862919	PHP	Astrobytes	
 27	1766181	PHP	jantorestolsvik	
 27	1861258	PHP	Nazdhun	
+27	2451652	PHP	code_of_the_dead	
 26	3657893	C	aAardvark	
 25	2069141	C#	tomeko	
 24	1272263	Python3	Caled	
@@ -40,6 +42,7 @@ Score	UserID	Lang	Pseudo	#optim,count=73,time=2020-02-17 01:02:28
 22	2508635	PHP	hemhel	
 21	1203590	Java	al1	
 21	2436448	Java	FrancoisMeme	
+18	1606588	OCaml	inoryy	
 18	1987512	PHP	FreexXx	
 18	3229071	Java	megawarrior	
 18	3535500	PHP	[symfunc]polnaer	
@@ -47,7 +50,6 @@ Score	UserID	Lang	Pseudo	#optim,count=73,time=2020-02-17 01:02:28
 13	820000	PHP	ValGrowth	
 13	889789	C	Alain-Delpuch	
 13	1830993	C#	jpcheck	
-12	1606588	Python3	inoryy	
 11	734401	C++	b0n5a1	
 11	2715508	Bash	Anth	
 10	2043908	D	AntiSquid	

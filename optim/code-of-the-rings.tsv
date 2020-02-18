@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3401,time=2020-02-17 01:02:32
+Score	UserID	Lang	Pseudo	#optim,count=3401,time=2020-02-18 00:37:14
 2765	2288263	Rust	dbdr	
 2792	2316796	PHP	Psio	
 2793	1485989	Python3	ReActiveNZ	
@@ -21,11 +21,11 @@ Score	UserID	Lang	Pseudo	#optim,count=3401,time=2020-02-17 01:02:32
 3207	841085	C#	Risen	
 3221	403748	C#	[CG]SaiksyApo	
 3238	1477749	C++	Shadeke	
+3276	1833680	C++	jeanpaul	
 3290	1136521	C	nadrek	
 3294	1798477	C#	mnivet	
 3333	973040	F#	papyjo	
 3340	2311105	C++	kovi	
-3353	1833680	C++	jeanpaul	
 3356	154984	PHP	_Royale	
 3367	806157	Python3	Aveuh	
 3370	371603	C++	martin	
@@ -55,9 +55,9 @@ Score	UserID	Lang	Pseudo	#optim,count=3401,time=2020-02-17 01:02:32
 3532	1687754	Java	cg123	
 3543	918352	Python3	CoYoTe99	
 3553	1131084	C#	pmod	
+3559	155774	PHP	dwarfie	
 3566	1336464	Perl	magaiti	
 3568	1822346	C++	Arcaseus	
-3576	155774	PHP	dwarfie	
 3577	1121543	Scala	Aube	
 3612	887560	Java	stok	
 3613	536400	C++	Atmel	
@@ -451,6 +451,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3401,time=2020-02-17 01:02:32
 5715	1876212	Python3	PFischbeck	
 5715	2711438	Python3	Aeneas	
 5720	1503564	C#	tihilv	
+5722	3435179	Python3	Valphyr	
 5723	1492070	Ruby		
 5724	648751	Haskell	dabino	
 5724	1229038	Python3	Kirsan	
@@ -468,7 +469,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3401,time=2020-02-17 01:02:32
 5743	2928146	PHP	LolCat	
 5746	2067176	Javascript	0bug	
 5748	1640896	Python3	MikeCorp	
-5750	3435179	Python3	Valphyr	
 5751	2158902	Scala	Snowbart	
 5754	854169	Python3	Silmaen	
 5755	347029	Go	Kevapo	
