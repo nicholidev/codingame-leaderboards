@@ -1,4 +1,5 @@
-Score	UserID	Lang	Pseudo	#optim,count=678,time=2020-02-20 00:48:31
+Score	UserID	Lang	Pseudo	#optim,count=678,time=2020-02-21 00:30:24
+11902	2288263	Rust	dbdr	
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
 11710	1500515	C#	eulerscheZahl	
@@ -6,7 +7,6 @@ Score	UserID	Lang	Pseudo	#optim,count=678,time=2020-02-20 00:48:31
 11196	1029833	C++	tourist	
 11102	2924895	C	trictrac	
 11009	1001096	C#	MyIIone	
-11001	2288263	Rust	dbdr	
 10984	1082988	C++	Saelyos	
 10969	1783604	C	Vry	
 10744	153774	C++	cocoche007	
@@ -219,10 +219,10 @@ Score	UserID	Lang	Pseudo	#optim,count=678,time=2020-02-20 00:48:31
 4051	1896128	C++	Vhanire	
 4042	2833220	Java	Alex311	
 4037	218189	C	[CG]Maxime	
+3997	2058158	C#	RolandKnight	
 3992	831171	Python3	Recoding	
 3957	857521	C#	MrAnderson	
 3929	3076371	C++	Eucerin	
-3928	2058158	C#	RolandKnight	
 3925	3503501	C++	Dagnarus	
 3882	1824376	Java	Kodle	
 3801	301922	Scala	tyrcho	
@@ -396,7 +396,7 @@ Score	UserID	Lang	Pseudo	#optim,count=678,time=2020-02-20 00:48:31
 1597	3223376	Python3	Far15	
 1584	1225445	C#	Lentaq	
 1584	1515544	Python3	Toka	
-1535	338469	C++	[symfunc]-___-	
+1535	338469	C++	-___-	
 1529	3223315	Python3	LMarmande	
 1509	889789	C	Alain-Delpuch	
 1509	1272263	Python3	Caled	

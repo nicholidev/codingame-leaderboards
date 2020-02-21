@@ -1,11 +1,13 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=10,time=2020-02-20 00:30:03
-3	28.4	1479930	2680171	C++	LeRenard	
-3	27.23	788361	2680753	C++	Bob	
-3	24.39	2924895	2681183	C	trictrac	
-3	18.82	973040	2682505	C	papyjo	
-3	18.09	2976964	2680551	Python3	BenjaminUrquhart	
-2	12.81	2416641	2680109	Python3	Zenoscave	
-2	6.87	2923506	2682340	C++	darkhorse64	
-1	19.96	2069141	2682384	C#	tomeko	
-1	16.62	1740037	2680864	Scala	ereiam	
-0	7.31	2043908	2680280	D	AntiSquid	
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=12,time=2020-02-21 00:30:06
+3	28.67	1479930	2680171	C++	LeRenard	
+3	27.52	788361	2680753	C++	Bob	
+3	23.67	2924895	2681183	C	trictrac	
+3	22.05	973040	2683781	C	papyjo	
+3	20.62	2290633	2682978	Python3	field3	
+3	18.99	2976964	2680551	Python3	BenjaminUrquhart	
+2	15.62	2069141	2682987	C#	tomeko	
+2	12.85	2416641	2680109	Python3	Zenoscave	
+2	7.06	2923506	2682340	C++	darkhorse64	
+1	17.96	1740037	2680864	Scala	ereiam	
+0	7.51	2043908	2680280	D	AntiSquid	
+0	7.1	1713174	2683174	Python3	BigUP	
