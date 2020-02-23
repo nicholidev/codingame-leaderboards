@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4596,time=2020-02-22 00:47:22
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4596,time=2020-02-23 00:45:34
 0	46.75	1433161	1484525	C	Mingu	
 0	45.62	494104	455215	C++	Recar	
 0	45.61	990110	357643	C++	Rogerup	
@@ -544,10 +544,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4596,time=2020-02-22 00:47:
 0	33.31	1202382	370229	Java	FredFz	
 0	33.28	369018	452292	C++	Bnc	
 0	33.27	244742	351221	C#	bhdejager	
-0	33.24	435076	351533	Java	Azurith	
 0	33.24	692782	1466297	C++	lafraise	
 0	33.24	955137	347727	Javascript	balamir53	
 0	33.2	1032334	349138	Java	lukasz.garb	
+0	33.16	435076	351533	Java	Azurith	
 0	33.08	155920	353187	PHP	t2_cyborg	
 0	33.05	601088	354014	C++	Garvys	
 0	33.05	2488368	1916524	OCaml	MPSI-LIV_frayien	
@@ -662,12 +662,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4596,time=2020-02-22 00:47:
 0	32.26	1818159	2429944	C++	JRFerguson	
 0	32.26	1427078	485036	Java	ToshiTuringMachine	
 0	32.26	1062192	348596	C	Ch_Amine	
+0	32.26	1078563	351968	C++	MiniMe	
 0	32.25	877003	350476	C++	PauloCezar	
 0	32.25	900666	353240	Java	lgsmitty	
 0	32.24	406152	357568	Python	TiarinBlate	
 0	32.24	1061542	355530	Java	Mwha	
 0	32.24	153661	354407	C++	Lionel	
-0	32.23	1078563	351968	C++	MiniMe	
 0	32.23	1512968	906123	Java	cuduputu	
 0	32.22	1305685	1313021	Python3	grigoriy.tretyakov	
 0	32.21	704737	368735	Python	Azelo	
@@ -686,6 +686,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4596,time=2020-02-22 00:47:
 0	32	1087109	361761	C++	Norival	
 0	31.99	1488036	642447	Python3	vlabbe	
 0	31.97	972414	353118	Java	Hackman	
+0	31.93	1356964	1086223	Java	Willathon	
 0	31.91	373704	350653	Ruby	LumpyMango	
 0	31.86	1039809	349183	C#	Azziliz	
 0	31.85	1132495	370402	Java	Yaayoun	
@@ -694,7 +695,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4596,time=2020-02-22 00:47:
 0	31.83	973948	365559	Python3	Amnesix	
 0	31.82	1426525	451326	Python3	FrankVieira	
 0	31.8	1064518	354080	Java	lombosp	
-0	31.79	1356964	1086223	Java	Willathon	
 0	31.73	2590149	2061759	Python3	GoofyGas	
 0	31.72	958245	357195	C#	himanshu.gupta	
 0	31.68	1039319	1884369	PHP	pneus84	

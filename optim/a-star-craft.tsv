@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=678,time=2020-02-22 00:47:31
+Score	UserID	Lang	Pseudo	#optim,count=678,time=2020-02-23 00:45:39
 11902	2288263	Rust	dbdr	
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
@@ -206,6 +206,8 @@ Score	UserID	Lang	Pseudo	#optim,count=678,time=2020-02-22 00:47:31
 4326	1584802	C++	emh	
 4313	2864069	Java		
 4305	952784	Java	Simon21	
+4301	865548	Python3	Kktus	
+4234	2058158	C#	RolandKnight	
 4222	969333	C++	JasperV	
 4217	2360690	C++	Galrauch	
 4205	1568785	C	Chalzy	
@@ -219,7 +221,6 @@ Score	UserID	Lang	Pseudo	#optim,count=678,time=2020-02-22 00:47:31
 4051	1896128	C++	Vhanire	
 4042	2833220	Java	Alex311	
 4037	218189	C	[CG]Maxime	
-3997	2058158	C#	RolandKnight	
 3992	831171	Python3	Recoding	
 3957	857521	C#	MrAnderson	
 3929	3076371	C++	Eucerin	
@@ -533,7 +534,7 @@ Score	UserID	Lang	Pseudo	#optim,count=678,time=2020-02-22 00:47:31
 1045	2696966	Java	Bobifri	
 1045	2703805	Python3	Devo	
 1045	2713608	Ruby	LostSymphony	
-1045	2714945	Javascript	TheCodeDuck	
+1045	2714945	Javascript	JonhDoe101	
 1045	2725632	C++	Warren_Pons	
 1045	2739951	Python3	Raptile	
 1045	2767523	Python3	yannOrhon	
@@ -621,7 +622,6 @@ Score	UserID	Lang	Pseudo	#optim,count=678,time=2020-02-22 00:47:31
 1020	1581157	C++	kurmis	
 1010	569247	Python3	LaurentBouvier	
 1010	849746	Python3	lmj	
-1010	865548	Python3	Kktus	
 1010	1043290	Kotlin	Minsky	
 1010	1167980	Javascript	qoobus	
 1010	1552097	C#	Dinnot	
