@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2326,time=2020-02-23 00:45:31
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2327,time=2020-02-24 00:30:11
 5	32.07	1327028	2102329	C++	FredericBautista	
 5	31.26	1413236	511966	Go	Medici	
 5	31.11	1500515	2061718	C++	eulerscheZahl	
@@ -820,6 +820,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2326,time=2020-02-23 00:45:
 1	23.19	1495350	591678	PHP	Wranorn	
 1	23.19	1559074	735117	C#	Meilby	
 1	23.19	1053403	747446	C#	indomit	
+1	23.18	1504640	609670	Javascript	Wicpar	
 1	23.18	754792	906113	C++	Ramdeath	
 1	23.17	1066028	746798	PHP	JrmC	
 1	23.17	1397268	2454349	C	RTLB	
@@ -829,7 +830,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2326,time=2020-02-23 00:45:
 1	23.16	801375	495101	C++	Lord_Farawyn	
 1	23.16	1385478	498347	Python3	ssssssssssssspppppprrrrrrrr	
 1	23.16	1676969	789328	Java	Louenes	
-1	23.15	1504640	609670	Javascript	Wicpar	
 1	23.15	1620096	749641	C	InvisibleUSA	
 1	23.15	3331361	2346994	Javascript	Hikyu	
 1	23.14	1458250	582666	Python3	Epsilonmajorquezero	
@@ -950,13 +950,14 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2326,time=2020-02-23 00:45:
 1	22.78	1463609	494480	Javascript	FabFive-2	
 1	22.78	1434004	762973	PHP	maxbatura	
 1	22.78	1450614	493927	Java	Pixsll	
+1	22.78	1491449	581747	C++	Marvel	
 1	22.77	1078446	668296	C++	[CPC]Madgic	
 1	22.77	386279	495760	Python3	Amikum	
 1	22.77	810902	628546	Python	bouletta	
 1	22.76	1573009	679131	C++	Fibonacci-	
 1	22.76	1604839	722158	Javascript	Smeletz	
-1	22.76	1491449	581747	C++	Marvel	
 1	22.76	1609974	702120	Javascript	ManosSg	
+1	22.74	801842	2686227	C++	waleedziad	
 1	22.74	1600351	687536	Python	rmark	
 1	22.74	1075687	615127	Java	elefank	
 1	22.74	1612143	721322	PHP	NikosKoukos	
@@ -965,20 +966,20 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2326,time=2020-02-23 00:45:
 1	22.73	1502114	604645	C#	Sambock	
 1	22.73	2187656	1468455	Lua	RanXerox	
 1	22.73	1273475	570241	C	Charles-Elie.Taupin	
+1	22.73	1463578	494529	Javascript	MarkusMulkahainen	
 1	22.72	1461776	494222	Rust	Ghogis	
-1	22.71	1721279	882346	Java	xkevex	
+1	22.72	2085679	1486112	C#	ColtonGrimmesey	
 1	22.71	1027949	611747	C++	Oetmateo	
+1	22.71	1721279	882346	Java	xkevex	
 1	22.7	1515544	635281	Python3	Toka	
 1	22.7	1683520	923066	Javascript	FurNocte	
 1	22.7	1753121	912652	Python	Fumo201	
-1	22.7	1463578	494529	Javascript	MarkusMulkahainen	
 1	22.7	2451147	1658070	Python3	Lune-Ares	
 1	22.69	1472234	512253	C#	Filip.Lada	
 1	22.69	1794376	969204	Java	Mufflan	
 1	22.69	1656386	760825	C++	miszczu	
 1	22.69	1269827	642071	Java	bcourtine	
 1	22.69	509617	493272	Javascript	yamahamm	
-1	22.69	2085679	1486112	C#	ColtonGrimmesey	
 1	22.68	1517119	1418573	Python3	anej	
 1	22.68	1512821	630661	C#	tiredknees	
 1	22.67	2422378	1771756	Javascript	C2H5OH	
@@ -998,4 +999,3 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2326,time=2020-02-23 00:45:
 1	22.65	1895914	1102305	C++	segfaulted	
 1	22.65	1501413	603380	C++	Aergon	
 1	22.65	1445241	495925	Javascript	Trial-by-fire	
-1	22.64	1383429	485545	Java	SaintsRock	
