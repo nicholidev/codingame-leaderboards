@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=5168,time=2020-03-05 00:38:33
+Score	UserID	Lang	Pseudo	#optim,count=5170,time=2020-03-06 02:31:36
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -60,6 +60,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5168,time=2020-03-05 00:38:33
 243100	888898	C++	helgui	
 242380	820983	Javascript	Funnybobby	
 240890	1178276	Java	Jerome_95	
+239590	1449433	C++	Rolf	
 239160	2232811	Javascript	nargile	
 238100	2579384	Rust	vlad107	
 235220	2007852	Go	Zorg1	
@@ -67,7 +68,6 @@ Score	UserID	Lang	Pseudo	#optim,count=5168,time=2020-03-05 00:38:33
 234480	1206537	C++	MadKnight	
 233830	528262	C	Niii	
 232390	1082167	C++	Smatcher	
-232280	1449433	C++	Rolf	
 232230	154858	Javascript	PoF	
 232020	1876212	C++	PFischbeck	
 229430	155939	C	xylo	
@@ -108,6 +108,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5168,time=2020-03-05 00:38:33
 199570	1658067	Java	pstavrianos	
 199360	331880	Scala	Monstruo	
 199310	3298022	C	IKEJIME	
+199060	1194057	C++	Altivar	
 198650	153683	Dart	40R15T3	
 197300	1464932	Java	Tiramon	
 196780	1808019	Java	Aelexe	
@@ -333,8 +334,8 @@ Score	UserID	Lang	Pseudo	#optim,count=5168,time=2020-03-05 00:38:33
 68800	1353669	Python3	XAnimaX	
 68680	225984	PHP	GJohn	
 68460	2215302	C++	west	
+68230	3699369	Java	Pithibou	
 67900	1740037	Scala	ereiam	
-67790	3699369	Java	Pithibou	
 67780	3387053	Javascript	best-team	
 67370	2711016	C#	Manuel0814	
 67140	1767134	Java	AntonYuriev	
@@ -379,7 +380,6 @@ Score	UserID	Lang	Pseudo	#optim,count=5168,time=2020-03-05 00:38:33
 64930	509738	C#	Konrad_Wer	
 64890	1372843	Java	djjeck	
 64870	1374531	Java	tchitch	
-64780	1194057	C++	Altivar	
 64770	1590522	Python3	Eddyty	
 64700	3418703	C++		
 64660	1066745	Java	JohnRambo	
@@ -651,7 +651,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5168,time=2020-03-05 00:38:33
 61660	1067087	Java	Testoubidou	
 61660	3386295	C++		
 61650	1825335	Python3	TiNico	
-61650	3685512	C		
+61650	3685512	C	TeamTV	
 61630	2060130	C#	zNature	
 61620	599629	VB.NET	robwaw	
 61620	1373231	Python3	shypiguy	
