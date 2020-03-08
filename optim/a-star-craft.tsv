@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=686,time=2020-03-07 01:01:52
+Score	UserID	Lang	Pseudo	#optim,count=687,time=2020-03-08 01:40:29
 11902	2288263	Rust	dbdr	
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
@@ -242,6 +242,7 @@ Score	UserID	Lang	Pseudo	#optim,count=686,time=2020-03-07 01:01:52
 3602	2449144	Python3	Squiki	
 3602	2644772	Python3	Airwaito	
 3602	3326844	Python3		
+3602	3410351	Python3	Deltaspace	
 3602	3590712	Python3		
 3596	1433688	C++	Geropy	
 3573	1920644	C++	Skygge	
