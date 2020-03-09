@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3428,time=2020-03-08 01:40:33
+Score	UserID	Lang	Pseudo	#optim,count=3429,time=2020-03-09 00:33:27
 2765	2288263	Rust	dbdr	
 2792	2316796	PHP	Psio	
 2793	1485989	Python3	ReActiveNZ	
@@ -8,9 +8,9 @@ Score	UserID	Lang	Pseudo	#optim,count=3428,time=2020-03-08 01:40:33
 2897	1333869	Python3	kiwijam	
 2923	1415495	C++	fenrir	
 2977	1514534	Java	louis78700	
+2994	1833680	C++	jvivenot	
 2999	1323814	Clojure	SatineChatounette	
 3004	557990	C++	Wazemo	
-3025	1833680	C++	jvivenot	
 3027	1039809	C#	Azziliz	
 3101	922880	C#	Leshka	
 3108	1307473	C++	Evgenykz	
@@ -206,6 +206,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3428,time=2020-03-08 01:40:33
 4212	370969	C#	fgeo	
 4216	937214	C#	KissCool	
 4217	1715391	Java	Skolin	
+4220	1505744	Python3	KEKW	
 4224	1713497	C#	NoisyBoy	
 4228	950545	C#	Cobru	
 4229	783215	C++	AndreiS	
@@ -241,7 +242,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3428,time=2020-03-08 01:40:33
 4375	810438	C++	Sasurai	
 4376	947280	C#	darkflame	
 4380	808780	Scala	nautilus	
-4381	1505744	Python3	KEKW	
 4385	1848459	Java	perlebach	
 4389	552776	Javascript	player_one	
 4397	1879852	Java		
@@ -494,6 +494,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3428,time=2020-03-08 01:40:33
 5784	907714	Java	Janot	
 5786	870313	Scala	Aash	
 5787	1600779	C#	AustinSpafford	
+5787	3678513	C	glycol	
 5788	335818	Java	TyraEl	
 5788	1212198	Java	kernel78	
 5789	776401	C#	mshogren	
@@ -956,7 +957,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3428,time=2020-03-08 01:40:33
 6001	189082	Javascript	bejalal17	
 6001	194094	C++	Veei	
 6001	200070	Ruby	Ephasme	
-6001	221648	C++	svankoot	
 6001	298047	Java	HoussemSadfi	
 6001	421214	Python3	Florentin68	
 6001	492228	Groovy	Groszeq	
