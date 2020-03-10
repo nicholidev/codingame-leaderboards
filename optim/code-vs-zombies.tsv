@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=5182,time=2020-03-09 00:33:26
+Score	UserID	Lang	Pseudo	#optim,count=5184,time=2020-03-10 00:54:01
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -82,12 +82,12 @@ Score	UserID	Lang	Pseudo	#optim,count=5182,time=2020-03-09 00:33:26
 220500	2924895	C	trictrac	
 219310	992329	C++	BeeGee	
 219170	1734105	C++	Bibou	
+218620	1194057	C++	Altivar	
 217000	1173064	C#	a.oryol	
 215220	1753077	C++	codingWhale	
 213710	1705689	Java	XanX3601	
 212920	1284747	C++	mr-push	
 212000	1754295	C++	SF	
-210850	1194057	C++	Altivar	
 209850	1845617	C++	Shingyx	
 209700	1341520	C	egaetan	
 209600	2455616	Java	JeanClaude44	
@@ -132,6 +132,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5182,time=2020-03-09 00:33:26
 182170	1830993	C#	jpcheck	
 181840	1712255	Go	Ukster	
 180950	1709003	Java	csaurin	
+180630	1059996	C#	Molybdene	
 179700	1842010	C#	southpolenator	
 178580	1455753	Go	Lysk	
 178480	1173137	C++	chouetz	
@@ -149,6 +150,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5182,time=2020-03-09 00:33:26
 171870	1258533	Rust	MathJason	
 171820	957176	F#	MWilliam	
 171720	1096201	Javascript	Maksimov	
+171550	1883740	C++	kermo	
 171060	1049935	C++	Azkellas	
 170820	2592027	C#	ParticleBeam	
 170610	886483	ObjectiveC	R4N4R4M4	
@@ -236,7 +238,6 @@ Score	UserID	Lang	Pseudo	#optim,count=5182,time=2020-03-09 00:33:26
 108280	3055749	Go	MatLeChacal	
 108120	3387072	Javascript		
 108070	1131250	Perl	Jooo	
-106120	1059996	C#	Molybdene	
 106100	857521	C#	MrAnderson	
 105520	811004	C++	tarte7	
 105210	2882669	C++		
@@ -514,6 +515,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5182,time=2020-03-09 00:33:26
 63740	1652988	Javascript	wardialer	
 63740	2006185	C++	Truelight	
 63730	3601127	Java	Commbiekillers	
+63710	3666046	Go	individual-it	
 63690	1713497	C#	NoisyBoy	
 63670	894985	Java	Warrows	
 63620	2689595	C++	youknowtherules	
@@ -641,7 +643,6 @@ Score	UserID	Lang	Pseudo	#optim,count=5182,time=2020-03-09 00:33:26
 62040	1062481	Java	MauroSemproni	
 62040	1218532	C#	Dutches	
 62010	1135907	Java	Basemasta	
-61970	3666046	Go	individual-it	
 61950	1372965	C#	Crabar	
 61900	1071479	Java	Shakkah	
 61820	416762	Javascript	Khao	
@@ -996,6 +997,5 @@ Score	UserID	Lang	Pseudo	#optim,count=5182,time=2020-03-09 00:33:26
 56760	2271162	Java	Dingodoodl	
 56750	1070874	C++	Sincos	
 56730	1434665	Clojure	zenon2002	
-56700	584002	Kotlin	Ziberath	
+56720	3002482	F#	frostsergei	
 56700	1403307	C#	mikko.viitala	
-56660	1054276	C#	Alexein	
