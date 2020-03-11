@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=5184,time=2020-03-10 00:54:01
+Score	UserID	Lang	Pseudo	#optim,count=5190,time=2020-03-11 20:09:44
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -39,7 +39,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5184,time=2020-03-10 00:54:01
 319900	1756952	C++	Petras	
 317110	1064903	C++	Ghirtor	
 315410	1854246	C++	Counterbalance	
-294780	155774	C++	dwarfie	
+304050	155774	C++	dwarfie	
 288020	2311105	C++	kovi	
 287290	788361	C++	Bob	
 286210	153774	C++	cocoche007	
@@ -48,6 +48,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5184,time=2020-03-10 00:54:01
 273310	622213	Python3	Ornicare	
 268480	889789	C	Alain-Delpuch	
 263060	837350	C++	BorisZ	
+259350	1059996	C#	Molybdene	
 254420	1140756	C++	BarbsMan	
 254000	153678	Go	dknn	
 253340	1314316	C++	jolindien	
@@ -59,6 +60,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5184,time=2020-03-10 00:54:01
 246140	1314796	C#	JBence	
 245640	854952	Java	dolmen1234	
 243100	888898	C++	helgui	
+242510	1194057	C++	Altivar	
 242380	820983	Javascript	Funnybobby	
 240890	1178276	Java	Jerome_95	
 239590	1449433	C++	Rolf	
@@ -82,8 +84,8 @@ Score	UserID	Lang	Pseudo	#optim,count=5184,time=2020-03-10 00:54:01
 220500	2924895	C	trictrac	
 219310	992329	C++	BeeGee	
 219170	1734105	C++	Bibou	
-218620	1194057	C++	Altivar	
 217000	1173064	C#	a.oryol	
+215900	1883740	C++	kermo	
 215220	1753077	C++	codingWhale	
 213710	1705689	Java	XanX3601	
 212920	1284747	C++	mr-push	
@@ -132,7 +134,6 @@ Score	UserID	Lang	Pseudo	#optim,count=5184,time=2020-03-10 00:54:01
 182170	1830993	C#	jpcheck	
 181840	1712255	Go	Ukster	
 180950	1709003	Java	csaurin	
-180630	1059996	C#	Molybdene	
 179700	1842010	C#	southpolenator	
 178580	1455753	Go	Lysk	
 178480	1173137	C++	chouetz	
@@ -150,7 +151,6 @@ Score	UserID	Lang	Pseudo	#optim,count=5184,time=2020-03-10 00:54:01
 171870	1258533	Rust	MathJason	
 171820	957176	F#	MWilliam	
 171720	1096201	Javascript	Maksimov	
-171550	1883740	C++	kermo	
 171060	1049935	C++	Azkellas	
 170820	2592027	C#	ParticleBeam	
 170610	886483	ObjectiveC	R4N4R4M4	
@@ -168,7 +168,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5184,time=2020-03-10 00:54:01
 160250	1610001	C++	Babilonio	
 158400	2731276	C++	panda42	
 158350	608132	C	seiji	
-157560	1853956	PHP	Nkoyan	
+157560	1853956	PHP	yoannk	
 157270	2364277	C#	Rubms	
 156030	1162034	C#	krakeusz	
 154980	414278	Java	oobException	
@@ -704,6 +704,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5184,time=2020-03-10 00:54:01
 61040	1393621	Python3	GillesV	
 61040	1395742	Python3	kugartherl	
 61040	2534643	C#	Ook4	
+61030	827741	Java	MuineXD	
 61020	1001636	Java	Nightwatcher	
 61000	970198	Javascript	rontav	
 61000	1096926	Python3	Alumet	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=5184,time=2020-03-10 00:54:01
 56750	1070874	C++	Sincos	
 56730	1434665	Clojure	zenon2002	
 56720	3002482	F#	frostsergei	
-56700	1403307	C#	mikko.viitala	

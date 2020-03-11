@@ -1,14 +1,14 @@
-Score	UserID	Lang	Pseudo	#optim,count=3429,time=2020-03-10 00:54:03
+Score	UserID	Lang	Pseudo	#optim,count=3430,time=2020-03-11 20:09:45
 2765	2288263	Rust	dbdr	
 2792	2316796	PHP	Psio	
 2793	1485989	Python3	ReActiveNZ	
-2822	1301401	C#	Stanax	
+2818	1301401	C#	Stanax	
 2851	1156834	Python3	dave9000	
 2851	1399382	C#	Regulus136	
 2897	1333869	Python3	kiwijam	
+2900	1833680	C++	jvivenot	
 2923	1415495	C++	fenrir	
 2977	1514534	Java	louis78700	
-2984	1833680	C++	jvivenot	
 2999	1323814	Clojure	SatineChatounette	
 3004	557990	C++	Wazemo	
 3027	1039809	C#	Azziliz	
@@ -154,6 +154,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3429,time=2020-03-10 00:54:03
 3950	2820691	C++		
 3955	833606	Java	mattrero	
 3963	660374	Haskell	nomeata	
+3964	1505744	Python3	KEKW	
 3972	153674	C	GQMP	
 3972	337622	Scala	Isammoc	
 3976	1778295	Javascript	41x	
@@ -180,7 +181,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3429,time=2020-03-10 00:54:03
 4045	936661	Python3	bdvir	
 4059	1353260	Java	kluf	
 4061	915957	C	Tux	
-4080	1505744	Python3	KEKW	
 4081	518726	Haskell	nybble41	
 4081	2451652	Javascript	code_of_the_dead	
 4088	607150	Java	Frisky	
