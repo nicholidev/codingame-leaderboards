@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3569,time=2020-03-12 00:30:10
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3570,time=2020-03-13 00:30:09
 5	35.77	1629259	2238218	C++	Marchete	
 5	33.24	494104	960105	C++	Recar	
 5	32.18	818534	960075	C++	Ixanezis	
@@ -777,8 +777,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3569,time=2020-03-12 00:30:
 3	26.75	950512	944180	Python3	salim.aboubacar	
 3	26.73	842381	937466	C	Mounhy	
 3	26.72	2590149	2422475	Python3	GoofyGas	
+3	26.7	857521	2246452	C#	MrAnderson	
 3	26.66	2218830	1496234	F#	mateuszlewko	
-3	26.65	857521	2246452	C#	MrAnderson	
 3	26.55	792261	937965	C++	IKKYU	
 3	26.54	962021	937954	PHP	DJMcTom	
 3	26.5	617210	937380	C++	Suzue	
@@ -843,7 +843,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3569,time=2020-03-12 00:30:
 3	25.2	834043	937997	C#	Benoit74B	
 3	25.19	1106450	971809	C++	RiSuS	
 3	25.15	173522	937504	C#	TeddyS	
-3	25.15	816936	937984	Python3	aurimukas	
 3	25.14	330929	937993	Java	shilov	
 3	25.09	276099	937854	C++	R1	
 3	25.08	648978	937945	C++	winger	
@@ -853,10 +852,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3569,time=2020-03-12 00:30:
 3	25.03	817812	937892	C++	hiro00	
 3	25.02	2455124	2475576	C	Agiordan	
 3	24.99	810568	938195	C++	Drake	
+3	24.97	816936	937984	Python3	aurimukas	
 3	24.97	1480384	963493	C++	RockyMullet	
 3	24.96	957775	2679160	Javascript	Sutat	
 3	24.93	1015020	937887	C#	Scepheo	
-3	24.92	815710	937970	Java	Frax	
+3	24.93	815710	937970	Java	Frax	
 3	24.91	233077	937482	C#	adhie	
 3	24.9	3274477	2325627	Java	Flynn_Taggart	
 3	24.88	1113897	973840	C	G.Pino	
@@ -912,7 +912,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3569,time=2020-03-12 00:30:
 3	23.08	812420	937437	Python3	rndczn	
 3	23.03	370485	937470	Java	K3YM4K3R	
 3	23	1787026	949787	Javascript	xurei	
-3	22.99	894599	969297	Java	DidierC	
+3	23	894599	969297	Java	DidierC	
 3	22.98	2891206	2128722	Javascript	conrisc	
 3	22.98	300874	938132	Java	PeturIngiEgilsson	
 3	22.98	3436857	2589793	Python3	AyrtonEverton	
@@ -980,9 +980,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3569,time=2020-03-12 00:30:
 3	22.32	574513	938095	PHP	Yassin	
 3	22.32	2566513	1839150	Java	Megazords	
 3	22.32	2581166	1824403	Java	cashis	
-3	22.31	893027	1393683	Python	R.Janvier	
 3	22.3	347894	938012	Python3	baloo	
 3	22.29	911777	1581264	F#	MasakiKyosuke	
+3	22.26	893027	1393683	Python	R.Janvier	
 3	22.18	821333	937882	C++	jube	
 3	22.17	1341520	2050848	Java	egaetan	
 3	22.16	974456	937683	Java	Nemrod	
