@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=137,time=2020-03-13 01:31:28
+Score	UserID	Lang	Pseudo	#optim,count=138,time=2020-03-14 02:09:59
 500	2288263	Rust	dbdr	
 500	3354337	C++	Westicles	
 335	1629259	PHP	Marchete	
@@ -25,6 +25,7 @@ Score	UserID	Lang	Pseudo	#optim,count=137,time=2020-03-13 01:31:28
 52	925695	PHP	Boulet	
 52	1479930	PHP	LeRenard	
 52	2406605	Python3	docri	
+52	385699	C	Nikai	
 51	1066745	PHP	JohnRambo	
 50	3564009	Lua	Waffle3z	
 45	2416641	PHP	Zenoscave	
@@ -39,15 +40,14 @@ Score	UserID	Lang	Pseudo	#optim,count=137,time=2020-03-13 01:31:28
 27	1766181	PHP	jantorestolsvik	
 27	1861258	PHP	Nazdhun	
 27	2451652	PHP	code_of_the_dead	
-27	385699	C	Nikai	
 26	3657893	C	aAardvark	
 25	2069141	C#	tomeko	
 24	1436776	PHP	BrainSolver	
 24	1272263	Python3	Caled	
+24	792813	Python3	VilBoub	
 23	1579653	PHP	zweedeend	
 22	2508635	PHP	hemhel	
 22	371603	Ruby	martin	
-22	792813	Python3	VilBoub	
 21	1203590	Java	al1	
 21	3697164	PHP	panemaker	
 20	2715508	Bash	Anth	
@@ -69,6 +69,7 @@ Score	UserID	Lang	Pseudo	#optim,count=137,time=2020-03-13 01:31:28
 13	2534573	C++	xfaure	
 13	3652833	C#	discentis	
 13	890630	C#	Shurishe	
+13	2924064	Java	6po	
 12	734401	C++	b0n5a1	
 10	2043908	D	AntiSquid	
 9	2373953	TypeScript	Dridriun	
