@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2185,time=2020-03-14 02:09:55
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2185,time=2020-03-15 00:34:25
 5	41.19	832306	1764125	C++	pb4	
 5	40.27	1400179	1499905	C++	reCurse	
 5	36.07	1629259	2238208	C++	Marchete	
@@ -756,11 +756,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2185,time=2020-03-14 02:09:
 3	18.77	3693029	2686375	Java	NikolasMori	
 3	18.77	865548	964532	Python3	Kktus	
 3	18.75	3409910	2489262	Java	Tahmeed	
+3	18.72	831778	897964	Python3	jedau	
 3	18.69	3476715	2494383	Java		
 3	18.67	893027	1393385	Python	R.Janvier	
 3	18.67	1648261	897890	C++	Efuveo	
 3	18.65	270881	897218	Python3	Maurice_Moss	
-3	18.63	831778	897964	Python3	jedau	
 3	18.62	3680080	2692973	Java	ArturApache	
 3	18.58	3409104	2444883	Java	TayR	
 3	18.52	1542460	906121	Java	[CPC]totoleharicotvert	
@@ -799,7 +799,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2185,time=2020-03-14 02:09:
 3	17.45	3655977	2672738	C++	haydee_rivera2	
 3	17.43	3680077	2688535	Java	modusPonens	
 3	17.28	1699384	897103	C#	Suikoden	
-3	17.13	3476686	2497564	Java		
 3	17.13	3692348	2686232	Java	mysterioussss	
 3	17.12	1861258	1762217	Python3	Nazdhun	
 3	17.09	3413960	2445075	Java	Tahlil803	
@@ -814,6 +813,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2185,time=2020-03-14 02:09:
 3	17.05	869440	2428807	PHP	pjonckiere	
 3	17.05	1712140	898491	C#	Alexandrew	
 3	17.04	1426682	908057	Javascript	ManpreetMatharu	
+3	17.04	3476686	2497564	Java		
 3	17.04	1194054	918117	C++	Bidembois	
 3	17.03	2118430	1416101	Javascript	ClemenceLaffont	
 3	17.03	1294575	1090996	Javascript	SackPhantom	
@@ -861,6 +861,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2185,time=2020-03-14 02:09:
 3	16.61	1458393	2082159	Java	IJKL	
 3	16.58	3168989	2245533	Java	ChrisNeubauer	
 3	16.58	1272263	978248	Python3	Caled	
+3	16.56	3416601	2448590	Java	NLTT	
 3	16.56	3642580	2688727	Java	DamItNasa	
 3	16.56	1624965	897272	Java	tazee	
 3	16.55	2551407	2473852	Python3	SmellyPickle	
@@ -870,7 +871,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2185,time=2020-03-14 02:09:
 3	16.49	3211735	2444795	Python3	Fireballl	
 3	16.49	3697135	2699120	Java	FrendLee	
 3	16.48	1487024	897059	Python	zhazhazhazha	
-3	16.47	3416601	2448590	Java	NLTT	
 3	16.46	1611699	909122	Java	EpiFlop	
 3	16.45	1753424	997871	Python3	FilkinKuiv	
 3	16.44	1861300	1128696	C#	Jakkyl	
@@ -953,7 +953,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2185,time=2020-03-14 02:09:
 3	15.19	1730111	967175	Python3	DrDadik	
 3	15.19	999433	921096	C++	mariazambeste	
 3	15.18	3309534	2386477	Java	WallPeller	
-3	15.17	3305510	2647727	PHP	TBali	
 3	15.17	3410182	2443992	Javascript	OwenWongCOSC121	
 3	15.17	1355842	897072	Java	slaghn	
 3	15.17	1862429	1490004	Javascript	RookieRick	
@@ -972,6 +971,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2185,time=2020-03-14 02:09:
 3	15.13	1070781	917164	Python3	Peterke	
 3	15.12	2114863	1759726	Javascript	QWERTy	
 3	15.12	1721506	1487546	Python3	jmutz	
+3	15.12	3305510	2647727	PHP	TBali	
 3	15.11	1096274	1094426	C#	DrBrask	
 3	15.11	1722767	1583397	Python	Nuni	
 3	15.1	1393074	912465	Python3	forceOfHabit	
