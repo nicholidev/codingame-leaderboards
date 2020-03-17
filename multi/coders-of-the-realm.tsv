@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=17,time=2020-03-16 00:30:05
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=18,time=2020-03-17 00:30:06
 3	29.25	2288263	2696905	Rust	dbdr	
 3	28.49	2924895	2694647	C	trictrac	
 3	28.42	1479930	2680171	C++	LeRenard	
@@ -14,5 +14,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=17,time=2020-03-16 00:30:05
 2	14.32	2416641	2680109	Python3	Zenoscave	
 2	10.47	2923506	2682340	C++	darkhorse64	
 2	6.79	1029602	2695889	C	Potemkine	
-0	6.88	1713174	2683174	Python3	BigUP	
-0	6.84	2043908	2680280	D	AntiSquid	
+1	1.36	1464932	2704468	Java	Tiramon	
+0	6.69	2043908	2680280	D	AntiSquid	
+0	6.55	1713174	2683174	Python3	BigUP	
