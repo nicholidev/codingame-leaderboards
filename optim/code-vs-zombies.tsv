@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=5201,time=2020-03-18 01:04:17
+Score	UserID	Lang	Pseudo	#optim,count=5202,time=2020-03-19 02:01:23
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -337,6 +337,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5201,time=2020-03-18 01:04:17
 68800	1353669	Python3	XAnimaX	
 68680	225984	PHP	GJohn	
 68460	2215302	C++	west	
+68420	3044280	Python3	AminGholizad	
 68230	3699369	Java	Pithibou	
 67900	1740037	Scala	ereiam	
 67780	3387053	Javascript	best-team	
@@ -370,7 +371,6 @@ Score	UserID	Lang	Pseudo	#optim,count=5201,time=2020-03-18 01:04:17
 65590	3418514	Python3	TheBeltingBardYouWishWouldnt	
 65450	1293284	Python3	NaraJeamfry	
 65430	1510662	Java	Nandreas	
-65390	3044280	Python3	AminGholizad	
 65340	2400479	Java	lanoix	
 65330	1506997	Javascript	Jevgeni	
 65220	965650	Go	abrl	
@@ -763,6 +763,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5201,time=2020-03-18 01:04:17
 60070	1342741	Python3	ltDan	
 60070	3407821	Go	SuperBandit228	
 60030	3414863	Javascript	smsalisbury	
+60010	1708932	Java	kosimiki	
 59980	1167615	C#	TylerDurden	
 59980	2346559	C#	specialops	
 59970	1946791	C#	Lerbaek	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=5201,time=2020-03-18 01:04:17
 56760	880971	Perl	WhyNotHamster	
 56760	2271162	Java	Dingodoodl	
 56750	1070874	C++	Sincos	
-56730	1434665	Clojure	zenon2002	
