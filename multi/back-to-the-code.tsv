@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4600,time=2020-03-20 00:39:02
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4601,time=2020-03-21 00:52:13
 0	46.75	1433161	1484525	C	Mingu	
 0	45.62	494104	455215	C++	Recar	
 0	45.61	990110	357643	C++	Rogerup	
@@ -46,7 +46,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4600,time=2020-03-20 00:39:
 0	41.57	995463	1266072	C++	Carmen	
 0	41.54	2254195	1751643	C++	BrunoFelthes	
 0	41.53	1369177	622526	C++	PernicN	
-0	41.52	1588918	934857	C++	Svenskaren	
+0	41.51	1588918	934857	C++	Svenskaren	
 0	41.48	162982	1121100	C++	Dami-e	
 0	41.42	3622757	2705606	C++	anid	
 0	41.41	1425201	463149	C#	JamesPun	
@@ -589,7 +589,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4600,time=2020-03-20 00:39:
 0	32.8	1053198	385597	Python3	ProfessorWolf	
 0	32.76	612827	352529	C++	Wellan	
 0	32.73	1356964	1086223	Java	Willathon	
-0	32.71	1016299	577648	Javascript	RicardoNunes	
 0	32.71	544969	357850	C++	Nabilion	
 0	32.71	810438	339027	C++	Sasurai	
 0	32.7	1252307	600305	Clojure	rand-int	
@@ -599,6 +598,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4600,time=2020-03-20 00:39:
 0	32.66	1223426	570116	Java	VolgoAK	
 0	32.65	878086	356183	Perl	dchoulette	
 0	32.64	814274	356455	Scala	dnowak	
+0	32.63	1016299	577648	Javascript	RicardoNunes	
 0	32.62	1060942	346732	C++	raphaelss	
 0	32.61	819803	345626	Java	Anordil	
 0	32.61	831171	355703	Java	Recoding	
@@ -904,9 +904,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4600,time=2020-03-20 00:39:
 0	30.11	973040	1733307	C	papyjo	
 0	30.09	1045904	357572	Javascript	farzher	
 0	30.07	1208748	368435	C#	Gyppo	
+0	30.05	1225405	370734	C#	Flailgull	
 0	30.02	814356	341152	C#	gaps	
 0	29.95	1432296	621235	C++	akshat	
-0	29.95	1225405	370734	C#	Flailgull	
 0	29.92	2990918	2572150	Javascript	Dingodino	
 0	29.9	1122239	1603238	C	AymenT	
 0	29.89	1010573	343984	Javascript	Jezebel	
