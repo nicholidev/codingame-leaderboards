@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=90,time=2020-04-05 00:56:39
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=91,time=2020-04-06 01:31:58
 1	35.01	837436	2482861	C++	aropan	
 1	33.73	2114947	2338793	Java	Nixerrr	
 1	32.52	525275	2591344	TypeScript	pierallard	
@@ -33,7 +33,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=90,time=2020-04-05 00:56:39
 0	19.39	1029602	2366339	C	Potemkine	
 0	19.19	1713174	2440531	Python3	BigUP	
 0	19.15	2202771	2479513	Java	Kaplone	
-0	18.31	1412263	2434880	PHP	PatrickMcGinnisII	
+0	18.32	1412263	2434880	PHP	PatrickMcGinnisII	
 0	18.12	1815583	2443995	C++	HarderTilt	
 0	16.52	1059355	2440381	C#	GrantWard	
 0	16.35	311035	2705526	Python3	leojean890	
@@ -41,9 +41,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=90,time=2020-04-05 00:56:39
 0	15.78	155929	2338616	Python3	[CG]jupoulton	
 0	15.76	2714945	2493394	Javascript	JohnDoe101	
 0	15.52	158495	2437376	Javascript	Cr3aHal0	
-0	15.28	792813	2336406	Python3	VilBoub	
+0	15.32	792813	2336406	Python3	VilBoub	
 0	14.74	3321082	2437804	Java	4n4c0nd4	
-0	14.36	1272263	2440671	Python3	Caled	
+0	14.4	1272263	2440671	Python3	Caled	
 0	14.16	1487168	2426843	Bash	FatIvan	
 0	13.21	682715	2440129	Python3	orkipastafari	
 0	12.62	1442750	2624716	Javascript	GwadaKing	
@@ -51,12 +51,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=90,time=2020-04-05 00:56:39
 0	12.31	3335921	2437469	Kotlin	vcoubray	
 0	12.29	2069141	2335645	C#	tomeko	
 0	11.55	2360927	2702016	Java	schuitj	
+0	10.78	3550197	2606935	Python3	sevans425	
 0	10.66	723476	2609121	Python3	NeoPhnx	
-0	10.65	3550197	2606935	Python3	sevans425	
 0	9.34	1525816	2343140	Javascript	Flodnes	
 0	9.34	257832	2454723	C++	BlaiseEbuth	
 0	9	1939843	2338700	Python3	Aging_Nerd	
-0	8.04	3350083	2417802	Python3	Philgerb93	
+0	8.12	3350083	2417802	Python3	Philgerb93	
 0	7.46	3622757	2724938	Python3	anid	
 0	7.22	2241559	2345581	Python3	eskeln	
 0	7.21	3694147	2695925	C++		
@@ -66,26 +66,27 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=90,time=2020-04-05 00:56:39
 0	6.67	937221	2495936	Java	vrampal	
 0	6.66	3399559	2434562	C	amanjeet	
 0	6.61	1454274	2434997	C#	NohjKram	
-0	6.44	1077559	2601202	C++	PhOeNyX	
+0	6.48	1077559	2601202	C++	PhOeNyX	
 0	6.43	218189	2435742	C	[CG]Maxime	
 0	6.39	890630	2457217	C#	Shurishe	
+0	6.38	2897325	2579599	Python3	CAEZAR	
 0	6.37	2713608	2464187	Ruby	LostSymphony	
 0	6.33	3366500	2405135	Javascript	rodneyipui	
-0	6.29	2897325	2579599	Python3	CAEZAR	
 0	6.28	1764427	2616249	C#	mastercode	
 0	6.24	3207204	2333617	C	RomanceDawn	
-0	6.16	1760921	2401792	Go	[Leonardone]-[-_-]-[NEETSDKASU]	
-0	6.13	999637	2392318	C	dinobogan	
-0	6.1	2983004	2434477	Java	tazorax	
-0	6.1	3040167	2434491	Python	kodejuice	
-0	6.03	2006830	2579496	Python3	Ironist	
-0	5.9	1830993	2475746	C#	jpcheck	
-0	5.63	2100288	2477561	Python3	tsh	
-0	3.87	3141948	2443372	Python3	philRG	
-0	2.25	3640682	2674219	Go	qqSmile	
-0	1.73	2043908	2332756	Swift	AntiSquid	
-0	-9.45	3376093	2422968	Go	Gnossienne	
-0	-9.58	3626405	2638409	C#	hmas	
-0	-9.68	3395465	2435650	Java	Lorita26	
-0	-10.58	2006348	2380767	Python3	Koji02	
-0	-11.17	846129	2434823	C#	LA1	
+0	6.21	1760921	2401792	Go	[Leonardone]-[-_-]-[NEETSDKASU]	
+0	6.2	999637	2392318	C	dinobogan	
+0	6.2	3040167	2434491	Python	kodejuice	
+0	6.17	2983004	2434477	Java	tazorax	
+0	6.04	2006830	2579496	Python3	Ironist	
+0	5.99	1830993	2475746	C#	jpcheck	
+0	5.7	2100288	2477561	Python3	tsh	
+0	4.09	3141948	2443372	Python3	philRG	
+0	2.29	3640682	2674219	Go	qqSmile	
+0	1.58	2043908	2332756	Swift	AntiSquid	
+0	-6.15	3749666	2757308	C++	Gray104	
+0	-8.71	3395465	2435650	Java	Lorita26	
+0	-8.99	3626405	2638409	C#	hmas	
+0	-9.37	3376093	2422968	Go	Gnossienne	
+0	-9.79	2006348	2380767	Python3	Koji02	
+0	-11.53	846129	2434823	C#	LA1	
