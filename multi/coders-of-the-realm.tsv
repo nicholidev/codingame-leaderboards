@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=20,time=2020-04-14 01:26:27
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=21,time=2020-04-15 02:30:18
 3	29.25	2288263	2696905	Rust	dbdr	
 3	28.49	2924895	2694647	C	trictrac	
 3	28.42	1479930	2680171	C++	LeRenard	
@@ -9,13 +9,14 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=20,time=2020-04-14 01:26:27
 3	21.93	1854246	2685170	C++	Counterbalance	
 3	18.34	2976964	2680551	Python3	BenjaminUrquhart	
 3	11.36	314562	2695993	Python3	Mechar	
-2	25.12	512097	2742997	Haskell	Stilgart	
-2	18.39	1740037	2684934	Scala	ereiam	
-2	17.21	2069141	2682987	C#	tomeko	
-2	14.44	2416641	2680109	Python3	Zenoscave	
-2	12.36	1464932	2742984	Java	Tiramon	
-2	11.68	862919	2706537	C++	Astrobytes	
-2	10.84	2923506	2682340	C++	darkhorse64	
-2	6.26	1029602	2695889	C	Potemkine	
-0	6.44	2043908	2680280	D	AntiSquid	
-0	6.4	1713174	2683174	Python3	BigUP	
+2	25.02	512097	2742997	Haskell	Stilgart	
+2	17.79	1740037	2684934	Scala	ereiam	
+2	17.62	2069141	2682987	C#	tomeko	
+2	14.79	2416641	2680109	Python3	Zenoscave	
+2	13.12	792813	2788887	Python3	VilBoub	
+2	12.34	1464932	2742984	Java	Tiramon	
+2	12.12	862919	2706537	C++	Astrobytes	
+2	10.94	2923506	2682340	C++	darkhorse64	
+2	6.38	1029602	2695889	C	Potemkine	
+0	6.36	1713174	2683174	Python3	BigUP	
+0	6.35	2043908	2680280	D	AntiSquid	
