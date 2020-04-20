@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2208,time=2020-04-19 01:17:12
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2210,time=2020-04-20 00:55:37
 4	36.12	3193653	2708375	C++	karliso	
 4	32.45	2577687	2707833	C++	blasterpoard	
 4	31.84	3502867	2707285	C++	The_Duck	
@@ -697,19 +697,20 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2208,time=2020-04-19 01:17:
 3	7.75	2396169	2709062	Java	Emaginidoc	
 3	-6.91	3060932	2709119	Java	boumagik	
 2	27.06	2314282	2708927	TypeScript	Terinhd	
+2	26.94	1105817	2739821	Python3	MaximeF	
 2	26.92	3075636	2708137	Dart	Dr-D	
 2	26.26	3525118	2707430	Java	vash	
 2	26.24	3480978	2707178	C#	EricH974	
-2	25.9	1105817	2739821	Python3	MaximeF	
+2	26.15	3737666	2789785	Java	mrchuck	
 2	25.75	2421634	2707420	Python3	dandrian	
 2	25.67	3518158	2709156	Java	RonanGui	
 2	25.59	900129	2708835	C++	Julien_E	
-2	25.59	408681	2791902	Java	TorgardTheAwkwardPoet	
 2	25.3	3368053	2708932	C#	Brylex	
+2	25.25	408681	2791902	Java	TorgardTheAwkwardPoet	
 2	25.23	1740232	2707143	Javascript	elen	
 2	25.15	514460	2707181	Python3	Harv	
+2	25.14	2931246	2715334	Python3	Kukiss	
 2	25.09	2036356	2708799	C#	Choumanboy	
-2	25.09	3737666	2789785	Java	mrchuck	
 2	25.07	3445440	2707964	C#	BykerDave	
 2	24.94	2006230	2708287	Python3	l736x	
 2	24.91	2950376	2708516	C++	MarKes	
@@ -720,6 +721,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2208,time=2020-04-19 01:17:
 2	24.74	2192900	2707927	Python3	Timokasse	
 2	24.71	969298	2708533	C#	Dopp	
 2	24.7	2649775	2708864	Python3	bathal	
+2	24.69	1740037	2709515	Scala	ereiam	
 2	24.54	1418821	2707093	C++	input.txt	
 2	24.47	3525424	2707401	C++	fsdfs	
 2	24.46	225875	2707609	C#	leff	
@@ -731,9 +733,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2208,time=2020-04-19 01:17:
 2	24.32	1766181	2707808	Javascript	jantorestolsvik	
 2	24.32	3477071	2707191	C#	CookieMonster2703	
 2	24.25	1018816	2707878	C#	Dartmoor	
-2	24.17	2931246	2715334	Python3	Kukiss	
 2	24.05	1066860	2708352	Java	suikkee	
-2	23.96	1740037	2709515	Scala	ereiam	
 2	23.73	2822689	2707253	Python3	DoubleTrouble	
 2	23.68	1282693	2708234	Java	Kuikye	
 2	23.67	3516048	2708400	C#	biscuitchief	
@@ -752,7 +752,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2208,time=2020-04-19 01:17:
 2	23.59	1418816	2707663	Swift	ictor	
 2	23.57	1355842	2708204	Java	slaghn	
 2	23.57	3514205	2707983	C++	fifco	
+2	23.56	3769834	2819667	C#	Hoggins	
 2	23.55	195346	2708070	C++	antidotcb	
+2	23.37	3775942	2817211	C++	SunShine1997	
 2	23.35	2981260	2708522	Python3	PAO	
 2	23.31	1545859	2708854	OCaml	Kulu	
 2	23.28	1074974	2708438	C++	Ashutosh	
@@ -767,6 +769,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2208,time=2020-04-19 01:17:
 2	22.91	1013350	2708997	Java	Absolutata	
 2	22.89	806157	2708800	Python3	Aveuh	
 2	22.88	3051977	2707698	Python3	GohYongJing	
+2	22.87	2508635	2709400	Java	hemhel	
 2	22.75	2147961	2709137	C++	korriganFurtif	
 2	22.7	153030	2707523	C++	joH	
 2	22.7	1538549	2707624	Python3	Nikodimishe	
@@ -827,7 +830,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2208,time=2020-04-19 01:17:
 2	21.75	3332655	2707414	Python3	Colt1	
 2	21.74	2166241	2709186	Java	Baendy	
 2	21.64	3502066	2707426	Python3	Pusil	
-2	21.59	2508635	2709400	Java	hemhel	
 2	21.56	3476656	2707427	Python3		
 2	21.51	2842613	2709165	Kotlin	Olegeech	
 2	21.5	1492668	2708998	Java	MatthieuC	
@@ -886,7 +888,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2208,time=2020-04-19 01:17:
 2	19.99	3058265	2708116	Javascript	RQdan	
 2	19.98	3488041	2707484	Kotlin	KodeMonkey	
 2	19.96	3477190	2707986	Javascript		
-2	19.96	3696874	2735638	Python3	HuiBuh	
 2	19.96	155008	2708497	Rust	Majavar	
 2	19.96	1193974	2708732	C++	simon9000	
 2	19.94	1132011	2708047	C#	pci	
@@ -924,13 +925,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2208,time=2020-04-19 01:17:
 2	19.4	385699	2707256	C	Nikai	
 2	19.4	3264225	2709213	C#	Shadawn	
 2	19.4	3395690	2708634	C++	pandafas	
-2	19.38	3730320	2733027	C++	Sohaib01	
 2	19.37	859033	2707279	Python3	Bridou	
 2	19.37	1657489	2707592	C#	threecourse	
+2	19.36	3317583	2712815	Python3	Mjo	
 2	19.34	3468628	2707793	Java	alexl12	
-2	19.28	3317583	2712815	Python3	Mjo	
 2	19.28	1818159	2708403	C#	JRFerguson	
 2	19.25	1333684	2707537	Javascript	MarcoFuschini	
+2	19.25	3696874	2735638	Python3	HuiBuh	
 2	19.22	1827247	2708855	Java	mmmd	
 2	19.21	3327100	2708553	C#	Eliwe	
 2	19.19	3245013	2707240	C++	DSG213	
@@ -950,6 +951,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2208,time=2020-04-19 01:17:
 2	18.62	2744095	2707890	Python3	ArSeNiK	
 2	18.58	2465457	2708063	C#	ArchStanton9	
 2	18.57	2244241	2707801	Python3	DamienG002	
+2	18.51	3444208	2805498	Java	Anatoli	
 2	18.51	1070781	2708038	Python3	Peterke	
 2	18.48	3389671	2707479	C#	Itar	
 2	18.48	1504967	2707506	Java	rollin_rob	
@@ -960,22 +962,19 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2208,time=2020-04-19 01:17:
 2	18.41	780361	2708074	C++	BrutalCommiterInSpace	
 2	18.41	2196884	2707836	C#	SamFishou	
 2	18.34	571731	2708836	Java	Polf	
-2	18.34	3326583	2717689	Python3	gdalbeniz	
 2	18.34	3468458	2707519	C#	Temba	
 2	18.34	1795810	2708146	Javascript	NiniGeek	
 2	18.32	154289	2707647	PHP	lithrel	
 2	18.28	3406454	2708559	Python3	Wolfierce	
 2	18.27	1368530	2708647	C#	Hassenplug	
-2	18.26	3741188	2795638	Java	AlphaGo	
 2	18.25	2717306	2707711	Python3	ewindels	
 2	18.22	3035070	2708446	C#	Ipso	
 2	18.17	1726986	2707150	Python3	JacksonRichardson	
 2	18.15	1859368	2707254	Python3	MuratC	
-2	18.12	1586397	2719922	Python3	menger3	
+2	18.14	3730320	2733027	C++	Sohaib01	
 2	18.12	3501793	2708179	Python3	PiggyGod	
 2	18.04	1059996	2707499	C#	Molybdene	
 2	18.02	2879833	2708120	C#	CaralTheOriginal	
-2	18.02	3444208	2805498	Java	Anatoli	
 2	18.01	3227092	2707208	Kotlin	Bwvolleyball	
 2	17.98	2501529	2707490	Java	xinri	
 2	17.97	1206537	2708453	Ruby	MadKnight	
@@ -999,3 +998,4 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2208,time=2020-04-19 01:17:
 2	17.67	1269442	2707553	Java	TheManOfMadness	
 2	17.66	1833778	2709185	Python3	takedarts	
 2	17.66	2897230	2708459	C#	kalevala	
+2	17.65	3320466	2708129	C#	Felscream1	
