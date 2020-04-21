@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3586,time=2020-04-20 00:55:42
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3587,time=2020-04-21 01:28:45
 5	35.77	1629259	2238218	C++	Marchete	
 5	33.24	494104	960105	C++	Recar	
 5	32.18	818534	960075	C++	Ixanezis	
@@ -806,9 +806,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3586,time=2020-04-20 00:55:
 3	26.04	2794638	2129553	Java	patrickm	
 3	26.04	1127783	937927	Python	zouzou	
 3	26.03	840401	937966	Bash	pedrosorio	
-3	26.01	978182	937632	C++	Capricornus	
 3	26	1555765	937764	C#	DewJunkie	
 3	25.99	958490	2660736	Python3	lj	
+3	25.97	978182	937632	C++	Capricornus	
 3	25.96	1926322	1212463	Java	ANewHope2017	
 3	25.89	2232336	1483418	C#	jking8	
 3	25.85	3435738	2588910	C++	Resiakedrom	
@@ -823,13 +823,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3586,time=2020-04-20 00:55:
 3	25.69	871430	937581	Java	Arkandias	
 3	25.67	1630890	1308306	Java	Wld	
 3	25.61	816229	1121050	Python	Gamadzila	
+3	25.59	3235897	2471895	Java	Zylo	
 3	25.56	816462	937709	Python	hype	
 3	25.53	608523	937814	C++	Blinkq	
 3	25.52	1544133	2472884	Python3	GameHHH	
 3	25.51	473750	937999	Java	xiorcal	
 3	25.5	2213167	1503868	Java	Camillie	
 3	25.49	855492	937509	Go	Erk	
-3	25.48	3235897	2471895	Java	Zylo	
 3	25.47	653256	938209	Java	KeludOdebu	
 3	25.45	1933924	1313925	Java	nomader	
 3	25.4	1253664	939443	Python3	Arinelle	
@@ -887,6 +887,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3586,time=2020-04-20 00:55:
 3	24.16	186405	937535	VB.NET	d-mark	
 3	24.11	915957	937963	C	Tux	
 3	24.11	824766	937452	Java	knard	
+3	24.07	810438	937955	C++	Sasurai	
 3	24.05	1564309	1473450	Javascript	gravitypx	
 3	24.03	1914302	1170121	Java	Pallina	
 3	24.02	1112730	963186	Python3	lifchicker	
@@ -894,7 +895,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3586,time=2020-04-20 00:55:
 3	24.01	379413	937511	Java	Willim_1985	
 3	24	891351	937436	C	AhmedMaher	
 3	24	1069340	937952	C++	Diler	
-3	23.99	810438	937955	C++	Sasurai	
 3	23.97	614974	937967	C++	Einstein_Division	
 3	23.96	816299	937426	Python	oawdodiffj	
 3	23.93	489078	937898	C++	enot	
@@ -998,4 +998,4 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3586,time=2020-04-20 00:55:
 3	22.02	595939	938084	C++	MerlinDS	
 3	22.01	821333	937882	C++	jube	
 3	22	1462449	1105887	C++	wackadoodle	
-3	21.97	1926245	1212793	Java	AnonymousUnical	
+3	21.99	1926245	1212793	Java	AnonymousUnical	

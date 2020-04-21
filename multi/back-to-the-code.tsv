@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4607,time=2020-04-20 01:58:34
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4607,time=2020-04-21 01:28:51
 0	46.75	1433161	1484525	C	Mingu	
 0	45.62	494104	455215	C++	Recar	
 0	45.61	990110	357643	C++	Rogerup	
@@ -293,6 +293,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4607,time=2020-04-20 01:58:
 0	35.74	153057	744215	PHP	PierralF	
 0	35.73	837350	2195014	Go	BorisZ	
 0	35.56	372352	351937	Java	Maradona	
+0	35.56	815677	353101	Haskell	icetonic	
 0	35.55	827957	352275	Python	harvestsnow	
 0	35.54	1181853	2120265	Python3	joha	
 0	35.54	264258	350229	Python3	MrFlibble	
@@ -306,7 +307,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4607,time=2020-04-20 01:58:
 0	35.49	957335	355403	C++	chloesdaddy	
 0	35.48	715431	349514	Javascript	G3r0	
 0	35.48	862336	761667	C	Zaphus	
-0	35.48	815677	353101	Haskell	icetonic	
 0	35.48	1058165	349254	Javascript	Kehinde	
 0	35.47	937933	348626	Scala	Richmond	
 0	35.46	153683	2487762	Dart	40R15T3	
@@ -360,9 +360,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4607,time=2020-04-20 01:58:
 0	34.95	1066742	345568	Python	askywhale	
 0	34.94	1053433	355354	Java	3WTochka	
 0	34.92	960759	341728	C++	fea	
-0	34.91	198212	349947	Python	progsdi	
 0	34.9	1038437	354577	Python3	dbur	
 0	34.87	273004	355833	C++	ptitrex	
+0	34.86	198212	349947	Python	progsdi	
 0	34.81	275620	1503638	C++	M.C.L.	
 0	34.78	964187	356160	C#	Ali-AlMosawi	
 0	34.77	882162	594021	C#	Catarinao	
@@ -698,7 +698,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4607,time=2020-04-20 01:58:
 0	31.66	230015	347996	Java	Kolo9	
 0	31.63	859440	357642	Scala	acnipih	
 0	31.63	1132495	370402	Java	Yaayoun	
-0	31.62	1039809	349183	C#	Azziliz	
 0	31.62	1065394	355606	Python3	Roxa	
 0	31.62	1384971	415930	PHP	BoyanYankov	
 0	31.6	887370	357727	C#	Luuna	
@@ -711,6 +710,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4607,time=2020-04-20 01:58:
 0	31.55	1488036	642447	Python3	vlabbe	
 0	31.53	1376516	417730	C#	MarkZwicker	
 0	31.53	926124	1284436	Java	Beerus	
+0	31.5	1039809	349183	C#	Azziliz	
 0	31.49	1728217	1122731	C#	_spoon_	
 0	31.49	2416641	2306611	Python3	Zenoscave	
 0	31.47	1064518	354080	Java	lombosp	
