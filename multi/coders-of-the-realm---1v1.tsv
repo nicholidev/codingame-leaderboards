@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=20,time=2020-04-21 00:37:43
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=21,time=2020-04-22 00:30:26
 3	34.77	2288263	2696881	Rust	dbdr	
 3	33.44	2924895	2691058	C	trictrac	
 3	33.12	1489865	2685684	C++	EricSMSO	
@@ -15,7 +15,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=20,time=2020-04-21 00:37:43
 2	10.57	2923506	2679400	C++	darkhorse64	
 2	10.01	862919	2706584	C++	Astrobytes	
 2	3.49	1029602	2694410	C	Potemkine	
-0	14.7	1412263	2679947	PHP	PatrickMcGinnisII	
-0	-1.67	2043908	2679555	D	AntiSquid	
-0	-2.25	1713174	2686968	Python3	BigUP	
-0	-2.37	1830993	2681031	C#	jpcheck	
+0	14.64	1412263	2679947	PHP	PatrickMcGinnisII	
+0	-0.4	523846	2828221	C#	Palmipedus	
+0	-0.41	1713174	2686968	Python3	BigUP	
+0	-0.6	2043908	2679555	D	AntiSquid	
+0	-1.14	1830993	2681031	C#	jpcheck	

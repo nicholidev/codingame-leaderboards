@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=5278,time=2020-04-21 03:03:39
+Score	UserID	Lang	Pseudo	#optim,count=5283,time=2020-04-22 00:43:09
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -525,6 +525,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5278,time=2020-04-21 03:03:39
 63730	3601127	Java	Commbiekillers	
 63690	1713497	C#	NoisyBoy	
 63670	894985	Java	Warrows	
+63630	3777252	Kotlin	KONFeature	
 63620	2689595	C++	youknowtherules	
 63620	3526028	C++	severrabaen	
 63620	3422956	C	Martichou	
@@ -739,7 +740,6 @@ Score	UserID	Lang	Pseudo	#optim,count=5278,time=2020-04-21 03:03:39
 60740	1312801	Python3	SonnyMan33	
 60710	1515062	PHP	AIlkiv	
 60710	3365055	C++	JohnKnight	
-60690	3777252	Kotlin	KONFeature	
 60650	733335	Java	DJNour	
 60620	780240	C#	Manners	
 60620	1631178	Python3	Matteux	
@@ -768,6 +768,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5278,time=2020-04-21 03:03:39
 60240	448698	Python3	Makz	
 60170	467193	Java	pin72	
 60170	2000540	C#	rombolshak	
+60150	2740243	Python3	Rprades	
 60090	1368649	PHP	JohnOrjias	
 60080	1544382	Python3	Ashargin	
 60070	1342741	Python3	ltDan	
@@ -796,6 +797,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5278,time=2020-04-21 03:03:39
 59830	1427489	Java	Mupfy	
 59830	2999053	C#	Barnet	
 59820	2954549	Javascript	CaffeinatedTech	
+59810	429753	Python3	Frogkiller	
 59800	1023606	C#	michalkaziu	
 59790	1183942	C++	GLinnik	
 59780	1253664	Python3	Arinelle	
@@ -997,5 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=5278,time=2020-04-21 03:03:39
 56860	1863971	C#	envayyu	
 56850	1240165	PHP	Pino	
 56840	938374	C#	UnmanagedCode	
-56820	583258	Java	kr0nd	
-56810	904881	Rust	lpenz	
