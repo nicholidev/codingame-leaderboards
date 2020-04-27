@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=10766,time=2020-04-25 01:10:51
+Score	UserID	Lang	Pseudo	#optim,count=10774,time=2020-04-27 02:04:21
 14337	329200	C++	BlitzProg	
 13603	1366631	Javascript	Morhaus	
 13285	1307473	C++	Evgenykz	
@@ -200,6 +200,7 @@ Score	UserID	Lang	Pseudo	#optim,count=10766,time=2020-04-25 01:10:51
 2858	1293010	C++	aLee	
 2850	1358627	C++	Aleix	
 2848	813155	C++	Leycera	
+2847	2464931	TypeScript	llpt	
 2842	1851160	C#	Fabienvs	
 2835	2554780	Python3	bluebird75	
 2832	835636	Python3	texus	
@@ -670,7 +671,6 @@ Score	UserID	Lang	Pseudo	#optim,count=10766,time=2020-04-25 01:10:51
 2176	2826402	Java	1Alex	
 2174	2897230	C#	kalevala	
 2174	865548	Python3	Kktus	
-2174	2464931	Javascript	llpt	
 2168	1392942	PHP	Kloopy	
 2168	2859592	Python3	aHNoCg	
 2164	1786155	PHP	MakingOf	
