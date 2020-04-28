@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=145,time=2020-04-27 02:04:19
+Score	UserID	Lang	Pseudo	#optim,count=145,time=2020-04-28 01:14:04
 500	2288263	Rust	dbdr	
 500	3354337	C++	Westicles	
 335	1629259	PHP	Marchete	
@@ -7,6 +7,7 @@ Score	UserID	Lang	Pseudo	#optim,count=145,time=2020-04-27 02:04:19
 208	2522090	PHP	MSmits	
 169	3165536	PHP	barbora	
 169	3533119	PHP	wlesavo	
+150	2924895	C	trictrac	
 148	230015	PHP	Kolo9	
 139	1500515	PHP	eulerscheZahl	
 137	1378958	PHP	Illedan	
@@ -14,7 +15,6 @@ Score	UserID	Lang	Pseudo	#optim,count=145,time=2020-04-27 02:04:19
 100	490588	PHP	Uljahn	
 99	1449433	C++	Rolf	
 95	3457031	PHP	YurkovAS	
-80	2924895	C	trictrac	
 70	2311105	C++	kovi	
 69	338469	PHP	-___-	
 67	2786666	C++	TetraktysPhi	
@@ -47,12 +47,12 @@ Score	UserID	Lang	Pseudo	#optim,count=145,time=2020-04-27 02:04:19
 24	1436776	PHP	BrainSolver	
 24	1272263	Python3	Caled	
 23	1579653	PHP	zweedeend	
+23	992329	Python3	BeeGee	
 22	2508635	PHP	hemhel	
 22	371603	Ruby	martin	
 21	1203590	Java	al1	
 21	3697164	PHP	panemaker	
 20	2715508	Bash	Anth	
-19	992329	Python3	BeeGee	
 18	1987512	PHP	FreexXx	
 18	3535500	PHP	[symfunc]polnaer	
 18	3229071	Java	megawarrior	
@@ -86,6 +86,7 @@ Score	UserID	Lang	Pseudo	#optim,count=145,time=2020-04-27 02:04:19
 7	886483	Javascript	R4N4R4M4	
 7	881817	Python3	Major_Tom	
 7	3424280	Python3	Zener	
+7	3184049	Python3	ghhttt	
 6	3693189	C++		
 6	3101644	Python3	HerrHagner	
 6	1444961	Java	Mocks	
@@ -143,4 +144,3 @@ Score	UserID	Lang	Pseudo	#optim,count=145,time=2020-04-27 02:04:19
 1	3595546	C#	RemiJ	
 1	3735745	Javascript	KareemTheDream	
 1	3751016	C#	Q12	
-1	3184049	Python3	ghhttt	
