@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=10790,time=2020-04-29 00:58:59
+Score	UserID	Lang	Pseudo	#optim,count=10800,time=2020-04-30 00:55:22
 14337	329200	C++	BlitzProg	
 13603	1366631	Javascript	Morhaus	
 13285	1307473	C++	Evgenykz	
@@ -198,6 +198,7 @@ Score	UserID	Lang	Pseudo	#optim,count=10790,time=2020-04-29 00:58:59
 2866	1454075	C#	Ree	
 2864	2257079	Python3	MartinVN	
 2858	1293010	C++	aLee	
+2854	3621947	Python3	vrabosh	
 2850	1358627	C++	Aleix	
 2848	813155	C++	Leycera	
 2847	2464931	TypeScript	llpt	
@@ -613,7 +614,6 @@ Score	UserID	Lang	Pseudo	#optim,count=10790,time=2020-04-29 00:58:59
 2304	1196349	C++	SomeNumbers	
 2302	1375394	Go	geekk	
 2296	3571334	Java	Cedani	
-2296	3621947	Python3	vrabosh	
 2294	826372	Java	skyyker	
 2282	1689436	C	Gekoo	
 2280	660374	Haskell	nomeata	
@@ -902,6 +902,7 @@ Score	UserID	Lang	Pseudo	#optim,count=10790,time=2020-04-29 00:58:59
 1806	1471525	Python3	W1ll3m	
 1800	1536085	Python3	Wladek	
 1800	1681743	PHP	Lowjack	
+1800	3686052	Go	ian-h-chamberlain	
 1798	1353316	C#	psyral	
 1798	266113	Python3	Nihil	
 1798	837350	Ruby	BorisZ	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=10790,time=2020-04-29 00:58:59
 1616	500534	C	d.n.s	
 1614	847578	C++	mamenyaka	
 1614	342576	C++	oros	
-1612	564290	Ruby	mainge2036	
