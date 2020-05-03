@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=715,time=2020-05-02 01:38:06
+Score	UserID	Lang	Pseudo	#optim,count=715,time=2020-05-03 01:34:09
 11902	2288263	Rust	dbdr	
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
@@ -265,6 +265,7 @@ Score	UserID	Lang	Pseudo	#optim,count=715,time=2020-05-02 01:38:06
 3424	1759839	C	matleg	
 3422	2889262	Javascript	grahampheath	
 3401	1754295	C++	SF	
+3390	154806	Python3	piw4i	
 3367	2317747	Python3	drbalan	
 3344	1029602	C	Potemkine	
 3335	1442814	C++	RedXam	
@@ -373,7 +374,6 @@ Score	UserID	Lang	Pseudo	#optim,count=715,time=2020-05-02 01:38:06
 2091	2233179	C++	Samsa	
 2089	3154694	Python3	TheAristos	
 2082	1140677	C++	Crog	
-2048	154806	Python3	piw4i	
 2046	1505665	Python3	NicolasGrosjean	
 2027	1017817	C#	Becha	
 2009	3416204	Java	paquemick	
@@ -635,7 +635,7 @@ Score	UserID	Lang	Pseudo	#optim,count=715,time=2020-05-02 01:38:06
 1045	1849062	Python3	AnkitAnand_12	
 1045	2244241	Python3	DamienG002	
 1045	1308058	Python3	Ezeckiel	
-1045	3717379	Javascript	Aaaaalpha	
+1045	3717379	Javascript	B0bb1e	
 1045	1826849	C++	Geplik	
 1045	2970996	Javascript	Cookie_Wookie_7	
 1045	3740150	Python3		
