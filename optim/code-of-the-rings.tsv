@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3499,time=2020-05-03 01:34:13
+Score	UserID	Lang	Pseudo	#optim,count=3503,time=2020-05-04 01:12:51
 2759	1301401	C#	Stanax	
 2761	1833680	C++	jvivenot	
 2765	2288263	Rust	dbdr	
@@ -155,6 +155,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3499,time=2020-05-03 01:34:13
 3950	2820691	C++		
 3950	2110342	C++	lchenay	
 3950	3721214	C++	jrke	
+3950	3775369	C++	umesh007	
 3955	833606	Java	mattrero	
 3963	660374	Haskell	nomeata	
 3972	153674	C	GQMP	
@@ -870,6 +871,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3499,time=2020-05-03 01:34:13
 5960	980147	Python3	kingmoshe	
 5960	308188	C++	Azimov	
 5960	3245819	C#	TomA	
+5960	1034635	C++	SlyB	
 5962	235663	Scala	MicheleM	
 5962	825231	Go	tumbudu	
 5962	417433	C++	Oakos	
@@ -997,5 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=3499,time=2020-05-03 01:34:13
 6001	999617	Pascal	SpiderCom	
 6001	969280	Java	sirknighting	
 6001	873809	C++	Lucky92	
-6001	1007264	C++	Airboow	
-6001	492228	Groovy	Groszeq	
