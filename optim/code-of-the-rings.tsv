@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3505,time=2020-05-05 00:35:30
+Score	UserID	Lang	Pseudo	#optim,count=3508,time=2020-05-06 00:52:32
 2759	1301401	C#	Stanax	
 2761	1833680	C++	jvivenot	
 2765	2288263	Rust	dbdr	
@@ -390,6 +390,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3505,time=2020-05-05 00:35:30
 5490	1757041	PHP	Bytenex	
 5496	446956	C++	FranMowinckel	
 5497	905122	Python3	nILS	
+5501	1034635	C++	SlyB	
 5504	760921	VB.NET	Skleroz	
 5513	783688	Python3	axx	
 5514	937073	Scala	Krlos	
@@ -408,7 +409,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3505,time=2020-05-05 00:35:30
 5566	536072	Java	IKarl	
 5567	1651569	Go	Insan	
 5567	236685	Java	Palawan	
-5575	3750700	Python3	VulpesCorsac	
+5573	3750700	C++	VulpesCorsac	
 5586	1078288	Haskell	d6r27-h59p	
 5588	153057	PHP	PierralF	
 5591	2638940	Python3	Pergunta2	
@@ -736,6 +737,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3505,time=2020-05-05 00:35:30
 5889	1777490	C#	Segan	
 5890	2879143	Python3	Rodeuse1	
 5891	1426150	Python3	Flackk	
+5891	568243	Javascript	occanowey	
 5892	961929	C++	Marcaunon	
 5892	2440248	Python3	Javfres	
 5893	828239	VB.NET	[SG]Bisou	
@@ -774,7 +776,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3505,time=2020-05-05 00:35:30
 5906	969000	Javascript	KB	
 5908	948764	Javascript	Katie	
 5908	1235498	Java	Bouh	
-5911	2856582	Python3	Ikeaboy33	
+5911	2856582	Python3	Towelie	
 5912	970195	C++	Elbanono	
 5912	999016	C++	eosmk	
 5912	1195856	Java	daifei4321	
@@ -872,7 +874,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3505,time=2020-05-05 00:35:30
 5960	980147	Python3	kingmoshe	
 5960	308188	C++	Azimov	
 5960	3245819	C#	TomA	
-5960	1034635	C++	SlyB	
 5962	235663	Scala	MicheleM	
 5962	825231	Go	tumbudu	
 5962	417433	C++	Oakos	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=3505,time=2020-05-05 00:35:30
 6001	194094	C++	Veei	
 6001	982285	C#	ways	
 6001	999617	Pascal	SpiderCom	
-6001	969280	Java	sirknighting	

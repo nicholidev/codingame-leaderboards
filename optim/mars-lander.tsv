@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=2645,time=2020-05-05 00:35:27
+Score	UserID	Lang	Pseudo	#optim,count=2646,time=2020-05-06 00:52:29
 2509	1327028	C++	FredericBautista	
 2507	154372	Bash	Plopx	
 2504	1695697	Python3		
@@ -49,13 +49,14 @@ Score	UserID	Lang	Pseudo	#optim,count=2645,time=2020-05-05 00:35:27
 2388	3436443	C++	Mazelcop	
 2387	1245647	C++	[CPC]Herbert	
 2387	2510531	Python3	Jamproject	
+2378	1607522	C++	RoboStac	
 2377	1034635	C++	SlyB	
 2376	1000199	C	Zlatko	
 2371	941713	C	Bloody95	
-2370	1607522	C++	RoboStac	
 2368	786597	Python3	Fabien	
 2368	952284	Ruby	Copro	
 2368	2069141	C#	tomeko	
+2365	2740243	Python3	Rprades	
 2362	826372	C++	skyyker	
 2361	886483	PHP	R4N4R4M4	
 2360	1983337	C++	PeterBlack	
@@ -69,6 +70,7 @@ Score	UserID	Lang	Pseudo	#optim,count=2645,time=2020-05-05 00:35:27
 2339	2242201	C++	Maryan	
 2338	1754295	Java	SF	
 2338	999637	C	dinobogan	
+2338	2923506	C++	darkhorse64	
 2336	1400179	C++	reCurse	
 2330	1937628	C++	Elom	
 2326	2786666	C++	TetraktysPhi	
@@ -77,7 +79,6 @@ Score	UserID	Lang	Pseudo	#optim,count=2645,time=2020-05-05 00:35:27
 2322	3313759	Java	Umptah	
 2321	1236329	Java	povatm	
 2314	154388	Python3	PonyPonyCodeCode	
-2313	2923506	C++	darkhorse64	
 2312	371603	C++	martin	
 2311	2455616	Java	JeanClaude44	
 2311	347029	Go	Kevapo	
@@ -211,7 +212,6 @@ Score	UserID	Lang	Pseudo	#optim,count=2645,time=2020-05-05 00:35:27
 2097	1612475	C#	superhoang	
 2095	950545	C#	Cobru	
 2095	1375394	Javascript	geekk	
-2095	2740243	Python3	Rprades	
 2089	939543	C#	[Peter]	
 2089	1566335	Java	BeardedWhale	
 2089	1843142	C++	MichaelSavaglia	
@@ -688,6 +688,7 @@ Score	UserID	Lang	Pseudo	#optim,count=2645,time=2020-05-05 00:35:27
 1780	3519043	Javascript	HasanVeliSoyalan	
 1780	2298871	Javascript	-ac	
 1780	3693549	Javascript	MostafaAhmedAbdEl-fattah	
+1780	2860185	Javascript	MariaBeckles	
 1779	908928	Java	estlinara	
 1778	1119565	Java	Salvi94	
 1778	684359	C++	Wando	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=2645,time=2020-05-05 00:35:27
 1707	3271550	C++	Eggface	
 1706	825049	Java	Scheronimus	
 1706	1104895	C#	akmc	
-1705	877671	Java	miguel	
