@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2228,time=2020-05-06 00:43:17
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2229,time=2020-05-07 01:23:55
 4	36.12	3193653	2708375	C++	karliso	
 4	32.22	2577687	2707833	C++	blasterpoard	
 4	31.84	3502867	2707285	C++	The_Duck	
@@ -239,7 +239,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2228,time=2020-05-06 00:43:
 3	24.39	3406987	2707839	Python3	Radu_Sav	
 3	24.39	2006324	2708082	Python3	SihardeOussama	
 3	24.38	2880412	2708778	C#	Spifflejedi	
-3	24.37	1066745	2765667	Java	JohnRambo	
+3	24.37	1066745	2765667	Java	DepartmentOfRedundancy	
 3	24.36	155774	2709083	C++	dwarfie	
 3	24.34	3452412	2708856	Python3	RobinN	
 3	24.34	224676	2709184	Java	Jin66	
@@ -738,13 +738,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2228,time=2020-05-06 00:43:
 2	24.25	225875	2707609	C#	leff	
 2	24.23	1018816	2707878	C#	Dartmoor	
 2	24.2	3511049	2708249	C++	Nach_Vigi	
-2	24.2	3514370	2708996	Python3	jetbeans	
 2	24.15	2822689	2707253	Python3	DoubleTrouble	
 2	24.12	1452463	2707832	Python3	Tristannah	
 2	24.11	969298	2708533	C#	Dopp	
 2	24.08	1864265	2708721	C++	witty2	
 2	24.08	1479098	2707751	C++	Elventian	
 2	24.08	1418816	2707663	Swift	ictor	
+2	24.07	3514370	2708996	Python3	jetbeans	
 2	24.06	3264507	2709205	Python3	Jef_cg	
 2	24.04	3477071	2707191	C#	CookieMonster2703	
 2	24.03	806157	2708800	Python3	Aveuh	
@@ -771,7 +771,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2228,time=2020-05-06 00:43:
 2	23.56	2586078	2709098	Java	tanuco	
 2	23.49	826277	2708206	C++	Prayer	
 2	23.31	3497168	2708437	Python3	ws1088	
-2	23.08	1478582	2707195	Python3	Ez4	
+2	23.14	1478582	2707195	Python3	Ez4	
 2	23.04	2061249	2707672	C++	delisea	
 2	22.94	153030	2707523	C++	joH	
 2	22.91	1859764	2708543	Python3	Treewhale	
@@ -840,12 +840,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2228,time=2020-05-06 00:43:
 2	21.69	2688693	2708422	Go	Catagami	
 2	21.67	835581	2708523	C++	FishKOH	
 2	21.64	3512837	2709124	Python3	matrac73	
+2	21.62	1727535	2707406	Kotlin	qr-3	
 2	21.62	2455124	2709033	C	agiordan	
 2	21.61	3502066	2707426	Python3	Pusil	
 2	21.61	1382584	2708213	Python3	Fer	
 2	21.6	2181279	2707345	Java	roxor	
 2	21.59	1464932	2707159	Java	Tiramon	
-2	21.56	1727535	2707406	Kotlin	qr-3	
 2	21.56	3476656	2707427	Python3		
 2	21.48	2517057	2709145	C++	Edds	
 2	21.48	2978776	2707354	Python3	ChrisDerPlayer	
@@ -888,11 +888,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2228,time=2020-05-06 00:43:
 2	20.26	1053433	2708551	Java	3WTochka	
 2	20.25	153683	2708632	Dart	40R15T3	
 2	20.23	2200342	2707722	C++	BernardoSulzbach	
+2	20.23	1893989	2707620	Python3	Rosstherock	
 2	20.22	1504630	2708802	C#	Deejayfool	
 2	20.22	1375873	2708027	TypeScript	Serhio	
 2	20.16	1171938	2709169	Java	Morsljvddeu	
 2	20.16	3082494	2707732	Python3	alarih	
-2	20.16	1893989	2707620	Python3	Rosstherock	
 2	20.16	1703514	2707061	Javascript	Alejandrov	
 2	20.15	1854764	2708107	Python3	KeeN	
 2	20.13	3507118	2707635	Python3	davemus	
@@ -975,27 +975,27 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2228,time=2020-05-06 00:43:
 2	18.46	3433338	2709074	C#	RedRabbit	
 2	18.45	1859368	2707254	Python3	MuratC	
 2	18.45	2520126	2707216	C++	yy214	
+2	18.44	154289	2707647	PHP	lithrel	
 2	18.34	1760921	2707947	D	[Leonardone]-[-_-]-[NEETSDKASU]	
 2	18.34	3468458	2707519	C#	Temba	
 2	18.34	1333869	2709109	Python3	kiwijam	
-2	18.33	154289	2707647	PHP	lithrel	
 2	18.3	2073179	2708052	Javascript	Biwere	
 2	18.29	2717306	2707711	Python3	ewindels	
 2	18.27	2879833	2708120	C#	CaralTheOriginal	
+2	18.26	1976994	2707069	C#	szabdan	
 2	18.25	1391477	2707644	Python3	Lodraxum	
+2	18.24	3389671	2707479	C#	Itar	
 2	18.21	3352822	2707803	Kotlin	nihiL	
+2	18.2	3730320	2733027	C++	Sohaib01	
 2	18.2	218189	2707798	Python3	[CG]Maxime	
-2	18.18	1976994	2707069	C#	szabdan	
+2	18.18	3504257	2708537	Java	NidhiGupta	
 2	18.15	1726986	2707150	Python3	JacksonRichardson	
 2	18.15	571731	2708836	Java	Polf	
 2	18.14	406132	2708323	C++	ManuDev	
 2	18.13	1833778	2709185	Python3	takedarts	
-2	18.13	3389671	2707479	C#	Itar	
-2	18.12	3230794	2827308	Python3	tutubalin	
 2	18.11	1195856	2707265	Java	daifei4321	
 2	18.11	3519344	2708811	C#	Hobomojo	
 2	18.09	3444208	2805498	Java	Anatoli	
 2	18.09	836415	2707472	Java	tallo	
 2	18.08	3227092	2707208	Kotlin	Bwvolleyball	
-2	18.08	3730320	2733027	C++	Sohaib01	
-2	18.07	2437510	2708715	C++	magsif	
+2	18.07	973040	2850000	C	papyjo	

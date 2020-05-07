@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4624,time=2020-05-06 00:43:30
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4624,time=2020-05-07 01:24:06
 0	46.75	1433161	1484525	C	Mingu	
 0	45.63	990110	357643	C++	Rogerup	
 0	45.62	494104	455215	C++	Recar	
@@ -52,7 +52,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4624,time=2020-05-06 00:43:
 0	41.39	1500515	1659836	C#	eulerscheZahl	
 0	41.38	1195934	1611063	C++	odinmillion	
 0	41.29	1079387	351717	Python	SimonBou	
-0	41.26	1061242	366483	C++	chucknorris	
+0	41.26	1061242	366483	C++	Csipcsirip	
 0	41.25	569223	345550	Javascript	Glutamatt	
 0	41.25	2897325	2579930	C++	CAEZAR	
 0	41.24	162982	1121100	C++	Dami-e	
@@ -89,11 +89,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4624,time=2020-05-06 00:43:
 0	39.47	1289001	390758	C++		
 0	39.45	1052271	362037	C#	Bleash	
 0	39.45	947892	414997	C++	ZachAttackary	
-0	39.44	1036003	343054	Python	Ryo	
 0	39.43	2350846	2338958	C++	DrBloodmoney	
 0	39.43	1001096	348402	C#	MyIIone	
 0	39.42	335954	2238670	Java	nmahoude	
 0	39.42	1402717	508957	Javascript	jakub	
+0	39.36	1036003	343054	Python	Ryo	
 0	39.34	1062653	356269	C++	planB	
 0	39.28	1664044	2116210	C++	BUG	
 0	39.27	217547	358235	Haskell	stderr	
@@ -149,6 +149,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4624,time=2020-05-06 00:43:
 0	38.07	2639926	2356200	OCaml	PROF-LIV	
 0	38.06	1986145	1231495	C++	ValNyz	
 0	38.05	920987	357655	Python3	redna70	
+0	38.05	811164	353766	C#	tonynogo	
 0	38.05	157377	365493	Javascript	McKelian	
 0	38.04	682376	356493	Java	fraagol	
 0	38.03	984109	353465	OCaml	LeCaRiBoU	
@@ -156,7 +157,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4624,time=2020-05-06 00:43:
 0	38.02	371603	352311	C++	martin	
 0	38	947693	352491	Java	Sunglow	
 0	37.98	2316796	2504063	C++	Psio	
-0	37.97	811164	353766	C#	tonynogo	
 0	37.96	1113826	2092499	VB.NET	KingJack	
 0	37.96	554263	348765	C++	assy	
 0	37.96	193315	362858	Dart	hau	
@@ -300,7 +300,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4624,time=2020-05-06 00:43:
 0	35.62	1047881	356780	Scala	GreenTea	
 0	35.58	815677	353101	Haskell	icetonic	
 0	35.57	845360	357693	Python	user736	
-0	35.51	1093968	968670	Java	milosMATRIXrepic	
+0	35.54	1093968	968670	Java	milosMATRIXrepic	
 0	35.51	504994	340320	Java	NikitON	
 0	35.51	827957	352275	Python	harvestsnow	
 0	35.51	225875	2139918	C#	leff	
@@ -782,8 +782,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4624,time=2020-05-06 00:43:
 0	31.12	1511645	644788	Python	OleksandrVoytsekhovskyy	
 0	31.11	1501735	789120	Python3	bernardlavilliers	
 0	31.11	1447295	1111668	C++	Roszondas	
-0	31.1	1307473	476155	C++	Evgenykz	
 0	31.1	154348	340899	C	ProYd	
+0	31.1	1307473	476155	C++	Evgenykz	
 0	31.1	1225196	950726	Python	Pepetroo	
 0	31.1	993715	345171	Java	Yvan	
 0	31.09	834200	350064	Python3	Amin_pl	
@@ -942,6 +942,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4624,time=2020-05-06 00:43:
 0	29.8	1279810	461436	C++	Skellora	
 0	29.8	733335	346750	Java	DJNour	
 0	29.8	1188273	370204	Python3	DevNico	
+0	29.78	1062600	344820	Perl	realfranz	
 0	29.74	833606	353127	Java	mattrero	
 0	29.74	2665660	1917445	OCaml	MPSI-LIV_jesappelGrout2	
 0	29.73	1288808	499175	Python3	Stanford_Pines	
@@ -952,7 +953,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4624,time=2020-05-06 00:43:
 0	29.69	866399	341445	C#	Makam	
 0	29.68	418265	355461	Javascript	Kruisie	
 0	29.67	1333822	665158	Python3	Stefanorr	
-0	29.67	1062600	344820	Perl	realfranz	
 0	29.62	999926	353502	C#	SkyyStorm	
 0	29.61	833299	344556	C++	egbert	
 0	29.6	587313	352933	C#	o4815162342	
@@ -993,9 +993,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4624,time=2020-05-06 00:43:
 0	29.25	2510484	1917934	OCaml	MPSI-LIV_jesappelGrout	
 0	29.25	171803	344490	C#	Stan	
 0	29.21	1052506	343594	Java	mnementh	
+0	29.21	1051871	355018	Python3	MattHylkema	
 0	29.19	153716	349283	C	kp	
 0	29.17	154937	344475	Python3	[CG]BOUGA	
 0	29.16	964290	351509	Javascript	madcap99	
 0	29.16	1378648	416735	C++	AKA_Steve	
-0	29.14	1051871	355018	Python3	MattHylkema	
 0	29.13	569002	345963	Java	Maan	

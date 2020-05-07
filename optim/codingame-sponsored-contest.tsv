@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=10846,time=2020-05-06 00:52:31
+Score	UserID	Lang	Pseudo	#optim,count=10866,time=2020-05-07 01:59:58
 14337	329200	C++	BlitzProg	
 13603	1366631	Javascript	Morhaus	
 13285	1307473	C++	Evgenykz	
@@ -247,6 +247,7 @@ Score	UserID	Lang	Pseudo	#optim,count=10846,time=2020-05-06 00:52:31
 2684	819803	Javascript	Anordil	
 2684	1074858	F#	MietekBrzytwa	
 2684	2391450	Python3	pypi	
+2684	3686887	Python3	R1FA	
 2683	828213	Go	anst	
 2682	378607	Javascript	chamot1111	
 2680	3422694	C#	HK42	
@@ -475,7 +476,7 @@ Score	UserID	Lang	Pseudo	#optim,count=10846,time=2020-05-06 00:52:31
 2532	2453008	Python3	Crypticsy	
 2532	1754451	Python3	MMA	
 2532	3406031	Python3	Dhineshkumar	
-2532	1066745	Python3	JohnRambo	
+2532	1066745	Python3	DepartmentOfRedundancy	
 2532	1259407	Python3	Karrix	
 2532	3430996	Python3	fofofifi	
 2532	3442915	Python3	such	
@@ -819,6 +820,7 @@ Score	UserID	Lang	Pseudo	#optim,count=10846,time=2020-05-06 00:52:31
 1952	2731276	C++	panda42	
 1950	155601	C++	mattox	
 1948	1418821	Lua	input.txt	
+1948	3797568	Python3	blefeuvr	
 1946	1188212	C	superredlark	
 1946	510561	Javascript		
 1946	1410087	Javascript	ShiftBy	
@@ -935,6 +937,7 @@ Score	UserID	Lang	Pseudo	#optim,count=10846,time=2020-05-06 00:52:31
 1754	1420817	Javascript	TheMagicShop	
 1750	1137323	Java	Fitz45	
 1750	3749987	Javascript	KobeL	
+1750	672318	C++	mpt	
 1748	1687387	Python3	piqk	
 1746	2194865	Ruby	paranoidduck	
 1742	1372965	Python3	Crabar	
@@ -972,6 +975,7 @@ Score	UserID	Lang	Pseudo	#optim,count=10846,time=2020-05-06 00:52:31
 1684	350812	C++	robni	
 1680	1572888	Python3	DirtyHarry	
 1680	323895	Dart	HannesRammer	
+1680	554140	Javascript	mel-mouk	
 1678	1759839	Python3	matleg	
 1678	1981732	F#	MJS	
 1676	908928	Java	estlinara	
@@ -995,7 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=10846,time=2020-05-06 00:52:31
 1640	3572792	Python3	metalax	
 1638	937933	Scala	Richmond	
 1632	1290541	Python3	JorAlias	
-1632	1059996	C#	Molybdene	
-1630	1818596	OCaml	wec	
-1630	1065653	C++	Erisdar	
-1626	1390986	C#	Trevwilson	
