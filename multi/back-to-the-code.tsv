@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4625,time=2020-05-10 00:30:21
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4625,time=2020-05-11 00:30:19
 0	46.75	1433161	1484525	C	Mingu	
 0	45.63	990110	357643	C++	Rogerup	
 0	45.62	494104	455215	C++	Recar	
@@ -492,6 +492,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4625,time=2020-05-10 00:30:
 0	33.7	1407420	2220890	Groovy	kiril76	
 0	33.69	1070781	344999	Python	Peterke	
 0	33.69	566909	346113	Python	the_travelling-salesman	
+0	33.69	1462735	1962312	Java	mstuercke	
 0	33.68	989912	412554	C++	Arctik3-14	
 0	33.68	927873	350372	C	Charlot67	
 0	33.68	153443	348544	Python	simopr	
@@ -523,7 +524,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4625,time=2020-05-10 00:30:
 0	33.62	1269687	375475	Python3	Maggles	
 0	33.61	951724	343520	C++	Ka-L	
 0	33.61	1178123	1112298	Python3	Chabs	
-0	33.61	1462735	1962312	Java	mstuercke	
 0	33.6	1068652	355894	C++	Stormer	
 0	33.59	783337	349922	Java	Dewey	
 0	33.59	1013576	344215	C#	GabrielBottari	
@@ -809,9 +809,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4625,time=2020-05-10 00:30:
 0	30.99	1060991	348574	Python3	kipnell	
 0	30.98	270926	347486	Python	NigelSheldon	
 0	30.96	1363875	455239	Python	vtalpaca	
+0	30.96	1206537	656015	C++	MadKnight	
 0	30.95	937740	344410	Python	rnd495	
 0	30.95	572830	341741	Java	consuLion	
-0	30.93	1206537	656015	C++	MadKnight	
 0	30.93	1066672	347937	Javascript	Zhyjiuk	
 0	30.92	954005	477233	Python3	sulan	
 0	30.92	1042118	357963	C	neb	
@@ -874,7 +874,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4625,time=2020-05-10 00:30:
 0	30.4	1045904	357572	Javascript	farzher	
 0	30.4	825231	2115966	Go	tumbudu	
 0	30.39	3734880	2754610	Swift	DavidJangdal	
-0	30.39	1054714	342602	Python	ScottKulp	
 0	30.38	1625378	791281	C++	Mustafa_Kamel_saied	
 0	30.38	2327967	1575293	Ruby	Karocyt_aka_Kevazoul	
 0	30.36	440476	882767	Ruby	yowa	
@@ -889,6 +888,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4625,time=2020-05-10 00:30:
 0	30.32	1369369	1391279	Python3	JulienDalle	
 0	30.32	839517	357384	C#	Andrei2	
 0	30.32	890975	341714	Javascript	e9	
+0	30.32	1054714	342602	Python	ScottKulp	
 0	30.31	1753007	895171	C++	Suryanto	
 0	30.31	2290633	1615815	Python3	field3	
 0	30.3	1046004	352577	C++	CodeRaiderS	
