@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=951,time=2020-05-11 00:30:11
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=951,time=2020-05-12 00:30:13
 6	26.7	2577687	2058383	C++	blasterpoard	
 6	25.73	1500515	2058386	C#	eulerscheZahl	
 6	25.39	1629259	2583261	C++	Marchete	
@@ -222,6 +222,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=951,time=2020-05-11 00:30:1
 5	-3.5	1192837	2661998	Rust	davidB	
 5	-10.19	1890185	2059228	C++	num	
 5	-11.62	1753077	2052033	C++	codingWhale	
+5	-inf	403748			[CG]SaiksyApo	
 4	20.57	3363565	2683890	Go	BloodRayne	
 4	20.05	2555611	2774265	Go	SpiderSas	
 4	19.75	3721214	2852462	C++	jrke	
@@ -805,7 +806,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=951,time=2020-05-11 00:30:1
 0	10.18	2823571	2054072	C++	liltaycoolfornow	
 0	10.17	1552764	2120261	C#	466f7272657374	
 0	10.15	2928855	2119843	Javascript	x24	
-0	10.13	403748	2058338	Bash	[CG]SaiksyApo	
 0	10.09	1635357	2831857	Python3	GiB	
 0	10.08	3457757	2489152	Javascript	DualU	
 0	10.06	2410235	2312733	Python3	Joe_Black	
