@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2344,time=2020-05-19 01:55:58
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2345,time=2020-05-20 02:51:59
 5	41.19	832306	1764125	C++	pb4	
 5	40.26	1400179	1499905	C++	reCurse	
 5	36.08	1629259	2238208	C++	Marchete	
@@ -757,7 +757,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2344,time=2020-05-19 01:55:
 4	-inf	1546047				
 3	21.84	3164028	2694723	Java	KrishanH	
 3	20.62	3693029	2686375	Java	NikolasMori	
-3	20.51	532967	965414	Java	Freezing	
+3	20.53	532967	965414	Java	Freezing	
 3	20.3	1227148	1326288	Java	Schneewittchen	
 3	20.15	3503350	2936816	C++	Foxy47	
 3	20.07	3179006	2252169	Java	JZ529	
@@ -874,6 +874,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2344,time=2020-05-19 01:55:
 3	16.91	1480323	914050	C#	OvidiuSzanto	
 3	16.91	3634731	2686978	Java	dstrauch	
 3	16.91	3222164	2264689	Java	300243056	
+3	16.91	2061050	1349654	Ruby	Pragmasea	
 3	16.9	1713958	906714	Java	Civodul	
 3	16.9	865548	964532	Python3	Kktus	
 3	16.9	2468526	1667041	Java	TheSenate	
@@ -883,7 +884,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2344,time=2020-05-19 01:55:
 3	16.87	862919	2587323	C++	Astrobytes	
 3	16.85	1194054	918117	C++	Bidembois	
 3	16.85	3476686	2497564	Java		
-3	16.84	2061050	1349654	Ruby	Pragmasea	
 3	16.84	2252914	1888222	Python3	Malleek	
 3	16.84	959402	2664091	PHP	gmessier	
 3	16.83	1488131	974090	Java	neph	
@@ -954,13 +954,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2344,time=2020-05-19 01:55:
 3	15.82	1314796	1226676	C#	JBence	
 3	15.82	1713175	897334	Python3	sykius	
 3	15.81	2016173	1386830	Python3	GerON	
-3	15.76	2220895	1506652	Java	Zakebo	
 3	15.74	1564593	899025	VB.NET	kjasghlisuagerhdfn	
 3	15.72	1176700	913688	Python3	HL	
 3	15.71	1861300	1128696	C#	Jakkyl	
 3	15.71	650661	1224258	Ruby	Syro	
 3	15.68	3408749	2443338	Java	JebBush20XX	
 3	15.66	1594351	1051061	C#	elplouk	
+3	15.64	2220895	1506652	Java	Zakebo	
 3	15.61	3394640	2494416	C++	Ultron_3_	
 3	15.58	3708276	2698107	Java	JoyFish	
 3	15.57	1753424	997871	Python3	FilkinKuiv	
