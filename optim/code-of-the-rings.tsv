@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3532,time=2020-05-20 03:04:24
+Score	UserID	Lang	Pseudo	#optim,count=3534,time=2020-05-21 01:46:11
 2759	1301401	C#	Stanax	
 2761	1833680	C++	jvivenot	
 2765	2288263	Rust	dbdr	
@@ -12,6 +12,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3532,time=2020-05-20 03:04:24
 2999	1323814	Clojure	SatineChatounette	
 3004	557990	C++	Wazemo	
 3027	1039809	C#	Azziliz	
+3086	977117	C++	Psyho	
 3101	922880	C#	Leshka	
 3108	1307473	C++	Evgenykz	
 3131	1629259	C#	Marchete	
@@ -23,7 +24,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3532,time=2020-05-20 03:04:24
 3221	403748	C#	[CG]SaiksyApo	
 3238	1477749	C++	Shadeke	
 3290	1136521	C	nadrek	
-3292	977117	C++	Psyho	
 3294	1798477	C#	mnivet	
 3333	973040	F#	papyjo	
 3340	2311105	C++	kovi	
@@ -958,6 +958,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3532,time=2020-05-20 03:04:24
 5980	1468756	C++	quaternion	
 5980	254771	C++	david_tazy	
 5980	3596500	Python3	Fksg	
+5980	3704439	Ruby	mandersn	
 5981	1494823	Go	duburlan	
 5982	1510356	Java	HattedHenk	
 5983	1234259	C	digit_ro	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=3532,time=2020-05-20 03:04:24
 6001	830393	Javascript	Proxymyr	
 6001	571496	C#	adragomanov	
 6001	662989	Clojure	Ascott	
-6001	978567	C#	RedDwarf	

@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=842,time=2020-05-20 00:49:16
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=842,time=2020-05-21 00:44:50
 9	30.08	2489835	1769668	C#	Akarachudra	
 9	25.87	2254195	1769673	Java	BrunoFelthes	
 9	25.45	1818159	1769663	C++	JRFerguson	
@@ -492,18 +492,18 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=842,time=2020-05-20 00:49:1
 6	-0.7	1108200	1756366	C++	MarkWyz	
 6	-0.96	1538846	1764061	Rust	ZweiPunktFuenf	
 6	-13.59	1319750	1739795	Ruby	NicholasGarrett	
-5	12.71	914013	2052983	Python3	HexTree	
-5	10.64	3522568	2695629	C++	bot.exe	
-5	5.11	2499257	1848893	C++	Jesega	
-5	-2.5	1841051	1933402	Python3	Alpacah	
-5	-6.89	3486079	2503122	Javascript	DerSlack	
-5	-6.9	3520283	2620947	C++	KlonHero	
-5	-7.03	2836264	2668049	C++	M0N1K4	
-5	-8.03	2219871	1742660	C#	TernumSal	
-5	-9.24	1285564	1739455	PHP	Rstamper	
-5	-17.21	3522401	2689917	C++	Aretanas	
-5	-21.34	2467024	1743763	Java	Daytona	
-5	-inf	1399852			Thaell	
+5	16.36	862336	2983311	C++	Zaphus	
+5	13.21	914013	2052983	Python3	HexTree	
+5	9.85	3522568	2695629	C++	bot.exe	
+5	4.74	2499257	1848893	C++	Jesega	
+5	-2.64	1841051	1933402	Python3	Alpacah	
+5	-7	3520283	2620947	C++	KlonHero	
+5	-7	3486079	2503122	Javascript	DerSlack	
+5	-7.13	2836264	2668049	C++	M0N1K4	
+5	-8.07	2219871	1742660	C#	TernumSal	
+5	-9.27	1285564	1739455	PHP	Rstamper	
+5	-17.24	3522401	2689917	C++	Aretanas	
+5	-21.36	2467024	1743763	Java	Daytona	
 5	-inf	1942723			Tomux	
 5	-inf	591238			wolfnether	
 5	-inf	1461255			Spaider15	
@@ -561,7 +561,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=842,time=2020-05-20 00:49:1
 5	-inf	1434515			scor-A	
 5	-inf	3477987				
 5	-inf	2112782			spyk	
-5	-inf	862336			Zaphus	
 5	-inf	3028556			googlyeyesultra	
 5	-inf	2395414			JakenHerman	
 5	-inf	2357262			MaorKachalon	
@@ -574,6 +573,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=842,time=2020-05-20 00:49:1
 5	-inf	2525902			hauchipauchi	
 5	-inf	1576567			jgisin	
 5	-inf	2499001			WatchMeCalc	
+5	-inf	1399852			Thaell	
 4	7.22	783129	2433720	C#	Sookie	
 4	4.99	1830993	1742555	C#	jpcheck	
 4	4.46	2509374	2433317	C++	luisaltaje	
