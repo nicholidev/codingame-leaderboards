@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=2668,time=2020-05-21 01:46:08
+Score	UserID	Lang	Pseudo	#optim,count=2669,time=2020-05-22 00:52:36
 2509	1327028	C++	FredericBautista	
 2507	154372	Bash	Plopx	
 2504	1695697	Python3		
@@ -29,6 +29,7 @@ Score	UserID	Lang	Pseudo	#optim,count=2668,time=2020-05-21 01:46:08
 2444	2311105	C++	kovi	
 2441	553938	C++	MagAlex	
 2441	805067	Javascript	Magus	
+2440	1566335	Java	BeardedWhale	
 2438	1500515	C#	eulerscheZahl	
 2429	557990	C++	Wazemo	
 2423	806157	Python3	Aveuh	
@@ -64,7 +65,6 @@ Score	UserID	Lang	Pseudo	#optim,count=2668,time=2020-05-21 01:46:08
 2358	2387233	C#	SinOfWrath	
 2355	1675034	Javascript	francois	
 2353	2714157	C++	HowToCodeYourGundam	
-2350	1566335	Java	BeardedWhale	
 2347	1015215	C++	XaralamposXaris	
 2345	1071140	C#	BeberLeNewbie	
 2340	973040	C	papyjo	
@@ -152,8 +152,8 @@ Score	UserID	Lang	Pseudo	#optim,count=2668,time=2020-05-21 01:46:08
 2203	920987	Python3	redna70	
 2200	3317583	Python3	Mjo	
 2198	3330730	C++		
+2197	273876	C#	SirSushi	
 2196	2197750	C	alec_RogueSaloon	
-2196	273876	C#	SirSushi	
 2193	1030259	C#	salext	
 2192	1487392	Java	Razielwar	
 2191	1572888	Python3	DirtyHarry	
@@ -193,6 +193,7 @@ Score	UserID	Lang	Pseudo	#optim,count=2668,time=2020-05-21 01:46:08
 2135	1297312	Java	Sephrenya	
 2134	1718945	C++	ilovebugs	
 2134	3521631	C#	Bamboozled2	
+2133	3737875	C#	Gordon-from-Blumberg	
 2130	1181768	Java	dio_O	
 2125	1114834	Scala	k4ng0u	
 2124	915957	C	Tux	
@@ -203,7 +204,6 @@ Score	UserID	Lang	Pseudo	#optim,count=2668,time=2020-05-21 01:46:08
 2120	3245819	Python3	TomA	
 2119	514460	C++	Harv	
 2119	2407189	C	Teuchteu	
-2115	3737875	C#	Gordon-from-Blumberg	
 2112	1206537	C++	MadKnight	
 2110	1803872	Python3	happyweary	
 2110	303151	Python3	MoOT.Cube	
@@ -507,6 +507,7 @@ Score	UserID	Lang	Pseudo	#optim,count=2668,time=2020-05-21 01:46:08
 1872	1291145	C	Hich	
 1871	971177	Java	davidlepilote	
 1871	1310195	Python3	FuHok	
+1871	3594074	C++	jopo	
 1868	959757	Python3	buffer[]	
 1868	1279751	Rust	Tudou	
 1866	1986308	PHP	tautelis	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=2668,time=2020-05-21 01:46:08
 1709	1303696	Java	ral	
 1709	962119	C++	serjoscha	
 1708	1105849	PHP	Savagge	
-1708	1264581	C#	BenjiIsBack	
