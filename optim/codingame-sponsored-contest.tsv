@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=11011,time=2020-05-24 01:53:05
+Score	UserID	Lang	Pseudo	#optim,count=11020,time=2020-05-25 01:10:51
 14337	329200	C++	BlitzProg	
 13603	1366631	Javascript	Morhaus	
 13285	1307473	C++	Evgenykz	
@@ -50,6 +50,7 @@ Score	UserID	Lang	Pseudo	#optim,count=11011,time=2020-05-24 01:53:05
 4292	154961	C#	[CPC]Foudge	
 4291	1114834	Python3	k4ng0u	
 4234	1372843	Java	djjeck	
+4210	3691366	Java	V90	
 4197	545951	C++	AntonT	
 4175	1327273	Python3	softice	
 4151	1022926	Python3	_BC_	
@@ -600,7 +601,6 @@ Score	UserID	Lang	Pseudo	#optim,count=11011,time=2020-05-24 01:53:05
 2360	1055625	Python3	dzosz	
 2356	155896	PHP	gamoul	
 2356	199519	Python3	Dreamcooled	
-2352	3691366	Java	V90	
 2351	1057841	Java	IDevelopLikeADonkey	
 2350	2656118	Python3	yanamal	
 2348	1440207	Python3	Rungekutta	
@@ -771,6 +771,7 @@ Score	UserID	Lang	Pseudo	#optim,count=11011,time=2020-05-24 01:53:05
 2044	155774	PHP	dwarfie	
 2044	2917059	Python3	Esprit_NOBEL	
 2040	1363760	Javascript	Frostizzz	
+2040	493310	Java	Marina	
 2038	1131084	C#	pmod	
 2036	1923457	Python3	Wonshtrum	
 2036	2323725	Javascript	GMartigny	
@@ -781,7 +782,6 @@ Score	UserID	Lang	Pseudo	#optim,count=11011,time=2020-05-24 01:53:05
 2028	3489223	Javascript	KarloHubai	
 2024	2974905	Javascript	A-312	
 2022	1937604	Python3	AlexAndre	
-2022	493310	Java	Marina	
 2020	403748	C#	[CG]SaiksyApo	
 2020	1290545	Java	Roudoudou	
 2020	2057540	Java	liz22	
@@ -963,6 +963,7 @@ Score	UserID	Lang	Pseudo	#optim,count=11011,time=2020-05-24 01:53:05
 1738	2238312	Javascript	Etalix	
 1738	892436	C++	Napak	
 1732	1328758	Javascript	GottZ	
+1732	3737875	Javascript	Gordon-from-Blumberg	
 1730	1050421	PHP	geppoz	
 1726	1107784	C++	SimpleCpp	
 1726	2415232	Kotlin	Pignolo	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=11011,time=2020-05-24 01:53:05
 1674	2488117	Python3	neurolane	
 1670	1229873	PHP	AhmedAyman_2nd-year	
 1670	586074	Ruby	Nakilon	
-1668	2682089	C++	BeardPete	
