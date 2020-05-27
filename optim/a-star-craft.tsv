@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=737,time=2020-05-26 00:53:53
+Score	UserID	Lang	Pseudo	#optim,count=738,time=2020-05-27 01:13:39
 11902	2288263	Rust	dbdr	
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
@@ -134,6 +134,7 @@ Score	UserID	Lang	Pseudo	#optim,count=737,time=2020-05-26 00:53:53
 6954	1893989	Python3	Rosstherock	
 6909	2521394	Kotlin	FrankR	
 6791	2018552	C++	gurualo	
+6740	311035	Python3	leojean890	
 6675	933299	Scala	ThibautRobert	
 6656	2158577	C++	zuko3d	
 6633	1152991	C#	xoposhiy	
@@ -174,7 +175,6 @@ Score	UserID	Lang	Pseudo	#optim,count=737,time=2020-05-26 00:53:53
 5603	2769647	Java	RiffShark	
 5573	1209562	C++	JohnnyYuge	
 5456	225875	C#	leff	
-5450	311035	Python3	leojean890	
 5421	3780587	C#	PortalBot	
 5400	155774	C++	dwarfie	
 5395	3707873	C#	Philbot	
@@ -198,6 +198,7 @@ Score	UserID	Lang	Pseudo	#optim,count=737,time=2020-05-26 00:53:53
 4865	1613949	Java	elaaboum	
 4811	2711438	Python3	Aeneas	
 4779	3226448	Python3	tobk	
+4767	154806	Python3	piwai	
 4761	1420817	Javascript	TheMagicShop	
 4732	880353	C++	zasmu	
 4717	1727535	C#	qr-3	
@@ -226,7 +227,6 @@ Score	UserID	Lang	Pseudo	#optim,count=737,time=2020-05-26 00:53:53
 4147	904209	Java	Myrtille44	
 4135	1460836	Java	ImanolSaga	
 4132	962569	Python3	[K]Gabor	
-4091	154806	Python3	piwai	
 4068	1673512	C++	Ryoken	
 4051	1896128	C++	Vhanire	
 4042	2833220	Java	Alex311	
@@ -473,6 +473,7 @@ Score	UserID	Lang	Pseudo	#optim,count=737,time=2020-05-26 00:53:53
 1092	478137	Javascript	Z_Dante	
 1088	1491995	C#	Tyir	
 1076	3657937	Python3	elderlybeginner	
+1065	3721214	Python3	jrke	
 1062	2241559	Python3	eskeln	
 1058	158495	Javascript	Cr3aHal0	
 1055	490588	Python3	Uljahn	
@@ -660,7 +661,7 @@ Score	UserID	Lang	Pseudo	#optim,count=737,time=2020-05-26 00:53:53
 1045	3806383	Python3	Anaxagore	
 1045	3493826	Python3	MaxCol06	
 1045	3488890	Python3	Feulou	
-1045	3774856	Python3	IAmNoob	
+1045	3774856	Python3	python_programerPP	
 1045	2040663	Python3	cfenoy	
 1045	3200923	Java	Popop12	
 1045	2180801	Python3	Gayzou	
