@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3610,time=2020-06-01 00:30:08
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3610,time=2020-06-02 00:42:17
 5	35.77	1629259	2238218	C++	Marchete	
 5	33.25	494104	960105	C++	Recar	
 5	32.18	818534	960075	C++	Ixanezis	
@@ -859,7 +859,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3610,time=2020-06-01 00:30:
 3	25	816936	937984	Python3	aurimukas	
 3	25	826833	937508	C++	Hao	
 3	24.98	1015020	937887	C#	Scepheo	
-3	24.94	2455124	2475576	C	agiordan	
+3	24.97	2455124	2475576	C	agiordan	
 3	24.92	817812	937892	C++	hiro00	
 3	24.92	1125334	937553	C#	Hehoslav	
 3	24.85	233077	937482	C#	adhie	
@@ -903,9 +903,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3610,time=2020-06-01 00:30:
 3	23.93	1112730	963186	Python3	lifchicker	
 3	23.92	816299	937426	Python	oawdodiffj	
 3	23.88	745612	937419	C#	bloublou	
-3	23.85	2167259	2740072	C++	Freepouille	
 3	23.83	1607034	2649301	Rust	tomatoes	
 3	23.81	614974	937967	C++	Einstein_Division	
+3	23.77	2167259	2740072	C++	Freepouille	
 3	23.67	523846	937531	C#	Palmipedus	
 3	23.64	301505	937956	Java	Gaotir	
 3	23.54	2526322	1866714	Python3	fhemsworth	
@@ -945,6 +945,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3610,time=2020-06-01 00:30:
 3	22.74	574656	937827	Python	dmpage	
 3	22.71	1559667	1850428	Java	GetSchwifty	
 3	22.66	2717909	1963699	Java	Nelb	
+3	22.65	596425	937669	C#	Gammel	
 3	22.62	540198	937810	C#	SLavaLL	
 3	22.62	817326	2084938	C++	Trouz	
 3	22.61	2290633	2338466	Python3	field3	
@@ -953,7 +954,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3610,time=2020-06-01 00:30:
 3	22.6	1791716	965670	Javascript	S.lexis	
 3	22.57	203779	937676	C++	guille1304	
 3	22.55	1425092	937573	Perl	MercurioPT	
-3	22.54	596425	937669	C#	Gammel	
 3	22.52	1682690	937605	Python3	36001315	
 3	22.51	1268618	958621	Java	Barnou	
 3	22.51	975571	937388	Python3	Gophys	
@@ -981,9 +981,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3610,time=2020-06-01 00:30:
 3	22.34	574513	938095	PHP	Yassin	
 3	22.34	2006559	1319941	Java	tomaszkk	
 3	22.32	589235	938518	C++	fesouek	
+3	22.31	811979	937425	C	DaniTunes	
 3	22.3	507538	2128754	C++	Krzybe	
 3	22.29	1679978	2061727	C	joel76	
-3	22.28	811979	937425	C	DaniTunes	
 3	22.27	153877	937883	C++	ElderBug	
 3	22.26	869457	1317399	Python3	Pthat	
 3	22.26	1018437	1441237	C++	dubicube	
