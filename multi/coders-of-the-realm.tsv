@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=31,time=2020-06-03 00:30:04
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=32,time=2020-06-04 00:30:04
 3	30.11	2288263	2696905	Rust	dbdr	
 3	29.15	2924895	2694647	C	trictrac	
 3	27.94	788361	2680753	C++	Bob	
@@ -25,8 +25,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=31,time=2020-06-03 00:30:04
 2	11.16	1464932	2742984	Java	Tiramon	
 2	10.49	2923506	2682340	C++	darkhorse64	
 2	6.24	1029602	2695889	C	Potemkine	
-0	7.19	1713174	2683174	Python3	BigUP	
-0	7.14	2325449	2985364	Perl	otpv	
-0	7.11	2043908	2680280	D	AntiSquid	
-0	7.07	1854639	2995988	C#	iDxMeG	
-0	7.06	523846	2828228	C#	Palmipedus	
+0	7.37	523846	2828228	C#	Palmipedus	
+0	7.34	2325449	2985364	Perl	otpv	
+0	7.3	1854639	2995988	C#	iDxMeG	
+0	7.29	1713174	2683174	Python3	BigUP	
+0	7.28	2043908	2680280	D	AntiSquid	
+0	7.15	1341520	3002283	Java	egaetan	
