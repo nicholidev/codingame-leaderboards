@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2174,time=2020-06-05 00:30:12
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2174,time=2020-06-06 00:40:05
 6	34.96	3193653	2579867	C++	karliso	
 6	34.19	1624809	2653061	C#	DrFekalus	
 6	33.29	1607522	2224302	C++	RoboStac	
@@ -868,9 +868,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2174,time=2020-06-05 00:30:
 3	19.06	3171145	2429118	OCaml	MPSI-LIV-OrianeBalthazar	
 3	18.91	2003755	1499771	C#	mybestbot	
 3	18.78	889789	779469	C	Alain-Delpuch	
+3	18.77	3808031	2991937	Ruby	_proton	
 3	18.73	1542253	805736	C#	FretPwner	
 3	18.7	1413330	1316472	Python3		
-3	18.69	3808031	2991937	Ruby	_proton	
 3	18.68	3376183	2428679	Python3	harpie	
 3	18.46	3010160	2151740	Go	GenieJang	
 3	18.36	276480	1095956	Javascript	Karang	
@@ -897,7 +897,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2174,time=2020-06-05 00:30:
 3	17.12	1733943	1375372	Python3	Bouga	
 3	17.12	1634781	776581	C++	O.lg.a	
 3	17.05	1701465	910855	C#	JoelSimonsson	
-3	17.05	1409203	1631344	C++	Asterion	
+3	17.04	1409203	1631344	C++	Asterion	
 3	16.99	1771970	930323	Python3	Entei	
 3	16.96	1654817	798588	Java	Swarovski84	
 3	16.91	1559016	1106684	Python	mshamory	
@@ -934,7 +934,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2174,time=2020-06-05 00:30:
 3	15.65	1441602	1424925	Java	LastVar	
 3	15.62	2407994	1659748	Javascript	EliasHasle	
 3	15.56	1906357	2253127	Java	KiMiN	
-3	15.52	1347751	787017	Java	FunFR	
+3	15.49	1347751	787017	Java	FunFR	
 3	15.45	553938	775086	C++	MagAlex	
 3	15.41	1930284	1125909	Java	DasBot	
 3	15.39	155928	790815	C	pk	
@@ -952,8 +952,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2174,time=2020-06-05 00:30:
 3	14.91	2851591	2070741	C	3k	
 3	14.74	359746	777048	Java	Shoohei	
 3	14.65	1681157	787791	Java	Inqy	
+3	14.63	3101644	2433235	Java	HerrHagner	
 3	14.58	1501735	775557	Python3	bernardlavilliers	
-3	14.52	3101644	2433235	Java	HerrHagner	
 3	14.48	2878528	2205999	Python3	jankollar	
 3	14.42	2946718	2246608	C#	KalleKalve	
 3	14.35	1546281	2448978	Javascript	Tmone	
