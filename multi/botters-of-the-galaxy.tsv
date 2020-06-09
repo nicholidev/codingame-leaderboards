@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=849,time=2020-06-08 00:30:09
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=850,time=2020-06-09 00:30:08
 9	30.08	2489835	1769668	C#	Akarachudra	
 9	25.87	2254195	1769673	Java	BrunoFelthes	
 9	25.45	1818159	1769663	C++	JRFerguson	
@@ -376,7 +376,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=849,time=2020-06-08 00:30:0
 6	15.61	1035241	1748435	Python3	Aleman	
 6	15.57	2545048	1772726	Java	qwertyo	
 6	15.54	3177616	2602268	Python3	kawacchu	
-6	15.51	2450542	2586787	C++	MindControler	
+6	15.51	2450542	2586787	C++	MindController	
 6	15.31	3074711	2634308	Javascript	LeoLet	
 6	15.16	2497890	2116094	C#	BlackBird	
 6	15.03	2398608	2590745	Python3	M_C	
@@ -816,6 +816,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=849,time=2020-06-08 00:30:0
 0	6.71	1504024	1776606	C#	VNVizitiu	
 0	6.7	1503941	1743489	C#	LuChanfen	
 0	6.65	1386032	1776489	Java	Houssem_201	
+0	6.61	3853270	3007582	C#	alibagamaev	
 0	6.61	2507615	1909827	OCaml	MPSI-LIV_Izmar	
 0	6.56	2520291	1743419	Java	Compal	
 0	6.55	2923079	2119502	Python3	Code_Lister	
@@ -833,8 +834,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=849,time=2020-06-08 00:30:0
 0	6.45	2800993	2032149	C++		
 0	6.4	937221	2495942	Java	vrampal	
 0	6.34	1881651	1828098	Python3	Alligard	
-0	5.72	2512705	1770867	Swift	awesomeFencer	
-0	5.64	1717345	2061864	Scala	kotobotov	
+0	5.69	2512705	1770867	Swift	awesomeFencer	
+0	5.59	1717345	2061864	Scala	kotobotov	
 0	3.78	1013463	1759229	Python3	Lachrymosa	
 0	3.24	236902	2313737	C++	Tryum	
 0	2.95	1362802	1747414	Javascript	Orlandi	
@@ -844,7 +845,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=849,time=2020-06-08 00:30:0
 0	-9.94	2315334	1776639	Java	VIP193	
 0	-10.12	1126419	1761345	C#	seyhen	
 0	-10.17	666934	1768944	Python	93	
-0	-10.35	1264023	1747289	VB.NET	Alamir	
+0	-10.36	1264023	1747289	VB.NET	Alamir	
 0	-10.57	2006348	1751833	Javascript	Koji02	
 0	-13.6	2524934	1743138	Python3	muhammed_sahil	
 0	-13.71	1708733	1741437	Swift	KikooNat	
