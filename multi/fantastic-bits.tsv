@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2365,time=2020-06-10 00:51:44
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2366,time=2020-06-11 01:10:13
 5	41.18	832306	1764125	C++	pb4	
 5	39.71	1400179	1499905	C++	reCurse	
 5	36.07	1629259	2238208	C++	Marchete	
@@ -827,7 +827,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2365,time=2020-06-10 00:51:
 3	18.08	1648261	897890	C++	Efuveo	
 3	18.02	1705325	899631	Java	FabrizioKrukoski	
 3	17.91	1100752	957343	Ruby	ValNykol	
-3	17.85	1299110	897193	Java	koger	
+3	17.89	1299110	897193	Java	koger	
 3	17.84	1663053	1041105	Java	DocbrownAA	
 3	17.82	3142886	2329219	Java	krackerman	
 3	17.81	1551031	2237690	Python3	gcruzatto	
@@ -902,13 +902,14 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2365,time=2020-06-10 00:51:
 3	16.82	1449433	1505148	C++	Rolf	
 3	16.81	1458393	2082159	Java	IJKL	
 3	16.81	1194054	918117	C++	Bidembois	
+3	16.8	3765683	2788222	Java	Mbourand	
 3	16.76	2636264	1870888	Python3	mattdeal	
 3	16.75	609805	1098962	C#	herve.delannoy	
+3	16.74	3266881	2310268	C++	LucieFaire	
 3	16.73	1539249	1588991	C#	RobinV	
 3	16.71	2215827	1479253	C++	EkaterinaSeverinko	
 3	16.71	3627342	2655857	C#	Zuabros	
 3	16.71	3222164	2264689	Java	300243056	
-3	16.7	3765683	2788222	Java	Mbourand	
 3	16.69	3680174	2695551	Java	JacobRawlings	
 3	16.68	3410203	2444964	Java	ViggleH	
 3	16.68	2021126	1454655	Ruby	FPSCUBE	
@@ -916,7 +917,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2365,time=2020-06-10 00:51:
 3	16.66	865548	964532	Python3	Kktus	
 3	16.66	1026791	906881	Javascript	Alfalfamale	
 3	16.66	596947	913403	C++	LBandy	
-3	16.66	3266881	2310268	C++	LucieFaire	
 3	16.66	3413960	2445075	Java	Tahlil803	
 3	16.66	1624965	897272	Java	tazee	
 3	16.65	3697135	2699120	Java	FrendLee	
