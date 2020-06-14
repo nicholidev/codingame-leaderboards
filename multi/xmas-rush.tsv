@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=510,time=2020-06-13 00:30:07
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=511,time=2020-06-14 00:30:08
 5	32.86	2725066	2311007	C#	Cize	
 5	32.17	1629259	2583704	C++	Marchete	
 5	31.47	2522090	2223884	C++	MSmits	
@@ -478,11 +478,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=510,time=2020-06-13 00:30:0
 0	11.87	1491995	2418275	C#	Tyir	
 0	11.55	2501808	2205489	Javascript	Robles	
 0	11.3	1990452	2262910	C#	Benoit_L	
-0	11.08	2202771	2349808	Java	Kaplone	
+0	11.24	2202771	2349808	Java	Kaplone	
 0	10.61	957334	2194706	Java	Dam	
 0	10.33	1374052	2195121	Java	Pesegato	
 0	10.13	2613192	2897148	C++	sigus	
-0	8.86	3353015	2847691	Python3	Salted	
+0	9.72	3353015	2847691	Python3	Salted	
 0	0.19	523846	2679595	C#	Palmipedus	
 0	0.08	3332393	2459986	Java	cahii	
 0	0.08	959402	2671801	C#	gmessier	
@@ -504,8 +504,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=510,time=2020-06-13 00:30:0
 0	-0.54	3153712	2235714	C++	MT0	
 0	-0.61	3763671	2782456	Javascript	esuguimo	
 0	-0.75	3115205	2220617	C++	lhz	
+0	-0.97	3464590	3012244	C	abbecool	
 0	-1.19	1631358	2203838	Python3	joelthelion	
-0	-10.16	3473768	2483327	Java	higle	
+0	-10.2	3473768	2483327	Java	higle	
 0	-10.78	3090212	2207687	Python	Still_a_Piece_of_Garbage	
 0	-12.25	2181365	2206272	Kotlin	Nikolaev_Alex	
 0	-12.91	3083620	2202376	Go	YoshikoHarada	

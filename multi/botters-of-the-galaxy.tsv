@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=850,time=2020-06-13 00:30:09
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=851,time=2020-06-14 00:30:10
 9	30.08	2489835	1769668	C#	Akarachudra	
 9	25.87	2254195	1769673	Java	BrunoFelthes	
 9	25.45	1818159	1769663	C++	JRFerguson	
@@ -775,8 +775,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=850,time=2020-06-13 00:30:0
 2	-11.4	3563052	2620926	C++	Lykor	
 0	10.44	1875472	1744005	F#	BillBert	
 0	10.16	925956	1742534	C++	Rentus	
+0	9.84	3432180	2458380	C++	TestFon	
 0	9.73	2258103	1858786	Javascript	Jennypatrick	
-0	9.49	3432180	2458380	C++	TestFon	
 0	9.14	1024388	1837050	Java	SamP	
 0	9.13	1546633	1770680	Javascript	duskyshelf	
 0	8.81	2618330	1853488	C++	4rx	
@@ -818,6 +818,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=850,time=2020-06-13 00:30:0
 0	6.65	1386032	1776489	Java	Houssem_201	
 0	6.61	3853270	3007582	C#	alibagamaev	
 0	6.61	2507615	1909827	OCaml	MPSI-LIV_Izmar	
+0	6.6	3464590	3012258	C	abbecool	
 0	6.56	2520291	1743419	Java	Compal	
 0	6.55	2923079	2119502	Python3	Code_Lister	
 0	6.55	2462453	2034789	C#	Konamiruku	
@@ -835,10 +836,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=850,time=2020-06-13 00:30:0
 0	6.4	937221	2495942	Java	vrampal	
 0	6.34	1881651	1828098	Python3	Alligard	
 0	5.69	2512705	1770867	Swift	awesomeFencer	
-0	5.59	1717345	2061864	Scala	kotobotov	
-0	3.78	1013463	1759229	Python3	Lachrymosa	
-0	3.24	236902	2313737	C++	Tryum	
-0	2.95	1362802	1747414	Javascript	Orlandi	
+0	5.37	1717345	2061864	Scala	kotobotov	
+0	3.75	1013463	1759229	Python3	Lachrymosa	
+0	3.18	236902	2313737	C++	Tryum	
+0	2.9	1362802	1747414	Javascript	Orlandi	
 0	-5.81	1246479	2697767	Java	Bastien_Baloup	
 0	-7.88	2643826	1875932	Python3	LeoB	
 0	-7.96	1950105	2144744	Java	[.].-	

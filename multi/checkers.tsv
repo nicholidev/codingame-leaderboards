@@ -1,11 +1,11 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=117,time=2020-06-13 00:30:08
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=118,time=2020-06-14 00:30:08
 0	50.06	2924895	2431440	C	trictrac	
 0	48.99	1673512	2461453	C++	Ryoken	
 0	47.65	1629259	2699198	C#	Marchete	
 0	44.58	1480501	2333368	C++	DaFish	
 0	43.88	1479930	2464869	C++	LeRenard	
 0	43.58	1489865	2464781	C++	EricSMSO	
-0	42.8	2522090	2700527	C++	MSmits	
+0	42.79	2522090	2700527	C++	MSmits	
 0	42.76	1500515	2588466	C#	eulerscheZahl	
 0	42.41	1684486	2326185	C++	Whopper	
 0	42.09	1661333	2314813	C++	linjoehan	
@@ -18,7 +18,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=117,time=2020-06-13 00:30:0
 0	40.21	3755755	3000022	C++	AAhmed9	
 0	40.19	820000	2417229	C++	ValGrowth	
 0	39.7	2043908	2841137	C++	AntiSquid	
-0	39.14	1930304	2318179	Python3	Watashiku	
+0	39.13	1930304	2318179	Python3	Watashiku	
 0	38.31	1411952	2579622	C++	gragatrim	
 0	38.12	783555	2505786	C#	Colin88	
 0	37.32	839879	2951799	C#	Washier	
@@ -29,7 +29,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=117,time=2020-06-13 00:30:0
 0	34.88	1225445	2457867	C#	Lentaq	
 0	34.82	1494384	2689559	C#	Wolfboss	
 0	34.68	2709791	2314237	Python3	Mouugli	
-0	34.65	2290633	2313211	Python3	field3	
+0	34.64	2290633	2313211	Python3	field3	
 0	34.33	3165536	2332728	C#	barbora	
 0	34.29	1854246	2409395	C++	Counterbalance	
 0	33.71	3291799	2315582	C++	SamuelAllanssonLindberg	
@@ -76,7 +76,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=117,time=2020-06-13 00:30:0
 0	28.63	973040	2325540	C	papyjo	
 0	28.61	3287069	2315598	C++	AronReinertFjallheim	
 0	28.12	888898	2688115	Python3	helgui	
-0	28.07	1657457	2605615	Python3	GrantPerkins	
+0	28.1	1657457	2605615	Python3	GrantPerkins	
 0	27.88	3564009	2673384	Lua	Waffle3z	
 0	27.86	2976964	2344005	Java	BenjaminUrquhart	
 0	27.86	2592027	2572757	C#	ParticleBeam	
@@ -86,7 +86,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=117,time=2020-06-13 00:30:0
 0	27.61	1201796	2314919	Swift	P.Greze	
 0	27.52	3136787	2316891	Kotlin	jacek	
 0	27.43	2762653	2324802	Java	RAAAT	
-0	27.41	2003326	2455720	Python	Rat62	
+0	27.43	2003326	2455720	Python	Rat62	
 0	27.4	2095814	2332061	Python3	Woltan	
 0	27.36	1249272	2645041	Javascript	cywil	
 0	27.19	792813	2311813	Python3	VilBoub	
@@ -102,17 +102,18 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=117,time=2020-06-13 00:30:0
 0	24.14	3355221	2422151	Python3	romulopro	
 0	23.86	3627653	2650115	Python3	TheDDK	
 0	18.25	1249698	2507763	Python3	Smerch	
-0	15.56	523846	2809091	C#	Palmipedus	
-0	15.3	3595242	2619541	Java	Coyote555	
-0	15.26	1198179	2619538	Java	Celendil	
-0	15.22	3269282	2325708	Javascript	MAGZXxdaggerzzxX	
-0	15.17	2897325	2579618	Python3	CAEZAR	
-0	15.12	1854639	2995987	C#	iDxMeG	
-0	15.04	3510109	2580490	C++	Ravnur	
-0	15	999637	2503010	Python3	dinobogan	
-0	14.97	2410235	2312721	Python3	Joe_Black	
-0	14.76	2241559	2345586	Python3	eskeln	
-0	14.04	3780104	2841123	Python3		
-0	2.73	1288527	2307340	C++	Snef	
-0	1.92	2169173	2318018	Python3	ergzqjdrgdrbsb	
-0	1.87	2006348	2317979	Python3	Koji02	
+0	15.48	3595242	2619541	Java	Coyote555	
+0	15.46	523846	2809091	C#	Palmipedus	
+0	15.43	1854639	2995987	C#	iDxMeG	
+0	15.39	1198179	2619538	Java	Celendil	
+0	15.35	2897325	2579618	Python3	CAEZAR	
+0	15.19	3269282	2325708	Javascript	MAGZXxdaggerzzxX	
+0	15.14	3510109	2580490	C++	Ravnur	
+0	15.04	2410235	2312721	Python3	Joe_Black	
+0	14.8	2241559	2345586	Python3	eskeln	
+0	14.27	999637	2503010	Python3	dinobogan	
+0	14.05	3780104	2841123	Python3		
+0	9.85	3464590	3012281	C	abbecool	
+0	3.52	1288527	2307340	C++	Snef	
+0	2.77	2006348	2317979	Python3	Koji02	
+0	2.66	2169173	2318018	Python3	ergzqjdrgdrbsb	
