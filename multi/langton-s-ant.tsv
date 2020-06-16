@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=256,time=2020-06-15 00:30:07
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=256,time=2020-06-16 00:30:08
 4	49.81	1194069	2423099	Java	Redstrike	
 4	45.24	2522090	2704136	C++	MSmits	
 4	42.08	154984	2687995	C++	_Royale	
@@ -20,7 +20,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=256,time=2020-06-15 00:30:0
 4	32.72	884874	2454939	Javascript	Zauberer	
 4	32.6	3622757	3001991	Java	anid	
 4	32.28	1272263	2430150	Python3	Caled	
-4	32.24	1060181	2324807	Ruby	Dabou	
+4	32.27	1060181	2324807	Ruby	Dabou	
 4	31.38	2136109	2430671	Javascript	Klemek	
 4	30.87	1178276	2316894	Java	Jerome_95	
 4	30.65	2398608	2309499	Java	M_C	
@@ -36,12 +36,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=256,time=2020-06-15 00:30:0
 4	27.49	1288527	2260487	C++	Snef	
 4	27.38	973040	2593463	C	papyjo	
 4	26.84	2718975	2316749	C	mykeich	
-4	26.66	1464932	2260474	Java	Tiramon	
+4	26.69	1464932	2260474	Java	Tiramon	
 4	26.66	1314316	2261705	C++	jolindien	
 4	26.3	1049935	2304153	C++	Azkellas	
 4	26.16	1673512	2313152	C++	Ryoken	
+4	25.63	1740037	2357041	Scala	ereiam	
 4	25.59	2043908	2983082	C++	AntiSquid	
-4	25.58	1740037	2357041	Scala	ereiam	
 4	25.08	735487	2304751	C++	amurushkin	
 4	24.91	2069141	2304861	C#	tomeko	
 4	24.46	3217628	2264074	C++		
@@ -56,7 +56,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=256,time=2020-06-15 00:30:0
 4	21.21	1896128	2309540	Python3	Vhanire	
 4	21	1436776	2311473	C++	BrainSolver	
 4	20.3	3230794	2310371	Python3	tutubalin	
-4	20.11	886483	2309774	ObjectiveC	R4N4R4M4	
+4	20.24	886483	2309774	ObjectiveC	R4N4R4M4	
 4	19.49	1756952	2309529	C++	Petras	
 4	19.24	1841051	2309526	Python3	Alpacah	
 4	19.2	1763812	2309538	Python3	Gainsboroow	
@@ -66,26 +66,26 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=256,time=2020-06-15 00:30:0
 4	18.47	837350	2265609	Python3	BorisZ	
 4	18.19	403748	2287466	C#	[CG]SaiksyApo	
 4	18.19	155774	2309579	C++	dwarfie	
-4	17.55	734401	2261720	C++	b0n5a1	
+4	17.49	734401	2261720	C++	b0n5a1	
 4	17.33	154906	2309527	Haskell	JBM	
-4	16.88	806157	2310373	Python3	Aveuh	
-4	16.8	3250153	2287565	C#	Unconvynced	
-4	16.76	1525816	2309531	Javascript	Flodnes	
-4	16.72	331880	2309523	C++	Monstruo	
-4	16.72	3046029	2310372	Javascript	Skel	
-4	16.68	911777	2310370	C++	MasakiKyosuke	
-4	16.1	1753077	2309542	C++	codingWhale	
-4	16	3148589	2287467	C++	Chris123	
-4	15.77	1341520	2309537	Java	egaetan	
-4	15.61	1164044	2309570	Javascript	Visual	
-4	15.6	1417806	2309530	Python3	Zadkiell	
-4	15.41	2923506	2425313	C++	darkhorse64	
-4	15.34	1200604	2287469	Swift	Alos	
-4	13.23	1386924	2309528	Javascript	Ylec	
-4	10.36	2497890	2287470	C#	BlackBird	
-4	9.4	257832	2309522	C++	BlaiseEbuth	
-4	8.97	2007690	2309524	Java	SpeedOfMagic	
-4	6.11	1861258	2309544	Go	Nazdhun	
+4	16.91	3046029	2310372	Javascript	Skel	
+4	16.9	3250153	2287565	C#	Unconvynced	
+4	16.76	331880	2309523	C++	Monstruo	
+4	16.67	806157	2310373	Python3	Aveuh	
+4	16.59	911777	2310370	C++	MasakiKyosuke	
+4	16.51	1753077	2309542	C++	codingWhale	
+4	16.09	3148589	2287467	C++	Chris123	
+4	15.71	1164044	2309570	Javascript	Visual	
+4	15.61	1341520	2309537	Java	egaetan	
+4	15.59	1417806	2309530	Python3	Zadkiell	
+4	15.52	2923506	2425313	C++	darkhorse64	
+4	14.91	1200604	2287469	Swift	Alos	
+4	14.44	1525816	3014618	Javascript	Flodnes	
+4	12.89	1386924	2309528	Javascript	Ylec	
+4	10.35	2497890	2287470	C#	BlackBird	
+4	10.18	257832	2309522	C++	BlaiseEbuth	
+4	8.87	2007690	2309524	Java	SpeedOfMagic	
+4	6.53	1861258	2309544	Go	Nazdhun	
 3	19.63	3320101	2434666	Ruby	megahallon	
 3	18.59	3319855	2506789	C#	Drobor	
 3	17.01	3363116	2454935	C++	senile	
