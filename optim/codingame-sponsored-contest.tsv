@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=11170,time=2020-06-16 01:16:47
+Score	UserID	Lang	Pseudo	#optim,count=11175,time=2020-06-17 00:48:29
 14337	329200	C++	BlitzProg	
 13603	1366631	Javascript	Morhaus	
 13285	1307473	C++	Evgenykz	
@@ -44,6 +44,7 @@ Score	UserID	Lang	Pseudo	#optim,count=11170,time=2020-06-16 01:16:47
 4442	1424576	C#	Vindu	
 4440	1159241	Java	luckman	
 4423	331880	Javascript	Monstruo	
+4380	3766690	C++	marty4545	
 4377	1140756	C++	BarbsMan	
 4373	182536	Scala	dbo	
 4326	1687754	Java	cg123	
@@ -70,7 +71,6 @@ Score	UserID	Lang	Pseudo	#optim,count=11170,time=2020-06-16 01:16:47
 3902	629202	Java	Larry	
 3877	1644437	C++	SurfDog	
 3870	2512173	Python3	CbIPHiK	
-3866	3766690	C++	marty4545	
 3854	1495113	C#	Wiso86	
 3832	1100614	Java	ppeetteerr	
 3826	2293073	C#	Andrey64	
@@ -901,7 +901,7 @@ Score	UserID	Lang	Pseudo	#optim,count=11170,time=2020-06-16 01:16:47
 1868	1102339	Java	totee	
 1868	472722	Python3	Kostyazz	
 1868	3419314	PHP		
-1866	956638	Python3	Pi-Geom-hey-tree	
+1866	956638	Python3	Pi-Geom-e-tree	
 1866	2419811	Python3	Valbou	
 1860	2831400	C	joakje	
 1858	1076454	C#	LordCM	

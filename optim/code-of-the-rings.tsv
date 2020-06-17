@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3586,time=2020-06-16 01:16:47
+Score	UserID	Lang	Pseudo	#optim,count=3587,time=2020-06-17 00:48:29
 2759	1301401	C#	Stanax	
 2761	1833680	C++	jvivenot	
 2765	2288263	Rust	dbdr	
@@ -316,6 +316,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3586,time=2020-06-16 01:16:47
 4691	715319	C#	poksh	
 4702	1826849	C++	Geplik	
 4710	865185	Java	alexshramko	
+4710	311035	Python3	leojean890	
 4717	788361	C++	Bob	
 4718	1814485	C#	Fluttershy	
 4737	3835659	Rust	Nimatt	
@@ -455,7 +456,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3586,time=2020-06-16 01:16:47
 5688	1923457	Python3	Wonshtrum	
 5690	975849	C#	MathieuBrousseau	
 5690	2297753	Python3	Warly7692	
-5690	311035	Python3	leojean890	
 5691	1038882	C++	ICTylor	
 5691	1436776	C++	BrainSolver	
 5694	1254760	Python3	Brady	
@@ -589,7 +589,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3586,time=2020-06-16 01:16:47
 5860	802343	Java	Etheriel	
 5860	933394	Java	maven8919	
 5860	283206	C#	tom103	
-5860	956638	Python3	Pi-Geom-hey-tree	
+5860	956638	Python3	Pi-Geom-e-tree	
 5860	323228	Haskell	dbihbka	
 5860	860297	Javascript	charlieamer	
 5860	993670	Python3	Dvermd	
