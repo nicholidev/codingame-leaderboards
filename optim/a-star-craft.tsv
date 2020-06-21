@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=752,time=2020-06-20 01:05:35
+Score	UserID	Lang	Pseudo	#optim,count=754,time=2020-06-21 00:46:09
 11902	2288263	Rust	dbdr	
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
@@ -22,6 +22,7 @@ Score	UserID	Lang	Pseudo	#optim,count=752,time=2020-06-20 01:05:35
 10238	1637604	C++	avolchek	
 10203	1629259	C#	Marchete	
 10200	1489865	C	EricSMSO	
+10178	580424	C++	siman	
 10147	1836058	C++	SeebOmega	
 10145	1479930	C++	LeRenard	
 10115	1399382	C++	Regulus136	
@@ -273,7 +274,7 @@ Score	UserID	Lang	Pseudo	#optim,count=752,time=2020-06-20 01:05:35
 3424	1759839	C	matleg	
 3422	2889262	Javascript	grahampheath	
 3401	1754295	C++	SF	
-3367	2317747	Python3	drbalan	
+3367	2317747	Python3	ElPsyCongroo2011	
 3344	1029602	C	Potemkine	
 3335	1442814	C++	RedXam	
 3323	3027150	Javascript	Ravindra05	
@@ -675,6 +676,7 @@ Score	UserID	Lang	Pseudo	#optim,count=752,time=2020-06-20 01:05:35
 1045	3830738	C++	Pi0	
 1045	3808031	Ruby	_proton	
 1045	3858153	Javascript	elena-vilchik	
+1045	3719098	OCaml	Adriennnn	
 1041	1074744	Java	GwenGlSoft	
 1039	1129000	Python3	ChairmanOfTheBored	
 1033	1243354	C++	RSBat	
