@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=512,time=2020-06-22 00:30:06
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=513,time=2020-06-23 00:44:57
 5	32.86	2725066	2311007	C#	Cize	
 5	32.17	1629259	2583704	C++	Marchete	
 5	31.47	2522090	2223884	C++	MSmits	
@@ -471,18 +471,18 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=512,time=2020-06-22 00:30:0
 0	13.69	3248689	2308305	C++	Sujet	
 0	13.07	1389861	2481697	Java	Evgenykz3	
 0	12.79	2572485	2203839	Ruby	DGynn	
-0	12.62	1348621	2219987	C	sephi	
+0	12.76	1348621	2219987	C	sephi	
 0	12.38	3101398	2233755	Python3		
 0	12.32	3620387	2633818	Python3	mdaw323	
 0	12.25	1743344	2495256	Javascript	ush189	
 0	12.15	1073604	2237096	C#	speedFast	
 0	11.87	1491995	2418275	C#	Tyir	
 0	11.55	2501808	2205489	Javascript	Robles	
-0	11.3	1990452	2262910	C#	Benoit_L	
+0	11.4	1990452	2262910	C#	Benoit_L	
 0	11.24	2202771	2349808	Java	Kaplone	
+0	10.62	2613192	2897148	C++	sigus	
 0	10.59	957334	2194706	Java	Dam	
 0	10.33	1374052	2195121	Java	Pesegato	
-0	10.13	2613192	2897148	C++	sigus	
 0	9.72	3353015	2847691	Python3	Salted	
 0	0.19	523846	2679595	C#	Palmipedus	
 0	0.08	3332393	2459986	Java	cahii	
@@ -507,7 +507,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=512,time=2020-06-22 00:30:0
 0	-0.75	3115205	2220617	C++	lhz	
 0	-0.97	3464590	3012244	C	abbecool	
 0	-1.2	1631358	2203838	Python3	joelthelion	
-0	-10.2	3473768	2483327	Java	higle	
-0	-10.78	3090212	2207687	Python	Still_a_Piece_of_Garbage	
+0	-1.54	3870979	3020023	C++	JobJob	
+0	-10.21	3473768	2483327	Java	higle	
+0	-10.79	3090212	2207687	Python	Still_a_Piece_of_Garbage	
 0	-12.25	2181365	2206272	Kotlin	Nikolaev_Alex	
-0	-12.91	3083620	2202376	Go	YoshikoHarada	
+0	-12.93	3083620	2202376	Go	YoshikoHarada	
