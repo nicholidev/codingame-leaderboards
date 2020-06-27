@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=5471,time=2020-06-26 00:46:25
+Score	UserID	Lang	Pseudo	#optim,count=5475,time=2020-06-27 00:34:48
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -49,9 +49,9 @@ Score	UserID	Lang	Pseudo	#optim,count=5471,time=2020-06-26 00:46:25
 285300	1267417	C++	co42	
 278520	3513265	C++	DaNinja	
 273310	622213	Python3	Ornicare	
+271310	3389226	C#	Peti88	
 269100	1845617	C++	Shingyx	
 268480	889789	C	Alain-Delpuch	
-264710	3389226	C#	Peti88	
 263060	837350	C++	BorisZ	
 254420	1140756	C++	BarbsMan	
 254000	153678	Go	dknn	
@@ -78,6 +78,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5471,time=2020-06-26 00:46:25
 232390	1082167	C++	Smatcher	
 232230	154858	Javascript	PoF	
 232020	1876212	C++	PFischbeck	
+231090	2962968	C#	Pukunya	
 229430	155939	C	xylo	
 227780	273876	C#	SirSushi	
 227620	3622757	C	anid	
@@ -86,7 +87,6 @@ Score	UserID	Lang	Pseudo	#optim,count=5471,time=2020-06-26 00:46:25
 224790	994468	C++	darkdieg	
 224160	1300254	Python3	Escdemon	
 223100	735910	C++	Agade	
-222540	2962968	C#	Pukunya	
 222280	579894	C++	Binarii	
 222240	1201796	ObjectiveC	P.Greze	
 221910	2472606	C	MehdiTouil	
@@ -510,6 +510,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5471,time=2020-06-26 00:46:25
 64260	3812363	C++	Orilow	
 64260	3749793	Python3	WINWINWIN	
 64260	3808031	C++	_proton	
+64260	3868172	Javascript	Desjardins	
 64230	155928	PHP	pk	
 64230	1147815	Python3	Tashiqi	
 64230	1095446	Python3	tarbomb	
@@ -971,6 +972,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5471,time=2020-06-26 00:46:25
 57860	511862	Java	Shishu94	
 57850	1173213	PHP	Solarisfire	
 57850	1679204	Python3	Jaidy	
+57850	3875633	Python3	Remaille	
 57840	1060181	Ruby	Dabou	
 57820	1049551	C++	Azphereax	
 57810	554140	Javascript	mel-mouk	
@@ -997,5 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=5471,time=2020-06-26 00:46:25
 57530	1383054	Perl	Oxame	
 57530	1293165	PHP	oxnxo	
 57530	2319453	C#	xlr8ter	
-57530	2513343	C#	gregor0novak	
-57530	792507	C++	stephan2342	
