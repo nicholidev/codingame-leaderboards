@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=759,time=2020-07-04 00:49:45
+Score	UserID	Lang	Pseudo	#optim,count=760,time=2020-07-05 00:30:19
 11902	2288263	Rust	dbdr	
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
@@ -16,8 +16,8 @@ Score	UserID	Lang	Pseudo	#optim,count=759,time=2020-07-04 00:49:45
 10691	1452472	C++	Daporan	
 10647	2077805	C++	bamilan	
 10611	2311105	C++	kovi	
+10560	820000	C++	ValGrowth	
 10529	1335230	C++	jft63	
-10389	820000	C++	ValGrowth	
 10272	2316796	PHP	Psio	
 10241	1344487	Java	UnnamedCodinGamer	
 10238	1637604	C++	avolchek	
@@ -143,6 +143,7 @@ Score	UserID	Lang	Pseudo	#optim,count=759,time=2020-07-04 00:49:45
 6610	155896	PHP	gamoul	
 6495	440476	C++	yowa	
 6477	1071140	C#	BeberLeNewbie	
+6437	893541	Java	wala	
 6384	1284747	C++	mr-push	
 6364	196808	Java	bonam	
 6350	1831684	Java	dbf	
@@ -193,7 +194,6 @@ Score	UserID	Lang	Pseudo	#optim,count=759,time=2020-07-04 00:49:45
 5119	2715508	C++	Anth	
 5085	2254195	Javascript	BrunoFelthes	
 5062	2894347	Rust	efugier	
-5058	893541	Java	wala	
 5054	2042323	Python3	mana_b	
 5023	3353481	C++	takumi152	
 4919	1227148	Java	Schneewittchen	
@@ -740,6 +740,7 @@ Score	UserID	Lang	Pseudo	#optim,count=759,time=2020-07-04 00:49:45
 988	3476895	C++		
 974	1093968	Clojure	milosMATRIXrepic	
 965	3223311	Java	fbenfraj	
+952	935744	TypeScript	Alcalyn	
 939	825111	C++	visaga	
 888	3648050	PHP	CocoCouq	
 584	1427970	Go	Garadox	
