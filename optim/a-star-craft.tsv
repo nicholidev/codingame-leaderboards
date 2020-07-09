@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=760,time=2020-07-08 00:35:27
+Score	UserID	Lang	Pseudo	#optim,count=761,time=2020-07-09 01:30:31
 11902	2288263	Rust	dbdr	
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
@@ -6,10 +6,10 @@ Score	UserID	Lang	Pseudo	#optim,count=760,time=2020-07-08 00:35:27
 11360	1333869	Python3	kiwijam	
 11196	1029833	C++	tourist	
 11102	2924895	C	trictrac	
+11079	820000	C++	ValGrowth	
 11009	1001096	C#	MyIIone	
 10984	1082988	C++	Saelyos	
 10969	1783604	C	Vry	
-10932	820000	C++	ValGrowth	
 10767	338469	C++	-___-	
 10744	153774	C++	cocoche007	
 10699	934381	C++	PolyB	
@@ -470,6 +470,7 @@ Score	UserID	Lang	Pseudo	#optim,count=760,time=2020-07-08 00:35:27
 1138	2890710	Java	The_Xperience	
 1138	2255187	PHP	rom_02	
 1138	307727	Python3	seb	
+1138	3738782	C#	Inaniwa	
 1137	3123668	Python3	MattCliff	
 1135	1179357	Javascript	avdg	
 1129	3791753	Java	607	
