@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=5506,time=2020-07-13 00:30:22
+Score	UserID	Lang	Pseudo	#optim,count=5506,time=2020-07-14 00:54:40
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -72,6 +72,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5506,time=2020-07-13 00:30:22
 239590	1449433	C++	Rolf	
 239160	2232811	Javascript	nargile	
 238100	2579384	Rust	vlad107	
+237950	893541	Java	wala	
 235220	2007852	Go	Zorg1	
 234730	1109979	C++	Gloopy	
 234480	1206537	C++	MadKnight	
@@ -98,7 +99,6 @@ Score	UserID	Lang	Pseudo	#optim,count=5506,time=2020-07-13 00:30:22
 217000	1173064	C#	a.oryol	
 216580	773811	Java	szoti	
 215900	1883740	C++	kermo	
-215650	893541	Java	wala	
 215220	1753077	C++	codingWhale	
 214920	3750700	C++	VulpesCorsac	
 213710	1705689	Java	XanX3601	
