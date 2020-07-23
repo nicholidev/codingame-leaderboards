@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5165,time=2020-07-22 00:33:21
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5168,time=2020-07-23 00:34:19
 5	33.19	3193653	3004019	C++	karliso	
 5	31.58	880353	2975979	C++	zasmu	
 5	31.3	1082988	2982332	C++	Saelyos	
@@ -715,6 +715,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5165,time=2020-07-22 00:33:
 3	24.32	3809869	2979036	Python3	Walchar	
 3	24.32	3414155	2977392	Scala	Smerk	
 3	24.31	3799710	2976686	Java	adyg77	
+3	24.28	1735693	2978415	Kotlin	superbob	
 3	24.27	154806	2979702	Python3	piwai	
 3	24.27	612827	2978708	C++	Wellan	
 3	24.25	2410235	2980110	C#	Joe_Black	
@@ -726,7 +727,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5165,time=2020-07-22 00:33:
 3	24.18	1920644	2980506	C++	Skygge	
 3	24.17	1178251	2977875	Java	Briag	
 3	24.16	3069951	2979683	C++	phocom	
-3	24.16	1735693	2978415	Kotlin	superbob	
 3	24.14	3802180	2979892	C++	SaminRK	
 3	24.13	1528274	2978261	Ruby	BlanCap	
 3	24.12	3051977	2977133	Python3	YongJing	
@@ -804,10 +804,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5165,time=2020-07-22 00:33:
 3	23.09	1687809	2995372	Java	egoprince	
 3	23.08	1070655	2979498	C++	shanks	
 3	22.98	996279	2978733	C++	BOBKA	
+3	22.94	3329545	2979622	Python3	stylemanguy	
 3	22.9	3523406	2976755	Java	Pansier	
 3	22.87	3776706	2980526	C#	dashu_baba	
 3	22.87	1947436	2980511	C++	MoosPow	
-3	22.86	3329545	2979622	Python3	stylemanguy	
 3	22.84	3800220	2977466	C++	Kurpilyansky	
 3	22.83	1105782	2979745	C#	RubenFilipe	
 3	22.82	3723210	2976856	C#	ChristopherHahn	
@@ -899,10 +899,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5165,time=2020-07-22 00:33:
 3	21.57	859803	2979503	C#	stauik	
 3	21.56	3797046	2975581	Python3	chinwag	
 3	21.56	973040	2979137	C	papyjo	
-3	21.55	3035786	3008611	Python3	Monkris	
 3	21.53	3782047	2979552	Python3	Oetzus	
 3	21.52	3820096	2979519	C++	abuhuraira071	
 3	21.5	3803288	2976278	Ruby	ugnpaul	
+3	21.49	3035786	3008611	Python3	Monkris	
 3	21.49	2443365	2979951	Javascript	Lulemair	
 3	21.47	3772630	2979846	Go	BattleRattle	
 3	21.46	2063592	2979299	Java	Gbaud	
