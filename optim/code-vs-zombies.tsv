@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=5548,time=2020-07-24 00:30:22
+Score	UserID	Lang	Pseudo	#optim,count=5579,time=2020-07-25 00:33:03
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -206,6 +206,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5548,time=2020-07-24 00:30:22
 147170	826008	C++	Savlik5	
 146640	940262	Python3	f	
 145960	1662104	Javascript	Ayte	
+145110	403748	C#	[CG]SaiksyApo	
 144990	2211505	C++	doonsMonk	
 144990	2205121	C++	mehta	
 144330	869314	C++	RicBit	
@@ -234,7 +235,6 @@ Score	UserID	Lang	Pseudo	#optim,count=5548,time=2020-07-24 00:30:22
 131130	1188212	C	superredlark	
 131090	404777	C++	Joodoc	
 130830	1573118	Kotlin	jfkdeveloper	
-130120	403748	C#	[CG]SaiksyApo	
 128580	2158902	Clojure	Snowbart	
 127930	1304434	Java	MP-63	
 127700	321382	Java	l-lin	
@@ -287,6 +287,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5548,time=2020-07-24 00:30:22
 96180	1894833	Python3	Rimailleur	
 95780	1034635	C++	SlyB	
 95430	1546222	Javascript	julidon	
+95230	754792	C++	Ramdeath	
 93690	2212306	C++	asad_nitp	
 93690	2211649	C++	MdAsadRub	
 90520	1181685	Lua	dzik	
@@ -301,6 +302,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5548,time=2020-07-24 00:30:22
 87200	1413544	C#	Christian1978	
 86460	1213898	Kotlin	Gubbel	
 86420	1335230	Java	jft63	
+86100	1767183	C#	MelnikovIgor	
 86050	425462	Java	Azt-yur	
 85500	865548	Python3	Kktus	
 85350	256955	C++	cup_of_tea	
@@ -409,6 +411,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5548,time=2020-07-24 00:30:22
 65340	2400479	Java	lanoix	
 65330	1506997	Javascript	Jevgeni	
 65220	965650	Go	abrl	
+65170	602886	TypeScript	[CG]teuteuf	
 65130	844547	Java	Superthib	
 65120	365796	Javascript	CvxFous	
 65090	1811179	Java	Tetarus	
@@ -519,6 +522,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5548,time=2020-07-24 00:30:22
 64260	3749793	Python3	WINWINWIN	
 64260	3808031	C++	_proton	
 64260	3868172	Javascript	Desjardins	
+64260	862919	Python3	Astrobytes	
 64230	155928	PHP	pk	
 64230	1147815	Python3	Tashiqi	
 64230	1095446	Python3	tarbomb	
@@ -554,6 +558,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5548,time=2020-07-24 00:30:22
 63930	3042569	Java	YugiOh	
 63880	873075	Ruby	LiBai	
 63880	2802157	Python3	HKit	
+63880	1127003	Kotlin	BrahimBrahim	
 63860	1061061	C#	Bandersnatch	
 63800	2863053	Javascript	LuisMaGlz	
 63760	2937669	C	Nyght	
@@ -778,6 +783,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5548,time=2020-07-24 00:30:22
 60890	1771470	Java	wolfy766	
 60890	1082488	C#		
 60860	169033	Groovy	Yasser	
+60840	3035786	Python3	Monkris	
 60820	2174291	Python3	dirtydogdave	
 60790	1170420	C#	LeBoucher	
 60790	389786	Java	menu	
@@ -812,6 +818,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5548,time=2020-07-24 00:30:22
 60280	995238	Lua	Pyvain	
 60250	1142942	Javascript	Aquamoth	
 60240	448698	Python3	Makz	
+60180	2098777	C++	static_cats	
 60170	467193	Java	pin72	
 60170	2000540	C#	rombolshak	
 60150	2740243	Python3	Rprades	
@@ -992,10 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=5548,time=2020-07-24 00:30:22
 57630	946870	Java	Radenko	
 57630	1420817	Javascript	TheMagicShop	
 57630	1545514	Java	Kulverstukas	
-57630	2374907	Java	Crispy333	
-57630	2597168	Javascript	lanjuere	
-57630	2906304	Python3	Sisyphus192	
-57630	956638	Python3	Pi-Geo-me-tree	
-57610	1622529	Python3	Zardoz	
-57600	1020347	C#	Fragile	
-57590	271034	Ruby	6pi	
