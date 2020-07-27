@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=58,time=2020-07-26 00:30:07
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=59,time=2020-07-27 00:30:06
 0	40.9	1186250	2998883	Python3	Gabbek	
 0	40.16	416762	2700375	TypeScript	Khao	
 0	37.45	3699503	2705907	C#	Endata	
@@ -8,7 +8,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=58,time=2020-07-26 00:30:07
 0	32.35	2290633	2648016	Python3	field3	
 0	31.42	1712393	3010532	C++	JackJohnson	
 0	30.25	862336	2687416	C++	Zaphus	
-0	29.77	1622340	2683306	C#	VernerVinge	
+0	29.76	1622340	2683306	C#	VernerVinge	
 0	29.35	973040	2640573	C	papyjo	
 0	28.97	3695887	2689307	Python3	timothy-wi	
 0	26.73	2416641	2674691	C#	Zenoscave	
@@ -23,7 +23,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=58,time=2020-07-26 00:30:07
 0	25.08	1500515	2668809	C#	eulerscheZahl	
 0	24.83	1288527	2644937	C++	Snef	
 0	24.65	1953786	2656811	Go	ludowsky	
-0	24.6	3622757	3001532	C#	anid	
+0	24.59	3622757	3001532	C#	anid	
 0	24.57	2923506	2639153	C++	darkhorse64	
 0	24.55	314562	2640903	C++	Mechar	
 0	24.54	3564009	2652214	Lua	Waffle3z	
@@ -32,7 +32,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=58,time=2020-07-26 00:30:07
 0	23.01	1854246	2679912	C++	Counterbalance	
 0	22.39	3479124	3032789	Python3	Laminator	
 0	21.88	1464932	2639606	Java	Tiramon	
-0	21.23	371603	2675493	Ruby	martin	
+0	21.24	371603	2675493	Ruby	martin	
 0	21.03	1817330	2749988	Python3	Drisnor	
 0	20.5	231975	2688084	C#	Remoh69	
 0	19.87	1398702	2671473	Javascript	Hota	
@@ -44,16 +44,17 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=58,time=2020-07-26 00:30:07
 0	17.56	3492840	2702885	C++	stormKx18	
 0	16.28	3464590	2640188	Java	abbecool	
 0	14.02	3101644	2685695	Python3	HerrHagner	
-0	13.86	2069141	2672986	C#	tomeko	
+0	13.97	2069141	2672986	C#	tomeko	
 0	12.36	1713174	2651416	Python3	BigUP	
-0	11.67	3811085	2917983	Javascript	Aleksandr000	
-0	9.79	1528274	2982159	Ruby	BlanCap	
-0	6.64	2043908	2638270	D	AntiSquid	
-0	6.52	523846	2679606	C#	Palmipedus	
-0	6.1	3356883	2999937	Javascript	sura26	
-0	6	1854639	2995972	C#	iDxMeG	
-0	5.76	3467873	3041652	Javascript	JordanBerger	
-0	5.67	2127743	2698139	Python3	Schorfma	
-0	5.58	3808031	2990060	Ruby	_proton	
-0	5.52	3795745	3004425	Javascript	IkiTadashi	
-0	-0.09	2419811	2653837	Python3	Valbou	
+0	11.79	3811085	2917983	Javascript	Aleksandr000	
+0	10	1528274	2982159	Ruby	BlanCap	
+0	6.77	2043908	2638270	D	AntiSquid	
+0	6.5	523846	2679606	C#	Palmipedus	
+0	6.18	1854639	2995972	C#	iDxMeG	
+0	6.06	3467873	3041652	Javascript	JordanBerger	
+0	6.05	3356883	2999937	Javascript	sura26	
+0	6.03	3808031	2990060	Ruby	_proton	
+0	5.82	3795745	3004425	Javascript	IkiTadashi	
+0	5.69	2127743	2698139	Python3	Schorfma	
+0	4.74	3721214	3042925	C++	jrke	
+0	-0.42	2419811	2653837	Python3	Valbou	
