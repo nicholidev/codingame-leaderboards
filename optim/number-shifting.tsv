@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=177,time=2020-07-27 00:37:32
+Score	UserID	Lang	Pseudo	#optim,count=178,time=2020-07-28 00:32:02
 500	2288263	Rust	dbdr	
 500	3354337	C++	Westicles	
 335	1629259	PHP	Marchete	
@@ -18,9 +18,9 @@ Score	UserID	Lang	Pseudo	#optim,count=177,time=2020-07-27 00:37:32
 70	2311105	C++	kovi	
 69	338469	PHP	-___-	
 69	1657690	Kotlin	vinzz	
+69	862919	PHP	Astrobytes	
 67	2786666	C++	TetraktysPhi	
 66	385699	C	Nikai	
-66	862919	PHP	Astrobytes	
 64	1489865	PHP	EricSMSO	
 63	1457162	PHP	JFB	
 53	512097	Haskell	Stilgart	
@@ -33,11 +33,11 @@ Score	UserID	Lang	Pseudo	#optim,count=177,time=2020-07-27 00:37:32
 50	3564009	Lua	Waffle3z	
 45	2416641	PHP	Zenoscave	
 45	398735	C#	mogikanin	
+45	1484839	PHP	sparky	
 44	862336	PHP	Zaphus	
 43	1753077	Python3	codingWhale	
 38	1464932	PHP	Tiramon	
 38	820000	PHP	ValGrowth	
-37	1484839	PHP	sparky	
 34	2436448	Java	FrancoisMeme	
 33	2077805	C++	bamilan	
 32	973040	C	papyjo	
@@ -54,6 +54,7 @@ Score	UserID	Lang	Pseudo	#optim,count=177,time=2020-07-27 00:37:32
 24	1436776	PHP	BrainSolver	
 24	1272263	Python3	Caled	
 24	440476	C++	yowa	
+24	3726978	PHP	VirtualAtom	
 23	1579653	PHP	zweedeend	
 23	992329	Python3	BeeGee	
 22	2508635	PHP	hemhel	
@@ -64,13 +65,13 @@ Score	UserID	Lang	Pseudo	#optim,count=177,time=2020-07-27 00:37:32
 21	3697164	PHP	panemaker	
 21	580424	C++	siman	
 20	2715508	Bash	Anth	
+19	3416055	Python3	ItsAFeature	
 18	1987512	PHP	FreexXx	
 18	3535500	PHP	[symfunc]polnaer	
 18	3229071	Java	megawarrior	
 18	1606588	OCaml	inoryy	
 18	3382273	PHP	hasl3r	
 18	3480275	Python3	gbg727	
-18	3416055	Python3	ItsAFeature	
 17	1093968	C++	milosMATRIXrepic	
 17	311035	Python3	leojean890	
 16	3700824	Bash	Calaquendi	
@@ -98,7 +99,6 @@ Score	UserID	Lang	Pseudo	#optim,count=177,time=2020-07-27 00:37:32
 8	1172385	C#	LuckyMe	
 8	735487	PHP	amurushkin	
 8	1600229	Python3	Emilem	
-8	3726978	C++	VirtualAtom	
 7	1728288	C#	MOLP	
 7	886483	Javascript	R4N4R4M4	
 7	881817	Python3	Major_Tom	
@@ -108,6 +108,7 @@ Score	UserID	Lang	Pseudo	#optim,count=177,time=2020-07-27 00:37:32
 6	1444961	Java	Mocks	
 6	3808470	Swift	Clara.roal	
 5	3842838	Python3	Streusel	
+5	1822184	Go	Volchik	
 4	3424530	PHP	[symfunc]_Dreamer	
 4	888898	PHP	helgui	
 3	3154694	Python3	TheAristos	
