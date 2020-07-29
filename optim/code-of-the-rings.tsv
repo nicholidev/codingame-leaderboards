@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3663,time=2020-07-28 00:32:04
+Score	UserID	Lang	Pseudo	#optim,count=3667,time=2020-07-29 00:48:59
 2759	1301401	C#	Stanax	
 2761	1833680	C++	jvivenot	
 2765	2288263	Rust	dbdr	
@@ -132,6 +132,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3663,time=2020-07-28 00:32:04
 3868	2785892	Python3	levbor	
 3875	937362	Javascript	josh_	
 3879	153927	C++	Cubix	
+3879	2406605	Python3	docri	
 3883	2242201	C++	Maryan	
 3884	2536538	C	Pduhard-	
 3892	918233	Python3	screg	
@@ -330,7 +331,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3663,time=2020-07-28 00:32:04
 4766	841420	C#	RandomVariable	
 4766	1908091	Python3	RedAustin	
 4767	1274026	C#	Sethius	
-4769	2406605	Python3	docri	
 4772	882162	C#	Catarinao	
 4772	3326844	C#		
 4774	569223	Javascript	Glutamatt	
@@ -460,6 +460,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3663,time=2020-07-28 00:32:04
 5678	482543	C++	seshoumara	
 5680	2153101	Python3	Bilou06	
 5682	3869618	Dart	tsds	
+5682	1627246	Javascript	katutaistelija	
 5686	952450	Ruby	Chinchifou	
 5688	1923457	Python3	Wonshtrum	
 5690	975849	C#	MathieuBrousseau	
@@ -878,6 +879,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3663,time=2020-07-28 00:32:04
 5951	1579653	Python3	zweedeend	
 5951	783555	C#	Colin88	
 5951	1077199	Python3	Lilymage	
+5951	2375283	C#	VirusX	
 5953	843005	C#	DrJonez007	
 5953	196606	Java	EasyCoder	
 5954	1764618	C++	ave99	
@@ -997,5 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=3663,time=2020-07-28 00:32:04
 5985	2017805	Python3	Winter_not_comming	
 5986	963147	C++	Scythianos	
 5988	1761120	C#	Naradius	
-5990	1017944	C#	Werewolf	
-5990	610412	C#	Youssouf	

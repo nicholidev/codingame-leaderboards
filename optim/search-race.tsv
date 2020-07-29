@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=93,time=2020-07-28 00:32:00
+Score	UserID	Lang	Pseudo	#optim,count=93,time=2020-07-29 00:48:55
 10359.64	2288263	Rust	dbdr	
 10367.970000000005	351062	C++	Neumann	
 10484.98	1400179	Python3	reCurse	
@@ -29,6 +29,7 @@ Score	UserID	Lang	Pseudo	#optim,count=93,time=2020-07-28 00:32:00
 12377.420000000002	1816783	C++	NightLuna	
 12491.160000000002	1607522	C++	RoboStac	
 12633	1753072	C++	MrOne	
+12764.8	1418821	C++	input.txt	
 12896.559999999989	153683	Dart	40R15T3	
 12917.999999999996	1399382	C++	Regulus136	
 12932.500000000004	3765895	Lua	Topinambour	
@@ -57,7 +58,6 @@ Score	UserID	Lang	Pseudo	#optim,count=93,time=2020-07-28 00:32:00
 18467.80999999999	862336	C++	Zaphus	
 18946.6	2050244	C++	Cezuriku	
 19437.67	3518657	Python3	Obelix	
-19732.28	1418821	C++	input.txt	
 19988.9	1880319	C++	WildSmilodon	
 20233.01	973040	C	papyjo	
 20416.5	1515891	Kotlin	ndc	
