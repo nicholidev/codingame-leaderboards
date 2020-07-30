@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=2766,time=2020-07-29 00:48:57
+Score	UserID	Lang	Pseudo	#optim,count=2772,time=2020-07-30 09:02:50
 2509	1327028	C++	FredericBautista	
 2507	154372	Bash	Plopx	
 2504	1695697	Python3		
@@ -23,13 +23,13 @@ Score	UserID	Lang	Pseudo	#optim,count=2766,time=2020-07-29 00:48:57
 2459	735910	C++	Agade	
 2457	277758	Java	Duffy	
 2454	1436776	C++	BrainSolver	
+2453	2968035	C++	DomiKo	
 2452	1001096	C#	MyIIone	
 2452	351062	Java	Neumann	
 2450	1584802	Python3	emh	
 2444	2311105	C++	kovi	
 2441	553938	C++	MagAlex	
 2441	805067	Javascript	Magus	
-2441	2968035	C++	DomiKo	
 2440	1566335	Java	BeardedWhale	
 2438	1500515	C#	eulerscheZahl	
 2429	557990	C++	Wazemo	
@@ -213,6 +213,7 @@ Score	UserID	Lang	Pseudo	#optim,count=2766,time=2020-07-29 00:48:57
 2120	3245819	Python3	TomA	
 2119	514460	C++	Harv	
 2119	2407189	C	Teuchteu	
+2119	490588	Python3	Uljahn	
 2117	3878859	C++	BGR	
 2117	1539784	C++	Dysman	
 2115	1753072	C++	MrOne	
@@ -389,7 +390,6 @@ Score	UserID	Lang	Pseudo	#optim,count=2766,time=2020-07-29 00:48:57
 1962	2978122	C#	NoobPlayer_CodinGame	
 1962	3076711	C#	Sceurpien	
 1962	3370098	C++	EwertonES	
-1962	490588	Python3	Uljahn	
 1962	3565783	C++		
 1961	2121657	Python3	Tim-T	
 1960	939862	C#	Mouton	
@@ -545,6 +545,7 @@ Score	UserID	Lang	Pseudo	#optim,count=2766,time=2020-07-29 00:48:57
 1863	3565695	C++		
 1861	292106	C++	durmus	
 1860	1133716	Javascript	Jbz797	
+1860	2849183	Python3	thebitspud	
 1859	893177	C#	Rebelwillow	
 1859	1733593	Scala	Wei-1	
 1859	1499571	Java	Tenang	
@@ -571,6 +572,7 @@ Score	UserID	Lang	Pseudo	#optim,count=2766,time=2020-07-29 00:48:57
 1848	740424	Javascript	vmeurisse	
 1848	3281862	C#	geckozw	
 1847	886702	Java	Vorgritche	
+1847	3912106	C++	Triskell95	
 1845	1106476	Ruby	DrDaemos	
 1845	1477622	C#	zrdon	
 1845	1271096	C#	Trolg	
@@ -997,5 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=2766,time=2020-07-29 00:48:57
 1726	1110456	C++	mleni	
 1726	1981179	Javascript	4ndr3s	
 1725	1686456	Javascript	Sir2B	
-1724	921628	C++	RGillett	
-1724	3340884	Python3	sd001034	

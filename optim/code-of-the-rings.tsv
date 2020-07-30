@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3667,time=2020-07-29 00:48:59
+Score	UserID	Lang	Pseudo	#optim,count=3673,time=2020-07-30 09:02:51
 2759	1301401	C#	Stanax	
 2761	1833680	C++	jvivenot	
 2765	2288263	Rust	dbdr	
@@ -48,6 +48,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3667,time=2020-07-29 00:48:59
 3467	888404	Perl	Intramonk	
 3477	1878648	Java	jaudo	
 3480	2436448	Java	FrancoisMeme	
+3482	2406605	Python3	docri	
 3486	1272564	Python3	Raspberry4all	
 3493	558770	Java	lD	
 3504	172938	Javascript	kuzmaka	
@@ -132,7 +133,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3667,time=2020-07-29 00:48:59
 3868	2785892	Python3	levbor	
 3875	937362	Javascript	josh_	
 3879	153927	C++	Cubix	
-3879	2406605	Python3	docri	
 3883	2242201	C++	Maryan	
 3884	2536538	C	Pduhard-	
 3892	918233	Python3	screg	
@@ -143,6 +143,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3667,time=2020-07-29 00:48:59
 3930	632549	Java	Keiras	
 3944	1264368	C#	Ultimacho	
 3946	1505744	Python3	KEKW	
+3947	1061663	C++	Pivis	
 3950	1071140	C++	BeberLeNewbie	
 3950	1163331	C++	Banin	
 3950	1592706	C++	HuynhThienThach	
@@ -374,6 +375,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3667,time=2020-07-29 00:48:59
 5277	633271	Go	Pomyk	
 5278	248263	PHP	NewboO	
 5293	1353669	Python3	XAnimaX	
+5296	3077269	TypeScript	fieldy_rockz	
 5300	586933	C++	cems	
 5305	1172385	C#	LuckyMe	
 5320	3480275	Python3	gbg727	
@@ -708,7 +710,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3667,time=2020-07-29 00:48:59
 5885	1172323	C++	Alhadich	
 5885	1880319	C++	WildSmilodon	
 5885	2433536	Python3	GiantPanda	
-5885	3077269	Javascript	fieldy_rockz	
 5885	1624184	Python3	foulp	
 5885	2269888	C++	CedricDumondelle	
 5885	3406209	Swift	Lordam	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=3667,time=2020-07-29 00:48:59
 5984	2793264	Swift	hyphz	
 5985	2017805	Python3	Winter_not_comming	
 5986	963147	C++	Scythianos	
-5988	1761120	C#	Naradius	

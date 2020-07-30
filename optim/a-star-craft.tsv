@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=772,time=2020-07-29 00:48:57
+Score	UserID	Lang	Pseudo	#optim,count=775,time=2020-07-30 09:02:49
 11902	2288263	Rust	dbdr	
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
@@ -162,6 +162,7 @@ Score	UserID	Lang	Pseudo	#optim,count=772,time=2020-07-29 00:48:57
 5976	1572888	Python3	DirtyHarry	
 5921	1455753	C++	Lysk	
 5859	1957077	Java	domak	
+5851	2968035	C++	DomiKo	
 5840	2151291	Haskell	kurgak.ss	
 5814	1324974	Dart	ViktorCs	
 5806	1719632	C++	k.v	
@@ -358,7 +359,6 @@ Score	UserID	Lang	Pseudo	#optim,count=772,time=2020-07-29 00:48:57
 2438	153965	Python3	Keelhaul	
 2438	3635785	Python3	Farameris	
 2436	2590149	Python3	GoofyGas	
-2435	2968035	C++	DomiKo	
 2430	1192837	Rust	davidB	
 2422	1307473	C++	Evgenykz	
 2413	3271550	C++	Eggface	
@@ -692,6 +692,8 @@ Score	UserID	Lang	Pseudo	#optim,count=772,time=2020-07-29 00:48:57
 1045	3626792	C++	CppLover	
 1045	3894518	Python3	cjzw	
 1045	3837895	C++	Vampyre_Angel	
+1045	3896228	Javascript	Boruwaka	
+1045	3726978	C	VirtualAtom	
 1041	1074744	Java	GwenGlSoft	
 1039	1129000	Python3	ChairmanOfTheBored	
 1033	1243354	C++	RSBat	
@@ -749,6 +751,7 @@ Score	UserID	Lang	Pseudo	#optim,count=772,time=2020-07-29 00:48:57
 1002	3744325	C	mark7	
 1002	1178320	Python3	Trunksistor	
 1002	209298	Python3	pipistrello	
+1002	1178401	Python3	mizzHuarta	
 988	3476895	C++		
 974	1093968	Clojure	milosMATRIXrepic	
 965	3223311	Java	fbenfraj	

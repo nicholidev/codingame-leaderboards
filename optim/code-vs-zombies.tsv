@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=5640,time=2020-07-29 00:48:58
+Score	UserID	Lang	Pseudo	#optim,count=5673,time=2020-07-30 09:02:51
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -39,6 +39,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5640,time=2020-07-29 00:48:58
 353640	1489865	C++	EricSMSO	
 352560	1479930	C++	LeRenard	
 349860	1106450	C++	RiSuS	
+348770	2962968	C#	Pukunya	
 348130	918352	C++	CoYoTe99	
 319900	1756952	C++	Petras	
 317110	1064903	C++	Ghirtor	
@@ -49,9 +50,9 @@ Score	UserID	Lang	Pseudo	#optim,count=5640,time=2020-07-29 00:48:58
 287290	788361	C++	Bob	
 286210	153774	C++	cocoche007	
 285300	1267417	C++	co42	
+279790	3389226	C#	Peti88	
 278520	3513265	C++	DaNinja	
 273310	622213	Python3	Ornicare	
-271310	3389226	C#	Peti88	
 269100	1845617	C++	Shingyx	
 268480	889789	C	Alain-Delpuch	
 263060	837350	C++	BorisZ	
@@ -82,7 +83,6 @@ Score	UserID	Lang	Pseudo	#optim,count=5640,time=2020-07-29 00:48:58
 232390	1082167	C++	Smatcher	
 232230	154858	Javascript	PoF	
 232020	1876212	C++	PFischbeck	
-231090	2962968	C#	Pukunya	
 229430	155939	C	xylo	
 227780	273876	C#	SirSushi	
 227620	3622757	C	anid	
@@ -362,6 +362,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5640,time=2020-07-29 00:48:58
 72610	648983	C++	Elliot	
 72100	715319	C#	poksh	
 71970	973040	C++	papyjo	
+71900	2387233	C#	SinOfWrath	
 71530	1759335	C#	metahom	
 71310	198916	Java	WhatTrickeryIsThis	
 70860	802171	PHP	Merome	
@@ -384,6 +385,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5640,time=2020-07-29 00:48:58
 67900	1740037	Scala	ereiam	
 67780	3387053	Javascript	best-team	
 67370	2711016	C#	Manuel0814	
+67220	1440207	Python3	Rungekutta	
 67140	1767134	Java	AntonYuriev	
 67020	3520485	C++	DigitalMe	
 67010	928022	C#	Yliria	
@@ -650,6 +652,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5640,time=2020-07-29 00:48:58
 62830	2456494	PHP	NikRal	
 62800	821024	C	Pagrette	
 62790	995032	Python3	Care_j	
+62760	1394865	Python3	Lukwos	
 62710	1931965	Java	MarcinK	
 62700	1062038	Rust	Artus40	
 62680	947797	C#	AxelGroundner	
@@ -833,6 +836,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5640,time=2020-07-29 00:48:58
 60180	2098777	C++	static_cats	
 60170	467193	Java	pin72	
 60170	2000540	C#	rombolshak	
+60160	3912055	Python3	Gompanghee	
 60150	2740243	Python3	Rprades	
 60090	1368649	PHP	JohnOrjias	
 60080	1544382	Python3	Ashargin	
@@ -995,7 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=5640,time=2020-07-29 00:48:58
 57930	3503501	C++	Dagnarus	
 57900	1556613	C++	Malpha	
 57880	3020707	C++	yannch	
-57880	3012238	Java	miszu	
-57860	511862	Java	Shishu94	
-57850	1173213	PHP	Solarisfire	
-57850	1679204	Python3	Jaidy	
