@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=5673,time=2020-07-30 09:02:51
+Score	UserID	Lang	Pseudo	#optim,count=5685,time=2020-07-31 00:30:21
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -38,6 +38,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5673,time=2020-07-30 09:02:51
 355820	3410351	C	Deltaspace	
 353640	1489865	C++	EricSMSO	
 352560	1479930	C++	LeRenard	
+351930	735487	C	amurushkin	
 349860	1106450	C++	RiSuS	
 348770	2962968	C#	Pukunya	
 348130	918352	C++	CoYoTe99	
@@ -780,6 +781,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5673,time=2020-07-30 09:02:51
 61040	2534643	C#	Ook4	
 61030	827741	Java	MuineXD	
 61020	1001636	Java	Nightwatcher	
+61020	2555066	Python3	dyc3	
 61000	970198	Javascript	rontav	
 61000	1438378	Java		
 61000	1096926	Python3	Alumet	
@@ -890,6 +892,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5673,time=2020-07-30 09:02:51
 59450	705079	Javascript	Perazzo	
 59450	1176883	Rust	Thogrus	
 59400	391563	C#	Bariska	
+59380	3708198	Java	Schattensilber	
 59370	827129	Ruby	MatsuoAiga	
 59350	1968855	Java	ThePurificator	
 59340	1959103	C	DarkDancers	
@@ -996,6 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=5673,time=2020-07-30 09:02:51
 57990	1967053	PHP	JuanDonito	
 57990	3548699	Python3	h34dless	
 57990	3659318	Python3		
-57930	3503501	C++	Dagnarus	
-57900	1556613	C++	Malpha	
-57880	3020707	C++	yannch	
