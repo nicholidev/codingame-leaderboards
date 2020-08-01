@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=5685,time=2020-07-31 00:30:21
+Score	UserID	Lang	Pseudo	#optim,count=5702,time=2020-08-01 00:40:35
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -349,6 +349,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5685,time=2020-07-31 00:30:21
 77070	1122239	C	AymenT	
 76520	1753925	Java	Wildcat	
 75990	504994	Java	NikitON	
+75700	1440207	Python3	Rungekutta	
 75660	1407720	Python3	bananaMixer	
 75530	1932059	Python3	Zhiesold	
 74850	2221405	C++	LaxmanRawat	
@@ -386,7 +387,6 @@ Score	UserID	Lang	Pseudo	#optim,count=5685,time=2020-07-31 00:30:21
 67900	1740037	Scala	ereiam	
 67780	3387053	Javascript	best-team	
 67370	2711016	C#	Manuel0814	
-67220	1440207	Python3	Rungekutta	
 67140	1767134	Java	AntonYuriev	
 67020	3520485	C++	DigitalMe	
 67010	928022	C#	Yliria	
@@ -522,7 +522,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5685,time=2020-07-31 00:30:21
 64260	3363565	C++	BloodRayne	
 64260	3662300	Python3	bagoessatyahutama	
 64260	3489132	C++	Lvooodou	
-64260	1642003	C++	Verbal_Kint35	
+64260	1642003	C++		
 64260	2298871	C#	wth.mvp.s	
 64260	1276891	C++	Zeba	
 64260	3071738	C++	ClashLuke	
@@ -646,6 +646,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5685,time=2020-07-31 00:30:21
 62890	2451457	Javascript	IntoX	
 62890	1796861	Python3	Fabiennn	
 62890	2548495	Python3	heltay	
+62890	840401	Python3	pedrosorio	
 62830	826778	PHP	Yug	
 62830	1206363	PHP	DimitarMinchev	
 62830	304126	PHP	kami	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=5685,time=2020-07-31 00:30:21
 58000	196606	Java	EasyCoder	
 57990	1967053	PHP	JuanDonito	
 57990	3548699	Python3	h34dless	
-57990	3659318	Python3		

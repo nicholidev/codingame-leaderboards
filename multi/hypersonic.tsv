@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2191,time=2020-07-31 00:30:10
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2191,time=2020-08-01 00:30:10
 6	34.83	3193653	2579867	C++	karliso	
 6	34.28	1624809	2653061	C#	DrFekalus	
 6	33.28	1327028	2309998	C++	FredericBautista	
@@ -893,11 +893,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2191,time=2020-07-31 00:30:
 3	17.85	834950	1496516	C#	XilasZ	
 3	17.68	1540601	2029305	C#	Zibsnis	
 3	17.66	1634781	776581	C++	O.lg.a	
-3	17.59	3564009	2662657	Lua	Waffle3z	
 3	17.59	2250452	1623414	Java	Isac	
 3	17.57	1512667	1227063	Python3	DrevanTonder	
-3	17.56	1776881	926429	Java	Benjojo	
+3	17.56	3564009	2662657	Lua	Waffle3z	
 3	17.55	1654817	798588	Java	Swarovski84	
+3	17.55	1776881	926429	Java	Benjojo	
 3	17.54	513549	1434517	Javascript	y0p	
 3	17.49	1487824	1125244	C++	AndreasGoral	
 3	17.48	1751643	1491000	C	Mattis35	
@@ -910,9 +910,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2191,time=2020-07-31 00:30:
 3	17.35	1559016	1106684	Python	mshamory	
 3	17.28	1791118	1621517	C++	Baboune251	
 3	17.26	846316	783973	C++	Tzupy	
+3	17.19	1314796	1226692	C#	JBence	
 3	17.14	3352882	2439034	Javascript	Sieghart	
 3	17.11	1733943	1375372	Python3	Bouga	
-3	17.08	1314796	1226692	C#	JBence	
 3	17	1701465	910855	C#	JoelSimonsson	
 3	16.9	2407994	1659748	Javascript	EliasHasle	
 3	16.78	937221	1435655	Java	vrampal	
@@ -925,8 +925,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2191,time=2020-07-31 00:30:
 3	16.6	1409203	1631344	C++	Asterion	
 3	16.45	542990	784826	C++	Mindstan	
 3	16.45	2264391	1644054	C#	hrkrx	
-3	16.36	1634667	804369	Python3	aja	
 3	16.33	959943	1082974	C#	RyanHLouw	
+3	16.32	1634667	804369	Python3	aja	
 3	16.3	2052663	1331776	Python3	Kanak	
 3	16.22	1782559	1106943	C	ribensan	
 3	16.18	1235841	774479	Pascal	andreasp	
@@ -934,9 +934,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2191,time=2020-07-31 00:30:
 3	16.15	1193676	782867	Java	RyZum	
 3	16.11	1456582	902066	C#	freud	
 3	16.07	1603408	798132	C++	sandor	
+3	16.05	1170712	1468496	Python3	Djo0012	
 3	16.01	828239	969604	C#	[SG]Bisou	
 3	15.93	155928	790815	C	pk	
-3	15.89	1170712	1468496	Python3	Djo0012	
 3	15.88	1681401	2242200	C++	ArnisLielturks	
 3	15.87	1502824	779812	Java	Darkshad	
 3	15.86	1871598	1075788	Python3	Smyrna	
@@ -948,9 +948,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2191,time=2020-07-31 00:30:
 3	15.52	1581197	1438215	C#	Aramang	
 3	15.5	1347751	787017	Java	FunFR	
 3	15.42	2409047	1656693	Java	iwpag	
-3	15.41	1729129	899906	Java	Thorvaldurg	
 3	15.33	1603199	803777	PHP	Shinidoki	
-3	15.24	298897	1405920	Javascript	Dayde	
+3	15.29	1729129	899906	Java	Thorvaldurg	
+3	15.27	298897	1405920	Javascript	Dayde	
 3	15.18	359746	777048	Java	Shoohei	
 3	15.17	1818852	1328974	Java		
 3	15.14	1532448	782217	Javascript	mborecki	
@@ -982,20 +982,20 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2191,time=2020-07-31 00:30:
 3	13.93	2842505	2068221	C		
 3	13.87	878974	776025	Python3	nicola	
 3	13.87	1525077	2240099	Java	civodrab	
-3	13.81	1469823	806435	Python3	roxkillz	
+3	13.82	2683131	1951880	C++	garhail	
 3	13.8	1701141	1659256	Kotlin	laht	
+3	13.79	1469823	806435	Python3	roxkillz	
 3	13.78	1461866	776837	Java	Spacebird1313	
 3	13.77	1501735	775557	Python3	bernardlavilliers	
 3	13.76	1530429	777805	Java	Michiel	
-3	13.76	2683131	1951880	C++	garhail	
 3	13.75	1525923	1757541	Javascript	Milihhard	
 3	13.67	1880102	1323875	Javascript	quentinproust	
-3	13.62	1559196	896358	Python3		
-3	13.58	881037	1878041	Java	Amadeuszx	
-3	13.52	1655966	845103	Java	Celares	
-3	13.48	1636117	806142	C#	CheessieStew	
-3	13.48	880044	777042	C#	Dalmali	
-3	13.43	1474699	2617137	Python3	coffeepot	
-3	13.35	1571916	778072	Python	pixelated	
-3	13.35	1411952	776481	PHP	gragatrim	
-3	13.35	1641076	778199	C#	YaPaKo	
+3	13.63	881037	1878041	Java	Amadeuszx	
+3	13.62	1411952	776481	PHP	gragatrim	
+3	13.56	3905204	3048245	C#	KazukiKimura	
+3	13.55	1655966	845103	Java	Celares	
+3	13.49	1641076	778199	C#	YaPaKo	
+3	13.49	3039504	2175817	Java	LesCodeursMasques	
+3	13.43	1559196	896358	Python3		
+3	13.4	1636117	806142	C#	CheessieStew	
+3	13.34	1634195	889247	Python3	k.ab	
