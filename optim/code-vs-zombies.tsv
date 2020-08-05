@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=5750,time=2020-08-04 00:46:03
+Score	UserID	Lang	Pseudo	#optim,count=5765,time=2020-08-05 01:01:04
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -43,6 +43,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5750,time=2020-08-04 00:46:03
 348770	2962968	C#	Pukunya	
 348360	1354295	C	AbdullahKhawer	
 348130	918352	C++	CoYoTe99	
+322820	186179	C++	Nagrarok	
 319900	1756952	C++	Petras	
 317110	1064903	C++	Ghirtor	
 315410	1854246	C++	Counterbalance	
@@ -159,6 +160,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5750,time=2020-08-04 00:46:03
 185160	3836429	Python3	Hippolyte	
 185110	1122412	Java	TheNinja	
 183930	1114834	Python3	k4ng0u	
+183020	1527403	C++	Di_Masta	
 182510	446956	C++	FranMowinckel	
 182170	1830993	C#	jpcheck	
 182060	1836058	C++	SeebOmega	
@@ -300,7 +302,6 @@ Score	UserID	Lang	Pseudo	#optim,count=5750,time=2020-08-04 00:46:03
 95780	1034635	C++	SlyB	
 95430	1546222	Javascript	julidon	
 95230	754792	C++	Ramdeath	
-94330	186179	C++	Nagrarok	
 93690	2212306	C++	asad_nitp	
 93690	2211649	C++	MdAsadRub	
 90520	1181685	Lua	dzik	
@@ -368,6 +369,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5750,time=2020-08-04 00:46:03
 72620	1022926	Python3	_BC_	
 72610	1175343	C++	Hankerspace	
 72610	648983	C++	Elliot	
+72530	1568785	C	Chalzy	
 72100	715319	C#	poksh	
 72100	2052376	Rust	JoeySK	
 71970	973040	C++	papyjo	
@@ -919,6 +921,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5750,time=2020-08-04 00:46:03
 59240	3229071	Java	megawarrior	
 59220	1075126	Python3	rxitr	
 59190	1625417	Javascript	Keb	
+59180	228826	PHP	Snark	
 59170	3492840	Javascript	stormKx18	
 59110	2494242	Scala	jbu	
 59100	875545	Python3	BELPHEGOR	
@@ -932,6 +935,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5750,time=2020-08-04 00:46:03
 59050	1547589	Perl	WarrenBarnes	
 59020	1117801	Java	Noruas	
 59020	1300588	Python3	alkemann	
+59020	2551887	Kotlin	PennArBed	
 59010	2554840	Java	slacking_slacker	
 58960	715431	Python3	G3r0	
 58940	2771631	C#	Lurzo	
@@ -995,7 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=5750,time=2020-08-04 00:46:03
 58240	277758	Java	Duffy	
 58200	2074845	Go	Layce17	
 58170	3627234	Java		
-58160	3114997	Python3	JP7	
-58150	420785	Java	Max52	
-58150	2833929	Python3	Pierre_C	
-58150	736075	Python3	Xyze	

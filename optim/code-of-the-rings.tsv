@@ -1,11 +1,11 @@
-Score	UserID	Lang	Pseudo	#optim,count=3685,time=2020-08-04 00:46:04
+Score	UserID	Lang	Pseudo	#optim,count=3690,time=2020-08-05 01:01:04
 2759	1301401	C#	Stanax	
 2761	1833680	C++	jvivenot	
 2765	2288263	Rust	dbdr	
 2792	2316796	PHP	Psio	
 2793	1485989	Python3	ReActiveNZ	
+2850	1399382	C#	Regulus136	
 2851	1156834	Python3	dave9000	
-2851	1399382	C#	Regulus136	
 2897	1333869	Python3	kiwijam	
 2923	1415495	C++	fenrir	
 2977	1514534	Java	louis78700	
@@ -342,6 +342,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3685,time=2020-08-04 00:46:04
 4821	1020626	Javascript	PiterYeh	
 4822	1747684	C#	Enot_Rakoed	
 4825	860239	Java	Neilura	
+4826	3917420	Python3	trold	
 4847	1853772	Python3	rickert	
 4856	897543	C++	Peiffer-antoine.fr	
 4860	847660	Java	HarderThanNP	
@@ -510,6 +511,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3685,time=2020-08-04 00:46:04
 5755	347029	Go	Kevapo	
 5758	626535	Clojure	Halasimov	
 5759	1489865	C++	EricSMSO	
+5760	228826	C++	Snark	
 5761	2791601	Python3	wjan	
 5764	522661	Scala	aerosoul	
 5764	1840946	Ruby	zazaboon	
@@ -722,6 +724,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3685,time=2020-08-04 00:46:04
 5885	1306289	Javascript	Jasperr	
 5885	576907	Haskell	Coelso	
 5885	3882165	PHP	FredCirius	
+5885	2141506	Python3	Jamesscn	
 5886	892395	C++	Christophe	
 5886	280978	Python3	Rylanor	
 5886	952729	Bash	Flodelarab	
@@ -996,6 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=3685,time=2020-08-04 00:46:04
 5980	3704439	Ruby	mandersn	
 5981	1494823	Go	duburlan	
 5982	1510356	Java	HattedHenk	
-5983	1234259	C	digit_ro	
-5983	998494	Python3	Leoz	
-5983	1333820	C#	byc	
