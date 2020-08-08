@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2388,time=2020-08-07 00:30:07
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2388,time=2020-08-08 00:30:07
 5	35.58	1400179	2986754	C++	reCurse	
 5	31.8	1327028	2990369	C++	FredericBautista	
 5	30.51	1413236	511966	Go	Medici	
@@ -832,6 +832,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2388,time=2020-08-07 00:30:
 1	23.26	1676969	789328	Java	Louenes	
 1	23.26	609811	969744	C#	Atesz	
 1	23.26	1496034	599319	C++	Treb	
+1	23.25	1364114	493061	C++	Unforgiven	
 1	23.25	1455173	493497	Python3	DrSpock	
 1	23.25	1081818	504765	Python	Indispira	
 1	23.24	1446679	484869	Javascript	Janus	
@@ -840,6 +841,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2388,time=2020-08-07 00:30:
 1	23.23	1014924	493584	PHP	TommyP	
 1	23.23	215395	502717	Python3	Enknable	
 1	23.23	855824	482080	Python3	VoxMortem	
+1	23.23	1753121	912652	Python	Fumo201	
 1	23.22	1455512	484767	Javascript	Khar	
 1	23.22	1428356	878484	C++	VictorTimoftii	
 1	23.22	1405775	570996	C	Yiminjune	
@@ -864,11 +866,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2388,time=2020-08-07 00:30:
 1	23.18	805896	653121	Java	methodMain	
 1	23.18	1409204	487289	Javascript	Ricco7La	
 1	23.17	2047039	1332702	Python	Loufis	
-1	23.17	1364114	493061	C++	Unforgiven	
 1	23.17	2085746	1390550	C++	JacobNoga	
 1	23.17	1397268	2454349	C	RTLB	
 1	23.17	1509251	2318409	C#	OmikoGaming	
-1	23.17	1753121	912652	Python	Fumo201	
 1	23.16	1280770	486102	C	John_Black	
 1	23.16	1066028	746798	PHP	JrmC	
 1	23.16	614489	493173	C	Nazoum81	
@@ -925,6 +925,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2388,time=2020-08-07 00:30:
 1	22.98	1463578	494529	Javascript	MarkusMulkahainen	
 1	22.97	1477028	577663	Ruby	CbIC	
 1	22.97	1556368	720140	Javascript	ATA_	
+1	22.97	1526032	781283	C++	AdamBadura	
 1	22.96	890335	1481109	C++	ttr	
 1	22.96	1604839	722158	Javascript	Smeletz	
 1	22.96	1494734	589398	Java	Leogelas	
@@ -942,11 +943,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2388,time=2020-08-07 00:30:
 1	22.93	1472234	512253	C#	Filip.Lada	
 1	22.93	915148	619650	C#	mbsff	
 1	22.92	918962	607474	Python	enc0der	
+1	22.91	1648009	755489	Java	Getileino	
 1	22.9	549396	494294	Javascript	GoossensPi	
 1	22.9	1477937	566928	Java	koeki13	
 1	22.9	801842	2686227	C++	waleedziad	
 1	22.9	1866525	1110328	C++	charMlessMan	
-1	22.9	1526032	781283	C++	AdamBadura	
 1	22.9	1514906	678800	C++	Gwaka	
 1	22.9	1515544	635281	Python3	Toka	
 1	22.89	3654128	2663570	Python3	Phoenixya	
@@ -976,7 +977,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2388,time=2020-08-07 00:30:
 1	22.84	1304340	1295886	Java	AntoineLatour	
 1	22.84	1554944	771961	Lua	LuaLuke	
 1	22.84	1445241	495925	Javascript	Trial-by-fire	
-1	22.83	1648009	755489	Java	Getileino	
 1	22.83	651153	753673	Python3	jikiliou	
 1	22.83	973155	576064	C++	Namal	
 1	22.83	1195663	576535	Java	TimberLefief	

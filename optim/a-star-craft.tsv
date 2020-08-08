@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=780,time=2020-08-07 00:30:21
+Score	UserID	Lang	Pseudo	#optim,count=781,time=2020-08-08 00:30:20
 11902	2288263	Rust	dbdr	
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
@@ -182,6 +182,7 @@ Score	UserID	Lang	Pseudo	#optim,count=780,time=2020-08-07 00:30:21
 5400	155774	C++	dwarfie	
 5395	3707873	C#	Philbot	
 5394	2000899	C#	GeoBlack	
+5380	2317747	Haskell	ElPsyCongroo2011	
 5370	765200	C#	FrancoisB	
 5359	1728288	C#	MOLP	
 5329	3622757	C#	anid	
@@ -190,7 +191,6 @@ Score	UserID	Lang	Pseudo	#optim,count=780,time=2020-08-07 00:30:21
 5317	937878	C++	nyashiki	
 5311	607571	Scala	gfabre	
 5292	1931824	Java	Litops	
-5280	2317747	Haskell	ElPsyCongroo2011	
 5247	371603	Ruby	martin	
 5142	1096201	C++	Maksimov	
 5119	2715508	C++	Anth	
@@ -698,6 +698,7 @@ Score	UserID	Lang	Pseudo	#optim,count=780,time=2020-08-07 00:30:21
 1045	3896228	Javascript	Boruwaka	
 1045	3726978	C	VirtualAtom	
 1045	3882002	C++	irmuun	
+1045	2709965	Python3	Aldemius	
 1041	1074744	Java	GwenGlSoft	
 1039	1129000	Python3	ChairmanOfTheBored	
 1033	1243354	C++	RSBat	
