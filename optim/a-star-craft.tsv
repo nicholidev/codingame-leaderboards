@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=781,time=2020-08-08 00:30:20
+Score	UserID	Lang	Pseudo	#optim,count=784,time=2020-08-09 00:39:25
 11902	2288263	Rust	dbdr	
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
@@ -409,13 +409,14 @@ Score	UserID	Lang	Pseudo	#optim,count=781,time=2020-08-08 00:30:20
 1928	2500089	Javascript	Fantomat75	
 1928	1216462	Python3	MartinVachovski	
 1923	1515891	Ruby	ndc	
+1921	173522	C#	TeddyS	
+1911	3416055	Python3	ItsAFeature	
 1902	1713174	Python3	BigUP	
 1861	1407621	C++	Taohbi	
 1855	1530429	Java	Michiel	
 1854	1969969	Java	Orleger	
 1845	3430879	C++	Geoffrey_Rannou	
 1818	2616350	C++	Schnibble	
-1818	3416055	Python3	ItsAFeature	
 1801	3160962	Python3	Aygalic	
 1788	1812801	C#	Chauca	
 1781	2655682	Java	CoderFromOuterSpace	
@@ -438,6 +439,7 @@ Score	UserID	Lang	Pseudo	#optim,count=781,time=2020-08-08 00:30:20
 1584	1225445	C#	Lentaq	
 1584	1515544	Python3	Toka	
 1579	389632	Python3	ma	
+1563	2712830	C++	MoonLTU	
 1557	1502290	C++	Feleon	
 1529	3223315	Python3	LaMarmotte	
 1509	889789	C	Alain-Delpuch	
@@ -470,7 +472,6 @@ Score	UserID	Lang	Pseudo	#optim,count=781,time=2020-08-08 00:30:20
 1235	1925452	Python3	Cyriax	
 1233	2497890	C#	BlackBird	
 1215	2685790	Javascript	Laws	
-1203	173522	C#	TeddyS	
 1197	1527403	C++	Di_Masta	
 1188	3691491	Javascript	icecream17	
 1165	1461866	Java	Spacebird1313	
@@ -699,6 +700,8 @@ Score	UserID	Lang	Pseudo	#optim,count=781,time=2020-08-08 00:30:20
 1045	3726978	C	VirtualAtom	
 1045	3882002	C++	irmuun	
 1045	2709965	Python3	Aldemius	
+1045	1895212	Python3	Maxlaxs	
+1045	484004	Rust	aCat	
 1041	1074744	Java	GwenGlSoft	
 1039	1129000	Python3	ChairmanOfTheBored	
 1033	1243354	C++	RSBat	
