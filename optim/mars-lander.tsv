@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=2809,time=2020-08-11 00:30:41
+Score	UserID	Lang	Pseudo	#optim,count=2818,time=2020-08-12 00:31:01
 2509	1327028	C++	FredericBautista	
 2507	154372	Bash	Plopx	
 2504	1695697	Python3		
@@ -438,6 +438,7 @@ Score	UserID	Lang	Pseudo	#optim,count=2809,time=2020-08-11 00:30:41
 1941	230693	C#	didyme	
 1941	2951040	C#	Banderson	
 1940	1253636	ObjectiveC	SergeyBorisov	
+1940	576907	Java	Coelso	
 1939	1045947	Java	TrickyFishy	
 1939	1269282	Java	DonutsInc	
 1938	938374	C#	UnmanagedCode	
@@ -541,6 +542,7 @@ Score	UserID	Lang	Pseudo	#optim,count=2809,time=2020-08-11 00:30:41
 1871	1310195	Python3	FuHok	
 1868	959757	Python3	buffer[]	
 1868	1279751	Rust	Tudou	
+1868	846467	C#		
 1866	1986308	PHP	tautelis	
 1866	3418342	C++	RJones	
 1865	1052271	C#	Bleash	
@@ -910,6 +912,7 @@ Score	UserID	Lang	Pseudo	#optim,count=2809,time=2020-08-11 00:30:41
 1771	154906	Java	JBM	
 1771	2398608	Python3	M_C	
 1771	3722271	Java	ZloyDrakosha	
+1769	1433450	Python3	Gucci	
 1768	1182518	C++	AaronRuel	
 1768	416762	C#	Khao	
 1768	2878254	C++	PritishCh	
@@ -996,6 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=2809,time=2020-08-11 00:30:41
 1735	3018387	C++	Blizzer	
 1735	3860653	C++	Nobody-99	
 1735	3887713	C++	MSchoenbrunn	
-1734	1178569	C	Azerrr	
-1734	1173137	Python3	chouetz	
-1734	1812801	C#	Chauca	
