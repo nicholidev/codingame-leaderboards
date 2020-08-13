@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=5840,time=2020-08-12 00:31:03
+Score	UserID	Lang	Pseudo	#optim,count=5851,time=2020-08-13 00:30:21
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -565,6 +565,8 @@ Score	UserID	Lang	Pseudo	#optim,count=5840,time=2020-08-12 00:31:03
 64190	1533920	Java	EloEloElo	
 64180	2019052	C#	KevinM.Brooks	
 64150	3146963	Go	Ilyan	
+64120	2527460	Python3	Kickncoder	
+64120	2492756	Python3	theplen	
 64090	1169374	Java	RafaelMedeirosTeles	
 64090	1383429	Java	SaintsRock	
 64090	289705	Javascript	c9952594	
@@ -572,7 +574,6 @@ Score	UserID	Lang	Pseudo	#optim,count=5840,time=2020-08-12 00:31:03
 64090	1711578	Java	Dge	
 64090	1742970	Go		
 64090	1787061	Go	Jujul	
-64090	2527460	Python3	Kickncoder	
 64070	1559805	C#	Droet	
 64060	1108879	PHP	xfilx	
 64040	3418521	Java		
@@ -819,6 +820,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5840,time=2020-08-12 00:31:03
 60790	389786	Java	menu	
 60770	1514534	Java	louis78700	
 60740	1312801	Python3	SonnyMan33	
+60730	3930318	Python3		
 60710	1515062	PHP	AIlkiv	
 60710	3365055	C++	JohnKnight	
 60650	733335	Java	DJNour	
@@ -997,5 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=5840,time=2020-08-12 00:31:03
 58340	2589538	Python3	Darthouse	
 58330	2258463	Java	guilpot	
 58300	1907812	C#	KirillMartynov	
-58280	1078003	PHP	Onion_Ninja	
-58260	2923510	F#	ozgur	
