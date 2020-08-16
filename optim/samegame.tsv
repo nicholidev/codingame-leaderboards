@@ -1,16 +1,19 @@
-Score	UserID	Lang	Pseudo	#optim,count=25,time=2020-08-15 00:32:20
-172768	3354337	C++	Westicles	
-140664	2288263	Rust	dbdr	
-138260	2522090	C++	MSmits	
-136584	1500515	C#	eulerscheZahl	
-116978	1378958	C#	Illedan	
-116595	2311105	C++	kovi	
+Score	UserID	Lang	Pseudo	#optim,count=29,time=2020-08-16 00:30:23
+172896	3354337	C++	Westicles	
+163392	1629259	C#	Marchete	
+150000	2288263	Rust	dbdr	
+147764	2522090	C++	MSmits	
+142692	1500515	C#	eulerscheZahl	
+132504	2924895	C	trictrac	
+124206	1378958	C#	Illedan	
+121902	2311105	C++	kovi	
 97514	2968035	C++	DomiKo	
-72718	2924895	C	trictrac	
 68844	3457031	C++	YurkovAS	
 56280	2923506	C++	darkhorse64	
+49090	3513265	C++	DaNinja	
 44216	1436776	C++	BrainSolver	
 40715	3533119	C++	wlesavo	
+40132	2786666	C++	TetraktysPhi	
 38098	484004	Java	aCat	
 36760	3721214	C++	jrke	
 34343	2290633	Python3	field3	
@@ -20,7 +23,7 @@ Score	UserID	Lang	Pseudo	#optim,count=25,time=2020-08-15 00:32:20
 17410	218189	Python3	[CG]Maxime	
 10144	862919	C++	Astrobytes	
 9902	1678976	Ruby	Gorbit99	
-9626	2786666	C++	TetraktysPhi	
 9268	2779063	Java	LegendsOfCodeAndMagic	
 9170	837350	Python3	BorisZ	
 9152	1861258	Go	Nazdhun	
+7296	2007852	Lua	Zorg1	

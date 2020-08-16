@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3708,time=2020-08-15 00:32:25
+Score	UserID	Lang	Pseudo	#optim,count=3708,time=2020-08-16 00:30:27
 2759	1301401	C#	Stanax	
 2761	1833680	C++	jvivenot	
 2765	2288263	Rust	dbdr	
@@ -99,6 +99,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3708,time=2020-08-15 00:32:25
 3696	2470625	C++	Gazoum	
 3696	1096228	C++	XiaotianZuo	
 3696	3293190	C++	lhm	
+3696	1854246	C++	Counterbalance	
 3697	513549	Groovy	y0p	
 3719	942810	C++	Xtophe	
 3725	3564009	Lua	Waffle3z	
@@ -171,7 +172,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3708,time=2020-08-15 00:32:25
 3976	1778295	Javascript	41x	
 3977	1724069	Python3	jmpeg	
 3978	1188212	ObjectiveC	superredlark	
-3979	1854246	C++	Counterbalance	
 3991	1802935	C#		
 3996	320053	PHP	Zbug	
 3997	876163	C#	AY1111	
@@ -288,6 +288,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3708,time=2020-08-15 00:32:25
 4548	992329	C++	BeeGee	
 4557	2290633	Python3	field3	
 4558	2726969	Ruby	alokhmutov	
+4577	3230794	Python3	tutubalin	
 4592	2567580	C++	veryRandom	
 4599	1245791	Python3	Bad_Wolf	
 4609	865548	Python3	Kktus	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=3708,time=2020-08-15 00:32:25
 5980	2958405	C++	Thyphus	
 5980	3229071	Javascript	megawarrior	
 5980	2873280	Java	TechnoRazor	
-5980	1059996	C#	Molybdene	
