@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3710,time=2020-08-17 00:30:23
+Score	UserID	Lang	Pseudo	#optim,count=3713,time=2020-08-18 00:56:29
 2759	1301401	C#	Stanax	
 2761	1833680	C++	jvivenot	
 2765	2288263	Rust	dbdr	
@@ -61,6 +61,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3710,time=2020-08-17 00:30:23
 3534	1500515	C#	eulerscheZahl	
 3536	155774	PHP	dwarfie	
 3543	918352	Python3	CoYoTe99	
+3552	1854246	C++	Counterbalance	
 3553	1131084	C#	pmod	
 3566	1336464	Perl	magaiti	
 3568	1822346	C++	Arcaseus	
@@ -99,7 +100,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3710,time=2020-08-17 00:30:23
 3696	2470625	C++	Gazoum	
 3696	1096228	C++	XiaotianZuo	
 3696	3293190	C++	lhm	
-3696	1854246	C++	Counterbalance	
 3697	513549	Groovy	y0p	
 3719	942810	C++	Xtophe	
 3725	3564009	Lua	Waffle3z	
@@ -227,6 +227,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3710,time=2020-08-17 00:30:23
 4229	783215	C++	AndreiS	
 4233	631323	Python3	herve056	
 4238	826921	Java	msontag	
+4247	3230794	Python3	tutubalin	
 4262	278150	Java	Hydro	
 4264	1619211	C++	Tolomei	
 4269	836415	Java	tallo	
@@ -289,7 +290,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3710,time=2020-08-17 00:30:23
 4548	992329	C++	BeeGee	
 4557	2290633	Python3	field3	
 4558	2726969	Ruby	alokhmutov	
-4577	3230794	Python3	tutubalin	
 4592	2567580	C++	veryRandom	
 4599	1245791	Python3	Bad_Wolf	
 4609	865548	Python3	Kktus	
@@ -769,6 +769,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3710,time=2020-08-17 00:30:23
 5887	3028864	VB.NET	lorcQc	
 5887	3533119	Python3	wlesavo	
 5887	1994674	Javascript	InwardsEm	
+5887	1597483	C#	Crone	
 5888	888904	Java	DanyBoy	
 5888	188522	PHP	iolcos	
 5889	1777490	C#	Segan	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=3710,time=2020-08-17 00:30:23
 5980	2734485	Python3	Randrian	
 5980	2716213	Java	Merlin2192	
 5980	2958405	C++	Thyphus	
-5980	3229071	Javascript	megawarrior	

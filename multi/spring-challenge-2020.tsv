@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5218,time=2020-08-17 00:30:14
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5218,time=2020-08-18 00:39:08
 5	33.09	3193653	3004019	C++	karliso	
 5	31.58	880353	2975979	C++	zasmu	
 5	31.14	1082988	2982332	C++	Saelyos	
@@ -777,10 +777,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5218,time=2020-08-17 00:30:
 3	23.6	2993705	2976971	C++	Alf802	
 3	23.6	2200342	2976575	C++	BernardoSulzbach	
 3	23.59	3785053	2976272	Python3	Khajyeet	
+3	23.59	3622078	2979145	Python3	Paikan2068	
 3	23.56	3468263	2978760	Python3	Flyingkid	
 3	23.56	2392192	2991212	C++	lgm42	
 3	23.55	347029	2983067	Python3	Kevapo	
-3	23.55	3622078	2979145	Python3	Paikan2068	
 3	23.55	2320004	2978210	C#	Arthurique	
 3	23.52	1290569	2978522	C#	a76a44	
 3	23.51	3563879	2975920	C#	N3v3rT0p	
@@ -850,8 +850,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5218,time=2020-08-17 00:30:
 3	22.27	2310861	2975999	Python3	Ilovepie	
 3	22.22	2154217	2979149	Java	EliasCanalesNieto	
 3	22.21	3804005	2977797	Java	GlitchyByte	
+3	22.19	3764223	2978272	Go	ywake	
 3	22.17	811622	2980471	C++	Scarfield	
-3	22.15	3764223	2978272	Go	ywake	
 3	22.13	3795574	2978549	Javascript	Iron-postier	
 3	22.13	1991836	2994703	C#	qbit86	
 3	22.1	3341311	2979027	Javascript	Amelieth	
@@ -931,7 +931,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5218,time=2020-08-17 00:30:
 3	21.37	3041715	2977613	Java	hlin	
 3	21.37	3433333	2977489	Java	Redalucard	
 3	21.37	1792429	2978512	C++	Wildum	
-3	21.36	3035786	3008611	Python3	Monkris	
 3	21.36	904209	3013143	Python3	Myrtille44	
 3	21.36	3769834	2978482	C#	Hoggins	
 3	21.36	3305510	2981402	PHP	TBali	
@@ -955,6 +954,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5218,time=2020-08-17 00:30:
 3	21.31	2063592	2979299	Java	Gbaud	
 3	21.3	614215	2980027	Java	Jo	
 3	21.3	2709409	2979940	Python3	YesYes	
+3	21.3	3035786	3008611	Python3	Monkris	
 3	21.28	2470801	2977533	Java	asirbu	
 3	21.28	3726308	3002629	Python3	Klapoutz	
 3	21.27	2856582	2979844	C++	Towelie	
