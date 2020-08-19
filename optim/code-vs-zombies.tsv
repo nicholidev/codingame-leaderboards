@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=5926,time=2020-08-18 00:56:28
+Score	UserID	Lang	Pseudo	#optim,count=5938,time=2020-08-19 00:30:42
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -152,6 +152,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5926,time=2020-08-18 00:56:28
 192440	2232492	Javascript	coolraoul	
 192340	2232496	Javascript	totopopo	
 192030	1518732	Java	Apfeloxid	
+191050	3457031	C++	YurkovAS	
 190500	2179804	Python3	Haegh	
 190490	2154217	Java	EliasCanalesNieto	
 189430	1854639	C#	iDxMeG	
@@ -171,6 +172,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5926,time=2020-08-18 00:56:28
 179700	1842010	C#	southpolenator	
 179350	3823601	Python3	cysong	
 179140	1501735	Python3	bernardlavilliers	
+179130	3902927	Python3	Bulgot	
 178580	1455753	Go	Lysk	
 178480	1173137	C++	chouetz	
 177630	1990099	Java	JackDaniel1	
@@ -189,7 +191,6 @@ Score	UserID	Lang	Pseudo	#optim,count=5926,time=2020-08-18 00:56:28
 171720	1096201	Javascript	Maksimov	
 171060	1049935	C++	Azkellas	
 170820	2592027	C#	ParticleBeam	
-170770	3902927	Python3	Bulgot	
 170610	886483	ObjectiveC	R4N4R4M4	
 169520	1400179	C++	reCurse	
 169500	1620803	C++	Lyapunov	
@@ -970,6 +971,7 @@ Score	UserID	Lang	Pseudo	#optim,count=5926,time=2020-08-18 00:56:28
 58800	806062	Java	Honza	
 58790	870653	C#	Argyl	
 58770	1781865	Python3	Osimhen	
+58760	1953786	Python3	ludowsky	
 58750	1700394	Java	MancoCapac	
 58740	825477	C#	Leblond	
 58730	878168	Python3	Czaporka	
@@ -997,5 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=5926,time=2020-08-18 00:56:28
 58480	1470134	Go	MusicalDucky	
 58450	933738	Haskell	Vavans	
 58420	950702	Python3	RedRacoon	
-58400	862498	C	Graviton_Noir	
-58400	1932260	C++	Maxime09	
