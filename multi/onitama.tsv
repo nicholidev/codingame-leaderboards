@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=61,time=2020-08-21 00:30:03
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=62,time=2020-08-22 00:30:03
 1	39.99	3193653	3019690	C++	karliso	
 1	38.08	2522090	3045121	C++	MSmits	
 1	37.88	3136787	3027628	C++	jacek	
@@ -41,22 +41,23 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=61,time=2020-08-21 00:30:03
 1	3.77	1861258	2615922	Go	Nazdhun	
 1	2.75	3482949	2637790	Java	Masshood	
 1	-7.44	3516093	2677760	Java	Balthael	
-0	17.17	3513265	2614916	Javascript	DaNinja	
-0	17.12	2976964	2623022	Python3	BenjaminUrquhart	
-0	13.91	1066745	2614675	Java	DepartmentOfRedundancy	
-0	13.83	1412263	2655132	PHP	PatrickMcGinnisII	
-0	13.82	888898	2668561	C++	helgui	
-0	13.81	862919	2693756	C++	Astrobytes	
-0	13.57	1713174	2616741	Python3	BigUP	
-0	12.59	3721214	3042272	C++	jrke	
-0	10.87	154840	2804374	Rust	Tomu	
-0	10.17	3156706	2999464	Java	ktotam	
-0	7.33	304126	2828275	PHP	kami	
+0	17.39	2976964	2623022	Python3	BenjaminUrquhart	
+0	17.07	3513265	2614916	Javascript	DaNinja	
+0	14.13	1066745	2614675	Java	DepartmentOfRedundancy	
+0	13.9	1412263	2655132	PHP	PatrickMcGinnisII	
+0	13.71	862919	2693756	C++	Astrobytes	
+0	13.63	888898	2668561	C++	helgui	
+0	13.3	1713174	2616741	Python3	BigUP	
+0	12.29	3721214	3042272	C++	jrke	
+0	11.78	909782	3070256	Go	Harkness	
+0	10.58	3156706	2999464	Java	ktotam	
+0	10.51	154840	2804374	Rust	Tomu	
+0	7.16	304126	2828275	PHP	kami	
 0	-0.07	2069141	2672939	C#	tomeko	
-0	-1.47	3514058	2616034	Java	lotto007	
-0	-1.84	523846	2828245	C#	Palmipedus	
-0	-1.85	3563579	3016202	Javascript	gWizard	
-0	-2.13	999637	2636744	Python3	dinobogan	
-0	-2.15	1341520	2637663	Java	egaetan	
+0	-1.53	3514058	2616034	Java	lotto007	
+0	-1.96	523846	2828245	C#	Palmipedus	
+0	-2.01	3563579	3016202	Javascript	gWizard	
+0	-2.17	999637	2636744	Python3	dinobogan	
+0	-2.19	1341520	2637663	Java	egaetan	
 0	-2.96	1854639	2995986	C#	iDxMeG	
-0	-2.98	3464590	3012285	C	abbecool	
+0	-2.99	3464590	3012285	C	abbecool	
