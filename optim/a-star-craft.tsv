@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=788,time=2020-08-22 00:58:24
+Score	UserID	Lang	Pseudo	#optim,count=788,time=2020-08-23 00:30:22
 11902	2288263	Rust	dbdr	
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
@@ -338,6 +338,7 @@ Score	UserID	Lang	Pseudo	#optim,count=788,time=2020-08-22 00:58:24
 2604	1886665	Perl	Ficek	
 2587	2005105	PHP	Fred51	
 2586	1514169	Java	dgamer	
+2586	3416055	Python3	ItsAFeature	
 2580	2411860	C++	Aurelien-Quillet	
 2572	2642435	C++	Dude-Rocker	
 2564	1412263	PHP	PatrickMcGinnisII	
@@ -411,12 +412,12 @@ Score	UserID	Lang	Pseudo	#optim,count=788,time=2020-08-22 00:58:24
 1928	1216462	Python3	MartinVachovski	
 1923	1515891	Ruby	ndc	
 1921	173522	C#	TeddyS	
-1911	3416055	Python3	ItsAFeature	
 1902	1713174	Python3	BigUP	
 1861	1407621	C++	Taohbi	
 1855	1530429	Java	Michiel	
 1854	1969969	Java	Orleger	
 1845	3430879	C++	Joygred	
+1836	3230794	Python3	tutubalin	
 1829	3855753	Python3	tuan91	
 1818	2616350	C++	Schnibble	
 1801	3160962	Python3	Aygalic	
@@ -705,7 +706,6 @@ Score	UserID	Lang	Pseudo	#optim,count=788,time=2020-08-22 00:58:24
 1045	2709965	Python3	Aldemius	
 1045	484004	Rust	aCat	
 1045	3858550	VB.NET	SPDene	
-1045	3230794	Python3	tutubalin	
 1041	1074744	Java	GwenGlSoft	
 1039	1129000	Python3	ChairmanOfTheBored	
 1033	1243354	C++	RSBat	
