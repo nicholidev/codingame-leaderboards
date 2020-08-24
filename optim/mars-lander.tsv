@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=2853,time=2020-08-23 00:30:22
+Score	UserID	Lang	Pseudo	#optim,count=2856,time=2020-08-24 00:38:47
 2509	1327028	C++	FredericBautista	
 2507	154372	Bash	Plopx	
 2504	1695697	Python3		
@@ -21,6 +21,7 @@ Score	UserID	Lang	Pseudo	#optim,count=2853,time=2020-08-23 00:30:22
 2464	3418599	C++	YvanHerreros	
 2462	1307473	C++	Evgenykz	
 2462	1194069	Java	Redstrike	
+2460	2012297	C++	Maksim1744	
 2459	735910	C++	Agade	
 2457	277758	Java	Duffy	
 2454	1436776	C++	BrainSolver	
@@ -47,7 +48,6 @@ Score	UserID	Lang	Pseudo	#optim,count=2853,time=2020-08-23 00:30:22
 2397	155774	PHP	dwarfie	
 2396	1880319	C++	WildSmilodon	
 2394	1106450	C++	RiSuS	
-2391	2012297	C++	Maksim1744	
 2390	1178276	Java	Jerome_95	
 2389	154806	Python3	piwai	
 2388	3436443	C++	Mazelcop	
@@ -74,6 +74,7 @@ Score	UserID	Lang	Pseudo	#optim,count=2853,time=2020-08-23 00:30:22
 2345	1071140	C#	BeberLeNewbie	
 2344	1876212	C++	PFischbeck	
 2340	973040	C	papyjo	
+2340	837350	Go	BorisZ	
 2339	2242201	C++	Maryan	
 2338	1754295	Java	SF	
 2338	999637	C	dinobogan	
@@ -142,7 +143,6 @@ Score	UserID	Lang	Pseudo	#optim,count=2853,time=2020-08-23 00:30:22
 2231	1515891	Kotlin	ndc	
 2230	937362	Javascript	josh_	
 2230	3279132	C++	Luggage	
-2230	837350	Go	BorisZ	
 2229	1497552	C++	clemclem	
 2225	3703510	C++	TheStrojnik	
 2223	1005061	Ruby	drac	
@@ -580,6 +580,7 @@ Score	UserID	Lang	Pseudo	#optim,count=2853,time=2020-08-23 00:30:22
 1853	1071264	Java	JohnSalter	
 1853	404560	C++	Uquu	
 1852	894599	Java	DidierC	
+1852	2464160	Java	Taeth	
 1850	1447922	C++	tanaami41	
 1849	1615367	Java	deployman	
 1849	1690417	Java	Adrarung	
@@ -632,6 +633,7 @@ Score	UserID	Lang	Pseudo	#optim,count=2853,time=2020-08-23 00:30:22
 1828	981974	Java	Fanky	
 1828	2328351	Python3	DominicCrutchley	
 1828	2215663	Java	Hulios	
+1828	3902927	Python3	Bulgot	
 1826	2708342	C#	HIWA	
 1826	3837733	Python3	Pacem	
 1825	1633767	Javascript	kajyr	
@@ -675,6 +677,7 @@ Score	UserID	Lang	Pseudo	#optim,count=2853,time=2020-08-23 00:30:22
 1805	1288975	C#	Lamihck	
 1804	996271	Java	labete	
 1804	1296842	Javascript	Athella	
+1804	1418821	C++	input.txt	
 1803	1060342	Java	Romain_S117	
 1803	943558	Javascript	Johanhq	
 1802	1178122	Lua	lepas	
@@ -996,6 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=2853,time=2020-08-23 00:30:22
 1743	912555	Javascript	ShiningDuck	
 1743	969339	C#	AutomatedChaos	
 1743	860297	Javascript	charlieamer	
-1741	2018997	Python3	Lotianon	
-1741	2672932	Python3	Lanfeust	
-1740	1176482	C#	griffin76	

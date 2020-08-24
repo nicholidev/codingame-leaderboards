@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=6005,time=2020-08-23 00:30:23
+Score	UserID	Lang	Pseudo	#optim,count=6017,time=2020-08-24 00:38:48
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -33,6 +33,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6005,time=2020-08-23 00:30:23
 385600	2786666	C++	TetraktysPhi	
 363400	1786654	C++	Masclins	
 362540	2968035	C++	DomiKo	
+360970	3845610	C++	pardouin	
 358250	1414873	Javascript	Volcomix	
 358130	2242201	C++	Maryan	
 355820	3410351	C	Deltaspace	
@@ -289,6 +290,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6005,time=2020-08-23 00:30:23
 108120	3387072	Javascript		
 108070	1131250	Perl	Jooo	
 106100	857521	C#	MrAnderson	
+106020	811622	C++	EcksDee	
 105520	811004	C++	tarte7	
 105210	2882669	C++		
 103260	2043908	Java	AntiSquid	
@@ -591,6 +593,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6005,time=2020-08-23 00:30:23
 63880	2802157	Python3	HKit	
 63880	1127003	Kotlin	BrahimBrahim	
 63860	1061061	C#	Bandersnatch	
+63840	677699	C#	Kawn	
 63800	2863053	Javascript	LuisMaGlz	
 63760	2937669	C	Nyght	
 63740	1202744	Pascal	KILLogic	
@@ -996,6 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=6005,time=2020-08-23 00:30:23
 58650	1719741	Python3	SwiftRunner	
 58630	3373604	C	racamsi	
 58610	2361452	Java	Wiedse	
-58600	1470845	C#	SiennaMuffin219	
-58590	894599	Java	DidierC	
-58590	3274211	C++	SLJesus	
