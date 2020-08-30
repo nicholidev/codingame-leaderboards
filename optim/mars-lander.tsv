@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=2859,time=2020-08-25 00:30:26
+Score	UserID	Lang	Pseudo	#optim,count=2882,time=2020-08-30 18:01:43
 2509	1327028	C++	FredericBautista	
 2507	154372	Bash	Plopx	
 2504	1695697	Python3		
@@ -58,6 +58,7 @@ Score	UserID	Lang	Pseudo	#optim,count=2859,time=2020-08-25 00:30:26
 2377	2740243	Python3	Rprades	
 2376	1000199	C	Zlatko	
 2375	574656	Python3	dmpage	
+2373	1568785	C	Chalzy	
 2371	941713	C	Bloody95	
 2368	786597	Python3	Fabien	
 2368	952284	Ruby	Copro	
@@ -70,6 +71,7 @@ Score	UserID	Lang	Pseudo	#optim,count=2859,time=2020-08-25 00:30:26
 2355	1675034	Javascript	francois	
 2353	2714157	C++	HowToCodeYourGundam	
 2350	3873399	C++	Bruno_OR	
+2349	3903473	Python3	Konstant	
 2347	1015215	C++	XaralamposXaris	
 2345	1071140	C#	BeberLeNewbie	
 2344	1876212	C++	PFischbeck	
@@ -171,6 +173,7 @@ Score	UserID	Lang	Pseudo	#optim,count=2859,time=2020-08-25 00:30:26
 2191	1572888	Python3	DirtyHarry	
 2189	1853425	C++	Peter_Scorgie	
 2185	893541	Java	wala	
+2179	3902927	Python3	Bulgot	
 2178	802230	Java	Orabig	
 2176	2149927	C++	funkyJb	
 2175	1525821	C#	Jeroo	
@@ -323,6 +326,7 @@ Score	UserID	Lang	Pseudo	#optim,count=2859,time=2020-08-25 00:30:26
 2010	841085	C#	Risen	
 2010	788361	C++	Bob	
 2009	1846419	C	XavM	
+2009	3173435	C#	StuartC	
 2008	464971	C++	PsyGuy66	
 2008	2479417	C++	Papa94	
 2006	840322	Go	nullbus	
@@ -365,6 +369,7 @@ Score	UserID	Lang	Pseudo	#optim,count=2859,time=2020-08-25 00:30:26
 1991	2472606	Java	MehdiTouil	
 1991	3899778	Java	Mappator	
 1991	3387410	Java	Paolo_Rzf	
+1991	3921345	Java	Walle81	
 1990	876163	C#	AY1111	
 1989	2155687	Scala	NilsTheWizzard	
 1988	1678796	VB.NET	Gundim	
@@ -569,6 +574,7 @@ Score	UserID	Lang	Pseudo	#optim,count=2859,time=2020-08-25 00:30:26
 1857	909890	C	Snayle	
 1857	1485015	C++	Murky	
 1857	3226448	Kotlin	tobk	
+1857	656081	Python3	2skill3d4u	
 1856	207597	Java	OxCyril	
 1856	790326	C#	Sprucie	
 1856	1336780	C++	SergejA	
@@ -634,7 +640,6 @@ Score	UserID	Lang	Pseudo	#optim,count=2859,time=2020-08-25 00:30:26
 1828	981974	Java	Fanky	
 1828	2328351	Python3	DominicCrutchley	
 1828	2215663	Java	Hulios	
-1828	3902927	Python3	Bulgot	
 1826	2708342	C#	HIWA	
 1826	3837733	Python3	Pacem	
 1825	1633767	Javascript	kajyr	
@@ -703,6 +708,7 @@ Score	UserID	Lang	Pseudo	#optim,count=2859,time=2020-08-25 00:30:26
 1795	3667259	Javascript	LoneWolf-M21	
 1794	1485980	C	JackP	
 1794	1412263	PHP	PatrickMcGinnisII	
+1794	3918583	Java	mikmak	
 1793	942810	C++	Xtophe	
 1792	1172117	PHP	Fabl	
 1792	1495894	Python3	Grrec	
@@ -760,6 +766,7 @@ Score	UserID	Lang	Pseudo	#optim,count=2859,time=2020-08-25 00:30:26
 1780	3674162	Python3	OctoGeneral	
 1780	1477791	Javascript	seitec01	
 1780	3938395	Python3	Quentin18	
+1780	1504630	Javascript	Deejayfool	
 1779	908928	Java	estlinara	
 1778	1119565	Java	Salvi94	
 1778	684359	C++	Wando	
@@ -932,6 +939,8 @@ Score	UserID	Lang	Pseudo	#optim,count=2859,time=2020-08-25 00:30:26
 1771	1953786	Python3	ludowsky	
 1771	3928554	Java	ScorchingEagle	
 1771	1255509	Java	BTA	
+1771	1483648	Java	DhakalKumar	
+1771	928567	Java	Konstanta	
 1769	1433450	Python3	Gucci	
 1768	1182518	C++	AaronRuel	
 1768	416762	C#	Khao	
@@ -990,12 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=2859,time=2020-08-25 00:30:26
 1747	1434592	Java	ArpadF	
 1746	1394754	Python3	ThalGur	
 1746	1158238	Python3	Veka	
-1746	1612304	C#	kaldav	
-1746	1378958	C#	Illedan	
-1746	2232807	C#	SuperChocolatine	
-1745	1449433	C++	Rolf	
-1745	1745345	C	StephGrun35	
-1744	898785	C	gdbro	
-1744	2961702	C++	SamuelRobinson	
-1744	3586725	PHP	ivon	
-1743	912555	Javascript	ShiningDuck	
