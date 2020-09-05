@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=6180,time=2020-09-04 03:23:20
+Score	UserID	Lang	Pseudo	#optim,count=6195,time=2020-09-05 02:42:48
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -48,6 +48,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6180,time=2020-09-04 03:23:20
 348130	918352	C++	CoYoTe99	
 322820	186179	C++	Nagrarok	
 319900	1756952	C++	Petras	
+318690	3457031	C++	YurkovAS	
 317110	1064903	C++	Ghirtor	
 315410	1854246	C++	Counterbalance	
 303850	588426	C++	Jeff06	
@@ -59,7 +60,6 @@ Score	UserID	Lang	Pseudo	#optim,count=6180,time=2020-09-04 03:23:20
 286210	153774	C++	cocoche007	
 285300	1267417	C++	co42	
 279790	3389226	C#	Peti88	
-279400	3457031	C++	YurkovAS	
 278520	3513265	C++	DaNinja	
 273310	622213	Python3	Ornicare	
 269430	1880197	C	bicklil	
@@ -227,6 +227,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6180,time=2020-09-04 03:23:20
 150900	1584802	Python3	emh	
 150400	563069	Python3	Darkris	
 149650	2339129	Python3	ChristianSloper	
+149140	2064511	Java	SemenyutenkoAndrey	
 148620	1743375	Java	redav	
 148500	2420671	Go	Irioth	
 147170	826008	C++	Savlik5	
@@ -381,7 +382,6 @@ Score	UserID	Lang	Pseudo	#optim,count=6180,time=2020-09-04 03:23:20
 74220	1497552	Python3	clemclem	
 73680	264258	Python3	MrFlibble	
 73110	2711018	Java	Fabs	
-72770	2064511	Java	SemenyutenkoAndrey	
 72660	849746	Python3	lmj	
 72640	1052630	Java	_	
 72620	1022926	Python3	_BC_	
@@ -627,6 +627,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6180,time=2020-09-04 03:23:20
 63590	1427078	Javascript	ToshiTuringMachine	
 63590	3730057	Python3	Maxtreme	
 63590	363429	Python3	ATHANOR	
+63590	3354337	C++	Westicles	
 63570	1050014	Scala	OlegSolver	
 63540	3586167	C++	rocky_H	
 63520	1687648	Python3	Pompom2	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=6180,time=2020-09-04 03:23:20
 58800	495198	Java	Maskimeee	
 58800	806062	Java	Honza	
 58790	870653	C#	Argyl	
-58770	1781865	Python3	Osimhen	
