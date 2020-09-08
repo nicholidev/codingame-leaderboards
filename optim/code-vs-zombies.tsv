@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=6215,time=2020-09-07 03:09:27
+Score	UserID	Lang	Pseudo	#optim,count=6284,time=2020-09-08 02:33:02
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -28,6 +28,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6215,time=2020-09-07 03:09:27
 463050	1607522	C++	RoboStac	
 460810	1881651	C	Alligard	
 458630	1826849	C++	Geplik	
+453060	3457031	C++	YurkovAS	
 441200	638784	C++	Yqnn	
 436580	1307473	C++	Evgenykz	
 430190	1500515	C#	eulerscheZahl	
@@ -49,12 +50,12 @@ Score	UserID	Lang	Pseudo	#optim,count=6215,time=2020-09-07 03:09:27
 348130	918352	C++	CoYoTe99	
 322820	186179	C++	Nagrarok	
 319900	1756952	C++	Petras	
-318690	3457031	C++	YurkovAS	
 317110	1064903	C++	Ghirtor	
 315410	1854246	C++	Counterbalance	
 303850	588426	C++	Jeff06	
 300650	1059996	C#	Molybdene	
 300350	2311105	C++	kovi	
+293170	3965067	C		
 290910	329200	C++	BlitzProg	
 287770	3954357	C	laudep	
 287290	788361	C++	Bob	
@@ -95,12 +96,14 @@ Score	UserID	Lang	Pseudo	#optim,count=6215,time=2020-09-07 03:09:27
 232230	154858	Javascript	PoF	
 232020	1876212	C++	PFischbeck	
 229430	155939	C	xylo	
+228940	3965226	C		
 227780	273876	C#	SirSushi	
 227620	3622757	C	anid	
 226740	1344487	Java	UnnamedCodinGamer	
 226260	1944142	C++	yakalir	
 224790	994468	C++	darkdieg	
 224160	1300254	Python3	Escdemon	
+223630	3965155	C		
 223100	735910	C++	Agade	
 223010	156188	C++	DorianWilde	
 222280	579894	C++	Binarii	
@@ -116,6 +119,8 @@ Score	UserID	Lang	Pseudo	#optim,count=6215,time=2020-09-07 03:09:27
 216580	773811	Java	szoti	
 215220	1753077	C++	codingWhale	
 214920	3750700	C++	VulpesCorsac	
+214740	3965091	C		
+214510	3965095	C	Scotty9	
 213710	1705689	Java	XanX3601	
 212920	1284747	C++	mr-push	
 212770	154935	Scala	yamo	
@@ -156,6 +161,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6215,time=2020-09-07 03:09:27
 195000	925695	OCaml	Boulet	
 194890	2521360	C	g.naboychenko	
 194440	1018437	C++	dubicube	
+193000	3965104	C	casd2	
 192440	2232492	Javascript	coolraoul	
 192340	2232496	Javascript	totopopo	
 192030	1518732	Java	Apfeloxid	
@@ -240,6 +246,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6215,time=2020-09-07 03:09:27
 144330	869314	C++	RicBit	
 144280	1077559	Java	PhOeNyX	
 143110	1525821	C#	Jeroo	
+142670	3594074	C++	jopo	
 142600	1740189	Javascript	RBeater	
 142600	1675034	Javascript	francois	
 142230	371603	Ruby	martin	
@@ -397,6 +404,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6215,time=2020-09-07 03:09:27
 71970	973040	C++	papyjo	
 71530	1759335	C#	metahom	
 71310	198916	Java	WhatTrickeryIsThis	
+71180	3960017	Python3	PaulM64	
 70860	802171	PHP	Merome	
 70810	1800034	Python3	Meic	
 70800	1459470	C#	pretzlak	
@@ -648,6 +656,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6215,time=2020-09-07 03:09:27
 63370	1620631	Python3	Testadicardi	
 63370	3235897	Java	Zylo	
 63360	2671038	Python3	1one	
+63330	3725891	C++	lord8266	
 63260	1586077	C	Woomb	
 63250	1006340	C	Gamer-omar	
 63240	1527062	Javascript	dst	
@@ -720,6 +729,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6215,time=2020-09-07 03:09:27
 62540	1537302	Python3	SMyalski	
 62540	1934314	Java	Leech2120	
 62540	3937932	TypeScript	VikingGawd	
+62530	3965181	Javascript	Adlan_Fauzi	
 62520	950027	PHP	Enleur	
 62520	1252796	PHP	franzferdinand	
 62520	3386271	Java	emloD	
@@ -804,6 +814,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6215,time=2020-09-07 03:09:27
 61240	1841740	Python3	BlindeSalt	
 61240	2245438	Javascript	NormanHK	
 61240	2180801	Python3	Gayzou	
+61230	3965808	Javascript	AF2	
 61210	1053513	C#	coding_tourist	
 61200	1061778	Javascript	tJener	
 61200	839879	C#	Washier	
@@ -854,7 +865,6 @@ Score	UserID	Lang	Pseudo	#optim,count=6215,time=2020-09-07 03:09:27
 60790	1170420	C#	LeBoucher	
 60790	389786	Java	menu	
 60770	1514534	Java	louis78700	
-60760	3594074	C++	jopo	
 60740	1312801	Python3	SonnyMan33	
 60730	3930318	Python3		
 60710	1515062	PHP	AIlkiv	
@@ -989,13 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=6215,time=2020-09-07 03:09:27
 59050	1017944	C#	Werewolf	
 59050	1547589	Perl	WarrenBarnes	
 59020	1117801	Java	Noruas	
-59020	1300588	Python3	alkemann	
-59020	2551887	Kotlin	PennArBed	
-59010	2554840	Java	slacking_slacker	
-58960	715431	Python3	G3r0	
-58940	2771631	C#	Lurzo	
-58940	3582128	Javascript	mery333	
-58930	1763304	C++	gaudi	
-58910	2202771	Java	Kaplone	
-58890	3423866	C	Mathieu.P	
-58870	1010476	C	Migrou	
