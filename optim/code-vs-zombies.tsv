@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=6284,time=2020-09-08 02:33:02
+Score	UserID	Lang	Pseudo	#optim,count=6299,time=2020-09-09 02:34:13
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -15,8 +15,9 @@ Score	UserID	Lang	Pseudo	#optim,count=6284,time=2020-09-08 02:33:02
 682520	2522090	C#	MSmits	
 665770	2316796	PHP	Psio	
 663620	1630890	Java	Wld	
-649860	338469	C++	-___-	
+649860	338469	C++	mcts	
 648260	2923506	C++	darkhorse64	
+611130	837350	C++	BorisZ	
 543500	1273065	C++	TheRadical	
 505510	1549145	C++	Mealc	
 486090	2436448	Java	FrancoisMeme	
@@ -24,11 +25,10 @@ Score	UserID	Lang	Pseudo	#optim,count=6284,time=2020-09-08 02:33:02
 476930	1485690	C++	Kikoo	
 476060	1378958	C#	Illedan	
 470760	1629259	Java	Marchete	
-465930	837350	C++	BorisZ	
 463050	1607522	C++	RoboStac	
 460810	1881651	C	Alligard	
 458630	1826849	C++	Geplik	
-453060	3457031	C++	YurkovAS	
+453420	3457031	C++	YurkovAS	
 441200	638784	C++	Yqnn	
 436580	1307473	C++	Evgenykz	
 430190	1500515	C#	eulerscheZahl	
@@ -117,6 +117,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6284,time=2020-09-08 02:33:02
 217000	1173064	C#	a.oryol	
 216780	3903970	C	Avatar_Wan	
 216580	773811	Java	szoti	
+215360	2515515	C	Bobliu	
 215220	1753077	C++	codingWhale	
 214920	3750700	C++	VulpesCorsac	
 214740	3965091	C		
@@ -330,6 +331,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6284,time=2020-09-08 02:33:02
 95230	754792	C++	Ramdeath	
 93690	2212306	C++	asad_nitp	
 93690	2211649	C++	MdAsadRub	
+92350	3952328	Java	Lambdadelta	
 90520	1181685	Lua	dzik	
 90510	1186732	Javascript	gkueny	
 90080	3687134	Rust	Puccre	
@@ -673,6 +675,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6284,time=2020-09-08 02:33:02
 63010	549583	Javascript	malko	
 63000	420912	C#	safon007	
 63000	1143498	C#	moerketh	
+62990	3422850	Javascript	DaSly	
 62970	1046623	Groovy	the_pins	
 62970	1579701	PHP	Zeranic	
 62960	1161260	Javascript	MeLovro	
@@ -905,6 +908,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6284,time=2020-09-08 02:33:02
 60280	995238	Lua	Pyvain	
 60280	2491616	Haskell	abt8601	
 60250	1142942	Javascript	Aquamoth	
+60250	1361019	Python3	TokugawaArakkun	
 60240	448698	Python3	Makz	
 60180	2098777	C++	static_cats	
 60170	467193	Java	pin72	
@@ -995,7 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=6284,time=2020-09-08 02:33:02
 59060	1225316	C		
 59060	1300429	Java	Blashyrkh	
 59060	2015654	Java	KennethWong	
-59060	1213993	Python3	jjfPCSI1	
-59050	1017944	C#	Werewolf	
-59050	1547589	Perl	WarrenBarnes	
-59020	1117801	Java	Noruas	
