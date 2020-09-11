@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=111,time=2020-09-10 02:30:30
+Score	UserID	Lang	Pseudo	#optim,count=111,time=2020-09-11 02:38:21
 10359.64	2288263	Rust	dbdr	
 10367.970000000005	351062	C++	Neumann	
 10484.98	1400179	Python3	reCurse	
@@ -41,6 +41,7 @@ Score	UserID	Lang	Pseudo	#optim,count=111,time=2020-09-10 02:30:30
 13143.13	2069141	C#	tomeko	
 13231.579999999998	440476	C++	yowa	
 13380.64	1525821	C#	Jeroo	
+13381.019999999997	1339675	C++	SR4	
 13392.399999999998	3226448	Kotlin	tobk	
 13779.020000000006	811622	C++	Scarfield	
 13859.76	2968035	C++	DomiKo	
@@ -48,7 +49,6 @@ Score	UserID	Lang	Pseudo	#optim,count=111,time=2020-09-10 02:30:30
 15173.049999999996	3872416	Python3	CodinGamerAK	
 15642.7	3488045	C++	SaverHar	
 15780.110000000002	3165536	C#	barbora	
-16050.72	1339675	C++	SR4	
 16296.01	2290633	Python3	field3	
 16322.67	862919	C++	Astrobytes	
 16387.28	1854246	C++	Counterbalance	
