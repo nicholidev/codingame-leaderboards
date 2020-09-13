@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=800,time=2020-09-12 02:39:26
+Score	UserID	Lang	Pseudo	#optim,count=802,time=2020-09-13 03:27:06
 11902	2288263	Rust	dbdr	
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
@@ -134,6 +134,7 @@ Score	UserID	Lang	Pseudo	#optim,count=800,time=2020-09-12 02:39:26
 7217	2058158	C#	RolandKnight	
 7189	1206537	C++	MadKnight	
 7106	1193679	C++	Icebox	
+7101	3235897	Java	Zylo	
 7089	2490008	C++	ebicochineal	
 6954	1893989	Python3	Rosstherock	
 6909	2521394	Kotlin	FrankR	
@@ -192,7 +193,6 @@ Score	UserID	Lang	Pseudo	#optim,count=800,time=2020-09-12 02:39:26
 5317	937878	C++	nyashiki	
 5311	607571	Scala	gfabre	
 5292	1931824	Java	Litops	
-5285	3235897	Java	Zylo	
 5247	371603	Ruby	martin	
 5142	1096201	C++	Maksimov	
 5119	2715508	C++	Anth	
@@ -432,6 +432,7 @@ Score	UserID	Lang	Pseudo	#optim,count=800,time=2020-09-12 02:39:26
 1744	1355842	Java	slaghn	
 1703	2419811	Python3	Valbou	
 1701	2661589	F#	LePelicanFushia	
+1698	3075101	Python3	Krantt	
 1692	1829082	Python3	CapitaineHackdoc	
 1684	256955	C++	cup_of_tea	
 1673	1734039	C++	ProfJack	
@@ -716,6 +717,7 @@ Score	UserID	Lang	Pseudo	#optim,count=800,time=2020-09-12 02:39:26
 1045	1880197	Python3	bicklil	
 1045	481988	Kotlin	DevKirill	
 1045	3354337	Bash	Westicles	
+1045	3854069	Swift	Quid34	
 1041	1074744	Java	GwenGlSoft	
 1039	1129000	Python3	ChairmanOfTheBored	
 1033	1243354	C++	RSBat	
