@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=6353,time=2020-09-13 03:27:08
+Score	UserID	Lang	Pseudo	#optim,count=6361,time=2020-09-14 02:32:59
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -106,6 +106,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6353,time=2020-09-13 03:27:08
 223630	3965155	C		
 223100	735910	C++	Agade	
 223010	156188	C++	DorianWilde	
+222380	3533119	C++	wlesavo	
 222280	579894	C++	Binarii	
 222240	1201796	ObjectiveC	P.Greze	
 222000	224325	C++	TidyMaze	
@@ -137,6 +138,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6353,time=2020-09-13 03:27:08
 206040	2080768	C++	Binchy	
 205690	2051334	C++	Dwarth	
 205670	1487392	Java	Razielwar	
+205550	2350415	C++	Vintarel	
 205260	3642129	Python3	nicotard	
 205120	514655	Go	Cristof337	
 205080	1324974	C++	ViktorCs	
@@ -480,6 +482,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6353,time=2020-09-13 03:27:08
 65030	3018110	Python3	MechLizardThing	
 65010	1234947	Javascript	kuro	
 64930	509738	C#	Konrad_Wer	
+64910	3399400	C++	MisterFlos	
 64890	1372843	Java	djjeck	
 64870	1374531	Java	tchitch	
 64770	1590522	Python3	Eddyty	
@@ -662,6 +665,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6353,time=2020-09-13 03:27:08
 63480	1504309	C#	Isaacqwerty	
 63460	152975	Java	Simona	
 63400	3416055	Python3	ItsAFeature	
+63390	3422694	C#	HK42	
 63380	2251375	C++	nflores	
 63370	1620631	Python3	Testadicardi	
 63370	3235897	Java	Zylo	
@@ -745,6 +749,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6353,time=2020-09-13 03:27:08
 62520	3386271	Java	emloD	
 62510	717456	Ruby	BullsEye72	
 62490	2144934	Java	barrelrower	
+62490	900129	C++	Julien_E	
 62420	1103150	Java	DavidWellner	
 62400	607757	Python3	klawz	
 62400	1965009	Javascript	Wezelkrozum	
@@ -974,7 +979,6 @@ Score	UserID	Lang	Pseudo	#optim,count=6353,time=2020-09-13 03:27:08
 59500	1251381	Java	ZepHead	
 59490	1477622	C#	zrdon	
 59470	2462249	C#	dermotblair	
-59470	3533119	Python3	wlesavo	
 59450	705079	Javascript	Perazzo	
 59450	1176883	Rust	Thogrus	
 59450	1544930	C#	Rogogomogofl	
@@ -995,7 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=6353,time=2020-09-13 03:27:08
 59240	1448366	C#	Mihai2121	
 59240	2820691	C#		
 59240	3229071	Java	megawarrior	
-59220	1075126	Python3	rxitr	
-59190	1625417	Javascript	Keb	
-59180	228826	PHP	Snark	
-59170	3492840	Javascript	stormKx18	
