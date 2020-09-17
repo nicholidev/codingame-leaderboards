@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3808,time=2020-09-16 02:56:00
+Score	UserID	Lang	Pseudo	#optim,count=3809,time=2020-09-17 02:38:47
 2759	1301401	C#	Stanax	
 2761	1833680	C++	jvivenot	
 2765	2288263	Rust	dbdr	
@@ -80,6 +80,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3808,time=2020-09-16 02:56:00
 3653	1034635	C++	SlyB	
 3656	225811	Ruby	Inferno285	
 3659	938374	C#	UnmanagedCode	
+3663	3545248	Kotlin	amkad	
 3680	507383	C#	Vadasz	
 3684	351062	Java	Neumann	
 3696	858602	C++	Suigetsusake	
@@ -134,7 +135,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3808,time=2020-09-16 02:56:00
 3852	574656	Python3	dmpage	
 3853	264258	Python3	MrFlibble	
 3858	1704708	Python3	valcodi	
-3858	3545248	Kotlin	amkad	
 3865	209439	Python3	D4yBr3ak	
 3868	2785892	Python3	levbor	
 3875	937362	Javascript	josh_	
@@ -378,6 +378,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3808,time=2020-09-16 02:56:00
 5137	3871875	TypeScript	hector7	
 5158	3340884	Python3	sd001034	
 5175	953062	C++	rouviecy	
+5178	3525167	Python3	fgsdt	
 5194	1306541	Python3	Steuh	
 5205	2716329	Python3	Recher	
 5220	957176	C#	MWilliam	
@@ -686,7 +687,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3808,time=2020-09-16 02:56:00
 5865	919703	C++	TheShadowX	
 5865	271034	C++	6pi	
 5866	3243695	Java	Pons	
-5866	3525167	Python3	fgsdt	
 5867	649634	PHP	bigredeyes	
 5867	1012619	Javascript	HenJi	
 5867	511862	Python3	Shishu94	

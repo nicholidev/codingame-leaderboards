@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5279,time=2020-09-16 02:55:52
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5281,time=2020-09-17 02:30:27
 5	33.09	3193653	3004019	C++	karliso	
 5	31.58	880353	2975979	C++	zasmu	
 5	31.14	1082988	2982332	C++	Saelyos	
@@ -697,8 +697,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5279,time=2020-09-16 02:55:
 3	24.84	3819467	2975822	C++	bin101	
 3	24.81	3809869	2979036	Python3	Walchar	
 3	24.75	1415488	2978246	Javascript	alinde2	
+3	24.75	1714054	2975900	C++	Marau	
 3	24.71	3766690	3011380	C++	marty4545	
-3	24.7	1714054	2975900	C++	Marau	
 3	24.69	281532	2976665	Scala	Soullz	
 3	24.69	1005007	2979355	Javascript	neorel	
 3	24.66	3673177	2977038	Python3	mianoka	
@@ -740,10 +740,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5279,time=2020-09-16 02:55:
 3	24.14	3414155	2977392	Scala	Smerk	
 3	24.11	1479552	2977698	TypeScript	Tom1	
 3	24.1	2990918	2979626	TypeScript	Dingodino	
+3	24.1	612827	2978708	C++	Wellan	
 3	24.1	3467363	2978900	Java	Javatacos	
 3	24.09	172938	2979616	PHP	kuzmaka	
 3	24.08	1529396	2976805	Python3	ulukai	
-3	24.07	612827	2978708	C++	Wellan	
 3	24.05	3051977	2977133	Python3	YongJing	
 3	24.01	616735	2990459	Python3	Kodama	
 3	24	925695	2980303	OCaml	Boulet	
@@ -824,16 +824,16 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5279,time=2020-09-16 02:55:
 3	22.83	990110	2977590	C++	Rogerup	
 3	22.81	1417805	2979138	Java	hiro116s	
 3	22.81	3387410	3057343	Java	Paolo_Rzf	
+3	22.77	996279	2978733	C++	BOBKA	
 3	22.76	3809155	2977442	Java	Myssteriion	
 3	22.74	3800764	2976982	C#	QossMean	
-3	22.72	996279	2978733	C++	BOBKA	
 3	22.71	1539215	2979634	C#	the-JJ	
 3	22.68	3749465	2980047	Python3	Badoskey	
 3	22.65	418987	2978581	C#	maddenvvs	
 3	22.64	2297753	2979684	Python3	Warly7692	
+3	22.64	3818012	2975919	C++	-k	
 3	22.61	3230794	2977172	Java	tutubalin	
 3	22.54	3529519	2992994	Python3	Kristo30	
-3	22.53	3818012	2975919	C++	-k	
 3	22.53	3800220	2977466	C++	Kurpilyansky	
 3	22.51	1671658	2976535	C++	Kirbiby	
 3	22.51	3804005	2977797	Java	GlitchyByte	
@@ -934,6 +934,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5279,time=2020-09-16 02:55:
 3	21.36	1400471	2977610	C#	RaymondTsang	
 3	21.36	3769834	2978482	C#	Hoggins	
 3	21.36	859803	2979503	C#	stauik	
+3	21.36	3797046	2975581	Python3	chinwag	
 3	21.35	1306541	2978844	C++	Steuh	
 3	21.35	1391477	2976896	Python3	Lodraxum	
 3	21.35	3740207	2979286	Swift	violettis	
@@ -946,7 +947,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5279,time=2020-09-16 02:55:
 3	21.31	3804739	2977200	C#	GhostDev	
 3	21.3	2470801	2977533	Java	asirbu	
 3	21.3	3041715	2977613	Java	hlin	
-3	21.27	3797046	2975581	Python3	chinwag	
 3	21.27	3765905	2979695	Python3	edramire	
 3	21.27	2458172	2978312	C++	CodingCaptain	
 3	21.26	3726308	3002629	Python3	Klapoutz	
@@ -956,6 +956,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5279,time=2020-09-16 02:55:
 3	21.23	3757728	2975969	C#	semera	
 3	21.22	3329141	3038348	C#	andrea_angella	
 3	21.2	342048	2976134	Javascript	fixme	
+3	21.2	3035786	3008611	Python3	Monkris	
 3	21.18	2063592	2979299	Java	Gbaud	
 3	21.17	3755678	2986464	C++	Grudo	
 3	21.15	2680421	2979813	Java	Barons	
@@ -966,12 +967,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5279,time=2020-09-16 02:55:
 3	21.11	1443538	2978237	Java	Gevater_Tod4711	
 3	21.1	3535352	2978022	Python3	ElGranV	
 3	21.09	3305510	2981402	PHP	TBali	
-3	21.09	3035786	3008611	Python3	Monkris	
 3	21.08	1223140	2978644	Kotlin	kgautron	
 3	21.07	1785098	2980243	C++	E_pur_si_muove	
 3	21.07	3514465	2975842	Python3	BenWo	
 3	21.05	2014685	2980024	Java	Colossus	
-3	21.03	1932031	2980232	Javascript	Tricatel	
 3	21.02	1065947	2980390	C#	RPA	
 3	20.98	2143560	2981597	C++	ashikujjaman	
 3	20.98	3597780	2975812	Python3	EParisot	
@@ -997,5 +996,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5279,time=2020-09-16 02:55:
 3	20.55	2833733	3004906	Python3	pez	
 3	20.46	3160781	3037750	Java	Aenerion35	
 3	20.43	3805699	2977091	Kotlin	acauchy	
+3	20.42	1763540	2977459	C#	anthor	
 3	20.41	3770928	2976925	C++	ku-haku	
 3	20.41	2508635	2981615	Java	hemhel	
