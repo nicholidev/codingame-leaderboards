@@ -1,13 +1,13 @@
-Score	UserID	Lang	Pseudo	#optim,count=804,time=2020-09-17 02:38:45
+Score	UserID	Lang	Pseudo	#optim,count=804,time=2020-09-18 02:55:45
 11902	2288263	Rust	dbdr	
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
 11710	1500515	C#	eulerscheZahl	
 11360	1333869	Python3	kiwijam	
+11243	2416641	Bash	Zenoscave	
 11196	1029833	C++	tourist	
 11139	820000	C++	ValGrowth	
 11102	2924895	C	trictrac	
-11027	2416641	Bash	Zenoscave	
 11009	1001096	C#	MyIIone	
 10984	1082988	C++	Saelyos	
 10969	1783604	C	Vry	
@@ -255,6 +255,7 @@ Score	UserID	Lang	Pseudo	#optim,count=804,time=2020-09-17 02:38:45
 3683	2792232	C#	Monoterpene	
 3677	2747838	Javascript		
 3650	1883740	C++	kermo	
+3644	3854069	Swift	Quid34	
 3612	1354295	Javascript	AbdullahKhawer	
 3602	2006324	Python3	SihardeOussama	
 3602	2449144	Python3	Squiki	
@@ -367,6 +368,7 @@ Score	UserID	Lang	Pseudo	#optim,count=804,time=2020-09-17 02:38:45
 2438	153965	Python3	Keelhaul	
 2438	3635785	Python3	Farameris	
 2436	2590149	Python3	GoofyGas	
+2435	3755815	C#	Moctrof	
 2430	1192837	Rust	davidB	
 2422	1307473	C++	Evgenykz	
 2413	3271550	C++	Eggface	
@@ -382,7 +384,6 @@ Score	UserID	Lang	Pseudo	#optim,count=804,time=2020-09-17 02:38:45
 2307	765559	C#	Shelby	
 2300	1739595	C++	Bemethor	
 2292	2464160	Ruby	Taeth	
-2270	3755815	C#	Moctrof	
 2268	2773075	C#	Patronus	
 2254	1499779	Java	NomadZ	
 2245	2716329	Python3	Recher	
@@ -718,7 +719,6 @@ Score	UserID	Lang	Pseudo	#optim,count=804,time=2020-09-17 02:38:45
 1045	1880197	Python3	bicklil	
 1045	481988	Kotlin	DevKirill	
 1045	3354337	Bash	Westicles	
-1045	3854069	Swift	Quid34	
 1045	3950687	Python3	vkreuz	
 1041	1074744	Java	GwenGlSoft	
 1039	1129000	Python3	ChairmanOfTheBored	
