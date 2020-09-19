@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3812,time=2020-09-18 02:55:48
+Score	UserID	Lang	Pseudo	#optim,count=3819,time=2020-09-19 02:46:45
 2759	1301401	C#	Stanax	
 2761	1833680	C++	jvivenot	
 2765	2288263	Rust	dbdr	
@@ -274,13 +274,13 @@ Score	UserID	Lang	Pseudo	#optim,count=3812,time=2020-09-18 02:55:48
 4402	2676033	C++	lmat	
 4403	884069	C#	punxxy	
 4407	1179357	Javascript	avdg	
+4420	3667259	Javascript	LoneWolf-M21	
 4433	931062	C++	Blue007422	
 4438	802171	PHP	Merome	
 4439	2973592	C#	EmmanuelJOUSSELLIN	
 4457	1445969	Python3	JoPich	
 4467	574371	Javascript	Dillysfriend	
 4471	1734105	Python3	Bibou	
-4474	3667259	Javascript	LoneWolf-M21	
 4476	154348	ObjectiveC	ProYd	
 4482	1487535	Perl	SvartRiddare	
 4483	2250452	Python3	Isac	
@@ -399,6 +399,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3812,time=2020-09-18 02:55:48
 5352	321254	Scala	athy	
 5357	1060181	Ruby	Dabou	
 5365	899864	PHP	therainycat	
+5371	3950687	Python3	vkreuz	
 5388	3319855	C#	Drobor	
 5390	593523	C++	supermassive	
 5400	1961440	C++	simon_v	
@@ -564,6 +565,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3812,time=2020-09-18 02:55:48
 5800	155934	PHP	Ninsuo	
 5800	304126	PHP	kami	
 5801	829472	ObjectiveC	andris	
+5804	828239	C#	[SG]Bisou	
 5805	1527403	C++	Di_Masta	
 5809	3770485	C++	zakki	
 5811	1706883	C#	CommanderCero	
@@ -800,7 +802,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3812,time=2020-09-18 02:55:48
 5892	961929	C++	Marcaunon	
 5892	2440248	Python3	Javfres	
 5892	1361019	C#	AlessioGreco	
-5893	828239	VB.NET	[SG]Bisou	
 5893	970419	Java	Vladimir.Zhdanov	
 5893	3031924	Python3	Kassout	
 5893	3801548	Python3	Lucas_steez	
@@ -877,6 +878,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3812,time=2020-09-18 02:55:48
 5918	2463909	Java	ckobayashi	
 5918	2833929	Python3	Pierre_C	
 5919	844863	Java	Magnasilvar	
+5921	3940156	Java	VaidaLaganeckiene	
 5922	596947	C++	LBandy	
 5922	1151631	Python3	hexabeast	
 5923	1412263	PHP	PatrickMcGinnisII	
@@ -997,5 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=3812,time=2020-09-18 02:55:48
 5979	472513	C++	Fatall	
 5980	893598	C	tjandra	
 5980	923505	C	ouille	
-5980	951520	Javascript	joshlol	
-5980	432260	Javascript	Talan77	
