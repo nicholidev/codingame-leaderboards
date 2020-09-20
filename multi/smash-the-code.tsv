@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2405,time=2020-09-19 00:34:07
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2406,time=2020-09-20 00:30:09
 5	35.5	1400179	2986754	C++	reCurse	
 5	31.94	1327028	2990369	C++	FredericBautista	
 5	30.45	1413236	511966	Go	Medici	
@@ -881,7 +881,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2405,time=2020-09-19 00:34:
 1	23.16	1066028	746798	PHP	JrmC	
 1	23.16	614489	493173	C	Nazoum81	
 1	23.15	359746	628910	Java	Shoohei	
-1	23.15	810902	628546	Python	bouletta	
 1	23.15	1251131	896454	C#	ma81xx	
 1	23.15	1592902	686826	C	sondx89	
 1	23.15	1662602	768550	C++	brenrik	
@@ -914,6 +913,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2405,time=2020-09-19 00:34:
 1	23.05	1620096	749641	C	InvisibleUSA	
 1	23.04	1596346	768314	C#	LaurisJansons	
 1	23.04	1502298	610550	C#	skargg	
+1	23.04	810902	628546	Python	bouletta	
 1	23.04	1393911	501141	Javascript	neal_s	
 1	23.02	1448599	508856	C#	MdNght	
 1	23.02	1354742	490592	Python3	torxx	
@@ -980,6 +980,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2405,time=2020-09-19 00:34:
 1	22.87	1471382	570330	Python3	Andilutten	
 1	22.87	1116946	628892	Java	marhuero	
 1	22.87	1478742	551752	C++	Archimist	
+1	22.87	3926522	3101789	Python3	Denshire	
 1	22.87	973155	576064	C++	Namal	
 1	22.86	651153	753673	Python3	jikiliou	
 1	22.85	1667353	773140	Javascript	jacobs472	
@@ -998,4 +999,3 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2405,time=2020-09-19 00:34:
 1	22.83	153927	510765	C++	Cubix	
 1	22.82	1477937	566928	Java	koeki13	
 1	22.82	1463609	494480	Javascript	FabFive-2	
-1	22.82	1212895	624803	Java	Vilrolf	

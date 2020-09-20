@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3674,time=2020-09-19 02:34:28
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3674,time=2020-09-20 02:30:11
 5	35.77	1629259	2238218	C++	Marchete	
 5	33.25	494104	960105	C++	Recar	
 5	32.18	818534	960075	C++	Ixanezis	
@@ -817,9 +817,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3674,time=2020-09-19 02:34:
 3	26.21	2218830	1496234	F#	mateuszlewko	
 3	26.2	2232336	1483418	C#	jking8	
 3	26.16	2688693	1961199	Go	Catagami	
-3	26.16	958490	2660736	Python3	lj	
 3	26.16	1127783	937927	Python	zouzou	
 3	26.12	1968818	2128346	C++	TeamTurtle	
+3	26.09	958490	2660736	Python3	lj	
 3	26.07	1183644	937719	C++	Donotalo	
 3	26.07	884874	1627758	C	Zauberer	
 3	26.06	1555765	937764	C#	DewJunkie	
@@ -843,9 +843,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3674,time=2020-09-19 02:34:
 3	25.7	1113897	973840	C	G.Pino	
 3	25.68	871430	937581	Java	Arkandias	
 3	25.67	1630890	1308306	Java	Wld	
+3	25.65	1106450	971809	C++	RiSuS	
 3	25.64	2233478	1625896	PHP	Swan_Jr	
 3	25.64	648978	937945	C++	winger	
-3	25.62	1106450	971809	C++	RiSuS	
 3	25.59	2794638	2129553	Java	patrickm	
 3	25.54	583349	937499	Javascript	Bangsadrengur	
 3	25.53	816229	1121050	Python	Gamadzila	
@@ -897,15 +897,15 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3674,time=2020-09-19 02:34:
 3	24.68	1913595	1212308	Java	AlessioScarfone	
 3	24.65	827757	1427158	C#	swoog	
 3	24.64	3101644	2482638	Java	HerrHagner	
+3	24.57	1607034	2649301	Rust	tomatoes	
 3	24.55	810438	937955	C++	Sasurai	
 3	24.55	3289937	2324831	Java	TheAgents	
 3	24.53	1045485	937636	Java	Jessie	
 3	24.5	3274477	2325627	Java	Flynn_Taggart	
-3	24.46	1607034	2649301	Rust	tomatoes	
 3	24.42	817812	937892	C++	hiro00	
 3	24.41	824766	937452	Java	knard	
-3	24.37	1914302	1170121	Java	Pallina	
 3	24.36	812420	937437	Python3	rndczn	
+3	24.36	1914302	1170121	Java	Pallina	
 3	24.32	1372349	2406293	Java	NinjaDoggy	
 3	24.32	758747	938011	Python	few_	
 3	24.31	1564309	1473450	Javascript	gravitypx	
