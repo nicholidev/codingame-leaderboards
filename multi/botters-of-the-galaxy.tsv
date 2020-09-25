@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=876,time=2020-09-24 03:44:20
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=877,time=2020-09-25 02:40:23
 9	30.08	2489835	1769668	C#	Akarachudra	
 9	25.87	2254195	1769673	Java	BrunoFelthes	
 9	25.04	1818159	1769663	C++	JRFerguson	
@@ -799,13 +799,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=876,time=2020-09-24 03:44:2
 2	-11.53	3563052	2620926	C++	Lykor	
 1	0.02	925956	3053069	C++	Rentus	
 1	-1.85	1546633	3052561	Javascript	duskyshelf	
+0	8.89	2258103	1858786	Javascript	Jennypatrick	
 0	8.81	1875472	1744005	F#	BillBert	
 0	8.49	3432180	2458380	C++	TestFon	
 0	8.49	2618330	1853488	C++	4rx	
 0	8.49	1520245	2058273	Java	kintdev	
 0	8.49	1993004	1985943	C#	olivR	
 0	8.49	1024388	1837050	Java	SamP	
-0	8.48	2258103	1858786	Javascript	Jennypatrick	
 0	8.3	2913627	2102577	C++	GalaxyOwl4	
 0	8.1	2521652	1770372	C#	PANZO	
 0	8.02	2649135	1872341	Bash		
@@ -825,6 +825,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=876,time=2020-09-24 03:44:2
 0	7.03	2709957	1940389	C++		
 0	6.99	2155737	1743172	C#	Z3RP	
 0	6.97	918352	1865108	Python3	CoYoTe99	
+0	6.93	3627342	3107891	C#	Zuabros	
 0	6.88	2325553	1815861	Javascript	JuanArenas	
 0	6.88	3921345	3070208	Java	JFP81	
 0	6.88	154935	3004998	Scala	yamo	
@@ -859,12 +860,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=876,time=2020-09-24 03:44:2
 0	6.29	1881651	1828098	Python3	Alligard	
 0	6.28	3464590	3012258	C	abbecool	
 0	5.82	3853270	3007582	C#	alibagamaev	
-0	5.44	2512705	1770867	Swift	awesomeFencer	
+0	5.37	2512705	1770867	Swift	awesomeFencer	
 0	5.05	1717345	2061864	Scala	kotobotov	
 0	4	3738137	2847762	Python3	NaVin	
-0	3.54	1013463	1759229	Python3	Lachrymosa	
-0	3	236902	2313737	C++	Tryum	
-0	2.78	1362802	1747414	Javascript	Orlandi	
+0	3.5	1013463	1759229	Python3	Lachrymosa	
+0	2.91	236902	2313737	C++	Tryum	
+0	2.71	1362802	1747414	Javascript	Orlandi	
 0	-5.89	1246479	2697767	Java	Bastien_Baloup	
 0	-7.92	2643826	1875932	Python3	LeoB	
 0	-8	1950105	2144744	Java	[.].-	
