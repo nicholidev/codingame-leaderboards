@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=6519,time=2020-09-25 02:40:33
+Score	UserID	Lang	Pseudo	#optim,count=6541,time=2020-09-26 04:30:53
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -130,6 +130,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6519,time=2020-09-25 02:40:33
 214920	3750700	C++	VulpesCorsac	
 214740	3965091	C		
 214510	3965095	C	Scotty9	
+214310	1757792	Java	oreshnik	
 213710	1705689	Java	XanX3601	
 212920	1284747	C++	mr-push	
 212770	154935	Scala	yamo	
@@ -367,7 +368,6 @@ Score	UserID	Lang	Pseudo	#optim,count=6519,time=2020-09-25 02:40:33
 85500	865548	Python3	Kktus	
 85350	256955	C++	cup_of_tea	
 85350	2055377	C++	Covfefe	
-84950	1757792	Java	oreshnik	
 84440	1039809	C#	Azziliz	
 84150	1302094	Clojure	terje	
 84090	2378225	Python3	okon	
@@ -847,6 +847,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6519,time=2020-09-25 02:40:33
 61240	1841740	Python3	BlindeSalt	
 61240	2245438	Javascript	NormanHK	
 61240	2180801	Python3	Gayzou	
+61240	1614797	Python3	irvcaza	
 61230	3965808	Javascript	AF2	
 61210	1053513	C#	coding_tourist	
 61200	1061778	Javascript	tJener	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=6519,time=2020-09-25 02:40:33
 59570	1788945	Python3	FabienDaniel	
 59510	1130993	C++	Azaria	
 59510	1163110	PHP	edinux	
-59500	1251381	Java	ZepHead	

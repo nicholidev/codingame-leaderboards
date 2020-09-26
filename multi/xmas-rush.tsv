@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=521,time=2020-09-25 02:40:27
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=522,time=2020-09-26 04:30:47
 5	33.77	2725066	2311007	C#	Cize	
 5	32.17	1314316	2223882	C++	jolindien	
 5	32.11	854952	2245515	C++	dolmen1234	
@@ -481,24 +481,25 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=521,time=2020-09-25 02:40:2
 0	12.64	1389861	2481697	Java	Evgenykz3	
 0	12.57	3620387	2633818	Python3	mdaw323	
 0	12.46	1743344	2495256	Javascript	ush189	
-0	12.24	3101398	2233755	Python3		
-0	11.97	1073604	2237096	C#	speedFast	
+0	12.16	3101398	2233755	Python3		
+0	11.97	2613192	2897148	C++	sigus	
 0	11.96	1491995	2418275	C#	Tyir	
-0	11.45	2202771	2349808	Java	Kaplone	
+0	11.95	3353015	2847691	Python3	Salted	
+0	11.89	1073604	2237096	C#	speedFast	
 0	11.4	2501808	2205489	Javascript	Robles	
-0	11.13	1990452	2262910	C#	Benoit_L	
-0	11.09	3353015	2847691	Python3	Salted	
-0	10.59	2613192	2897148	C++	sigus	
-0	10.55	957334	2194706	Java	Dam	
-0	10.23	1374052	2195121	Java	Pesegato	
+0	11.37	1990452	2262910	C#	Benoit_L	
+0	11.33	2202771	2349808	Java	Kaplone	
+0	10.81	2128042	3109147	Python3	johny22	
+0	10.49	957334	2194706	Java	Dam	
+0	10.18	1374052	2195121	Java	Pesegato	
 0	2.21	3763671	2782456	Javascript	esuguimo	
-0	0.97	2713608	2464179	C	LostSymphony	
-0	0.47	2410235	2312724	Python3	Joe_Black	
+0	0.85	2713608	2464179	C	LostSymphony	
+0	0.42	2410235	2312724	Python3	Joe_Black	
 0	0.37	3039344	2357904	C++	That_Undead_Legacy	
-0	0.36	959402	2671801	C#	gmessier	
 0	0.35	1816257	2338863	Python3	Bullle	
-0	0.33	2241559	2345579	Python3	eskeln	
+0	0.34	959402	2671801	C#	gmessier	
 0	0.32	3870979	3020023	C++	JobJob	
+0	0.31	2241559	2345579	Python3	eskeln	
 0	0.31	3090217	2207693	Python	you_will_never_know	
 0	0.31	3592206	2617838	C++	fanxindiandian	
 0	0.31	3464590	3012244	C	abbecool	
@@ -508,7 +509,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=521,time=2020-09-25 02:40:2
 0	0.17	3097580	2212497	Python	Flip_Flop_Destroyer	
 0	0.13	2401888	2241292	Python3	RubberDuck	
 0	0.1	523846	2679595	C#	Palmipedus	
-0	0.06	2998255	2196191	Javascript	FFS	
+0	0.05	2998255	2196191	Javascript	FFS	
 0	0.04	3332393	2459986	Java	cahii	
 0	0.03	1631358	2203838	Python3	joelthelion	
 0	0.01	2006348	2244603	Python3	Koji02	
@@ -519,4 +520,4 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=521,time=2020-09-25 02:40:2
 0	-10.8	3090212	2207687	Python	Still_a_Piece_of_Garbage	
 0	-11.09	3721214	3042936	C++	jrke	
 0	-12.27	2181365	2206272	Kotlin	Nikolaev_Alex	
-0	-12.94	3083620	2202376	Go	YoshikoHarada	
+0	-12.95	3083620	2202376	Go	YoshikoHarada	
