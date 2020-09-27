@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4659,time=2020-09-26 04:30:43
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4659,time=2020-09-27 04:10:30
 0	47.64	1433161	1484525	C	Mingu	
 0	46.24	494104	455215	C++	Recar	
 0	45.79	990110	357643	C++	Rogerup	
@@ -307,6 +307,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4659,time=2020-09-26 04:30:
 0	35.58	815677	353101	Haskell	icetonic	
 0	35.57	845360	357693	Python	user736	
 0	35.57	393267	354450	C#	M-Graf	
+0	35.55	225875	2139918	C#	leff	
 0	35.54	372352	351937	Java	Maradona	
 0	35.54	827957	352275	Python	harvestsnow	
 0	35.53	1093968	968670	Java	milosMATRIXrepic	
@@ -315,7 +316,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4659,time=2020-09-26 04:30:
 0	35.47	715431	349514	Javascript	G3r0	
 0	35.46	599629	354154	VB.NET	robwaw	
 0	35.45	1034042	357837	Java	dungeon_master	
-0	35.44	225875	2139918	C#	leff	
 0	35.44	847745	358028	PHP	Orminot	
 0	35.42	1065347	344683	C++	FinalFantasyx	
 0	35.41	1740037	2679414	Scala	ereiam	
@@ -353,10 +353,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4659,time=2020-09-26 04:30:
 0	35.01	2007852	1469765	Go	Zorg1	
 0	34.99	848989	361374	Java	revever	
 0	34.96	1353669	520665	Python3	XAnimaX	
+0	34.91	153057	744215	PHP	PierralF	
 0	34.91	464971	357920	C++	PsyGuy66	
 0	34.91	1038437	354577	Python3	dbur	
 0	34.91	1014658	354306	Ruby	ZZzzZZ	
-0	34.9	153057	744215	PHP	PierralF	
 0	34.9	153683	2487762	Dart	40R15T3	
 0	34.88	273004	355833	C++	ptitrex	
 0	34.87	846937	345706	F#	HintOfBrain	
@@ -411,7 +411,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4659,time=2020-09-26 04:30:
 0	34.29	980671	350251	Python	bwbaugh	
 0	34.27	857282	348965	C#	Scyrax	
 0	34.26	1007939	340639	Python	Poruk	
-0	34.24	1361939	415052	C	Tof0986	
 0	34.21	892056	2115851	Java	LaurentTrk	
 0	34.2	776882	505889	C#	Ersimi	
 0	34.19	1064712	2133941	C++	Daskiller	
@@ -419,6 +418,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4659,time=2020-09-26 04:30:
 0	34.17	1211916	1590022	Python3	Hobbit	
 0	34.17	957701	348873	Python	Kremlin	
 0	34.16	989912	412554	C++	Arctik3-14	
+0	34.16	1361939	415052	C	Tof0986	
 0	34.14	1065666	1479280	Python3	chuck	
 0	34.13	1584802	883891	Python3	emh	
 0	34.1	1907409	1821847	Java	coffee_machine	
