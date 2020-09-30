@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4661,time=2020-09-29 04:30:51
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4661,time=2020-09-30 03:12:13
 0	47.64	1433161	1484525	C	Mingu	
 0	46.24	494104	455215	C++	Recar	
 0	45.79	990110	357643	C++	Rogerup	
@@ -19,8 +19,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4661,time=2020-09-29 04:30:
 0	42.75	836415	363206	Java	tallo	
 0	42.72	1470031	508185	C++	gandalf	
 0	42.66	1034635	1745366	C++	SlyB	
-0	42.66	805067	499249	C++	Magus	
 0	42.66	1169499	904460	C++	naab	
+0	42.64	805067	499249	C++	Magus	
 0	42.55	1733593	1962036	C++	Wei-1	
 0	42.55	2043908	2092942	C++	AntiSquid	
 0	42.52	1314316	2081250	C++	jolindien	
@@ -250,7 +250,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4661,time=2020-09-29 04:30:
 0	36.77	1079819	357141	Bash	renolc	
 0	36.76	805637	339048	Java	Twoey	
 0	36.76	392182	689207	Java	Orgcore	
-0	36.7	806157	352683	Python3	Aveuh	
+0	36.68	806157	352683	Python3	Aveuh	
 0	36.67	341401	351400	OCaml	morf	
 0	36.67	159880	356816	Haskell	Aries	
 0	36.65	1244518	370149	Python3	Tom	
@@ -737,12 +737,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4661,time=2020-09-29 04:30:
 0	31.53	1063575	350076	C#	TomaszMalik	
 0	31.52	958245	357195	C#	himanshu.gupta	
 0	31.51	1068749	354060	C++	MarcioReis	
+0	31.51	1061532	346403	Javascript	SnowDragon	
 0	31.51	1000199	357975	C	Zlatko	
 0	31.48	899864	355611	PHP	therainycat	
 0	31.47	543181	353244	Java	dominisz	
 0	31.46	1376803	414523	Javascript	salvan13	
 0	31.46	2659851	2855235	OCaml	ElianeCasassa	
-0	31.45	1061532	346403	Javascript	SnowDragon	
 0	31.45	1307473	476155	C++	Evgenykz	
 0	31.45	600941	347351	C++	mrv	
 0	31.44	1728217	1122731	C#	_spoon_	
@@ -866,13 +866,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4661,time=2020-09-29 04:30:
 0	30.64	814356	341152	C#	gaps	
 0	30.62	1294175	375132	C#	Dima_Ahramovich	
 0	30.59	1045904	357572	Javascript	farzher	
-0	30.59	523322	344918	C++	cocodrips	
 0	30.57	619211	348432	Java	Thrain	
 0	30.54	1068404	449434	C#	Naveronen	
 0	30.54	1442155	469659	Java	AllAllAll	
 0	30.54	2290633	1615815	Python3	field3	
 0	30.52	1188273	370204	Python3	DevNico	
 0	30.52	1451495	492094	C++	TallDwarf	
+0	30.52	523322	344918	C++	cocodrips	
 0	30.52	903179	862696	Java	maksmas	
 0	30.52	3734880	2754610	Swift	DavidJangdal	
 0	30.52	1068125	344809	Lua	Irvineflon	
