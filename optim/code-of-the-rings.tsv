@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3860,time=2020-09-30 03:12:24
+Score	UserID	Lang	Pseudo	#optim,count=3862,time=2020-10-01 05:27:09
 2759	1301401	C#	Stanax	
 2761	1833680	C++	jvivenot	
 2765	2288263	Rust	dbdr	
@@ -24,10 +24,10 @@ Score	UserID	Lang	Pseudo	#optim,count=3860,time=2020-09-30 03:12:24
 3221	403748	C#	[CG]SaiksyApo	
 3236	3845610	Python3	pardouin	
 3238	1477749	C++	Shadeke	
+3278	3545248	Kotlin	amkad	
 3285	3230794	Python3	tutubalin	
 3290	1136521	C	nadrek	
 3294	1798477	C#	mnivet	
-3307	3545248	Kotlin	amkad	
 3333	973040	F#	papyjo	
 3340	2311105	C++	kovi	
 3356	154984	PHP	_Royale	
@@ -623,7 +623,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3860,time=2020-09-30 03:12:24
 5852	1400864	C++	Markoz	
 5852	3043998	Python3	Linch	
 5852	3407821	Go	SuperBandit228	
-5853	962495	C	Hiboot	
+5853	962495	C	e-boot	
 5854	2717306	Python3	ewindels	
 5854	3046779	Python3	Kathrin	
 5856	1122412	Java	TheNinja	
@@ -833,6 +833,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3860,time=2020-09-30 03:12:24
 5898	1082806	Python3	LowSkill	
 5898	2143315	Python3	FluffyToaster	
 5898	1879134	Python3	Mennimoor	
+5898	2071429	Python3	Mgcat	
 5899	808652	C#	Tarnation	
 5899	1314976	Java	MakeItBetter	
 5899	2122466	Python3	Stumblinbear	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=3860,time=2020-09-30 03:12:24
 5975	174849	Java	Iuliia	
 5975	1742197	C++	Wikenta	
 5975	1815922	Javascript	Knutas	
-5975	1020347	Javascript	Fragile	

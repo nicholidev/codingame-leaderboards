@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=6596,time=2020-09-30 03:12:23
+Score	UserID	Lang	Pseudo	#optim,count=6605,time=2020-10-01 05:27:08
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -45,6 +45,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6596,time=2020-09-30 03:12:23
 355820	3410351	C	Deltaspace	
 354120	1479930	C++	LeRenard	
 353640	1489865	C++	EricSMSO	
+352600	3513265	C++	DaNinja	
 351930	735487	C	amurushkin	
 351280	2350415	C++	Vintarel	
 349860	1106450	C++	RiSuS	
@@ -65,7 +66,6 @@ Score	UserID	Lang	Pseudo	#optim,count=6596,time=2020-09-30 03:12:23
 286210	153774	C++	cocoche007	
 285300	1267417	C++	co42	
 279790	3389226	C#	Peti88	
-278520	3513265	C++	DaNinja	
 273310	622213	Python3	Ornicare	
 270280	3952328	C++	Lambdadelta	
 269430	1880197	C	bicklil	
@@ -290,6 +290,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6596,time=2020-09-30 03:12:23
 131240	415618	Java	kow	
 131130	1188212	C	superredlark	
 131090	404777	C++	Joodoc	
+130860	962495	C++	e-boot	
 130830	1573118	Kotlin	jfkdeveloper	
 128580	2158902	Clojure	Snowbart	
 127930	1304434	Java	MP-63	
@@ -304,11 +305,11 @@ Score	UserID	Lang	Pseudo	#optim,count=6596,time=2020-09-30 03:12:23
 122730	3264942	C#	maskit	
 122410	2455124	C	agiordan	
 120310	1498163	Java	Ben-oit	
+118880	1495694	Python3	MisterJensen	
 118800	829018	C++	alchemsti	
 118370	728898	Python3	DaddysPrincess	
 118210	903443	Scala	adriens	
 117420	231653	C++	kappy	
-116210	962495	C++	Hiboot	
 114440	1741901	Go	Jerome_Laforge	
 113480	3310317	Python3	AWOL	
 113140	965891	Javascript	ElanVB	
@@ -913,6 +914,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6596,time=2020-09-30 03:12:23
 60710	3365055	C++	JohnKnight	
 60700	3962136	Python3	l4hg	
 60690	3928561	Python3	jheiv	
+60680	3976310	Python3	GuillaumeRicou	
 60650	733335	Java	DJNour	
 60650	154314	PHP	tremran	
 60620	780240	C#	Manners	
@@ -997,5 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=6596,time=2020-09-30 03:12:23
 59670	1501869	C#	Emelion	
 59670	2175156	Javascript	nnorb93	
 59660	1086214	Perl	bor	
-59660	1871872	C#	Mimetis	
-59660	3979204	Python3	Ajota999	
