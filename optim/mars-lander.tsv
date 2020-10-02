@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3000,time=2020-10-01 05:27:07
+Score	UserID	Lang	Pseudo	#optim,count=3004,time=2020-10-02 02:43:39
 2509	1327028	C++	FredericBautista	
 2507	154372	Bash	Plopx	
 2504	1695697	Python3		
@@ -387,7 +387,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3000,time=2020-10-01 05:27:07
 1991	3899778	Java	Mappator	
 1991	3387410	Java	Paolo_Rzf	
 1991	3921345	Java	JFP81	
-1991	3983310	Java	Mukhalieva_Sabina	
+1991	3983310	Java		
 1991	3975966	Java	sem87	
 1990	876163	C#	AY1111	
 1989	2155687	Scala	NilsTheWizzard	
@@ -984,6 +984,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3000,time=2020-10-01 05:27:07
 1771	3979131	Java	David_Szmul	
 1771	3947806	C#	Kr4unos	
 1771	2171941	Java	Nebsorg	
+1771	365796	C++	CvxFous	
 1769	1433450	Python3	Gucci	
 1768	1182518	C++	AaronRuel	
 1768	416762	C#	Khao	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=3000,time=2020-10-01 05:27:07
 1763	951536	C#	Spiridush	
 1763	1782814	Java	Trilusion	
 1761	1726191	Java	rdlopes	
-1761	2260965	Java	LordOfBehemoths	

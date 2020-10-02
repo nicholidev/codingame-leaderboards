@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=6605,time=2020-10-01 05:27:08
+Score	UserID	Lang	Pseudo	#optim,count=6619,time=2020-10-02 02:43:40
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -196,6 +196,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6605,time=2020-10-01 05:27:08
 182510	446956	C++	FranMowinckel	
 182170	1830993	C#	jpcheck	
 181840	1712255	Go	Ukster	
+181020	1611699	Java	EpiFlop	
 180950	1709003	Java	csaurin	
 179700	1842010	C#	southpolenator	
 179350	3823601	Python3	cysong	
@@ -252,6 +253,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6605,time=2020-10-01 05:27:08
 150900	1584802	Python3	emh	
 150400	563069	Python3	Darkris	
 149650	2339129	Python3	ChristianSloper	
+148800	962495	C++	e-boot	
 148620	1743375	Java	redav	
 148500	2420671	Go	Irioth	
 147170	826008	C++	Savlik5	
@@ -290,7 +292,6 @@ Score	UserID	Lang	Pseudo	#optim,count=6605,time=2020-10-01 05:27:08
 131240	415618	Java	kow	
 131130	1188212	C	superredlark	
 131090	404777	C++	Joodoc	
-130860	962495	C++	e-boot	
 130830	1573118	Kotlin	jfkdeveloper	
 128580	2158902	Clojure	Snowbart	
 127930	1304434	Java	MP-63	
@@ -299,13 +300,14 @@ Score	UserID	Lang	Pseudo	#optim,count=6605,time=2020-10-01 05:27:08
 127410	1698954	Java	Neurovul	
 125820	1456860	Java	Ulli85	
 125800	3226448	Python3	tobk	
+124660	1495694	Python3	MisterJensen	
 124100	1851160	C#	Fabienvs	
 123700	783555	C#	Colin88	
 123050	3319855	C#	Drobor	
 122730	3264942	C#	maskit	
 122410	2455124	C	agiordan	
+121520	1506967	Java	Misterjony	
 120310	1498163	Java	Ben-oit	
-118880	1495694	Python3	MisterJensen	
 118800	829018	C++	alchemsti	
 118370	728898	Python3	DaddysPrincess	
 118210	903443	Scala	adriens	
@@ -374,6 +376,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6605,time=2020-10-01 05:27:08
 84440	1039809	C#	Azziliz	
 84150	1302094	Clojure	terje	
 84090	2378225	Python3	okon	
+82750	1457162	Python3	JFB	
 82090	2387233	C#	SinOfWrath	
 81950	1245647	C++	[CPC]Herbert	
 81750	360942	Rust	Amev	
@@ -946,6 +949,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6605,time=2020-10-01 05:27:08
 60310	962108	Java	fred-godard	
 60300	1735693	Java	superbob	
 60300	3564009	Lua	Waffle3z	
+60290	3956109	Python3	saquintes	
 60280	995238	Lua	Pyvain	
 60280	2491616	Haskell	abt8601	
 60250	1142942	Javascript	Aquamoth	
@@ -995,7 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=6605,time=2020-10-01 05:27:08
 59750	2407994	Python3	EliasHasle	
 59750	1194054	C++	Bidembois	
 59680	893207	C++	alexander34ro	
-59670	1124164	Python3	Frunit	
-59670	1501869	C#	Emelion	
-59670	2175156	Javascript	nnorb93	
-59660	1086214	Perl	bor	

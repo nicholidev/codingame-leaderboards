@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=39,time=2020-10-01 01:26:12
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=40,time=2020-10-02 00:30:03
 3	30.23	1186250	3115482	Python3	Gabbek	
 3	30.07	2288263	2696905	Rust	dbdr	
 3	28.45	1479930	2680171	C++	LeRenard	
@@ -30,11 +30,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=39,time=2020-10-01 01:26:12
 2	10.62	2923506	2682340	C++	darkhorse64	
 2	5.97	1029602	2695889	C	Potemkine	
 1	10.32	1412263	3073118	PHP	PatrickMcGinnisII	
-0	7.48	2043908	2680280	D	AntiSquid	
-0	7.45	2325449	2985364	Perl	otpv	
-0	7.43	1713174	2683174	Python3	BigUP	
-0	7.42	3386139	3027710	Python3	MaliciouslyCrypticUsername	
-0	7.42	3464590	3012280	C	abbecool	
-0	7.41	1341520	3002283	Java	egaetan	
-0	7.33	1854639	2995988	C#	iDxMeG	
-0	7.31	523846	2828228	C#	Palmipedus	
+0	7.6	2043908	2680280	D	AntiSquid	
+0	7.55	2325449	2985364	Perl	otpv	
+0	7.54	3386139	3027710	Python3	MaliciouslyCrypticUsername	
+0	7.53	1713174	2683174	Python3	BigUP	
+0	7.53	3464590	3012280	C	abbecool	
+0	7.52	523846	2828228	C#	Palmipedus	
+0	7.47	1854639	2995988	C#	iDxMeG	
+0	7.45	1341520	3002283	Java	egaetan	
+0	7.4	3808031	3116670	Ruby	_proton	
