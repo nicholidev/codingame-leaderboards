@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=70,time=2020-10-02 02:43:33
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=71,time=2020-10-03 03:59:26
 1	44.17	2522090	3074478	C++	MSmits	
 1	41.34	3136787	3050532	C++	jacek	
 1	40.86	2288263	3024723	Rust	dbdr	
@@ -26,7 +26,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=70,time=2020-10-02 02:43:33
 0	28.58	1566335	3022377	Java	BeardedWhale	
 0	26.89	1114834	3036581	C++	k4ng0u	
 0	25.21	1753077	3087359	Python3	codingWhale	
-0	23.47	3501027	3041694	C++	SteelSky	
+0	23.54	3501027	3041694	C++	SteelSky	
 0	23.32	2050244	3012967	Python3	Cezuriku	
 0	21.47	1412263	3021225	PHP	PatrickMcGinnisII	
 0	21.22	2290633	3058453	Python3	field3	
@@ -36,7 +36,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=70,time=2020-10-02 02:43:33
 0	20.72	1484839	3029458	C++	sparky	
 0	20.18	3841823	3019932	C#	hadesblade	
 0	20.13	1523900	3031735	C++	marwin	
-0	20.03	2833929	3067052	Python3	Pierre_C	
+0	20.09	2833929	3067052	Python3	Pierre_C	
 0	19.69	2592027	3025137	C#	ParticleBeam	
 0	19.03	2007852	3012746	Lua	Zorg1	
 0	19.03	1480384	3027371	C++	RockyMullet	
@@ -51,21 +51,22 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=70,time=2020-10-02 02:43:33
 0	16.09	1713174	3013680	Python3	BigUP	
 0	15.62	2508635	3013859	Java	hemhel	
 0	15.54	820000	3019586	C++	ValGrowth	
-0	15.17	1378958	3013233	C#	Illedan	
-0	15.02	1830993	3065361	C#	jpcheck	
-0	14.99	889789	3016981	C	Alain-Delpuch	
-0	14.88	1968089	3031971	C++	MarcinDus	
-0	14.26	158495	3077507	Javascript	Cr3aHal0	
-0	13.69	3646346	3081060	PHP	Pingwi85	
-0	13.44	3808031	3032315	Ruby	_proton	
-0	13.43	3749793	3015866	Python3	WINWINWIN	
-0	13.35	2081550	3020449	Java	muy31	
-0	13.32	1540478	3032959	Java	struct	
-0	13.13	3932077	3082627	Javascript	CopperFr	
-0	12.01	3593941	3085753	Python3	Spielzeugente	
-0	0.46	3985519	3105505	C++	aiko_baigo	
-0	-2.03	3699033	3031778	C++	Bitwise	
-0	-2.05	3985506	3105504	C++	iwatachan	
-0	-3.17	513153	3041996	C++	voidle	
-0	-3.3	3911100	3051301	Java	nontyan	
+0	15.21	1830993	3065361	C#	jpcheck	
+0	15.13	1378958	3013233	C#	Illedan	
+0	15.01	889789	3016981	C	Alain-Delpuch	
+0	14.92	1968089	3031971	C++	MarcinDus	
+0	14.82	158495	3077507	Javascript	Cr3aHal0	
+0	13.63	3646346	3081060	PHP	Pingwi85	
+0	13.48	2081550	3020449	Java	muy31	
+0	13.45	3808031	3032315	Ruby	_proton	
+0	13.42	1540478	3032959	Java	struct	
+0	13.39	3749793	3015866	Python3	WINWINWIN	
+0	13.35	3932077	3082627	Javascript	CopperFr	
+0	12.32	3593941	3085753	Python3	Spielzeugente	
+0	12.1	1194069	3117290	Java	Redstrike	
+0	0.39	3985519	3105505	C++	aiko_baigo	
+0	-2.09	3699033	3031778	C++	Bitwise	
+0	-2.1	3985506	3105504	C++	iwatachan	
+0	-3.25	513153	3041996	C++	voidle	
+0	-3.33	3911100	3051301	Java	nontyan	
 0	-4.81	2006348	3041789	C++	Koji02	
