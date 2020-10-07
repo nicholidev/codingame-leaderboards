@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=6666,time=2020-10-06 02:39:48
+Score	UserID	Lang	Pseudo	#optim,count=6679,time=2020-10-07 03:30:43
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -52,6 +52,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6666,time=2020-10-06 02:39:48
 348770	2962968	C#	Pukunya	
 348360	1354295	C	AbdullahKhawer	
 348130	918352	C++	CoYoTe99	
+330670	3952328	C++	Lambdadelta	
 322820	186179	C++	Nagrarok	
 319900	1756952	C++	Petras	
 317110	1064903	C++	Ghirtor	
@@ -67,7 +68,6 @@ Score	UserID	Lang	Pseudo	#optim,count=6666,time=2020-10-06 02:39:48
 285300	1267417	C++	co42	
 279790	3389226	C#	Peti88	
 273310	622213	Python3	Ornicare	
-270280	3952328	C++	Lambdadelta	
 269430	1880197	C	bicklil	
 269100	1845617	C++	Shingyx	
 268480	889789	C	Alain-Delpuch	
@@ -240,6 +240,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6666,time=2020-10-06 02:39:48
 160430	1525057	PHP	XABPyK.A	
 160250	1610001	C++	Babilonio	
 159910	2566623	PHP	VincentBab	
+159730	1495694	C++	MisterJensen	
 159610	1125115	C#	RafaelSan	
 158400	2731276	C++	panda42	
 158380	2064511	Java	SemenyutenkoAndrey	
@@ -297,12 +298,12 @@ Score	UserID	Lang	Pseudo	#optim,count=6666,time=2020-10-06 02:39:48
 130830	1573118	Kotlin	jfkdeveloper	
 128580	2158902	Clojure	Snowbart	
 127930	1304434	Java	MP-63	
+127750	1479137	C++	lorenzods	
 127700	321382	Java	l-lin	
 127530	840401	Python3	pedrosorio	
 127410	1698954	Java	Neurovul	
 125820	1456860	Java	Ulli85	
 125800	3226448	Python3	tobk	
-124660	1495694	Python3	MisterJensen	
 124100	1851160	C#	Fabienvs	
 123700	783555	C#	Colin88	
 123050	3319855	C#	Drobor	
@@ -366,7 +367,6 @@ Score	UserID	Lang	Pseudo	#optim,count=6666,time=2020-10-06 02:39:48
 88410	425477	Java	selslack	
 88150	992078	Java	TheNumberOne	
 88080	1172385	C#	LuckyMe	
-87940	1479137	C++	lorenzods	
 87200	1413544	C#	Christian1978	
 86460	1213898	Kotlin	Gubbel	
 86420	1335230	Java	jft63	
@@ -881,6 +881,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6666,time=2020-10-06 02:39:48
 61120	2718928	C#	CloudChan	
 61110	2356272	C++	Xood	
 61110	977290	Python3	Darklighter	
+61110	2004703	Python3	Clafrelie	
 61090	1030884	C++	pr0v3rbs	
 61090	404005	C	myzro	
 61090	961929	Java	Marcaunon	
@@ -915,7 +916,6 @@ Score	UserID	Lang	Pseudo	#optim,count=6666,time=2020-10-06 02:39:48
 60890	1082488	C#		
 60890	924412	C#	chidrik	
 60890	3649888	Python3	tr0j4nh0r53	
-60890	2004703	Python3	Clafrelie	
 60860	169033	Groovy	Yasser	
 60840	3035786	Python3	Monkris	
 60820	2174291	Python3	dirtydogdave	
