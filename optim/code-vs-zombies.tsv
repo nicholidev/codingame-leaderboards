@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=6679,time=2020-10-07 03:30:43
+Score	UserID	Lang	Pseudo	#optim,count=6691,time=2020-10-08 04:04:29
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -94,6 +94,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6679,time=2020-10-07 03:30:43
 239160	2232811	Javascript	nargile	
 238100	2579384	Rust	vlad107	
 235920	1611699	Java	EpiFlop	
+234820	976712	C++	Ridakz	
 234730	1109979	C++	Gloopy	
 234560	1831684	Java	dbf	
 234480	1206537	C++	MadKnight	
@@ -229,6 +230,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6679,time=2020-10-07 03:30:43
 168750	1495394	C#	qwerty_42	
 168080	484004	C#	aCat	
 168040	2321957	C++	Xenoid	
+166770	1495694	C++	MisterJensen	
 164750	3298988	C#	PotatoCoder	
 164440	222390	Python3	JohnErikSloper	
 164360	1833680	C++	jvivenot	
@@ -240,7 +242,6 @@ Score	UserID	Lang	Pseudo	#optim,count=6679,time=2020-10-07 03:30:43
 160430	1525057	PHP	XABPyK.A	
 160250	1610001	C++	Babilonio	
 159910	2566623	PHP	VincentBab	
-159730	1495694	C++	MisterJensen	
 159610	1125115	C#	RafaelSan	
 158400	2731276	C++	panda42	
 158380	2064511	Java	SemenyutenkoAndrey	
@@ -253,10 +254,10 @@ Score	UserID	Lang	Pseudo	#optim,count=6679,time=2020-10-07 03:30:43
 154980	414278	Java	oobException	
 153110	2361019	Python3	kleisauke	
 151360	1131528	C	Owl	
+151080	962495	C++	e-boot	
 150900	1584802	Python3	emh	
 150400	563069	Python3	Darkris	
 149650	2339129	Python3	ChristianSloper	
-148800	962495	C++	e-boot	
 148620	1743375	Java	redav	
 148500	2420671	Go	Irioth	
 147170	826008	C++	Savlik5	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=6679,time=2020-10-07 03:30:43
 59840	1015754	C++	Sinek	
 59840	1509764	Python3	flimmerkiste	
 59830	524398	C	gadic	
-59830	1377805	Java	MHavlovick	
