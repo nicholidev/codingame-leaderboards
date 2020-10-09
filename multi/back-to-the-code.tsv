@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4663,time=2020-10-08 04:04:19
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4663,time=2020-10-09 04:30:26
 0	47.64	1433161	1484525	C	Mingu	
 0	46.24	494104	455215	C++	Recar	
 0	45.79	990110	357643	C++	Rogerup	
@@ -136,7 +136,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4663,time=2020-10-08 04:04:
 0	38.4	2639926	2356200	OCaml	PROF-LIV	
 0	38.39	2378983	2079400	C++	jonip	
 0	38.33	682376	356493	Java	fraagol	
-0	38.32	781040	353371	C	startega	
 0	38.31	157377	365493	Javascript	McKelian	
 0	38.31	1077559	1330493	C++	PhOeNyX	
 0	38.3	193315	362858	Dart	hau	
@@ -147,6 +146,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4663,time=2020-10-08 04:04:
 0	38.25	1673971	1113063	C++	Lanken	
 0	38.25	877850	348071	Java	Edin	
 0	38.24	2073179	1420299	C++	Biwere	
+0	38.23	781040	353371	C	startega	
 0	38.22	712421	347830	Java	Kiwi	
 0	38.2	1068877	370315	C++	[CPC]Tamno	
 0	38.2	984109	353465	OCaml	LeCaRiBoU	
@@ -181,6 +181,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4663,time=2020-10-08 04:04:
 0	37.62	380641	357191	C#	Mercadis	
 0	37.6	811164	353766	C#	tonynogo	
 0	37.59	1335230	2105553	C++	jft63	
+0	37.59	1189812	367775	C#	kagary06	
 0	37.59	1489865	1099783	C++	EricSMSO	
 0	37.58	715319	339017	C#	poksh	
 0	37.57	170619	355334	ObjectiveC	laevand	
@@ -191,7 +192,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4663,time=2020-10-08 04:04:
 0	37.54	935565	354751	Java	Vil_Rouquin	
 0	37.53	1399852	456793	C++	Thaell	
 0	37.52	972854	494282	Python	MrXo	
-0	37.51	1189812	367775	C#	kagary06	
 0	37.5	2924895	2674548	Java	trictrac	
 0	37.47	1113826	2092499	VB.NET	KingJack	
 0	37.46	1348523	963697	C++	Numb_	
@@ -608,8 +608,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4663,time=2020-10-08 04:04:
 0	32.64	1427078	485036	Java	ToshiTuringMachine	
 0	32.63	704737	368735	Python	Azelo	
 0	32.62	389175	355844	Java	Folkenn84	
-0	32.62	1339431	3047741	Javascript	Enie	
 0	32.62	153678	459452	Go	dknn	
+0	32.62	1339431	3047741	Javascript	Enie	
 0	32.6	940262	357776	Python3	f	
 0	32.6	1070477	382458	Java	Stirius	
 0	32.59	1583240	768152	Java	SamuelPoulin	

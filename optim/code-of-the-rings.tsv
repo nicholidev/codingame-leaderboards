@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3892,time=2020-10-08 04:04:29
+Score	UserID	Lang	Pseudo	#optim,count=3896,time=2020-10-09 04:52:09
 2759	1301401	C#	Stanax	
 2761	1833680	C++	jvivenot	
 2765	2288263	Rust	dbdr	
@@ -276,6 +276,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3892,time=2020-10-08 04:04:29
 4379	1654818	Python3	tarapitha	
 4380	808780	Scala	nautilus	
 4385	1848459	Java	perlebach	
+4388	2837454	Java	Inc_	
 4389	552776	Javascript	player_one	
 4397	1879852	Java		
 4402	2676033	C++	lmat	
@@ -290,7 +291,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3892,time=2020-10-08 04:04:29
 4467	574371	Javascript	Dillysfriend	
 4471	1734105	Python3	Bibou	
 4476	154348	ObjectiveC	ProYd	
-4477	2837454	Java	Inc_	
 4482	1487535	Perl	SvartRiddare	
 4483	2250452	Python3	Isac	
 4490	599674	Javascript	NinetyOne	
@@ -326,6 +326,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3892,time=2020-10-08 04:04:29
 4617	3167968	C++	Master_Zain	
 4617	2786666	C++	TetraktysPhi	
 4617	3622757	C++	anid	
+4617	4006172	C++		
 4622	399039	Java	psign	
 4622	799904	C++	iwashi31	
 4623	940467	Java		
@@ -483,6 +484,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3892,time=2020-10-08 04:04:29
 5659	759912	Javascript	felipeptcho	
 5659	2792232	Python3	Monoterpene	
 5660	3414863	Javascript	smsalisbury	
+5660	3902927	Python3	Bulgot	
 5664	1488054	C++	vsakraf	
 5668	1501735	Python3	bernardlavilliers	
 5673	438981	Clojure	Drowsy	
@@ -575,11 +577,11 @@ Score	UserID	Lang	Pseudo	#optim,count=3892,time=2020-10-08 04:04:29
 5800	155934	PHP	Ninsuo	
 5800	304126	PHP	kami	
 5801	829472	ObjectiveC	andris	
+5801	3951098	Python3	SlurpasGasskagg	
 5805	1527403	C++	Di_Masta	
 5809	3770485	C++	zakki	
 5811	1706883	C#	CommanderCero	
 5811	2320186	Java	aPoStAl	
-5811	3902927	Python3	Bulgot	
 5812	2932889	Python3	shushiri	
 5815	186405	C#	d-mark	
 5815	1392051	C#	HaydenWilliamRead	
@@ -912,6 +914,8 @@ Score	UserID	Lang	Pseudo	#optim,count=3892,time=2020-10-08 04:04:29
 5928	3745240	Javascript	Murch	
 5928	3166298	C++	DennisTheMenace	
 5928	3836429	Python3	Hippolyte	
+5928	3496153	Python3	lndshs	
+5928	2510517	Ruby	Turtlefight	
 5929	900697	C++	Mieszko	
 5930	838400	Javascript	SmokeyPHP	
 5930	1215643	Java	Verjok	
@@ -995,7 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=3892,time=2020-10-08 04:04:29
 5967	268845	Perl	Origraena	
 5967	1764472	Javascript	zwilias	
 5967	2780512	Javascript	--------------	
-5967	1893660	Javascript	RichardRoe	
-5967	2323725	Javascript	GMartigny	
-5967	3430435	Javascript	DocteurWong	
-5970	1125115	C#	RafaelSan	
