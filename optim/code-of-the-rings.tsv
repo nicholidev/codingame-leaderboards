@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3900,time=2020-10-10 02:30:24
+Score	UserID	Lang	Pseudo	#optim,count=3904,time=2020-10-11 04:41:24
 2759	1301401	C#	Stanax	
 2761	1833680	C++	jvivenot	
 2765	2288263	Rust	dbdr	
@@ -180,6 +180,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3900,time=2020-10-10 02:30:24
 3976	1778295	Javascript	41x	
 3977	1724069	Python3	jmpeg	
 3978	1188212	ObjectiveC	superredlark	
+3982	3902927	Python3	Bulgot	
 3991	1802935	C#		
 3996	320053	PHP	Zbug	
 3997	876163	C#	AY1111	
@@ -350,6 +351,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3900,time=2020-10-10 02:30:24
 4718	1814485	C#	Fluttershy	
 4737	3835659	Rust	Nimatt	
 4739	1053198	Python3	ProfessorWolf	
+4756	2802157	Python3	HKit	
 4760	940262	Java	f	
 4761	188674	Java	Dravini	
 4766	841420	C#	RandomVariable	
@@ -387,7 +389,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3900,time=2020-10-10 02:30:24
 5113	1400179	C++	reCurse	
 5123	825049	Java	Scheronimus	
 5137	3871875	TypeScript	hector7	
-5152	3902927	Python3	Bulgot	
 5158	3340884	Python3	sd001034	
 5175	953062	C++	rouviecy	
 5178	3525167	Python3	fgsdt	
@@ -483,6 +484,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3900,time=2020-10-10 02:30:24
 5648	1504684	Javascript	entrpy	
 5648	1627246	Javascript	katutaistelija	
 5650	1156798	C++	taka-no-me	
+5652	3965571	Python3	Smekarn	
 5656	631359	Python3	Aratz	
 5659	759912	Javascript	felipeptcho	
 5659	2792232	Python3	Monoterpene	
@@ -542,7 +544,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3900,time=2020-10-10 02:30:24
 5752	1632895	Python3	CodinMonkey	
 5754	854169	Python3	Silmaen	
 5755	347029	Go	Kevapo	
-5755	3965571	Python3	Smekarn	
 5758	626535	Clojure	Halasimov	
 5759	1489865	C++	EricSMSO	
 5760	228826	C++	Snark	
@@ -885,6 +886,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3900,time=2020-10-10 02:30:24
 5915	1568785	C	Chalzy	
 5915	1213898	Kotlin	Gubbel	
 5915	3342702	Scala	Tordalk	
+5915	3991913	Python3	charlem	
 5916	1833749	Javascript	yusech	
 5916	1704896	C#	Starfer	
 5917	809204	Java	Porthos3	
@@ -997,5 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=3900,time=2020-10-10 02:30:24
 5966	1712304	Python3	Kariiboo	
 5966	1170878	Javascript	Scub	
 5966	2628455	Python3	PDF	
-5967	268845	Perl	Origraena	
-5967	1764472	Javascript	zwilias	
