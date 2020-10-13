@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=824,time=2020-10-12 02:32:25
+Score	UserID	Lang	Pseudo	#optim,count=824,time=2020-10-13 02:54:41
 11902	2288263	Rust	dbdr	
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
@@ -391,6 +391,7 @@ Score	UserID	Lang	Pseudo	#optim,count=824,time=2020-10-12 02:32:25
 2358	3778409	Kotlin	l_o_g_a_n	
 2339	650661	Ruby	Syro	
 2335	1641962	Javascript		
+2335	1495694	C++	MisterJensen	
 2307	765559	C#	Shelby	
 2300	1739595	C++	Bemethor	
 2292	2464160	Ruby	Taeth	
@@ -737,7 +738,6 @@ Score	UserID	Lang	Pseudo	#optim,count=824,time=2020-10-12 02:32:25
 1045	3978902	Python3	moonaliman	
 1045	3994605	Python3		
 1045	3946057	Go	kvitebjonn	
-1045	1495694	Python3	MisterJensen	
 1041	1074744	Java	GwenGlSoft	
 1039	1129000	Python3	ChairmanOfTheBored	
 1033	1243354	C++	RSBat	

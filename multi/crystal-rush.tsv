@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2335,time=2020-10-12 02:32:18
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2335,time=2020-10-13 02:49:25
 4	36.07	3193653	2708375	C++	karliso	
 4	32.35	2577687	2707833	C++	blasterpoard	
 4	32.01	3502867	2707285	C++	The_Duck	
@@ -745,7 +745,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2335,time=2020-10-12 02:32:
 2	24.6	2373019	2708718	C++	witty3	
 2	24.6	1243876	2707646	Python3	Hi-Low_World	
 2	24.53	826277	2708206	C++	Prayer	
-2	24.47	230015	2708645	Java	Kolo9	
+2	24.51	230015	2708645	Java	Kolo9	
 2	24.47	225875	2707609	C#	leff	
 2	24.42	2508635	2709400	Java	hemhel	
 2	24.42	1452463	2707832	Python3	Tristannah	
@@ -802,7 +802,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2335,time=2020-10-12 02:32:
 2	22.53	373834	2707573	Javascript	Pirquessa	
 2	22.48	2005504	2707975	Python3	TomerBG	
 2	22.46	3497440	2709142	Javascript	Zwei	
-2	22.36	1566179	2707289	C#	ArcaneSaint	
+2	22.41	1566179	2707289	C#	ArcaneSaint	
 2	22.33	2662460	2708810	C#	Gamli	
 2	22.32	3775942	2817211	C++		
 2	22.3	2842613	2709165	Kotlin	Olegeech	
@@ -848,11 +848,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2335,time=2020-10-12 02:32:
 2	21.79	3125495	2707130	Java	Ezzou	
 2	21.77	2360690	2707059	Python3	Galrauch	
 2	21.75	2228881	3061959	Java	praxus	
-2	21.7	2401975	2708170	Java	KeepCaIm	
 2	21.68	3136376	2708981	Python3	O_A_K	
 2	21.67	3477190	2707986	Javascript		
 2	21.66	154906	2708605	Haskell	JBM	
 2	21.64	2978776	2707354	Python3	ChrisDerPlayer	
+2	21.64	2401975	2708170	Java	KeepCaIm	
 2	21.63	973627	2708231	Java	Denman	
 2	21.63	886127	2708351	Python3	TillZas	
 2	21.59	1295850	2708311	Java	EvbCFfp1XB	
@@ -938,6 +938,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2335,time=2020-10-12 02:32:
 2	19.86	1132011	2708047	C#	pci	
 2	19.85	1760921	2707947	D	[Leonardone]-[-_-]-[NEETSDKASU]	
 2	19.84	1375873	2708027	TypeScript	Serhio	
+2	19.83	3406868	2709009	Python3	roboto100	
 2	19.8	1981732	2707704	F#	MJS	
 2	19.8	3523160	2707180	Java	SteveDkt	
 2	19.79	1657489	2707592	C#	threecourse	
@@ -945,7 +946,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2335,time=2020-10-12 02:32:
 2	19.76	1715198	2708077	Javascript	Devok	
 2	19.75	1160218	2707575	C#	unimatrixZero	
 2	19.73	1580598	2707375	Python3	syveqc	
-2	19.71	3406868	2709009	Python3	roboto100	
 2	19.7	1182711	2707748	C++	FiringSquad	
 2	19.66	3127864	2708236	Python3	TeamT	
 2	19.66	1784238	2707623	C#	DoLaMi	
@@ -971,31 +971,31 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2335,time=2020-10-12 02:32:
 2	19.21	862336	3003082	C++	Zaphus	
 2	19.17	563069	2707963	Python3	Darkris	
 2	19.16	3454439	2707754	Python3	Darinman	
+2	19.16	3406454	2708559	Python3	Wolfierce	
 2	19.13	2100572	2707854	Python3	sirsatan	
-2	19.05	3406454	2708559	Python3	Wolfierce	
 2	19.05	3264225	2709213	C#	Shadawn	
+2	19	1386456	2708030	C#	wvsever	
 2	18.99	3245013	2707240	C++	DSG213	
-2	18.89	1386456	2708030	C#	wvsever	
+2	18.89	2928775	2708525	Python3	bob111	
 2	18.87	780361	2708074	C++	BrutalCommiterInSpace	
 2	18.86	154289	2707647	PHP	lithrel	
 2	18.86	1627356	2708427	Dart	Pelker	
 2	18.8	1751832	2709181	C++	buikikaesu	
-2	18.77	2928775	2708525	Python3	bob111	
 2	18.76	1792532	2707881	C#	Zanbez	
+2	18.69	3504257	2708537	Java	NidhiGupta	
+2	18.65	3455434	2708314	Python3	DJo	
 2	18.65	950385	2709043	Java	Mamario	
 2	18.64	1703514	2707061	Javascript	Alejandrov	
-2	18.62	3433338	2709074	C#	RedRabbit	
 2	18.61	836415	2707472	Java	tallo	
 2	18.6	569247	2708416	Python3	LaurentBouvier	
 2	18.59	2729055	2707968	C++	twray2	
-2	18.57	3504257	2708537	Java	NidhiGupta	
-2	18.54	3455434	2708314	Python3	DJo	
+2	18.54	3433338	2709074	C#	RedRabbit	
 2	18.52	2169730	2708036	C	pranky	
 2	18.52	1765087	2709001	C++	SepehrS	
-2	18.51	1109837	2707628	Javascript	ziu	
 2	18.5	2191163	3048955	Lua	Arteries	
+2	18.48	826372	2708568	Java	skyyker	
 2	18.48	2948157	2707761	Javascript	ztunisia	
 2	18.47	1968818	2708983	C++	TeamTurtle	
-2	18.38	1333869	2709109	Python3	kiwijam	
-2	18.38	3489570	2708825	Java	devleesch	
-2	18.37	2437510	2708715	C++	magsif	
+2	18.46	3230794	2827308	Python3	tutubalin	
+2	18.43	1109837	2707628	Javascript	ziu	
+2	18.42	1333869	2709109	Python3	kiwijam	
