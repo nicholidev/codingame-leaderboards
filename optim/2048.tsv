@@ -1,11 +1,11 @@
-Score	UserID	Lang	Pseudo	#optim,count=41,time=2020-10-14 02:30:26
+Score	UserID	Lang	Pseudo	#optim,count=42,time=2020-10-15 02:32:00
 62535564	2288263	Rust	dbdr	
-57212176	1336464	C++	magaiti	
+58031756	3457031	C++	YurkovAS	
+57212344	1336464	C++	magaiti	
 56679460	2311105	C++	kovi	
 56228180	1378958	C#	Illedan	
-56071684	3457031	C++	YurkovAS	
-50702124	3354337	C++	Westicles	
-47931616	735487	C++	amurushkin	
+55426988	735487	C++	amurushkin	
+53588132	3354337	C++	Westicles	
 28100456	3533119	C++	wlesavo	
 16652164	2968035	C++	DomiKo	
 15247188	2416641	C++	Zenoscave	
@@ -13,7 +13,7 @@ Score	UserID	Lang	Pseudo	#optim,count=41,time=2020-10-14 02:30:26
 4078344	1050421	Java	geppoz	
 3817052	1515891	Go	ndc	
 2747996	3721214	C++	jrke	
-1986628	973040	C	papyjo	
+2621532	973040	C	papyjo	
 1737008	311035	Python3	leojean890	
 1403092	1412263	PHP	PatrickMcGinnisII	
 250352	3942793	Java	The_Auditor	
@@ -21,6 +21,7 @@ Score	UserID	Lang	Pseudo	#optim,count=41,time=2020-10-14 02:30:26
 87448	490588	Python3	Uljahn	
 80000	2414853	Python3	StephaneLaveau	
 79900	523185	Python3	Hjax	
+74028	820000	C++	ValGrowth	
 55744	3416055	Python3	ItsAFeature	
 54884	3922731	Dart	Dartisan	
 53512	2923506	C++	darkhorse64	

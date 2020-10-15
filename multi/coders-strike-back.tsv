@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=107810,time=2020-10-14 00:30:06
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=107892,time=2020-10-15 00:31:27
 6	59.89	1400179	3124799	Python3	reCurse	
 6	59.05	832306	2251077	C++	pb4	
 6	58.94	735910	2355456	C++	Agade	
@@ -891,7 +891,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=107810,time=2020-10-14 00:3
 6	-11.22	1748384	962118	Java		
 6	-11.26	1787818	979057	C++	DrasticTarakan	
 6	-inf	1546047				
-5	42.8	2743689	3120555	Ruby	cg000	
+5	42.79	2743689	3120555	Ruby	cg000	
 5	42.22	3823708	3084665	C++	blald	
 5	41.93	1511356	3094377	C++	Wan.2000	
 5	41.37	532729	3021049	C++	antoine2509	
@@ -966,11 +966,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=107810,time=2020-10-14 00:3
 5	37.41	873958	599823	C#	cheeser	
 5	37.41	2843466	2081846	Javascript	Lebedoks	
 5	37.41	1740932	901635	C++	barchstien	
+5	37.41	2416863	2063463	Java	Maremansa	
 5	37.4	1554934	746283	Rust	seandewar	
-5	37.39	2416863	2063463	Java	Maremansa	
 5	37.38	3443399	2471880	Java	RobinIsCoding	
-5	37.38	3774531	2952913	Python3	iansedano	
 5	37.37	3199152	2288377	Javascript	Sophia2329	
+5	37.37	3774531	2952913	Python3	iansedano	
 5	37.36	1607034	3018867	Rust	tomatoes	
 5	37.34	992078	484572	Java	TheNumberOne	
 5	37.34	1944090	1765765	C#	spaceorc	
@@ -979,9 +979,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=107810,time=2020-10-14 00:3
 5	37.25	2453765	2851155	C++	mrc-g	
 5	37.24	2955371	2123360	C++	Adler3D	
 5	37.24	2318755	1600698	C#	fly_tiger	
-5	37.24	1620599	1322878	C#	Hugo-NL	
 5	37.23	2339448	1575754	C	nandflash	
 5	37.23	3559607	2612118	C#	crazymouse	
+5	37.22	1620599	1322878	C#	Hugo-NL	
 5	37.2	225875	3119254	C#	leff	
 5	37.18	1989464	1327796	Go	blabber	
 5	37.16	3847384	3017571	Rust	Flashito	
@@ -993,8 +993,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=107810,time=2020-10-14 00:3
 5	37.1	970443	1847082	C++	Ak_va_man	
 5	37.09	1554460	707856	Javascript	oneplusone	
 5	37.08	2838943	2081013	Python3	zapakh	
+5	37.05	1018437	1612546	C	dubicube	
 5	36.99	3600474	2652528	Javascript	Dervina	
-5	36.95	1018437	1612546	C	dubicube	
 5	36.91	3533569	2578166	Python3	CaribouDuDesert	
 5	36.89	2233700	1647557	C#	OskarWaglund	
 5	36.87	3961389	3118136	Java	Jonny-Johnson	
