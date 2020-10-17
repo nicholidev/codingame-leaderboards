@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=830,time=2020-10-16 02:36:59
+Score	UserID	Lang	Pseudo	#optim,count=831,time=2020-10-17 02:47:15
 11902	2288263	Rust	dbdr	
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
@@ -76,15 +76,16 @@ Score	UserID	Lang	Pseudo	#optim,count=830,time=2020-10-16 02:36:59
 9018	1716299	C++	micky924	
 9015	837350	Go	BorisZ	
 8961	1484839	Go	sparky	
+8952	1706883	C++	CommanderCero	
 8944	2040493	Rust	dojomouse	
 8932	2902986	C++	Zilvarro	
 8931	886483	C	R4N4R4M4	
+8927	1336464	C++	magaiti	
 8919	1273065	C++	TheRadical	
 8887	1756952	C++	Petras	
 8872	735910	C++	Agade	
 8861	311035	Python3	leojean890	
 8854	1734105	C++	Bibou	
-8817	1706883	C++	CommanderCero	
 8730	739151	C++	Romka	
 8708	1620803	C++	Lyapunov	
 8681	1601217	Java	Heide	
@@ -117,7 +118,6 @@ Score	UserID	Lang	Pseudo	#optim,count=830,time=2020-10-16 02:36:59
 7834	2115491	Go	Haashi	
 7787	3235897	Java	Zylo	
 7784	862336	C++	Zaphus	
-7760	1336464	C++	magaiti	
 7643	232528	C++	cegprakash	
 7643	1059313	C++	_SERGE_	
 7641	1418821	C	input.txt	
@@ -166,6 +166,7 @@ Score	UserID	Lang	Pseudo	#optim,count=830,time=2020-10-16 02:36:59
 6064	1518504	Kotlin	bohuss	
 6025	198916	Java	WhatTrickeryIsThis	
 5976	1572888	Python3	DirtyHarry	
+5960	3854069	Swift	Quid34	
 5921	1455753	C++	Lysk	
 5859	1957077	Java	domak	
 5840	2151291	Haskell	kurgak.ss	
@@ -188,7 +189,6 @@ Score	UserID	Lang	Pseudo	#optim,count=830,time=2020-10-16 02:36:59
 5400	155774	C++	dwarfie	
 5395	3707873	C#	Philbot	
 5394	2000899	C#	GeoBlack	
-5386	3854069	Swift	Quid34	
 5380	2317747	Haskell	ElPsyCongroo2011	
 5370	765200	C#	FrancoisB	
 5359	1728288	C#	MOLP	
@@ -383,6 +383,7 @@ Score	UserID	Lang	Pseudo	#optim,count=830,time=2020-10-16 02:36:59
 2436	2590149	Python3	GoofyGas	
 2435	3755815	C#	Moctrof	
 2430	1192837	Rust	davidB	
+2428	3999460	Ruby	jcweaver	
 2422	1307473	C++	Evgenykz	
 2413	3271550	C++	Eggface	
 2408	2923500	C++	Proditione	
