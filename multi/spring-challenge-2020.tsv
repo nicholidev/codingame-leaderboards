@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5356,time=2020-10-18 02:49:13
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5358,time=2020-10-19 03:16:57
 5	33.11	3193653	3004019	C++	karliso	
 5	31.27	880353	2975979	C++	zasmu	
 5	31.17	1082988	2982332	C++	Saelyos	
@@ -757,12 +757,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5356,time=2020-10-18 02:49:
 3	24.01	1140677	2975871	C++	Crog	
 3	24.01	3802430	2979812	Java	Andronnix	
 3	24.01	3761568	2977244	C++	rimon	
-3	24.01	3467363	2978900	Java	Javatacos	
 3	23.99	616735	2990459	Python3	Kodama	
 3	23.99	3750754	2979906	Python3	lukasg	
 3	23.98	3686275	2978967	C#	udu	
 3	23.97	1698756	2978709	C#	Sylions	
 3	23.94	1366661	2979208	Java	YoBo	
+3	23.94	3467363	2978900	Java	Javatacos	
 3	23.93	1506970	2976707	C#	Speedrun	
 3	23.91	2320004	2978210	C#	Arthurique	
 3	23.91	2275088	2976835	C#	RSojak	
@@ -877,6 +877,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5356,time=2020-10-18 02:49:
 3	22.09	3586448	2980036	Python3	LeoT	
 3	22.09	3817179	2976059	C#	MAPATKO	
 3	22.09	3782047	2979552	Python3	Oetzus	
+3	22.08	3726308	3002629	Python3	Klapoutz	
 3	22.08	3795574	2978549	Javascript	Iron-postier	
 3	22.07	3745995	2978274	Python3	MicGor	
 3	22.06	3803288	2976278	Ruby	ugnpaul	
@@ -889,7 +890,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5356,time=2020-10-18 02:49:
 3	21.98	1452463	2979820	Python3	Tristannah	
 3	21.98	3820096	2979519	C++	abuhuraira071	
 3	21.97	1751199	2977557	C#	michac	
-3	21.97	3726308	3002629	Python3	Klapoutz	
 3	21.97	227869	2978054	C++	CarniBlood	
 3	21.96	1543177	2976634	Python3	Xoff	
 3	21.96	2443365	2979951	Javascript	Lulemair	
@@ -912,6 +912,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5356,time=2020-10-18 02:49:
 3	21.73	2086201	3109855	C++	mchl12	
 3	21.68	3478926	3123865	C	Leptit	
 3	21.68	3804739	2977200	C#	GhostDev	
+3	21.57	1443538	2978237	Java	Gevater_Tod4711	
 3	21.57	3797046	2975581	Python3	chinwag	
 3	21.56	3769031	2975875	C++	Oroko	
 3	21.56	1452449	2977216	Java	m4nu8untu	
@@ -927,7 +928,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5356,time=2020-10-18 02:49:
 3	21.53	154388	2978857	Rust	PonyPonyCodeCode	
 3	21.52	3791463	2977039	Java	Thibaal	
 3	21.5	3433333	2977489	Java	Redalucard	
-3	21.49	1443538	2978237	Java	Gevater_Tod4711	
 3	21.48	1784938	3092032	C#	Julius2k17	
 3	21.48	3769834	2978482	C#	Hoggins	
 3	21.48	1464853	2976831	Java	WillNess	
