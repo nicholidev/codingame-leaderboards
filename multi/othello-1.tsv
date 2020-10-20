@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=74,time=2020-10-19 03:16:59
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=75,time=2020-10-20 02:42:10
 1	44.17	2522090	3074478	C++	MSmits	
 1	41.34	3136787	3050532	C++	jacek	
 1	40.86	2288263	3024723	Rust	dbdr	
@@ -24,7 +24,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=74,time=2020-10-19 03:16:59
 1	10.62	2923506	3025437	C++	darkhorse64	
 1	9.63	2064637	3046796	Java	java_coffee_cup	
 1	8.65	973040	3103413	C	papyjo	
-0	29.08	1566335	3022377	Java	BeardedWhale	
+0	29.07	1566335	3022377	Java	BeardedWhale	
 0	26.56	1114834	3036581	C++	k4ng0u	
 0	25.45	1479137	3100453	C++	lorenzods	
 0	23.69	2290633	3058453	Python3	field3	
@@ -41,12 +41,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=74,time=2020-10-19 03:16:59
 0	19.44	1523900	3031735	C++	marwin	
 0	19.08	2592027	3025137	C#	ParticleBeam	
 0	19.03	3839737	3031777	C++	BlackOnWhite	
-0	18.71	1480384	3027371	C++	RockyMullet	
+0	18.73	1480384	3027371	C++	RockyMullet	
 0	18.39	2007852	3012746	Lua	Zorg1	
 0	17.12	3901571	3066366	Ruby	Koromo	
 0	16.86	1468321	3032749	Java	vokuheila	
 0	16.76	3721214	3041093	C++	jrke	
-0	16.63	3955301	3082498	Python3	SeptaCube	
+0	16.72	3955301	3082498	Python3	SeptaCube	
 0	16.55	1378958	3013233	C#	Illedan	
 0	16.49	3305510	3110840	PHP	TBali	
 0	16.07	2508635	3013859	Java	hemhel	
@@ -59,17 +59,18 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=74,time=2020-10-19 03:16:59
 0	15.17	1713174	3013680	Python3	BigUP	
 0	14.78	1830993	3065361	C#	jpcheck	
 0	13.99	3646346	3081060	PHP	Pingwi85	
+0	13.92	3808031	3032315	Ruby	_proton	
 0	13.87	1540478	3032959	Java	struct	
-0	13.85	3808031	3032315	Ruby	_proton	
-0	13.64	1194069	3117290	Java	Redstrike	
+0	13.66	1194069	3117290	Java	Redstrike	
 0	13.22	3593941	3085753	Python3	Spielzeugente	
-0	12.87	2081550	3020449	Java	muy31	
-0	12.6	3932077	3082627	Javascript	CopperFr	
-0	12.14	3749793	3015866	Python3	WINWINWIN	
-0	11.88	3751016	3120833	Javascript	Q12	
-0	0.25	3985519	3105505	C++	aiko_baigo	
-0	-2.07	3699033	3031778	C++	Bitwise	
-0	-2.52	3985506	3105504	C++	iwatachan	
-0	-3.21	3911100	3051301	Java	nontyan	
-0	-3.71	2006348	3041789	C++	Koji02	
-0	-4.45	513153	3041996	C++	voidle	
+0	12.77	2081550	3020449	Java	muy31	
+0	12.53	3932077	3082627	Javascript	CopperFr	
+0	12.13	3749793	3015866	Python3	WINWINWIN	
+0	11.83	3751016	3120833	Javascript	Q12	
+0	1.03	3985519	3105505	C++	aiko_baigo	
+0	-1.99	3699033	3031778	C++	Bitwise	
+0	-2.02	3985506	3105504	C++	iwatachan	
+0	-2.91	3911100	3051301	Java	nontyan	
+0	-3.41	513153	3041996	C++	voidle	
+0	-3.88	4018953	3139303	Javascript	zTTK	
+0	-4.42	2006348	3041789	C++	Koji02	

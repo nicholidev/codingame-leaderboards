@@ -1,14 +1,14 @@
-Score	UserID	Lang	Pseudo	#optim,count=52,time=2020-10-19 03:17:02
+Score	UserID	Lang	Pseudo	#optim,count=53,time=2020-10-20 02:42:14
 62535564	2288263	Rust	dbdr	
 59353408	3457031	C++	YurkovAS	
 59353048	1336464	C++	magaiti	
 58283148	735487	C++	amurushkin	
 56679460	2311105	C++	kovi	
+56407536	3354337	C++	Westicles	
 56228180	1378958	C#	Illedan	
 56158848	3533119	C++	wlesavo	
-55294540	3354337	C++	Westicles	
-24403696	351062	C++	Neumann	
-19182640	1050421	Java	geppoz	
+25236852	351062	C++	Neumann	
+21068732	1050421	Java	geppoz	
 16652164	2968035	C++	DomiKo	
 15247188	2416641	C++	Zenoscave	
 10029096	1500515	C#	eulerscheZahl	
@@ -27,6 +27,7 @@ Score	UserID	Lang	Pseudo	#optim,count=52,time=2020-10-19 03:17:02
 87448	490588	Python3	Uljahn	
 80000	2414853	Python3	StephaneLaveau	
 79900	523185	Python3	Hjax	
+71856	992329	Python3	BeeGee	
 55744	3416055	Python3	ItsAFeature	
 54884	3922731	Dart	Dartisan	
 53512	2923506	C++	darkhorse64	

@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=6788,time=2020-10-19 03:17:05
+Score	UserID	Lang	Pseudo	#optim,count=6796,time=2020-10-20 02:42:16
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -166,6 +166,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6788,time=2020-10-19 03:17:05
 202360	272290	Go	Olaf69	
 201370	2729630	C++	Halphas	
 201140	668954	C++	Fluxor	
+200770	2315158	Java	luigi_gelato	
 200740	512097	Haskell	Stilgart	
 199820	1836058	C++	SeebOmega	
 199570	1658067	Java	pstavrianos	
@@ -232,6 +233,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6788,time=2020-10-19 03:17:05
 169500	1620803	C++	Lyapunov	
 168800	1495694	C++	MisterJensen	
 168750	1495394	C#	qwerty_42	
+168330	1676711	Java	Eeeval	
 168080	484004	C#	aCat	
 168040	2321957	C++	Xenoid	
 164750	3298988	C#	PotatoCoder	
@@ -301,7 +303,6 @@ Score	UserID	Lang	Pseudo	#optim,count=6788,time=2020-10-19 03:17:05
 131090	404777	C++	Joodoc	
 130830	1573118	Kotlin	jfkdeveloper	
 128580	2158902	Clojure	Snowbart	
-128370	1676711	Java	Eeeval	
 127930	1304434	Java	MP-63	
 127750	1479137	C++	lorenzods	
 127700	321382	Java	l-lin	
@@ -430,6 +431,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6788,time=2020-10-19 03:17:05
 74220	1497552	Python3	clemclem	
 73680	264258	Python3	MrFlibble	
 73590	1287344	Python3	Alshock	
+73360	1521843	C#	Doug	
 73110	2711018	Java	Fabs	
 73090	2526322	C	fhemsworth	
 72660	849746	Python3	lmj	
@@ -918,7 +920,6 @@ Score	UserID	Lang	Pseudo	#optim,count=6788,time=2020-10-19 03:17:05
 60970	2884810	Javascript	JeanGaudiau	
 60960	1152307	PHP	JON	
 60960	3854818	Python3	jono-vision	
-60940	1521843	C#	Doug	
 60920	1955420	Go	Cornellus	
 60910	697152	Java	Bander88	
 60910	1217929	C++	Yogen88	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=6788,time=2020-10-19 03:17:05
 59980	1167615	C#	TylerDurden	
 59980	2346559	C#	specialops	
 59970	1946791	C#	Lerbaek	
-59960	3672022	Python3	pepe999	
