@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=834,time=2020-10-20 02:42:15
+Score	UserID	Lang	Pseudo	#optim,count=835,time=2020-10-21 02:45:17
 11902	2288263	Rust	dbdr	
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
@@ -76,8 +76,8 @@ Score	UserID	Lang	Pseudo	#optim,count=834,time=2020-10-20 02:42:15
 9018	1716299	C++	micky924	
 9015	837350	Go	BorisZ	
 9014	1336464	C++	magaiti	
+8993	1706883	C++	CommanderCero	
 8961	1484839	Go	sparky	
-8952	1706883	C++	CommanderCero	
 8944	2040493	Rust	dojomouse	
 8932	2902986	C++	Zilvarro	
 8931	886483	C	R4N4R4M4	
@@ -95,6 +95,7 @@ Score	UserID	Lang	Pseudo	#optim,count=834,time=2020-10-20 02:42:15
 8512	1861852	Java	Cramer	
 8511	1480426	C++	Hikari42	
 8456	2321957	C	Xenoid	
+8447	2350415	C++	Vintarel	
 8443	888898	C++	helgui	
 8442	512097	C++	Stilgart	
 8424	620537	C#	Ksenia	
@@ -162,7 +163,6 @@ Score	UserID	Lang	Pseudo	#optim,count=834,time=2020-10-20 02:42:15
 6177	2881066	C++	BuddyKBrush	
 6136	3711954	OCaml	kpjl	
 6131	1452085	C++	sadakatsu	
-6114	2350415	C++	Vintarel	
 6071	903416	Scala	matlesudiste	
 6064	1518504	Kotlin	bohuss	
 6025	198916	Java	WhatTrickeryIsThis	
@@ -447,6 +447,7 @@ Score	UserID	Lang	Pseudo	#optim,count=834,time=2020-10-20 02:42:15
 1781	2655682	Java	CoderFromOuterSpace	
 1777	1645228	Kotlin	mnahkies	
 1744	1355842	Java	slaghn	
+1739	2325449	Perl	otpv	
 1708	1931039	C#	MooMooN	
 1703	2419811	Python3	Valbou	
 1701	2661589	F#	LePelicanFushia	
@@ -743,7 +744,6 @@ Score	UserID	Lang	Pseudo	#optim,count=834,time=2020-10-20 02:42:15
 1045	3978902	Python3	moonaliman	
 1045	3994605	Python3		
 1045	3946057	Go	kvitebjonn	
-1045	2325449	Perl	otpv	
 1041	1074744	Java	GwenGlSoft	
 1039	1129000	Python3	ChairmanOfTheBored	
 1033	1243354	C++	RSBat	
@@ -782,6 +782,7 @@ Score	UserID	Lang	Pseudo	#optim,count=834,time=2020-10-20 02:42:15
 1010	2921599	TypeScript	Rinoweb	
 1010	1099996	Javascript	ZealousApathet	
 1010	3439872	Python3	xdcomrade	
+1010	2315158	Java	luigi_gelato	
 1009	1372843	Java	djjeck	
 1006	1316609	C++	Autoboii92	
 1006	1695141	Javascript	sbsbessa	
