@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3948,time=2020-10-23 02:35:39
+Score	UserID	Lang	Pseudo	#optim,count=3952,time=2020-10-24 02:46:59
 2759	1301401	C#	Stanax	
 2761	1833680	C++	jvivenot	
 2765	2288263	Rust	dbdr	
@@ -116,6 +116,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3948,time=2020-10-23 02:35:39
 3735	218189	Python3	[CG]Maxime	
 3745	329200	PHP	BlitzProg	
 3745	2202771	Java	Kaplone	
+3750	2325449	Perl	otpv	
 3751	199701	PHP	bzm	
 3761	954023	Java	Rguiu	
 3778	668906	Java	Sandworm	
@@ -181,7 +182,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3948,time=2020-10-23 02:35:39
 3977	1724069	Python3	jmpeg	
 3978	1188212	ObjectiveC	superredlark	
 3982	3902927	Python3	Bulgot	
-3984	165671	Python3	cyppan	
+3984	165671	Python3	TheDarkByte	
 3991	1802935	C#		
 3996	320053	PHP	Zbug	
 3997	876163	C#	AY1111	
@@ -212,7 +213,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3948,time=2020-10-23 02:35:39
 4081	518726	Haskell	nybble41	
 4081	2451652	Javascript	code_of_the_dead	
 4088	607150	Java	Frisky	
-4092	2325449	Perl	otpv	
 4094	527749	C++	Pds	
 4106	864308	Java	plewanda	
 4108	1354295	C++	AbdullahKhawer	
@@ -695,6 +695,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3948,time=2020-10-23 02:35:39
 5860	1407720	Python3	bananaMixer	
 5860	1477622	C#	zrdon	
 5860	3502258	Python3	TimAI	
+5860	1411407	C#	maxaon	
 5861	954356	C++		
 5861	420035	Pascal	bvs23bkv33	
 5861	1483798	Ruby	hm001	
@@ -948,6 +949,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3948,time=2020-10-23 02:35:39
 5940	3719098	OCaml	Adriennnn	
 5940	1201783	Python3	qsantos	
 5941	525818	Java	a.podlesny	
+5941	2135916	Python3	Oioi	
 5942	3421837	Python3	Naindlac	
 5943	1991957	Javascript	lxdnz	
 5945	873075	Rust	LiBai	
@@ -997,5 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=3948,time=2020-10-23 02:35:39
 5962	417433	C++	Oakos	
 5962	1059313	C++	_SERGE_	
 5962	3846923	Kotlin	Hildan	
-5963	807947	C#	Benj	
-5963	1453609	Python3	Sakis	

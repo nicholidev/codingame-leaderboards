@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=57,time=2020-10-23 02:35:35
+Score	UserID	Lang	Pseudo	#optim,count=60,time=2020-10-24 02:46:55
 62535564	2288263	Rust	dbdr	
 59353440	3354337	C++	Westicles	
 59353408	3457031	C++	YurkovAS	
@@ -8,13 +8,14 @@ Score	UserID	Lang	Pseudo	#optim,count=57,time=2020-10-23 02:35:35
 56228180	1378958	C#	Illedan	
 56158848	3533119	C++	wlesavo	
 29362528	351062	C++	Neumann	
+27075256	820000	C++	ValGrowth	
 23960660	2924895	C	trictrac	
-23008208	820000	C++	ValGrowth	
 21068732	1050421	Java	geppoz	
 16652164	2968035	C++	DomiKo	
 15247188	2416641	C++	Zenoscave	
 10029096	1500515	C#	eulerscheZahl	
 6593296	1515891	Go	ndc	
+4328192	1436776	C++	BrainSolver	
 2833088	973040	C	papyjo	
 2747996	3721214	C++	jrke	
 2460552	311035	Python3	leojean890	
@@ -28,7 +29,10 @@ Score	UserID	Lang	Pseudo	#optim,count=57,time=2020-10-23 02:35:35
 87448	490588	Python3	Uljahn	
 80000	2414853	Python3	StephaneLaveau	
 79900	523185	Python3	Hjax	
+79044	1740237	Python3	OlegKornelsen	
 71856	992329	Python3	BeeGee	
+67020	1457162	Python3	JFB	
+60256	2325449	Perl	otpv	
 55744	3416055	Python3	ItsAFeature	
 54884	3922731	Dart	Dartisan	
 53512	2923506	C++	darkhorse64	
@@ -37,10 +41,10 @@ Score	UserID	Lang	Pseudo	#optim,count=57,time=2020-10-23 02:35:35
 49232	2043908	D	AntiSquid	
 49232	1194069	Python3	Redstrike	
 49232	3950687	Python3	vkreuz	
-48220	165671	Python3	cyppan	
-45336	1436776	C++	BrainSolver	
+48220	165671	Python3	TheDarkByte	
 45200	4002619	Python3	Juraj09	
 43648	351385	Python3	fabmarcant	
+42192	155774	C++	dwarfie	
 39376	837350	Python3	BorisZ	
 35956	3136787	Python3	jacek	
 32136	3657937	Python3	elderlybeginner	
@@ -54,4 +58,3 @@ Score	UserID	Lang	Pseudo	#optim,count=57,time=2020-10-23 02:35:35
 4296	3596445	Python3	Bafiko	
 344	3787419	C	Thyl	
 344	3230794	Python3	tutubalin	
-344	2325449	Perl	otpv	
