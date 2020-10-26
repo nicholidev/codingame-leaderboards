@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=108668,time=2020-10-25 00:33:08
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=108733,time=2020-10-26 00:30:06
 6	59.89	1400179	3124799	Python3	reCurse	
 6	59.05	832306	2251077	C++	pb4	
 6	58.94	735910	2355456	C++	Agade	
@@ -913,15 +913,15 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=108668,time=2020-10-25 00:3
 5	38.73	1833778	1096495	Python3	takedarts	
 5	38.73	2411860	2605242	Python3	Aurelien-Quillet	
 5	38.72	1218749	646721	C	dauom	
-5	38.69	574656	468278	Java	dmpage	
+5	38.7	574656	468278	Java	dmpage	
 5	38.65	3960701	3117974	C++	QuantumQQ	
 5	38.65	2676772	1905054	Javascript	Cef	
 5	38.62	686959	1580942	Python3	Gudaria	
 5	38.54	3314335	2333670	C	Snailbot	
 5	38.52	2221648	1483098	Python3	Slayer-X	
+5	38.52	1766812	2948108	Python3	nn_test	
 5	38.52	1814977	2794030	Kotlin	Satek	
-5	38.51	1766812	2948108	Python3	nn_test	
-5	38.5	3467363	2700056	Python3	Javatacos	
+5	38.49	3467363	2700056	Python3	Javatacos	
 5	38.4	2220925	1575827	C#	Lativado	
 5	38.37	1542460	1631902	C++	[CPC]totoleharicotvert	
 5	38.25	619500	1851062	C++	Hakonfc	
@@ -945,8 +945,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=108668,time=2020-10-25 00:3
 5	37.69	1543850	2071404	Python3	Gaarv	
 5	37.68	3998990	3125339	TypeScript	bgotink	
 5	37.65	185541	1786899	Java	kazrakel	
+5	37.65	1266696	573091	Rust		
 5	37.63	1871471	1224426	C++	Trit0r	
-5	37.62	1266696	573091	Rust		
 5	37.62	2143315	2097988	Python3	FluffyToaster	
 5	37.58	1599489	733800	C++	rafftyl	
 5	37.57	1799001	3031076	Python3	eddernstein	
@@ -976,6 +976,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=108668,time=2020-10-25 00:3
 5	37.32	2403563	2091348	Python3	Ezeox	
 5	37.29	1527657	919217	Python	hgross	
 5	37.29	3256614	2318676	Python3	FredL	
+5	37.25	1472173	772909	C	PaulPacteRaynaud	
 5	37.25	994344	2011176	Java	Momopouccino	
 5	37.24	1970506	1218339	Rust	Taldor	
 5	37.24	2955371	2123360	C++	Adler3D	
@@ -983,7 +984,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=108668,time=2020-10-25 00:3
 5	37.23	1607034	3018867	Rust	tomatoes	
 5	37.23	3559607	2612118	C#	crazymouse	
 5	37.22	2475190	1828940	C#	avel	
-5	37.21	1472173	772909	C	PaulPacteRaynaud	
 5	37.2	225875	3119254	C#	leff	
 5	37.18	1989464	1327796	Go	blabber	
 5	37.16	2339448	1575754	C	nandflash	

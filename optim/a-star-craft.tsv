@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=838,time=2020-10-25 02:33:38
+Score	UserID	Lang	Pseudo	#optim,count=839,time=2020-10-26 02:30:39
 11902	2288263	Rust	dbdr	
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
@@ -114,6 +114,7 @@ Score	UserID	Lang	Pseudo	#optim,count=838,time=2020-10-25 02:33:38
 7948	1845617	C++	Shingyx	
 7899	2455616	Java	JeanClaude44	
 7884	329200	C++	BlitzProg	
+7866	828239	C#	[SG]Bisou	
 7855	1869024	Java	Xa2017	
 7855	1049935	C++	Azkellas	
 7837	2522090	C#	MSmits	
@@ -124,7 +125,6 @@ Score	UserID	Lang	Pseudo	#optim,count=838,time=2020-10-25 02:33:38
 7643	1059313	C++	_SERGE_	
 7641	1418821	C	input.txt	
 7595	1549145	C++	Mealc	
-7587	828239	C#	[SG]Bisou	
 7538	1661333	C++	linjoehan	
 7537	2662709	Python3	dead_man	
 7525	1714338	Java	cobase2010	
@@ -210,6 +210,7 @@ Score	UserID	Lang	Pseudo	#optim,count=838,time=2020-10-25 02:33:38
 5062	2894347	Rust	efugier	
 5054	2042323	Python3	mana_b	
 5023	3353481	C++	takumi152	
+4990	1477622	C#	zrdon	
 4919	1227148	Java	Schneewittchen	
 4865	1613949	Java	elaaboum	
 4811	2711438	Python3	Aeneas	
@@ -235,7 +236,6 @@ Score	UserID	Lang	Pseudo	#optim,count=838,time=2020-10-25 02:33:38
 4326	1584802	C++	emh	
 4313	2864069	Java		
 4305	952784	Java	Simon21	
-4286	1477622	C#	zrdon	
 4222	969333	C++	JasperV	
 4217	2360690	C++	Galrauch	
 4205	1568785	C	Chalzy	
@@ -308,6 +308,7 @@ Score	UserID	Lang	Pseudo	#optim,count=838,time=2020-10-25 02:33:38
 3238	802171	PHP	Merome	
 3237	1903031	C++	hard-coded	
 3228	1201796	C#	P.Greze	
+3194	3962136	Javascript	l4hg	
 3189	1480384	C++	RockyMullet	
 3160	3770928	C++	ku-haku	
 3142	808454	C++	.EagleDawn.	

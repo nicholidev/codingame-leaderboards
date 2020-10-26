@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4698,time=2020-10-25 02:33:30
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4698,time=2020-10-26 02:30:31
 0	47.64	1433161	1484525	C	Mingu	
 0	46.24	494104	455215	C++	Recar	
 0	45.79	990110	357643	C++	Rogerup	
@@ -141,9 +141,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4698,time=2020-10-25 02:33:
 0	38.3	1673971	1113063	C++	Lanken	
 0	38.3	518726	353087	Haskell	nybble41	
 0	38.29	225892	345329	F#	ikarni	
-0	38.28	1170254	364830	C++	Vytma	
 0	38.24	2073179	1420299	C++	Biwere	
 0	38.24	877850	348071	Java	Edin	
+0	38.23	1170254	364830	C++	Vytma	
 0	38.22	781040	353371	C	startega	
 0	38.2	1068877	370315	C++	[CPC]Tamno	
 0	38.2	984109	353465	OCaml	LeCaRiBoU	
@@ -156,11 +156,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4698,time=2020-10-25 02:33:
 0	38.12	1457162	2083083	C++	JFB	
 0	38.04	1353795	1935420	C++	TheCrucial	
 0	38.01	1477266	533872	C++	pcruiher08	
+0	38.01	1010004	354546	C#	[O]nclejoe	
 0	38.01	1021256	363051	C#	Toinou	
 0	37.99	1986145	1231495	C++	ValNyz	
 0	37.97	947693	352491	Java	Sunglow	
 0	37.96	1033147	358142	Javascript	Starbuck	
-0	37.93	1010004	354546	C#	[O]nclejoe	
 0	37.93	1354295	3068007	C++	AbdullahKhawer	
 0	37.89	712421	347830	Java	Kiwi	
 0	37.87	865677	367033	C++	sasupp	
@@ -226,8 +226,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4698,time=2020-10-25 02:33:
 0	37.15	331880	1646602	Scala	Monstruo	
 0	37.14	886483	488764	ObjectiveC	R4N4R4M4	
 0	37.13	914086	347129	Ruby	matthewd	
+0	37.13	1065947	579722	C#	RPA	
 0	37.11	1027836	352469	Go	Wrymm	
-0	37.11	1065947	579722	C#	RPA	
 0	37.09	828184	349175	C	Bothari	
 0	37.08	1095288	364431	Python	Vilo	
 0	37.06	1870937	2359771	C++		
@@ -263,7 +263,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4698,time=2020-10-25 02:33:
 0	36.5	195088	339496	C++	Jopie64	
 0	36.5	512207	340438	Scala	Aun	
 0	36.46	937214	340854	C#	KissCool	
-0	36.45	1070856	345143	Java	D-MoNs	
 0	36.44	825460	349230	Lua	antoyo	
 0	36.43	1016343	343606	C++	Nikogram	
 0	36.42	1314796	1850512	C++	JBence	
@@ -272,6 +271,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4698,time=2020-10-25 02:33:
 0	36.39	917042	353701	C	Flikalb	
 0	36.38	200708	358204	C	kobr4	
 0	36.35	155896	411062	PHP	gamoul	
+0	36.34	1070856	345143	Java	D-MoNs	
 0	36.33	915957	346491	C	Tux	
 0	36.29	305790	357531	Java	Bertrand88	
 0	36.24	3755755	2985229	C#	AAhmed9	
@@ -366,6 +366,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4698,time=2020-10-25 02:33:
 0	34.87	1053433	355354	Java	3WTochka	
 0	34.84	948827	354998	Python	kieranvs	
 0	34.84	1759839	2307567	Python3	matleg	
+0	34.83	1258533	925635	Python3	MathJason	
 0	34.81	273004	355833	C++	ptitrex	
 0	34.8	960759	341728	C++	fea	
 0	34.78	153683	2487762	Dart	40R15T3	
@@ -376,22 +377,21 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4698,time=2020-10-25 02:33:
 0	34.71	1183644	369972	C++	Donotalo	
 0	34.68	404777	345500	C++	Joodoc	
 0	34.68	830819	346001	Java	johnnyhibiki	
-0	34.68	1258533	925635	Python3	MathJason	
 0	34.66	153965	806714	Python3	Keelhaul	
+0	34.66	231552	345932	Python3	Stv	
 0	34.65	988601	357485	C++	Den818	
 0	34.63	155774	1609570	C++	dwarfie	
 0	34.63	1036012	343571	Haskell	Chahine	
-0	34.63	992891	342891	Go		
 0	34.62	1065666	1479280	Python3	chuck	
 0	34.62	963244	354384	C#	NickName	
 0	34.61	370259	343960	VB.NET	Queloune	
-0	34.61	231552	345932	Python3	Stv	
 0	34.6	420835	356520	Python	Ishkulov	
 0	34.59	860297	3116883	C++	charlieamer	
 0	34.59	425477	351416	Java	selslack	
 0	34.58	154372	351178	C++	Plopx	
 0	34.58	979569	352955	Javascript	khanh_alice	
 0	34.56	2683458	1917286	OCaml	MPSI_Fusee	
+0	34.56	992891	342891	Go		
 0	34.55	212028	342255	Java	GHenry	
 0	34.54	1361939	415052	C	Tof0986	
 0	34.54	1006307	344707	Java	adeldjellal	
@@ -502,6 +502,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4698,time=2020-10-25 02:33:
 0	33.75	1058272	346773	PHP	Nazalas	
 0	33.75	951724	343520	C++	Ka-L	
 0	33.74	995658	354941	C++	Faithy	
+0	33.73	518889	355262	C++	athin	
 0	33.73	1070189	344988	C#	Sebizuka	
 0	33.73	163957	339515	PHP	youser	
 0	33.72	1039983	351237	Pascal	j0k3r	
@@ -520,7 +521,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4698,time=2020-10-25 02:33:
 0	33.67	196808	361772	Groovy	bonam	
 0	33.66	595698	350923	C++	Kwekken	
 0	33.65	706692	353536	Java	alexhap	
-0	33.64	518889	355262	C++	athin	
 0	33.64	1407420	2220890	Groovy	kiril76	
 0	33.64	736854	373751	C++	yento	
 0	33.64	617638	339705	Python3	jcampion	
@@ -601,6 +601,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4698,time=2020-10-25 02:33:
 0	32.79	828459	345068	C++	omu	
 0	32.79	972414	353118	Java	Hackman	
 0	32.78	153678	459452	Go	dknn	
+0	32.77	155601	346438	C++	mattox	
 0	32.77	416704	339841	Pascal	prgjff	
 0	32.76	973948	365559	Python3	Amnesix	
 0	32.73	153784	417722	C#	Whitec	
@@ -608,7 +609,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4698,time=2020-10-25 02:33:
 0	32.72	2683096	1915972	OCaml	MPSI-LIV-nicod-eva-2	
 0	32.72	721245	342650	ObjectiveC	Eugene1	
 0	32.71	153661	354407	C++	Lionel	
-0	32.71	155601	346438	C++	mattox	
 0	32.71	1339431	3047741	Javascript	Enie	
 0	32.71	895306	347955	Javascript	NikIvan	
 0	32.69	585897	343297	Java	adeprez	
@@ -732,13 +732,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4698,time=2020-10-25 02:33:
 0	31.5	958245	357195	C#	himanshu.gupta	
 0	31.49	2416641	2306611	Python3	Zenoscave	
 0	31.48	1306752	411937	Python	spk9	
-0	31.48	1057948	348513	C	Kavishankar	
 0	31.47	490905	339981	Python	lechium06_	
 0	31.47	1198313	369275	Python	BobBieLoblaw	
 0	31.46	2158902	1851767	Scala	Snowbart	
 0	31.46	937740	344410	Python	rnd495	
 0	31.46	1075044	345379	Javascript	vob	
 0	31.45	3235897	2471379	Java	Zylo	
+0	31.44	1057948	348513	C	Kavishankar	
 0	31.43	577069	344291	Clojure	tvb999	
 0	31.42	923505	348896	Python	ouille	
 0	31.41	294302	339353	C++	vorkostil	
@@ -759,6 +759,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4698,time=2020-10-25 02:33:
 0	31.29	936107	355292	F#	kors	
 0	31.29	1206537	656015	C++	MadKnight	
 0	31.28	875545	438717	Python3	BELPHEGOR	
+0	31.27	1189679	505112	C++	Wayde	
 0	31.27	937933	348626	Scala	Richmond	
 0	31.27	414278	476901	Java	oobException	
 0	31.27	2110342	2104229	C++	lchenay	
@@ -787,7 +788,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4698,time=2020-10-25 02:33:
 0	31.19	1055535	347770	Python	elghinn	
 0	31.18	1058101	342821	C++	FloPanda	
 0	31.18	546018	357275	C++	Dropye	
-0	31.18	1189679	505112	C++	Wayde	
 0	31.18	1409924	423547	Java	RevenantMachine	
 0	31.17	1018895	580676	Javascript	Filou	
 0	31.17	820983	344847	Javascript	Funnybobby	
@@ -845,11 +845,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4698,time=2020-10-25 02:33:
 0	30.8	1125706	370154	C++	Saillou	
 0	30.8	413993	352387	Bash	Gilbow	
 0	30.77	1188273	370204	Python3	DevNico	
-0	30.75	1404539	417778	Python3	Furrane	
 0	30.71	418269	344329	C++	SeaPy	
 0	30.71	849237	340539	C++	Leviathan	
 0	30.7	1451495	492094	C++	TallDwarf	
 0	30.68	440476	882767	Ruby	yowa	
+0	30.68	1404539	417778	Python3	Furrane	
 0	30.66	2762653	2305073	C++	RAAAT	
 0	30.66	344844	356098	Java	Vinicius.oh	
 0	30.65	572830	341741	Java	consuLion	
@@ -931,7 +931,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4698,time=2020-10-25 02:33:
 0	30.08	890975	341714	Javascript	e9	
 0	30.05	1054714	342602	Python	ScottKulp	
 0	30.03	833299	344556	C++	egbert	
-0	30.03	891277	375376	Java	an3zam	
+0	30.02	891277	375376	Java	an3zam	
 0	30.01	1010993	343263	C#	Hurrikhan	
 0	30	880353	1394154	C++	zasmu	
 0	30	1279810	461436	C++	Skellora	
