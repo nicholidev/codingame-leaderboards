@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=23,time=2020-10-26 00:30:03
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=23,time=2020-10-27 00:35:06
 2	35.39	2924895	3117499	C	trictrac	
 2	30.89	2288263	3123153	Rust	dbdr	
 2	30.27	1489865	3114090	C++	EricSMSO	
@@ -17,8 +17,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=23,time=2020-10-26 00:30:03
 2	21.16	973040	3122531	C	papyjo	
 2	20.65	3622757	3141020	Java	anid	
 2	20.04	3922731	3118985	Dart	Dartisan	
-0	22.26	3808031	3116675	Ruby	_proton	
-0	2.76	1341520	3142997	Java	egaetan	
-0	2.7	1713174	3121371	Python3	BigUP	
-0	2.7	2043908	3112560	D	AntiSquid	
-0	2.42	3992388	3124137	C++	aaaa111	
+1	27.59	2043908	3150412	Java	AntiSquid	
+0	21.47	3808031	3116675	Ruby	_proton	
+0	2.56	1341520	3142997	Java	egaetan	
+0	2.53	1713174	3121371	Python3	BigUP	
+0	2.32	3992388	3124137	C++	aaaa111	

@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5379,time=2020-10-26 02:30:33
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5379,time=2020-10-27 02:57:09
 5	33.11	3193653	3004019	C++	karliso	
 5	31.27	880353	2975979	C++	zasmu	
 5	31.17	1082988	2982332	C++	Saelyos	
@@ -788,7 +788,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5379,time=2020-10-26 02:30:
 3	23.55	2392192	2991212	C++	lgm42	
 3	23.54	1282856	2979300	Javascript	ErikBrendel	
 3	23.54	3806286	2977764	Python3	St7	
-3	23.49	3468263	2978760	Python3	Flyingkid	
 3	23.47	2434893	2979511	Javascript	cdurbin	
 3	23.47	3581203	2979566	C++	franckCJ	
 3	23.44	2341005	2975605	C#	Crispy23	
@@ -798,6 +797,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5379,time=2020-10-26 02:30:
 3	23.4	3309229	2980217	Python3	igs_m	
 3	23.38	1070655	2979498	C++	shanks	
 3	23.35	2453008	3016804	Python3	Crypticsy	
+3	23.35	3468263	2978760	Python3	Flyingkid	
 3	23.33	3419294	2976000	Javascript	Sissiimperatice	
 3	23.3	2969181	2979225	C++	maras	
 3	23.29	347029	2983067	Python3	Kevapo	
@@ -847,11 +847,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5379,time=2020-10-26 02:30:
 3	22.57	1287344	2983693	Python3	Alshock	
 3	22.55	3046779	2977622	Kotlin	Kathrin	
 3	22.53	3804005	2977797	Java	GlitchyByte	
+3	22.51	877888	2982474	Java	kael	
 3	22.5	2297753	2979684	Python3	Warly7692	
 3	22.5	3805081	2979229	Python3	ai_rice	
 3	22.49	3341311	2979027	Javascript	Amelieth	
 3	22.48	1539245	2979830	Java	Riduidel	
-3	22.45	877888	2982474	Java	kael	
 3	22.44	3776706	2980526	C#	dashu_baba	
 3	22.4	1437684	2979624	C#	Maulkin	
 3	22.39	3802577	2979218	C++	rhs99	
@@ -914,13 +914,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5379,time=2020-10-26 02:30:
 3	21.65	3791463	2977039	Java	Thibaal	
 3	21.63	1105439	2976632	C++	Edrevan	
 3	21.62	3765905	2979695	Python3	edramire	
+3	21.6	614215	2980027	Java	Jo	
 3	21.58	1481693	2985051	C#	KAIn	
 3	21.58	3511049	2976652	C++	Nach_Vigi	
 3	21.58	1759839	2978707	Python3	matleg	
 3	21.57	3797046	2975581	Python3	chinwag	
 3	21.56	1452449	2977216	Java	m4nu8untu	
 3	21.55	3324192	2979942	Python3	Spongebobcarre	
-3	21.54	614215	2980027	Java	Jo	
 3	21.54	2063592	2979299	Java	Gbaud	
 3	21.54	3772630	2979846	Go	BattleRattle	
 3	21.53	2470801	2977533	Java	asirbu	

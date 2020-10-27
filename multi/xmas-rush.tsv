@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=527,time=2020-10-26 02:30:35
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=528,time=2020-10-27 02:57:11
 5	33.77	2725066	2311007	C#	Cize	
 5	32.17	1314316	2223882	C++	jolindien	
 5	32.11	854952	2245515	C++	dolmen1234	
@@ -425,7 +425,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=527,time=2020-10-26 02:30:3
 3	8.41	1164044	2238957	Javascript	Visual	
 3	8.4	314562	2238958	Javascript	Mechar	
 3	8.33	808454	2240238	Java	.EagleDawn.	
-3	8.16	3833564	3105782	C++	IAmNewHere	
+3	8.16	3833564	3105782	C++		
 3	7.76	1381381	2238956	Python3	ScherKhan	
 3	7.66	2023368	2240239	C++	Chk	
 3	7.29	2889262	2240240	Javascript	grahampheath	
@@ -489,9 +489,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=527,time=2020-10-26 02:30:3
 0	12.61	1389861	2481697	Java	Evgenykz3	
 0	12.6	2613192	2897148	C++	sigus	
 0	12.47	1073604	2237096	C#	speedFast	
+0	11.78	1491995	2418275	C#	Tyir	
 0	11.74	3101398	2233755	Python3		
 0	11.52	1990452	2262910	C#	Benoit_L	
-0	11.48	1491995	2418275	C#	Tyir	
 0	11.44	2501808	2205489	Javascript	Robles	
 0	11.21	2202771	2349808	Java	Kaplone	
 0	10.56	957334	2194706	Java	Dam	
@@ -515,14 +515,15 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=527,time=2020-10-26 02:30:3
 0	0.27	1816257	2338863	Python3	Bullle	
 0	0.27	3090217	2207693	Python	you_will_never_know	
 0	0.2	2006348	2244603	Python3	Koji02	
+0	0.19	4029033	3149436	C++	3DPerson	
 0	0.15	999637	2225370	Python3	dinobogan	
 0	0.15	3097580	2212497	Python	Flip_Flop_Destroyer	
 0	0.13	1830993	2208936	C#	jpcheck	
 0	0.11	2401888	2241292	Python3	RubberDuck	
 0	-0.11	3115205	2220617	C++	lhz	
 0	-0.13	3153712	2235714	C++	MT0	
-0	-10.23	3473768	2483327	Java	higle	
-0	-10.81	3090212	2207687	Python	Still_a_Piece_of_Garbage	
+0	-10.24	3473768	2483327	Java	higle	
+0	-10.82	3090212	2207687	Python	Still_a_Piece_of_Garbage	
 0	-11.1	3721214	3042936	C++	jrke	
 0	-12.28	2181365	2206272	Kotlin	Nikolaev_Alex	
-0	-12.96	3083620	2202376	Go	YoshikoHarada	
+0	-12.97	3083620	2202376	Go	YoshikoHarada	

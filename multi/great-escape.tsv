@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3695,time=2020-10-26 02:30:23
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3695,time=2020-10-27 02:57:01
 5	35.77	1629259	2238218	C++	Marchete	
 5	33.3	494104	960105	C++	Recar	
 5	32.18	818534	960075	C++	Ixanezis	
@@ -801,12 +801,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3695,time=2020-10-26 02:30:
 3	26.62	271231	937938	C++	Ryuk	
 3	26.61	832111	1122430	C++	esteine32	
 3	26.6	792261	937965	C++	IKKYU	
-3	26.56	222586	1836885	C++	Scarak	
 3	26.56	2472606	3002838	C++	MehdiTouil	
+3	26.55	321382	937961	Go	l-lin	
 3	26.53	2115491	2494878	Javascript	Haashi	
 3	26.52	2496173	2128476	Python3	rrter123	
 3	26.51	950512	944180	Python3	salim.aboubacar	
-3	26.5	321382	937961	Go	l-lin	
+3	26.49	222586	1836885	C++	Scarak	
 3	26.49	1676554	937613	Python3	34003552	
 3	26.48	958490	2660736	Python3	lj	
 3	26.46	857521	2246452	C#	MrAnderson	
@@ -815,11 +815,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3695,time=2020-10-26 02:30:
 3	26.39	2581271	1838748	Java	BaffettiBis	
 3	26.38	884874	1627758	C	Zauberer	
 3	26.32	1181768	1212921	Java	dio_O	
+3	26.26	1183644	937719	C++	Donotalo	
 3	26.22	990110	937722	C	Rogerup	
 3	26.22	1555765	937764	C#	DewJunkie	
 3	26.19	1122412	938128	Java	TheNinja	
 3	26.19	2153101	1482917	Python3	Bilou06	
-3	26.17	1183644	937719	C++	Donotalo	
 3	26.14	1968818	2128346	C++	TeamTurtle	
 3	26.08	3235897	2471895	Java	Zylo	
 3	26.07	3435738	2588910	C++	Resiakedrom	
@@ -939,10 +939,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3695,time=2020-10-26 02:30:
 3	23.39	203779	937676	C++	guille1304	
 3	23.39	1241062	1087187	Java	jbs	
 3	23.37	2455616	2048959	Java	JeanClaude44	
-3	23.37	652032	937583	Python3	SkyDream	
 3	23.36	574513	938095	PHP	Yassin	
 3	23.32	1437352	937420	C++	lextase	
 3	23.25	1791716	965670	Javascript	S.lexis	
+3	23.24	652032	937583	Python3	SkyDream	
 3	23.22	397123	937702	Javascript	Fafnir	
 3	23.21	1568785	965001	C	Chalzy	
 3	23.2	1386421	2913592	Kotlin	Anton.Siardziuk	
@@ -959,16 +959,16 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3695,time=2020-10-26 02:30:
 3	23.1	3308383	2332587	Java	Isildur	
 3	23.08	2218781	1495510	C++	tysia2512	
 3	23.07	894599	969297	Java	DidierC	
-3	23.05	987165	2087715	C#	KaitoKid	
 3	23.05	1372843	937673	Java	djjeck	
+3	23.04	987165	2087715	C#	KaitoKid	
 3	23	1268618	958621	Java	Barnou	
 3	22.97	858034	937830	C#	Sebaplus	
 3	22.96	2526322	1866714	Python3	fhemsworth	
 3	22.93	300874	938132	Java	PeturIngiEgilsson	
 3	22.91	2255187	2087043	PHP	rom_02	
 3	22.91	3302098	2326233	Java	The_Agents	
+3	22.91	2717909	1963699	Java	Nelb	
 3	22.9	783337	937799	Javascript	Dewey	
-3	22.89	2717909	1963699	Java	Nelb	
 3	22.87	527739	937968	Python3	i_v_a	
 3	22.83	540198	937810	C#	SLavaLL	
 3	22.76	995896	937969	C#	Ro9	
@@ -982,6 +982,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3695,time=2020-10-26 02:30:
 3	22.66	814408	937469	C#	Tohm	
 3	22.65	870035	937623	Java	nefobu	
 3	22.65	153674	938600	C	GQMP	
+3	22.65	2566266	1836929	Java	nicola_greco	
 3	22.63	2290633	2338466	Python3	field3	
 3	22.63	1781310	939659	C	pm99	
 3	22.62	975571	937388	Python3	Gophys	
@@ -991,11 +992,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3695,time=2020-10-26 02:30:
 3	22.57	1425092	937573	Perl	MercurioPT	
 3	22.56	3950687	3083129	Python3	vkreuz	
 3	22.52	1284747	947166	C++	mr-push	
-3	22.52	2566266	1836929	Java	nicola_greco	
-3	22.49	595939	938084	C++	MerlinDS	
+3	22.5	829496	937813	Go	alkaloidbtx	
+3	22.5	595939	938084	C++	MerlinDS	
 3	22.48	589235	938518	C++	fesouek	
-3	22.48	829496	937813	Go	alkaloidbtx	
 3	22.46	1333869	954741	Python3	kiwijam	
 3	22.45	819803	937906	Java	Anordil	
+3	22.38	1462449	1105887	C++	wackadoodle	
 3	22.38	2847829	3078465	C++	bcwaitwaiter	
-3	22.36	1462449	1105887	C++	wackadoodle	

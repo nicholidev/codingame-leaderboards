@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=40,time=2020-10-26 00:30:04
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=41,time=2020-10-27 00:56:40
 3	30.23	1186250	3115482	Python3	Gabbek	
 3	30.07	2288263	2696905	Rust	dbdr	
 3	28.45	1479930	2680171	C++	LeRenard	
@@ -23,19 +23,20 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=40,time=2020-10-26 00:30:04
 3	11.22	371603	2836244	C++	martin	
 3	10.83	314562	2695993	Python3	Mechar	
 3	4.76	1635357	2830906	Python3	GiB	
-2	20.82	1740037	2684934	Scala	ereiam	
-2	15.83	2069141	2682987	C#	tomeko	
-2	14.52	2416641	2680109	Python3	Zenoscave	
-2	11.27	862919	2706537	C++	Astrobytes	
-2	10.62	2923506	2682340	C++	darkhorse64	
-2	5.97	1029602	2695889	C	Potemkine	
-1	10.32	1412263	3073118	PHP	PatrickMcGinnisII	
-0	7.6	2043908	2680280	D	AntiSquid	
-0	7.55	2325449	2985364	Perl	otpv	
-0	7.54	3386139	3027710	Python3	MaliciouslyCrypticUsername	
-0	7.53	1713174	2683174	Python3	BigUP	
-0	7.53	3464590	3012280	C	abbecool	
-0	7.52	523846	2828228	C#	Palmipedus	
-0	7.47	1854639	2995988	C#	iDxMeG	
-0	7.45	1341520	3002283	Java	egaetan	
-0	7.4	3808031	3116670	Ruby	_proton	
+2	25.84	2043908	3150388	Java	AntiSquid	
+2	21.3	1740037	2684934	Scala	ereiam	
+2	15.77	2069141	2682987	C#	tomeko	
+2	13.68	2416641	2680109	Python3	Zenoscave	
+2	11.42	862919	2706537	C++	Astrobytes	
+2	9.61	2923506	2682340	C++	darkhorse64	
+2	5.75	1029602	2695889	C	Potemkine	
+2	4.18	4029033	3150357	TypeScript	3DPerson	
+1	10.3	1412263	3073118	PHP	PatrickMcGinnisII	
+0	7.39	1854639	2995988	C#	iDxMeG	
+0	7.38	523846	2828228	C#	Palmipedus	
+0	7.38	2325449	2985364	Perl	otpv	
+0	7.37	1341520	3002283	Java	egaetan	
+0	7.36	3808031	3116670	Ruby	_proton	
+0	7.36	1713174	2683174	Python3	BigUP	
+0	7.36	3464590	3012280	C	abbecool	
+0	7.36	3386139	3027710	Python3	MaliciouslyCrypticUsername	
