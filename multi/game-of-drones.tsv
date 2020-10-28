@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3334,time=2020-10-27 02:57:02
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3335,time=2020-10-28 02:35:54
 5	27.16	1629259	2643022	C++	Marchete	
 5	27.03	271873	1511817	C#	lionel_fr	
 5	26.91	1500515	1490058	C#	eulerscheZahl	
@@ -15,7 +15,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3334,time=2020-10-27 02:57:
 5	24.41	1716299	1456502	C++	micky924	
 5	24.35	2288263	3094053	Rust	dbdr	
 5	24.06	1538549	1444741	Python3	Nikodimishe	
-5	23.77	2416641	2060822	Python	Zenoscave	
+5	23.77	2416641	2060822	Python	zenoscave	
 5	23.58	226528	1444749	Java	Manwe	
 5	23.52	2097688	1445329	Python	machinegun	
 5	23.14	193315	1444740	Java	hau	
@@ -905,7 +905,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3334,time=2020-10-27 02:57:
 4	4.89	1443075	1450187	C++	Wolfy82	
 4	4.86	631609	1441077	C++	claris	
 4	4.82	154290	1439707	Perl	Scorfly	
-3	20.32	1886665	3125941	C++	Ficek	
+3	20.16	1886665	3125941	C++	Ficek	
 3	20.05	3631440	3131773	Javascript	Sceat2	
 3	19.28	2863335	2505864	Python3	denkuc	
 3	18.83	2480123	2799708	C++	HowBro	
@@ -929,6 +929,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3334,time=2020-10-27 02:57:
 3	17.63	1407621	1431888	C++	Taohbi	
 3	17.63	494104	1432011	C++	Recar	
 3	17.62	1777292	1432155	Python3	hopplahopp	
+3	17.6	1770280	1431834	C#	Maxboyer	
 3	17.59	2880319	2087998	Python3	BigBoost	
 3	17.59	855824	1432134	Python	VoxMortem	
 3	17.58	2633560	2307106	PHP	Sunitrams	
@@ -942,7 +943,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3334,time=2020-10-27 02:57:
 3	17.51	572797	1431906	C#	Kreys	
 3	17.51	3301073	2416819	Java	Sihosnarf	
 3	17.48	934381	2434401	Rust	PolyB	
-3	17.47	1770280	1431834	C#	Maxboyer	
 3	17.46	1457642	1431901	C#	Muumiankka	
 3	17.41	389175	1431923	Java	Folkenn84	
 3	17.4	1516658	1431941	C#	TommyJohansson	

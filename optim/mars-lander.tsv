@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3093,time=2020-10-27 03:08:14
+Score	UserID	Lang	Pseudo	#optim,count=3097,time=2020-10-28 02:36:07
 2509	1327028	C++	FredericBautista	
 2507	154372	Bash	Plopx	
 2504	1695697	Python3		
@@ -42,6 +42,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3093,time=2020-10-27 03:08:14
 2416	1854246	C++	Counterbalance	
 2415	218189	Java	[CG]Maxime	
 2413	2923506	C++	darkhorse64	
+2412	2315158	Java	luigi_gelato	
 2406	1169499	C++	naab	
 2406	1457162	C++	JFB	
 2404	1835525	C#	nwendel	
@@ -61,7 +62,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3093,time=2020-10-27 03:08:14
 2378	1607522	C++	RoboStac	
 2377	1034635	C++	SlyB	
 2377	2740243	Python3	Rprades	
-2377	2315158	Java	luigi_gelato	
 2376	1000199	C	Zlatko	
 2375	574656	Python3	dmpage	
 2373	1568785	C	Chalzy	
@@ -75,6 +75,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3093,time=2020-10-27 03:08:14
 2361	886483	PHP	R4N4R4M4	
 2360	1983337	C++	PeterBlack	
 2358	2387233	C#	SinOfWrath	
+2356	3515315	Python3	MichalM	
 2355	1675034	Javascript	francois	
 2353	2714157	C++	HowToCodeYourGundam	
 2350	3873399	C++	Bruno_OR	
@@ -244,6 +245,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3093,time=2020-10-27 03:08:14
 2117	3878859	C++	BGR	
 2117	1539784	C++	Dysman	
 2115	1753072	C++	MrOne	
+2115	2401975	C#	KeepCaIm	
 2113	2071429	Python3	Mgcat	
 2112	1206537	C++	MadKnight	
 2110	1803872	Python3	happyweary	
@@ -255,6 +257,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3093,time=2020-10-27 03:08:14
 2101	3756199	C++	KnightMoves	
 2100	3445604	Python3	natPringle	
 2099	195088	C++	Jopie64	
+2099	3073020	Swift	_francois_	
 2098	2350415	C++	Vintarel	
 2097	1612475	C#	superhoang	
 2095	950545	C#	Cobru	
@@ -399,6 +402,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3093,time=2020-10-27 03:08:14
 1991	3921345	Java	JFP81	
 1991	3983310	Java		
 1991	3975966	Java	sem87	
+1991	3962136	Java	l4hg	
 1990	876163	C#	AY1111	
 1989	2155687	Scala	NilsTheWizzard	
 1989	3937902	C#	Vectoribus	
@@ -601,7 +605,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3093,time=2020-10-27 03:08:14
 1868	3930101	C#	0xB6F5F0	
 1866	1986308	PHP	tautelis	
 1866	3418342	C++	RJones	
-1866	2416641	Python3	Zenoscave	
+1866	2416641	Python3	zenoscave	
 1865	1052271	C#	Bleash	
 1865	1506980	Python3	Gussar	
 1864	1828833	Python3	VivekVenkatesan	
@@ -995,7 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=3093,time=2020-10-27 03:08:14
 1771	3667335	Python3	tdb64	
 1771	3500889	Java	oPyRuSo	
 1771	1953786	Python3	ludowsky	
-1771	3928554	Java	ScorchingEagle	
-1771	1255509	Java	BTA	
-1771	1483648	Java	DhakalKumar	
-1771	928567	Java	Konstanta	
