@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=6894,time=2020-10-28 02:36:07
+Score	UserID	Lang	Pseudo	#optim,count=6849,time=2020-10-29 02:36:29
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -150,7 +150,6 @@ Score	UserID	Lang	Pseudo	#optim,count=6894,time=2020-10-28 02:36:07
 207890	3965104	C	casd2	
 207490	3626931	C	BlackStorm	
 206300	2145460	Java	r33ncode	
-206280	1755356	Java		
 206220	1152991	C#	xoposhiy	
 206040	2080768	C++	Binchy	
 205690	2051334	C++	Dwarth	
@@ -165,7 +164,6 @@ Score	UserID	Lang	Pseudo	#optim,count=6894,time=2020-10-28 02:36:07
 203400	1880319	C++	WildSmilodon	
 203360	226528	C++	Manwe	
 202890	3960362	C	Asgardinho	
-202510	3590712	C		
 202450	1853167	Java	rcode	
 202360	272290	Go	Olaf69	
 201370	2729630	C++	Halphas	
@@ -562,7 +560,6 @@ Score	UserID	Lang	Pseudo	#optim,count=6894,time=2020-10-28 02:36:07
 64260	2320077	C++	leetdavid	
 64260	1737565	C++	FunnyCoder	
 64260	1986145	Python3	ValNyz	
-64260	2334955	C++		
 64260	2437570	C++	LordAchillus	
 64260	2449144	C++	Squiki	
 64260	2320186	C++	aPoStAl	
@@ -570,7 +567,6 @@ Score	UserID	Lang	Pseudo	#optim,count=6894,time=2020-10-28 02:36:07
 64260	1515891	Kotlin	ndc	
 64260	2578005	C++	RahulKumarMishra	
 64260	2657521	C++	Exaltify	
-64260	1854830	C++		
 64260	2711854	C++	sl0wz	
 64260	2686455	Python3	Hyperionx	
 64260	1096836	C++	AyoubOuddah	
@@ -594,7 +590,6 @@ Score	UserID	Lang	Pseudo	#optim,count=6894,time=2020-10-28 02:36:07
 64260	3293190	C++	lhm	
 64260	2405889	C++	Saivo	
 64260	3359119	C++		
-64260	3165377	C++		
 64260	3378415	C++	FrankJim	
 64260	3382988	C++	luke27	
 64260	1390789	C++	Matthieu.L	
@@ -617,7 +612,6 @@ Score	UserID	Lang	Pseudo	#optim,count=6894,time=2020-10-28 02:36:07
 64260	3363565	C++	BloodRayne	
 64260	3662300	Python3	bagoessatyahutama	
 64260	3489132	C++	Lvooodou	
-64260	1642003	C++		
 64260	2298871	C#	wth.mvp.s	
 64260	1276891	C++	Zeba	
 64260	3071738	C++	ClashLuke	
@@ -761,8 +755,6 @@ Score	UserID	Lang	Pseudo	#optim,count=6894,time=2020-10-28 02:36:07
 62900	849999	Java	Moez	
 62890	1243629	C#	NourNasser	
 62890	1363036	PHP		
-62890	1492070	Ruby		
-62890	1648901	Javascript		
 62890	2379115	PHP	Pheniox-wang	
 62890	2451457	Javascript	IntoX	
 62890	1796861	Python3	Fabiennn	
@@ -785,7 +777,6 @@ Score	UserID	Lang	Pseudo	#optim,count=6894,time=2020-10-28 02:36:07
 62630	676334	C#	that0th3rGuy	
 62610	880044	C#	Dalmali	
 62610	863196	Java	Zenthar	
-62610	1613247	Javascript		
 62610	540192	Javascript	Chifu	
 62610	2207458	C#	GoodAlex	
 62610	949601	Python3	Romkinder	
@@ -816,8 +807,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6894,time=2020-10-28 02:36:07
 62370	221573	Javascript	TiTi	
 62370	1618216	Java	strmrdr	
 62370	1297147	C++	[BDX][2020]duhieu_b	
-62360	2085649	Ruby	Lsmith-Zenoscave	
-62360	2416641	Ruby	zenoscave	
+62360	2416641	Ruby	Zenoscave	
 62350	249095	Python3	papaloizouc	
 62340	2318232	Java	koos	
 62330	160272	Javascript	ddgll	
@@ -827,12 +817,10 @@ Score	UserID	Lang	Pseudo	#optim,count=6894,time=2020-10-28 02:36:07
 62300	1867113	Python3	k2xl	
 62290	3176113	C++	xsparky	
 62280	3380514	Java	DFrese	
-62250	1054451	C#		
 62250	227687	C#	Johanny	
 62180	153045	Python3	nib	
 62160	218189	Python3	[CG]Maxime	
 62150	1420269	Python3	Vischtor	
-62130	2159518	C++		
 62120	3389236	C#	spuriga	
 62060	1660602	PHP	SemChumboPT	
 62050	1107784	C++	SimpleCpp	
@@ -929,6 +917,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6894,time=2020-10-28 02:36:07
 61000	3518070	Python3	DRHarvey	
 60990	836415	Java	tallo	
 60990	3455804	Javascript	D0SD3	
+60990	3360779	Python3	Lundez	
 60970	2884810	Javascript	JeanGaudiau	
 60960	1152307	PHP	JON	
 60960	3854818	Python3	jono-vision	
@@ -973,6 +962,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6894,time=2020-10-28 02:36:07
 60550	1925124	Java	BAP_BOY	
 60550	1479877	Java	teukkam	
 60530	1861258	Python3	Nazdhun	
+60530	3317227	Python3	hoggi	
 60500	849871	Python3	Prodigalninja	
 60500	1353260	Java	kluf	
 60500	777563	Java	hnzlmnn	
@@ -999,3 +989,13 @@ Score	UserID	Lang	Pseudo	#optim,count=6894,time=2020-10-28 02:36:07
 60240	2325449	Perl	otpv	
 60230	3789123	Python3	Fladi	
 60180	2098777	C++	static_cats	
+60170	467193	Java	pin72	
+60170	2000540	C#	rombolshak	
+60160	3912055	Python3	Gompanghee	
+60150	2740243	Python3	Rprades	
+60090	1368649	PHP	JohnOrjias	
+60080	1544382	Python3	Ashargin	
+60070	1342741	Python3	ltDan	
+60070	3407821	Go	SuperBandit228	
+60030	3414863	Javascript	smsalisbury	
+60020	1944576	Javascript	mcmoe	

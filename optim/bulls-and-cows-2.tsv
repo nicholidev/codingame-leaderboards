@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=112,time=2020-10-28 02:36:04
+Score	UserID	Lang	Pseudo	#optim,count=113,time=2020-10-29 02:36:26
 291	2288263	Rust	dbdr	
 298	1436776	C++	BrainSolver	
 304	1607522	C++	RoboStac	
@@ -7,7 +7,7 @@ Score	UserID	Lang	Pseudo	#optim,count=112,time=2020-10-28 02:36:04
 315	2924895	C	trictrac	
 317	2923506	C++	darkhorse64	
 318	1629259	C++	Marchete	
-319	2416641	C	zenoscave	
+319	2416641	C	Zenoscave	
 323	1854246	C++	Counterbalance	
 327	1584802	C++	emh	
 335	888898	C++	helgui	
@@ -24,9 +24,9 @@ Score	UserID	Lang	Pseudo	#optim,count=112,time=2020-10-28 02:36:04
 685	2740243	Python3	Rprades	
 703	980147	Python3	kingmoshe	
 737	3435179	Python3	Valphyr	
+746	820000	C++	ValGrowth	
 782	1925452	Python3	Cyriax	
 800	1201783	Python3	qsantos	
-814	820000	C++	ValGrowth	
 854	1484839	Go	sparky	
 890	1457162	Python3	JFB	
 907	2058158	Python3	RolandKnight	
@@ -40,6 +40,7 @@ Score	UserID	Lang	Pseudo	#optim,count=112,time=2020-10-28 02:36:04
 1476	155774	PHP	dwarfie	
 1497	3226448	Python3	tobk	
 1516	1335230	Python3	jft63	
+1643	1802967	Python3	Meruem	
 1730	2064637	Java	java_coffee_cup	
 1936	3740208	Python3	Dinca	
 2067	1466631	Python3	Akrib	

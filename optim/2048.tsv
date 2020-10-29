@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=61,time=2020-10-28 02:36:04
+Score	UserID	Lang	Pseudo	#optim,count=64,time=2020-10-29 02:36:26
 62535564	2288263	Rust	dbdr	
 59353440	3354337	C++	Westicles	
 59353408	3457031	C++	YurkovAS	
@@ -13,7 +13,7 @@ Score	UserID	Lang	Pseudo	#optim,count=61,time=2020-10-28 02:36:04
 21068732	1050421	Java	geppoz	
 17926052	1436776	C++	BrainSolver	
 16652164	2968035	C++	DomiKo	
-15247188	2416641	C++	zenoscave	
+15247188	2416641	C++	Zenoscave	
 10029096	1500515	C#	eulerscheZahl	
 6593296	1515891	Go	ndc	
 3298036	311035	Python3	leojean890	
@@ -49,7 +49,9 @@ Score	UserID	Lang	Pseudo	#optim,count=61,time=2020-10-28 02:36:04
 39376	837350	Python3	BorisZ	
 35956	3136787	Python3	jacek	
 32136	3657937	Python3	elderlybeginner	
+30008	3967220	TypeScript	ArturSkrobisz	
 29348	3574688	C++	RaulButuc	
+29168	2064637	Java	java_coffee_cup	
 28188	1040176	Python3	BoBot	
 27416	1932031	Python3	Tricatel	
 25456	3640862	Python3	nopnop	
@@ -57,5 +59,6 @@ Score	UserID	Lang	Pseudo	#optim,count=61,time=2020-10-28 02:36:04
 21924	3872416	Python3	CodinGamerAK	
 4792	1759839	Python3	matleg	
 4296	3596445	Python3	Bafiko	
+2224	865548	Go	Kktus	
 344	3787419	C	Thyl	
 344	3230794	Python3	tutubalin	

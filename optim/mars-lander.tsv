@@ -1,7 +1,6 @@
-Score	UserID	Lang	Pseudo	#optim,count=3097,time=2020-10-28 02:36:07
+Score	UserID	Lang	Pseudo	#optim,count=3070,time=2020-10-29 02:36:28
 2509	1327028	C++	FredericBautista	
 2507	154372	Bash	Plopx	
-2504	1695697	Python3		
 2504	1249786	C#	Fededevi	
 2501	1864483	Java	Mistblinde	
 2500	2288263	Rust	dbdr	
@@ -228,6 +227,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3097,time=2020-10-28 02:36:07
 2135	1297312	Java	Sephrenya	
 2134	1718945	C++	ilovebugs	
 2134	3521631	C#	Bamboozled2	
+2134	1304841	Java	NitMpez	
 2133	3737875	C#	Gordon-from-Blumberg	
 2130	1181768	Java	dio_O	
 2125	1114834	Scala	k4ng0u	
@@ -376,13 +376,11 @@ Score	UserID	Lang	Pseudo	#optim,count=3097,time=2020-10-28 02:36:07
 1995	947530	C		
 1994	1518504	Javascript	bohuss	
 1992	1142942	C#	Aquamoth	
-1992	1630341	C++		
 1992	1836300	C++	Aaron_Smith	
 1992	2694059	C++	AntonioAlmeida	
 1991	880128	Java	hardzsi	
 1991	1369177	Java	PernicN	
 1991	1753424	Java	FilkinKuiv	
-1991	1546047	Java		
 1991	666934	Java	93	
 1991	2006324	Java	SihardeOussama	
 1991	2315411	Java	cejonio	
@@ -400,7 +398,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3097,time=2020-10-28 02:36:07
 1991	3899778	Java	Mappator	
 1991	3387410	Java	Paolo_Rzf	
 1991	3921345	Java	JFP81	
-1991	3983310	Java		
 1991	3975966	Java	sem87	
 1991	3962136	Java	l4hg	
 1990	876163	C#	AY1111	
@@ -520,6 +517,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3097,time=2020-10-28 02:36:07
 1920	1373231	Python3	shypiguy	
 1920	1297147	C#	[BDX][2020]duhieu_b	
 1919	1173745	C	Gossmar	
+1919	3700629	Javascript	serialgg	
 1918	1112705	Java	Pent	
 1918	1479930	C++	LeRenard	
 1918	3414701	C++		
@@ -601,17 +599,15 @@ Score	UserID	Lang	Pseudo	#optim,count=3097,time=2020-10-28 02:36:07
 1870	3895848	Ruby	fboccacini	
 1868	959757	Python3	buffer[]	
 1868	1279751	Rust	Tudou	
-1868	846467	C#		
 1868	3930101	C#	0xB6F5F0	
 1866	1986308	PHP	tautelis	
 1866	3418342	C++	RJones	
-1866	2416641	Python3	zenoscave	
+1866	2416641	Python3	Zenoscave	
 1865	1052271	C#	Bleash	
 1865	1506980	Python3	Gussar	
 1864	1828833	Python3	VivekVenkatesan	
 1864	1863971	C#	envayyu	
 1864	3003814	C++		
-1863	3565695	C++		
 1863	3502258	Python3	TimAI	
 1861	292106	C++	durmus	
 1860	1133716	Javascript	Jbz797	
@@ -658,7 +654,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3097,time=2020-10-28 02:36:07
 1843	1236966	Lua	Taihennami	
 1843	1473347	Java	Horrz	
 1843	765559	Javascript	Shelby	
-1843	2883850	C++		
 1843	3226794	Java	Michal74	
 1843	3857425	C#		
 1842	1230740	Javascript	tha_cliff	
@@ -712,7 +707,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3097,time=2020-10-28 02:36:07
 1818	2327967	Python3	Karocyt	
 1818	1158098	Python3	Matjaz	
 1817	964169	Perl	ivanoff.org.ua	
-1815	2890029	C++		
 1815	2890038	C++	WilliamWebster	
 1814	864093	Python3	betwo	
 1814	919703	C++	TheShadowX	
@@ -811,7 +805,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3097,time=2020-10-28 02:36:07
 1780	1175343	Java	Hankerspace	
 1780	1781074	Java	oncleBob	
 1780	1623470	Lua	sparlane	
-1780	3162715	Javascript		
 1780	3519043	Javascript	HasanVeliSoyalan	
 1780	2298871	Javascript	wth.mvp.s	
 1780	3693549	Javascript	MostafaAhmedAbdEl-fattah	
@@ -885,7 +878,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3097,time=2020-10-28 02:36:07
 1771	1119900	Java	Ryseth	
 1771	1288911	Java	Wilds85	
 1771	1262356	Java	Wolfor	
-1771	1242203	Java		
 1771	1290301	Java	AgNO3	
 1771	301922	Java	tyrcho	
 1771	1250289	Java	Thibzzz	
@@ -950,7 +942,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3097,time=2020-10-28 02:36:07
 1771	2197683	Java	Yusuf123	
 1771	1855354	C#	KiwiTae	
 1771	2195827	Java	Stoatee	
-1771	1803474	Java		
 1771	2240491	Java	TooPashka	
 1771	2281069	Java	.Morfeus.	
 1771	2263449	Java	Slandais	
@@ -988,7 +979,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3097,time=2020-10-28 02:36:07
 1771	3749793	Python3	WINWINWIN	
 1771	3849265	Java	hydroglicerol	
 1771	3038129	Java	Nico11	
-1771	3887248	Java		
 1771	3888426	Java	OnlyLouis	
 1771	1434851	Javascript	i3r	
 1771	154906	Java	JBM	
@@ -999,3 +989,13 @@ Score	UserID	Lang	Pseudo	#optim,count=3097,time=2020-10-28 02:36:07
 1771	3667335	Python3	tdb64	
 1771	3500889	Java	oPyRuSo	
 1771	1953786	Python3	ludowsky	
+1771	3928554	Java	ScorchingEagle	
+1771	1255509	Java	BTA	
+1771	1483648	Java	DhakalKumar	
+1771	928567	Java	Konstanta	
+1771	658246	Java	leon44	
+1771	3966824	Java	Quanseigi	
+1771	1957077	Java	domak	
+1771	3984603	Java	itsSlumphoe	
+1771	3984597	Java	mrmert	
+1771	3979131	Java	David_Szmul	
