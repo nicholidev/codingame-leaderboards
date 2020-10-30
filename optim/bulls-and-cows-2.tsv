@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=113,time=2020-10-29 02:36:26
+Score	UserID	Lang	Pseudo	#optim,count=114,time=2020-10-30 02:30:31
 291	2288263	Rust	dbdr	
 298	1436776	C++	BrainSolver	
 304	1607522	C++	RoboStac	
@@ -16,6 +16,7 @@ Score	UserID	Lang	Pseudo	#optim,count=113,time=2020-10-29 02:36:26
 363	440476	C++	yowa	
 403	1684486	C++	Whopper	
 458	2436448	Java	FrancoisMeme	
+464	820000	C++	ValGrowth	
 485	1566335	Python3	BeardedWhale	
 508	792813	Python3	VilBoub	
 567	2786666	C++	TetraktysPhi	
@@ -24,7 +25,6 @@ Score	UserID	Lang	Pseudo	#optim,count=113,time=2020-10-29 02:36:26
 685	2740243	Python3	Rprades	
 703	980147	Python3	kingmoshe	
 737	3435179	Python3	Valphyr	
-746	820000	C++	ValGrowth	
 782	1925452	Python3	Cyriax	
 800	1201783	Python3	qsantos	
 854	1484839	Go	sparky	
@@ -45,4 +45,5 @@ Score	UserID	Lang	Pseudo	#optim,count=113,time=2020-10-29 02:36:26
 1936	3740208	Python3	Dinca	
 2067	1466631	Python3	Akrib	
 2237	3657937	Python3	elderlybeginner	
+2378	1272263	Python3	Caled	
 2722	1337394	Python3	--cha--	
