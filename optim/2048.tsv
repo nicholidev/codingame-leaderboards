@@ -1,13 +1,13 @@
-Score	UserID	Lang	Pseudo	#optim,count=65,time=2020-10-30 02:30:31
+Score	UserID	Lang	Pseudo	#optim,count=67,time=2020-10-31 04:42:30
 62535564	2288263	Rust	dbdr	
+59353464	3457031	C++	YurkovAS	
 59353440	3354337	C++	Westicles	
-59353408	3457031	C++	YurkovAS	
 59353048	1336464	C++	magaiti	
 58727648	735487	C++	amurushkin	
 56679460	2311105	C++	kovi	
 56228180	1378958	C#	Illedan	
 56158848	3533119	C++	wlesavo	
-52492520	351062	C++	Neumann	
+55334532	351062	C++	Neumann	
 27075256	820000	C++	ValGrowth	
 23960660	2924895	C	trictrac	
 21068732	1050421	Java	geppoz	
@@ -22,13 +22,13 @@ Score	UserID	Lang	Pseudo	#optim,count=65,time=2020-10-30 02:30:31
 2741448	2786666	C++	TetraktysPhi	
 2012688	155774	C++	dwarfie	
 1403092	1412263	PHP	PatrickMcGinnisII	
+1151040	490588	Python3	Uljahn	
 725440	3842838	TypeScript	Streusel	
 305628	792813	Python3	VilBoub	
 250352	3942793	Java	The_Auditor	
 161352	1457162	Python3	JFB	
 97496	2557034	Python3	IAmAButterfly	
 93356	862919	C++	Astrobytes	
-87448	490588	Python3	Uljahn	
 80000	2414853	Python3	StephaneLaveau	
 79900	523185	Python3	Hjax	
 79044	1740237	Python3	OlegKornelsen	
@@ -44,12 +44,14 @@ Score	UserID	Lang	Pseudo	#optim,count=65,time=2020-10-30 02:30:31
 49232	3950687	Python3	vkreuz	
 48220	165671	Python3	TheDarkByte	
 47748	826671	Python3	kayou	
+45780	3515315	Python3	MichalM	
 45200	4002619	Python3	Juraj09	
 43648	351385	Python3	fabmarcant	
 39376	837350	Python3	BorisZ	
 35956	3136787	Python3	jacek	
 32136	3657937	Python3	elderlybeginner	
 30652	2064637	Java	java_coffee_cup	
+30316	2508635	Java	hemhel	
 30008	3967220	TypeScript	ArturSkrobisz	
 29348	3574688	C++	RaulButuc	
 28932	1740037	Scala	ereiam	

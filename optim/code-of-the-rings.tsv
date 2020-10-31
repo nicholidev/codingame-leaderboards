@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3932,time=2020-10-30 02:30:35
+Score	UserID	Lang	Pseudo	#optim,count=3936,time=2020-10-31 04:42:33
 2759	1301401	C#	Stanax	
 2761	1833680	C++	jvivenot	
 2765	2288263	Rust	dbdr	
@@ -173,6 +173,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3932,time=2020-10-30 02:30:35
 3950	3721214	C++	jrke	
 3950	3775369	C++	umesh007	
 3955	833606	Java	mattrero	
+3956	1802967	Python3	Meruem	
 3963	660374	Haskell	nomeata	
 3972	153674	C	GQMP	
 3972	337622	Scala	Isammoc	
@@ -458,6 +459,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3932,time=2020-10-30 02:30:35
 5567	1651569	Go	Insan	
 5567	236685	Java	Palawan	
 5569	1925452	C++	Cyriax	
+5580	1684030	Rust	Mator	
 5586	1078288	Haskell	d6r27-h59p	
 5588	153057	PHP	PierralF	
 5591	2638940	Python3	Pergunta2	
@@ -543,7 +545,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3932,time=2020-10-30 02:30:35
 5743	2928146	PHP	LolCat	
 5746	2067176	Javascript	0bug	
 5748	1640896	Python3	MikeCorp	
-5750	1802967	Python3	Meruem	
 5751	2158902	Scala	Snowbart	
 5752	1632895	Python3	CodinMonkey	
 5754	854169	Python3	Silmaen	
@@ -574,6 +575,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3932,time=2020-10-30 02:30:35
 5790	947230	C++	gupascal	
 5790	482445	C#	BogdanSavchenko	
 5792	2650884	C++	chibix	
+5792	3960017	Python3	PaulM64	
 5793	1405926	Javascript	mtreinik	
 5793	1982679	Go	Quidcott	
 5794	1517028	Python3	Nicau	
@@ -997,5 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=3932,time=2020-10-30 02:30:35
 5960	1957077	Kotlin	domak	
 5960	2708267	TypeScript	XyoloJR	
 5962	235663	Scala	MicheleM	
-5962	825231	Go	tumbudu	
-5962	417433	C++	Oakos	
