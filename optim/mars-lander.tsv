@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3078,time=2020-10-31 04:42:32
+Score	UserID	Lang	Pseudo	#optim,count=3086,time=2020-11-01 04:58:28
 2509	1327028	C++	FredericBautista	
 2507	154372	Bash	Plopx	
 2504	1249786	C#	Fededevi	
@@ -9,7 +9,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3078,time=2020-10-31 04:42:32
 2492	1399382	C#	Regulus136	
 2485	1039809	C#	Azziliz	
 2485	154984	PHP	_Royale	
-2481	2968035	C++	DomiKo	
+2482	2968035	C++	DomiKo	
 2478	338469	C++	mcts	
 2477	1201783	Python3	qsantos	
 2476	1629259	C#	Marchete	
@@ -31,6 +31,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3078,time=2020-10-31 04:42:32
 2441	553938	C++	MagAlex	
 2441	805067	Javascript	Magus	
 2440	1566335	Java	BeardedWhale	
+2440	2315158	Java	luigi_gelato	
 2438	1500515	C#	eulerscheZahl	
 2435	3235897	Java	Zylo	
 2429	557990	C++	Wazemo	
@@ -41,7 +42,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3078,time=2020-10-31 04:42:32
 2416	1854246	C++	Counterbalance	
 2415	218189	Java	[CG]Maxime	
 2413	2923506	C++	darkhorse64	
-2412	2315158	Java	luigi_gelato	
 2406	1169499	C++	naab	
 2406	1457162	C++	JFB	
 2404	1835525	C#	nwendel	
@@ -224,6 +224,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3078,time=2020-10-31 04:42:32
 2138	1107171	Groovy	Enough	
 2138	1062962	C++	ArmandO.S.	
 2137	1841301	C++	RetroRoberts	
+2137	976018	Python3	oxygengiver2000	
 2136	1499779	Java	NomadZ	
 2135	1082806	Python3	LowSkill	
 2135	1297312	Java	Sephrenya	
@@ -715,6 +716,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3078,time=2020-10-31 04:42:32
 1814	1480640	C#	snodes	
 1814	2973592	C#	EmmanuelJOUSSELLIN	
 1813	751853	C++	neczpal	
+1813	1802967	Python3	Meruem	
 1812	903179	Java	maksmas	
 1812	1770112	C#	Selane	
 1811	311423	Javascript	kirzyka	
@@ -767,7 +769,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3078,time=2020-10-31 04:42:32
 1792	1544438	C++	Poekie	
 1792	1734105	Python3	Bibou	
 1791	3842278	Python3	hem123	
-1791	1802967	Python3	Meruem	
 1790	1064903	C++	Ghirtor	
 1790	792813	Python3	VilBoub	
 1789	1120615	C#	kubajz	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=3078,time=2020-10-31 04:42:32
 1771	1483648	Java	DhakalKumar	
 1771	928567	Java	Konstanta	
 1771	658246	Java	leon44	
-1771	3966824	Java	Quanseigi	
