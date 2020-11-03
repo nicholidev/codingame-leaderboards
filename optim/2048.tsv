@@ -1,5 +1,5 @@
-Score	UserID	Lang	Pseudo	#optim,count=71,time=2020-11-02 02:31:42
-62535564	2288263	Rust	dbdr	
+Score	UserID	Lang	Pseudo	#optim,count=74,time=2020-11-03 02:30:29
+62564496	2288263	Rust	dbdr	
 59353464	3457031	C++	YurkovAS	
 59353440	3354337	C++	Westicles	
 59353048	1336464	C++	magaiti	
@@ -8,7 +8,7 @@ Score	UserID	Lang	Pseudo	#optim,count=71,time=2020-11-02 02:31:42
 56679460	2311105	C++	kovi	
 56228180	1378958	C#	Illedan	
 56158848	3533119	C++	wlesavo	
-41840568	1436776	C++	BrainSolver	
+44289120	1436776	C++	BrainSolver	
 27075256	820000	C++	ValGrowth	
 23960660	2924895	C	trictrac	
 21068732	1050421	Java	geppoz	
@@ -16,14 +16,15 @@ Score	UserID	Lang	Pseudo	#optim,count=71,time=2020-11-02 02:31:42
 15247188	2416641	C++	Zenoscave	
 10029096	1500515	C#	eulerscheZahl	
 6593296	1515891	Go	ndc	
+6344924	2786666	C++	TetraktysPhi	
 5255740	3305510	PHP	TBali	
-5224304	2786666	C++	TetraktysPhi	
 3298036	311035	Python3	leojean890	
+3237600	1693448	C	KoenduBuf	
 2833088	973040	C	papyjo	
 2747996	3721214	C++	jrke	
+2269112	490588	Python3	Uljahn	
 2012688	155774	C++	dwarfie	
 1403092	1412263	PHP	PatrickMcGinnisII	
-1151040	490588	Python3	Uljahn	
 725440	3842838	TypeScript	Streusel	
 305628	792813	Python3	VilBoub	
 250352	3942793	Java	The_Auditor	
@@ -37,8 +38,10 @@ Score	UserID	Lang	Pseudo	#optim,count=71,time=2020-11-02 02:31:42
 71856	992329	Python3	BeeGee	
 60256	2325449	Perl	otpv	
 55744	3416055	Python3	ItsAFeature	
+55568	3647844	Python3	rc95401	
 54884	3922731	Dart	Dartisan	
 53512	2923506	C++	darkhorse64	
+53512	3958580	C#	HITO	
 49768	508460	C++	Volia	
 49692	2532837	Ruby	fauresebast	
 49232	2043908	D	AntiSquid	
@@ -50,7 +53,6 @@ Score	UserID	Lang	Pseudo	#optim,count=71,time=2020-11-02 02:31:42
 45200	4002619	Python3	Juraj09	
 43648	351385	Python3	fabmarcant	
 39376	837350	Python3	BorisZ	
-36020	3647844	Python3	rc95401	
 35956	3136787	Python3	jacek	
 32336	3737269	Python3	htprogras	
 32136	3657937	Python3	elderlybeginner	
@@ -63,6 +65,7 @@ Score	UserID	Lang	Pseudo	#optim,count=71,time=2020-11-02 02:31:42
 27416	1932031	Python3	Tricatel	
 25456	3640862	Python3	nopnop	
 24184	1495694	C++	MisterJensen	
+22856	3626782	Java	MattSOrme	
 21924	3872416	Python3	CodinGamerAK	
 4792	1759839	Python3	matleg	
 4296	3596445	Python3	Bafiko	
