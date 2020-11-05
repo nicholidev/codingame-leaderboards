@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=830,time=2020-11-04 03:03:07
+Score	UserID	Lang	Pseudo	#optim,count=831,time=2020-11-05 00:48:30
 11902	2288263	Rust	dbdr	
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
@@ -20,6 +20,7 @@ Score	UserID	Lang	Pseudo	#optim,count=830,time=2020-11-04 03:03:07
 10647	2077805	C++	bamilan	
 10611	2311105	C++	kovi	
 10529	1335230	C++	jft63	
+10311	2968035	C++	DomiKo	
 10272	2316796	PHP	Psio	
 10262	893541	Java	wala	
 10241	1344487	Java	UnnamedCodinGamer	
@@ -36,7 +37,6 @@ Score	UserID	Lang	Pseudo	#optim,count=830,time=2020-11-04 03:03:07
 10103	735487	C++	amurushkin	
 10088	1064903	C++	Ghirtor	
 10032	331880	C++	Monstruo	
-10020	2968035	C++	DomiKo	
 9997	2731276	C++	panda42	
 9862	1314316	C++	jolindien	
 9856	892056	Java	LaurentTrk	
@@ -65,6 +65,7 @@ Score	UserID	Lang	Pseudo	#optim,count=830,time=2020-11-04 03:03:07
 9408	1203167	C++	r3versi	
 9393	155939	C++	xylo	
 9358	805067	C++	Magus	
+9358	1304841	C++	NitMpez	
 9312	1631432	C++	freecode	
 9224	939530	Java	Jahz	
 9194	3380514	Java	DFrese	
@@ -72,7 +73,6 @@ Score	UserID	Lang	Pseudo	#optim,count=830,time=2020-11-04 03:03:07
 9160	1479137	C++	lorenzods	
 9117	2577687	C++	blasterpoard	
 9104	1327028	C++	FredericBautista	
-9095	1304841	C++	NitMpez	
 9075	1238934	C++	accorp	
 9018	1716299	C++	micky924	
 9015	837350	Go	BorisZ	
@@ -144,9 +144,9 @@ Score	UserID	Lang	Pseudo	#optim,count=830,time=2020-11-04 03:03:07
 7089	2490008	C++	ebicochineal	
 6954	1893989	Python3	Rosstherock	
 6909	2521394	Kotlin	FrankR	
+6832	1477622	C#	zrdon	
 6791	2018552	C++	gurualo	
 6675	933299	Scala	ThibautRobert	
-6675	1477622	C#	zrdon	
 6656	2158577	C++	zuko3d	
 6633	1152991	C#	xoposhiy	
 6631	2838943	Python3	zapakh	
@@ -203,14 +203,15 @@ Score	UserID	Lang	Pseudo	#optim,count=830,time=2020-11-04 03:03:07
 5302	2837654	Go	R2B2	
 5292	1931824	Java	Litops	
 5247	371603	Ruby	martin	
+5155	3457031	C++	YurkovAS	
 5149	3847976	C#	[SG]Mob-Programming	
 5142	1096201	C++	Maksimov	
 5119	2715508	C++	Anth	
 5085	2254195	Javascript	BrunoFelthes	
 5062	2894347	Rust	efugier	
 5054	2042323	Python3	mana_b	
+5041	154806	C++	piwai	
 5023	3353481	C++	takumi152	
-4975	154806	C++	piwai	
 4919	1227148	Java	Schneewittchen	
 4865	1613949	Java	elaaboum	
 4811	2711438	Python3	Aeneas	
