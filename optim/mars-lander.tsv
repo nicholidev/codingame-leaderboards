@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3110,time=2020-11-05 00:48:32
+Score	UserID	Lang	Pseudo	#optim,count=3114,time=2020-11-06 00:56:21
 2509	1327028	C++	FredericBautista	
 2507	154372	Bash	Plopx	
 2504	1249786	C#	Fededevi	
@@ -7,7 +7,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3110,time=2020-11-05 00:48:32
 2495	820000	PHP	ValGrowth	
 2493	588426	Bash	Jeff06	
 2492	1399382	C#	Regulus136	
-2487	2968035	C++	DomiKo	
+2490	2968035	C++	DomiKo	
 2485	1039809	C#	Azziliz	
 2485	154984	PHP	_Royale	
 2478	338469	C++	mcts	
@@ -505,6 +505,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3110,time=2020-11-05 00:48:32
 1933	1541252	Python3	antaland	
 1933	2271162	Java	Dingodoodl	
 1933	2325449	Perl	otpv	
+1932	4007648	C++	nan0S1	
 1931	3539261	Python3	BillWyeman	
 1930	915770	C	Romsteck	
 1930	2735973	C++	perigalactic	
@@ -735,7 +736,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3110,time=2020-11-05 00:48:32
 1809	776401	C#	mshogren	
 1809	2766041	Python3	PVR	
 1808	1064724	Rust	Mamamatchi	
-1807	4007648	C++	nan0S1	
 1806	1107630	Go	dbenque	
 1805	1288975	C#	Lamihck	
 1804	996271	Java	labete	

@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=6954,time=2020-11-05 00:48:33
+Score	UserID	Lang	Pseudo	#optim,count=6963,time=2020-11-06 00:56:22
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -18,6 +18,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6954,time=2020-11-05 00:48:33
 649860	338469	C++	mcts	
 648260	2923506	C++	darkhorse64	
 644300	1378958	C#	Illedan	
+624280	820000	C++	ValGrowth	
 611130	837350	C++	BorisZ	
 543500	1273065	C++	TheRadical	
 505510	1549145	C++	Mealc	
@@ -40,6 +41,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6954,time=2020-11-05 00:48:33
 404550	155774	C++	dwarfie	
 393300	1530051	C++	UlYoP	
 385600	2786666	C++	TetraktysPhi	
+363530	3727272	Javascript	paszo	
 363400	1786654	C++	Masclins	
 362540	2968035	C++	DomiKo	
 358250	1414873	Javascript	Volcomix	
@@ -165,7 +167,6 @@ Score	UserID	Lang	Pseudo	#optim,count=6954,time=2020-11-05 00:48:33
 203400	1880319	C++	WildSmilodon	
 203360	226528	C++	Manwe	
 202890	3960362	C	Asgardinho	
-202740	3727272	Javascript	paszo	
 202450	1853167	Java	rcode	
 202360	272290	Go	Olaf69	
 201370	2729630	C++	Halphas	
@@ -713,6 +714,7 @@ Score	UserID	Lang	Pseudo	#optim,count=6954,time=2020-11-05 00:48:33
 63490	1081912	C	Wildardoc	
 63490	1351832	Java	PsykoBoY	
 63490	880111	Go	gghez	
+63490	4042270	Python3	AndreHuynh	
 63480	1013757	Ruby	RikyM	
 63480	1504309	C#	Isaacqwerty	
 63460	152975	Java	Simona	
@@ -997,5 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=6954,time=2020-11-05 00:48:33
 60250	1361019	Python3	AlessioGreco	
 60240	448698	Python3	Makz	
 60240	2325449	Perl	otpv	
-60230	3789123	Python3	Fladi	
-60180	2098777	C++	static_cats	
