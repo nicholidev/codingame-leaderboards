@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=832,time=2020-11-07 01:04:22
+Score	UserID	Lang	Pseudo	#optim,count=833,time=2020-11-08 01:12:44
 11902	2288263	Rust	dbdr	
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
@@ -130,6 +130,7 @@ Score	UserID	Lang	Pseudo	#optim,count=832,time=2020-11-07 01:04:22
 7537	2662709	Python3	dead_man	
 7525	1714338	Java	cobase2010	
 7511	973040	C	papyjo	
+7499	1477622	C#	zrdon	
 7476	1050421	C++	geppoz	
 7466	1432947	Python3	empathy87	
 7450	844968	Python3	MoMaT	
@@ -141,7 +142,6 @@ Score	UserID	Lang	Pseudo	#optim,count=832,time=2020-11-07 01:04:22
 7241	153057	PHP	PierralF	
 7217	2058158	C#	RolandKnight	
 7189	1206537	C++	MadKnight	
-7136	1477622	C#	zrdon	
 7106	1193679	C++	Icebox	
 7089	2490008	C++	ebicochineal	
 6954	1893989	Python3	Rosstherock	
@@ -339,6 +339,7 @@ Score	UserID	Lang	Pseudo	#optim,count=832,time=2020-11-07 01:04:22
 2803	3245819	Python3	TomA	
 2799	3962423	C++	Shagar	
 2786	862919	C++	Astrobytes	
+2779	1029663	C	Skreamly	
 2773	2051278	C++	GuillaumeK	
 2766	3502258	Python3	TimAI	
 2762	2881330	Java	daydreamer	
@@ -497,7 +498,6 @@ Score	UserID	Lang	Pseudo	#optim,count=832,time=2020-11-07 01:04:22
 1277	1505954	C#	Salintas	
 1274	1599552	Go	FlyingRatBull	
 1272	2604075	Python3	[CG]NaejDoree	
-1262	1029663	C	Skreamly	
 1249	2069141	C#	tomeko	
 1243	414278	Java	oobException	
 1235	2070849	Java	PascalBI	
@@ -744,6 +744,7 @@ Score	UserID	Lang	Pseudo	#optim,count=832,time=2020-11-07 01:04:22
 1045	2708267	Javascript	XyoloJR	
 1045	2200419	Javascript	PtiboudinKreol	
 1045	2421141	Python3	HomerS.	
+1045	3981062	Python3	abecus	
 1041	1074744	Java	GwenGlSoft	
 1039	1129000	Python3	ChairmanOfTheBored	
 1033	1243354	C++	RSBat	

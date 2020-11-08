@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2179,time=2020-11-07 00:48:08
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2179,time=2020-11-08 00:30:16
 6	34.41	3193653	2579867	C++	karliso	
 6	33.61	1624809	2653061	C#	DrFekalus	
 6	33.61	2522090	2305313	C++	MSmits	
@@ -867,13 +867,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2179,time=2020-11-07 00:48:
 3	19.37	3703247	2706527	C++	AHHHHHHH	
 3	19.28	3364231	2446904	C++	masayo	
 3	19.22	3171145	2429118	OCaml	MPSI-LIV-OrianeBalthazar	
+3	19.2	1608391	789464	Ruby	Swobu	
 3	19.17	3376183	2428679	Python3	harpie	
-3	19.11	1608391	789464	Ruby	Swobu	
 3	19.09	1728288	2126466	C#	MOLP	
 3	19.09	1542253	805736	C#	FretPwner	
+3	19.08	2874089	2167526	Java	Pelsce	
 3	19.04	2169249	2478875	C++	Vision2019	
 3	19.03	1111620	2480172	C++	YadAnshul	
-3	19.01	2874089	2167526	Java	Pelsce	
 3	18.95	2108962	2349728	Python3	DeveauP	
 3	18.95	2003755	1499771	C#	mybestbot	
 3	18.89	2158276	2492559	Java	ChetanJain	
@@ -893,9 +893,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2179,time=2020-11-07 00:48:
 3	17.83	2456780	2335962	Java	CarsonJudd	
 3	17.81	1771970	930323	Python3	Entei	
 3	17.79	1654817	798588	Java	Swarovski84	
-3	17.76	1634781	776581	C++	O.lg.a	
-3	17.72	513549	1434517	Javascript	y0p	
+3	17.77	1634781	776581	C++	O.lg.a	
 3	17.63	2250452	1623414	Java	Isac	
+3	17.62	513549	1434517	Javascript	y0p	
 3	17.47	1581197	1438215	C#	Aramang	
 3	17.47	1791118	1621517	C++	Baboune251	
 3	17.45	1194054	826339	C++	Bidembois	
@@ -905,8 +905,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2179,time=2020-11-07 00:48:
 3	17.43	3337467	2426205	OCaml	MPSI-LIV-Random	
 3	17.42	1442750	1400457	Javascript	GwadaKing	
 3	17.38	1575086	842580	Python3	rlange	
-3	17.34	1409203	1631344	C++	Asterion	
 3	17.34	3352882	2439034	Javascript	Sieghart	
+3	17.33	1409203	1631344	C++	Asterion	
 3	17.31	1701465	910855	C#	JoelSimonsson	
 3	17.22	3564009	2662657	Lua	Waffle3z	
 3	17.19	1894833	1936948	Python3	Rimailleur	
@@ -929,12 +929,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2179,time=2020-11-07 00:48:
 3	15.88	1124679	774494	C++	Tinaud	
 3	15.76	2264391	1644054	C#	hrkrx	
 3	15.72	1776881	926429	Java	Benjojo	
-3	15.56	918747	802692	Python3	Entilore	
+3	15.62	1502824	779812	Java	Darkshad	
 3	15.55	2851591	2070741	C	3k	
 3	15.52	1456582	902066	C#	freud	
 3	15.51	553938	775086	C++	MagAlex	
-3	15.51	1502824	779812	Java	Darkshad	
 3	15.5	2409047	1656693	Java	iwpag	
+3	15.46	918747	802692	Python3	Entilore	
 3	15.45	888898	1622264	C++	helgui	
 3	15.43	1733943	1375372	Python3	Bouga	
 3	15.42	1729129	899906	Java	Thorvaldurg	
@@ -943,7 +943,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2179,time=2020-11-07 00:48:
 3	15.4	1603199	803777	PHP	Shinidoki	
 3	15.35	1603408	798132	C++	sandor	
 3	15.3	1492850	881687	Python3	Isostatic	
-3	15.26	1815583	1706974	C++	HarderTilt	
+3	15.27	1815583	1706974	C++	HarderTilt	
 3	15.25	1532448	782217	Javascript	mborecki	
 3	15.24	1193676	782867	Java	RyZum	
 3	15.24	1479279	859524	Javascript	Vladirien	
@@ -954,8 +954,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2179,time=2020-11-07 00:48:
 3	15.05	1347751	787017	Java	FunFR	
 3	14.97	3337454	3041881	OCaml	MPSI-LIV-Baltazar-Nicolas	
 3	14.91	1181768	1110149	Javascript	dio_O	
+3	14.9	3726978	3033494	C++	VirtualAtom	
 3	14.87	1546281	2448978	Javascript	Tmone	
-3	14.86	3726978	3033494	C++	VirtualAtom	
 3	14.74	327986	1182748	Javascript	Koutaku	
 3	14.68	1533991	1391410	Go	Asfalots	
 3	14.68	1653052	796431	Javascript	fbosco	
@@ -991,10 +991,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2179,time=2020-11-07 00:48:
 3	13.42	1461866	776837	Java	Spacebird1313	
 3	13.38	2878528	2205999	Python3	jankollar	
 3	13.32	1525077	2240099	Java	civodrab	
+3	13.32	1643777	1442218	Java	jadb	
 3	13.31	3689483	2687941	C++	Rd211	
 3	13.3	3055246	2214893	Java	Chewi	
 3	13.28	2683131	1951880	C++	garhail	
-3	13.17	1643777	1442218	Java	jadb	
 3	13.14	1880102	1323875	Javascript	quentinproust	
 3	13.08	1701141	1659256	Kotlin	laht	
 3	13.05	1857912	2698318	Java	NONONOexe	
