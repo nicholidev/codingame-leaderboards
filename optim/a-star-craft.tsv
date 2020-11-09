@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=833,time=2020-11-08 01:12:44
+Score	UserID	Lang	Pseudo	#optim,count=833,time=2020-11-09 00:43:42
 11902	2288263	Rust	dbdr	
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
@@ -22,6 +22,7 @@ Score	UserID	Lang	Pseudo	#optim,count=833,time=2020-11-08 01:12:44
 10529	1335230	C++	jft63	
 10311	2968035	C++	DomiKo	
 10272	2316796	PHP	Psio	
+10269	3457031	C++	YurkovAS	
 10262	893541	Java	wala	
 10241	1344487	Java	UnnamedCodinGamer	
 10238	1637604	C++	avolchek	
@@ -46,7 +47,6 @@ Score	UserID	Lang	Pseudo	#optim,count=833,time=2020-11-08 01:12:44
 9800	1436776	C++	BrainSolver	
 9777	2386035	C++	Samsonov	
 9757	2043908	C++	AntiSquid	
-9748	3457031	C++	YurkovAS	
 9737	2242201	C++	Maryan	
 9702	1106450	C++	RiSuS	
 9659	2350846	C++	DrBloodmoney	
@@ -112,6 +112,7 @@ Score	UserID	Lang	Pseudo	#optim,count=833,time=2020-11-08 01:12:44
 8263	2662433	C++	mravo	
 8228	1818159	C++	JRFerguson	
 8199	403748	C#	[CG]SaiksyApo	
+8038	1477622	C#	zrdon	
 7987	1443538	Java	Gevater_Tod4711	
 7948	1845617	C++	Shingyx	
 7899	2455616	Java	JeanClaude44	
@@ -130,7 +131,6 @@ Score	UserID	Lang	Pseudo	#optim,count=833,time=2020-11-08 01:12:44
 7537	2662709	Python3	dead_man	
 7525	1714338	Java	cobase2010	
 7511	973040	C	papyjo	
-7499	1477622	C#	zrdon	
 7476	1050421	C++	geppoz	
 7466	1432947	Python3	empathy87	
 7450	844968	Python3	MoMaT	
@@ -299,7 +299,7 @@ Score	UserID	Lang	Pseudo	#optim,count=833,time=2020-11-08 01:12:44
 3401	1754295	C++	SF	
 3385	3982480	Javascript	darynka_xo	
 3344	1029602	C	Potemkine	
-3335	1442814	C++	RedXam	
+3335	1442814	C++	MaxDer	
 3323	3027150	Javascript	Ravindra05	
 3284	1495694	C++	MisterJensen	
 3245	1614572	Javascript	tuannapci	

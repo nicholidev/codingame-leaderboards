@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3126,time=2020-11-08 01:12:45
+Score	UserID	Lang	Pseudo	#optim,count=3137,time=2020-11-09 00:43:43
 2509	1327028	C++	FredericBautista	
 2507	154372	Bash	Plopx	
 2504	1249786	C#	Fededevi	
@@ -35,6 +35,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3126,time=2020-11-08 01:12:45
 2440	2315158	Java	luigi_gelato	
 2438	1500515	C#	eulerscheZahl	
 2435	3235897	Java	Zylo	
+2433	3457031	C++	YurkovAS	
 2429	557990	C++	Wazemo	
 2423	806157	Python3	Aveuh	
 2422	1244576	Java	PauloVilela	
@@ -48,7 +49,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3126,time=2020-11-08 01:12:45
 2404	1835525	C#	nwendel	
 2401	1333869	Python3	kiwijam	
 2400	1498163	Java	Ben-oit	
-2400	3457031	C++	YurkovAS	
 2398	1336464	C++	magaiti	
 2397	1314316	C++	jolindien	
 2397	155774	PHP	dwarfie	
@@ -208,6 +208,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3126,time=2020-11-08 01:12:45
 2160	606890	C#	r2d2tm	
 2159	2440248	Python3	Javfres	
 2158	1378254	Lua	zet23t	
+2158	2969181	C++	maras	
 2157	3005528	C++		
 2152	773811	Java	szoti	
 2151	3064190	C++	Sinnanodelta	
@@ -244,6 +245,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3126,time=2020-11-08 01:12:45
 2124	2889572	C++	NikosFr	
 2122	1342741	Python3	ltDan	
 2121	819803	Java	Anordil	
+2121	3358168	Python3	A.U.	
 2120	3245819	Python3	TomA	
 2119	514460	C++	Harv	
 2119	2407189	C	Teuchteu	
@@ -507,7 +509,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3126,time=2020-11-08 01:12:45
 1933	1541252	Python3	antaland	
 1933	2271162	Java	Dingodoodl	
 1933	2325449	Perl	otpv	
-1932	4007648	C++	nan0S1	
+1932	4007648	C++	nan0S_	
 1931	3539261	Python3	BillWyeman	
 1930	915770	C	Romsteck	
 1930	2735973	C++	perigalactic	
@@ -650,6 +652,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3126,time=2020-11-08 01:12:45
 1849	3470342	Python3	iKos	
 1848	740424	Javascript	vmeurisse	
 1848	3281862	C#	geckozw	
+1848	3283415	Python3	Bon[]Crayon	
 1847	886702	Java	Vorgritche	
 1847	3912106	C++	Triskell95	
 1845	1106476	Ruby	DrDaemos	
@@ -735,7 +738,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3126,time=2020-11-08 01:12:45
 1810	1526464	C++	MehmetTheConqueror	
 1810	1764075	Java	Salga	
 1810	1713174	C++	BigUP	
-1810	3283415	Python3	Bon[]Crayon	
 1809	1031311	PHP	Kazz	
 1809	1165751	Ruby	Canartitude	
 1809	776401	C#	mshogren	
@@ -847,6 +849,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3126,time=2020-11-08 01:12:45
 1777	964503	Java	ronna22	
 1777	1546977	Python3	casualnick	
 1777	974670	Groovy	Kamikater2	
+1777	508460	C++	Volia	
 1776	962352	PHP	Roncarlos	
 1776	1468570	C#	ConstantinNicolae	
 1775	1264891	C#	Treakconk	
@@ -996,6 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=3126,time=2020-11-08 01:12:45
 1771	3849265	Java	hydroglicerol	
 1771	3038129	Java	Nico11	
 1771	3888426	Java	OnlyLouis	
-1771	1434851	Javascript	i3r	
-1771	154906	Java	JBM	
-1771	2398608	Python3	M_C	

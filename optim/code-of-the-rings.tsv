@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3975,time=2020-11-08 01:12:46
+Score	UserID	Lang	Pseudo	#optim,count=3981,time=2020-11-09 00:43:44
 2759	1301401	C#	Stanax	
 2761	1833680	C++	jvivenot	
 2765	2288263	Rust	dbdr	
@@ -247,6 +247,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3975,time=2020-11-08 01:12:46
 4229	783215	C++	AndreiS	
 4233	631323	Python3	herve056	
 4238	826921	Java	msontag	
+4246	818780	Python3	bbodin01	
 4262	278150	Java	Hydro	
 4264	1619211	C++	Tolomei	
 4269	836415	Java	tallo	
@@ -459,6 +460,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3975,time=2020-11-08 01:12:46
 5558	1986145	Python3	ValNyz	
 5558	2241559	Python3	eskeln	
 5558	2007852	Go	Zorg1	
+5558	2591714	Python3	Yamabushi	
 5562	1076454	C#	LordCM	
 5563	944594	Java	omarkammoun	
 5566	536072	Java	IKarl	
@@ -541,11 +543,13 @@ Score	UserID	Lang	Pseudo	#optim,count=3975,time=2020-11-08 01:12:46
 5732	1529055	Python3	PacMann	
 5733	374987	C++	Duckie	
 5734	1452085	Javascript	sadakatsu	
+5734	3457031	C++	YurkovAS	
 5736	1740037	Scala	ereiam	
 5736	2550213	C#	hogehoge	
 5736	2438065	Rust	WillFrost	
 5739	971137	C++	Burlinn	
 5739	1232188	Python3	Sylven	
+5740	1467771	C++	Telokis	
 5743	2928146	PHP	LolCat	
 5746	2067176	Javascript	0bug	
 5748	1640896	Python3	MikeCorp	
@@ -591,7 +595,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3975,time=2020-11-08 01:12:46
 5800	304126	PHP	kami	
 5801	829472	ObjectiveC	andris	
 5805	1527403	C++	Di_Masta	
-5805	3457031	C++	YurkovAS	
 5809	3770485	C++	zakki	
 5811	1706883	C#	CommanderCero	
 5811	2320186	Java	aPoStAl	
@@ -706,6 +709,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3975,time=2020-11-08 01:12:46
 5860	4024353	Java	Enialix	
 5860	1549217	C++	HaXxX	
 5860	3647844	Python3	rc95401	
+5860	4023980	Python3	Shimbawa	
 5861	954356	C++		
 5861	420035	Pascal	bvs23bkv33	
 5861	1483798	Ruby	hm001	
@@ -955,7 +959,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3975,time=2020-11-08 01:12:46
 5938	382375	Python3	Piz	
 5938	1613533	Python3	Talio	
 5939	946870	Java	Radenko	
-5939	1467771	C++	Telokis	
 5940	1476134	Python3	ThatDraggy	
 5940	1797970	Ruby	sepp2k	
 5940	3481035	Python3	JeanMichMuch	
@@ -996,6 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=3975,time=2020-11-08 01:12:46
 5960	1465300	C#	Romario	
 5960	1531032	Java	Artezic_old	
 5960	1076425	Javascript	Loicfr	
-5960	1770322	C#	Mr_Sanya	
-5960	1777705	Python3	au2001	
-5960	1499625	C#	J_ere_M	
