@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3338,time=2020-11-09 00:30:04
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3343,time=2020-11-10 00:30:06
 5	27.16	1629259	2643022	C++	Marchete	
 5	27.03	271873	1511817	C#	lionel_fr	
 5	26.91	1500515	1490058	C#	eulerscheZahl	
@@ -903,7 +903,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3338,time=2020-11-09 00:30:
 3	20.57	1703408	3164052	Python3	GHajba	
 3	19.93	3631440	3131773	Javascript	Sceat2	
 3	18.38	516172	1432368	C#	gzou	
-3	17.59	198268	1431816	Perl	newrare	
+3	17.51	198268	1431816	Perl	newrare	
 3	17.41	3225698	2263739	Ruby	Ferrisfox	
 3	17.41	2880319	2087998	Python3	BigBoost	
 3	17.4	2863335	2505864	Python3	denkuc	
@@ -930,6 +930,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3338,time=2020-11-09 00:30:
 3	17.24	1545670	1432272	C#	Ellume	
 3	17.23	411147	1432110	C#	HunterX	
 3	17.22	905728	1432388	C++	Leisy	
+3	17.2	2749110	2004468	Javascript	Pegase	
 3	17.2	2480114	2799592	C++	BeePunch	
 3	17.17	1516658	1431941	C#	TommyJohansson	
 3	17.17	389175	1431923	Java	Folkenn84	
@@ -945,7 +946,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3338,time=2020-11-09 00:30:
 3	17.08	628015	1432053	C#	matthijsman	
 3	17.07	2685573	1964597	Java	thomas.h	
 3	17.07	1407621	1431888	C++	Taohbi	
-3	17.07	2749110	2004468	Javascript	Pegase	
 3	17.07	1239638	2580057	Python3	mokaspark	
 3	17.06	889789	1432369	C++	Alain-Delpuch	
 3	17.06	947230	1432114	C++	gupascal	
@@ -981,7 +981,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3338,time=2020-11-09 00:30:
 3	16.5	2480152	2778456	C++	Koc	
 3	16.44	848017	1432156	Python3	t4g	
 3	16.35	1442622	1432010	Java	FrankSippel	
-3	16.28	791104	1431926	Javascript	kikuchi_ORATTA	
+3	16.33	791104	1431926	Javascript	kikuchi_ORATTA	
 3	16.24	1105849	1432176	PHP	Savagge	
 3	16.23	582877	1432111	Javascript	NAllred	
 3	16.23	2371810	1623757	C#	Calynx	
