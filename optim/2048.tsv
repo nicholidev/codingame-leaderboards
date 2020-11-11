@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=82,time=2020-11-10 00:47:27
+Score	UserID	Lang	Pseudo	#optim,count=83,time=2020-11-11 02:42:20
 62564496	2288263	Rust	dbdr	
 59353464	3457031	C++	YurkovAS	
 59353440	3354337	C++	Westicles	
@@ -24,8 +24,8 @@ Score	UserID	Lang	Pseudo	#optim,count=82,time=2020-11-10 00:47:27
 3237600	1693448	C	KoenduBuf	
 2833088	973040	C	papyjo	
 2747996	3721214	C++	jrke	
+2689104	490588	Python3	Uljahn	
 2450728	3626782	Java	MattSOrme	
-2290936	490588	Python3	Uljahn	
 2012688	155774	C++	dwarfie	
 1403092	1412263	PHP	PatrickMcGinnisII	
 725440	3842838	TypeScript	Streusel	
@@ -74,6 +74,7 @@ Score	UserID	Lang	Pseudo	#optim,count=82,time=2020-11-10 00:47:27
 24184	1495694	C++	MisterJensen	
 21924	3872416	Python3	CodinGamerAK	
 8968	1193679	Python3	Icebox	
+5628	4036826	Javascript	Feust	
 4792	1759839	Python3	matleg	
 4296	3596445	Python3	Bafiko	
 2224	865548	Go	Kktus	
