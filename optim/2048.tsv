@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=83,time=2020-11-11 02:42:20
+Score	UserID	Lang	Pseudo	#optim,count=88,time=2020-11-12 01:29:12
 62564496	2288263	Rust	dbdr	
 59353464	3457031	C++	YurkovAS	
 59353440	3354337	C++	Westicles	
@@ -18,6 +18,7 @@ Score	UserID	Lang	Pseudo	#optim,count=83,time=2020-11-11 02:42:20
 10029096	1500515	C#	eulerscheZahl	
 8607268	3898813	C++	3ifndef	
 8305688	1515891	Go	ndc	
+7546312	3564009	Lua	Waffle3z	
 5255740	3305510	PHP	TBali	
 3825460	1854246	C++	Counterbalance	
 3298036	311035	Python3	leojean890	
@@ -26,9 +27,11 @@ Score	UserID	Lang	Pseudo	#optim,count=83,time=2020-11-11 02:42:20
 2747996	3721214	C++	jrke	
 2689104	490588	Python3	Uljahn	
 2450728	3626782	Java	MattSOrme	
+2202544	1732414	C++	ClosetAI	
 2012688	155774	C++	dwarfie	
 1403092	1412263	PHP	PatrickMcGinnisII	
 725440	3842838	TypeScript	Streusel	
+675240	1566335	Java	BeardedWhale	
 305628	792813	Python3	VilBoub	
 287992	508460	C++	Volia	
 250352	3942793	Java	The_Auditor	
@@ -42,6 +45,7 @@ Score	UserID	Lang	Pseudo	#optim,count=83,time=2020-11-11 02:42:20
 71856	992329	Python3	BeeGee	
 65944	2069141	C#	tomeko	
 60256	2325449	Perl	otpv	
+56636	1630890	Java	Wld	
 55744	3416055	Python3	ItsAFeature	
 55568	3647844	Python3	rc95401	
 54884	3922731	Dart	Dartisan	
@@ -73,6 +77,7 @@ Score	UserID	Lang	Pseudo	#optim,count=83,time=2020-11-11 02:42:20
 25456	3640862	Python3	nopnop	
 24184	1495694	C++	MisterJensen	
 21924	3872416	Python3	CodinGamerAK	
+20284	631323	Python3	herve056	
 8968	1193679	Python3	Icebox	
 5628	4036826	Javascript	Feust	
 4792	1759839	Python3	matleg	
