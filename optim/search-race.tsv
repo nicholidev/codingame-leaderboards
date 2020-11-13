@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=139,time=2020-11-12 01:29:12
+Score	UserID	Lang	Pseudo	#optim,count=139,time=2020-11-13 00:38:50
 10359.64	2288263	Rust	dbdr	
 10367.970000000005	351062	C++	Neumann	
 10484.98	1400179	Python3	reCurse	
@@ -81,6 +81,7 @@ Score	UserID	Lang	Pseudo	#optim,count=139,time=2020-11-12 01:29:12
 20771.599999999995	3764160	Python3	A_K	
 21163.69	173522	C#	TeddyS	
 21431.25999999999	3845610	Python3	pardouin	
+21484.19	792813	Python3	VilBoub	
 21499.640000000007	3867478	Python3	binla42	
 21508.78	218189	Python3	[CG]Maxime	
 21611.72	2763458	Python3	Lokoslav	
@@ -97,7 +98,6 @@ Score	UserID	Lang	Pseudo	#optim,count=139,time=2020-11-12 01:29:12
 22825.48	1739595	C++	Bemethor	
 23107.67	3789487	C++	LelouchVC2	
 23164.6	4047014	Python3	TolstY	
-23520.36	792813	Python3	VilBoub	
 23586.53000000001	3657937	Python3	elderlybeginner	
 23870.91	3627342	C#	Zuabros	
 24613.80999999999	3922731	Dart	Dartisan	

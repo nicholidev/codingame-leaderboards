@@ -1,8 +1,9 @@
-Score	UserID	Lang	Pseudo	#optim,count=837,time=2020-11-12 01:29:14
+Score	UserID	Lang	Pseudo	#optim,count=838,time=2020-11-13 00:38:56
 11902	2288263	Rust	dbdr	
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
 11710	1500515	C#	eulerscheZahl	
+11369	2968035	C++	DomiKo	
 11360	1333869	Python3	kiwijam	
 11243	2416641	Bash	Zenoscave	
 11196	1029833	C++	tourist	
@@ -20,7 +21,6 @@ Score	UserID	Lang	Pseudo	#optim,count=837,time=2020-11-12 01:29:14
 10647	2077805	C++	bamilan	
 10611	2311105	C++	kovi	
 10529	1335230	C++	jft63	
-10350	2968035	C++	DomiKo	
 10272	2316796	PHP	Psio	
 10269	3457031	C++	YurkovAS	
 10262	893541	Java	wala	
@@ -185,7 +185,7 @@ Score	UserID	Lang	Pseudo	#optim,count=837,time=2020-11-12 01:29:14
 5737	1110090	C#	bd	
 5710	1427078	Java	ToshiTuringMachine	
 5692	2785892	Python3	levbor	
-5684	165671	Python3	cyppan	
+5684	165671	Python3	[CG]cyppan	
 5642	1944726	C++	bourgeof	
 5603	2769647	Java	RiffShark	
 5573	1209562	C++	JohnnyYuge	
@@ -281,6 +281,7 @@ Score	UserID	Lang	Pseudo	#optim,count=837,time=2020-11-12 01:29:14
 3602	3749793	Python3	WINWINWIN	
 3602	3962136	Python3	l4hg	
 3602	1425201	Python3	JamesPun	
+3602	4039794	Python3	Codeab	
 3596	1433688	C++	Geropy	
 3573	1920644	C++	Skygge	
 3563	224325	Scala	TidyMaze	
@@ -396,7 +397,7 @@ Score	UserID	Lang	Pseudo	#optim,count=837,time=2020-11-12 01:29:14
 2408	1244740	Python3	Tenos	
 2401	686830	C#	chrisgulddahl	
 2397	1377805	Java	MHavlovick	
-2393	3503664	Python3	[SG]egos	
+2393	3503664	Python3	egos	
 2386	154935	Scala	yamo	
 2381	1528274	Ruby	BlanCap	
 2378	990569	C++	Srkr	
