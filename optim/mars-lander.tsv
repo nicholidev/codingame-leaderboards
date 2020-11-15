@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3161,time=2020-11-14 03:05:24
+Score	UserID	Lang	Pseudo	#optim,count=3164,time=2020-11-15 02:13:57
 2509	1327028	C++	FredericBautista	
 2507	154372	Bash	Plopx	
 2504	1249786	C#	Fededevi	
@@ -126,6 +126,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3161,time=2020-11-14 03:05:24
 2284	848989	Java	revever	
 2284	3478926	C	Leptit	
 2283	2141506	Python3	Jamesscn	
+2283	3136962	C++	marimarek	
 2281	1312473	Python3	StealthEye	
 2279	2371389	C#	Franta	
 2277	1420269	Python3	Vischtor	
@@ -144,11 +145,11 @@ Score	UserID	Lang	Pseudo	#optim,count=3161,time=2020-11-14 03:05:24
 2262	2003902	C	mploux	
 2260	631323	Python3	herve056	
 2257	3508811	C++	MisterGuy	
-2257	3136962	C++	marimarek	
 2256	1136521	C	nadrek	
 2254	271034	Ruby	6pi	
 2251	1861258	Go	Nazdhun	
 2250	1726600	C++	Patate	
+2250	3985088	Java	tiagocuervo	
 2248	1326713	C	Tybau	
 2245	2156033	PHP	ffb	
 2245	155896	PHP	gamoul	
@@ -337,7 +338,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3161,time=2020-11-14 03:05:24
 2033	3722889	C	Lafytt	
 2030	1499190	C	Mr_Afroduck	
 2030	1459470	C#	pretzlak	
-2029	3985088	Java	tiagocuervo	
 2027	1374100	C#	IcEEyE	
 2027	1540272	Python3	haitch	
 2027	1684030	C	Mator	
@@ -803,6 +803,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3161,time=2020-11-14 03:05:24
 1788	1740735	Java	DopplerShift	
 1787	916452	C#	js	
 1787	1466055	Ruby	Meegul	
+1787	2650265	Python3	Dromeo	
 1786	949078	Pascal	sejda	
 1786	1276099	Rust	Caemor	
 1786	2973697	Javascript	ddaup	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=3161,time=2020-11-14 03:05:24
 1771	2657521	Java	Exaltify	
 1771	2852592	Java	OHER	
 1771	2883583	Java	lc637	
-1771	3308481	Java	Bruno_Gabriel	
