@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3164,time=2020-11-15 02:13:57
+Score	UserID	Lang	Pseudo	#optim,count=3167,time=2020-11-16 01:25:05
 2509	1327028	C++	FredericBautista	
 2507	154372	Bash	Plopx	
 2504	1249786	C#	Fededevi	
@@ -109,6 +109,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3164,time=2020-11-15 02:13:57
 2308	992329	C++	BeeGee	
 2307	1883740	C++	kermo	
 2306	1501735	Python3	bernardlavilliers	
+2306	3136962	C++	marimarek	
 2305	2651240	Java	[MPST]Donset	
 2301	1854731	C#	Solringen	
 2300	3465277	Python3		
@@ -126,7 +127,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3164,time=2020-11-15 02:13:57
 2284	848989	Java	revever	
 2284	3478926	C	Leptit	
 2283	2141506	Python3	Jamesscn	
-2283	3136962	C++	marimarek	
 2281	1312473	Python3	StealthEye	
 2279	2371389	C#	Franta	
 2277	1420269	Python3	Vischtor	
@@ -225,7 +225,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3164,time=2020-11-15 02:13:57
 2148	1258533	Python3	MathJason	
 2148	1355842	Java	slaghn	
 2147	4051087	C++		
-2144	1752518	Java	Akirender[CodingStones]	
+2144	1752518	Java	akirender	
 2144	668954	C++	Fluxor	
 2141	1193408	Javascript	DoubleZeroSteph	
 2141	1201796	Javascript	P.Greze	
@@ -873,6 +873,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3164,time=2020-11-15 02:13:57
 1774	1383429	Java	SaintsRock	
 1774	1783143	Java	ATTIVI_J	
 1774	2723462	Python3	pyRacer	
+1774	1200669	Python3	houseofsuns	
 1773	845493	VB.NET	Basti	
 1773	887067	Java	~ethiery	
 1773	1703408	Java	GHajba	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=3164,time=2020-11-15 02:13:57
 1771	987165	C#	KaitoKid	
 1771	2657521	Java	Exaltify	
 1771	2852592	Java	OHER	
-1771	2883583	Java	lc637	
