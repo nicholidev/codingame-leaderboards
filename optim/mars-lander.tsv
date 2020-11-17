@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3167,time=2020-11-16 01:25:05
+Score	UserID	Lang	Pseudo	#optim,count=3170,time=2020-11-17 00:59:46
 2509	1327028	C++	FredericBautista	
 2507	154372	Bash	Plopx	
 2504	1249786	C#	Fededevi	
@@ -10,7 +10,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3167,time=2020-11-16 01:25:05
 2490	2968035	C++	DomiKo	
 2485	1039809	C#	Azziliz	
 2485	154984	PHP	_Royale	
-2478	338469	C++	mcts	
+2478	338469	C++	__mcts__	
 2477	1201783	Python3	qsantos	
 2476	1629259	C#	Marchete	
 2475	1323814	Java	SatineChatounette	
@@ -99,6 +99,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3167,time=2020-11-16 01:25:05
 2321	1236329	Java	povatm	
 2320	811622	C++	Scarfield	
 2320	536400	C++	Atmel	
+2318	3136962	C++	marimarek	
 2314	154388	Python3	PonyPonyCodeCode	
 2313	3903847	Java	UnicornP	
 2312	371603	C++	martin	
@@ -109,7 +110,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3167,time=2020-11-16 01:25:05
 2308	992329	C++	BeeGee	
 2307	1883740	C++	kermo	
 2306	1501735	Python3	bernardlavilliers	
-2306	3136962	C++	marimarek	
 2305	2651240	Java	[MPST]Donset	
 2301	1854731	C#	Solringen	
 2300	3465277	Python3		
@@ -336,6 +336,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3167,time=2020-11-16 01:25:05
 2033	2476681	C#	Jam2it	
 2033	2786804	C++	Evilkeeper	
 2033	3722889	C	Lafytt	
+2032	4011783	TypeScript	sylbouns	
 2030	1499190	C	Mr_Afroduck	
 2030	1459470	C#	pretzlak	
 2027	1374100	C#	IcEEyE	
@@ -419,6 +420,8 @@ Score	UserID	Lang	Pseudo	#optim,count=3167,time=2020-11-16 01:25:05
 1991	3975966	Java	sem87	
 1991	3962136	Java	l4hg	
 1991	4039794	Java	Codeab	
+1991	4015956	Java	Atomic_coder	
+1991	3771159	Java	tamahom	
 1990	876163	C#	AY1111	
 1989	2155687	Scala	NilsTheWizzard	
 1989	3937902	C#	Vectoribus	
@@ -996,6 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=3167,time=2020-11-16 01:25:05
 1771	2762653	Java	RAAAT	
 1771	2796098	Java	Izgachev	
 1771	1525831	Java	ntsd	
-1771	987165	C#	KaitoKid	
-1771	2657521	Java	Exaltify	
-1771	2852592	Java	OHER	

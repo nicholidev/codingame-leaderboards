@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=7161,time=2020-11-16 01:25:08
+Score	UserID	Lang	Pseudo	#optim,count=7174,time=2020-11-17 00:59:47
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -16,7 +16,7 @@ Score	UserID	Lang	Pseudo	#optim,count=7161,time=2020-11-16 01:25:08
 672970	2968035	C++	DomiKo	
 665770	2316796	PHP	Psio	
 663620	1630890	Java	Wld	
-649860	338469	C++	mcts	
+649860	338469	C++	__mcts__	
 648260	2923506	C++	darkhorse64	
 644300	1378958	C#	Illedan	
 624280	820000	C++	ValGrowth	
@@ -110,6 +110,7 @@ Score	UserID	Lang	Pseudo	#optim,count=7161,time=2020-11-16 01:25:08
 232390	1082167	C++	Smatcher	
 232230	154858	Javascript	PoF	
 232020	1876212	C++	PFischbeck	
+231710	3771159	C	tamahom	
 231700	2536538	C	Pduhard-	
 231360	1848459	Java	Velcoro	
 229430	155939	C	xylo	
@@ -166,6 +167,7 @@ Score	UserID	Lang	Pseudo	#optim,count=7161,time=2020-11-16 01:25:08
 205120	514655	Go	Cristof337	
 205080	1324974	C++	ViktorCs	
 204910	1093968	Java	milosMATRIXrepic	
+204080	4039794	C	Codeab	
 204000	154388	C++	PonyPonyCodeCode	
 203890	1715811	Java	PositiveQuark	
 203480	2350846	C++	DrBloodmoney	
@@ -828,6 +830,7 @@ Score	UserID	Lang	Pseudo	#optim,count=7161,time=2020-11-16 01:25:08
 62420	4025958	Javascript	BorisDP	
 62400	607757	Python3	klawz	
 62400	1965009	Javascript	Wezelkrozum	
+62400	3687035	Javascript	Mimic123	
 62390	768581	Java	Kanimau	
 62390	1135211	Java	Sharg	
 62380	1812611	Java	Skapaiz	
@@ -996,6 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=7161,time=2020-11-16 01:25:08
 60570	2592629	PHP	Kitof	
 60560	1363105	OCaml	aldrik.net	
 60550	1116991	C	Luisnux	
-60550	1925124	Java	BAP_BOY	
-60550	1479877	Java	teukkam	
-60530	1861258	Python3	Nazdhun	
