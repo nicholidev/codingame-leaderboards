@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3090,time=2020-11-17 00:59:35
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3091,time=2020-11-18 01:54:29
 6	31.15	1049935	2653256	C++	Azkellas	
 6	30.64	1607522	1886979	C++	RoboStac	
 6	28.82	735910	1886983	C++	Agade	
@@ -770,9 +770,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3090,time=2020-11-17 00:59:
 3	18.08	969381	2239834	Python3	FredVultor	
 3	18.02	1464853	2412400	Java	WillNess	
 3	18	233834	2266822	C++	Herumor	
+3	18	2193415	3138399	C++	Nerdspartan	
 3	17.99	2968035	3079419	C++	DomiKo	
 3	17.98	3463384	2492131	Python3	KamilMistewicz	
-3	17.96	2193415	3138399	C++	Nerdspartan	
 3	17.94	1630901	2676530	C++	Pand0re	
 3	17.94	3398660	2440180	Java	JamesLiKitomba	
 3	17.91	1407420	2340637	Java	kiril76	
@@ -849,7 +849,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3090,time=2020-11-17 00:59:
 3	16.97	314562	2069413	Javascript	Mechar	
 3	16.96	1095278	3001163	C#	MR23	
 3	16.95	2375737	2106295	Java	j.magalhaes	
-3	16.95	3504584	2602270	C	ZXPlaner	
 3	16.94	1416686	1897478	C#	Avatar256	
 3	16.92	2545748	2321720	Java	sybernatuz	
 3	16.92	2400928	1861554	Python3	Gilsidoo	
@@ -864,6 +863,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3090,time=2020-11-17 00:59:
 3	16.8	2973831	2200513	C#	Golfand	
 3	16.78	3430449	2457678	C#	SwenV	
 3	16.77	814956	2487125	C++	kingofnumbers	
+3	16.75	3504584	2602270	C	ZXPlaner	
 3	16.75	3679933	2680726	Java	Toteuch	
 3	16.73	3641965	2659319	Python3	Aethis	
 3	16.71	1342663	1901019	Python3	JeromeFavrou	
