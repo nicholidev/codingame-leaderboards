@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4643,time=2020-11-18 01:54:25
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4644,time=2020-11-19 02:30:19
 0	47.64	1433161	1484525	C	Mingu	
 0	46.24	494104	455215	C++	Recar	
 0	45.81	990110	357643	C++	Rogerup	
@@ -290,7 +290,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4643,time=2020-11-18 01:54:
 0	35.57	2550089	1916881	OCaml	MPSI-LIV_CIV[idin]	
 0	35.57	542999	341210	C++	arturgo	
 0	35.55	1065347	344683	C++	FinalFantasyx	
-0	35.55	628001	353745	PHP	Herobrine	
+0	35.54	628001	353745	PHP	Herobrine	
 0	35.52	837350	2195014	Go	BorisZ	
 0	35.51	937214	340854	C#	KissCool	
 0	35.5	1346403	413885	Python3	BadMistake	
@@ -468,19 +468,18 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4643,time=2020-11-18 01:54:
 0	33.82	196808	361772	Groovy	bonam	
 0	33.82	1502379	2668277	Java	B-GangsteR	
 0	33.82	518889	355262	C++	athin	
-0	33.81	1390682	1503912	Javascript	arachno7	
 0	33.81	163957	339515	PHP	youser	
 0	33.81	267148	351928	C#	d3dave	
 0	33.81	527739	347262	Python3	i_v_a	
 0	33.8	2662359	1881411	Java	Javamat	
 0	33.8	1269687	375475	Python3	Maggles	
 0	33.8	964187	356160	C#	Ali-AlMosawi	
+0	33.8	1390682	1503912	Javascript	arachno7	
 0	33.8	1020325	342056	C	Gon	
 0	33.8	1064712	2133941	C++	Daskiller	
 0	33.79	904045	355157	Java	ZenDoor	
 0	33.79	566909	346113	Python	the_travelling-salesman	
 0	33.79	1070718	354099	Java	Sims.	
-0	33.79	736854	373751	C++	yento	
 0	33.78	925333	349086	Java	aseweryn	
 0	33.77	2492191	1923845	OCaml	MPSI-LIV-TheoBekh	
 0	33.77	1000361	354894	C++	Ardenrian	
@@ -505,6 +504,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4643,time=2020-11-18 01:54:
 0	33.67	765200	350611	C#	FrancoisB	
 0	33.67	706692	353536	Java	alexhap	
 0	33.67	1070189	344988	C#	Sebizuka	
+0	33.67	736854	373751	C++	yento	
 0	33.66	903485	2047784	Javascript	artur99	
 0	33.65	982132	344358	C++	cocouf	
 0	33.64	1013576	344215	C#	GabrielBottari	
@@ -652,6 +652,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4643,time=2020-11-18 01:54:
 0	32.25	968305	357298	C++	Mickael.a	
 0	32.23	1512968	906123	Java	cuduputu	
 0	32.23	368727	339155	Java	p0wonTnx	
+0	32.21	1379610	1408449	C++	Stanmar	
 0	32.21	1853805	2422539	C++	LuckyMullet	
 0	32.19	1480384	2422627	C++	RockyMullet	
 0	32.18	877003	350476	C++	PauloCezar	
@@ -664,7 +665,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4643,time=2020-11-18 01:54:
 0	32.11	1037848	358461	Javascript	pretension-itself	
 0	32.11	373704	350653	Ruby	LumpyMango	
 0	32.08	887370	357727	C#	Luuna	
-0	32.08	1379610	1408449	C++	Stanmar	
 0	32.07	311035	2668301	Python3	leojean890	
 0	32.07	1065394	355606	Python3	Roxa	
 0	32.06	246715	342761	C++	MattW	
