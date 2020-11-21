@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=4019,time=2020-11-20 02:13:12
+Score	UserID	Lang	Pseudo	#optim,count=4022,time=2020-11-21 01:19:49
 2759	1301401	C#	Stanax	
 2761	1833680	C++	jvivenot	
 2765	2288263	Rust	dbdr	
@@ -377,6 +377,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4019,time=2020-11-20 02:13:12
 4856	897543	C++	Peiffer-antoine.fr	
 4860	847660	Java	HarderThanNP	
 4878	909992	C++	PluC	
+4879	4011783	TypeScript	sylbouns	
 4886	1607522	Go	RoboStac	
 4897	518191	ObjectiveC	gustokashin	
 4911	890470	Java	romdouze	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=4019,time=2020-11-20 02:13:12
 5960	1122801	C++	Orcus	
 5960	875113	Java	Idohx	
 5960	963687	Python3	shiona	
-5960	1018437	Java	dubicube	

@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=7214,time=2020-11-20 02:13:12
+Score	UserID	Lang	Pseudo	#optim,count=7222,time=2020-11-21 01:19:50
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -65,6 +65,7 @@ Score	UserID	Lang	Pseudo	#optim,count=7214,time=2020-11-20 02:13:12
 303850	588426	C++	Jeff06	
 300650	1059996	C#	Molybdene	
 300350	2311105	C++	kovi	
+295710	962495	C++	e-boot	
 293170	3965067	C		
 290910	329200	C++	BlitzProg	
 290580	4008340	C	Shawnny	
@@ -84,7 +85,6 @@ Score	UserID	Lang	Pseudo	#optim,count=7214,time=2020-11-20 02:13:12
 253340	1314316	C++	jolindien	
 250670	1779483	C#	h.otto	
 249510	2178660	Javascript	monkeyD.Luffy	
-248920	962495	C++	e-boot	
 248650	1566335	Java	BeardedWhale	
 248580	862336	C++	Zaphus	
 248270	1195031	C++	Nekto	
@@ -893,6 +893,7 @@ Score	UserID	Lang	Pseudo	#optim,count=7214,time=2020-11-20 02:13:12
 61560	4014644	Java	SergioFx	
 61510	1712214	Javascript	_CP	
 61510	2849183	Java	thebitspud	
+61510	2562633	Python3	Nodascott	
 61500	301922	Scala	tyrcho	
 61500	1389974	PHP	cuzzea	
 61490	1292284	Python3	Walther	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=7214,time=2020-11-20 02:13:12
 60570	3386451	C#	Stetowns	
 60570	2592629	PHP	Kitof	
 60560	1363105	OCaml	aldrik.net	
-60550	1116991	C	Luisnux	
