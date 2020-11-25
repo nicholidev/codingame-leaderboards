@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2385,time=2020-11-24 00:30:10
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2386,time=2020-11-25 00:30:10
 5	35.62	1400179	2986754	C++	reCurse	
 5	31.95	1327028	2990369	C++	FredericBautista	
 5	30.35	1413236	511966	Go	Medici	
@@ -901,6 +901,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2385,time=2020-11-24 00:30:
 1	23.07	1517028	936212	Python3	Nicau	
 1	23.06	1661081	763842	C++	Melokay	
 1	23.06	1494618	625811	Javascript	Lune	
+1	23.05	915148	619650	C#	mbsff	
 1	23.04	1596346	768314	C#	LaurisJansons	
 1	23.04	918962	607474	Python	enc0der	
 1	23.04	1728288	2085737	C#	MOLP	
@@ -908,12 +909,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2385,time=2020-11-24 00:30:
 1	23.04	810902	628546	Python	bouletta	
 1	23.04	1393911	501141	Javascript	neal_s	
 1	23.03	154937	601257	Python3	[CG]BOUGA	
+1	23.03	1458250	582666	Python3	Epsilonmajorquezero	
 1	23.02	549396	494294	Javascript	GoossensPi	
 1	23.02	1460044	498676	Java	Fuz	
 1	23.02	1448599	508856	C#	MdNght	
-1	23.02	915148	619650	C#	mbsff	
-1	23.01	1458250	582666	Python3	Epsilonmajorquezero	
 1	23.01	1113415	653895	Python3	Lhassa	
+1	23.01	2133806	1428550	C++	Thechrist	
 1	23.01	208864	494078	Ruby	Garutha	
 1	23.01	846817	501778	C++	KENGURU	
 1	23	890335	1481109	C++	ttr	
@@ -947,7 +948,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2385,time=2020-11-24 00:30:
 1	22.92	1476242	576247	VB.NET	Txiwi	
 1	22.92	1308058	482009	Java	Ezeckiel	
 1	22.92	1667353	773140	Javascript	jacobs472	
-1	22.91	2133806	1428550	C++	Thechrist	
 1	22.91	1107599	503835	Python3	NoOne	
 1	22.91	1604839	722158	Javascript	Smeletz	
 1	22.91	1648009	755489	Java	Getileino	
@@ -997,5 +997,5 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2385,time=2020-11-24 00:30:
 1	22.83	795321	499945	Java	berthy424	
 1	22.83	1841051	1765239	Python3	Alpacah	
 1	22.83	153927	510765	C++	Cubix	
+1	22.83	1537927	1218353	Javascript	thecavemanlogic	
 1	22.82	1077201	500447	C	Baarg	
-1	22.82	1477937	566928	Java	koeki13	
