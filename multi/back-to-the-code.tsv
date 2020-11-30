@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4648,time=2020-11-29 00:59:32
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4649,time=2020-11-30 01:02:09
 0	47.64	1433161	1484525	C	Mingu	
 0	46.24	494104	455215	C++	Recar	
 0	45.81	990110	357643	C++	Rogerup	
@@ -505,6 +505,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4648,time=2020-11-29 00:59:
 0	33.67	706692	353536	Java	alexhap	
 0	33.67	1070189	344988	C#	Sebizuka	
 0	33.67	736854	373751	C++	yento	
+0	33.66	516255	341232	Java	Vargas	
 0	33.66	903485	2047784	Javascript	artur99	
 0	33.65	982132	344358	C++	cocouf	
 0	33.64	1013576	344215	C#	GabrielBottari	
@@ -512,7 +513,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4648,time=2020-11-29 00:59:
 0	33.63	2488368	1916524	OCaml	frayien	
 0	33.61	1013649	361769	C	Nodren	
 0	33.61	1302858	379987	C	Quinton	
-0	33.61	516255	341232	Java	Vargas	
 0	33.61	1186871	366966	Ruby	bnd	
 0	33.61	955137	347727	Javascript	balamir53	
 0	33.6	1047061	342478	Java	ThePiti85	
@@ -693,10 +693,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4648,time=2020-11-29 00:59:
 0	31.81	1005061	351609	Ruby	drac	
 0	31.8	543181	353244	Java	dominisz	
 0	31.76	978754	352232	Java	flower_child	
-0	31.76	406152	357568	Python	TiarinBlate	
 0	31.75	1040245	355307	C	Matze	
 0	31.71	2488552	1916131	OCaml	MPSI-LIV-nicod-eva	
 0	31.7	831195	3131120	C++	samgiz	
+0	31.7	406152	357568	Python	TiarinBlate	
 0	31.68	1728217	1122731	C#	_spoon_	
 0	31.67	1239787	374894	F#	Name	
 0	31.66	359529	354065	OCaml	vIg0r	
