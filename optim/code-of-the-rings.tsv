@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=4062,time=2020-11-30 02:11:58
+Score	UserID	Lang	Pseudo	#optim,count=4068,time=2020-12-01 00:51:31
 2759	1301401	C#	Stanax	
 2761	1833680	C++	jvivenot	
 2765	2288263	Rust	dbdr	
@@ -80,6 +80,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4062,time=2020-11-30 02:11:58
 3644	1749055	C#	AndreiBilalov	
 3645	1457162	Python3	JFB	
 3646	888898	Javascript	helgui	
+3648	3939443	C++	Lafihalas	
 3650	1498442	Javascript	NSzx	
 3652	1264581	Python3	BenjiIsBack	
 3653	1034635	C++	SlyB	
@@ -406,7 +407,6 @@ Score	UserID	Lang	Pseudo	#optim,count=4062,time=2020-11-30 02:11:58
 5194	1306541	Python3	Steuh	
 5205	2716329	Python3	Recher	
 5220	957176	C#	MWilliam	
-5227	3939443	C++	Lafihalas	
 5230	1767134	Java	AntonYuriev	
 5237	153678	Go	dknn	
 5237	389473	Rust	BigBart	
@@ -719,6 +719,8 @@ Score	UserID	Lang	Pseudo	#optim,count=4062,time=2020-11-30 02:11:58
 5860	4023980	Python3	Shimbawa	
 5860	4041267	Javascript	Looney1300	
 5860	1944726	Python3	bourgeof	
+5860	3727077	Python3	Manwi23	
+5860	1258656	C++	Batpapa	
 5861	954356	C++		
 5861	420035	Pascal	bvs23bkv33	
 5861	1483798	Ruby	hm001	
@@ -775,6 +777,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4062,time=2020-11-30 02:11:58
 5884	1634212	C#	PerlinMandleBro	
 5884	1652555	Python3	Kalwyn	
 5884	1661333	C++	linjoehan	
+5884	4065313	C++	XerusPrasinus	
 5885	808896	Java	ondimon	
 5885	154701	Java	luxman99	
 5885	933923	PHP	mdio	
@@ -806,6 +809,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4062,time=2020-11-30 02:11:58
 5885	1029663	C	Skreamly	
 5885	3715831	Java	UQ-LELE	
 5885	1893989	Python3	Rosstherock	
+5885	4030696	TypeScript	msfe	
 5886	892395	C++	Christophe	
 5886	280978	Python3	Rylanor	
 5886	952729	Bash	Flodelarab	
@@ -941,11 +945,13 @@ Score	UserID	Lang	Pseudo	#optim,count=4062,time=2020-11-30 02:11:58
 5919	844863	Java	Magnasilvar	
 5921	3940156	Java	VaidaLaganeckiene	
 5921	2592027	C#	ParticleBeam	
+5921	3779326	Python3	U4EA	
 5922	596947	C++	LBandy	
 5922	1151631	Python3	hexabeast	
 5923	1412263	PHP	PatrickMcGinnisII	
 5925	1639061	Python3	Anarcobra	
 5926	1620631	Python3	Testadicardi	
+5927	3797273	C#	Pepito63	
 5928	414278	Java	oobException	
 5928	212028	Java	GHenry	
 5928	1017169	C#	bLasT	
@@ -993,9 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=4062,time=2020-11-30 02:11:58
 5951	1077199	Python3	Lilymage	
 5951	2375283	C#	VirusX	
 5953	843005	C#	DrJonez007	
-5953	196606	Java	EasyCoder	
-5953	3922325	C++	Degalat	
-5953	3354337	C++	Westicles	
-5954	1764618	C++	ave99	
-5955	3230824	C++	blenderfan	
-5955	2592629	PHP	Kitof	
