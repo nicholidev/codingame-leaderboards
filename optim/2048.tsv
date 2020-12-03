@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=112,time=2020-12-02 03:07:12
+Score	UserID	Lang	Pseudo	#optim,count=111,time=2020-12-03 01:12:26
 62564496	2288263	Rust	dbdr	
 59353464	3457031	C++	YurkovAS	
 59353440	3354337	C++	Westicles	
@@ -44,6 +44,7 @@ Score	UserID	Lang	Pseudo	#optim,count=112,time=2020-12-02 03:07:12
 192100	1802967	Python3	Meruem	
 189156	2153101	Python3	Bilou06	
 161352	1457162	Python3	JFB	
+100260	1029663	C	Skreamly	
 97496	2557034	Python3	IAmAButterfly	
 93356	862919	C++	Astrobytes	
 80000	2414853	Python3	StephaneLaveau	
@@ -58,7 +59,6 @@ Score	UserID	Lang	Pseudo	#optim,count=112,time=2020-12-02 03:07:12
 55768	820541	PHP	Johnstyle	
 55744	3416055	Python3	ItsAFeature	
 55744	3780735	C++	ecto0310	
-55328	1029663	C	Skreamly	
 54884	3922731	Dart	Dartisan	
 53576	4033445	Javascript	netto________	
 53512	2923506	C++	darkhorse64	
@@ -107,5 +107,4 @@ Score	UserID	Lang	Pseudo	#optim,count=112,time=2020-12-02 03:07:12
 344	3230794	Python3	tutubalin	
 344	2956563	Javascript	Highlander1981	
 344	1920644	C++	Skygge	
-344	4063648	Python3	rockstar555	
 344	3603492	Javascript	LeviosDrake	
