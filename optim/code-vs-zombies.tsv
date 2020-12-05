@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=7470,time=2020-12-04 01:21:52
+Score	UserID	Lang	Pseudo	#optim,count=7485,time=2020-12-05 01:17:42
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -32,6 +32,7 @@ Score	UserID	Lang	Pseudo	#optim,count=7470,time=2020-12-04 01:21:52
 463050	1607522	C++	RoboStac	
 460810	1881651	C	Alligard	
 458630	1826849	C++	Geplik	
+456270	4009347	Rust	JaworWr	
 453510	3457031	C++	YurkovAS	
 447880	3627342	C#	Zuabros	
 441200	638784	C++	Yqnn	
@@ -420,6 +421,7 @@ Score	UserID	Lang	Pseudo	#optim,count=7470,time=2020-12-04 01:21:52
 84090	2378225	Python3	okon	
 82750	1457162	Python3	JFB	
 82090	2387233	C#	SinOfWrath	
+82020	1944726	C++	bourgeof	
 81950	1245647	C++	[CPC]Herbert	
 81750	360942	Rust	Amev	
 81720	1915573	Python3	skroth	
@@ -478,6 +480,7 @@ Score	UserID	Lang	Pseudo	#optim,count=7470,time=2020-12-04 01:21:52
 72100	715319	C#	poksh	
 72100	2052376	Rust	JoeySK	
 71970	973040	C++	papyjo	
+71660	4085072	Rust	Estebansi	
 71530	1759335	C#	metahom	
 71310	198916	Java	WhatTrickeryIsThis	
 71310	1469666	Python3	alenic	
@@ -669,6 +672,7 @@ Score	UserID	Lang	Pseudo	#optim,count=7470,time=2020-12-04 01:21:52
 64260	3002086	Python3	Mercy38	
 64260	2063592	C++	Gbaud	
 64260	3762469	Python3	0x47726579	
+64260	4058416	C++	ZacDonald	
 64230	155928	PHP	pk	
 64230	1147815	Python3	Tashiqi	
 64230	1095446	Python3	tarbomb	
@@ -995,7 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=7470,time=2020-12-04 01:21:52
 60890	1614989	Javascript	dgiugg	
 60890	1771470	Java	wolfy766	
 60890	1082488	C#		
-60890	924412	C#	chidrik	
-60890	3649888	Python3	tr0j4nh0r53	
-60890	2502187	C#	Schibo	
-60890	4062828	TypeScript	Matrix[0]	
