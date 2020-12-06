@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=41,time=2020-12-05 00:57:39
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=42,time=2020-12-06 00:48:45
 3	30.3	1186250	3115482	Python3	Gabbek	
 3	30.07	2288263	2696905	Rust	dbdr	
 3	28.45	1479930	2680171	C++	LeRenard	
@@ -24,19 +24,20 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=41,time=2020-12-05 00:57:39
 3	10.93	371603	2836244	C++	martin	
 3	10.45	314562	2695993	Python3	Mechar	
 3	4.31	1635357	2830906	Python3	GiB	
-2	20.17	1740037	2684934	Scala	ereiam	
-2	16.68	2069141	3324336	C#	tomeko	
-2	14	2416641	2680109	Python3	Zenoscave	
-2	11.6	862919	2706537	C++	Astrobytes	
-2	10.23	2923506	2682340	C++	darkhorse64	
-2	5.36	1029602	2695889	C	Potemkine	
-2	4.82	4029033	3150357	TypeScript	3DPerson	
-1	10.3	1412263	3073118	PHP	PatrickMcGinnisII	
-0	7.39	1854639	2995988	C#	iDxMeG	
-0	7.38	523846	2828228	C#	Palmipedus	
-0	7.38	2325449	2985364	Perl	otpv	
-0	7.37	1341520	3002283	Java	egaetan	
+2	23.32	1436776	3340109	C++	BrainSolver	
+2	19.97	1740037	2684934	Scala	ereiam	
+2	17.41	2069141	3324336	C#	tomeko	
+2	14.81	2416641	2680109	Python3	Zenoscave	
+2	12.69	862919	2706537	C++	Astrobytes	
+2	10.53	2923506	2682340	C++	darkhorse64	
+2	6.01	1029602	2695889	C	Potemkine	
+2	4.76	4029033	3150357	TypeScript	3DPerson	
+1	9.51	1412263	3073118	PHP	PatrickMcGinnisII	
+0	7.81	3464590	3012280	C	abbecool	
+0	7.53	1341520	3002283	Java	egaetan	
+0	7.46	1854639	2995988	C#	iDxMeG	
 0	7.36	3808031	3116670	Ruby	_proton	
-0	7.36	1713174	2683174	Python3	BigUP	
-0	7.36	3464590	3012280	C	abbecool	
-0	7.36	3386139	3027710	Python3	MaliciouslyCrypticUsername	
+0	7.32	3386139	3027710	Python3	MaliciouslyCrypticUsername	
+0	7.32	2325449	2985364	Perl	otpv	
+0	7.32	523846	2828228	C#	Palmipedus	
+0	7.32	1713174	2683174	Python3	BigUP	
