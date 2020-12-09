@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=94,time=2020-12-08 02:10:21
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=95,time=2020-12-09 00:48:04
 1	43.14	2522090	3074478	C++	MSmits	
 1	41.39	3136787	3050532	C++	jacek	
 1	41.19	2288263	3024723	Rust	dbdr	
@@ -38,7 +38,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=94,time=2020-12-08 02:10:21
 0	24.29	4074553	3319027	Python3	coom_st	
 0	24.22	1412263	3021225	PHP	PatrickMcGinnisII	
 0	23.75	3065352	3335587	C++	Arti1990	
-0	23.54	3501027	3041694	C++	SteelSky	
+0	23.53	3501027	3041694	C++	SteelSky	
 0	22.64	1886665	3031765	C++	Ficek	
 0	22.44	2050244	3012967	Python3	Cezuriku	
 0	22.26	1480384	3329244	C++	RockyMullet	
@@ -61,7 +61,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=94,time=2020-12-08 02:10:21
 0	16.73	3305510	3110840	PHP	TBali	
 0	16.49	2508635	3013859	Java	hemhel	
 0	16.44	4053693	3205383	Java	KS2003	
-0	16.09	1713174	3013680	Python3	BigUP	
+0	16.17	1713174	3013680	Python3	BigUP	
 0	15.77	3955301	3082498	Python3	SeptaCube	
 0	15.55	2069141	3014224	C#	tomeko	
 0	15.54	1968089	3031971	C++	MarcinDus	
@@ -69,7 +69,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=94,time=2020-12-08 02:10:21
 0	15.52	158495	3077507	Javascript	Cr3aHal0	
 0	15.24	889789	3016981	C	Alain-Delpuch	
 0	14.99	3808031	3032315	Ruby	_proton	
-0	14.89	3721214	3041093	C++	jrke	
+0	14.95	3721214	3041093	C++	jrke	
 0	14.86	3593941	3085753	Python3	Spielzeugente	
 0	14.65	3646346	3081060	PHP	Pingwi85	
 0	14.64	3820540	3261517	C++	HitsujiRere	
@@ -77,19 +77,20 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=94,time=2020-12-08 02:10:21
 0	14.14	1931039	3325607	TypeScript	MooMooN	
 0	14.03	1540478	3032959	Java	struct	
 0	13.62	1194069	3117290	Java	Redstrike	
-0	13.56	2043908	3150406	Python3	AntiSquid	
-0	13.55	3932077	3082627	Javascript	CopperFr	
-0	13.53	2081550	3020449	Java	muy31	
-0	12.75	351453	3338328	Python3	TinaryTree	
-0	12.68	3818338	3151429	Javascript	Tomten	
+0	13.56	3932077	3082627	Javascript	CopperFr	
+0	13.51	2081550	3020449	Java	muy31	
+0	13.5	2043908	3150406	Python3	AntiSquid	
+0	12.73	351453	3338328	Python3	TinaryTree	
+0	12.66	3818338	3151429	Javascript	Tomten	
 0	11.47	3751016	3157313	Javascript	Q12	
-0	5.06	3599907	3344518	Python3	aski	
-0	2.29	3360144	3331749	C++	n0ma_ru	
-0	1.57	3985519	3105505	C++	aiko_baigo	
-0	-0.67	3699033	3031778	C++	Bitwise	
-0	-3.17	2325449	3314535	Perl	otpv	
-0	-3.55	4018953	3139303	Javascript	zTTK	
-0	-3.67	2006348	3041789	C++	Koji02	
-0	-3.69	513153	3041996	C++	voidle	
-0	-3.69	3911100	3051301	Java	nontyan	
-0	-3.71	3985506	3105504	C++	iwatachan	
+0	5.17	3599907	3344518	Python3	aski	
+0	3.31	3360144	3331749	C++	n0ma_ru	
+0	2.26	3985519	3105505	C++	aiko_baigo	
+0	-0.06	3699033	3031778	C++	Bitwise	
+0	-2.4	3903319	3345407	Javascript	aymane211	
+0	-3.26	3911100	3051301	Java	nontyan	
+0	-3.43	2325449	3314535	Perl	otpv	
+0	-3.75	513153	3041996	C++	voidle	
+0	-3.79	2006348	3041789	C++	Koji02	
+0	-3.81	4018953	3139303	Javascript	zTTK	
+0	-3.95	3985506	3105504	C++	iwatachan	
