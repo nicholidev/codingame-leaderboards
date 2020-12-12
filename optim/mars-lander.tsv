@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3279,time=2020-12-11 01:24:17
+Score	UserID	Lang	Pseudo	#optim,count=3281,time=2020-12-12 01:40:19
 2509	1327028	C++	FredericBautista	
 2507	154372	Bash	Plopx	
 2504	1249786	C#	Fededevi	
@@ -100,6 +100,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3279,time=2020-12-11 01:24:17
 2320	811622	C++	Scarfield	
 2320	536400	C++	Atmel	
 2318	3136962	C++	marimarek	
+2315	3358168	Go	A.U.	
 2314	154388	Python3	PonyPonyCodeCode	
 2313	3903847	Java	UnicornP	
 2312	371603	C++	martin	
@@ -123,7 +124,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3279,time=2020-12-11 01:24:17
 2295	1851160	C#	Fabienvs	
 2293	3532237	Python3	Bubaptik	
 2291	979186	Java	IDEO	
-2291	3358168	Go	A.U.	
 2286	3533119	C++	wlesavo	
 2285	2316796	Java	Psio	
 2284	848989	Java	revever	
@@ -139,6 +139,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3279,time=2020-12-11 01:24:17
 2274	1706883	C++	CommanderCero	
 2272	335954	Java	nmahoude	
 2272	736075	Java	Xyze	
+2272	2924895	C++	trictrac	
 2270	2043908	Java	AntiSquid	
 2267	1757536	C++	BlueGhost31	
 2265	919264	C#	Cyril_Jo	
@@ -159,7 +160,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3279,time=2020-12-11 01:24:17
 2245	4018953	Java	zTTK	
 2242	903408	C++	FFevotte	
 2242	811004	C++	tarte7	
-2242	2924895	C++	trictrac	
 2242	3983017	Python3	TLbuis	
 2240	704875	C#	XaY	
 2240	2207251	C++	JeffBeSauce	
@@ -188,6 +188,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3279,time=2020-12-11 01:24:17
 2213	1245471	Javascript	euhugo	
 2212	706692	Java	alexhap	
 2211	1188212	C++	superredlark	
+2211	1147989	C++	kerek	
 2210	2165183	C	craig_macmuffin	
 2209	1347608	Javascript	Darkoneko	
 2204	3857586	Python3	Rush_iam	
@@ -460,7 +461,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3279,time=2020-12-11 01:24:17
 1973	4036826	Javascript	Feust	
 1972	154961	C#	[CPC]Foudge	
 1970	1639378	Python3	NaNisTheLonliestNumber	
-1968	3354337	C++	anon12600701	
+1968	3354337	C++	Westicles	
 1967	3011669	C++	eXec	
 1966	1147465	Java	jc_vzla	
 1966	1509627	Javascript	puma17	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=3279,time=2020-12-11 01:24:17
 1771	869020	Haskell	M.M.	
 1771	1925140	Java	Quintinius	
 1771	1966358	C#	Cars-II	
-1771	1979331	Java	wolniakowski	
