@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=7563,time=2020-12-12 01:40:21
+Score	UserID	Lang	Pseudo	#optim,count=7568,time=2020-12-13 01:20:12
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -31,6 +31,7 @@ Score	UserID	Lang	Pseudo	#optim,count=7563,time=2020-12-12 01:40:21
 464000	2772292	C++	Bezukh	
 463050	1607522	C++	RoboStac	
 460810	1881651	C	Alligard	
+459720	1756952	C++	Petras	
 458630	1826849	C++	Geplik	
 456270	4009347	Rust	JaworWr	
 453510	3457031	C++	YurkovAS	
@@ -59,8 +60,8 @@ Score	UserID	Lang	Pseudo	#optim,count=7563,time=2020-12-12 01:40:21
 348130	918352	C++	CoYoTe99	
 344400	1304841	C++	NitMpez	
 330670	3952328	C++	Lambdadelta	
+327550	1728288	C#	MOLP	
 322820	186179	C++	Nagrarok	
-319900	1756952	C++	Petras	
 317110	1064903	C++	Ghirtor	
 315410	1854246	C++	Counterbalance	
 303850	588426	C++	Jeff06	
@@ -80,6 +81,7 @@ Score	UserID	Lang	Pseudo	#optim,count=7563,time=2020-12-12 01:40:21
 269430	1880197	C	bicklil	
 269100	1845617	C++	Shingyx	
 268480	889789	C	Alain-Delpuch	
+258950	3903847	C#	UnicornP	
 256370	2315158	Java	luigi_gelato	
 254420	1140756	C++	BarbsMan	
 254000	153678	Go	dknn	
@@ -95,6 +97,7 @@ Score	UserID	Lang	Pseudo	#optim,count=7563,time=2020-12-12 01:40:21
 245640	854952	Java	dolmen1234	
 245490	893541	Java	wala	
 243100	888898	C++	helgui	
+242730	4101693	C	Rockstar555	
 242510	1194057	C++	Altivar	
 242380	820983	Javascript	Funnybobby	
 240890	1178276	Java	Jerome_95	
@@ -217,6 +220,7 @@ Score	UserID	Lang	Pseudo	#optim,count=7563,time=2020-12-12 01:40:21
 188930	880353	C++	zasmu	
 188380	1041619	Java	ryguyfiveatgmaildotcom	
 187820	3982709	Rust	lukasjapan	
+187670	201919	C++	LouJo	
 187270	2890600	C++	Surtee	
 185620	2212283	C++	ElieK	
 185160	3836429	Python3	Hippolyte	
@@ -273,7 +277,6 @@ Score	UserID	Lang	Pseudo	#optim,count=7563,time=2020-12-12 01:40:21
 161790	819803	Java	Anordil	
 161770	155955	PHP	nht_dev	
 161320	3965181	Javascript	Adlan_Fauzi	
-161070	1728288	C#	MOLP	
 160910	3797046	Python3	chinwag	
 160430	1525057	PHP	XABPyK.A	
 160250	1610001	C++	Babilonio	
@@ -305,6 +308,7 @@ Score	UserID	Lang	Pseudo	#optim,count=7563,time=2020-12-12 01:40:21
 144330	869314	C++	RicBit	
 144280	1077559	Java	PhOeNyX	
 143110	1525821	C#	Jeroo	
+142770	3380418	C++	Von-Karma	
 142670	3594074	C++	jopo	
 142660	1759839	C++	matleg	
 142600	1740189	Javascript	RBeater	
@@ -320,7 +324,6 @@ Score	UserID	Lang	Pseudo	#optim,count=7563,time=2020-12-12 01:40:21
 138570	841085	C#	Risen	
 138100	1017169	C#	bLasT	
 137980	890630	C#	Shurishe	
-137620	3380418	C++	Von-Karma	
 137530	512207	Scala	Aun	
 137140	2077458	Python3	Ragi	
 136530	1467771	C++	Telokis	
@@ -345,7 +348,6 @@ Score	UserID	Lang	Pseudo	#optim,count=7563,time=2020-12-12 01:40:21
 127410	1698954	Java	Neurovul	
 125820	1456860	Java	Ulli85	
 125800	3226448	Python3	tobk	
-124280	201919	C++	LouJo	
 124100	1851160	C#	Fabienvs	
 123700	783555	C#	Colin88	
 123050	3319855	C#	Drobor	
@@ -997,5 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=7563,time=2020-12-12 01:40:21
 61000	1096926	Python3	Alumet	
 61000	1391603	C#	Morten242	
 61000	3518070	Python3	DRHarvey	
-61000	599667	Java	magistvan	
-60990	836415	Java	tallo	

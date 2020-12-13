@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=122,time=2020-12-12 01:40:18
+Score	UserID	Lang	Pseudo	#optim,count=125,time=2020-12-13 01:20:10
 62564496	2288263	Rust	dbdr	
 59353464	3457031	C++	YurkovAS	
 59353440	3354337	C++	Westicles	
@@ -9,7 +9,7 @@ Score	UserID	Lang	Pseudo	#optim,count=122,time=2020-12-12 01:40:18
 56228180	1378958	C#	Illedan	
 56158848	3533119	C++	wlesavo	
 44399992	1436776	C++	BrainSolver	
-28125836	1344487	C++	UnnamedCodinGamer	
+29062640	1344487	C++	UnnamedCodinGamer	
 27075256	820000	C++	ValGrowth	
 26616720	2786666	C++	TetraktysPhi	
 23960660	2924895	C	trictrac	
@@ -18,19 +18,20 @@ Score	UserID	Lang	Pseudo	#optim,count=122,time=2020-12-12 01:40:18
 16531132	490588	Python3	Uljahn	
 15247188	2416641	C++	Zenoscave	
 14072088	1732414	C++	ClosetAI	
-13136824	2451652	Java	code_of_the_dead	
+13516584	2451652	Java	code_of_the_dead	
 12046356	3564009	Lua	Waffle3z	
+10869616	3647844	C++	rc95401	
 10029096	1500515	C#	eulerscheZahl	
 9282440	3305510	PHP	TBali	
 8607268	3898813	C++	3ifndef	
 8305688	1515891	Go	ndc	
-7887012	3647844	C++	rc95401	
 7733800	155774	C++	dwarfie	
 6254508	512097	C++	Stilgart	
 4527912	3738782	C#	Inaniwa	
 3825460	1854246	C++	Counterbalance	
 3298036	311035	Python3	leojean890	
 3237600	1693448	C	KoenduBuf	
+2969436	3918583	TypeScript	mikmak	
 2833088	973040	C	papyjo	
 2747996	3721214	C++	jrke	
 2450728	3626782	Java	ItsNotABug	
@@ -45,7 +46,6 @@ Score	UserID	Lang	Pseudo	#optim,count=122,time=2020-12-12 01:40:18
 381420	1427078	C++	ToshiTuringMachine	
 305628	792813	Python3	VilBoub	
 287992	508460	C++	Volia	
-282108	3918583	TypeScript	mikmak	
 250352	3942793	Java	The_Auditor	
 192100	1802967	Python3	Meruem	
 189156	2153101	Python3	Bilou06	
@@ -86,6 +86,7 @@ Score	UserID	Lang	Pseudo	#optim,count=122,time=2020-12-12 01:40:18
 47648	4059073	Python3	Julien-Verdun	
 45780	3515315	Python3	MichalM	
 45200	4002619	Python3	Juraj09	
+44392	2290633	Python3	field3	
 43648	351385	Python3	fabmarcant	
 43468	4065637	C#	Baby1991	
 39376	837350	Python3	BorisZ	
@@ -99,6 +100,7 @@ Score	UserID	Lang	Pseudo	#optim,count=122,time=2020-12-12 01:40:18
 30316	2508635	Java	hemhel	
 30008	3967220	TypeScript	ArturSkrobisz	
 29348	3574688	C++	RaulButuc	
+29180	4038295	Python3	RamanShakya	
 28932	1740037	Scala	ereiam	
 28048	1932031	Python3	Tricatel	
 25456	3640862	Python3	nopnop	
@@ -111,6 +113,7 @@ Score	UserID	Lang	Pseudo	#optim,count=122,time=2020-12-12 01:40:18
 5572	3496153	Python3	lndshs	
 4832	3349513	Python3	Lamisedaxeh	
 4792	1759839	Python3	matleg	
+4496	1200669	Python3	houseofsuns	
 4296	3596445	Python3	Bafiko	
 4048	3513265	C++	DaNinja	
 2224	865548	Go	Kktus	
