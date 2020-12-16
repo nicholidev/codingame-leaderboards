@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4659,time=2020-12-15 01:09:13
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4658,time=2020-12-16 01:35:49
 0	47.64	1433161	1484525	C	Mingu	
 0	46.24	494104	455215	C++	Recar	
 0	45.81	990110	357643	C++	Rogerup	
@@ -77,8 +77,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4659,time=2020-12-15 01:09:
 0	40.99	2233179	1762001	C++	Samsa	
 0	40.94	1195934	1611063	C++	odinmillion	
 0	40.92	569223	345550	Javascript	Glutamatt	
+0	40.91	622773	343848	C++	eldidou	
 0	40.9	507383	341342	C#	Vadasz	
-0	40.89	622773	343848	C++	eldidou	
 0	40.88	1017169	346143	C#	bLasT	
 0	40.83	848394	352597	Java	schwarzahl	
 0	40.79	1425201	463149	C#	JamesPun	
@@ -96,9 +96,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4659,time=2020-12-15 01:09:
 0	39.98	806823	356569	C	Zer0	
 0	39.86	840697	411514	Java	st00p1d	
 0	39.71	1052271	362037	C#	Bleash	
+0	39.7	842532	345362	Ruby	spy	
 0	39.67	841085	339404	C#	Risen	
 0	39.63	1436776	2148374	C++	BrainSolver	
-0	39.62	842532	345362	Ruby	spy	
 0	39.62	834728	352887	Java	ki-ki33	
 0	39.46	217547	358235	Haskell	stderr	
 0	39.35	1073397	890427	C++	Calsmurf2904	
@@ -206,8 +206,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4659,time=2020-12-15 01:09:
 0	37.45	935565	354751	Java	Vil_Rouquin	
 0	37.45	430768	345848	Python	ash	
 0	37.45	1114834	2408070	C++	k4ng0u	
+0	37.45	610994	350148	Python3	Stan...	
 0	37.44	1065176	344311	Python3	LouisDurand	
-0	37.44	610994	350148	Python3	Stan...	
 0	37.4	884855	341800	Java	ChristopherZ	
 0	37.4	1644437	794918	C++	SurfDog	
 0	37.39	933134	350672	F#	polkduran	
@@ -358,13 +358,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4659,time=2020-12-15 01:09:
 0	34.88	2653583	1913970	OCaml	glhf	
 0	34.87	408825	354174	Java	DenVo	
 0	34.86	884069	357502	Python3	punxxy	
-0	34.85	504994	340320	Java	NikitON	
 0	34.84	1058165	349254	Javascript	Kehinde	
 0	34.84	404777	345500	C++	Joodoc	
 0	34.82	1341520	1667468	Java	egaetan	
 0	34.81	857521	645922	C#	MrAnderson	
 0	34.8	715431	349514	Javascript	G3r0	
 0	34.79	830819	346001	Java	johnnyhibiki	
+0	34.79	504994	340320	Java	NikitON	
 0	34.79	894599	339636	Java	DidierC	
 0	34.77	2683458	1917286	OCaml	MPSI_Fusee	
 0	34.77	847675	357796	Haskell	RobinHood	
@@ -436,7 +436,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4659,time=2020-12-15 01:09:
 0	33.92	964187	356160	C#	Ali-AlMosawi	
 0	33.91	155924	355326	C++	yvesmocq	
 0	33.91	1288865	411370	C	codyboto	
-0	33.91	1070781	344999	Python	Peterke	
 0	33.91	1480886	587093	C++	V4nDr4v3n	
 0	33.91	995658	354941	C++	Faithy	
 0	33.9	523170	339305	C	Pierromagien	
@@ -446,6 +445,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4659,time=2020-12-15 01:09:
 0	33.9	957701	348873	Python	Kremlin	
 0	33.9	690668	346762	Haskell	Djiiz	
 0	33.9	1075002	345279	Python	Foie_Gras	
+0	33.9	1070781	344999	Python	Peterke	
 0	33.9	1059122	354676	C++	g2lm	
 0	33.9	892056	2115851	Java	LaurentTrk	
 0	33.9	1005110	342305	Java	daremer	
@@ -846,9 +846,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4659,time=2020-12-15 01:09:
 0	30.56	1113426	362073	VB.NET	Kuruts	
 0	30.56	1425395	450509	C++	Tsoin122	
 0	30.56	1939395	1888427	C++	Feburas	
+0	30.55	1068404	449434	C#	Naveronen	
 0	30.55	572830	341741	Java	consuLion	
 0	30.54	1002316	344597	C	trigui	
-0	30.54	1068404	449434	C#	Naveronen	
 0	30.54	1169762	795489	Python	gagolucasm	
 0	30.54	814356	341152	C#	gaps	
 0	30.54	848052	343855	C++	agolu	
@@ -925,13 +925,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4659,time=2020-12-15 01:09:
 0	30.04	2990918	2572150	Javascript	Dingodino	
 0	30.01	413993	352387	Bash	Gilbow	
 0	30.01	240311	602936	C#	Myrthem	
-0	30	1442155	469659	Java	AllAllAll	
 0	29.99	2327967	1575293	Ruby	Karocyt	
 0	29.98	1046004	352577	C++	CodeRaiderS	
 0	29.96	1379195	415772	VB.NET	Ricktastic	
 0	29.95	1336138	404327	Python	wyrdoe	
 0	29.93	1112163	803443	C++	JaredReimer	
 0	29.93	1477791	791172	C++	seitec01	
+0	29.92	1442155	469659	Java	AllAllAll	
 0	29.91	866399	341445	C#	Makam	
 0	29.89	1189814	369357	Java	xy007	
 0	29.87	1333822	665158	Python3	Stefanorr	
