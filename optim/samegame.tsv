@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=224,time=2020-12-17 01:13:12
+Score	UserID	Lang	Pseudo	#optim,count=224,time=2020-12-18 00:52:18
 174652	3354337	Scala	Westicles	
 164196	1629259	C#	Marchete	
 162096	2968035	C++	DomiKo	
@@ -7,6 +7,7 @@ Score	UserID	Lang	Pseudo	#optim,count=224,time=2020-12-17 01:13:12
 150000	2288263	Rust	dbdr	
 147888	1500515	C#	eulerscheZahl	
 136253	2311105	C++	kovi	
+129182	1530051	C++	UlYoP	
 128510	1378958	C#	Illedan	
 118483	3457031	C++	YurkovAS	
 116591	1201796	Java	P.Greze	
@@ -16,7 +17,6 @@ Score	UserID	Lang	Pseudo	#optim,count=224,time=2020-12-17 01:13:12
 96229	2510517	C++	Turtlefight	
 95691	3487645	Javascript	hypers	
 94900	1344487	C++	UnnamedCodinGamer	
-92548	1530051	C++	UlYoP	
 92378	1854246	C++	Counterbalance	
 87682	1449433	C++	Rolf	
 86076	3717149	C++	Jef808	
@@ -84,6 +84,7 @@ Score	UserID	Lang	Pseudo	#optim,count=224,time=2020-12-17 01:13:12
 20198	3979220	Java	sahdevav	
 19462	970195	C++	Elbanono	
 18778	1545094	Javascript	ZooooX	
+17896	4007648	C++	nan0S_	
 17028	3305510	PHP	TBali	
 16681	2235616	Rust	BroneKot	
 16528	2416641	Python3	Zenoscave	
@@ -100,7 +101,7 @@ Score	UserID	Lang	Pseudo	#optim,count=224,time=2020-12-17 01:13:12
 13816	2474883	Python3	lakeoverflow	
 12761	1698958	Javascript	OlafDriver	
 11532	3983017	PHP	TLbuis	
-10628	1802967	Python3	Meruem	
+10662	1802967	Python3	Meruem	
 10584	3344108	Rust	Xmar	
 10352	1715811	Java	PositiveQuark	
 10279	3858550	Python3	SPDene	
@@ -117,7 +118,6 @@ Score	UserID	Lang	Pseudo	#optim,count=224,time=2020-12-17 01:13:12
 9902	2792232	Python3	Monoterpene	
 9902	3141948	Python3	philRG	
 9902	4008310	C#		
-9902	4007648	C++	nan0S_	
 9899	3903847	Java	UnicornP	
 9894	1412263	PHP	PatrickMcGinnisII	
 9806	3580156	Python3	SeraphWeddUltimate	

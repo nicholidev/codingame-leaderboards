@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=864,time=2020-12-17 01:13:14
+Score	UserID	Lang	Pseudo	#optim,count=865,time=2020-12-18 00:52:20
 11902	2288263	Rust	dbdr	
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
@@ -34,6 +34,7 @@ Score	UserID	Lang	Pseudo	#optim,count=864,time=2020-12-17 01:13:14
 10145	1479930	C++	LeRenard	
 10115	1399382	C++	Regulus136	
 10112	1607522	C++	RoboStac	
+10112	2923506	C++	darkhorse64	
 10108	1822184	Pascal	Volchik	
 10103	735487	C++	amurushkin	
 10088	1064903	C++	Ghirtor	
@@ -41,7 +42,6 @@ Score	UserID	Lang	Pseudo	#optim,count=864,time=2020-12-17 01:13:14
 9997	2731276	C++	panda42	
 9862	1314316	C++	jolindien	
 9856	892056	Java	LaurentTrk	
-9830	2923506	C++	darkhorse64	
 9803	1180157	C++	shindannin	
 9802	806157	C++	Aveuh	
 9800	1436776	C++	BrainSolver	
@@ -132,12 +132,12 @@ Score	UserID	Lang	Pseudo	#optim,count=864,time=2020-12-17 01:13:14
 7538	1661333	C++	linjoehan	
 7537	2662709	Python3	dead_man	
 7525	1714338	Java	cobase2010	
+7514	1968855	Python3	ThePurificator	
 7511	973040	C	papyjo	
 7476	1050421	C++	geppoz	
 7466	1432947	Python3	empathy87	
 7455	1944142	C++	yakalir	
 7450	844968	Python3	MoMaT	
-7440	1968855	Python3	ThePurificator	
 7426	1452449	Java	m4nu8untu	
 7346	1841051	C++	Alpacah	
 7327	153683	Java	40R15T3	
@@ -773,6 +773,7 @@ Score	UserID	Lang	Pseudo	#optim,count=864,time=2020-12-17 01:13:14
 1045	1114834	Python3	k4ng0u	
 1045	3141948	Python3	philRG	
 1045	4050765	C	Traquila	
+1045	4045442	Python3	nopeson	
 1041	1074744	Java	GwenGlSoft	
 1039	1129000	Python3	ChairmanOfTheBored	
 1033	1243354	C++	RSBat	
