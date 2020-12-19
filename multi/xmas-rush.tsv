@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=530,time=2020-12-18 00:30:09
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=531,time=2020-12-19 00:30:09
 5	33.77	2725066	2311007	C#	Cize	
 5	32.2	1314316	2223882	C++	jolindien	
 5	32.11	854952	2245515	C++	dolmen1234	
@@ -473,16 +473,16 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=530,time=2020-12-18 00:30:0
 1	-10.98	1838289	2305757	C++	Dagal	
 0	16.19	2746799	2338980	Haskell	eal	
 0	14.7	4018345	3351909	Java	Shahrzad	
+0	14.46	3248689	2308305	C++	Sujet	
 0	14.42	1412140	2203111	C++	CyrilMtl	
-0	14.37	3248689	2308305	C++	Sujet	
 0	14.09	1743344	2495256	Javascript	ush189	
 0	14	2572485	2203839	Ruby	DGynn	
 0	13.75	1209562	2226051	C++	JohnnyYuge	
 0	12.99	3353015	2847691	Python3	Salted	
 0	12.91	2613192	2897148	C++	sigus	
 0	12.91	1348621	2219987	C	sephi	
+0	12.59	1073604	2237096	C#	speedFast	
 0	12.45	1389861	2481697	Java	Evgenykz3	
-0	12.43	1073604	2237096	C#	speedFast	
 0	12.37	3620387	2633818	Python3	mdaw323	
 0	12.06	2501808	2205489	Javascript	Robles	
 0	11.98	1990452	2262910	C#	Benoit_L	
@@ -521,10 +521,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=530,time=2020-12-18 00:30:0
 0	0.46	3090217	2207693	Python	you_will_never_know	
 0	0.38	3153712	2235714	C++	MT0	
 0	0.24	3464590	3012244	C	abbecool	
+0	-0.62	4085269	3359474	C++	magicien666	
 0	-1.13	4086356	3328365	C#	Lak1z	
 0	-7.92	4086152	3328171	Bash	Hunter64TheOne	
-0	-9.12	4080496	3319290	Javascript	itsyarl	
-0	-10.29	3473768	2483327	Java	higle	
+0	-9.14	4080496	3319290	Javascript	itsyarl	
+0	-10.31	3473768	2483327	Java	higle	
 0	-10.87	3090212	2207687	Python	Still_a_Piece_of_Garbage	
 0	-11.13	3721214	3042936	C++	jrke	
 0	-12.33	2181365	2206272	Kotlin	Nikolaev_Alex	
