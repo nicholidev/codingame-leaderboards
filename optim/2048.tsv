@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=129,time=2020-12-19 02:36:43
+Score	UserID	Lang	Pseudo	#optim,count=130,time=2020-12-20 00:57:06
 62564496	2288263	Rust	dbdr	
 59353464	3457031	C++	YurkovAS	
 59353440	3354337	C++	Westicles	
@@ -17,7 +17,7 @@ Score	UserID	Lang	Pseudo	#optim,count=129,time=2020-12-19 02:36:43
 16666956	490588	Python3	Uljahn	
 16652164	2968035	C++	DomiKo	
 15247188	2416641	C++	Zenoscave	
-14129572	3647844	C++	rc95401	
+14535604	3647844	C++	rc95401	
 14072088	1732414	C++	ClosetAI	
 13516584	2451652	Java	code_of_the_dead	
 12046356	3564009	Lua	Waffle3z	
@@ -27,6 +27,7 @@ Score	UserID	Lang	Pseudo	#optim,count=129,time=2020-12-19 02:36:43
 8305688	1515891	Go	ndc	
 7784288	3918583	TypeScript	mikmak	
 7733800	155774	C++	dwarfie	
+6680776	1630890	Java	Wld	
 6254508	512097	C++	Stilgart	
 4527912	3738782	C#	Inaniwa	
 3825460	1854246	C++	Counterbalance	
@@ -37,7 +38,6 @@ Score	UserID	Lang	Pseudo	#optim,count=129,time=2020-12-19 02:36:43
 2450728	3626782	Java	ItsNotABug	
 2124388	2012662	Python3	Natalka1122	
 2013220	1720605	Rust	carlicolosse	
-1598356	1630890	Java	Wld	
 1432492	2025868	C++	sumoru	
 1403092	1412263	PHP	PatrickMcGinnisII	
 807660	1029663	C	Skreamly	
@@ -127,3 +127,4 @@ Score	UserID	Lang	Pseudo	#optim,count=129,time=2020-12-19 02:36:43
 344	1920644	C++	Skygge	
 344	3603492	Javascript	LeviosDrake	
 344	484004	Swift	aCat	
+344	1393802	Python3	a.mezhenin	
