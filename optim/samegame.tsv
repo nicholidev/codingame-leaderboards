@@ -1,13 +1,13 @@
-Score	UserID	Lang	Pseudo	#optim,count=226,time=2020-12-20 00:57:07
+Score	UserID	Lang	Pseudo	#optim,count=228,time=2020-12-21 01:13:44
 174652	3354337	Scala	Westicles	
+164812	2968035	C++	DomiKo	
 164196	1629259	C#	Marchete	
-162096	2968035	C++	DomiKo	
 156252	2924895	C	trictrac	
 154816	2522090	C++	MSmits	
 150000	2288263	Rust	dbdr	
 147888	1500515	C#	eulerscheZahl	
+146012	1530051	C++	UlYoP	
 136253	2311105	C++	kovi	
-129182	1530051	C++	UlYoP	
 128510	1378958	C#	Illedan	
 118483	3457031	C++	YurkovAS	
 116591	1201796	Java	P.Greze	
@@ -36,6 +36,7 @@ Score	UserID	Lang	Pseudo	#optim,count=226,time=2020-12-20 00:57:07
 52108	414278	Java	oobException	
 49776	3756021	Java	TheSkolar	
 49090	3513265	C++	DaNinja	
+47809	3727077	C++	Manwi23	
 46855	2007852	Lua	Zorg1	
 45340	1535382	Java	CrankNaz	
 45320	734401	C++	b0n5a1	
@@ -64,6 +65,7 @@ Score	UserID	Lang	Pseudo	#optim,count=226,time=2020-12-20 00:57:07
 32314	2202771	Java	Kaplone	
 32092	1397268	C	RTLB	
 31810	2043908	C++	AntiSquid	
+31799	1489865	C++	EricSMSO	
 31595	1754295	Rust	SF	
 31497	311035	Python3	leojean890	
 31332	3687460	Python3	jpacd	
@@ -119,7 +121,6 @@ Score	UserID	Lang	Pseudo	#optim,count=226,time=2020-12-20 00:57:07
 9902	2792232	Python3	Monoterpene	
 9902	3141948	Python3	philRG	
 9902	4008310	C#		
-9902	1489865	C++	EricSMSO	
 9899	3903847	Java	UnicornP	
 9894	1412263	PHP	PatrickMcGinnisII	
 9806	3580156	Python3	SeraphWeddUltimate	
@@ -194,6 +195,7 @@ Score	UserID	Lang	Pseudo	#optim,count=226,time=2020-12-20 00:57:07
 8860	3329141	C#	andrea_angella	
 8774	3982719	Javascript	pierre-db	
 8567	3558096	C++	LapinChiffre	
+8310	389786	Java	menu	
 8094	1162493	Python3	irmo322	
 8030	3985025	Python3	nickname02	
 7848	3923022	Javascript	FabInCode	
