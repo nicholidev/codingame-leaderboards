@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=872,time=2020-12-22 00:47:52
+Score	UserID	Lang	Pseudo	#optim,count=873,time=2020-12-23 01:03:15
 11902	2288263	Rust	dbdr	
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
@@ -125,6 +125,7 @@ Score	UserID	Lang	Pseudo	#optim,count=872,time=2020-12-22 00:47:52
 7834	2115491	Go	Haashi	
 7787	3235897	Java	Zylo	
 7784	862336	C++	Zaphus	
+7734	1968855	Python3	ThePurificator	
 7643	232528	C++	cegprakash	
 7643	1059313	C++	_SERGE_	
 7641	1418821	C	input.txt	
@@ -132,7 +133,6 @@ Score	UserID	Lang	Pseudo	#optim,count=872,time=2020-12-22 00:47:52
 7538	1661333	C++	linjoehan	
 7537	2662709	Python3	dead_man	
 7525	1714338	Java	cobase2010	
-7514	1968855	Python3	ThePurificator	
 7511	973040	C	papyjo	
 7476	1050421	C++	geppoz	
 7466	1432947	Python3	empathy87	
@@ -318,6 +318,7 @@ Score	UserID	Lang	Pseudo	#optim,count=872,time=2020-12-22 00:47:52
 3228	1201796	C#	P.Greze	
 3189	1480384	C++	RockyMullet	
 3160	3770928	C++	ku-haku	
+3159	3918583	TypeScript	mikmak	
 3142	808454	C++	.EagleDawn.	
 3127	3762763	C	grisifab	
 3126	704875	C#	XaY	
@@ -426,7 +427,6 @@ Score	UserID	Lang	Pseudo	#optim,count=872,time=2020-12-22 00:47:52
 2228	1495491	Java	[Random]-J3ff3z	
 2227	2387233	C#	SinOfWrath	
 2218	1731041	Java	PitouleMan	
-2211	3918583	TypeScript	mikmak	
 2210	3360703	Python3	PrzemekS	
 2208	3406881	Java	MarcAn	
 2198	2100572	Python3	sirsatan	
@@ -781,6 +781,7 @@ Score	UserID	Lang	Pseudo	#optim,count=872,time=2020-12-22 00:47:52
 1045	4050765	C	Traquila	
 1045	4045442	Python3	nopeson	
 1045	3136787	C++	jacek	
+1045	1530051	C++	UlYoP	
 1041	1074744	Java	GwenGlSoft	
 1039	1129000	Python3	ChairmanOfTheBored	
 1033	1243354	C++	RSBat	
