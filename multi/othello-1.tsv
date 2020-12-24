@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=103,time=2020-12-23 00:50:25
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=103,time=2020-12-24 00:32:54
 1	44.83	2522090	3356742	C++	MSmits	
 1	40.07	3136787	3356764	C++	jacek	
 1	40	2288263	3024723	Rust	dbdr	
@@ -28,18 +28,18 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=103,time=2020-12-23 00:50:2
 1	9.89	1114834	3362720	C++	k4ng0u	
 1	9.72	2923506	3355597	C++	darkhorse64	
 1	8.38	973040	3103413	C	papyjo	
-0	30.95	1479137	3100453	C++	lorenzods	
-0	30.29	2290633	3058453	Python3	field3	
-0	29.32	2451652	3365799	Java	code_of_the_dead	
-0	29.31	4051354	3330350	Python3	tofue2o2t2	
-0	27.59	1566335	3022377	Java	BeardedWhale	
-0	26.56	2562633	3339153	Python3	Nodascott	
-0	25.32	4074553	3319027	Python3	coom_st	
-0	25.02	3534078	3335617	C++	SelrahC-Twin	
-0	23.34	4063515	3327005	Python3	Mindme	
-0	23.31	3660819	3173191	Rust	BloodyTurtles	
-0	23.3	3065352	3335587	C++	Arti1990	
-0	23.1	4001756	3365650	Python3	SonExcellence	
+0	31.01	1479137	3100453	C++	lorenzods	
+0	30.12	2290633	3058453	Python3	field3	
+0	29.72	2451652	3367022	Java	code_of_the_dead	
+0	29.33	4051354	3330350	Python3	tofue2o2t2	
+0	27.71	1566335	3022377	Java	BeardedWhale	
+0	26.83	2562633	3339153	Python3	Nodascott	
+0	25.65	4074553	3319027	Python3	coom_st	
+0	24.89	3534078	3335617	C++	SelrahC-Twin	
+0	23.27	4063515	3327005	Python3	Mindme	
+0	23.24	4001756	3365650	Python3	SonExcellence	
+0	23.23	3660819	3173191	Rust	BloodyTurtles	
+0	23.22	3065352	3335587	C++	Arti1990	
 0	22.92	3501027	3041694	C++	SteelSky	
 0	22.19	436451	3361356	Go	piri	
 0	21.88	1412263	3021225	PHP	PatrickMcGinnisII	
@@ -50,14 +50,14 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=103,time=2020-12-23 00:50:2
 0	21.35	1480384	3329244	C++	RockyMullet	
 0	21.22	1753077	3087359	Python3	codingWhale	
 0	20.81	4058276	3204407	Python3	aatif_khan	
-0	20.49	3477071	3128611	TypeScript	CookieMonster2703	
-0	20.33	224325	3325321	Javascript	TidyMaze	
-0	20.26	3732957	3155343	C#	Misinn	
+0	20.46	3477071	3128611	TypeScript	CookieMonster2703	
+0	20.29	224325	3325321	Javascript	TidyMaze	
 0	20.24	3839737	3031777	C++	BlackOnWhite	
+0	20.23	3732957	3155343	C#	Misinn	
 0	19.52	2007852	3012746	Lua	Zorg1	
 0	18.99	3647844	3360660	C++	rc95401	
 0	18.97	3901571	3066366	Ruby	Koromo	
-0	18.93	3622757	3357166	Python3	anid	
+0	18.9	3622757	3357166	Python3	anid	
 0	18.86	2833929	3067052	Python3	Pierre_C	
 0	18.18	2532837	3053867	Ruby	fauresebast	
 0	17.67	1378958	3013233	C#	Illedan	
@@ -69,10 +69,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=103,time=2020-12-23 00:50:2
 0	15.9	3955301	3082498	Python3	SeptaCube	
 0	15.69	3305510	3110840	PHP	TBali	
 0	15.59	3721214	3041093	C++	jrke	
-0	15.49	1713174	3013680	Python3	BigUP	
+0	15.47	1713174	3013680	Python3	BigUP	
 0	15.43	2508635	3013859	Java	hemhel	
 0	15.3	2069141	3014224	C#	tomeko	
-0	15.28	3599907	3346830	Python3	aski	
+0	15.26	3599907	3346830	Python3	aski	
 0	15.19	4053693	3205383	Java	KS2003	
 0	14.9	3820540	3261517	C++	HitsujiRere	
 0	14.79	158495	3077507	Javascript	Cr3aHal0	
@@ -88,7 +88,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=103,time=2020-12-23 00:50:2
 0	12.96	1931039	3325607	TypeScript	MooMooN	
 0	12.78	3646346	3081060	PHP	Pingwi85	
 0	12.52	3818338	3151429	Javascript	Tomten	
-0	12.5	1540478	3032959	Java	struct	
+0	12.48	1540478	3032959	Java	struct	
 0	12.26	3751016	3157313	Javascript	Q12	
 0	3.32	3360144	3331749	C++	n0ma_ru	
 0	1.23	3985519	3105505	C++	aiko_baigo	
@@ -99,6 +99,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=103,time=2020-12-23 00:50:2
 0	-2.33	3911100	3051301	Java	nontyan	
 0	-2.4	4011503	3350966	Python3	Indian	
 0	-2.76	2006348	3041789	C++	Koji02	
-0	-3.17	4018953	3139303	Javascript	zTTK	
 0	-3.17	513153	3041996	C++	voidle	
+0	-3.18	4018953	3139303	Javascript	zTTK	
 0	-4.08	3985506	3105504	C++	iwatachan	
