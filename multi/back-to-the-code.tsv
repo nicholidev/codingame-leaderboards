@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4659,time=2020-12-24 00:32:56
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4660,time=2020-12-25 00:30:14
 0	47.64	1433161	1484525	C	Mingu	
 0	46.24	494104	455215	C++	Recar	
 0	45.55	990110	357643	C++	Rogerup	
@@ -238,7 +238,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4659,time=2020-12-24 00:32:
 0	37.01	1131528	415482	C	Owl	
 0	37	155896	411062	PHP	gamoul	
 0	36.98	1399852	456793	C++	Thaell	
-0	36.95	2639043	2136260	OCaml	MPSI-LIV_Keolys	
+0	36.94	2639043	2136260	OCaml	MPSI-LIV_Keolys	
 0	36.91	856695	350539	Java	colegu	
 0	36.91	828239	350633	C#	[SG]Bisou	
 0	36.86	771015	356967	C	hidden1	
@@ -587,6 +587,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4659,time=2020-12-24 00:32:
 0	32.95	1364983	2117015	C++	BogdanDevichev	
 0	32.95	474673	354165	Python3	eXod	
 0	32.95	878086	356183	Perl	dchoulette	
+0	32.94	1854246	2068259	C++	Counterbalance	
 0	32.93	1713174	2070006	Python3	BigUP	
 0	32.93	1063294	343755	Java	Chaya	
 0	32.93	1053198	385597	Python3	ProfessorWolf	
@@ -600,7 +601,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4659,time=2020-12-24 00:32:
 0	32.89	917791	358523	C++	scorp	
 0	32.87	1255740	2678886	C	terwal	
 0	32.87	1037848	358461	Javascript	pretension-itself	
-0	32.85	1854246	2068259	C++	Counterbalance	
 0	32.84	1058831	521920	C	Hikachu	
 0	32.84	863425	353693	C#	Antlershy	
 0	32.84	246715	342761	C++	MattW	
@@ -762,7 +762,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4659,time=2020-12-24 00:32:
 0	31.23	527749	629802	Go	Pds	
 0	31.23	1000199	357975	C	Zlatko	
 0	31.23	1227597	411166	Python3	Luckex	
-0	31.23	2659851	2855235	OCaml	ElianeCasassa	
 0	31.23	1294449	408811	Python3	Jolidragon	
 0	31.23	1055535	347770	Python	elghinn	
 0	31.22	1511645	644788	Python	OleksandrVoytsekhovskyy	
@@ -781,6 +780,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4659,time=2020-12-24 00:32:
 0	31.17	1058101	342821	C++	FloPanda	
 0	31.17	1050421	345346	Java	geppoz	
 0	31.15	1042351	354799	PHP	MPD	
+0	31.13	2659851	2855235	OCaml	ElianeCasassa	
 0	31.13	1447295	1111668	C++	Roszondas	
 0	31.11	1029313	354550	Python3	jiro789	
 0	31.11	1046623	570763	Java	the_pins	
@@ -828,11 +828,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4659,time=2020-12-24 00:32:
 0	30.7	1307473	476155	C++	Evgenykz	
 0	30.69	1068404	449434	C#	Naveronen	
 0	30.69	1717345	2210628	Scala	kotobotov	
+0	30.68	874995	1214728	C++	Andy1210	
 0	30.66	1403325	417255	Javascript	MrHen	
 0	30.66	1060411	357639	Python	jl	
 0	30.66	1069105	347933	Java	AlienBeer	
 0	30.66	1555765	791752	C#	DewJunkie	
-0	30.64	874995	1214728	C++	Andy1210	
 0	30.63	3807227	3018281	C++	GaryAflalo	
 0	30.62	1369369	1391279	Python3	JulienDalle	
 0	30.62	2110342	2104229	C++	lchenay	
