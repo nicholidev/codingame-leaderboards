@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=336,time=2020-12-26 01:14:32
+Score	UserID	Lang	Pseudo	#optim,count=337,time=2020-12-27 00:30:23
 10359.64	2288263	Rust	dbdr	
 10367.970000000005	351062	C++	Neumann	
 10484.98	1400179	Python3	reCurse	
@@ -23,8 +23,8 @@ Score	UserID	Lang	Pseudo	#optim,count=336,time=2020-12-26 01:14:32
 11456.490000000002	3721214	C++	jrke	
 11511.649999999996	2747934	Rust	fexolm	
 11552.54	232528	C++	cegprakash	
+11574.349999999997	1314316	C++	jolindien	
 11575.149999999996	3533119	C++	wlesavo	
-11592.309999999998	1314316	C++	jolindien	
 11751.100000000002	820000	C++	ValGrowth	
 11937.86	2923506	C++	darkhorse64	
 11985.899999999996	3869618	Dart	tsds	
@@ -88,6 +88,7 @@ Score	UserID	Lang	Pseudo	#optim,count=336,time=2020-12-26 01:14:32
 18467.80999999999	862336	C++	Zaphus	
 18505.43	806416	Python3	awnion	
 18538.60000000001	3737797	Javascript	lbadet	
+18606.61999999999	1114834	C++	k4ng0u	
 18842.64999999999	992329	Python3	BeeGee	
 18844.069999999996	2012662	Python3	Natalka1122	
 18898.97	3489223	Javascript	KarloHubai	
@@ -198,6 +199,7 @@ Score	UserID	Lang	Pseudo	#optim,count=336,time=2020-12-26 01:14:32
 23066.539999999994	3679350	Rust	Bargat	
 23066.790000000005	3737269	Python3	htprogras	
 23107.67	3789487	C++	LelouchVC2	
+23115.599999999995	3922731	Dart	Dartisan	
 23120.67000000001	4030968	Python3	MBucas	
 23164.6	4047014	Python3	TolstY	
 23186.1	4086355	Python3	RemJ	
@@ -218,5 +220,4 @@ Score	UserID	Lang	Pseudo	#optim,count=336,time=2020-12-26 01:14:32
 23984.7	3678890	Python3	laPetiteGrenouille	
 24015.28	4067214	Java	hatplusplus	
 24183.770000000004	1386924	Python3	Ylec	
-24613.80999999999	3922731	Dart	Dartisan	
 24639.05	3429151	Rust	musshush	
