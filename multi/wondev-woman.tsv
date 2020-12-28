@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1503,time=2020-12-27 00:30:11
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1505,time=2020-12-28 00:30:19
 6	41.11	1400179	1501706	C++	reCurse	
 6	38.72	351062	2139699	C++	Neumann	
 6	38.2	524638	1618734	C++	miklla	
@@ -965,9 +965,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1503,time=2020-12-27 00:30:
 2	-8.66	930118	1395065	Python3	Regule	
 2	-10.46	878168	1394452	Python3	Czaporka	
 1	23.79	1743393	2390391	Python3	Yudzhin	
+1	23.75	3465969	3108378	Python3	ALCAA	
 1	23.67	1478706	2600748	Python3	The-Dude	
 1	23.66	4018953	3156803	Python3	zTTK	
-1	23.66	3465969	3108378	Python3	ALCAA	
 1	23.47	3606221	3316037	Python3	SallySock	
 1	22.78	3650031	2709682	C++	Samat	
 1	22.65	4008340	3161329	Python3	Shawnny	
@@ -977,19 +977,20 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1503,time=2020-12-27 00:30:
 1	22	2253267	1847669	Javascript	snowfrogdev	
 1	21.59	4075986	3336219	Python3	Babadude	
 1	21.33	715319	1549602	C#	poksh	
-1	21.18	3975966	3116729	Python3	sem87	
 1	21.18	2528188	1748088	C#	Medolie	
+1	21.09	3975966	3116729	Python3	sem87	
 1	20.38	1388660	2233407	Javascript	Maeevick	
-1	20.11	2097068	2229498	C++	Darthrabbit	
+1	20.14	2097068	2229498	C++	Darthrabbit	
 1	20.07	2603864	1856261	Java	Ezper	
 1	19.76	1790484	1393752	Python3	Efa	
 1	19.45	1438865	2252568	Python3	tdeblock	
 1	19.19	2473727	1741141	Python3	werelaxe	
+1	18.96	197298	1767493	PHP	Falkor	
 1	18.88	2379823	1598312	C#	MasterLindi	
 1	18.83	2976964	2506594	Java	BenjaminUrquhart	
 1	18.81	1156014	1574900	Python3	revilloc	
-1	18.77	197298	1767493	PHP	Falkor	
 1	18.74	2464964	1661201	Java	snaptgen	
+1	18.66	3459990	3062440	C#	LetchoHUN	
 1	18.64	1407720	1406198	Python3	bananaMixer	
 1	18.62	2838943	2081744	Python3	zapakh	
 1	18.6	3564009	2654083	Lua	Waffle3z	
@@ -998,4 +999,3 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1503,time=2020-12-27 00:30:
 1	18.24	874243	1645110	C#	AndrewKostousov	
 1	18.16	254889	1475077	C	data	
 1	18.12	2163583	1446524	Python	omersho	
-1	17.97	3459990	3062440	C#	LetchoHUN	
