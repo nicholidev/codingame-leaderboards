@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=879,time=2020-12-28 01:21:26
+Score	UserID	Lang	Pseudo	#optim,count=879,time=2020-12-29 01:05:20
 11902	2288263	Rust	dbdr	
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
@@ -176,6 +176,7 @@ Score	UserID	Lang	Pseudo	#optim,count=879,time=2020-12-28 01:21:26
 6025	198916	Java	WhatTrickeryIsThis	
 5976	1572888	Python3	DirtyHarry	
 5960	3854069	Swift	Quid34	
+5955	3918583	TypeScript	mikmak	
 5921	1455753	C++	Lysk	
 5859	1957077	Java	domak	
 5840	2151291	Haskell	kurgak.ss	
@@ -194,7 +195,6 @@ Score	UserID	Lang	Pseudo	#optim,count=879,time=2020-12-28 01:21:26
 5603	2769647	Java	RiffShark	
 5573	1209562	C++	JohnnyYuge	
 5456	225875	C#	leff	
-5429	3918583	TypeScript	mikmak	
 5421	3780587	C#	PortalBot	
 5400	155774	C++	dwarfie	
 5395	3707873	C#	Philbot	
@@ -331,6 +331,7 @@ Score	UserID	Lang	Pseudo	#optim,count=879,time=2020-12-28 01:21:26
 3087	878974	Python3	nicola	
 3086	558770	Javascript	lD	
 3085	1664044	Javascript	BUG	
+3065	4095799	Python3	circular17	
 3039	1736419	Java	Odinfr	
 3036	2856582	C++	Towelie	
 3035	894599	Java	DidierC	
@@ -387,7 +388,6 @@ Score	UserID	Lang	Pseudo	#optim,count=879,time=2020-12-28 01:21:26
 2509	319355	PHP	TheDoudou	
 2507	1012320	Java	muksia	
 2496	999186	Java	Bilgetz	
-2493	4095799	Python3	circular17	
 2491	957334	Java	Dam	
 2488	1412014	Python3	P-Yves	
 2486	3532237	Python3	Bubaptik	
@@ -864,13 +864,13 @@ Score	UserID	Lang	Pseudo	#optim,count=879,time=2020-12-28 01:21:26
 521	1458246	Ruby	Httpsx	
 518	1506762	Python3	the_real_lolo	
 500	3270198	Javascript	simbst	
+488	1447713	Python3	WhatnotX	
 471	1170878	Javascript	Scub	
 413	3922731	Dart	Dartisan	
 386	1546133	PHP	ThanhHai	
 367	3785208	Java	StrafeAE	
 331	3889390	Javascript	SamIrvin17	
 293	482445	C#	BogdanSavchenko	
-243	1447713	Python3	WhatnotX	
 234	723476	Python3	NeoPhnx	
 2	1661397	Ruby	MightyKnight	
 0	2924548	Java	Pepinus	

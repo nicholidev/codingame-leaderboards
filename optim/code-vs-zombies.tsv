@@ -1,9 +1,10 @@
-Score	UserID	Lang	Pseudo	#optim,count=7718,time=2020-12-28 01:21:25
+Score	UserID	Lang	Pseudo	#optim,count=7734,time=2020-12-29 01:05:20
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
 1136220	1323814	C	SatineChatounette	
 1120220	154984	C++	_Royale	
+805540	1530051	C++	UlYoP	
 794210	1540478	Lua	struct	
 777810	806157	C++	Aveuh	
 760590	2288263	Rust	dbdr	
@@ -43,7 +44,6 @@ Score	UserID	Lang	Pseudo	#optim,count=7718,time=2020-12-28 01:21:25
 419370	3502258	Java	TimAI	
 406200	2571540	C	Nagatwin	
 404550	155774	C++	dwarfie	
-393300	1530051	C++	UlYoP	
 385600	2786666	C++	TetraktysPhi	
 363530	3727272	Javascript	paszo	
 363400	1786654	C++	Masclins	
@@ -332,9 +332,9 @@ Score	UserID	Lang	Pseudo	#optim,count=7718,time=2020-12-28 01:21:25
 136530	1467771	C++	Telokis	
 134980	893915	Python3	DeVoTeD	
 134860	1737611	Javascript	RPlusPlus	
+134760	311035	Python3	leojean890	
 134750	1173260	Rust	Erasmus	
 134650	775897	C++	gchebanov	
-134610	311035	Python3	leojean890	
 134280	2942948	C++	Tchouche	
 132420	1128769	Rust	Dwakus	
 131710	648751	Haskell	dabino	
@@ -424,6 +424,7 @@ Score	UserID	Lang	Pseudo	#optim,count=7718,time=2020-12-28 01:21:25
 88190	1802967	Python3	Meruem	
 88150	992078	Java	TheNumberOne	
 88080	1172385	C#	LuckyMe	
+87970	4073052	C++	slrn	
 87200	1413544	C#	Christian1978	
 86460	1213898	Kotlin	Gubbel	
 86420	1335230	Java	jft63	
@@ -698,6 +699,7 @@ Score	UserID	Lang	Pseudo	#optim,count=7718,time=2020-12-28 01:21:25
 64260	4058416	C++	ZacDonald	
 64260	4026335	C++	maxoftheking	
 64260	1128095	C++	ako68	
+64260	154806	C++	piwai	
 64230	155928	PHP	pk	
 64230	1147815	Python3	Tashiqi	
 64230	1095446	Python3	tarbomb	
@@ -724,6 +726,7 @@ Score	UserID	Lang	Pseudo	#optim,count=7718,time=2020-12-28 01:21:25
 64230	3141948	Python3	philRG	
 64230	3425328	Javascript	waterblue	
 64220	1029602	C	Potemkine	
+64220	4111740	C++	xumarcus	
 64190	634747	C#	akhansari	
 64190	1533920	Java	EloEloElo	
 64180	2019052	C#	KevinM.Brooks	
@@ -963,6 +966,7 @@ Score	UserID	Lang	Pseudo	#optim,count=7718,time=2020-12-28 01:21:25
 61500	1389974	PHP	cuzzea	
 61490	1292284	Python3	Walther	
 61490	1562130	Javascript	AntonyKarlBartlett	
+61490	3362943	Python3	Pluralis	
 61460	855055	Javascript	chdut	
 61460	1466966	C#	gh2oost	
 61450	973948	Python3	Amnesix	
@@ -995,7 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=7718,time=2020-12-28 01:21:25
 61120	1080837	C++	ktg	
 61120	1222091	Java	val	
 61120	2981872	Python3	Arrozz	
-61120	2718928	C#	CloudChan	
-61110	2356272	C++	Xood	
-61110	977290	Python3	Darklighter	
-61110	2004703	Python3	Clafrelie	
