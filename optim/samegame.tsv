@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=238,time=2020-12-30 00:53:26
+Score	UserID	Lang	Pseudo	#optim,count=239,time=2020-12-31 01:47:50
 174652	3354337	Scala	Westicles	
 167588	1530051	C++	UlYoP	
 165192	2968035	C++	DomiKo	
@@ -9,12 +9,12 @@ Score	UserID	Lang	Pseudo	#optim,count=238,time=2020-12-30 00:53:26
 147888	1500515	C#	eulerscheZahl	
 136253	2311105	C++	kovi	
 128510	1378958	C#	Illedan	
+127796	4007648	C++	nan0S_	
 118483	3457031	C++	YurkovAS	
 116591	1201796	Java	P.Greze	
 113126	3533119	Python3	wlesavo	
 110747	580424	C++	siman	
 109109	2923506	C++	darkhorse64	
-109055	4007648	C++	nan0S_	
 96229	2510517	C++	Turtlefight	
 95691	3487645	Javascript	hypers	
 94900	1344487	C++	UnnamedCodinGamer	
@@ -35,6 +35,7 @@ Score	UserID	Lang	Pseudo	#optim,count=238,time=2020-12-30 00:53:26
 65784	218189	C	[CG]Maxime	
 63194	2786666	C++	TetraktysPhi	
 62112	1436776	C++	BrainSolver	
+56950	3260156	C#	KrzysiekSlawik	
 54688	3721214	C++	jrke	
 54084	973040	C	papyjo	
 52927	1489865	C++	EricSMSO	
@@ -52,6 +53,7 @@ Score	UserID	Lang	Pseudo	#optim,count=238,time=2020-12-30 00:53:26
 37577	3854069	Swift	Quid34	
 36972	1361019	Python3	AlessioGreco	
 36760	1096844	Python3	mm00	
+36468	3647844	Python3	rc95401	
 35734	837350	Python3	BorisZ	
 35107	1901311	Python3	Kaikyu	
 35080	3965571	Python3	Smekarn	
@@ -67,7 +69,6 @@ Score	UserID	Lang	Pseudo	#optim,count=238,time=2020-12-30 00:53:26
 32488	1802967	Python3	Meruem	
 32440	3954992	Python3	wcanka	
 32314	2202771	Java	Kaplone	
-32284	3260156	C#	KrzysiekSlawik	
 32092	1397268	C	RTLB	
 31810	2043908	C++	AntiSquid	
 31595	1754295	Rust	SF	
@@ -80,7 +81,6 @@ Score	UserID	Lang	Pseudo	#optim,count=238,time=2020-12-30 00:53:26
 28831	1389527	Python3	MarkGossage	
 28416	1406638	Java	[CG]Thibaud	
 28391	1883670	Java	radekmie	
-27066	3647844	Python3	rc95401	
 26956	3987513	Javascript	Element118	
 26932	2153101	Python3	Bilou06	
 26352	3307436	Python3	kudzoo	
@@ -100,6 +100,7 @@ Score	UserID	Lang	Pseudo	#optim,count=238,time=2020-12-30 00:53:26
 16506	3903473	Python3	Konstant	
 16506	3134335	Python3	Zimio12	
 16504	3861273	Java	trouquipete	
+16038	2333083	C++	Febrin	
 15916	1479137	C++	lorenzods	
 15714	3866885	Javascript	danblix	
 14504	1584802	Python3	emh	
@@ -111,9 +112,9 @@ Score	UserID	Lang	Pseudo	#optim,count=238,time=2020-12-30 00:53:26
 13816	2474883	Python3	lakeoverflow	
 12761	1698958	Javascript	OlafDriver	
 11532	3983017	PHP	TLbuis	
+11156	3950834	C++	rodrigocofrer	
 10689	2172874	Rust	Med1ane	
 10584	3344108	Rust	Xmar	
-10583	3950834	Python3	rodrigocofrer	
 10352	1715811	Java	PositiveQuark	
 10279	3858550	Python3	SPDene	
 10200	174205	Python3	ElleryAree	

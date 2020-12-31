@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4662,time=2020-12-30 00:46:28
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4663,time=2020-12-31 00:44:55
 0	47.64	1433161	1484525	C	Mingu	
 0	46.24	494104	455215	C++	Recar	
 0	45.55	990110	357643	C++	Rogerup	
@@ -92,8 +92,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4662,time=2020-12-30 00:46:
 0	40.37	335954	2238670	Java	nmahoude	
 0	40.34	848394	352597	Java	schwarzahl	
 0	40.25	320053	351116	PHP	Zbug	
-0	40.18	567736	357038	C++	dam94	
 0	40.06	1017169	346143	C#	bLasT	
+0	40.02	567736	357038	C++	dam94	
 0	39.93	1034338	342969	Python	Galilleos	
 0	39.93	1052271	362037	C#	Bleash	
 0	39.83	842532	345362	Ruby	spy	
@@ -213,6 +213,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4662,time=2020-12-30 00:46:
 0	37.34	933134	350672	F#	polkduran	
 0	37.33	914086	347129	Ruby	matthewd	
 0	37.33	459494	3170704	ObjectiveC	Qwark	
+0	37.3	341401	351400	OCaml	morf	
 0	37.29	668906	342000	Java	Sandworm	
 0	37.28	1000967	355437	C++	KhanhHB	
 0	37.27	1400179	1311380	C++	reCurse	
@@ -223,7 +224,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4662,time=2020-12-30 00:46:
 0	37.23	329200	342522	PHP	BlitzProg	
 0	37.21	1021256	363051	C#	Toinou	
 0	37.21	1114834	2408070	C++	k4ng0u	
-0	37.18	341401	351400	OCaml	morf	
 0	37.18	825460	349230	Lua	antoyo	
 0	37.18	380641	357191	C#	Mercadis	
 0	37.18	1069340	354924	C++	Diler	
@@ -354,6 +354,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4662,time=2020-12-30 00:46:
 0	34.89	1306541	459656	Python3	Steuh	
 0	34.88	980671	350251	Python	bwbaugh	
 0	34.87	1267417	374725	Python3	co42	
+0	34.86	830819	346001	Java	johnnyhibiki	
 0	34.86	1036012	343571	Haskell	Chahine	
 0	34.86	2653583	1913970	OCaml	glhf	
 0	34.85	884069	357502	Python3	punxxy	
@@ -367,7 +368,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4662,time=2020-12-30 00:46:
 0	34.81	2683458	1917286	OCaml	MPSI_Fusee	
 0	34.8	504994	340320	Java	NikitON	
 0	34.8	1485989	911586	Python3	ReActiveNZ	
-0	34.79	830819	346001	Java	johnnyhibiki	
 0	34.77	847675	357796	Haskell	RobinHood	
 0	34.76	979569	352955	Javascript	khanh_alice	
 0	34.75	960759	341728	C++	fea	
