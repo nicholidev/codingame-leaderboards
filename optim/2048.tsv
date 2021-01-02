@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=424,time=2021-01-01 00:30:27
+Score	UserID	Lang	Pseudo	#optim,count=424,time=2021-01-02 02:40:45
 62564496	2288263	Rust	dbdr	
 59353464	3457031	C++	YurkovAS	
 59353440	3354337	C++	Westicles	
@@ -22,8 +22,8 @@ Score	UserID	Lang	Pseudo	#optim,count=424,time=2021-01-01 00:30:27
 22268052	1169264	C++	moarrrr	
 21068732	1050421	Java	geppoz	
 19127616	1549145	C++	Mealc	
+18704804	3136787	C++	jacek	
 18345748	3348388	C++	bowwowforeach	
-17576964	3136787	C++	jacek	
 16925948	3647844	C++	rc95401	
 16666956	490588	Python3	Uljahn	
 16652164	2968035	C++	DomiKo	
@@ -53,6 +53,7 @@ Score	UserID	Lang	Pseudo	#optim,count=424,time=2021-01-01 00:30:27
 2957988	3864752	Rust	MuddySneakers	
 2833088	973040	C	papyjo	
 2747996	3721214	C++	jrke	
+2678276	4119186	C#	Rxelux	
 2602560	4119778	Scala	Kwokster	
 2450728	3626782	Java	ItsNotABug	
 2338936	3839774	Kotlin	gurvan_lullien	
@@ -75,7 +76,6 @@ Score	UserID	Lang	Pseudo	#optim,count=424,time=2021-01-01 00:30:27
 538536	1309948	C++	Runner87	
 404300	199887	C#	sanpas83	
 403532	4026208	Java	alf38	
-402312	4119186	C#	Rxelux	
 387012	2785892	Python3	levbor	
 381420	1427078	C++	ToshiTuringMachine	
 377016	3433089	Java	liam670	
@@ -111,6 +111,7 @@ Score	UserID	Lang	Pseudo	#optim,count=424,time=2021-01-01 00:30:27
 90644	3522047	TypeScript	asgeirr	
 87920	3606971	Javascript	LordVonAdel	
 86544	4086233	Python3	qwertz73355a	
+86284	3317816	Java	Jeeronimo	
 84136	1848459	Kotlin	Velcoro	
 80000	2414853	Python3	StephaneLaveau	
 79900	523185	Python3	Hjax	
@@ -140,6 +141,7 @@ Score	UserID	Lang	Pseudo	#optim,count=424,time=2021-01-01 00:30:27
 59560	4046678	Python3	N9798	
 59364	2802015	PHP	Psycholoveur	
 58428	2592027	C#	ParticleBeam	
+58420	4072753	C++	mdstoy	
 57356	4073599	C#	bzkaz	
 57268	1825144	TypeScript	HerrScheissmann	
 56400	389786	Java	menu	
@@ -197,7 +199,6 @@ Score	UserID	Lang	Pseudo	#optim,count=424,time=2021-01-01 00:30:27
 44392	2290633	Python3	field3	
 44064	3978509	PHP	elePHPant	
 43648	351385	Python3	fabmarcant	
-43648	4072753	C++	mdstoy	
 43648	958227	Python3	LantarSidonis	
 43468	4065637	C#	Baby1991	
 43220	1259143	C++	Bence886	
@@ -417,7 +418,6 @@ Score	UserID	Lang	Pseudo	#optim,count=424,time=2021-01-01 00:30:27
 344	3885301	C++	TuringAI	
 344	4093038	Go	coco8887777yggfty	
 344	4122071	C++	JacobeeQ	
-344	3317816	Java	Jeeronimo	
 300	4094683	Python3	Loes	
 300	275626	Javascript	GreyMoon	
 252	1931701	Java	anis.ktari	

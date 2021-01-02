@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=881,time=2021-01-01 00:30:31
+Score	UserID	Lang	Pseudo	#optim,count=881,time=2021-01-02 02:40:48
 11902	2288263	Rust	dbdr	
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
@@ -50,6 +50,7 @@ Score	UserID	Lang	Pseudo	#optim,count=881,time=2021-01-01 00:30:31
 9757	2043908	C++	AntiSquid	
 9737	2242201	C++	Maryan	
 9702	1106450	C++	RiSuS	
+9682	1114834	C++	k4ng0u	
 9659	2350846	C++	DrBloodmoney	
 9659	3463517	C++	jackoneill	
 9601	1194069	Java	Redstrike	
@@ -95,10 +96,10 @@ Score	UserID	Lang	Pseudo	#optim,count=881,time=2021-01-01 00:30:31
 8681	1601217	Java	Heide	
 8669	2898291	C++	m.zahniser	
 8639	1566335	Java	BeardedWhale	
+8583	3918583	TypeScript	mikmak	
 8537	811004	C++	tarte7	
 8512	1861852	Java	Cramer	
 8511	1480426	C++	Hikari42	
-8465	3918583	TypeScript	mikmak	
 8464	2350415	C++	Vintarel	
 8456	2321957	C	Xenoid	
 8443	888898	C++	helgui	
@@ -781,7 +782,6 @@ Score	UserID	Lang	Pseudo	#optim,count=881,time=2021-01-01 00:30:31
 1045	2401975	C#	KeepCaIm	
 1045	4049815	Javascript	Code_G48R13L	
 1045	4032899	Python3	[YOLO_GOD]	
-1045	1114834	Python3	k4ng0u	
 1045	3141948	Python3	philRG	
 1045	4045442	Python3	nopeson	
 1045	3136787	C++	jacek	

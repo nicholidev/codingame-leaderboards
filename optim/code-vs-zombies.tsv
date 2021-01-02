@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=7787,time=2021-01-01 00:30:30
+Score	UserID	Lang	Pseudo	#optim,count=7800,time=2021-01-02 02:40:47
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -50,6 +50,7 @@ Score	UserID	Lang	Pseudo	#optim,count=7787,time=2021-01-01 00:30:30
 358250	1414873	Javascript	Volcomix	
 358130	2242201	C++	Maryan	
 355820	3410351	C	Deltaspace	
+354860	4073052	C++	slrn	
 354120	1479930	C++	LeRenard	
 353640	1489865	C++	EricSMSO	
 352600	3513265	C++	DaNinja	
@@ -88,7 +89,6 @@ Score	UserID	Lang	Pseudo	#optim,count=7787,time=2021-01-01 00:30:30
 254000	153678	Go	dknn	
 253890	1883740	C++	kermo	
 253340	1314316	C++	jolindien	
-251870	4073052	C++	slrn	
 250670	1779483	C#	h.otto	
 249510	2178660	Javascript	monkeyD.Luffy	
 248650	1566335	Java	BeardedWhale	
@@ -355,6 +355,7 @@ Score	UserID	Lang	Pseudo	#optim,count=7787,time=2021-01-01 00:30:30
 125800	3226448	Python3	tobk	
 124100	1851160	C#	Fabienvs	
 123700	783555	C#	Colin88	
+123380	476659	C++	Beard	
 123050	3319855	C#	Drobor	
 122730	3264942	C#	maskit	
 122410	2455124	C	agiordan	
@@ -385,7 +386,6 @@ Score	UserID	Lang	Pseudo	#optim,count=7787,time=2021-01-01 00:30:30
 108280	3055749	Go	MatLeChacal	
 108120	3387072	Javascript		
 108070	1131250	Perl	Jooo	
-107000	476659	C++	Beard	
 106100	857521	C#	MrAnderson	
 106020	811622	C++	Scarfield	
 105520	811004	C++	tarte7	
@@ -705,6 +705,7 @@ Score	UserID	Lang	Pseudo	#optim,count=7787,time=2021-01-01 00:30:30
 64260	154806	C++	piwai	
 64260	3606038	C++	AIDRI	
 64260	1353795	C++	TheCrucial	
+64260	1256312	C#	Djoums	
 64230	155928	PHP	pk	
 64230	1147815	Python3	Tashiqi	
 64230	1095446	Python3	tarbomb	
@@ -943,6 +944,7 @@ Score	UserID	Lang	Pseudo	#optim,count=7787,time=2021-01-01 00:30:30
 61780	1193408	Javascript	DoubleZeroSteph	
 61770	1071140	C#	BeberLeNewbie	
 61750	564290	Ruby	mainge2036	
+61730	3647844	Python3	rc95401	
 61720	2241290	C#	Leaced	
 61720	3358736	Java	BuluBulu27	
 61700	1050421	PHP	geppoz	
@@ -997,5 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=7787,time=2021-01-01 00:30:30
 61190	1637520	Python3	Wakim	
 61180	1180435	Java	IlyaPv	
 61170	1527477	Java	ZamNach	
-61170	1131056	Java	louspawn10	
-61160	3488041	Go	KodeMonkey	
