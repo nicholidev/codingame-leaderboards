@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=424,time=2021-01-02 02:40:45
+Score	UserID	Lang	Pseudo	#optim,count=425,time=2021-01-03 01:19:34
 62564496	2288263	Rust	dbdr	
 59353464	3457031	C++	YurkovAS	
 59353440	3354337	C++	Westicles	
@@ -13,6 +13,7 @@ Score	UserID	Lang	Pseudo	#optim,count=424,time=2021-01-02 02:40:45
 44399992	1436776	C++	BrainSolver	
 41511628	1114834	C++	k4ng0u	
 39256304	1469666	C++	alenic	
+27076580	3348388	C++	bowwowforeach	
 27075256	820000	C++	ValGrowth	
 26616720	2786666	C++	TetraktysPhi	
 24748316	3337117	Rust	timbersson	
@@ -23,7 +24,6 @@ Score	UserID	Lang	Pseudo	#optim,count=424,time=2021-01-02 02:40:45
 21068732	1050421	Java	geppoz	
 19127616	1549145	C++	Mealc	
 18704804	3136787	C++	jacek	
-18345748	3348388	C++	bowwowforeach	
 16925948	3647844	C++	rc95401	
 16666956	490588	Python3	Uljahn	
 16652164	2968035	C++	DomiKo	
@@ -35,6 +35,7 @@ Score	UserID	Lang	Pseudo	#optim,count=424,time=2021-01-02 02:40:45
 10989500	1630890	Java	Wld	
 10404892	3173494	Java	WKDE	
 9282440	3305510	PHP	TBali	
+8823596	4119186	C#	Rxelux	
 8607268	3898813	C++	3ifndef	
 8305688	1515891	Go	ndc	
 8184664	155774	C++	dwarfie	
@@ -53,13 +54,13 @@ Score	UserID	Lang	Pseudo	#optim,count=424,time=2021-01-02 02:40:45
 2957988	3864752	Rust	MuddySneakers	
 2833088	973040	C	papyjo	
 2747996	3721214	C++	jrke	
-2678276	4119186	C#	Rxelux	
 2602560	4119778	Scala	Kwokster	
 2450728	3626782	Java	ItsNotABug	
 2338936	3839774	Kotlin	gurvan_lullien	
 2124388	2012662	Python3	Natalka1122	
 2099264	806416	Python3	awnion	
 2013220	1720605	Rust	carlicolosse	
+1830476	3317816	Java	Jeeronimo	
 1670096	2135916	Python3	Oioi	
 1432492	2025868	C++	sumoru	
 1403092	1412263	PHP	PatrickMcGinnisII	
@@ -111,7 +112,6 @@ Score	UserID	Lang	Pseudo	#optim,count=424,time=2021-01-02 02:40:45
 90644	3522047	TypeScript	asgeirr	
 87920	3606971	Javascript	LordVonAdel	
 86544	4086233	Python3	qwertz73355a	
-86284	3317816	Java	Jeeronimo	
 84136	1848459	Kotlin	Velcoro	
 80000	2414853	Python3	StephaneLaveau	
 79900	523185	Python3	Hjax	
@@ -159,6 +159,7 @@ Score	UserID	Lang	Pseudo	#optim,count=424,time=2021-01-02 02:40:45
 54728	574371	Javascript	Dillysfriend	
 54156	2419811	Rust	Valbou	
 53576	4033445	Javascript	netto________	
+53576	819064	Rust	rampion	
 53512	3958580	C#	HITO	
 53512	3983017	Python3	TLbuis	
 53512	2862624	Python3	B-Marty	

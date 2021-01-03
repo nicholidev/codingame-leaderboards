@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=7800,time=2021-01-02 02:40:47
+Score	UserID	Lang	Pseudo	#optim,count=7818,time=2021-01-03 01:19:36
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -28,6 +28,7 @@ Score	UserID	Lang	Pseudo	#optim,count=7800,time=2021-01-02 02:40:47
 481750	4017851	C	Pintago	
 480190	3845610	C++	pardouin	
 476930	1485690	C++	Kikoo	
+473010	4073052	C++	slrn	
 470760	1629259	Java	Marchete	
 467270	888746	C++	Phate	
 464000	2772292	C++	Bezukh	
@@ -50,7 +51,6 @@ Score	UserID	Lang	Pseudo	#optim,count=7800,time=2021-01-02 02:40:47
 358250	1414873	Javascript	Volcomix	
 358130	2242201	C++	Maryan	
 355820	3410351	C	Deltaspace	
-354860	4073052	C++	slrn	
 354120	1479930	C++	LeRenard	
 353640	1489865	C++	EricSMSO	
 352600	3513265	C++	DaNinja	
@@ -591,6 +591,7 @@ Score	UserID	Lang	Pseudo	#optim,count=7800,time=2021-01-02 02:40:47
 64690	1031311	C++	Kazz	
 64660	1806837	C++	Pecpeck	
 64660	1066745	Java	DepartmentOfRedundancy	
+64660	1256312	C#	Djoums	
 64610	1245015	Java	LorisDeMarchi	
 64580	1070919	Java	Thas	
 64540	252533	Javascript	AlexSurin	
@@ -705,7 +706,6 @@ Score	UserID	Lang	Pseudo	#optim,count=7800,time=2021-01-02 02:40:47
 64260	154806	C++	piwai	
 64260	3606038	C++	AIDRI	
 64260	1353795	C++	TheCrucial	
-64260	1256312	C#	Djoums	
 64230	155928	PHP	pk	
 64230	1147815	Python3	Tashiqi	
 64230	1095446	Python3	tarbomb	
@@ -748,6 +748,7 @@ Score	UserID	Lang	Pseudo	#optim,count=7800,time=2021-01-02 02:40:47
 64090	1787061	Go	Jujul	
 64090	483321	C#	Clagus	
 64090	2625928	C#	LiberLeo	
+64090	3458085	Java	GriZou	
 64070	1559805	C#	Droet	
 64060	1108879	PHP	xfilx	
 64040	3418521	Java		
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=7800,time=2021-01-02 02:40:47
 61200	839879	C#	Washier	
 61190	1637520	Python3	Wakim	
 61180	1180435	Java	IlyaPv	
-61170	1527477	Java	ZamNach	
