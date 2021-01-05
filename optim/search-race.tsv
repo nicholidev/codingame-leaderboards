@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=343,time=2021-01-04 02:30:35
+Score	UserID	Lang	Pseudo	#optim,count=345,time=2021-01-05 02:52:38
 10359.64	2288263	Rust	dbdr	
 10367.970000000005	351062	C++	Neumann	
 10484.98	1400179	Python3	reCurse	
@@ -9,6 +9,7 @@ Score	UserID	Lang	Pseudo	#optim,count=343,time=2021-01-04 02:30:35
 10754.76	735487	C++	amurushkin	
 10771.300000000005	1415495	C	fenrir	
 10798.61	1566335	Java	BeardedWhale	
+10894.180000000002	2923506	C++	darkhorse64	
 10935.47	735910	C++	Agade	
 10996.710000000005	2311105	C++	kovi	
 11066.54	1106450	C++	RiSuS	
@@ -25,9 +26,10 @@ Score	UserID	Lang	Pseudo	#optim,count=343,time=2021-01-04 02:30:35
 11511.649999999996	2747934	Rust	fexolm	
 11552.54	232528	C++	cegprakash	
 11575.149999999996	3533119	C++	wlesavo	
+11610.940000000004	3971358	C++	OldJohn	
+11667.430000000002	2451652	Java	code_of_the_dead	
 11751.100000000002	820000	C++	ValGrowth	
 11858.48	1114834	C++	k4ng0u	
-11937.86	2923506	C++	darkhorse64	
 11985.899999999996	3869618	Dart	tsds	
 11987.47	1584802	C++	emh	
 12012.36	1436776	C++	BrainSolver	

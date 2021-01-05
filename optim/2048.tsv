@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=427,time=2021-01-04 02:30:36
+Score	UserID	Lang	Pseudo	#optim,count=432,time=2021-01-05 02:52:39
 62564496	2288263	Rust	dbdr	
 59353464	3457031	C++	YurkovAS	
 59353440	3354337	C++	Westicles	
@@ -31,10 +31,12 @@ Score	UserID	Lang	Pseudo	#optim,count=427,time=2021-01-04 02:30:36
 14545024	1256312	C#	Djoums	
 14072088	1732414	C++	ClosetAI	
 13516584	2451652	Java	code_of_the_dead	
+13095764	893541	Java	wala	
 12046356	3564009	Lua	Waffle3z	
 10989500	1630890	Java	Wld	
 10404892	3173494	Java	WKDE	
 9282440	3305510	PHP	TBali	
+9175480	3839774	Rust	gurvan_lullien	
 8844524	4119186	C#	Rxelux	
 8607268	3898813	C++	3ifndef	
 8305688	1515891	Go	ndc	
@@ -46,14 +48,13 @@ Score	UserID	Lang	Pseudo	#optim,count=427,time=2021-01-04 02:30:36
 4966560	1162014	Java	Bojan	
 4734880	4081634	Java	Wontonimo	
 4527912	3738782	C#	Inaniwa	
-4418792	893541	Java	wala	
 4049156	4027292	C#	rmait	
+3945236	1807733	Python3	NoZ-	
 3872276	311035	Python3	leojean890	
 3825460	1854246	C++	Counterbalance	
 3462232	3165536	C++	barbora	
 3237600	1693448	C	KoenduBuf	
 3094748	1489865	C++	EricSMSO	
-3035304	3839774	Rust	gurvan_lullien	
 2957988	3864752	Rust	MuddySneakers	
 2833088	973040	C	papyjo	
 2747996	3721214	C++	jrke	
@@ -95,14 +96,14 @@ Score	UserID	Lang	Pseudo	#optim,count=427,time=2021-01-04 02:30:36
 250352	3942793	Java	The_Auditor	
 247104	4097008	Python3	petru4io	
 219832	1966315	C#	ArtemAraptanov	
-205476	1807733	Python3	NoZ-	
 192100	1802967	Python3	Meruem	
 189156	2153101	Python3	Bilou06	
 163796	531863	Java	Amin	
 161352	1457162	Python3	JFB	
 152796	4045442	Python3	nopeson	
+150844	3488041	Rust	KodeMonkey	
+134112	1449433	C++	Rolf	
 129864	1040176	Python3	BoBot	
-128976	1449433	C++	Rolf	
 112488	1383054	Python3	Oxame	
 108568	2647542	Java	szatist	
 107152	4116825	C#	JoeyVera	
@@ -238,6 +239,7 @@ Score	UserID	Lang	Pseudo	#optim,count=427,time=2021-01-04 02:30:36
 30564	4066824	Javascript	Thannajo	
 30560	2508635	Java	hemhel	
 30476	1386924	Python3	Ylec	
+30144	1221160	PHP	gendos_ua	
 30008	3967220	TypeScript	ArturSkrobisz	
 29588	4111713	Python3	Averni	
 29552	2243940	Ruby	Revenge911	
@@ -283,6 +285,7 @@ Score	UserID	Lang	Pseudo	#optim,count=427,time=2021-01-04 02:30:36
 20084	3551982	Python3	nurlybek-dev	
 17880	4115531	Java	LaurentBNX	
 13532	1578602	C++	Shkwave	
+11576	2679047	C#	AntonyCoco	
 8968	1193679	Python3	Icebox	
 8592	2324305	C#	mgbt	
 7580	3496778	Javascript	Salineitor	
@@ -328,6 +331,7 @@ Score	UserID	Lang	Pseudo	#optim,count=427,time=2021-01-04 02:30:36
 2224	1803565	C++	Amadeo234	
 2224	3604596	Python3	sehyod	
 1912	4102957	Python3	EBenoit	
+1904	4039182	Javascript	JoBonaire	
 1876	4117970	Python3	zhoubou	
 1516	2770393	C#	MrciCopilot	
 1516	3708717	Python3	Emiii	
@@ -421,6 +425,7 @@ Score	UserID	Lang	Pseudo	#optim,count=427,time=2021-01-04 02:30:36
 344	3885301	C++	TuringAI	
 344	4093038	Go	coco8887777yggfty	
 344	4122071	C++	JacobeeQ	
+344	231975	C#	Remoh69	
 300	4094683	Python3	Loes	
 300	275626	Javascript	GreyMoon	
 252	1931701	Java	anis.ktari	
