@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=432,time=2021-01-05 02:52:39
+Score	UserID	Lang	Pseudo	#optim,count=433,time=2021-01-06 02:30:37
 62564496	2288263	Rust	dbdr	
 59353464	3457031	C++	YurkovAS	
 59353440	3354337	C++	Westicles	
@@ -31,7 +31,7 @@ Score	UserID	Lang	Pseudo	#optim,count=432,time=2021-01-05 02:52:39
 14545024	1256312	C#	Djoums	
 14072088	1732414	C++	ClosetAI	
 13516584	2451652	Java	code_of_the_dead	
-13095764	893541	Java	wala	
+13472608	893541	Java	wala	
 12046356	3564009	Lua	Waffle3z	
 10989500	1630890	Java	Wld	
 10404892	3173494	Java	WKDE	
@@ -49,7 +49,7 @@ Score	UserID	Lang	Pseudo	#optim,count=432,time=2021-01-05 02:52:39
 4734880	4081634	Java	Wontonimo	
 4527912	3738782	C#	Inaniwa	
 4049156	4027292	C#	rmait	
-3945236	1807733	Python3	NoZ-	
+4003632	1807733	Python3	NoZ-	
 3872276	311035	Python3	leojean890	
 3825460	1854246	C++	Counterbalance	
 3462232	3165536	C++	barbora	
@@ -73,11 +73,13 @@ Score	UserID	Lang	Pseudo	#optim,count=432,time=2021-01-05 02:52:39
 1244252	4083537	Python3	DavidAvsajanishvili	
 930052	3141948	Java	philRG	
 919912	2258829	C#	Hiker	
+894468	3812486	Javascript	gitKad	
 807660	1029663	C	Skreamly	
 725440	3842838	TypeScript	Streusel	
 675240	1566335	Java	BeardedWhale	
 643904	1452327	Rust	solmir	
 538536	1309948	C++	Runner87	
+435988	273004	Python3	ptitrex	
 404300	199887	C#	sanpas83	
 403532	4026208	Java	alf38	
 387012	2785892	Python3	levbor	
@@ -88,7 +90,6 @@ Score	UserID	Lang	Pseudo	#optim,count=432,time=2021-01-05 02:52:39
 334272	969500	Python3	AnasShami	
 305628	792813	Python3	VilBoub	
 299136	3700430	C++	Sandivar	
-297752	3812486	Javascript	gitKad	
 295132	3815413	Swift	Michael_Howard	
 287992	508460	C++	Volia	
 285004	4016170	C	GMCG	
@@ -191,6 +192,7 @@ Score	UserID	Lang	Pseudo	#optim,count=432,time=2021-01-05 02:52:39
 48636	3115713	C	faneyer	
 48460	4105018	Python3	MarcDillar	
 48220	165671	Python3	[CG]cyppan	
+47756	1221160	PHP	gendos_ua	
 47748	826671	Python3	kayou	
 47648	4059073	Python3	Julien-Verdun	
 46732	4100825	Javascript	ablin42	
@@ -239,7 +241,6 @@ Score	UserID	Lang	Pseudo	#optim,count=432,time=2021-01-05 02:52:39
 30564	4066824	Javascript	Thannajo	
 30560	2508635	Java	hemhel	
 30476	1386924	Python3	Ylec	
-30144	1221160	PHP	gendos_ua	
 30008	3967220	TypeScript	ArturSkrobisz	
 29588	4111713	Python3	Averni	
 29552	2243940	Ruby	Revenge911	
