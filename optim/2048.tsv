@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=433,time=2021-01-06 02:30:37
+Score	UserID	Lang	Pseudo	#optim,count=434,time=2021-01-07 03:20:12
 62564496	2288263	Rust	dbdr	
 59353464	3457031	C++	YurkovAS	
 59353440	3354337	C++	Westicles	
@@ -65,6 +65,7 @@ Score	UserID	Lang	Pseudo	#optim,count=433,time=2021-01-06 02:30:37
 2013220	1720605	Rust	carlicolosse	
 1830476	3317816	Java	Jeeronimo	
 1670096	2135916	Python3	Oioi	
+1555604	2258829	C#	Hiker	
 1432492	2025868	C++	sumoru	
 1403092	1412263	PHP	PatrickMcGinnisII	
 1348460	2802157	Python3	HKit	
@@ -72,7 +73,6 @@ Score	UserID	Lang	Pseudo	#optim,count=433,time=2021-01-06 02:30:37
 1283788	4036456	Python3	JeremSwak	
 1244252	4083537	Python3	DavidAvsajanishvili	
 930052	3141948	Java	philRG	
-919912	2258829	C#	Hiker	
 894468	3812486	Javascript	gitKad	
 807660	1029663	C	Skreamly	
 725440	3842838	TypeScript	Streusel	
@@ -427,6 +427,7 @@ Score	UserID	Lang	Pseudo	#optim,count=433,time=2021-01-06 02:30:37
 344	4093038	Go	coco8887777yggfty	
 344	4122071	C++	JacobeeQ	
 344	231975	C#	Remoh69	
+344	1767224	Javascript	Dagonin	
 300	4094683	Python3	Loes	
 300	275626	Javascript	GreyMoon	
 252	1931701	Java	anis.ktari	
