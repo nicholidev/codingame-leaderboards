@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=245,time=2021-01-07 03:20:13
+Score	UserID	Lang	Pseudo	#optim,count=250,time=2021-01-08 05:00:15
 174652	3354337	Scala	Westicles	
 167588	1530051	C++	UlYoP	
 165192	2968035	C++	DomiKo	
@@ -19,6 +19,7 @@ Score	UserID	Lang	Pseudo	#optim,count=245,time=2021-01-07 03:20:13
 96229	2510517	C++	Turtlefight	
 95691	3487645	Javascript	hypers	
 92378	1854246	C++	Counterbalance	
+88926	3985088	Java	tiagocuervo	
 87682	1449433	C++	Rolf	
 86076	3717149	C++	Jef808	
 83128	2254195	Javascript	BrunoFelthes	
@@ -27,6 +28,7 @@ Score	UserID	Lang	Pseudo	#optim,count=245,time=2021-01-07 03:20:13
 73040	820000	C++	ValGrowth	
 70133	3808317	C++	Bax533	
 69028	3918583	TypeScript	mikmak	
+68798	3136962	C++	marimarek	
 68670	3839774	C	gurvan_lullien	
 68423	1684030	Rust	Mator	
 67991	1114834	C++	k4ng0u	
@@ -35,16 +37,16 @@ Score	UserID	Lang	Pseudo	#optim,count=245,time=2021-01-07 03:20:13
 65784	218189	C	[CG]Maxime	
 63194	2786666	C++	TetraktysPhi	
 62112	1436776	C++	BrainSolver	
+57552	3015376	Python3	gaha	
 56950	3260156	C#	KrzysiekSlawik	
 54688	3721214	C++	jrke	
 54084	973040	C	papyjo	
-53014	3136962	C++	marimarek	
 52927	1489865	C++	EricSMSO	
 52108	414278	Java	oobException	
+51134	3647844	Python3	rc95401	
 49776	3756021	Java	TheSkolar	
 49090	3513265	C++	DaNinja	
-49028	3647844	Python3	rc95401	
-47057	3691382	C#	Kamil2601	
+47886	3691382	C#	Kamil2601	
 46855	2007852	Lua	Zorg1	
 45340	1535382	Java	CrankNaz	
 45320	734401	C++	b0n5a1	
@@ -64,6 +66,7 @@ Score	UserID	Lang	Pseudo	#optim,count=245,time=2021-01-07 03:20:13
 34765	3916254	Python3	mikronex	
 34380	3657937	Python3	elderlybeginner	
 34343	2290633	Python3	field3	
+34074	389786	Java	menu	
 33428	2544989	Javascript	lulugo19	
 32804	1925452	Python3	Cyriax	
 32792	4021808	C++	hubert123	
@@ -73,11 +76,13 @@ Score	UserID	Lang	Pseudo	#optim,count=245,time=2021-01-07 03:20:13
 32314	2202771	Java	Kaplone	
 32092	1397268	C	RTLB	
 31810	2043908	C++	AntiSquid	
+31716	1404379	C++	hpa	
 31595	1754295	Rust	SF	
+31504	2969181	C++	maras	
 31497	311035	Python3	leojean890	
 31332	3687460	Python3	jpacd	
+30821	3950834	C++	rodrigocofrer	
 30237	4039884	C++	mzbear	
-29928	3950834	C++	rodrigocofrer	
 29903	1620599	C#	Hugo-NL	
 29890	792813	Python3	VilBoub	
 29843	2690809	Python3	DvirHz	
@@ -98,7 +103,6 @@ Score	UserID	Lang	Pseudo	#optim,count=245,time=2021-01-07 03:20:13
 20198	3979220	Java	sahdevav	
 19462	970195	C++	Elbanono	
 18778	1545094	Javascript	ZooooX	
-18250	389786	Java	menu	
 17028	3305510	PHP	TBali	
 16681	2235616	Rust	BroneKot	
 16528	2416641	Python3	Zenoscave	
@@ -223,6 +227,7 @@ Score	UserID	Lang	Pseudo	#optim,count=245,time=2021-01-07 03:20:13
 7456	3703802	Rust	uczys	
 7456	992329	Python3	BeeGee	
 7434	1566990	Swift	Elsu	
+7380	509738	C++	Konrad_Wer	
 7376	1200669	Python3	houseofsuns	
 7296	1549856	TypeScript	Keylan	
 7066	1800350	C	Micolino	
