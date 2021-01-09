@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=250,time=2021-01-08 05:00:15
+Score	UserID	Lang	Pseudo	#optim,count=251,time=2021-01-09 02:37:20
 174652	3354337	Scala	Westicles	
 167588	1530051	C++	UlYoP	
 165192	2968035	C++	DomiKo	
@@ -13,9 +13,10 @@ Score	UserID	Lang	Pseudo	#optim,count=250,time=2021-01-08 05:00:15
 128510	1378958	C#	Illedan	
 118483	3457031	C++	YurkovAS	
 116591	1201796	Java	P.Greze	
+113915	2923506	C++	darkhorse64	
 113126	3533119	Python3	wlesavo	
 110747	580424	C++	siman	
-109109	2923506	C++	darkhorse64	
+96965	509738	C++	Konrad_Wer	
 96229	2510517	C++	Turtlefight	
 95691	3487645	Javascript	hypers	
 92378	1854246	C++	Counterbalance	
@@ -42,8 +43,8 @@ Score	UserID	Lang	Pseudo	#optim,count=250,time=2021-01-08 05:00:15
 54688	3721214	C++	jrke	
 54084	973040	C	papyjo	
 52927	1489865	C++	EricSMSO	
+52422	3647844	Python3	rc95401	
 52108	414278	Java	oobException	
-51134	3647844	Python3	rc95401	
 49776	3756021	Java	TheSkolar	
 49090	3513265	C++	DaNinja	
 47886	3691382	C#	Kamil2601	
@@ -53,6 +54,7 @@ Score	UserID	Lang	Pseudo	#optim,count=250,time=2021-01-08 05:00:15
 41532	3046779	Rust	Kathrin	
 40370	894599	Javascript	DidierC	
 38584	2617115	Java	Foltergeist113	
+38528	389786	Java	menu	
 38098	484004	Java	aCat	
 37616	2098710	C++	Sumered	
 37577	3854069	Swift	Quid34	
@@ -66,11 +68,11 @@ Score	UserID	Lang	Pseudo	#optim,count=250,time=2021-01-08 05:00:15
 34765	3916254	Python3	mikronex	
 34380	3657937	Python3	elderlybeginner	
 34343	2290633	Python3	field3	
-34074	389786	Java	menu	
 33428	2544989	Javascript	lulugo19	
 32804	1925452	Python3	Cyriax	
 32792	4021808	C++	hubert123	
 32702	3893564	Ruby	Andriamanitra	
+32561	2172874	Rust	Med1ane	
 32488	1802967	Python3	Meruem	
 32440	3954992	Python3	wcanka	
 32314	2202771	Java	Kaplone	
@@ -121,7 +123,6 @@ Score	UserID	Lang	Pseudo	#optim,count=250,time=2021-01-08 05:00:15
 13816	2474883	Python3	lakeoverflow	
 12761	1698958	Javascript	OlafDriver	
 11532	3983017	PHP	TLbuis	
-10689	2172874	Rust	Med1ane	
 10584	3344108	Rust	Xmar	
 10352	1715811	Java	PositiveQuark	
 10279	3858550	Python3	SPDene	
@@ -227,7 +228,6 @@ Score	UserID	Lang	Pseudo	#optim,count=250,time=2021-01-08 05:00:15
 7456	3703802	Rust	uczys	
 7456	992329	Python3	BeeGee	
 7434	1566990	Swift	Elsu	
-7380	509738	C++	Konrad_Wer	
 7376	1200669	Python3	houseofsuns	
 7296	1549856	TypeScript	Keylan	
 7066	1800350	C	Micolino	

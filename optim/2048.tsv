@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=435,time=2021-01-08 05:00:14
+Score	UserID	Lang	Pseudo	#optim,count=436,time=2021-01-09 02:37:19
 62564496	2288263	Rust	dbdr	
 59353464	3457031	C++	YurkovAS	
 59353440	3354337	C++	Westicles	
@@ -48,11 +48,12 @@ Score	UserID	Lang	Pseudo	#optim,count=435,time=2021-01-08 05:00:14
 4966560	1162014	Java	Bojan	
 4734880	4081634	Java	Wontonimo	
 4658788	3165536	C++	barbora	
-4527912	3738782	C#	Inaniwa	
+4544676	3738782	C#	Inaniwa	
 4049156	4027292	C#	rmait	
 4003632	1807733	Python3	NoZ-	
 3872276	311035	Python3	leojean890	
 3825460	1854246	C++	Counterbalance	
+3542340	2258829	C#	Hiker	
 3237600	1693448	C	KoenduBuf	
 3094748	1489865	C++	EricSMSO	
 2957988	3864752	Rust	MuddySneakers	
@@ -60,17 +61,16 @@ Score	UserID	Lang	Pseudo	#optim,count=435,time=2021-01-08 05:00:14
 2747996	3721214	C++	jrke	
 2602560	4119778	Scala	Kwokster	
 2450728	3626782	Java	ItsNotABug	
-2219516	2258829	C#	Hiker	
 2124388	2012662	Python3	Natalka1122	
 2099264	806416	Python3	awnion	
 2013220	1720605	Rust	carlicolosse	
 1830476	3317816	Java	Jeeronimo	
 1670096	2135916	Python3	Oioi	
+1654832	4036456	Python3	JeremSwak	
 1432492	2025868	C++	sumoru	
 1403092	1412263	PHP	PatrickMcGinnisII	
 1348460	2802157	Python3	HKit	
 1336252	3358736	Java	BuluBulu27	
-1283788	4036456	Python3	JeremSwak	
 1244252	4083537	Python3	DavidAvsajanishvili	
 930052	3141948	Java	philRG	
 894468	3812486	Javascript	gitKad	
@@ -214,7 +214,7 @@ Score	UserID	Lang	Pseudo	#optim,count=435,time=2021-01-08 05:00:14
 41980	1932980	Rust	AlexandreK	
 40728	3376384	Python3	esteban616	
 39916	4099017	Java	LeafQuery	
-39444	3880773	Python3	afssafsahehewh	
+39444	3880773	Python3	kjmma	
 39376	837350	Python3	BorisZ	
 39000	858850	C#	doliver	
 38912	3920067	Python3	Sumbrella	
@@ -285,6 +285,7 @@ Score	UserID	Lang	Pseudo	#optim,count=435,time=2021-01-08 05:00:14
 20284	631323	Python3	herve056	
 20284	4124618	Python3	madman1304	
 20084	3551982	Python3	nurlybek-dev	
+19576	475740	C#	Serg	
 17880	4115531	Java	LaurentBNX	
 13532	1578602	C++	Shkwave	
 11576	2679047	C#	AntonyCoco	
