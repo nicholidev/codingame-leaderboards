@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=4215,time=2021-01-11 03:42:02
+Score	UserID	Lang	Pseudo	#optim,count=4219,time=2021-01-12 04:46:33
 2759	1301401	C#	Stanax	
 2761	1833680	C++	jvivenot	
 2765	2288263	Rust	dbdr	
@@ -673,7 +673,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4215,time=2021-01-11 03:42:02
 5849	2169173	Python3	ergzqjdrgdrbsb	
 5850	934381	C++	PolyB	
 5852	231653	C++	kappy	
-5852	952784	C++	Simon21	
+5852	952784	C++	[CG]Simon	
 5852	1543177	Python3	Xoff	
 5852	1488793	Python3	kerloic	
 5852	1400864	C++	Markoz	
@@ -841,6 +841,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4215,time=2021-01-11 03:42:02
 5885	2878528	Python3	jankollar	
 5885	3160441	Python3	Fruitful	
 5885	1652969	C#	Berci79	
+5885	4105586	Python3	Django81	
 5886	892395	C++	Christophe	
 5886	280978	Python3	Rylanor	
 5886	952729	Bash	Flodelarab	
@@ -969,6 +970,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4215,time=2021-01-11 03:42:02
 5915	3991913	Python3	charlem	
 5915	2419811	Python3	Valbou	
 5915	4109750	Javascript	Tessitamae	
+5915	1593327	Python3	avara1986	
 5916	1833749	Javascript	yusech	
 5916	1704896	C#	Starfer	
 5916	848394	Java	schwarzahl	
@@ -997,5 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=4215,time=2021-01-11 03:42:02
 5928	1017169	C#	bLasT	
 5928	1264891	C#	Treakconk	
 5928	2121472	Python3	Sinned	
-5928	2600975	Python3	Ivarian	
-5928	2037512	Rust	mosh	
