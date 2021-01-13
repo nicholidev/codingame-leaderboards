@@ -1,9 +1,9 @@
-Score	UserID	Lang	Pseudo	#optim,count=238,time=2021-01-12 04:46:31
+Score	UserID	Lang	Pseudo	#optim,count=241,time=2021-01-13 04:27:30
 700	3949307	C++	xevixevi	
 653	3354337	C++	Westicles	
 500	2288263	Rust	dbdr	
 335	1629259	PHP	Marchete	
-260	1399382	C#	Regulus136	
+285	1399382	C#	Regulus136	
 255	2924895	C	trictrac	
 240	2968035	PHP	DomiKo	
 238	1607522	PHP	RoboStac	
@@ -46,11 +46,13 @@ Score	UserID	Lang	Pseudo	#optim,count=238,time=2021-01-12 04:46:31
 50	3564009	Lua	Waffle3z	
 45	2416641	PHP	Zenoscave	
 45	398735	C#	mogikanin	
+45	1566335	Python3	BeardedWhale	
 44	862336	PHP	Zaphus	
 43	1753077	Python3	codingWhale	
 42	820000	PHP	ValGrowth	
 38	1464932	PHP	Tiramon	
-35	311035	Python3	leojean890	
+37	1114834	PHP	k4ng0u	
+37	311035	Python3	leojean890	
 34	2436448	Java	FrancoisMeme	
 33	2077805	C++	bamilan	
 33	973040	C	papyjo	
@@ -61,7 +63,6 @@ Score	UserID	Lang	Pseudo	#optim,count=238,time=2021-01-12 04:46:31
 28	1630890	PHP	Wld	
 27	1766181	PHP	jantorestolsvik	
 27	1861258	PHP	Nazdhun	
-27	1566335	Python3	BeardedWhale	
 26	3657893	C	aAardvark	
 26	1854246	Perl	Counterbalance	
 26	1178276	Java	Jerome_95	
@@ -237,3 +238,5 @@ Score	UserID	Lang	Pseudo	#optim,count=238,time=2021-01-12 04:46:31
 1	3230794	VB.NET	tutubalin	
 1	4091440	Python3	tarikyildiz	
 1	709490	Bash	Sinlepuissant	
+1	3996809	Kotlin	VizGhar	
+1	3626782	Go	ItsNotABug	

@@ -1,10 +1,11 @@
-Score	UserID	Lang	Pseudo	#optim,count=252,time=2021-01-12 04:46:32
+Score	UserID	Lang	Pseudo	#optim,count=252,time=2021-01-13 04:27:31
 174652	3354337	Scala	Westicles	
 167588	1530051	C++	UlYoP	
 165192	2968035	C++	DomiKo	
 164196	1629259	C#	Marchete	
 156252	2924895	C	trictrac	
 154816	2522090	C++	MSmits	
+150376	1314316	C++	jolindien	
 150000	2288263	Rust	dbdr	
 147888	1500515	C#	eulerscheZahl	
 147064	1344487	C++	UnnamedCodinGamer	
@@ -12,7 +13,6 @@ Score	UserID	Lang	Pseudo	#optim,count=252,time=2021-01-12 04:46:32
 136253	2311105	C++	kovi	
 128510	1378958	C#	Illedan	
 118483	3457031	C++	YurkovAS	
-116900	1314316	C++	jolindien	
 116591	1201796	Java	P.Greze	
 113915	2923506	C++	darkhorse64	
 113126	3533119	Python3	wlesavo	
@@ -20,7 +20,7 @@ Score	UserID	Lang	Pseudo	#optim,count=252,time=2021-01-12 04:46:32
 102666	509738	C++	Konrad_Wer	
 96229	2510517	C++	Turtlefight	
 95691	3487645	Javascript	hypers	
-93272	862919	C++	Astrobytes	
+93727	862919	C++	Astrobytes	
 92378	1854246	C++	Counterbalance	
 88926	3985088	Java	tiagocuervo	
 87682	1449433	C++	Rolf	
@@ -40,9 +40,9 @@ Score	UserID	Lang	Pseudo	#optim,count=252,time=2021-01-12 04:46:32
 65784	218189	C	[CG]Maxime	
 63194	2786666	C++	TetraktysPhi	
 62112	1436776	C++	BrainSolver	
+58722	3647844	Python3	rc95401	
 57552	3015376	Python3	gaha	
 56950	3260156	C#	KrzysiekSlawik	
-55102	3647844	Python3	rc95401	
 54688	3721214	C++	jrke	
 54084	973040	C	papyjo	
 52927	1489865	C++	EricSMSO	
@@ -82,8 +82,8 @@ Score	UserID	Lang	Pseudo	#optim,count=252,time=2021-01-12 04:46:32
 31810	2043908	C++	AntiSquid	
 31716	1404379	C++	hpa	
 31595	1754295	Rust	SF	
+31593	311035	Python3	leojean890	
 31504	2969181	C++	maras	
-31497	311035	Python3	leojean890	
 31332	3687460	Python3	jpacd	
 30821	3950834	C++	rodrigocofrer	
 30237	4039884	C++	mzbear	

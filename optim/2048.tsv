@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=438,time=2021-01-12 04:46:31
+Score	UserID	Lang	Pseudo	#optim,count=439,time=2021-01-13 04:27:31
 62564496	2288263	Rust	dbdr	
 59353464	3457031	C++	YurkovAS	
 59353440	3354337	C++	Westicles	
@@ -39,12 +39,12 @@ Score	UserID	Lang	Pseudo	#optim,count=438,time=2021-01-12 04:46:31
 9175480	3839774	Rust	gurvan_lullien	
 8844524	4119186	C#	Rxelux	
 8607268	3898813	C++	3ifndef	
+8494736	311035	Go	leojean890	
 8421728	3918583	TypeScript	mikmak	
 8305688	1515891	Go	ndc	
 8184664	155774	C++	dwarfie	
 7365316	1314316	C++	jolindien	
 6722180	3996809	C++	VizGhar	
-6666124	311035	Go	leojean890	
 6254508	512097	C++	Stilgart	
 4966560	1162014	Java	Bojan	
 4734880	4081634	Java	Wontonimo	
@@ -97,6 +97,7 @@ Score	UserID	Lang	Pseudo	#optim,count=438,time=2021-01-12 04:46:31
 257252	2437570	Python3	LordAchillus	
 250352	3942793	Java	The_Auditor	
 247104	4097008	Python3	petru4io	
+220520	3235897	Java	Zylo	
 219832	1966315	C#	ArtemAraptanov	
 192100	1802967	Python3	Meruem	
 189464	1449433	C++	Rolf	
@@ -117,10 +118,10 @@ Score	UserID	Lang	Pseudo	#optim,count=438,time=2021-01-12 04:46:31
 90644	3522047	TypeScript	asgeirr	
 87920	3606971	Javascript	LordVonAdel	
 86544	4086233	Python3	qwertz73355a	
-84632	3235897	Java	Zylo	
 84136	1848459	Kotlin	Velcoro	
 80000	2414853	Python3	StephaneLaveau	
 79900	523185	Python3	Hjax	
+79888	2172874	Rust	Med1ane	
 79660	3726978	C++	VirtualAtom	
 79660	3496153	Python3	lndshs	
 79044	1740237	Python3	OlegKornelsen	
@@ -129,7 +130,6 @@ Score	UserID	Lang	Pseudo	#optim,count=438,time=2021-01-12 04:46:31
 74988	4111058	Perl	Perlorodka	
 74580	1542064	C++	Skyr83	
 74348	810629	C#	Lukey	
-73116	2172874	Rust	Med1ane	
 71856	992329	Python3	BeeGee	
 69792	2635907	Javascript	lopidav	
 68904	4030968	Python3	MBucas	
@@ -271,6 +271,7 @@ Score	UserID	Lang	Pseudo	#optim,count=438,time=2021-01-12 04:46:31
 25792	1782559	C	ribensan	
 25488	3774010	Python3	Presac	
 25456	3640862	Python3	nopnop	
+25300	3353360	Python3	feuerbach	
 24876	4082228	Java	jengisgat	
 24356	4091440	Python3	tarikyildiz	
 24184	1495694	C++	MisterJensen	
