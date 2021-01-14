@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=895,time=2021-01-13 04:27:34
+Score	UserID	Lang	Pseudo	#optim,count=896,time=2021-01-14 04:30:51
 11902	2288263	Rust	dbdr	
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
@@ -117,7 +117,7 @@ Score	UserID	Lang	Pseudo	#optim,count=895,time=2021-01-13 04:27:34
 8228	1818159	C++	JRFerguson	
 8199	403748	C#	[CG]SaiksyApo	
 8128	1342741	C++	ltDan	
-8043	1968855	Python3	ThePurificator	
+8046	1968855	Python3	ThePurificator	
 8038	1477622	C#	zrdon	
 7987	1443538	Java	Gevater_Tod4711	
 7948	1845617	C++	Shingyx	
@@ -217,6 +217,7 @@ Score	UserID	Lang	Pseudo	#optim,count=895,time=2021-01-13 04:27:34
 5247	371603	Ruby	martin	
 5204	1970506	Python3	Taldor	
 5167	2715508	C++	Anth	
+5164	2998967	TypeScript	K-Gilde	
 5149	3847976	C#	[SG]Mob-Programming	
 5142	1096201	C++	Maksimov	
 5085	2254195	Javascript	BrunoFelthes	
@@ -266,7 +267,6 @@ Score	UserID	Lang	Pseudo	#optim,count=895,time=2021-01-13 04:27:34
 3957	857521	C#	MrAnderson	
 3929	3076371	C++	Eucerin	
 3925	3503501	C++	Dagnarus	
-3909	2998967	TypeScript	K-Gilde	
 3882	1824376	Java	Kodle	
 3841	3376849	Python3	Horrip	
 3801	301922	Scala	tyrcho	
@@ -466,6 +466,7 @@ Score	UserID	Lang	Pseudo	#optim,count=895,time=2021-01-13 04:27:34
 1928	2500089	Javascript	Fantomat75	
 1928	1216462	Python3	MartinVachovski	
 1923	1515891	Ruby	ndc	
+1914	153092	Python3	Aurep	
 1902	1713174	Python3	BigUP	
 1861	1407621	C++	Taohbi	
 1855	1530429	Java	Michiel	
@@ -738,7 +739,7 @@ Score	UserID	Lang	Pseudo	#optim,count=895,time=2021-01-13 04:27:34
 1045	969500	Python3	AnasShami	
 1045	3784619	Ruby	RichardCode	
 1045	3783962	C++	Mohsen1365ir	
-1045	2837367	Javascript	Sukiiu	
+1045	2837367	Javascript	Mozzem	
 1045	3806383	Python3	Anaxagore	
 1045	3493826	Python3	MaxCol06	
 1045	3488890	Python3	Feulou	

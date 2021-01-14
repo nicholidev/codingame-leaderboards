@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=439,time=2021-01-13 04:27:31
+Score	UserID	Lang	Pseudo	#optim,count=439,time=2021-01-14 04:30:47
 62564496	2288263	Rust	dbdr	
 59353464	3457031	C++	YurkovAS	
 59353440	3354337	C++	Westicles	
@@ -25,6 +25,7 @@ Score	UserID	Lang	Pseudo	#optim,count=439,time=2021-01-13 04:27:31
 19127616	1549145	C++	Mealc	
 18704804	3136787	C++	jacek	
 16925948	3647844	C++	rc95401	
+16894604	3918583	Rust	mikmak	
 16666956	490588	Python3	Uljahn	
 16652164	2968035	C++	DomiKo	
 15247188	2416641	C++	Zenoscave	
@@ -40,7 +41,6 @@ Score	UserID	Lang	Pseudo	#optim,count=439,time=2021-01-13 04:27:31
 8844524	4119186	C#	Rxelux	
 8607268	3898813	C++	3ifndef	
 8494736	311035	Go	leojean890	
-8421728	3918583	TypeScript	mikmak	
 8305688	1515891	Go	ndc	
 8184664	155774	C++	dwarfie	
 7365316	1314316	C++	jolindien	
@@ -67,6 +67,7 @@ Score	UserID	Lang	Pseudo	#optim,count=439,time=2021-01-13 04:27:31
 2013220	1720605	Rust	carlicolosse	
 1830476	3317816	Java	Jeeronimo	
 1670096	2135916	Python3	Oioi	
+1486724	475740	C#	Serg	
 1432492	2025868	C++	sumoru	
 1403092	1412263	PHP	PatrickMcGinnisII	
 1348460	2802157	Python3	HKit	
@@ -76,7 +77,6 @@ Score	UserID	Lang	Pseudo	#optim,count=439,time=2021-01-13 04:27:31
 894468	3812486	Javascript	gitKad	
 807660	1029663	C	Skreamly	
 725440	3842838	TypeScript	Streusel	
-724076	475740	C#	Serg	
 675240	1566335	Java	BeardedWhale	
 643904	1452327	Rust	solmir	
 538536	1309948	C++	Runner87	

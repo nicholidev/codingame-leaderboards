@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2218,time=2021-01-13 04:27:25
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2217,time=2021-01-14 04:30:42
 6	34.89	3193653	2579867	C++	karliso	
 6	33.64	1624809	2653061	C#	DrFekalus	
 6	33.41	2522090	2305313	C++	MSmits	
@@ -889,7 +889,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2218,time=2021-01-13 04:27:
 3	19.31	889789	779469	C	Alain-Delpuch	
 3	19.16	2158276	2492559	Java	ChetanJain	
 3	19.09	3808031	2991937	Ruby	_proton	
-3	19.06	2003755	1499771	C#	mybestbot	
 3	18.96	3171145	2429118	OCaml	MPSI-LIV-OrianeBalthazar	
 3	18.92	1023075	775726	Java	Naro	
 3	18.89	3376183	2428679	Python3	harpie	
@@ -999,3 +998,4 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2218,time=2021-01-13 04:27:
 3	13.82	1857903	1328461	C++	NeKo	
 3	13.81	1525923	1757541	Javascript	Milihhard	
 3	13.8	354788	777550	Java	Lexer31	
+3	13.77	1930284	1125909	Java	DasBot	
