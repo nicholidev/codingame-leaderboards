@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3380,time=2021-01-14 04:30:48
+Score	UserID	Lang	Pseudo	#optim,count=3381,time=2021-01-15 04:30:50
 2509	1327028	C++	FredericBautista	
 2507	154372	Bash	Plopx	
 2504	1249786	C#	Fededevi	
@@ -38,9 +38,9 @@ Score	UserID	Lang	Pseudo	#optim,count=3380,time=2021-01-14 04:30:48
 2435	3235897	Java	Zylo	
 2433	3457031	C++	YurkovAS	
 2429	557990	C++	Wazemo	
+2426	3358168	Go	A.U.	
 2423	806157	Python3	Aveuh	
 2422	1244576	Java	PauloVilela	
-2420	3358168	Go	A.U.	
 2419	153937	Python3	oook	
 2418	153823	PHP	Captainseb	
 2416	1854246	C++	Counterbalance	
@@ -810,6 +810,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3380,time=2021-01-14 04:30:48
 1809	776401	C#	mshogren	
 1809	2766041	Python3	PVR	
 1808	1064724	Rust	Mamamatchi	
+1808	2581440	C#	Shadow25	
 1806	1107630	Go	dbenque	
 1805	1288975	C#	Lamihck	
 1804	996271	Java	labete	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=3380,time=2021-01-14 04:30:48
 1771	1592706	Java	HuynhThienThach	
 1771	1229284	Java	Prajyoth	
 1771	1349157	Java	MaximeDenuit	
-1771	1605149	Java	Audax_FIMS	
