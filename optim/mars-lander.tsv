@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3381,time=2021-01-15 04:30:50
+Score	UserID	Lang	Pseudo	#optim,count=3385,time=2021-01-16 04:51:15
 2509	1327028	C++	FredericBautista	
 2507	154372	Bash	Plopx	
 2504	1249786	C#	Fededevi	
@@ -34,11 +34,11 @@ Score	UserID	Lang	Pseudo	#optim,count=3381,time=2021-01-15 04:30:50
 2441	805067	Javascript	Magus	
 2440	1566335	Java	BeardedWhale	
 2440	2315158	Java	luigi_gelato	
+2439	3358168	Go	A.U.	
 2438	1500515	C#	eulerscheZahl	
 2435	3235897	Java	Zylo	
 2433	3457031	C++	YurkovAS	
 2429	557990	C++	Wazemo	
-2426	3358168	Go	A.U.	
 2423	806157	Python3	Aveuh	
 2422	1244576	Java	PauloVilela	
 2419	153937	Python3	oook	
@@ -500,6 +500,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3381,time=2021-01-15 04:30:50
 1960	1642878	Java	aclarke822	
 1960	3488598	C++	KSlawinski	
 1958	525864	C++	ATwice	
+1958	3938500	Python3	evanforCodin	
 1957	1363760	Javascript	Frostizzz	
 1957	1555765	C#	DewJunkie	
 1957	1470107	C#	jsmith	
@@ -641,6 +642,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3381,time=2021-01-15 04:30:50
 1887	3444208	Java	Anatoli	
 1886	1358848	Python3	rickyok	
 1886	3127469	C++	ArturoHuerta	
+1886	1863721	C#	intain	
 1885	2730691	C++	troyle	
 1883	4106280	Python3	Ezama17	
 1882	224325	C++	TidyMaze	
@@ -654,6 +656,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3381,time=2021-01-15 04:30:50
 1875	186179	C++	Nagrarok	
 1875	2690406	C++	JCJ	
 1875	2854721	C++	SirMightyCrisp	
+1875	2581440	C#	Shadow25	
 1874	1061061	C#	Bandersnatch	
 1874	276480	Javascript	Karang	
 1874	1112073	Python3	Pouf	
@@ -810,7 +813,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3381,time=2021-01-15 04:30:50
 1809	776401	C#	mshogren	
 1809	2766041	Python3	PVR	
 1808	1064724	Rust	Mamamatchi	
-1808	2581440	C#	Shadow25	
 1806	1107630	Go	dbenque	
 1805	1288975	C#	Lamihck	
 1804	996271	Java	labete	
@@ -997,5 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=3381,time=2021-01-15 04:30:50
 1771	1031157	Java	dario_pedro	
 1771	1075687	Java	elefank	
 1771	1592706	Java	HuynhThienThach	
-1771	1229284	Java	Prajyoth	
-1771	1349157	Java	MaximeDenuit	

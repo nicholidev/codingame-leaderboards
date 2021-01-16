@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=4227,time=2021-01-15 04:30:51
+Score	UserID	Lang	Pseudo	#optim,count=4233,time=2021-01-16 04:51:17
 2759	1301401	C#	Stanax	
 2761	1833680	C++	jvivenot	
 2765	2288263	Rust	dbdr	
@@ -11,6 +11,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4227,time=2021-01-15 04:30:51
 2923	1415495	C++	fenrir	
 2977	1514534	Java	louis78700	
 2999	1323814	Clojure	SatineChatounette	
+3001	1500515	C#	eulerscheZahl	
 3004	557990	C++	Wazemo	
 3027	1039809	C#	Azziliz	
 3086	977117	C++	Psyho	
@@ -66,7 +67,6 @@ Score	UserID	Lang	Pseudo	#optim,count=4227,time=2021-01-15 04:30:51
 3530	920987	Python3	redna70	
 3530	2950978	C++	icecuber	
 3532	1687754	Java	cg123	
-3534	1500515	C#	eulerscheZahl	
 3543	918352	Python3	CoYoTe99	
 3552	1854246	C++	Counterbalance	
 3553	1131084	C#	pmod	
@@ -287,6 +287,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4227,time=2021-01-15 04:30:51
 4348	2398608	Python3	M_C	
 4348	723476	Python3	NeoPhnx	
 4352	199646	Ruby	netoctone	
+4354	1863721	C#	intain	
 4359	1511645	Python3	OleksandrVoytsekhovskyy	
 4359	1874759	Python3	seovs	
 4369	828317	C++	bombardier	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=4227,time=2021-01-15 04:30:51
 5925	1639061	Python3	Anarcobra	
 5926	1620631	Python3	Testadicardi	
 5927	3797273	C#	Pepito63	
-5928	414278	Java	oobException	

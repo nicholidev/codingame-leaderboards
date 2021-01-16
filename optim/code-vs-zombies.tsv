@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=7959,time=2021-01-15 04:30:52
+Score	UserID	Lang	Pseudo	#optim,count=7967,time=2021-01-16 04:51:17
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -176,6 +176,7 @@ Score	UserID	Lang	Pseudo	#optim,count=7959,time=2021-01-15 04:30:52
 206040	2080768	C++	Binchy	
 205690	2051334	C++	Dwarth	
 205670	1487392	Java	Razielwar	
+205460	3884461	C	NguyenHoangSon	
 205280	3877700	Rust	Bytekeeper	
 205260	3642129	Python3	nicotard	
 205120	514655	Go	Cristof337	
@@ -314,6 +315,7 @@ Score	UserID	Lang	Pseudo	#optim,count=7959,time=2021-01-15 04:30:52
 145110	403748	C#	[CG]SaiksyApo	
 144990	2211505	C++	doonsMonk	
 144990	2205121	C++	mehta	
+144870	311035	Python3	leojean890	
 144330	869314	C++	RicBit	
 144280	1077559	Java	PhOeNyX	
 143110	1525821	C#	Jeroo	
@@ -338,7 +340,6 @@ Score	UserID	Lang	Pseudo	#optim,count=7959,time=2021-01-15 04:30:52
 136530	1467771	C++	Telokis	
 134980	893915	Python3	DeVoTeD	
 134860	1737611	Javascript	RPlusPlus	
-134760	311035	Python3	leojean890	
 134750	1173260	Rust	Erasmus	
 134650	775897	C++	gchebanov	
 134280	2942948	C++	Tchouche	
@@ -611,6 +612,7 @@ Score	UserID	Lang	Pseudo	#optim,count=7959,time=2021-01-15 04:30:52
 64480	1546042	Python3	lsh	
 64480	2333290	Javascript	aviomaksim	
 64470	3418714	Python3		
+64440	2642287	Python3	uistyle	
 64430	568337	Python3	Ofire	
 64410	4089952	C++	darwikey	
 64350	3262117	Javascript	schmerz	
@@ -997,5 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=7959,time=2021-01-15 04:30:52
 61260	3382337	PHP	AussieVEEN	
 61260	3791350	C++	Hyarius	
 61240	874507	PHP	SebastienXD	
-61240	1841740	Python3	BlindeSalt	
-61240	2245438	Javascript	NormanHK	
