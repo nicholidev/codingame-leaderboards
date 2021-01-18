@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=7977,time=2021-01-17 04:30:48
+Score	UserID	Lang	Pseudo	#optim,count=7992,time=2021-01-18 04:30:59
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -245,6 +245,7 @@ Score	UserID	Lang	Pseudo	#optim,count=7977,time=2021-01-17 04:30:48
 181840	1712255	Go	Ukster	
 181830	3918583	TypeScript	mikmak	
 180950	1709003	Java	csaurin	
+180310	4117970	Python3	zhoubou	
 179700	1842010	C#	southpolenator	
 179350	3823601	Python3	cysong	
 179340	3305510	PHP	TBali	
@@ -274,6 +275,7 @@ Score	UserID	Lang	Pseudo	#optim,count=7977,time=2021-01-17 04:30:48
 169500	1620803	C++	Lyapunov	
 168800	1495694	C++	MisterJensen	
 168750	1495394	C#	qwerty_42	
+168650	4115124	Java	bitAlb	
 168640	1604295	Javascript	SergeyShirokov	
 168330	1676711	Java	Eeeval	
 168080	484004	C#	aCat	
@@ -292,6 +294,7 @@ Score	UserID	Lang	Pseudo	#optim,count=7977,time=2021-01-17 04:30:48
 160250	1610001	C++	Babilonio	
 159910	2566623	PHP	VincentBab	
 159610	1125115	C#	RafaelSan	
+159400	4090213	C++	andrecab	
 158400	2731276	C++	panda42	
 158380	2064511	Java	Semenyutenko_Andrey	
 158350	608132	C	seiji	
@@ -303,10 +306,8 @@ Score	UserID	Lang	Pseudo	#optim,count=7977,time=2021-01-17 04:30:48
 154980	414278	Java	oobException	
 153250	3844625	C++	olaf_surgut	
 153110	2361019	Python3	kleisauke	
-152320	4090213	C++	andrecab	
 151360	1131528	C	Owl	
 150900	1584802	Python3	emh	
-150710	4115124	Java	bitAlb	
 150400	563069	Python3	Darkris	
 149650	2339129	Python3	ChristianSloper	
 148620	1743375	Java	redav	
@@ -338,6 +339,7 @@ Score	UserID	Lang	Pseudo	#optim,count=7977,time=2021-01-17 04:30:48
 138100	1017169	C#	bLasT	
 137980	890630	C#	Shurishe	
 137530	512207	Scala	Aun	
+137280	3760956	C++	GeekNbOne	
 137140	2077458	Python3	Ragi	
 136530	1467771	C++	Telokis	
 134980	893915	Python3	DeVoTeD	
@@ -719,6 +721,7 @@ Score	UserID	Lang	Pseudo	#optim,count=7977,time=2021-01-17 04:30:48
 64260	3606038	C++	AIDRI	
 64260	1353795	C++	TheCrucial	
 64260	4124539	C++	theAlphaGuardian	
+64260	624604	Python3	_hank_	
 64230	155928	PHP	pk	
 64230	1147815	Python3	Tashiqi	
 64230	1095446	Python3	tarbomb	
@@ -996,6 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=7977,time=2021-01-17 04:30:48
 61390	1046561	C#	SandraaK	
 61370	2353603	Pascal	MrSok	
 61360	964169	Perl	ivanoff.org.ua	
-61280	2224742	C	FloLD	
-61260	3382337	PHP	AussieVEEN	
-61260	3791350	C++	Hyarius	
