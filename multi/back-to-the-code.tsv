@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4664,time=2021-01-18 04:30:50
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4664,time=2021-01-19 02:46:37
 0	47.64	1433161	1484525	C	Mingu	
 0	46.24	494104	455215	C++	Recar	
 0	45.55	990110	357643	C++	Rogerup	
@@ -118,8 +118,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4664,time=2021-01-18 04:30:
 0	38.65	1857772	1574293	C++	darkange69	
 0	38.65	869323	341535	C#	Ferra	
 0	38.62	2639926	2356200	OCaml	PROF-LIV	
+0	38.62	970195	351972	C++	Elbanono	
 0	38.62	1170254	364830	C++	Vytma	
-0	38.61	970195	351972	C++	Elbanono	
 0	38.59	937225	347403	Java	Daedin	
 0	38.58	1114698	2079371	C++	xiaohouzi	
 0	38.57	877850	348071	Java	Edin	
@@ -335,12 +335,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4664,time=2021-01-18 04:30:
 0	34.99	1759839	2307567	Python3	matleg	
 0	34.98	995896	343339	C#	Ro9	
 0	34.98	393267	354450	C#	M-Graf	
+0	34.97	198212	349947	Python	progsdi	
 0	34.97	153057	744215	PHP	PierralF	
 0	34.96	467773	356653	Python	oxzytoon	
 0	34.95	1183644	369972	C++	Donotalo	
 0	34.95	715431	349514	Javascript	G3r0	
 0	34.95	153683	2487762	Dart	40R15T3	
-0	34.95	198212	349947	Python	progsdi	
 0	34.94	1131084	364522	C#	pmod	
 0	34.94	212028	342255	Java	GHenry	
 0	34.94	948827	354998	Python	kieranvs	
@@ -812,10 +812,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4664,time=2021-01-18 04:30:
 0	30.87	1065546	355994	C++		
 0	30.87	1188273	370204	Python3	DevNico	
 0	30.86	1113426	362073	VB.NET	Kuruts	
+0	30.86	1299891	2403828	Lua	lesslucid	
 0	30.86	1249322	370455	C#	MattLGX	
 0	30.86	1122239	1603238	C	AymenT	
 0	30.85	2762653	2305073	C++	RAAAT	
-0	30.82	1299891	2403828	Lua	lesslucid	
 0	30.82	464682	339576	C#	goofara	
 0	30.81	961270	345947	Javascript	imel	
 0	30.81	954005	477233	Python3	sulan	
@@ -954,6 +954,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4664,time=2021-01-18 04:30:
 0	29.77	870186	630099	Javascript	Till	
 0	29.75	1168511	920742	C++	kasuka	
 0	29.75	1399102	416743	C#	Awesomenesser	
+0	29.75	155881	2455559	PHP	XLP	
 0	29.75	1010993	343263	C#	Hurrikhan	
 0	29.75	1048596	530563	Ruby	bs90	
 0	29.73	961276	354365	Python	Zegai	
@@ -961,7 +962,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4664,time=2021-01-18 04:30:
 0	29.72	1209562	1469698	Python3	JohnnyYuge	
 0	29.72	621768	343921	C#	Soap	
 0	29.71	1458472	489424	Python3	Platicopter	
-0	29.71	155881	2455559	PHP	XLP	
 0	29.7	2158902	1851767	Scala	Snowbart	
 0	29.7	1480501	1859725	C++	DaFish	
 0	29.7	943423	361736	Python	yoyonel	
