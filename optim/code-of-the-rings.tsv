@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=4240,time=2021-01-19 02:46:46
+Score	UserID	Lang	Pseudo	#optim,count=4242,time=2021-01-20 05:13:12
 2759	1301401	C#	Stanax	
 2761	1833680	C++	jvivenot	
 2765	2288263	Rust	dbdr	
@@ -135,6 +135,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4240,time=2021-01-19 02:46:46
 3810	848989	Java	revever	
 3820	1818596	Ruby	wec	
 3824	230015	Java	Kolo9	
+3824	958227	Python3	LantarSidonis	
 3826	953751	C++	sebv	
 3829	1584802	Python3	emh	
 3829	1746116	C#	Nick5477	
@@ -148,6 +149,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4240,time=2021-01-19 02:46:46
 3865	209439	Python3	D4yBr3ak	
 3868	2785892	Python3	levbor	
 3869	2605855	Python3	logiqub	
+3874	3839774	Kotlin	gurvan_lullien	
 3875	937362	Javascript	josh_	
 3879	153927	C++	Cubix	
 3883	2242201	C++	Maryan	
@@ -193,7 +195,6 @@ Score	UserID	Lang	Pseudo	#optim,count=4240,time=2021-01-19 02:46:46
 3991	1802935	C#		
 3996	320053	PHP	Zbug	
 3997	876163	C#	AY1111	
-4000	3839774	Kotlin	gurvan_lullien	
 4003	833299	C++	egbert	
 4004	751369	C++	tibithegreat	
 4004	157377	Javascript	McKelian	
@@ -441,6 +442,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4240,time=2021-01-19 02:46:46
 5365	899864	PHP	therainycat	
 5388	3319855	C#	Drobor	
 5390	593523	C++	supermassive	
+5392	2829386	C++	Shaq76	
 5400	1961440	C++	simon_v	
 5404	927873	C	Charlot67	
 5411	1027294	Java	BigJ	
@@ -580,7 +582,6 @@ Score	UserID	Lang	Pseudo	#optim,count=4240,time=2021-01-19 02:46:46
 5736	1740037	Scala	ereiam	
 5736	2550213	C#	hogehoge	
 5736	2438065	Rust	WillFrost	
-5737	958227	Python3	LantarSidonis	
 5739	971137	C++	Burlinn	
 5739	1232188	Python3	Sylven	
 5743	2928146	PHP	LolCat	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=4240,time=2021-01-19 02:46:46
 5921	3779326	Python3	U4EA	
 5922	596947	C++	LBandy	
 5922	1151631	Python3	hexabeast	
-5923	1412263	PHP	PatrickMcGinnisII	

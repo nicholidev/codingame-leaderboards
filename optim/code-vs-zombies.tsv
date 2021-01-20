@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=8000,time=2021-01-19 02:46:47
+Score	UserID	Lang	Pseudo	#optim,count=8007,time=2021-01-20 05:13:13
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -284,6 +284,7 @@ Score	UserID	Lang	Pseudo	#optim,count=8000,time=2021-01-19 02:46:47
 164710	3647844	C++	rc95401	
 164440	222390	Python3	JohnErikSloper	
 164360	1833680	C++	jvivenot	
+163290	4090213	C++	andrecab	
 163080	3789595	C	jgmp	
 162570	3044029	C#	GuerillaOynx	
 161790	819803	Java	Anordil	
@@ -293,7 +294,6 @@ Score	UserID	Lang	Pseudo	#optim,count=8000,time=2021-01-19 02:46:47
 160430	1525057	PHP	XABPyK.A	
 160250	1610001	C++	Babilonio	
 159910	2566623	PHP	VincentBab	
-159860	4090213	C++	andrecab	
 159610	1125115	C#	RafaelSan	
 158400	2731276	C++	panda42	
 158380	2064511	Java	Semenyutenko_Andrey	
@@ -725,6 +725,7 @@ Score	UserID	Lang	Pseudo	#optim,count=8000,time=2021-01-19 02:46:47
 64260	624604	Python3	_hank_	
 64260	3882504	C++	Gauravsingh	
 64260	1542064	C++	Skyr83	
+64260	3997565	C++	DanieliuS	
 64230	155928	PHP	pk	
 64230	1147815	Python3	Tashiqi	
 64230	1095446	Python3	tarbomb	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=8000,time=2021-01-19 02:46:47
 61460	855055	Javascript	chdut	
 61460	1466966	C#	gh2oost	
 61450	973948	Python3	Amnesix	
-61440	2784589	Java	Escert	
