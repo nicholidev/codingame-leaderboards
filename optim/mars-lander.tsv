@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3395,time=2021-01-20 05:13:11
+Score	UserID	Lang	Pseudo	#optim,count=3398,time=2021-01-21 04:57:39
 2509	1327028	C++	FredericBautista	
 2507	154372	Bash	Plopx	
 2504	1249786	C#	Fededevi	
@@ -28,13 +28,13 @@ Score	UserID	Lang	Pseudo	#optim,count=3395,time=2021-01-20 05:13:11
 2454	1436776	C++	BrainSolver	
 2452	1001096	C#	MyIIone	
 2452	351062	Java	Neumann	
+2452	3358168	Go	A.U.	
 2450	1584802	Python3	emh	
 2444	2311105	C++	kovi	
 2441	553938	C++	MagAlex	
 2441	805067	Javascript	Magus	
 2440	1566335	Java	BeardedWhale	
 2440	2315158	Java	luigi_gelato	
-2439	3358168	Go	A.U.	
 2438	1500515	C#	eulerscheZahl	
 2435	3235897	Java	Zylo	
 2433	3457031	C++	YurkovAS	
@@ -47,6 +47,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3395,time=2021-01-20 05:13:11
 2416	2923506	C++	darkhorse64	
 2415	218189	Java	[CG]Maxime	
 2410	4084190	Python3	kaerimf	
+2410	2841078	C#	arudoy	
 2406	1169499	C++	naab	
 2406	1457162	C++	JFB	
 2404	1835525	C#	nwendel	
@@ -58,7 +59,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3395,time=2021-01-20 05:13:11
 2397	155774	PHP	dwarfie	
 2396	1880319	C++	WildSmilodon	
 2394	1106450	C++	RiSuS	
-2393	2841078	C#	arudoy	
 2390	1178276	Java	Jerome_95	
 2389	154806	Python3	piwai	
 2389	1883670	Rust	radekmie	
@@ -831,6 +831,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3395,time=2021-01-20 05:13:11
 1799	880353	Python3	zasmu	
 1799	2351282	C++	TrebledJ	
 1798	629371	C#	BALEK	
+1798	4078086	Java	Peperi	
 1797	1525620	C++	DavidAmer	
 1797	1527023	C++	DAmer	
 1797	154354	C++	Fougere	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=3395,time=2021-01-20 05:13:11
 1771	1254152	Java	Grungle	
 1771	1145122	Java	Turturul	
 1771	593574	Java	mister0	
-1771	1031157	Java	dario_pedro	
