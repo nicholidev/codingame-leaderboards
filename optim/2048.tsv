@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=451,time=2021-01-21 04:57:39
+Score	UserID	Lang	Pseudo	#optim,count=453,time=2021-01-23 06:13:03
 62564496	2288263	Rust	dbdr	
 59353464	3457031	C++	YurkovAS	
 59353440	3354337	C++	Westicles	
@@ -34,6 +34,7 @@ Score	UserID	Lang	Pseudo	#optim,count=451,time=2021-01-21 04:57:39
 13516584	2451652	Java	code_of_the_dead	
 13472608	893541	Java	wala	
 12046356	3564009	Lua	Waffle3z	
+11486744	2837654	C++	R2B2	
 10989500	1630890	Java	Wld	
 10745408	3839774	Rust	gurvan_lullien	
 10404892	3173494	Java	WKDE	
@@ -50,12 +51,13 @@ Score	UserID	Lang	Pseudo	#optim,count=451,time=2021-01-21 04:57:39
 4966560	1162014	Java	Bojan	
 4734880	4081634	Java	Wontonimo	
 4731152	3738782	C#	Inaniwa	
-4723452	2837654	C++	R2B2	
 4658788	3165536	C++	barbora	
 4551296	2258829	C#	Hiker	
 4049156	4027292	C#	rmait	
 4003632	1807733	Python3	NoZ-	
 3825460	1854246	C++	Counterbalance	
+3455812	4120837	C++	philipplenk	
+3379696	2340294	C	deviluc	
 3321368	416894	C++	MeDev	
 3237600	1693448	C	KoenduBuf	
 3094748	1489865	C++	EricSMSO	
@@ -87,11 +89,11 @@ Score	UserID	Lang	Pseudo	#optim,count=451,time=2021-01-21 04:57:39
 435988	273004	Python3	ptitrex	
 404300	199887	C#	sanpas83	
 403532	4026208	Java	alf38	
-400632	2340294	Python3	deviluc	
-393512	2172874	Rust	Med1ane	
+398076	2172874	Rust	Med1ane	
 387012	2785892	Python3	levbor	
 381420	1427078	C++	ToshiTuringMachine	
 377016	3433089	Java	liam670	
+374168	765200	Rust	FrancoisB	
 371360	2255945	C++	PoppyTrail	
 357444	3008857	Python3	timoru	
 334272	969500	Python3	AnasShami	
@@ -122,7 +124,6 @@ Score	UserID	Lang	Pseudo	#optim,count=451,time=2021-01-21 04:57:39
 97496	2557034	Python3	IAmAButterfly	
 93812	4039884	C++	mzbear	
 93356	862919	C++	Astrobytes	
-92892	765200	Rust	FrancoisB	
 90644	3522047	TypeScript	asgeirr	
 87920	3606971	Javascript	LordVonAdel	
 86544	4086233	Python3	qwertz73355a	
@@ -263,6 +264,7 @@ Score	UserID	Lang	Pseudo	#optim,count=451,time=2021-01-21 04:57:39
 29292	2045078	C#	Sharaks	
 28932	1740037	Scala	ereiam	
 28884	4105985	Python3	iLaziKx	
+28556	4038761	Python3	Leirn	
 28532	3731429	Python3	Flapflapfoo	
 28336	4081488	Ruby	meerumschlungen	
 28108	4105636	Perl	MatrixFailure	
@@ -277,7 +279,6 @@ Score	UserID	Lang	Pseudo	#optim,count=451,time=2021-01-21 04:57:39
 26516	4063573	Python3	Kaitakuchi2077	
 26512	1195856	Java	daifei4321	
 26480	4059753	Javascript	1ez	
-26340	4120837	C++	philipplenk	
 26284	4097119	Python3	CasualPotato	
 25860	4105209	Java	AI_says_hi	
 25792	1782559	C	ribensan	
@@ -439,12 +440,13 @@ Score	UserID	Lang	Pseudo	#optim,count=451,time=2021-01-21 04:57:39
 344	4112335	Javascript	Yupq	
 344	2539258	C++	votec	
 344	1341046	TypeScript	jhiben	
-344	3886933	C#	WayneStatic	
+344	3886933	C#	WayneStaticc	
 344	3885301	C++	TuringAI	
 344	4093038	Go	coco8887777yggfty	
 344	4122071	C++	JacobeeQ	
 344	231975	C#	Remoh69	
 344	1767224	Javascript	Dagonin	
+344	1132439	C#	kaiZer_Dragomir	
 300	4094683	Python3	Loes	
 300	275626	Javascript	GreyMoon	
 252	1931701	Java	anis.ktari	

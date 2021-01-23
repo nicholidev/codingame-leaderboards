@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=903,time=2021-01-21 04:57:42
+Score	UserID	Lang	Pseudo	#optim,count=904,time=2021-01-23 06:13:04
 11902	2288263	Rust	dbdr	
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
@@ -108,6 +108,7 @@ Score	UserID	Lang	Pseudo	#optim,count=903,time=2021-01-21 04:57:42
 8405	828239	C#	[SG]Bisou	
 8400	1480501	C++	DaFish	
 8357	2463909	Go	ckobayashi	
+8321	1968855	Python3	ThePurificator	
 8313	524638	C++	miklla	
 8307	425462	Java	Azt-yur	
 8306	1880319	C++	WildSmilodon	
@@ -117,7 +118,6 @@ Score	UserID	Lang	Pseudo	#optim,count=903,time=2021-01-21 04:57:42
 8228	1818159	C++	JRFerguson	
 8199	403748	C#	[CG]SaiksyApo	
 8128	1342741	C++	ltDan	
-8046	1968855	Python3	ThePurificator	
 8038	1477622	C#	zrdon	
 7987	1443538	Java	Gevater_Tod4711	
 7948	1845617	C++	Shingyx	
@@ -451,6 +451,7 @@ Score	UserID	Lang	Pseudo	#optim,count=903,time=2021-01-21 04:57:42
 2089	3154694	Python3	TheAristos	
 2082	1140677	C++	Crog	
 2076	1393802	Python3	a.mezhenin	
+2067	3406987	Python3	Radu_Sav	
 2046	1505665	Python3	NicolasGrosjean	
 2027	1017817	C#	Becha	
 2009	3416204	Java	paquemick	
@@ -526,6 +527,7 @@ Score	UserID	Lang	Pseudo	#optim,count=903,time=2021-01-21 04:57:42
 1375	4115282	Java	Deferlis	
 1374	1835014	C	Frits	
 1367	2200765	Java	davgast	
+1356	4072753	C++	mdstoy	
 1349	2879143	Python3	Rodeuse1	
 1316	2984118	Java	aplq	
 1293	2642273	Python3	Pluk	
@@ -551,7 +553,6 @@ Score	UserID	Lang	Pseudo	#optim,count=903,time=2021-01-21 04:57:42
 1154	484031	PHP	LeSSeR	
 1151	1342663	C++	JeromeFavrou	
 1149	1664528	Python3	intervlan	
-1144	4072753	C++	mdstoy	
 1140	3657937	Python3	elderlybeginner	
 1138	2890710	Java	The_Xperience	
 1138	2255187	PHP	rom_02	
