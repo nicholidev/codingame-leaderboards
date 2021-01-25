@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=4249,time=2021-01-24 02:42:57
+Score	UserID	Lang	Pseudo	#optim,count=4252,time=2021-01-25 05:33:12
 2759	1301401	C#	Stanax	
 2761	1833680	C++	jvivenot	
 2765	2288263	Rust	dbdr	
@@ -19,12 +19,12 @@ Score	UserID	Lang	Pseudo	#optim,count=4249,time=2021-01-24 02:42:57
 3108	1307473	C++	Evgenykz	
 3131	1629259	C#	Marchete	
 3158	735910	C++	Agade	
+3164	2522090	C#	MSmits	
 3172	1001096	C#	MyIIone	
 3183	820000	C++	ValGrowth	
 3189	805067	Javascript	Magus	
 3195	3545248	Kotlin	amkad	
 3207	841085	C#	Risen	
-3210	2522090	C#	MSmits	
 3221	403748	C#	[CG]SaiksyApo	
 3236	3845610	Python3	pardouin	
 3238	1477749	C++	Shadeke	
@@ -75,6 +75,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4249,time=2021-01-24 02:42:57
 3577	1121543	Scala	Aube	
 3612	887560	Java	stok	
 3613	536400	C++	Atmel	
+3616	2025868	C++	sumoru	
 3621	518889	C++	athin	
 3630	1077559	Java	PhOeNyX	
 3636	2492576	Python3	nehok	
@@ -89,6 +90,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4249,time=2021-01-24 02:42:57
 3656	225811	Ruby	Inferno285	
 3659	938374	C#	UnmanagedCode	
 3671	1675720	C#	AxFab	
+3675	2829386	C++	Shaq76	
 3680	507383	C#	Vadasz	
 3684	351062	Java	Neumann	
 3696	858602	C++	Suigetsusake	
@@ -115,7 +117,6 @@ Score	UserID	Lang	Pseudo	#optim,count=4249,time=2021-01-24 02:42:57
 3714	3918583	Java	mikmak	
 3719	942810	C++	Xtophe	
 3725	3564009	Lua	Waffle3z	
-3726	2829386	C++	Shaq76	
 3732	201919	C++	LouJo	
 3733	545951	C++	AntonT	
 3734	197601	Python3	LetMeUseYourKeyboard	
@@ -147,7 +148,6 @@ Score	UserID	Lang	Pseudo	#optim,count=4249,time=2021-01-24 02:42:57
 3853	264258	Python3	MrFlibble	
 3858	1704708	Python3	valcodi	
 3861	2266968	Python3	Steve2072	
-3863	2025868	C++	sumoru	
 3865	209439	Python3	D4yBr3ak	
 3868	2785892	Python3	levbor	
 3869	2605855	Python3	logiqub	
@@ -499,7 +499,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4249,time=2021-01-24 02:42:57
 5567	236685	Java	Palawan	
 5569	1925452	C++	Cyriax	
 5580	1684030	Rust	Mator	
-5583	4156437	Python3	scarleta	
+5583	4156437	Python3	komiamiko	
 5586	1078288	Haskell	d6r27-h59p	
 5588	153057	PHP	PierralF	
 5591	2638940	Python3	Pergunta2	
@@ -588,6 +588,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4249,time=2021-01-24 02:42:57
 5739	1232188	Python3	Sylven	
 5743	2928146	PHP	LolCat	
 5743	4090664	Kotlin	sikr_	
+5743	1549145	C++	Mealc	
 5746	2067176	Javascript	0bug	
 5748	1640896	Python3	MikeCorp	
 5751	2158902	Scala	Snowbart	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=4249,time=2021-01-24 02:42:57
 5918	2833929	Python3	Pierre_C	
 5919	844863	Java	Magnasilvar	
 5920	4120837	C++	philipplenk	
-5921	3940156	Java	VaidaLaganeckiene	
