@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=260,time=2021-01-27 02:30:51
+Score	UserID	Lang	Pseudo	#optim,count=261,time=2021-01-28 02:42:16
 174652	3354337	Scala	Westicles	
 167588	1530051	C++	UlYoP	
 165192	2968035	C++	DomiKo	
@@ -14,8 +14,8 @@ Score	UserID	Lang	Pseudo	#optim,count=260,time=2021-01-27 02:30:51
 128510	1378958	C#	Illedan	
 118483	3457031	C++	YurkovAS	
 116591	1201796	Java	P.Greze	
+115185	1399382	C#	Regulus136	
 113915	2923506	C++	darkhorse64	
-113803	1399382	C#	Regulus136	
 113126	3533119	Python3	wlesavo	
 110747	580424	C++	siman	
 102666	509738	C++	Konrad_Wer	
@@ -23,9 +23,9 @@ Score	UserID	Lang	Pseudo	#optim,count=260,time=2021-01-27 02:30:51
 95691	3487645	Javascript	hypers	
 93727	862919	C++	Astrobytes	
 92378	1854246	C++	Counterbalance	
+91262	3918583	Rust	mikmak	
 88926	3985088	Java	tiagocuervo	
 87682	1449433	C++	Rolf	
-87552	3918583	Rust	mikmak	
 86076	3717149	C++	Jef808	
 83128	2254195	Javascript	BrunoFelthes	
 77128	1752303	C++	murrayr	
@@ -211,6 +211,7 @@ Score	UserID	Lang	Pseudo	#optim,count=260,time=2021-01-27 02:30:51
 9004	2532837	Python3	fauresebast	
 9004	1393802	Python3	a.mezhenin	
 9004	3737269	Python3	htprogras	
+9004	3792309	C++	fpringle	
 8966	3276670	Java	yngknw	
 8948	2414853	Python3	StephaneLaveau	
 8938	3803352	C++	Tooltip	

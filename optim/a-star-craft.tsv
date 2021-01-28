@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=905,time=2021-01-27 02:30:49
+Score	UserID	Lang	Pseudo	#optim,count=906,time=2021-01-28 02:42:15
 11902	2288263	Rust	dbdr	
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
@@ -108,7 +108,7 @@ Score	UserID	Lang	Pseudo	#optim,count=905,time=2021-01-27 02:30:49
 8405	828239	C#	[SG]Bisou	
 8400	1480501	C++	DaFish	
 8357	2463909	Go	ckobayashi	
-8321	1968855	Python3	ThePurificator	
+8326	1968855	Python3	ThePurificator	
 8313	524638	C++	miklla	
 8307	425462	Java	Azt-yur	
 8306	1880319	C++	WildSmilodon	
@@ -421,6 +421,7 @@ Score	UserID	Lang	Pseudo	#optim,count=905,time=2021-01-27 02:30:49
 2386	154935	Scala	yamo	
 2381	1528274	Ruby	BlanCap	
 2378	990569	C++	Srkr	
+2372	4072753	C++	mdstoy	
 2358	3778409	Kotlin	l_o_g_a_n	
 2339	650661	Ruby	Syro	
 2326	4039884	C++	mzbear	
@@ -527,7 +528,6 @@ Score	UserID	Lang	Pseudo	#optim,count=905,time=2021-01-27 02:30:49
 1375	4115282	Java	Deferlis	
 1374	1835014	C	Frits	
 1367	2200765	Java	davgast	
-1356	4072753	C++	mdstoy	
 1349	2879143	Python3	Rodeuse1	
 1316	2984118	Java	aplq	
 1293	2642273	Python3	Pluk	
@@ -812,6 +812,7 @@ Score	UserID	Lang	Pseudo	#optim,count=905,time=2021-01-27 02:30:49
 1045	1346262	Python3	ggnel	
 1045	4038761	Python3	Leirn	
 1045	3640682	Rust	qqSmile	
+1045	951799	Python3	danimano	
 1041	1074744	Java	GwenGlSoft	
 1039	1129000	Python3	ChairmanOfTheBored	
 1033	1243354	C++	RSBat	
