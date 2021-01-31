@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=460,time=2021-01-30 02:44:12
+Score	UserID	Lang	Pseudo	#optim,count=460,time=2021-01-31 02:41:33
 62564496	2288263	Rust	dbdr	
 59353464	3457031	C++	YurkovAS	
 59353440	3354337	C++	Westicles	
@@ -17,6 +17,7 @@ Score	UserID	Lang	Pseudo	#optim,count=460,time=2021-01-30 02:44:12
 27075256	820000	C++	ValGrowth	
 26616720	2786666	C++	TetraktysPhi	
 24748316	3337117	Rust	timbersson	
+24258184	765200	Rust	FrancoisB	
 23960660	2924895	C	trictrac	
 22956492	1399382	C++	Regulus136	
 22337992	2923506	C++	darkhorse64	
@@ -24,7 +25,6 @@ Score	UserID	Lang	Pseudo	#optim,count=460,time=2021-01-30 02:44:12
 21068732	1050421	Java	geppoz	
 19127616	1549145	C++	Mealc	
 18704804	3136787	C++	jacek	
-18643808	765200	Rust	FrancoisB	
 17311156	3918583	Rust	mikmak	
 16925948	3647844	C++	rc95401	
 16666956	490588	Python3	Uljahn	
@@ -137,12 +137,12 @@ Score	UserID	Lang	Pseudo	#optim,count=460,time=2021-01-30 02:44:12
 79660	3496153	Python3	lndshs	
 79044	1740237	Python3	OlegKornelsen	
 78364	2709791	Python3	YOMar	
+77068	3792309	C++	fpringle	
 76616	948764	Python3	Katie	
 74988	4111058	Perl	Perlorodka	
 74580	1542064	C++	Skyr83	
 74348	810629	C#	Lukey	
 71856	992329	Python3	BeeGee	
-70724	3792309	C++	fpringle	
 70600	3068678	Python3	DrSilverstone	
 69792	2635907	Javascript	lopidav	
 68904	4030968	Python3	MBucas	
@@ -152,12 +152,12 @@ Score	UserID	Lang	Pseudo	#optim,count=460,time=2021-01-30 02:44:12
 66064	304363	Javascript	chocolord	
 65944	2069141	C#	tomeko	
 65288	1703441	Java	Michelou	
+64844	3903473	Python3	Konstant	
 64212	3446921	Python3	TheOtherAKS	
 63648	4105782	C++	Koisic	
 61708	4055865	C++	hcabel	
 61700	3625469	Python3	Crimson_King	
 60256	2325449	Perl	otpv	
-60256	3903473	Python3	Konstant	
 59908	3846244	Python3	JLukeSkywalker	
 59560	4046678	Python3	N9798	
 59364	2802015	PHP	Psycholoveur	
@@ -263,10 +263,10 @@ Score	UserID	Lang	Pseudo	#optim,count=460,time=2021-01-30 02:44:12
 30560	2508635	Java	hemhel	
 30556	3883379	Python3	QuentinZimmer	
 30476	1386924	Python3	Ylec	
+30012	3574688	C++	RaulButuc	
 30008	3967220	TypeScript	ArturSkrobisz	
 29588	4111713	Python3	Averni	
 29552	2243940	Ruby	Revenge911	
-29348	3574688	C++	RaulButuc	
 29292	2045078	C#	Sharaks	
 28932	1740037	Scala	ereiam	
 28884	4105985	Python3	iLaziKx	
