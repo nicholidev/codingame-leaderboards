@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2412,time=2021-01-31 02:30:34
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2412,time=2021-02-01 02:49:42
 4	36.07	3193653	2708375	C++	karliso	
 4	32.35	2577687	2707833	C++	blasterpoard	
 4	32.01	3502867	2707285	C++	The_Duck	
@@ -794,10 +794,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2412,time=2021-01-31 02:30:
 2	22.96	950512	2707926	Python3	salim.aboubacar	
 2	22.94	1074974	2708438	C++	Ashutosh	
 2	22.92	195346	2708070	C++	antidotcb	
+2	22.92	1766181	2707808	Javascript	jantorestolsvik	
 2	22.91	153030	2707523	C++	joH	
 2	22.9	1355842	2708204	Java	slaghn	
 2	22.89	1492668	2708998	Java	MatthieuC	
-2	22.87	1766181	2707808	Javascript	jantorestolsvik	
 2	22.83	2969181	2708585	C++	maras	
 2	22.82	2586078	2709098	Java	tanuco	
 2	22.82	1282693	2708234	Java	Kuikye	
@@ -805,8 +805,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2412,time=2021-01-31 02:30:
 2	22.8	3125495	2707130	Java	Ezzou	
 2	22.79	3515315	3091615	Python3	MichalM	
 2	22.78	1613830	2707767	Java	Spasitel	
+2	22.77	3514452	2963914	Python3	Sotrosca	
 2	22.75	2662460	2708810	C#	Gamli	
-2	22.74	3514452	2963914	Python3	Sotrosca	
 2	22.73	3343665	2707688	Java	Quidome	
 2	22.72	3516116	2708920	Javascript	Smiter15	
 2	22.72	3514205	2707983	C++	fifco	
@@ -910,7 +910,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2412,time=2021-01-31 02:30:
 2	20.69	563069	2707963	Python3	Darkris	
 2	20.65	1193974	2708732	C++	ThePrivateCocktail	
 2	20.6	1830309	2707782	Python3	[CPC]Bleuzaille	
-2	20.59	1580598	2707375	Python3	syveqc	
 2	20.56	2155916	2707299	C++	KingOfTomer	
 2	20.55	1512458	2708220	C	Kralkon	
 2	20.54	3511780	2709188	Python3	G4sterop0d	
@@ -926,6 +925,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2412,time=2021-01-31 02:30:
 2	20.46	2937669	2708196	C++	Nyght	
 2	20.45	1854764	2708107	Python3	KeeN	
 2	20.45	1449903	2831320	Python3	AKIBA	
+2	20.42	1580598	2707375	Python3	syveqc	
 2	20.42	1657489	2707592	C#	threecourse	
 2	20.39	3523160	2707180	Java	SteveDkt	
 2	20.35	898172	2709107	Java	zelmot	
@@ -971,9 +971,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2412,time=2021-01-31 02:30:
 2	19.57	1605122	2708355	Java	GingerFan301	
 2	19.56	1681820	2708714	Python3	orendon	
 2	19.53	3696874	2735638	Python3	HuiBuh	
+2	19.52	2729055	2707968	C++	twray2	
 2	19.51	162019	3373956	Python3	YoussefEL	
 2	19.47	1981732	2707704	F#	MJS	
-2	19.46	2729055	2707968	C++	twray2	
 2	19.43	3477004	2708627	Java	Earendil06	
 2	19.43	3507118	2707635	Python3	davemus	
 2	19.4	1631651	2708833	Java	m1k4d0	
