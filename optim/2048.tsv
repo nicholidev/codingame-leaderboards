@@ -1,15 +1,15 @@
-Score	UserID	Lang	Pseudo	#optim,count=461,time=2021-02-01 02:49:50
+Score	UserID	Lang	Pseudo	#optim,count=463,time=2021-02-02 03:17:38
 62564496	2288263	Rust	dbdr	
 59353464	3457031	C++	YurkovAS	
 59353440	3354337	C++	Westicles	
 59353048	1336464	C++	magaiti	
 58727648	735487	C++	amurushkin	
+57247400	765200	Rust	FrancoisB	
 57212812	351062	C++	Neumann	
 56714844	1344487	C++	UnnamedCodinGamer	
 56679460	2311105	C++	kovi	
 56228180	1378958	C#	Illedan	
 56158848	3533119	C++	wlesavo	
-54927856	765200	Rust	FrancoisB	
 54182244	1500515	C#	eulerscheZahl	
 46719868	3348388	C++	bowwowforeach	
 44399992	1436776	C++	BrainSolver	
@@ -46,6 +46,7 @@ Score	UserID	Lang	Pseudo	#optim,count=461,time=2021-02-01 02:49:50
 8305688	1515891	Go	ndc	
 8184664	155774	C++	dwarfie	
 7365316	1314316	C++	jolindien	
+6893692	3721214	C++	jrke	
 6722180	3996809	C++	VizGhar	
 6254508	512097	C++	Stilgart	
 5518472	884874	D	Zauberer	
@@ -64,7 +65,6 @@ Score	UserID	Lang	Pseudo	#optim,count=461,time=2021-02-01 02:49:50
 3094748	1489865	C++	EricSMSO	
 2957988	3864752	Rust	MuddySneakers	
 2833088	973040	C	papyjo	
-2747996	3721214	C++	jrke	
 2602560	4119778	Scala	Kwokster	
 2450728	3626782	Java	ItsNotABug	
 2319324	4036456	Python3	JeremSwak	
@@ -172,6 +172,7 @@ Score	UserID	Lang	Pseudo	#optim,count=461,time=2021-02-01 02:49:50
 55744	1849062	Python3	AnkitAnand_12	
 55744	4065533	Javascript	GuillaumeSLD	
 55744	2762523	Python3	CM42	
+55744	4105514	Python3	FeiChong	
 55420	4105993	Java	Angeles	
 55300	3941789	Dart	LastRick	
 54884	3922731	Dart	Dartisan	
@@ -225,7 +226,6 @@ Score	UserID	Lang	Pseudo	#optim,count=461,time=2021-02-01 02:49:50
 43648	351385	Python3	fabmarcant	
 43648	958227	Python3	LantarSidonis	
 43648	2331861	Java	AranoBredero	
-43648	4105514	Python3	FeiChong	
 43468	4065637	C#	Baby1991	
 43220	1259143	C++	Bence886	
 42480	4038295	Python3	RamanShakya	
@@ -239,6 +239,7 @@ Score	UserID	Lang	Pseudo	#optim,count=461,time=2021-02-01 02:49:50
 38912	3920067	Python3	Sumbrella	
 38884	3737269	Python3	htprogras	
 38608	4058341	C++	MythosMa	
+38000	481564	VB.NET	mihei	
 37100	1835014	C	Frits	
 36476	3898994	C	SirMagic	
 35820	4104482	Python3	Hericendre	
@@ -320,6 +321,7 @@ Score	UserID	Lang	Pseudo	#optim,count=461,time=2021-02-01 02:49:50
 6520	3358232	Python3	JessR	
 6068	2175710	Python3	advq	
 5628	4036826	Javascript	Feust	
+5224	182536	C	dbo	
 5092	3881328	Kotlin	Teku_Dev	
 5092	660616	Rust	onkery	
 4948	1039948	Java	ledokubelis	
