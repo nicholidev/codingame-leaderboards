@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=463,time=2021-02-02 03:17:38
+Score	UserID	Lang	Pseudo	#optim,count=463,time=2021-02-03 02:36:35
 62564496	2288263	Rust	dbdr	
 59353464	3457031	C++	YurkovAS	
 59353440	3354337	C++	Westicles	
@@ -46,7 +46,7 @@ Score	UserID	Lang	Pseudo	#optim,count=463,time=2021-02-02 03:17:38
 8305688	1515891	Go	ndc	
 8184664	155774	C++	dwarfie	
 7365316	1314316	C++	jolindien	
-6893692	3721214	C++	jrke	
+6948964	3721214	C++	jrke	
 6722180	3996809	C++	VizGhar	
 6254508	512097	C++	Stilgart	
 5518472	884874	D	Zauberer	
@@ -118,6 +118,7 @@ Score	UserID	Lang	Pseudo	#optim,count=463,time=2021-02-02 03:17:38
 150844	3488041	Rust	KodeMonkey	
 144428	4072753	C++	mdstoy	
 136240	4142307	Python3	Editsira	
+130884	4105514	Python3	FeiChong	
 129864	1040176	Python3	BoBot	
 112488	1383054	Python3	Oxame	
 108568	2647542	Java	szatist	
@@ -172,7 +173,6 @@ Score	UserID	Lang	Pseudo	#optim,count=463,time=2021-02-02 03:17:38
 55744	1849062	Python3	AnkitAnand_12	
 55744	4065533	Javascript	GuillaumeSLD	
 55744	2762523	Python3	CM42	
-55744	4105514	Python3	FeiChong	
 55420	4105993	Java	Angeles	
 55300	3941789	Dart	LastRick	
 54884	3922731	Dart	Dartisan	
