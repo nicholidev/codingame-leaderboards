@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=463,time=2021-02-03 02:36:35
+Score	UserID	Lang	Pseudo	#optim,count=464,time=2021-02-04 04:50:45
 62564496	2288263	Rust	dbdr	
 59353464	3457031	C++	YurkovAS	
 59353440	3354337	C++	Westicles	
@@ -39,14 +39,15 @@ Score	UserID	Lang	Pseudo	#optim,count=463,time=2021-02-03 02:36:35
 10989500	1630890	Java	Wld	
 10745408	3839774	Rust	gurvan_lullien	
 10404892	3173494	Java	WKDE	
+9607648	416894	C++	MeDev	
 9282440	3305510	PHP	TBali	
 8844524	4119186	C#	Rxelux	
 8607268	3898813	C++	3ifndef	
 8494736	311035	Go	leojean890	
 8305688	1515891	Go	ndc	
 8184664	155774	C++	dwarfie	
+7551380	3721214	C++	jrke	
 7365316	1314316	C++	jolindien	
-6948964	3721214	C++	jrke	
 6722180	3996809	C++	VizGhar	
 6254508	512097	C++	Stilgart	
 5518472	884874	D	Zauberer	
@@ -60,7 +61,6 @@ Score	UserID	Lang	Pseudo	#optim,count=463,time=2021-02-03 02:36:35
 3825460	1854246	C++	Counterbalance	
 3455812	4120837	C++	philipplenk	
 3379696	2340294	C	deviluc	
-3321368	416894	C++	MeDev	
 3237600	1693448	C	KoenduBuf	
 3094748	1489865	C++	EricSMSO	
 2957988	3864752	Rust	MuddySneakers	
@@ -85,11 +85,13 @@ Score	UserID	Lang	Pseudo	#optim,count=463,time=2021-02-03 02:36:35
 894468	3812486	Javascript	gitKad	
 807660	1029663	C	Skreamly	
 725440	3842838	TypeScript	Streusel	
+718036	4105514	Python3	FeiChong	
 675240	1566335	Java	BeardedWhale	
 643904	1452327	Rust	solmir	
 618600	2438514	C++	davi_bart	
 538536	1309948	C++	Runner87	
 435988	273004	Python3	ptitrex	
+415156	182536	C	dbo	
 404300	199887	C#	sanpas83	
 403532	4026208	Java	alf38	
 398076	2172874	Rust	Med1ane	
@@ -104,6 +106,7 @@ Score	UserID	Lang	Pseudo	#optim,count=463,time=2021-02-03 02:36:35
 295132	3815413	Swift	Michael_Howard	
 287992	508460	C++	Volia	
 285004	4016170	C	GMCG	
+276084	4142307	Python3	Editsira	
 257252	2437570	Python3	LordAchillus	
 250352	3942793	Java	The_Auditor	
 247104	4097008	Python3	petru4io	
@@ -117,8 +120,6 @@ Score	UserID	Lang	Pseudo	#optim,count=463,time=2021-02-03 02:36:35
 152796	4045442	Python3	slapslash	
 150844	3488041	Rust	KodeMonkey	
 144428	4072753	C++	mdstoy	
-136240	4142307	Python3	Editsira	
-130884	4105514	Python3	FeiChong	
 129864	1040176	Python3	BoBot	
 112488	1383054	Python3	Oxame	
 108568	2647542	Java	szatist	
@@ -288,6 +289,7 @@ Score	UserID	Lang	Pseudo	#optim,count=463,time=2021-02-03 02:36:35
 26512	1195856	Java	daifei4321	
 26480	4059753	Javascript	1ez	
 26284	4097119	Python3	CasualPotato	
+26024	888898	C++	helgui	
 25860	4105209	Java	AI_says_hi	
 25792	1782559	C	ribensan	
 25488	3774010	Python3	Presac	
@@ -321,7 +323,6 @@ Score	UserID	Lang	Pseudo	#optim,count=463,time=2021-02-03 02:36:35
 6520	3358232	Python3	JessR	
 6068	2175710	Python3	advq	
 5628	4036826	Javascript	Feust	
-5224	182536	C	dbo	
 5092	3881328	Kotlin	Teku_Dev	
 5092	660616	Rust	onkery	
 4948	1039948	Java	ledokubelis	
