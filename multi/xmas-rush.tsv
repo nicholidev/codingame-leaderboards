@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=545,time=2021-02-09 02:30:17
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=546,time=2021-02-10 02:30:24
 5	33.76	2725066	2311007	C#	Cize	
 5	32.2	1314316	2223882	C++	jolindien	
 5	32.12	854952	2245515	C++	dolmen1234	
@@ -479,14 +479,14 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=545,time=2021-02-09 02:30:1
 1	-11.07	1838289	2305757	C++	Dagal	
 0	17.04	4018345	3351909	Java	Shahrzad	
 0	15.99	2746799	2338980	Haskell	eal	
+0	15.2	4133724	3410712	Javascript	KsandrKj	
 0	15.13	1743344	2495256	Javascript	ush189	
-0	14.9	4133724	3410712	Javascript	KsandrKj	
+0	14.49	2572485	2203839	Ruby	DGynn	
 0	14.47	2613192	2897148	C++	sigus	
-0	14.36	2572485	2203839	Ruby	DGynn	
 0	14.22	3248689	2308305	C++	Sujet	
 0	14.17	1412140	2203111	C++	CyrilMtl	
 0	14.15	1209562	2226051	C++	JohnnyYuge	
-0	13.44	3353015	2847691	Python3	Salted	
+0	14	3353015	2847691	Python3	Salted	
 0	13.38	1214705	3347225	Python3	AndyJohnson	
 0	13.34	3620387	2633818	Python3	mdaw323	
 0	13.05	2128042	3109147	Python3	johny22	
@@ -498,10 +498,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=545,time=2021-02-09 02:30:1
 0	12.67	4029033	3151293	C++	3DPerson	
 0	12.65	1348621	2219987	C	sephi	
 0	12.13	1491995	2418275	C#	Tyir	
-0	11.63	2353603	3315981	Pascal	MrSok	
+0	11.98	2353603	3315981	Pascal	MrSok	
 0	10.95	2202771	2349808	Java	Kaplone	
 0	10.77	957334	2194706	Java	Dam	
-0	10.26	1374052	2195121	Java	Pesegato	
+0	10.37	1374052	2195121	Java	Pesegato	
 0	9.26	2455573	3422265	C++	LSMUG_test	
 0	8.8	3657204	3390182	Javascript	mdaraujo	
 0	8.12	4170226	3416435	Python3	Shadowcoder90	
@@ -534,12 +534,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=545,time=2021-02-09 02:30:1
 0	0.79	3090217	2207693	Python	you_will_never_know	
 0	0.76	3153712	2235714	C++	MT0	
 0	0.51	3039344	2357904	C++	That_Undead_Legacy	
-0	-7.94	4086152	3328171	Bash	Hunter64TheOne	
-0	-8.3	3992618	3422262	C++	Vandenis	
+0	-0.01	4183020	3424018	C	komara3272	
+0	-7.96	4086152	3328171	Bash	Hunter64TheOne	
+0	-8.35	3992618	3422262	C++	Vandenis	
 0	-9.18	4080496	3319290	Javascript	itsyarl	
-0	-9.22	3515090	3380564	Python3	mvv	
-0	-9.39	4021153	3422263	C++	KamBal	
-0	-10.33	3473768	2483327	Java	higle	
+0	-9.27	3515090	3380564	Python3	mvv	
+0	-9.4	4021153	3422263	C++	KamBal	
+0	-10.34	3473768	2483327	Java	higle	
 0	-10.9	3090212	2207687	Python	Still_a_Piece_of_Garbage	
 0	-11.16	3721214	3042936	C++	jrke	
 0	-12.35	2181365	2206272	Kotlin	Nikolaev_Alex	
