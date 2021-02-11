@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=546,time=2021-02-10 02:30:24
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=547,time=2021-02-11 02:30:46
 5	33.76	2725066	2311007	C#	Cize	
 5	32.2	1314316	2223882	C++	jolindien	
 5	32.12	854952	2245515	C++	dolmen1234	
@@ -477,7 +477,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=546,time=2021-02-10 02:30:2
 1	-7.91	3846101	3007421	Python3	Al364371	
 1	-11.01	1388660	2233756	Javascript	Maeevick	
 1	-11.07	1838289	2305757	C++	Dagal	
-0	17.04	4018345	3351909	Java	Shahrzad	
+0	17.35	4018345	3351909	Java	Shahrzad	
 0	15.99	2746799	2338980	Haskell	eal	
 0	15.2	4133724	3410712	Javascript	KsandrKj	
 0	15.13	1743344	2495256	Javascript	ush189	
@@ -494,22 +494,23 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=546,time=2021-02-10 02:30:2
 0	12.89	1073604	2237096	C#	speedFast	
 0	12.72	1389861	2481697	Java	Evgenykz3	
 0	12.7	1990452	2262910	C#	Benoit_L	
-0	12.68	2501808	2205489	Javascript	Robles	
 0	12.67	4029033	3151293	C++	3DPerson	
 0	12.65	1348621	2219987	C	sephi	
+0	12.63	2501808	2205489	Javascript	Robles	
+0	12.41	3647844	3425706	Python3	rc95401	
 0	12.13	1491995	2418275	C#	Tyir	
 0	11.98	2353603	3315981	Pascal	MrSok	
-0	10.95	2202771	2349808	Java	Kaplone	
+0	10.91	2202771	2349808	Java	Kaplone	
 0	10.77	957334	2194706	Java	Dam	
 0	10.37	1374052	2195121	Java	Pesegato	
 0	9.26	2455573	3422265	C++	LSMUG_test	
 0	8.8	3657204	3390182	Javascript	mdaraujo	
-0	8.12	4170226	3416435	Python3	Shadowcoder90	
-0	1.66	2241559	2345579	Python3	eskeln	
-0	1.37	1631358	2203838	Python3	joelthelion	
-0	1.35	3763671	2782456	Javascript	esuguimo	
-0	1.32	4086356	3328365	C#	Lak1z	
+0	7.97	4170226	3416435	Python3	Shadowcoder90	
+0	1.64	2241559	2345579	Python3	eskeln	
+0	1.35	1631358	2203838	Python3	joelthelion	
+0	1.32	3763671	2782456	Javascript	esuguimo	
 0	1.29	999637	2225370	Python3	dinobogan	
+0	1.29	4086356	3328365	C#	Lak1z	
 0	1.28	2410235	2312724	Python3	Joe_Black	
 0	1.25	3464590	3012244	C	abbecool	
 0	1.24	1511619	3379345	Kotlin	Frenjamin.Banklin	
@@ -522,8 +523,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=546,time=2021-02-10 02:30:2
 0	1.17	2325449	3314615	Perl	otpv	
 0	1.14	1816257	2338863	Python3	Bullle	
 0	1.13	3592206	2617838	C++	fanxindiandian	
-0	1.12	2401888	2241292	Python3	RubberDuck	
 0	1.11	3332393	2459986	Java	cahii	
+0	1.11	2401888	2241292	Python3	RubberDuck	
 0	1.05	3141501	2229655	C++	elarja41	
 0	1.05	2713608	2464179	C	LostSymphony	
 0	1.03	814685	2195027	Javascript	AthosPyte	
@@ -533,14 +534,14 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=546,time=2021-02-10 02:30:2
 0	0.97	959402	2671801	C#	gmessier	
 0	0.79	3090217	2207693	Python	you_will_never_know	
 0	0.76	3153712	2235714	C++	MT0	
-0	0.51	3039344	2357904	C++	That_Undead_Legacy	
+0	0.5	3039344	2357904	C++	That_Undead_Legacy	
 0	-0.01	4183020	3424018	C	komara3272	
 0	-7.96	4086152	3328171	Bash	Hunter64TheOne	
 0	-8.35	3992618	3422262	C++	Vandenis	
 0	-9.18	4080496	3319290	Javascript	itsyarl	
 0	-9.27	3515090	3380564	Python3	mvv	
 0	-9.4	4021153	3422263	C++	KamBal	
-0	-10.34	3473768	2483327	Java	higle	
+0	-10.35	3473768	2483327	Java	higle	
 0	-10.9	3090212	2207687	Python	Still_a_Piece_of_Garbage	
 0	-11.16	3721214	3042936	C++	jrke	
 0	-12.35	2181365	2206272	Kotlin	Nikolaev_Alex	

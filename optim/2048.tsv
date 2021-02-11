@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=472,time=2021-02-10 02:30:42
+Score	UserID	Lang	Pseudo	#optim,count=472,time=2021-02-11 02:59:09
 62564496	2288263	Rust	dbdr	
 59353524	765200	Rust	FrancoisB	
 59353464	3457031	C++	YurkovAS	
@@ -69,6 +69,7 @@ Score	UserID	Lang	Pseudo	#optim,count=472,time=2021-02-10 02:30:42
 2450728	3626782	Java	ItsNotABug	
 2319324	4036456	Python3	JeremSwak	
 2253844	475740	C#	Serg	
+2209940	1861258	Rust	Nazdhun	
 2124388	2012662	Python3	Natalka1122	
 2099264	806416	Python3	awnion	
 2013220	1720605	Rust	carlicolosse	
@@ -99,10 +100,10 @@ Score	UserID	Lang	Pseudo	#optim,count=472,time=2021-02-10 02:30:42
 398076	2172874	Rust	Med1ane	
 387012	2785892	Python3	levbor	
 381420	1427078	C++	ToshiTuringMachine	
+379232	952784	C++	[CG]Simon	
 377016	3433089	Java	liam670	
 371360	2255945	C++	PoppyTrail	
 357444	3008857	Python3	timoru	
-350432	1861258	Rust	Nazdhun	
 334272	969500	Python3	AnasShami	
 305628	792813	Python3	VilBoub	
 299136	3700430	C++	Sandivar	
@@ -113,6 +114,7 @@ Score	UserID	Lang	Pseudo	#optim,count=472,time=2021-02-10 02:30:42
 257252	2437570	Python3	LordAchillus	
 250352	3942793	Java	The_Auditor	
 247104	4097008	Python3	petru4io	
+222224	3428333	Python3	pavel.jesenski	
 220520	3235897	Java	Zylo	
 219832	1966315	C#	ArtemAraptanov	
 192100	1802967	Python3	Meruem	
@@ -210,7 +212,6 @@ Score	UserID	Lang	Pseudo	#optim,count=472,time=2021-02-10 02:30:42
 49232	3290897	Python3	FlaMe	
 49232	3979353	Java	MrGG	
 49232	1485015	C++	Murky	
-49232	3428333	Python3	pavel.jesenski	
 49100	2708267	Javascript	XyoloJR	
 48868	4085148	Javascript	oppos	
 48636	3115713	C	faneyer	
@@ -232,6 +233,7 @@ Score	UserID	Lang	Pseudo	#optim,count=472,time=2021-02-10 02:30:42
 43648	351385	Python3	fabmarcant	
 43648	958227	Python3	LantarSidonis	
 43648	2331861	Java	AranoBredero	
+43508	481564	VB.NET	mihei	
 43468	4065637	C#	Baby1991	
 43220	1259143	C++	Bence886	
 42480	4038295	Python3	RamanShakya	
@@ -246,7 +248,6 @@ Score	UserID	Lang	Pseudo	#optim,count=472,time=2021-02-10 02:30:42
 38884	3737269	Python3	htprogras	
 38608	4058341	C++	MythosMa	
 38360	888898	C++	helgui	
-38000	481564	VB.NET	mihei	
 37100	1835014	C	Frits	
 36476	3898994	C	SirMagic	
 35820	4104482	Python3	Hericendre	
@@ -267,7 +268,6 @@ Score	UserID	Lang	Pseudo	#optim,count=472,time=2021-02-10 02:30:42
 31060	153957	Javascript	JeremyV	
 30760	4099191	Python3	kazzou	
 30652	2064637	Java	java_coffee_cup	
-30576	952784	Java	[CG]Simon	
 30564	4066824	Javascript	Thannajo	
 30560	2508635	Java	hemhel	
 30556	3883379	Python3	QuentinZimmer	
