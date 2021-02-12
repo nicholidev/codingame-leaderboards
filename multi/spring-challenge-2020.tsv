@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5771,time=2021-02-11 02:59:01
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5779,time=2021-02-12 02:35:41
 5	33.11	3193653	3004019	C++	karliso	
 5	31.27	880353	2975979	C++	zasmu	
 5	31.17	1082988	2982332	C++	Saelyos	
@@ -724,8 +724,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5771,time=2021-02-11 02:59:
 3	24.84	1453934	2978314	C++	Rety	
 3	24.79	1549145	2976014	C++	Mealc	
 3	24.76	3563633	2980017	Javascript	p1100i	
+3	24.75	1178251	2977875	Java	Briag	
 3	24.72	1529396	2976805	Python3	ulukai	
-3	24.68	1178251	2977875	Java	Briag	
 3	24.68	1415488	2978246	Javascript	alinde2	
 3	24.65	3750754	2979906	Python3	lukasg	
 3	24.61	1066745	2980030	Java	DepartmentOfRedundancy	
@@ -854,7 +854,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5771,time=2021-02-11 02:59:
 3	23.15	3380514	2976519	Java	DFrese	
 3	23.15	1373231	2980233	Python3	shypiguy	
 3	23.14	2453008	3016804	Python3	Crypticsy	
-3	23.14	2675308	2977204	Javascript	vkochev	
 3	23.12	996279	2978733	C++	BOBKA	
 3	23.11	3502478	2977759	Kotlin	tachan	
 3	23.11	3811032	2976467	Go	LadislavZigo	
@@ -868,6 +867,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5771,time=2021-02-11 02:59:
 3	23.07	3805081	2979229	Python3	ai_rice	
 3	23.07	3821637	2976715	C	Ace310K	
 3	23.05	3511049	2976652	C++	Nacho_Vigi	
+3	23.05	2675308	2977204	Javascript	vkochev	
 3	23.04	1539245	2979830	Java	Riduidel	
 3	23.04	1687809	2995372	Java	egoprince	
 3	23.02	3564365	2976520	C#	lIAnkIl	
