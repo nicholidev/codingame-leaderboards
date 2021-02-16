@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1266,time=2021-02-13 02:55:06
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1266,time=2021-02-16 02:30:19
 6	28.96	2577687	2058383	C++	blasterpoard	
 6	28.61	735910	2058382	C++	Agade	
 6	28.56	1378958	3103936	C#	Illedan	
@@ -425,7 +425,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1266,time=2021-02-13 02:55:
 4	13.85	2474883	3129647	Python3	lakeoverflow	
 4	13.85	3640862	3141412	Python3	nopnop	
 4	13.85	1651613	3040624	Go	ford	
-4	13.74	3725891	3101223	C++	LittleEndian	
+4	13.74	3725891	3101223	C++	Dynamism	
 4	13.72	225875	3118079	C#	leff	
 4	13.62	2457382	3021295	C++	Dast	
 4	13.58	1428084	3018108	Dart	Mixolyde	
@@ -919,7 +919,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1266,time=2021-02-13 02:55:
 1	6.62	3326048	2464752	Javascript	urbanL1fe	
 1	6.59	3691491	3152130	Javascript	icecream17	
 1	6.55	2225951	2150884	Python3	Tomate	
-1	6.4	3819030	3382368	Python3	PaSa	
+1	6.4	3819030	3382368	Python3	S4A3K	
 1	6.22	2662675	2475475	Python3	redline	
 1	6.15	2391592	3094500	Python3	Sigurdurhelga	
 1	5.96	2138222	2477963	Python3	Louis-Gabriel	
@@ -952,24 +952,24 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1266,time=2021-02-13 02:55:
 0	15.42	3975833	3098743	Python3	wpalach	
 0	15.32	858094	3155860	Go	david.aparicio	
 0	14.74	3435738	2475501	C#	Resiakedrom	
-0	14.46	4029650	3424924	Python3	Amomo	
-0	14.28	3973055	3095275	Python3	ilaniam	
+0	14.44	3973055	3095275	Python3	ilaniam	
+0	14.21	4029650	3424924	Python3	Amomo	
 0	13.97	1825085	2335842	Python3	Val	
 0	13.95	3703918	2841806	C#	inuyasha	
 0	13.92	3967869	3095684	Python3	aymsthz	
-0	13.72	3465969	3108374	C#	ALCAA	
+0	13.73	3633770	2690890	C++	wdnmd	
 0	13.65	1045710	2077414	Javascript	KPricorn	
-0	13.62	3633770	2690890	C++	wdnmd	
+0	13.65	3465969	3108374	C#	ALCAA	
 0	13.43	2897325	2580681	C#	CAEZAR	
 0	13.38	3801548	3095151	Python3	Lucas_steez	
 0	13.35	839879	1956007	C#	Washier	
 0	13.27	2472606	3001808	C#	MehdiTouil	
 0	13.27	3379036	3095511	Python3	Aktasos	
+0	13.16	3970641	3095705	C++	AnonMouse	
 0	13.15	3608490	2632435	Java	robkruger	
 0	13.15	3739527	3417540	C++	Sofapuden	
 0	13.05	2532806	1953524	Python3	8BitToaster	
 0	13.04	3580156	3384146	Python3	SeraphWeddUltimate	
-0	13.03	3970641	3095705	C++	AnonMouse	
 0	12.99	2221374	1960021	Java	philouche	
 0	12.98	3968113	3094043	Python3	RaDBR33Z3	
 0	12.98	658246	3158627	Swift	leon44	
@@ -986,16 +986,16 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1266,time=2021-02-13 02:55:
 0	12.53	3970776	3099194	Python3	SPARROT	
 0	12.52	3938134	3072480	C#	mapey10811	
 0	12.51	846316	3092796	C++	Tzupy	
-0	12.5	3478377	2591351	C	Ironsolaris	
 0	12.49	2725992	1950473	C#	T0xXI	
 0	12.49	2494746	2048202	Python3	jeanDeveloper	
 0	12.43	3969599	3094159	Python3	FluidWizard	
+0	12.34	3478377	2591351	C	Ironsolaris	
 0	12.07	1815756	2430003	C++	Addict	
 0	11.95	4008476	3414447	C#	ArteXa	
 0	11.95	2729630	2071698	C++	Halphas	
-0	11.89	2802049	2618271	Javascript	QuixoticColette	
+0	11.92	2802049	2618271	Javascript	QuixoticColette	
 0	11.84	3314492	2332798	C++	__Caveman__	
-0	11.78	1385455	2672957	Python3	Beelphegor	
 0	11.77	1346559	1973151	C#	MarioJeronimo	
-0	11.77	3970081	3092863	Python3	shad0wcrawl3r	
 0	11.73	571264	3338748	Javascript	Jikardo	
+0	11.73	1385455	2672957	Python3	Beelphegor	
+0	11.67	3970081	3092863	Python3	shad0wcrawl3r	
