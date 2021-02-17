@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3452,time=2021-02-16 02:47:17
+Score	UserID	Lang	Pseudo	#optim,count=3454,time=2021-02-17 02:32:15
 2509	1327028	C++	FredericBautista	
 2507	154372	Bash	Plopx	
 2504	1249786	C#	Fededevi	
@@ -40,6 +40,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3452,time=2021-02-16 02:47:17
 2435	3235897	Java	Zylo	
 2433	3457031	C++	YurkovAS	
 2429	557990	C++	Wazemo	
+2425	3918583	Rust	mikmak	
 2423	806157	Python3	Aveuh	
 2422	1244576	Java	PauloVilela	
 2419	153937	Python3	oook	
@@ -99,6 +100,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3452,time=2021-02-16 02:47:17
 2346	3789595	C++	jgmp	
 2345	1071140	C#	BeberLeNewbie	
 2344	1876212	C++	PFischbeck	
+2343	1883740	C++	kermo	
 2340	973040	C	papyjo	
 2340	837350	Go	BorisZ	
 2339	2242201	C++	Maryan	
@@ -122,7 +124,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3452,time=2021-02-16 02:47:17
 2309	403748	C#	[CG]SaiksyApo	
 2308	2200625	C++	NolanD	
 2308	992329	C++	BeeGee	
-2307	1883740	C++	kermo	
 2306	1501735	Python3	bernardlavilliers	
 2305	2651240	Java	[MPST]Donset	
 2301	1854731	C#	Solringen	
@@ -194,7 +195,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3452,time=2021-02-16 02:47:17
 2225	3703510	C++	TheStrojnik	
 2223	1005061	Ruby	drac	
 2223	3422454	C++	GDYendell	
-2223	3918583	Rust	mikmak	
 2222	964499	C#	Ghotiphud	
 2217	860239	Java	Neilura	
 2217	934744	Java	Uguzon	
@@ -794,6 +794,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3452,time=2021-02-16 02:47:17
 1825	2864451	C++	OwenJ	
 1825	4027292	C#	rmait	
 1825	4102840	Haskell	professoryana	
+1824	1307206	C++	OGMichel	
 1823	1503564	C#	tihilv	
 1823	3439872	Python3	xdcomrade	
 1822	1288865	Java	codyboto	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=3452,time=2021-02-16 02:47:17
 1771	1195031	C++	Nekto	
 1771	1236092	Java		
 1771	1119900	Java	Ryseth	
-1771	1288911	Java	Wilds85	

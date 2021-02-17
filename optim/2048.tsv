@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=475,time=2021-02-16 02:47:16
+Score	UserID	Lang	Pseudo	#optim,count=476,time=2021-02-17 02:32:14
 62564496	2288263	Rust	dbdr	
 59353524	765200	Rust	FrancoisB	
 59353464	3457031	C++	YurkovAS	
@@ -29,6 +29,7 @@ Score	UserID	Lang	Pseudo	#optim,count=475,time=2021-02-16 02:47:16
 16925948	3647844	C++	rc95401	
 16666956	490588	Python3	Uljahn	
 16652164	2968035	C++	DomiKo	
+16071444	3971358	C++	OldJohn	
 15247188	2416641	C++	Zenoscave	
 14545024	1256312	C#	Djoums	
 14072088	1732414	C++	ClosetAI	
@@ -50,12 +51,14 @@ Score	UserID	Lang	Pseudo	#optim,count=475,time=2021-02-16 02:47:16
 7551380	3721214	C++	jrke	
 7365316	1314316	C++	jolindien	
 6722180	3996809	C++	VizGhar	
+6272160	1335230	C++	jft63	
 6254508	512097	C++	Stilgart	
 5518472	884874	D	Zauberer	
 4966560	1162014	Java	Bojan	
 4734880	4081634	Java	Wontonimo	
 4731152	3738782	C#	Inaniwa	
 4658788	3165536	C++	barbora	
+4641092	952784	C++	[CG]Simon	
 4551296	2258829	C#	Hiker	
 4049156	4027292	C#	rmait	
 4003632	1807733	Python3	NoZ-	
@@ -63,7 +66,6 @@ Score	UserID	Lang	Pseudo	#optim,count=475,time=2021-02-16 02:47:16
 3455812	4120837	C++	philipplenk	
 3379696	2340294	C	deviluc	
 3237600	1693448	C	KoenduBuf	
-3220572	952784	C++	[CG]Simon	
 3094748	1489865	C++	EricSMSO	
 2957988	3864752	Rust	MuddySneakers	
 2833088	973040	C	papyjo	
@@ -80,7 +82,6 @@ Score	UserID	Lang	Pseudo	#optim,count=475,time=2021-02-16 02:47:16
 1670096	2135916	Python3	Oioi	
 1432492	2025868	C++	sumoru	
 1403092	1412263	PHP	PatrickMcGinnisII	
-1362156	3971358	C++	OldJohn	
 1348460	2802157	Python3	HKit	
 1336252	3358736	Java	BuluBulu27	
 1244252	4083537	Python3	DavidAvsajanishvili	
@@ -95,7 +96,6 @@ Score	UserID	Lang	Pseudo	#optim,count=475,time=2021-02-16 02:47:16
 618600	2438514	C++	davi_bart	
 538536	1309948	C++	Runner87	
 435988	273004	Python3	ptitrex	
-426396	1335230	Python3	jft63	
 415156	182536	C	dbo	
 404300	199887	C#	sanpas83	
 403532	4026208	Java	alf38	
@@ -341,6 +341,7 @@ Score	UserID	Lang	Pseudo	#optim,count=475,time=2021-02-16 02:47:16
 4496	1200669	Python3	houseofsuns	
 4496	250352	Javascript	Dorkside	
 4496	1128095	C++	ako68	
+4496	3742581	Python3	anonymous_otter	
 4296	3596445	Python3	Bafiko	
 4296	2729630	Python3	Halphas	
 4220	1082988	Python3	Saelyos	
