@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=476,time=2021-02-17 02:32:14
+Score	UserID	Lang	Pseudo	#optim,count=479,time=2021-02-18 02:42:34
 62564496	2288263	Rust	dbdr	
 59353524	765200	Rust	FrancoisB	
 59353464	3457031	C++	YurkovAS	
@@ -48,10 +48,10 @@ Score	UserID	Lang	Pseudo	#optim,count=476,time=2021-02-17 02:32:14
 8494736	311035	Go	leojean890	
 8305688	1515891	Go	ndc	
 8184664	155774	C++	dwarfie	
+7932432	1335230	C++	jft63	
 7551380	3721214	C++	jrke	
 7365316	1314316	C++	jolindien	
 6722180	3996809	C++	VizGhar	
-6272160	1335230	C++	jft63	
 6254508	512097	C++	Stilgart	
 5518472	884874	D	Zauberer	
 4966560	1162014	Java	Bojan	
@@ -259,6 +259,7 @@ Score	UserID	Lang	Pseudo	#optim,count=476,time=2021-02-17 02:32:14
 34768	1626913	Java	AdrienTurmo	
 34684	952540	Python3	Kloppie5	
 34152	4038158	Javascript	Aayush.Curious	
+33836	4146980	Python3	Bernathan	
 33484	1398620	C#	Kazkel	
 33136	2079953	Python3	yaya92	
 32420	3009598	Javascript	Flashantik	
@@ -277,7 +278,6 @@ Score	UserID	Lang	Pseudo	#optim,count=476,time=2021-02-17 02:32:14
 30476	1386924	Python3	Ylec	
 30012	3574688	C++	RaulButuc	
 30008	3967220	TypeScript	ArturSkrobisz	
-29784	4146980	Python3	Bernathan	
 29588	4111713	Python3	Averni	
 29552	2243940	Ruby	Revenge911	
 29292	2045078	C#	Sharaks	
@@ -288,6 +288,7 @@ Score	UserID	Lang	Pseudo	#optim,count=476,time=2021-02-17 02:32:14
 28336	4081488	Ruby	meerumschlungen	
 28108	4105636	Perl	MatrixFailure	
 28048	1932031	Python3	Tricatel	
+27888	4135188	Python3	jhewlett	
 27884	3634699	Java	Hamza.El	
 27780	3766476	C++	mhouppin	
 27708	4074861	Java	kishorecoder	
@@ -356,6 +357,7 @@ Score	UserID	Lang	Pseudo	#optim,count=476,time=2021-02-17 02:32:14
 3248	3439872	Python3	xdcomrade	
 3248	4118735	Python3	MJE10	
 3224	1334509	Python3	Kobz	
+3196	3998980	Python3	bamax	
 3140	2424439	Javascript	Acrom	
 3040	4116084	Python3	grahamcracker1234	
 2928	1470805	Python3	holger	
@@ -469,6 +471,7 @@ Score	UserID	Lang	Pseudo	#optim,count=476,time=2021-02-17 02:32:14
 344	3365734	C++	Warriorroq	
 344	2524509	Java	Justas753456	
 344	1819125	Python3	maibok	
+344	4109521	Java	Gabriel_Radtke	
 300	4094683	Python3	Loes	
 300	275626	Javascript	GreyMoon	
 300	3487406	C#	SyvachenkoMK	

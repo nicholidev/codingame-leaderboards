@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=269,time=2021-02-17 02:32:13
+Score	UserID	Lang	Pseudo	#optim,count=271,time=2021-02-18 02:42:32
 174652	3354337	Scala	Westicles	
 167588	1530051	C++	UlYoP	
 165192	2968035	C++	DomiKo	
@@ -12,7 +12,7 @@ Score	UserID	Lang	Pseudo	#optim,count=269,time=2021-02-17 02:32:13
 145638	4007648	C++	nan0S_	
 136253	2311105	C++	kovi	
 128510	1378958	C#	Illedan	
-121639	1399382	C#	Regulus136	
+121855	1399382	C#	Regulus136	
 118483	3457031	C++	YurkovAS	
 116591	1201796	Java	P.Greze	
 113915	2923506	C++	darkhorse64	
@@ -47,6 +47,7 @@ Score	UserID	Lang	Pseudo	#optim,count=269,time=2021-02-17 02:32:13
 54084	973040	C	papyjo	
 52927	1489865	C++	EricSMSO	
 52108	414278	Java	oobException	
+51362	3046779	Rust	Kathrin	
 49776	3756021	Java	TheSkolar	
 49090	3513265	C++	DaNinja	
 48890	3738782	C#	Inaniwa	
@@ -54,7 +55,6 @@ Score	UserID	Lang	Pseudo	#optim,count=269,time=2021-02-17 02:32:13
 46855	2007852	Lua	Zorg1	
 45340	1535382	Java	CrankNaz	
 45320	734401	C++	b0n5a1	
-41532	3046779	Rust	Kathrin	
 40370	894599	Javascript	DidierC	
 38584	2617115	Java	Foltergeist113	
 38528	389786	Java	menu	
@@ -173,6 +173,7 @@ Score	UserID	Lang	Pseudo	#optim,count=269,time=2021-02-17 02:32:13
 9786	3336734	Javascript	Cr0m	
 9786	888898	C++	helgui	
 9768	3846244	Python3	JLukeSkywalker	
+9738	1893989	Python3	Rosstherock	
 9734	2774479	Python3	FSellaouti	
 9728	3961074	Python3	MeisterMueller	
 9702	3985154	Python3	GodIsADJ	
@@ -185,6 +186,7 @@ Score	UserID	Lang	Pseudo	#optim,count=269,time=2021-02-17 02:32:13
 9608	3660682	Python3	Bglacial	
 9598	377054	C#	ToTopH	
 9596	962495	C++	e-boot	
+9532	1910916	C#	VivienBillot	
 9500	819858	C#	Ephis	
 9486	3486522	C++	Pea.	
 9486	3622757	C++	anid	
