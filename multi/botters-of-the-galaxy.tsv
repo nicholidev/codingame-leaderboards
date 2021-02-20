@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=911,time=2021-02-19 00:40:46
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=912,time=2021-02-20 00:30:10
 9	30.08	2489835	1769668	C#	Akarachudra	
 9	25.87	2254195	1769673	Java	BrunoFelthes	
 9	25.04	1818159	1769663	C++	JRFerguson	
@@ -415,7 +415,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=911,time=2021-02-19 00:40:4
 6	14.49	2241559	1777576	Python3	eskeln	
 6	14.43	1635785	3074797	Java	zsiguli	
 6	14.23	1661563	1742582	C#	Eurospiders	
-6	14.08	257832	1776216	C++	BlaiseEbuth	
+6	14.08	257832	1776216	C++	BlaiseEbuthFromTheRainbow	
 6	13.94	2398608	2590745	Python3	M_C	
 6	13.87	3244055	2445895	Python3	s.Kara	
 6	13.78	2170370	2446450	C#	Rasmus-BLind	
@@ -491,7 +491,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=911,time=2021-02-19 00:40:4
 6	8.82	1816257	1863891	C++	Bullle	
 6	8.52	1179950	2454128	Swift	Patorikkuyatta	
 6	8.15	2405889	1842413	Scala	Saivo	
-6	8.1	938714	1745603	C++	MyRuonis	
+6	8.1	938714	1745603	C++	Kristijonas	
 6	8.06	1786654	2215020	C++	Masclins	
 6	7.92	2997102	2254942	Python3	[SSS]Nass	
 6	7.8	155928	1740140	C	pk	
@@ -894,13 +894,14 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=911,time=2021-02-19 00:40:4
 0	6.57	1969405	1744287	C++	yha	
 0	6.57	2021071	1875471	OCaml	Bltxd	
 0	4.77	2512705	1770867	Swift	awesomeFencer	
-0	4.6	1717345	2061864	Scala	kotobotov	
+0	4.54	974670	3435441	Groovy	Kamikater2	
+0	4.53	1717345	2061864	Scala	kotobotov	
 0	4.44	1013463	1759229	Python3	Lachrymosa	
-0	3.74	236902	2313737	C++	Tryum	
+0	3.72	236902	2313737	C++	Tryum	
 0	3.69	1362802	1747414	Javascript	Orlandi	
 0	-5.98	1246479	2697767	Java	Bastien_Baloup	
 0	-6.11	4135555	3383858	Python3	JetNoLi	
-0	-6.73	4032211	3341675	Python3	artmyros	
+0	-6.74	4032211	3341675	Python3	artmyros	
 0	-6.96	1950105	3410728	Java	nazgath	
 0	-7.98	2643826	1875932	Python3	LeoB	
 0	-10	2315334	1776639	Java	VIP193	
