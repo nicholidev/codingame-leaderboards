@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=481,time=2021-02-20 02:30:43
+Score	UserID	Lang	Pseudo	#optim,count=482,time=2021-02-21 03:04:58
 62564496	2288263	Rust	dbdr	
 59353524	765200	Rust	FrancoisB	
 59353464	3457031	C++	YurkovAS	
@@ -100,6 +100,7 @@ Score	UserID	Lang	Pseudo	#optim,count=481,time=2021-02-20 02:30:43
 415156	182536	C	dbo	
 404300	199887	C#	sanpas83	
 403532	4026208	Java	alf38	
+402168	1479930	C++	LeRenard	
 398076	2172874	Rust	Med1ane	
 387012	2785892	Python3	levbor	
 381420	1427078	C++	ToshiTuringMachine	
@@ -132,6 +133,7 @@ Score	UserID	Lang	Pseudo	#optim,count=481,time=2021-02-20 02:30:43
 108568	2647542	Java	szatist	
 107152	4116825	C#	JoeyVera	
 104428	3773139	C	Biba2000	
+101560	3922731	Scala	Dartisan	
 101548	2662309	C#	AnInventiveNameOfRepute	
 97496	2557034	Python3	IAmAButterfly	
 93812	4039884	C++	mzbear	
@@ -168,7 +170,6 @@ Score	UserID	Lang	Pseudo	#optim,count=481,time=2021-02-20 02:30:43
 62852	4159245	Go	KarhuTheBear	
 61708	4055865	C++	hcabel	
 61700	3625469	Python3	Crimson_King	
-60268	3922731	Scala	Dartisan	
 60256	2325449	Perl	otpv	
 60256	1880197	Python3	bicklil	
 59908	3846244	Python3	JLukeSkywalker	
@@ -474,6 +475,7 @@ Score	UserID	Lang	Pseudo	#optim,count=481,time=2021-02-20 02:30:43
 344	2524509	Java	Justas753456	
 344	1819125	Python3	maibok	
 344	4109521	Java	Gabriel_Radtke	
+344	1441471	Haskell	bitwave	
 300	4094683	Python3	Loes	
 300	275626	Javascript	GreyMoon	
 300	3487406	C#	SyvachenkoMK	

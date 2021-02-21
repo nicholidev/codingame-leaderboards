@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=4305,time=2021-02-20 02:30:45
+Score	UserID	Lang	Pseudo	#optim,count=4306,time=2021-02-21 03:04:59
 2759	1301401	C#	Stanax	
 2761	1833680	C++	jvivenot	
 2765	2288263	Rust	dbdr	
@@ -601,6 +601,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4305,time=2021-02-20 02:30:45
 5752	1632895	Python3	CodinMonkey	
 5754	854169	Python3	Silmaen	
 5755	347029	Go	Kevapo	
+5756	389786	Java	menu	
 5758	626535	Clojure	Halasimov	
 5758	1485015	C++	Murky	
 5759	1489865	C++	EricSMSO	
@@ -680,7 +681,6 @@ Score	UserID	Lang	Pseudo	#optim,count=4305,time=2021-02-20 02:30:45
 5842	1140453	Python3	neosymaui	
 5843	1360294	C#	otk	
 5843	1518504	Kotlin	bohuss	
-5843	389786	Java	menu	
 5843	440476	C++	yowa	
 5844	524638	C++	miklla	
 5846	854446	Java	Squallco	
