@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3468,time=2021-02-23 03:21:24
+Score	UserID	Lang	Pseudo	#optim,count=3471,time=2021-02-24 03:51:25
 2509	1327028	C++	FredericBautista	
 2507	154372	Bash	Plopx	
 2504	1249786	C#	Fededevi	
@@ -17,6 +17,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3468,time=2021-02-23 03:21:24
 2475	828213	Python3	anst	
 2474	1530051	C++	UlYoP	
 2471	2054776	C++	GinSmal	
+2471	3358168	Go	A.U.	
 2467	1688372	C#	vs120	
 2467	490905	Python3	lechium06_	
 2464	3418599	C++	YvanHerreros	
@@ -26,7 +27,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3468,time=2021-02-23 03:21:24
 2460	2012297	C++	Maksim1744	
 2459	735910	C++	Agade	
 2457	277758	Java	Duffy	
-2457	3358168	Go	A.U.	
 2454	1436776	C++	BrainSolver	
 2452	1001096	C#	MyIIone	
 2452	351062	Java	Neumann	
@@ -384,6 +384,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3468,time=2021-02-23 03:21:24
 2027	2877131	C++	ProgrammingDuck	
 2027	3205156	C++	ChristosKar	
 2024	1518780	Javascript	mZpX	
+2024	4084186	Go	marsm	
 2023	1770695	Python3	Mawox	
 2023	1673971	Python3	Lanken	
 2023	709490	Java	Sinlepuissant	
@@ -493,6 +494,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3468,time=2021-02-23 03:21:24
 1973	1894859	C++	Vidra	
 1973	4036826	Javascript	Feust	
 1972	154961	C#	[CPC]Foudge	
+1972	1910916	C#	VivienBillot	
 1971	3423514	C++	Nghia64582	
 1970	1639378	Python3	NaNisTheLonliestNumber	
 1970	848394	Java	schwarzahl	
@@ -599,7 +601,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3468,time=2021-02-23 03:21:24
 1925	1241864	Python3	Eliasdekiniweek	
 1924	1989147	C++	Divij	
 1923	1579653	Python3	zweedeend	
-1923	1910916	C#	VivienBillot	
 1922	857443	Javascript	joshwithguitar	
 1922	2484824	Kotlin	Tooster	
 1921	3353015	Python3	Salted	
@@ -827,6 +828,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3468,time=2021-02-23 03:21:24
 1813	1802967	Python3	Meruem	
 1812	903179	Java	maksmas	
 1812	1770112	C#	Selane	
+1812	4193153	Javascript	pabx06	
 1811	311423	Javascript	kirzyka	
 1811	2341447	Python3	algmyr	
 1811	2590081	C++	Eris_C	
@@ -997,5 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=3468,time=2021-02-23 03:21:24
 1771	555424	Java	cymarechal	
 1771	1127029	Java	grz	
 1771	1110754	Java	thepianist59	
-1771	1154159	Java	MaximePm	
-1771	1206831	Java	maguss	
