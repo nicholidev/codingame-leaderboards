@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=8416,time=2021-02-24 03:51:29
+Score	UserID	Lang	Pseudo	#optim,count=8430,time=2021-02-25 03:02:02
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -82,6 +82,7 @@ Score	UserID	Lang	Pseudo	#optim,count=8416,time=2021-02-24 03:51:29
 290580	4008340	C	Shawnny	
 287770	3954357	C	laudep	
 287290	788361	C++	Bob	
+286460	3428379	C++	Stra	
 286210	153774	C++	cocoche007	
 285300	1267417	C++	co42	
 281790	3389226	C#	Peti88	
@@ -291,6 +292,7 @@ Score	UserID	Lang	Pseudo	#optim,count=8416,time=2021-02-24 03:51:29
 168330	1676711	Java	Eeeval	
 168080	484004	C#	aCat	
 168040	2321957	C++	Xenoid	
+166010	1302700	C#	Tounsi	
 164750	3298988	C#	PotatoCoder	
 164710	3647844	C++	rc95401	
 164440	222390	Python3	JohnErikSloper	
@@ -367,6 +369,7 @@ Score	UserID	Lang	Pseudo	#optim,count=8416,time=2021-02-24 03:51:29
 131710	648751	Haskell	dabino	
 131320	1068324	Python3	arrcpp	
 131240	415618	Java	kow	
+131220	153927	C++	Cubix	
 131130	1188212	C	superredlark	
 131090	404777	C++	Joodoc	
 130970	2041520	Python3	AnotherCatPicture	
@@ -403,7 +406,6 @@ Score	UserID	Lang	Pseudo	#optim,count=8416,time=2021-02-24 03:51:29
 112900	2818736	C++	smurfWTIT	
 112670	1442344	PHP	PavelRaskin	
 111020	3449368	C#	widemouthfrog1	
-110800	1302700	C#	Tounsi	
 110590	972894	C++	resty-daze	
 110050	225875	C#	leff	
 109610	959402	C#	gmessier	
@@ -997,5 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=8416,time=2021-02-24 03:51:29
 62150	1420269	Python3	Vischtor	
 62060	1660602	PHP	SemChumboPT	
 62050	1107784	C++	SimpleCpp	
-62040	1218532	C#	Dutches	
-62040	1045321	C	StephanieKemper	
