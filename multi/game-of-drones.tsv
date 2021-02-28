@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3425,time=2021-02-27 02:35:15
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3426,time=2021-02-28 02:51:18
 5	28.06	893541	3390078	Java	wala	
 5	27.93	1629259	2643022	C++	Marchete	
 5	27.3	1335230	2327918	C++	jft63	
@@ -935,6 +935,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3425,time=2021-02-27 02:35:
 3	17.92	494104	1432011	C++	Recar	
 3	17.6	2480112	2798303	C++	40647030S	
 3	17.12	934381	2434401	Rust	PolyB	
+3	16.88	1105849	1432176	PHP	Savagge	
 3	16.86	1730885	1432061	Java	Miroslav27	
 3	16.86	1021556	1432008	Java	Maygee	
 3	16.86	1545670	1432272	C#	Ellume	
@@ -948,11 +949,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3425,time=2021-02-27 02:35:
 3	16.83	788357	1431985	Python	DrDr3ck	
 3	16.82	1359547	1432138	Python3	Transat	
 3	16.82	1436776	2150985	C++	BrainSolver	
-3	16.81	1105849	1432176	PHP	Savagge	
+3	16.82	1407621	1431888	C++	Taohbi	
 3	16.81	2646961	2093482	Java	ShermanMg	
 3	16.8	411147	1432110	C#	HunterX	
-3	16.8	1407621	1431888	C++	Taohbi	
 3	16.8	3733416	2814125	C++	40547049S	
+3	16.79	572797	1431906	C#	Kreys	
 3	16.79	1424630	1432060	Java	irwinm	
 3	16.79	889789	1432369	C++	Alain-Delpuch	
 3	16.79	2211332	1599484	Python	Horst17	
@@ -976,8 +977,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3425,time=2021-02-27 02:35:
 3	16.69	2867477	2088898	Javascript	MichaelKommandant	
 3	16.68	689226	1432151	C#	Havoc	
 3	16.68	582877	1432111	Javascript	NAllred	
-3	16.67	572797	1431906	C#	Kreys	
-3	16.67	3301073	2416819	Java	Sihosnarf	
 3	16.65	927312	1432192	Javascript	El_Coyote	
 3	16.64	1311521	1443743	C#	dbzadnen	
 3	16.63	3215915	2407047	C++	dangee	
@@ -991,6 +990,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3425,time=2021-02-27 02:35:
 3	16.55	2170846	2123642	C#	TheoB_Cesi	
 3	16.53	389175	1431923	Java	Folkenn84	
 3	16.49	2031932	1431881	C#	JBorders3010	
+3	16.49	3301073	2416819	Java	Sihosnarf	
 3	16.42	628015	1432053	C#	matthijsman	
 3	16.41	2219680	1594053	Python3	37002971	
 3	16.39	2863335	2505864	Python3	denkuc	
