@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=8460,time=2021-02-28 03:14:36
+Score	UserID	Lang	Pseudo	#optim,count=8471,time=2021-03-01 03:26:25
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -86,6 +86,7 @@ Score	UserID	Lang	Pseudo	#optim,count=8460,time=2021-02-28 03:14:36
 286210	153774	C++	cocoche007	
 285300	1267417	C++	co42	
 281790	3389226	C#	Peti88	
+278850	1944142	C++	yakalir	
 274960	828239	C#	[SG]Bisou	
 273310	622213	Python3	Ornicare	
 269430	1880197	C	bicklil	
@@ -93,7 +94,6 @@ Score	UserID	Lang	Pseudo	#optim,count=8460,time=2021-02-28 03:14:36
 268880	3938500	C	evanforCodin	
 268850	1109979	C++	Gloopy	
 268480	889789	C	Alain-Delpuch	
-266780	1944142	C++	yakalir	
 258950	3903847	C#	UnicornP	
 256370	2315158	Java	luigi_gelato	
 254420	1140756	C++	BarbsMan	
@@ -857,6 +857,7 @@ Score	UserID	Lang	Pseudo	#optim,count=8460,time=2021-02-28 03:14:36
 63570	1050014	Scala	OlegSolver	
 63550	4087505	Python3	vidak	
 63540	3586167	C++	rocky_H	
+63540	1050801	Javascript	Alopex	
 63520	1687648	Python3	Pompom2	
 63490	1081912	C	Wildardoc	
 63490	1351832	Java	PsykoBoY	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=8460,time=2021-02-28 03:14:36
 62160	3436443	C++	Mazelcop	
 62150	1420269	Python3	Vischtor	
 62060	1660602	PHP	SemChumboPT	
-62050	1107784	C++	SimpleCpp	
