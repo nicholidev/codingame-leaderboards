@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=919,time=2021-03-01 03:26:23
+Score	UserID	Lang	Pseudo	#optim,count=921,time=2021-03-02 02:34:29
 11902	2288263	Rust	dbdr	
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
@@ -54,6 +54,7 @@ Score	UserID	Lang	Pseudo	#optim,count=919,time=2021-03-01 03:26:23
 9702	1106450	C++	RiSuS	
 9659	2350846	C++	DrBloodmoney	
 9659	3463517	C++	jackoneill	
+9612	3918583	Rust	mikmak	
 9601	1194069	Java	Redstrike	
 9592	1378958	C#	Illedan	
 9589	2436448	Java	FrancoisMeme	
@@ -78,7 +79,6 @@ Score	UserID	Lang	Pseudo	#optim,count=919,time=2021-03-01 03:26:23
 9117	2577687	C++	blasterpoard	
 9104	1327028	C++	FredericBautista	
 9075	1238934	C++	accorp	
-9074	3918583	TypeScript	mikmak	
 9018	1716299	C++	micky924	
 9015	837350	Go	BorisZ	
 9014	1336464	C++	magaiti	
@@ -302,6 +302,7 @@ Score	UserID	Lang	Pseudo	#optim,count=919,time=2021-03-01 03:26:23
 3602	3947806	Python3	Kr4unos	
 3602	1910916	Python3	VivienBillot	
 3602	3486522	Python3	Pea.	
+3602	3647844	Python3	rc95401	
 3596	1433688	C++	Geropy	
 3573	1920644	C++	Skygge	
 3563	224325	Scala	TidyMaze	
@@ -422,9 +423,8 @@ Score	UserID	Lang	Pseudo	#optim,count=919,time=2021-03-01 03:26:23
 2408	2923500	C++	Proditione	
 2408	1244740	Python3	Tenos	
 2401	686830	C#	chrisgulddahl	
-2401	3647844	Python3	rc95401	
 2397	1377805	Java	MHavlovick	
-2393	3503664	Python3	bertran	
+2393	3503664	Python3	egos	
 2386	154935	Scala	yamo	
 2381	1528274	Ruby	BlanCap	
 2378	990569	C++	Srkr	
@@ -513,6 +513,7 @@ Score	UserID	Lang	Pseudo	#optim,count=919,time=2021-03-01 03:26:23
 1563	2712830	C++	MoonLTU	
 1557	1502290	C++	Feleon	
 1539	3376384	Python3	esteban616	
+1537	3672281	Python3	yoann9344	
 1529	3223315	Python3	LaMarmotte	
 1509	889789	C	Alain-Delpuch	
 1509	1272263	Python3	Caled	
@@ -917,3 +918,4 @@ Score	UserID	Lang	Pseudo	#optim,count=919,time=2021-03-01 03:26:23
 0	3379298	C	Modospixel	
 0	2973592	C#	EJtheMaster	
 0	3655673	PHP	[symfunc]-komoe-chan-best-waifu	
+0	3516032	Python3	Labdahal	
