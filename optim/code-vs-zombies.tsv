@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=8478,time=2021-03-02 02:34:31
+Score	UserID	Lang	Pseudo	#optim,count=8490,time=2021-03-03 02:30:29
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -208,6 +208,7 @@ Score	UserID	Lang	Pseudo	#optim,count=8478,time=2021-03-02 02:34:31
 201370	2729630	C++	Halphas	
 201140	668954	C++	Fluxor	
 200740	512097	Haskell	Stilgart	
+200640	4038855	C++	Pedrito_B	
 199820	1836058	C++	SeebOmega	
 199570	1658067	Java	pstavrianos	
 199360	331880	Scala	Monstruo	
@@ -260,7 +261,6 @@ Score	UserID	Lang	Pseudo	#optim,count=8478,time=2021-03-02 02:34:31
 180920	1302700	C#	Tounsi	
 180310	4117970	Python3	zhoubou	
 179700	1842010	C#	southpolenator	
-179360	4038855	C++	Pedrito_B	
 179350	3823601	Python3	cysong	
 179340	3305510	PHP	TBali	
 179140	1501735	Python3	bernardlavilliers	
@@ -494,10 +494,12 @@ Score	UserID	Lang	Pseudo	#optim,count=8478,time=2021-03-02 02:34:31
 81490	1371420	Javascript	FerrusDude	
 81470	1176278	C++	alex29	
 81210	2452543	Javascript	Maznek	
+80180	3489223	Javascript	KarloHubai	
 79910	3700723	C#	Maridel_Daicher	
 79860	3630308	Python3	Ragest	
 79760	3451278	Python3	Infinitemonkey_23	
 79300	828213	Go	anst	
+79290	1249138	Python3	Pymole	
 79090	1295111	Python3	Andrii.Bakulin	
 78780	1737246	Python3	Adam798	
 78780	1243876	Java	Hi-Low_World	
@@ -997,5 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=8478,time=2021-03-02 02:34:31
 62290	3176113	C++	xsparky	
 62280	3380514	Java	DFrese	
 62250	227687	C#	Johanny	
-62180	153045	Python3	nib	
-62160	218189	Python3	[CG]Maxime	
