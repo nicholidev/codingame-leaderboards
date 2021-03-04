@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3494,time=2021-03-03 02:30:31
+Score	UserID	Lang	Pseudo	#optim,count=3498,time=2021-03-04 02:30:53
 2509	1327028	C++	FredericBautista	
 2507	154372	Bash	Plopx	
 2504	1249786	C#	Fededevi	
@@ -54,8 +54,8 @@ Score	UserID	Lang	Pseudo	#optim,count=3494,time=2021-03-03 02:30:31
 2406	1169499	C++	naab	
 2406	1457162	C++	JFB	
 2404	1835525	C#	nwendel	
+2404	4194801	Python3	jdeveil	
 2401	1333869	Python3	kiwijam	
-2401	4194801	Python3	jdeveil	
 2400	1498163	Java	Ben-oit	
 2398	1336464	C++	magaiti	
 2398	3647844	Python3	rc95401	
@@ -80,6 +80,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3494,time=2021-03-03 02:30:31
 2373	2962968	C#	Pukunya	
 2371	941713	C	Bloody95	
 2371	2924895	C++	trictrac	
+2371	3839774	Rust	gurvan_lullien	
 2368	786597	Python3	Fabien	
 2368	952284	Ruby	Copro	
 2368	2069141	C#	tomeko	
@@ -147,7 +148,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3494,time=2021-03-03 02:30:31
 2284	848989	Java	revever	
 2284	3478926	C	Leptit	
 2283	2141506	Python3	Jamesscn	
-2282	3839774	Rust	gurvan_lullien	
 2281	1312473	Python3	StealthEye	
 2279	2371389	C#	Franta	
 2277	1420269	Python3	Vischtor	
@@ -197,8 +197,8 @@ Score	UserID	Lang	Pseudo	#optim,count=3494,time=2021-03-03 02:30:31
 2229	1497552	C++	clemclem	
 2227	4095128	PHP	Voltmachine	
 2226	4081634	Python3	Wontonimo	
+2226	4072753	C++	mdstoy	
 2225	3703510	C++	TheStrojnik	
-2225	4072753	C++	mdstoy	
 2223	1005061	Ruby	drac	
 2223	3422454	C++	GDYendell	
 2222	964499	C#	Ghotiphud	
