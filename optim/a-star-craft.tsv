@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=921,time=2021-03-04 02:30:50
+Score	UserID	Lang	Pseudo	#optim,count=922,time=2021-03-05 02:30:35
 11902	2288263	Rust	dbdr	
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
@@ -23,6 +23,7 @@ Score	UserID	Lang	Pseudo	#optim,count=921,time=2021-03-04 02:30:50
 10611	2311105	C++	kovi	
 10547	1114834	C++	k4ng0u	
 10529	1335230	C++	jft63	
+10328	3918583	Rust	mikmak	
 10286	2923506	C++	darkhorse64	
 10272	2316796	PHP	Psio	
 10269	3457031	C++	YurkovAS	
@@ -42,7 +43,6 @@ Score	UserID	Lang	Pseudo	#optim,count=921,time=2021-03-04 02:30:50
 10088	1064903	C++	Ghirtor	
 10032	331880	C++	Monstruo	
 9997	2731276	C++	panda42	
-9923	3918583	Rust	mikmak	
 9862	1314316	C++	jolindien	
 9856	892056	Java	LaurentTrk	
 9805	311035	Python3	leojean890	
@@ -825,6 +825,7 @@ Score	UserID	Lang	Pseudo	#optim,count=921,time=2021-03-04 02:30:50
 1045	2944672	C++	Myrrhe	
 1045	4141556	C++	Justnoone	
 1045	1724524	Python3	Duaner	
+1045	3069534	Java	LoganWlv	
 1041	1074744	Java	GwenGlSoft	
 1039	1129000	Python3	ChairmanOfTheBored	
 1031	2607465	Java	valmowa	
