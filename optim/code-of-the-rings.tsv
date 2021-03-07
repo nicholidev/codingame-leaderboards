@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=4352,time=2021-03-06 02:30:53
+Score	UserID	Lang	Pseudo	#optim,count=4354,time=2021-03-07 02:42:54
 2759	1301401	C#	Stanax	
 2761	1833680	C++	jvivenot	
 2765	2288263	Rust	dbdr	
@@ -40,6 +40,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4352,time=2021-03-06 02:30:53
 3370	371603	C++	martin	
 3378	1425201	C#	JamesPun	
 3378	3622757	C#	anid	
+3387	4095128	PHP	Voltmachine	
 3392	1620803	Perl	Lyapunov	
 3409	505511	Java	int33h	
 3413	1244576	Java	PauloVilela	
@@ -48,7 +49,6 @@ Score	UserID	Lang	Pseudo	#optim,count=4352,time=2021-03-06 02:30:53
 3425	553938	C++	MagAlex	
 3430	3035070	C#	Ipso	
 3439	1178569	Python3	Azerrr	
-3443	4095128	PHP	Voltmachine	
 3445	668954	C++	Fluxor	
 3449	941713	C	Bloody95	
 3450	893541	Java	wala	
@@ -409,6 +409,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4352,time=2021-03-06 02:30:53
 4911	890470	Java	romdouze	
 4919	2711018	Javascript	Fabs	
 4934	1301137	Python3	lewisbm	
+4939	3919237	C#	Quick_Kick	
 4940	806823	C	Zer0	
 4949	3958580	Python3	HITO	
 4951	876110	Python3	bougadabou	
@@ -439,6 +440,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4352,time=2021-03-06 02:30:53
 5277	633271	Go	Pomyk	
 5277	3358736	Java	BuluBulu27	
 5278	248263	PHP	NewboO	
+5288	4134816	Python3	-oa-	
 5293	1353669	Python3	XAnimaX	
 5296	3077269	TypeScript	fieldy_rockz	
 5300	586933	C++	cems	
@@ -669,7 +671,6 @@ Score	UserID	Lang	Pseudo	#optim,count=4352,time=2021-03-06 02:30:53
 5826	2321957	C++	Xenoid	
 5827	906002	C#	Artur	
 5829	1409409	Java	delianor	
-5830	3919237	C#	Quick_Kick	
 5831	809428	Java	Andonescu	
 5831	697152	Java	Bander88	
 5831	1920644	Python3	Skygge	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=4352,time=2021-03-06 02:30:53
 5915	522636	C++	sabyanin	
 5915	869320	C++	Draggoon	
 5915	1231532	Java	Arnaud_63	
-5915	1568785	C	Chalzy	
