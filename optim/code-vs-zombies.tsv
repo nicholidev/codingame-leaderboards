@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=8553,time=2021-03-08 03:06:05
+Score	UserID	Lang	Pseudo	#optim,count=8559,time=2021-03-09 02:38:47
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -88,6 +88,7 @@ Score	UserID	Lang	Pseudo	#optim,count=8553,time=2021-03-08 03:06:05
 285300	1267417	C++	co42	
 283160	1868716	Rust	RagingCactus	
 281790	3389226	C#	Peti88	
+280830	4168646	Rust	RaccoonWithSpork	
 278850	1944142	C++	yakalir	
 274960	828239	C#	[SG]Bisou	
 273310	622213	Python3	Ornicare	
@@ -298,7 +299,6 @@ Score	UserID	Lang	Pseudo	#optim,count=8553,time=2021-03-08 03:06:05
 168330	1676711	Java	Eeeval	
 168080	484004	C#	aCat	
 168040	2321957	C++	Xenoid	
-166290	4168646	Rust	RaccoonWithSpork	
 164750	3298988	C#	PotatoCoder	
 164710	3647844	C++	rc95401	
 164440	222390	Python3	JohnErikSloper	
@@ -807,6 +807,7 @@ Score	UserID	Lang	Pseudo	#optim,count=8553,time=2021-03-08 03:06:05
 64230	3141948	Python3	philRG	
 64230	3425328	Javascript	waterblue	
 64230	4083906	Python3	ingenieurtoni	
+64230	4124688	Python3	Murat_Eroglu	
 64220	1029602	C	Potemkine	
 64220	4111740	C++	xumarcus	
 64190	634747	C#	akhansari	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=8553,time=2021-03-08 03:06:05
 62370	221573	Javascript	TiTi	
 62370	1618216	Java	strmrdr	
 62370	1297147	C++	[BDX][2020]duhieu_b	
-62360	2416641	Ruby	Zenoscave	
