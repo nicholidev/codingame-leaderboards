@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=8576,time=2021-03-11 02:30:30
+Score	UserID	Lang	Pseudo	#optim,count=8585,time=2021-03-12 02:35:21
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -33,6 +33,7 @@ Score	UserID	Lang	Pseudo	#optim,count=8576,time=2021-03-11 02:30:30
 470760	1629259	Java	Marchete	
 468050	2675733	C	LeeHiles	
 467270	888746	C++	Phate	
+466860	3918583	Rust	mikmak	
 464000	2772292	C++	Bezukh	
 463050	1607522	C++	RoboStac	
 460810	1881651	C	Alligard	
@@ -260,7 +261,6 @@ Score	UserID	Lang	Pseudo	#optim,count=8576,time=2021-03-11 02:30:30
 182170	1830993	C#	jpcheck	
 181900	1768916	C++	BananSenior	
 181840	1712255	Go	Ukster	
-181830	3918583	TypeScript	mikmak	
 180950	1709003	Java	csaurin	
 180920	1302700	C#	Tounsi	
 180310	4117970	Python3	zhoubou	
@@ -363,6 +363,7 @@ Score	UserID	Lang	Pseudo	#optim,count=8576,time=2021-03-11 02:30:30
 138570	841085	C#	Risen	
 138100	1017169	C#	bLasT	
 137980	890630	C#	Shurishe	
+137710	3839774	Rust	gurvan_lullien	
 137530	512207	Scala	Aun	
 137280	3760956	C++	GeekNbOne	
 137140	2077458	Python3	Ragi	
@@ -582,7 +583,6 @@ Score	UserID	Lang	Pseudo	#optim,count=8576,time=2021-03-11 02:30:30
 67850	257832	C++	BlaiseEbuth	
 67780	3387053	Javascript	best-team	
 67720	250352	Javascript	Dorkside	
-67410	3839774	Rust	gurvan_lullien	
 67400	3393535	Python3	LuckyJ.	
 67370	2711016	C#	Manuel0814	
 67140	1767134	Java	AntonYuriev	
