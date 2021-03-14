@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=493,time=2021-03-13 03:01:29
+Score	UserID	Lang	Pseudo	#optim,count=497,time=2021-03-14 02:32:17
 62564496	2288263	Rust	dbdr	
 59353524	765200	Rust	FrancoisB	
 59353464	3457031	C++	YurkovAS	
@@ -25,7 +25,7 @@ Score	UserID	Lang	Pseudo	#optim,count=493,time=2021-03-13 03:01:29
 21068732	1050421	Java	geppoz	
 19127616	1549145	C++	Mealc	
 18704804	3136787	C++	jacek	
-17870488	329200	C++	BlitzProg	
+18131096	329200	C++	BlitzProg	
 17311156	3918583	Rust	mikmak	
 17206600	3971358	C++	OldJohn	
 16925948	3647844	C++	rc95401	
@@ -252,6 +252,7 @@ Score	UserID	Lang	Pseudo	#optim,count=493,time=2021-03-13 03:01:29
 42296	899745	C#	vabaaalas	
 41980	1932980	Rust	AlexandreK	
 40728	3376384	Python3	esteban616	
+40008	524638	C++	miklla	
 39916	4099017	Java	LeafQuery	
 39444	3880773	Python3	kjmma	
 39376	837350	Python3	BorisZ	
@@ -271,12 +272,13 @@ Score	UserID	Lang	Pseudo	#optim,count=493,time=2021-03-13 03:01:29
 33836	4146980	Python3	Bernathan	
 33484	1398620	C#	Kazkel	
 33136	2079953	Python3	yaya92	
+32792	1288527	C++	Snef	
 32420	3009598	Javascript	Flashantik	
 32392	1910916	C#	VivienBillot	
 32384	1101097	Java	Bichovis	
 32336	4065313	Javascript	XerusPrasinus	
 32136	3657937	Python3	elderlybeginner	
-32016	3626427	Javascript	asfasgagas	
+32016	3626427	Javascript	R1O	
 31636	371603	Ruby	martin	
 31424	4112733	Python3	SGE-GamingWarrior	
 31060	153957	Javascript	JeremyV	
@@ -383,9 +385,11 @@ Score	UserID	Lang	Pseudo	#optim,count=493,time=2021-03-13 03:01:29
 2224	1244959	Java	Cahetel	
 2224	1803565	C++	Amadeo234	
 2224	3604596	Python3	sehyod	
+2224	4180590	Python3	UltimateVexation	
 1912	4102957	Python3	EBenoit	
 1904	4039182	Javascript	JoBonaire	
 1876	4117970	Python3	zhoubou	
+1844	1071489	Javascript	HgGamer	
 1516	2770393	C#	MrciCopilot	
 1516	3708717	Python3	Emiii	
 1500	4115534	Python3	NewtonRaphson	
