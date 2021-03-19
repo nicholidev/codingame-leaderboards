@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=381,time=2021-03-18 02:43:28
+Score	UserID	Lang	Pseudo	#optim,count=381,time=2021-03-19 03:01:41
 10359.64	2288263	Rust	dbdr	
 10367.970000000005	351062	C++	Neumann	
 10484.98	1400179	Python3	reCurse	
@@ -9,8 +9,8 @@ Score	UserID	Lang	Pseudo	#optim,count=381,time=2021-03-18 02:43:28
 10750.69	1114834	C++	k4ng0u	
 10751.739999999994	1288527	C++	Snef	
 10754.76	735487	C++	amurushkin	
+10783.590000000004	1399382	C#	Regulus136	
 10798.61	1566335	Java	BeardedWhale	
-10814.000000000004	1399382	C#	Regulus136	
 10894.180000000002	2923506	C++	darkhorse64	
 10935.47	735910	C++	Agade	
 10996.710000000005	2311105	C++	kovi	
@@ -57,6 +57,7 @@ Score	UserID	Lang	Pseudo	#optim,count=381,time=2021-03-18 02:43:28
 12604.09	1169499	C++	naab	
 12633	1753072	C++	MrOne	
 12764.8	1418821	C++	input.txt	
+12894.309999999996	2043908	C++	AntiSquid	
 12896.559999999989	153683	Dart	40R15T3	
 12932.500000000004	3765895	Lua	Topinambour	
 12942.399999999996	1178276	Java	Jerome_95	
@@ -116,7 +117,6 @@ Score	UserID	Lang	Pseudo	#optim,count=381,time=2021-03-18 02:43:28
 18898.97	3489223	Javascript	KarloHubai	
 18946.6	2050244	C++	Cezuriku	
 19089.16	1752830	Python3	Zug	
-19100.81	2043908	Javascript	AntiSquid	
 19116.65	1814977	Kotlin	Satek	
 19196.37	4193153	Python3	pabx06	
 19196.370000000006	1393802	Python3	a.mezhenin	
