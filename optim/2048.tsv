@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=501,time=2021-03-21 03:07:10
+Score	UserID	Lang	Pseudo	#optim,count=502,time=2021-03-22 02:39:29
 62564496	2288263	Rust	dbdr	
 59353524	765200	Rust	FrancoisB	
 59353464	3457031	C++	YurkovAS	
@@ -20,13 +20,13 @@ Score	UserID	Lang	Pseudo	#optim,count=501,time=2021-03-21 03:07:10
 24748316	3337117	Rust	timbersson	
 23960660	2924895	C	trictrac	
 22956492	1399382	C++	Regulus136	
-22337992	2923506	C++	darkhorse64	
+22341640	2923506	C++	darkhorse64	
 22268052	1169264	C++	moarrrr	
 21068732	1050421	Java	geppoz	
 19127616	1549145	C++	Mealc	
 18704804	3136787	C++	jacek	
+18373044	893541	Java	wala	
 18131096	329200	C++	BlitzProg	
-17386808	893541	Java	wala	
 17311156	3918583	Rust	mikmak	
 17206600	3971358	C++	OldJohn	
 16925948	3647844	C++	rc95401	
@@ -36,14 +36,14 @@ Score	UserID	Lang	Pseudo	#optim,count=501,time=2021-03-21 03:07:10
 14545024	1256312	C#	Djoums	
 14072088	1732414	C++	ClosetAI	
 13516584	2451652	Java	code_of_the_dead	
+12433548	1838549	Rust	orangesnowfox	
 12046356	3564009	Lua	Waffle3z	
 11486744	2837654	C++	R2B2	
 10989500	1630890	Java	Wld	
 10745408	3839774	Rust	gurvan_lullien	
 10404892	3173494	Java	WKDE	
 10183760	1861258	Rust	Nazdhun	
-10027780	1838549	Rust	orangesnowfox	
-9652724	4081634	Java	Wontonimo	
+9893412	4081634	Java	Wontonimo	
 9607648	416894	C++	MeDev	
 9282440	3305510	PHP	TBali	
 8844524	4119186	C#	Rxelux	
@@ -255,6 +255,7 @@ Score	UserID	Lang	Pseudo	#optim,count=501,time=2021-03-21 03:07:10
 42480	4038295	Python3	RamanShakya	
 42296	899745	C#	vabaaalas	
 41980	1932980	Rust	AlexandreK	
+41060	4134816	Python3	-oa-	
 40728	3376384	Python3	esteban616	
 39916	4099017	Java	LeafQuery	
 39444	3880773	Python3	kjmma	
