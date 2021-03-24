@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=4401,time=2021-03-23 02:53:17
+Score	UserID	Lang	Pseudo	#optim,count=4404,time=2021-03-24 02:30:45
 2759	1301401	C#	Stanax	
 2761	1833680	C++	jvivenot	
 2765	2288263	Rust	dbdr	
@@ -456,6 +456,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4401,time=2021-03-23 02:53:17
 5365	899864	PHP	therainycat	
 5388	3319855	C#	Drobor	
 5390	593523	C++	supermassive	
+5396	1952778	Go	11000	
 5400	1961440	C++	simon_v	
 5404	927873	C	Charlot67	
 5411	1027294	Java	BigJ	
@@ -568,7 +569,6 @@ Score	UserID	Lang	Pseudo	#optim,count=4401,time=2021-03-23 02:53:17
 5691	1038882	C++	ICTylor	
 5691	1436776	C++	BrainSolver	
 5694	1254760	Python3	Brady	
-5694	1952778	Go	11000	
 5695	2923506	C++	darkhorse64	
 5695	153092	Python3	Aurep	
 5696	153698	Java	obourgain	
@@ -780,6 +780,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4401,time=2021-03-23 02:53:17
 5860	2709791	Python3	YOMar	
 5860	762642	Python3	Wonyoung	
 5860	2858320	C++	Loule	
+5860	1657904	Python3	yschou	
 5861	954356	C++		
 5861	420035	Pascal	bvs23bkv33	
 5861	1483798	Ruby	hm001	
@@ -993,9 +994,8 @@ Score	UserID	Lang	Pseudo	#optim,count=4401,time=2021-03-23 02:53:17
 5912	1346262	Python3	ggnel	
 5912	2837654	Rust	R2B2	
 5912	2421634	Python3	dandrian	
+5912	2638020	Python3	ja_fica	
 5913	569315	C	calibandalsal	
 5913	962355	C++	VisualPaul	
 5913	484031	PHP	LeSSeR	
 5913	1679204	Python3	Jaidy	
-5913	312125	Javascript	TCabrelli	
-5913	4093262	C	Lukas_r1	
