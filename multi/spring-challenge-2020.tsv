@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5850,time=2021-03-25 03:00:48
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5851,time=2021-03-26 02:30:21
 5	33.11	3193653	3004019	C++	karliso	
 5	31.27	880353	2975979	C++	zasmu	
 5	31.17	1082988	2982332	C++	Saelyos	
@@ -809,11 +809,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5850,time=2021-03-25 03:00:
 3	23.67	1920644	2980506	C++	Skygge	
 3	23.62	1417805	2979138	Java	hiro116s	
 3	23.61	3418590	2978233	C++	LaPatateU	
-3	23.59	1543177	2976634	Python3	Xoff	
 3	23.57	518243	2977062	C++	mbaros	
 3	23.56	1420817	2980321	C++	TheMagicShop	
 3	23.56	3266132	2975654	C++	itohdak	
 3	23.52	3230794	2977172	Java	tutubalin	
+3	23.52	1543177	2976634	Python3	Xoff	
 3	23.52	347029	2983067	Python3	Kevapo	
 3	23.5	3794483	2976115	Python3	yuribr	
 3	23.5	1070655	2979498	C++	shanks	
@@ -842,6 +842,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5850,time=2021-03-25 03:00:
 3	23.22	3169011	2976857	Java	geschaftsman	
 3	23.21	2258829	3024505	C#	Hiker	
 3	23.21	815488	3455002	Java	Seti	
+3	23.21	3805081	2979229	Python3	ai_rice	
 3	23.19	3745995	2978274	Python3	MicGor	
 3	23.19	3586448	2980036	Python3	LeoT	
 3	23.19	334009	2977313	PHP	abouvier	
@@ -861,7 +862,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5850,time=2021-03-25 03:00:
 3	23.15	3523406	2976755	Java	Pansier	
 3	23.15	3468263	2978760	Python3	Flyingkid	
 3	23.13	1437684	2979624	C#	Maulkin	
-3	23.13	3805081	2979229	Python3	ai_rice	
 3	23.12	3733716	2978389	C#	Bastett	
 3	23.11	3502478	2977759	Kotlin	tachan	
 3	23.1	3726308	3002629	Python3	Klapoutz	
@@ -930,7 +930,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5850,time=2021-03-25 03:00:
 3	21.88	2868769	2977348	C#	Lionel_	
 3	21.87	1443538	2978237	Java	Gevater_Tod4711	
 3	21.86	1480640	2976744	C#	snodes	
-3	21.85	2654648	2978421	Python3	AntiP0w	
 3	21.85	3741825	2980150	C++	MichalMiko	
 3	21.85	3749465	2980047	Python3	Badoskey	
 3	21.85	1792429	2978512	C++	Wildum	
@@ -946,9 +945,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5850,time=2021-03-25 03:00:
 3	21.79	1464115	2978537	Javascript	GabrielDCelery	
 3	21.78	831130	2978328	Java	Koji	
 3	21.78	3691366	2977259	Java	V90	
+3	21.77	2833733	3004906	Python3	pez	
 3	21.77	1976585	2976728	C++	TheMadOcarina	
 3	21.77	2056541	2977345	Java	PeF	
 3	21.77	3509558	2976265	C#	Kiat	
+3	21.77	2654648	2978421	Python3	AntiP0w	
 3	21.77	1579627	2977680	C#	Bahrani	
 3	21.76	1452449	2977216	Java	m4nu8untu	
 3	21.76	3501475	2979491	Python3	Over9000	
@@ -959,9 +960,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5850,time=2021-03-25 03:00:
 3	21.71	3769834	2978482	C#	Hoggins	
 3	21.69	1614797	2975886	Python3	irvcaza	
 3	21.67	624730	2977190	Scala	ak79	
+3	21.67	1182388	3374671	Javascript	Jack92	
 3	21.67	3769031	2975875	C++	Oroko	
-3	21.67	2833733	3004906	Python3	pez	
 3	21.66	815710	2980450	Kotlin	Frax	
+3	21.66	2014685	2980024	Java	Colossus	
 3	21.65	2092623	2981327	C++	YoshiNoob	
 3	21.65	3820096	2979519	C++	abuhuraira071	
 3	21.65	1785098	2980243	C++	E_pur_si_muove	
@@ -983,19 +985,17 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5850,time=2021-03-25 03:00:
 3	21.58	3776706	2980526	C#	dashu_baba	
 3	21.57	3041715	2977613	Java	hlin	
 3	21.57	2856582	2979844	C++	Towelie	
-3	21.56	1182388	3374671	Javascript	Jack92	
-3	21.55	2014685	2980024	Java	Colossus	
 3	21.55	2112007	2978055	Javascript	KRAKEN	
 3	21.55	2709409	2979940	Python3	YesYes	
-3	21.55	3736924	2979495	Java	Autilis	
-3	21.54	3802563	2980236	Java	alex-schwartzman	
 3	21.5	3804739	2977200	C#	GhostDev	
 3	21.5	1639037	2976325	C++	Atlasx	
 3	21.49	1854639	2975938	C#	iDxMeG	
 3	21.48	1569420	2976443	Python3	Tuo	
-3	21.47	1686299	2978848	C++	JRiedl	
 3	21.47	3324192	2979942	Python3	Spongebobcarre	
-3	21.44	3818278	2975715	C++	_____snow_____	
+3	21.46	3736924	2979495	Java	Autilis	
+3	21.45	3819989	3475677	C++	KawattaTaido	
+3	21.45	3802563	2980236	Java	alex-schwartzman	
+3	21.45	3818278	2975715	C++	_____snow_____	
 3	21.43	1223140	2978644	Kotlin	kgautron	
+3	21.38	1686299	2978848	C++	JRiedl	
 3	21.37	3806519	2978641	Python3	ijc90	
-3	21.35	1105439	2976632	C++	Edrevan	

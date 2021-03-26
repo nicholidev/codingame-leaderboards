@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=504,time=2021-03-25 03:00:54
+Score	UserID	Lang	Pseudo	#optim,count=504,time=2021-03-26 02:30:26
 62564496	2288263	Rust	dbdr	
 59353524	765200	Rust	FrancoisB	
 59353464	3457031	C++	YurkovAS	
@@ -11,7 +11,7 @@ Score	UserID	Lang	Pseudo	#optim,count=504,time=2021-03-25 03:00:54
 56228180	1378958	C#	Illedan	
 56158848	3533119	C++	wlesavo	
 54182244	1500515	C#	eulerscheZahl	
-47225136	893541	Java	wala	
+52143024	893541	Java	wala	
 46719868	3348388	C++	bowwowforeach	
 44399992	1436776	C++	BrainSolver	
 41685408	1469666	C++	alenic	
@@ -107,6 +107,7 @@ Score	UserID	Lang	Pseudo	#optim,count=504,time=2021-03-25 03:00:54
 404300	199887	C#	sanpas83	
 403532	4026208	Java	alf38	
 401528	1880197	C++	bicklil	
+401368	1178276	Java	Jerome_95	
 398076	2172874	Rust	Med1ane	
 387012	2785892	Python3	levbor	
 381420	1427078	C++	ToshiTuringMachine	
@@ -146,6 +147,7 @@ Score	UserID	Lang	Pseudo	#optim,count=504,time=2021-03-25 03:00:54
 93812	4039884	C++	mzbear	
 93356	862919	C++	Astrobytes	
 90644	3522047	TypeScript	asgeirr	
+89752	2043908	C++	AntiSquid	
 87920	3606971	Javascript	LordVonAdel	
 86544	4086233	Python3	qwertz73355a	
 84136	1848459	Kotlin	Velcoro	
@@ -216,11 +218,9 @@ Score	UserID	Lang	Pseudo	#optim,count=504,time=2021-03-25 03:00:54
 50736	3807329	Python3	kostya200300	
 50372	3314029	Python3	Ravenpsycho	
 49768	3691491	Javascript	icecream17	
-49768	1178276	Java	Jerome_95	
 49692	2532837	Ruby	fauresebast	
 49692	1747550	C#	Rafalon	
 49692	4100445	Python3	MathiasBennick	
-49232	2043908	D	AntiSquid	
 49232	1194069	Python3	Redstrike	
 49232	3950687	Python3	vkreuz	
 49232	1781541	Java	Schwase	
