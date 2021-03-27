@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=12455,time=2021-03-26 02:30:28
+Score	UserID	Lang	Pseudo	#optim,count=12487,time=2021-03-27 02:30:31
 14337	329200	C++	BlitzProg	
 13905	3533119	C++	wlesavo	
 13603	1366631	Javascript	Morhaus	
@@ -276,6 +276,7 @@ Score	UserID	Lang	Pseudo	#optim,count=12455,time=2021-03-26 02:30:28
 2774	846817	C++	KENGURU	
 2773	2473755	Javascript	Chamchungue	
 2770	1915654	Lua	ZarsBranchkin	
+2770	4072753	C++	mdstoy	
 2766	1427078	Java	ToshiTuringMachine	
 2765	3958314	PHP	NicoDeug	
 2752	3271002	Java	Dinzy	
@@ -648,6 +649,9 @@ Score	UserID	Lang	Pseudo	#optim,count=12455,time=2021-03-26 02:30:28
 2532	1910916	Python3	VivienBillot	
 2532	4233915	Python3	randomCoder7	
 2532	4049743	Python3	Ikhchidi	
+2532	4056788	Python3	fbi8888	
+2532	3837392	Python3	Zald[i]eR	
+2532	2243940	Python3	Revenge911	
 2528	1034635	C++	SlyB	
 2528	1740237	Python3	OlegKornelsen	
 2526	2950978	Python3	icecuber	
@@ -938,7 +942,6 @@ Score	UserID	Lang	Pseudo	#optim,count=12455,time=2021-03-26 02:30:28
 2032	4213416	C#	oddoneout	
 2030	1654818	C	tarapitha	
 2030	1962192	Scala	nbronnec	
-2030	4072753	C++	mdstoy	
 2028	3489223	Javascript	KarloHubai	
 2024	2974905	Javascript	A-312	
 2022	1937604	Python3	AlexAndre	
@@ -996,6 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=12455,time=2021-03-26 02:30:28
 1952	2731276	C++	panda42	
 1950	155601	C++	mattox	
 1948	1418821	Lua	input.txt	
-1948	3797568	Python3	blefeuvr	
-1946	1188212	C	superredlark	
-1946	1410087	Javascript	ShiftBy	
