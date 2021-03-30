@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5855,time=2021-03-29 02:47:45
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5857,time=2021-03-30 02:30:14
 5	33.11	3193653	3004019	C++	karliso	
 5	31.27	880353	2975979	C++	zasmu	
 5	31.17	1082988	2982332	C++	Saelyos	
@@ -737,13 +737,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5855,time=2021-03-29 02:47:
 3	24.51	1529396	2976805	Python3	ulukai	
 3	24.49	1479552	2977698	TypeScript	Tom1	
 3	24.46	1415488	2978246	Javascript	alinde2	
+3	24.42	281532	2976665	Scala	Soullz	
 3	24.41	2320004	2978210	C#	Arthurique	
 3	24.41	1282856	2979300	Javascript	ErikBrendel	
 3	24.4	1415773	2980377	Go	pierre31	
 3	24.39	1528274	2978261	Ruby	BlanCap	
 3	24.38	1549145	2976014	C++	Mealc	
 3	24.38	3686275	2978967	C#	udu	
-3	24.37	281532	2976665	Scala	Soullz	
 3	24.35	2200342	2976575	C++	BernardoSulzbach	
 3	24.33	2135916	3144589	Python3	Oioi	
 3	24.32	2919814	2977776	Python3	YifengLin	
@@ -788,8 +788,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5855,time=2021-03-29 02:47:
 3	23.86	3803789	2980305	Java	jeffreyxiao	
 3	23.85	3581203	2979566	C++	franckCJ	
 3	23.84	3766547	2988638	Python3	mlink	
-3	23.81	1111798	2997758	Javascript	lifetimeLearner007	
 3	23.8	3800302	3459454	C++	v.cogut	
+3	23.8	1111798	2997758	Javascript	lifetimeLearner007	
 3	23.79	3147344	2978648	Python3	Gibruska	
 3	23.78	2310861	2975999	Python3	Ilovepie	
 3	23.77	3806286	2977764	Python3	St7	
@@ -825,13 +825,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5855,time=2021-03-29 02:47:
 3	23.38	990110	2977590	C++	Rogerup	
 3	23.38	1171469	2979292	Java	Reblochon	
 3	23.35	1815235	2977737	C#	Maliamnon	
+3	23.35	3804005	2977797	Java	GlitchyByte	
 3	23.35	3414155	2977392	Scala	Smerk	
 3	23.33	2297753	2979684	Python3	Warly7692	
 3	23.33	3380514	2976519	Java	DFrese	
 3	23.33	3764223	2978272	Go	ywake	
 3	23.33	3329545	2979622	Python3	stylemanguy	
 3	23.31	1015522	2977798	Python3	ratmir15	
-3	23.3	3804005	2977797	Java	GlitchyByte	
 3	23.3	1341106	2976853	Kotlin	ixepho	
 3	23.28	3800220	2977466	C++	Kurpilyansky	
 3	23.27	2675308	2977204	Javascript	vkochev	
@@ -908,12 +908,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5855,time=2021-03-29 02:47:
 3	22.29	3740207	2979286	Swift	violettis	
 3	22.28	1391220	2976750	PHP	mesavitae	
 3	22.26	3757728	2975969	C#	semera	
-3	22.15	3093780	2976177	Java	Stanhope	
+3	22.19	3093780	2976177	Java	Stanhope	
 3	22.14	1098634	2987916	Javascript	grsoares	
 3	22.13	3002906	2977705	Python3	[1078]ElChapo	
 3	22.13	3160781	3468121	Java	Aenerion35	
 3	22.09	153045	2979746	C++	nib	
-3	22.05	588426	2976767	C++	Jeff06	
 3	22.02	877888	2982474	Java	kael	
 3	22.01	3755775	2978159	Java	EmeryCSquared	
 3	22.01	1895212	2980466	Python3	Maxlaxs	
@@ -935,6 +934,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5855,time=2021-03-29 02:47:
 3	21.85	2664849	2977505	Kotlin	Polaris-Dust	
 3	21.85	1077559	2979824	Java	PhOeNyX	
 3	21.84	893177	2980474	C#	Rebelwillow	
+3	21.84	588426	2976767	C++	Jeff06	
 3	21.83	2680421	2979813	Java	Barons	
 3	21.83	1759839	2978707	Python3	matleg	
 3	21.82	1075260	2981488	Java	metwesse	
@@ -955,7 +955,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5855,time=2021-03-29 02:47:
 3	21.76	3501475	2979491	Python3	Over9000	
 3	21.75	3046779	2977622	Kotlin	Kathrin	
 3	21.73	154388	2978857	Rust	PonyPonyCodeCode	
-3	21.71	574826	2990338	Java	heisenbug	
 3	21.71	3769834	2978482	C#	Hoggins	
 3	21.69	1614797	2975886	Python3	irvcaza	
 3	21.67	624730	2977190	Scala	ak79	
@@ -985,16 +984,17 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5855,time=2021-03-29 02:47:
 3	21.58	3776706	2980526	C#	dashu_baba	
 3	21.57	3041715	2977613	Java	hlin	
 3	21.57	2856582	2979844	C++	Towelie	
+3	21.56	574826	2990338	Java	heisenbug	
 3	21.55	2112007	2978055	Javascript	KRAKEN	
 3	21.55	2709409	2979940	Python3	YesYes	
 3	21.5	3804739	2977200	C#	GhostDev	
 3	21.5	1639037	2976325	C++	Atlasx	
 3	21.49	1854639	2975938	C#	iDxMeG	
 3	21.48	1569420	2976443	Python3	Tuo	
+3	21.47	3818278	2975715	C++	_____snow_____	
 3	21.47	3324192	2979942	Python3	Spongebobcarre	
 3	21.46	3736924	2979495	Java	Autilis	
 3	21.45	3802563	2980236	Java	alex-schwartzman	
-3	21.45	3818278	2975715	C++	_____snow_____	
 3	21.43	1223140	2978644	Kotlin	kgautron	
 3	21.38	1686299	2978848	C++	JRiedl	
 3	21.37	3806519	2978641	Python3	ijc90	
