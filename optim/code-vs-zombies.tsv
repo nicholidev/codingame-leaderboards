@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=8732,time=2021-04-01 02:53:51
+Score	UserID	Lang	Pseudo	#optim,count=8744,time=2021-04-02 02:33:52
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -89,6 +89,7 @@ Score	UserID	Lang	Pseudo	#optim,count=8732,time=2021-04-01 02:53:51
 286210	153774	C++	cocoche007	
 285300	1267417	C++	co42	
 283160	1868716	Rust	RagingCactus	
+282300	3196495	C++	putibuzu	
 281790	3389226	C#	Peti88	
 280830	4168646	Rust	RaccoonWithSpork	
 278850	1944142	C++	yakalir	
@@ -334,7 +335,6 @@ Score	UserID	Lang	Pseudo	#optim,count=8732,time=2021-04-01 02:53:51
 150900	1584802	Python3	emh	
 150400	563069	Python3	Darkris	
 149650	2339129	Python3	ChristianSloper	
-149650	3196495	C++	putibuzu	
 148620	1743375	Java	redav	
 148500	2420671	Go	Irioth	
 147850	311035	Python3	leojean890	
@@ -861,6 +861,7 @@ Score	UserID	Lang	Pseudo	#optim,count=8732,time=2021-04-01 02:53:51
 63700	2590081	C++	Eris_C	
 63690	1713497	C#	NoisyBoy	
 63670	894985	Java	Warrows	
+63640	1457223	C++	jleconte	
 63630	3777252	Kotlin	KONFeature	
 63620	2689595	C++	youknowtherules	
 63620	3526028	C++	severrabaen	
@@ -902,7 +903,7 @@ Score	UserID	Lang	Pseudo	#optim,count=8732,time=2021-04-01 02:53:51
 63370	1620631	Python3	Testadicardi	
 63360	2671038	Python3	1one	
 63360	3983017	PHP	TLbuis	
-63330	3725891	C++	lord8266	
+63330	3725891	C++	VmlzaHdhIFByYXZpbiAK	
 63320	971701	Haskell	EduardoHi	
 63310	3158319	Javascript	BotMan94	
 63260	1586077	C	Woomb	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=8732,time=2021-04-01 02:53:51
 62510	4176076	C++	2134512	
 62490	2144934	Java	barrelrower	
 62490	900129	C++	Julien_E	
-62440	2646370	Python3	DenShlk	

@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=507,time=2021-04-01 02:53:53
+Score	UserID	Lang	Pseudo	#optim,count=509,time=2021-04-02 02:33:54
 62564496	2288263	Rust	dbdr	
 59353524	765200	Rust	FrancoisB	
 59353464	3457031	C++	YurkovAS	
@@ -10,7 +10,7 @@ Score	UserID	Lang	Pseudo	#optim,count=507,time=2021-04-01 02:53:53
 56679460	2311105	C++	kovi	
 56228180	1378958	C#	Illedan	
 56158848	3533119	C++	wlesavo	
-54319484	893541	Java	wala	
+54925444	893541	Java	wala	
 54182244	1500515	C#	eulerscheZahl	
 46719868	3348388	C++	bowwowforeach	
 44399992	1436776	C++	BrainSolver	
@@ -156,6 +156,7 @@ Score	UserID	Lang	Pseudo	#optim,count=507,time=2021-04-01 02:53:53
 79900	523185	Python3	Hjax	
 79660	3726978	C++	VirtualAtom	
 79660	3496153	Python3	lndshs	
+79660	894599	Python3	DidierC	
 79044	1740237	Python3	OlegKornelsen	
 78364	2709791	Python3	YOMar	
 77068	3792309	C++	schachmatt	
@@ -342,6 +343,7 @@ Score	UserID	Lang	Pseudo	#optim,count=507,time=2021-04-01 02:53:53
 20932	3665464	Swift	TheFalk	
 20284	631323	Python3	herve056	
 20284	4124618	Python3	madman1304	
+20284	2978314	Python3	guir	
 20084	3551982	Python3	nurlybek-dev	
 19912	1391234	PHP	DeathMask	
 17880	4115531	Java	LaurentBNX	
