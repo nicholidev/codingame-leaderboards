@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=4432,time=2021-04-03 02:55:40
+Score	UserID	Lang	Pseudo	#optim,count=4433,time=2021-04-04 02:40:46
 2759	1301401	C#	Stanax	
 2761	1833680	C++	jvivenot	
 2765	2288263	Rust	dbdr	
@@ -47,7 +47,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4432,time=2021-04-03 02:55:40
 3413	1100752	C++	ValNykol	
 3415	601054	C++	geza	
 3425	553938	C++	MagAlex	
-3428	1952778	Go	11000	
+3428	1952778	Go	x-11000	
 3430	3035070	C#	Ipso	
 3439	1178569	Python3	Azerrr	
 3445	668954	C++	Fluxor	
@@ -344,6 +344,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4432,time=2021-04-03 02:55:40
 4557	2290633	Python3	field3	
 4558	2726969	Ruby	alokhmutov	
 4559	3594074	C++	jopo	
+4583	3815413	Swift	Michael_Howard	
 4592	2567580	C++	veryRandom	
 4599	1245791	Python3	Bad_Wolf	
 4604	3999478	C#	FuriousT	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=4432,time=2021-04-03 02:55:40
 5912	1348832	C#	AzatJalilov	
 5912	1528671	C#	saarixx	
 5912	1788623	Python3	YuanxiangFranck	
-5912	1346262	Python3	ggnel	

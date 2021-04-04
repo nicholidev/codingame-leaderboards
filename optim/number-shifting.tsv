@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=260,time=2021-04-03 02:55:36
+Score	UserID	Lang	Pseudo	#optim,count=261,time=2021-04-04 02:40:49
 999	1629259	PHP	Marchete	
 999	3354337	C++	Westicles	
 700	3949307	C++	xevixevi	
@@ -23,12 +23,12 @@ Score	UserID	Lang	Pseudo	#optim,count=260,time=2021-04-03 02:55:36
 139	1500515	PHP	eulerscheZahl	
 137	1378958	PHP	Illedan	
 123	2406605	C	docri	
+101	3136787	Python3	jacek	
 100	490588	PHP	Uljahn	
 99	1449433	C++	Rolf	
 95	3457031	PHP	YurkovAS	
 95	3726978	PHP	VirtualAtom	
 95	3770485	PHP	zakki	
-91	3136787	Python3	jacek	
 89	1484839	PHP	sparky	
 89	3938495	OCaml	o11s	
 80	2451652	PHP	code_of_the_dead	
@@ -52,6 +52,7 @@ Score	UserID	Lang	Pseudo	#optim,count=260,time=2021-04-03 02:55:36
 45	2416641	PHP	Zenoscave	
 45	398735	C#	mogikanin	
 45	3983017	PHP	TLbuis	
+45	4216789	Perl	Saur2000	
 44	862336	PHP	Zaphus	
 43	1753077	Python3	codingWhale	
 42	4104174	Java	Jo4	
@@ -66,7 +67,6 @@ Score	UserID	Lang	Pseudo	#optim,count=260,time=2021-04-03 02:55:36
 32	2045078	PHP	Sharaks	
 32	3647844	Python3	rc95401	
 30	3845610	Python3	pardouin	
-30	4216789	Perl	Saur2000	
 29	792813	Python3	VilBoub	
 28	1630890	PHP	Wld	
 28	2172874	Rust	Med1ane	
@@ -146,6 +146,7 @@ Score	UserID	Lang	Pseudo	#optim,count=260,time=2021-04-03 02:55:36
 9	4045442	Python3	slapslash	
 9	1485015	C++	Murky	
 9	3903473	Python3	Konstant	
+9	1952778	Go	x-11000	
 8	1172385	C#	LuckyMe	
 8	735487	PHP	amurushkin	
 8	1600229	Python3	Emilem	

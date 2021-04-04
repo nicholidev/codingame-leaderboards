@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=510,time=2021-04-03 02:55:39
+Score	UserID	Lang	Pseudo	#optim,count=511,time=2021-04-04 02:40:50
 62564496	2288263	Rust	dbdr	
 59353524	765200	Rust	FrancoisB	
 59353464	3457031	C++	YurkovAS	
@@ -16,8 +16,8 @@ Score	UserID	Lang	Pseudo	#optim,count=510,time=2021-04-03 02:55:39
 44399992	1436776	C++	BrainSolver	
 41685408	1469666	C++	alenic	
 41511628	1114834	C++	k4ng0u	
+27896492	490588	Python3	Uljahn	
 27075256	820000	C++	ValGrowth	
-26627444	490588	Python3	Uljahn	
 26616720	2786666	C++	TetraktysPhi	
 25676108	2923506	C++	darkhorse64	
 24748316	3337117	Rust	timbersson	
@@ -49,6 +49,7 @@ Score	UserID	Lang	Pseudo	#optim,count=510,time=2021-04-03 02:55:39
 9607648	416894	C++	MeDev	
 9282440	3305510	PHP	TBali	
 8844524	4119186	C#	Rxelux	
+8693156	1952778	Go	x-11000	
 8607268	3898813	C++	3ifndef	
 8494736	311035	Go	leojean890	
 8305688	1515891	Go	ndc	
@@ -57,7 +58,6 @@ Score	UserID	Lang	Pseudo	#optim,count=510,time=2021-04-03 02:55:39
 7551380	3721214	C++	jrke	
 7458284	524638	C++	miklla	
 7365316	1314316	C++	jolindien	
-7263904	1952778	Go	11000	
 6722180	3996809	C++	VizGhar	
 6254508	512097	C++	Stilgart	
 5518472	884874	D	Zauberer	
@@ -179,6 +179,7 @@ Score	UserID	Lang	Pseudo	#optim,count=510,time=2021-04-03 02:55:39
 64660	2202771	Java	Kaplone	
 64212	3446921	Python3	TheOtherAKS	
 63648	4105782	C++	Koisic	
+63552	3906946	Python3	annaproxy	
 62852	4159245	Go	KarhuTheBear	
 61708	4055865	C++	hcabel	
 61700	3625469	Python3	Crimson_King	
@@ -235,6 +236,7 @@ Score	UserID	Lang	Pseudo	#optim,count=510,time=2021-04-03 02:55:39
 49232	4187844	PHP	g74o	
 49100	2708267	Javascript	XyoloJR	
 48868	4085148	Javascript	oppos	
+48704	2978314	Python3	guir	
 48636	3115713	C	faneyer	
 48460	4105018	Python3	MarcDillar	
 48220	165671	Python3	[CG]cyppan	
@@ -255,7 +257,6 @@ Score	UserID	Lang	Pseudo	#optim,count=510,time=2021-04-03 02:55:39
 43648	958227	Python3	LantarSidonis	
 43648	2331861	Java	AranoBredero	
 43648	1480426	Python3	Hikari42	
-43648	2978314	Python3	guir	
 43508	481564	VB.NET	mihei	
 43468	4065637	C#	Baby1991	
 43220	1259143	C++	Bence886	
