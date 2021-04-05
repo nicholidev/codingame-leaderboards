@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=8760,time=2021-04-04 02:40:46
+Score	UserID	Lang	Pseudo	#optim,count=8769,time=2021-04-05 02:33:19
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -43,6 +43,7 @@ Score	UserID	Lang	Pseudo	#optim,count=8760,time=2021-04-04 02:40:46
 456270	4009347	Rust	JaworWr	
 453510	3457031	C++	YurkovAS	
 447880	3627342	C#	Zuabros	
+444790	3196495	C++	putibuzu	
 441200	638784	C++	Yqnn	
 436580	1307473	C++	Evgenykz	
 430190	1500515	C#	eulerscheZahl	
@@ -68,7 +69,6 @@ Score	UserID	Lang	Pseudo	#optim,count=8760,time=2021-04-04 02:40:46
 348360	1354295	C	AbdullahKhawer	
 348130	918352	C++	CoYoTe99	
 347980	1724524	C#	Duaner	
-344520	3196495	C++	putibuzu	
 344400	1304841	C++	NitMpez	
 330670	3952328	C++	Lambdadelta	
 327550	1728288	C#	MOLP	
@@ -532,6 +532,7 @@ Score	UserID	Lang	Pseudo	#optim,count=8760,time=2021-04-04 02:40:46
 77760	712849	Java	Tabea	
 77530	153937	C++	oook	
 77510	1540394	C#	LVdA	
+77290	2434422	Python3	GilMaN	
 77070	1122239	C	AymenT	
 76520	1753925	Java	Wildcat	
 76350	3869618	Python3	tsds	
@@ -635,6 +636,7 @@ Score	UserID	Lang	Pseudo	#optim,count=8760,time=2021-04-04 02:40:46
 65220	965650	Go	abrl	
 65170	602886	TypeScript	[CG]teuteuf	
 65140	1418821	C++	input.txt	
+65140	230015	Java	Kolo9	
 65130	844547	Java	Superthib	
 65120	365796	Javascript	CvxFous	
 65090	1811179	Java	Tetarus	
@@ -912,6 +914,7 @@ Score	UserID	Lang	Pseudo	#optim,count=8760,time=2021-04-04 02:40:46
 63250	1006340	C	Gamer-omar	
 63240	1527062	Javascript	dst	
 63240	2927320	Python3	itectori	
+63240	4252318	C#	tihomir-kit	
 63230	1825154	Java	ClemonOfficiel	
 63190	858629	C#	astryad	
 63190	1153428	Javascript	Gromelon	
@@ -996,6 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=8760,time=2021-04-04 02:40:46
 62540	4220057	Python3	EvilRed	
 62520	950027	PHP	Enleur	
 62520	1252796	PHP	franzferdinand	
-62520	3386271	Java	emloD	
-62510	717456	Ruby	BullsEye72	
-62510	4176076	C++	2134512	

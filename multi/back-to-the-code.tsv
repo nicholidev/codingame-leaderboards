@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4706,time=2021-04-04 00:30:06
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4706,time=2021-04-05 00:30:03
 0	47.44	1433161	1484525	C	Mingu	
 0	45.82	494104	455215	C++	Recar	
 0	45.55	990110	357643	C++	Rogerup	
@@ -552,6 +552,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4706,time=2021-04-04 00:30:
 0	33.36	1378254	414593	Lua	zet23t	
 0	33.34	721245	342650	ObjectiveC	Eugene1	
 0	33.33	445200	885503	Go	khreenberg	
+0	33.26	1061542	355530	Java	Mwha	
 0	33.26	1013649	361769	C	Nodren	
 0	33.25	837180	342014	C++	Arkh45	
 0	33.25	1350974	411575	PHP	Zyxx	
@@ -559,7 +560,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4706,time=2021-04-04 00:30:
 0	33.25	1145498	364197	Java	Mouseas	
 0	33.24	972414	353118	Java	Hackman	
 0	33.24	783337	349922	Java	Dewey	
-0	33.2	1061542	355530	Java	Mwha	
 0	33.2	819803	345626	Java	Anordil	
 0	33.2	1052068	353141	C++	kkjj	
 0	33.19	1062192	348596	C	Ch_Amine	
@@ -892,10 +892,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4706,time=2021-04-04 00:30:
 0	30.51	155853	583565	Java	gansheer	
 0	30.51	1054714	342602	Python	ScottKulp	
 0	30.5	344844	356098	Java	Vinicius.oh	
-0	30.5	1369369	1391279	Python3	JulienDalle	
 0	30.5	1112163	803443	C++	JaredReimer	
 0	30.49	270926	347486	Python	NigelSheldon	
 0	30.49	954005	477233	Python3	sulan	
+0	30.48	1369369	1391279	Python3	JulienDalle	
 0	30.48	1448366	576791	C++	Mihai2121	
 0	30.47	608523	3065745	C++	Blinkq	
 0	30.46	1743393	1077543	C++	Yudzhin	
@@ -980,6 +980,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4706,time=2021-04-04 00:30:
 0	29.64	1438835	574635	Python	smohn	
 0	29.63	1010993	343263	C#	Hurrikhan	
 0	29.6	1480501	1859725	C++	DaFish	
+0	29.59	1438036	762403	Java	Bubbly_Bee	
 0	29.58	1189814	369357	Java	xy007	
 0	29.58	1477791	791172	C++	seitec01	
 0	29.57	950027	352227	PHP	Enleur	
@@ -993,9 +994,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4706,time=2021-04-04 00:30:
 0	29.52	1139455	439520	C	Anton_	
 0	29.51	4108928	3434625	Python3	Zagar	
 0	29.51	951799	340824	Clojure	danimano	
+0	29.5	890975	341714	Javascript	e9	
 0	29.5	1059831	347111	Java	Moystia	
 0	29.5	224724	509642	Java	Nomad	
 0	29.48	476180	347248	C#	Kp0c	
 0	29.48	1358490	415526	Python3	thisfred	
-0	29.46	774979	347274	Ruby	Jakski	
-0	29.45	359956	342514	C	Hufo	
