@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=512,time=2021-04-05 02:33:23
+Score	UserID	Lang	Pseudo	#optim,count=513,time=2021-04-06 02:40:56
 62564496	2288263	Rust	dbdr	
 59353524	765200	Rust	FrancoisB	
 59353464	3457031	C++	YurkovAS	
@@ -61,6 +61,7 @@ Score	UserID	Lang	Pseudo	#optim,count=512,time=2021-04-05 02:33:23
 6722180	3996809	C++	VizGhar	
 6254508	512097	C++	Stilgart	
 5518472	884874	D	Zauberer	
+5005228	4205154	C++	tuna_in_cream	
 4966560	1162014	Java	Bojan	
 4731152	3738782	C#	Inaniwa	
 4658788	3165536	C++	barbora	
@@ -108,7 +109,6 @@ Score	UserID	Lang	Pseudo	#optim,count=512,time=2021-04-05 02:33:23
 435988	273004	Python3	ptitrex	
 415156	182536	C	dbo	
 407312	1479930	C++	LeRenard	
-406480	4205154	C++	tuna_in_cream	
 404300	199887	C#	sanpas83	
 403532	4026208	Java	alf38	
 401528	1880197	C++	bicklil	
@@ -505,6 +505,7 @@ Score	UserID	Lang	Pseudo	#optim,count=512,time=2021-04-05 02:33:23
 344	4109521	Java	Gabriel_Radtke	
 344	1441471	Haskell	bitwave	
 344	4102952	Java	Patev	
+344	4263517	Python3	MarekK	
 300	4094683	Python3	Loes	
 300	275626	Javascript	GreyMoon	
 300	3487406	C#	SyvachenkoMK	
