@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=162,time=2021-04-06 00:40:22
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=163,time=2021-04-07 00:37:15
 2	35.82	3756199	3337781	C++	KnightMoves	
 2	34.17	2924895	3394679	C	trictrac	
 2	33.14	1479930	3469734	C++	LeRenard	
@@ -38,7 +38,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=162,time=2021-04-06 00:40:2
 2	21.39	3086748	3226657	Python3	Andy314	
 2	21.27	1040176	3327828	Rust	BoBot	
 2	20.95	1490383	3167685	C++	arkwaw	
-2	20.94	4245088	3488530	Python3	MiXFR	
+2	20.94	4245088	3488530	Python3	EE4MGT	
 2	20.83	1022266	3170501	Python3	theopan	
 2	20.79	2566623	3168640	PHP	VincentBab	
 2	20.69	4039528	3164325	Python3	Elnaril	
@@ -118,7 +118,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=162,time=2021-04-06 00:40:2
 0	23.7	490905	3167611	Python3	lechium06_	
 0	23.63	2342135	3161087	Java	benoyt	
 0	23.1	3986479	3160532	Python3	sbrnc	
-0	22.33	599497	3159938	C++	codybumba	
+0	22.32	599497	3159938	C++	codybumba	
 0	22.1	3977423	3230220	Javascript	uralrex	
 0	21.48	1309948	3162901	C++	Runner87	
 0	20.56	3722545	3159745	Kotlin	Hiboooo	
@@ -132,10 +132,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=162,time=2021-04-06 00:40:2
 0	17.75	3691491	3160112	Javascript	icecream17	
 0	15.72	2069141	3337866	C#	tomeko	
 0	15.66	1108960	3164186	C++	ing-chuck	
-0	13.79	3687851	3474321	C++	Guillaume0385	
+0	13.81	3687851	3474321	C++	Guillaume0385	
 0	8.72	1849062	3363788	Python3	AnkitAnand_12	
 0	8.67	4003501	3159208	Python3	azertyty	
-0	8.49	3989427	3158597	Python3	LaurentHrt	
+0	8.58	3989427	3158597	Python3	LaurentHrt	
 0	8.32	1861258	3167341	Rust	Nazdhun	
 0	8.02	4015974	3162457	Python3	Daclio	
 0	7.95	3660819	3163794	C++	BloodyTurtles	
@@ -145,19 +145,20 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=162,time=2021-04-06 00:40:2
 0	7.36	3919005	3158969	C++	tchastai	
 0	7.31	1830625	3160813	C++	-Rutger-	
 0	7.17	4029033	3150738	TypeScript	3DPerson	
-0	7.16	3772945	3167804	Python3	Ucf	
-0	7.13	1775154	3165145	Go	Voltron	
+0	7.17	3772945	3167804	Python3	Ucf	
+0	7.14	1775154	3165145	Go	Voltron	
 0	7.12	2156856	3158707	C++	Architektor	
 0	7.1	2583696	3160705	Python3	eCoder.io	
-0	7.09	3842044	3160127	C#	cuc9812	
+0	7.1	3842044	3160127	C#	cuc9812	
 0	7.09	2325449	3314540	Perl	otpv	
+0	7.09	1713174	3121371	Python3	BigUP	
 0	7.08	3039456	3159734	Java	SabertheLost	
-0	7.07	1713174	3121371	Python3	BigUP	
-0	7.02	3939425	3316028	Python3	Coury	
-0	7.02	3795982	3162919	Java	Laffont_Emile	
-0	6.99	807967	3161024	Haskell	Pizza	
-0	6.97	4029718	3163411	C++	Chrystal	
-0	6.94	3354337	3450267	C++	Westicles	
-0	6.93	2245636	3160557	Javascript	Etoiline	
-0	6.89	2612889	3163110	C#	Symphonia	
-0	6.76	3992388	3124137	C++	aaaa111	
+0	7.05	3939425	3316028	Python3	Coury	
+0	7.04	3795982	3162919	Java	Laffont_Emile	
+0	7.02	807967	3161024	Haskell	Pizza	
+0	7.01	3354337	3450267	C++	Westicles	
+0	6.98	4029718	3163411	C++	Chrystal	
+0	6.98	2245636	3160557	Javascript	Etoiline	
+0	6.93	4264647	3488982	Python3	FlexGang	
+0	6.9	2612889	3163110	C#	Symphonia	
+0	6.84	3992388	3124137	C++	aaaa111	
