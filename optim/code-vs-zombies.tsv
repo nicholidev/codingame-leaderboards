@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=8804,time=2021-04-07 02:37:39
+Score	UserID	Lang	Pseudo	#optim,count=8823,time=2021-04-08 02:34:26
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -179,6 +179,7 @@ Score	UserID	Lang	Pseudo	#optim,count=8804,time=2021-04-07 02:37:39
 214740	3965091	C		
 214510	3965095	C	Scotty9	
 213710	1705689	Java	XanX3601	
+213400	230015	C++	Kolo9	
 212920	1284747	C++	mr-push	
 212770	154935	Scala	yamo	
 212000	1754295	C++	SF	
@@ -240,7 +241,6 @@ Score	UserID	Lang	Pseudo	#optim,count=8804,time=2021-04-07 02:37:39
 192440	2232492	Javascript	coolraoul	
 192340	2232496	Javascript	totopopo	
 192030	1518732	Java	Apfeloxid	
-191590	230015	C++	Kolo9	
 190500	2179804	Python3	Haegh	
 190490	2154217	Java	EliasCanalesNieto	
 189440	3941402	Java	Delfic	
@@ -337,6 +337,7 @@ Score	UserID	Lang	Pseudo	#optim,count=8804,time=2021-04-07 02:37:39
 150900	1584802	Python3	emh	
 150400	563069	Python3	Darkris	
 149650	2339129	Python3	ChristianSloper	
+149490	1426685	C++	glebc	
 148620	1743375	Java	redav	
 148500	2420671	Go	Irioth	
 147850	311035	Python3	leojean890	
@@ -794,6 +795,8 @@ Score	UserID	Lang	Pseudo	#optim,count=8804,time=2021-04-07 02:37:39
 64260	4199383	Javascript	patrickwoldberg	
 64260	4124688	Python3	Murat_Eroglu	
 64260	3136787	C++	jacek	
+64260	1320338	C#	Yves-MarieYmcaBlaevoet	
+64260	3962659	C++	ShortBaited	
 64250	2858320	C++	Loule	
 64230	155928	PHP	pk	
 64230	1147815	Python3	Tashiqi	
@@ -996,6 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=8804,time=2021-04-07 02:37:39
 62540	3937932	TypeScript	OnTheBrink	
 62540	2494415	Java	devpragmatic	
 62540	1489068	C++	Subby_	
-62540	764093	Python3	Melf	
-62540	4220057	Python3	EvilRed	
-62520	950027	PHP	Enleur	

@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=700,time=2021-04-07 02:37:27
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=699,time=2021-04-08 02:34:15
 6	38.06	3193653	2433021	C++	karliso	
 6	32.82	1400179	2431247	C++	reCurse	
 6	28.34	3243532	2431241	Java	teccles	
@@ -621,9 +621,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=700,time=2021-04-07 02:37:2
 1	12.38	3441312	3138510	Python3	Lara_SL	
 1	12.32	3985302	3129716	C	Chirumer	
 1	12.18	1724069	3133163	F#	jmpeg	
-1	12.1	1627476	2618172	C#	SkillRaider	
 1	11.93	3711851	3149555	C#	Gimpo	
-1	11.42	2465594	2623309	C#	DoomBots	
+1	11.42	2465594	2623309	C#	SkillRaider	
 1	11.31	1975273	3115971	Haskell	RogueElement	
 1	11.05	1186292	3157224	Rust	GLE	
 1	11.05	3089793	3127430	PHP	bflaceliere	
