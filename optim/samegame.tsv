@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=283,time=2021-04-08 02:34:33
+Score	UserID	Lang	Pseudo	#optim,count=284,time=2021-04-09 03:13:23
 174652	3354337	Scala	Westicles	
 167588	1530051	C++	UlYoP	
 165192	2968035	C++	DomiKo	
@@ -35,6 +35,7 @@ Score	UserID	Lang	Pseudo	#optim,count=283,time=2021-04-08 02:34:33
 73040	820000	C++	ValGrowth	
 70133	3808317	C++	Bax533	
 69474	1114834	C++	k4ng0u	
+69072	3046779	Java	Kathrin	
 68798	3136962	C++	marimarek	
 68670	3839774	C	gurvan_lullien	
 68423	1684030	Rust	Mator	
@@ -46,7 +47,6 @@ Score	UserID	Lang	Pseudo	#optim,count=283,time=2021-04-08 02:34:33
 62112	1436776	C++	BrainSolver	
 57552	3015376	Python3	gaha	
 56950	3260156	C#	KrzysiekSlawik	
-56015	3046779	Rust	Kathrin	
 54688	3721214	C++	jrke	
 54084	973040	C	papyjo	
 52927	1489865	C++	EricSMSO	
@@ -116,6 +116,7 @@ Score	UserID	Lang	Pseudo	#optim,count=283,time=2021-04-08 02:34:33
 23428	1160614	C#	moon21	
 22680	507538	Python3	Krzybe	
 22238	2785892	Python3	levbor	
+21068	1480426	Python3	Hikari42	
 20699	153931	C#	Bast	
 20198	3979220	Java	sahdevav	
 19462	970195	C++	Elbanono	

@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=8823,time=2021-04-08 02:34:26
+Score	UserID	Lang	Pseudo	#optim,count=8835,time=2021-04-09 03:13:20
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -11,6 +11,7 @@ Score	UserID	Lang	Pseudo	#optim,count=8823,time=2021-04-08 02:34:26
 734190	1169499	C++	naab	
 728130	1436776	C++	BrainSolver	
 726490	1243582	Javascript	Daugone	
+721100	1629259	C++	Marchete	
 705070	805067	Javascript	Magus	
 701040	2419544	Java	Intergalactic_space_lord	
 682520	2522090	C#	MSmits	
@@ -31,7 +32,6 @@ Score	UserID	Lang	Pseudo	#optim,count=8823,time=2021-04-08 02:34:26
 476930	1485690	C++	Kikoo	
 473600	1029663	C	Skreamly	
 473010	4073052	C++	slrn	
-470760	1629259	Java	Marchete	
 468050	2675733	C	PuppyPuncher	
 467270	888746	C++	Phate	
 466860	3918583	Rust	mikmak	
@@ -417,6 +417,7 @@ Score	UserID	Lang	Pseudo	#optim,count=8823,time=2021-04-08 02:34:26
 115310	2479417	C++	Papa94	
 114480	4119720	C++	maniekTC	
 114440	1741901	Go	Jerome_Laforge	
+113950	2202751	C++	MacedoH	
 113480	3310317	Python3	AWOL	
 113140	965891	Javascript	ElanVB	
 112920	1181768	Javascript	dio_O	
@@ -797,6 +798,7 @@ Score	UserID	Lang	Pseudo	#optim,count=8823,time=2021-04-08 02:34:26
 64260	3136787	C++	jacek	
 64260	1320338	C#	Yves-MarieYmcaBlaevoet	
 64260	3962659	C++	ShortBaited	
+64260	3699517	C++	Mhite	
 64250	2858320	C++	Loule	
 64230	155928	PHP	pk	
 64230	1147815	Python3	Tashiqi	
@@ -989,6 +991,7 @@ Score	UserID	Lang	Pseudo	#optim,count=8823,time=2021-04-08 02:34:26
 62610	949601	Python3	Romkinder	
 62610	1893667	PHP	AnthonyT	
 62610	3493230	Rust	sgalasso	
+62610	701553	Java	JRR	
 62590	3418530	Python3		
 62570	2672932	Python3	Lanfeust	
 62550	558770	Java	lD	
@@ -996,6 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=8823,time=2021-04-08 02:34:26
 62540	1431710	Java	Thorb	
 62540	1537302	Python3	SMyalski	
 62540	1934314	Java	Leech2120	
-62540	3937932	TypeScript	OnTheBrink	
-62540	2494415	Java	devpragmatic	
-62540	1489068	C++	Subby_	
