@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=559,time=2021-04-09 03:13:13
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=560,time=2021-04-10 02:34:27
 5	33.76	2725066	2311007	C#	Cize	
 5	32.2	1314316	2223882	C++	jolindien	
 5	32.12	854952	2245515	C++	dolmen1234	
@@ -497,14 +497,14 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=559,time=2021-04-09 03:13:1
 0	14.64	2572485	2203839	Ruby	DGynn	
 0	14.21	3248689	2308305	C++	Sujet	
 0	14.18	3353015	2847691	Python3	Salted	
-0	14.09	1412140	2203111	C++	CyrilMtl	
+0	14.17	1412140	2203111	C++	CyrilMtl	
 0	14.09	2128042	3109147	Python3	johny22	
 0	14.06	2613192	2897148	C++	sigus	
 0	13.87	1491995	2418275	C#	Tyir	
 0	13.37	3620387	2633818	Python3	mdaw323	
 0	13.21	1990452	2262910	C#	Benoit_L	
+0	13.16	1389861	2481697	Java	Evgenykz3	
 0	13.06	1073604	2237096	C#	speedFast	
-0	13.06	1389861	2481697	Java	Evgenykz3	
 0	12.67	4029033	3151293	C++	3DPerson	
 0	12.61	2501808	2205489	Javascript	Robles	
 0	12.59	1348621	2219987	C	sephi	
@@ -513,8 +513,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=559,time=2021-04-09 03:13:1
 0	11.45	4170226	3416435	Python3	Shadowcoder90	
 0	11.4	1374052	2195121	Java	Pesegato	
 0	10.91	2202771	2349808	Java	Kaplone	
+0	9.11	2064633	3489105	Ruby	kev_in	
 0	8.82	3657204	3390182	Javascript	mdaraujo	
-0	8.33	2064633	3489105	Ruby	kev_in	
 0	2.99	3913862	3444846	Python3	Kistouf82	
 0	1.73	1816257	2338863	Python3	Bullle	
 0	1.67	2713608	2464179	C	LostSymphony	
@@ -547,13 +547,14 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=559,time=2021-04-09 03:13:1
 0	0.99	3097580	2212497	Python	Flip_Flop_Destroyer	
 0	0.9	3039344	2357904	C++	That_Undead_Legacy	
 0	0.88	2998255	2196191	Javascript	FFS	
+0	0.78	4270199	3494286	Bash	Mob99_100	
 0	0.65	4007936	3456733	C++	exor	
 0	0.21	3354337	3450524	C++	Westicles	
-0	-8.49	3992618	3422262	C++	Vandenis	
+0	-8.51	3992618	3422262	C++	Vandenis	
 0	-9.06	4086152	3446777	Bash	Hunter64TheOne	
-0	-9.25	4080496	3319290	Javascript	itsyarl	
-0	-9.4	3515090	3380564	Python3	mvv	
-0	-10.42	3473768	2483327	Java	higle	
+0	-9.3	4080496	3319290	Javascript	itsyarl	
+0	-9.43	3515090	3380564	Python3	mvv	
+0	-10.43	3473768	2483327	Java	higle	
 0	-10.92	3090212	2207687	Python	Still_a_Piece_of_Garbage	
 0	-11.19	3721214	3042936	C++	jrke	
 0	-12.37	2181365	2206272	Kotlin	Nikolaev_Alex	
