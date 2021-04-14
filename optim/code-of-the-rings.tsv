@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=4464,time=2021-04-13 03:32:25
+Score	UserID	Lang	Pseudo	#optim,count=4468,time=2021-04-14 02:30:52
 2759	1301401	C#	Stanax	
 2761	1833680	C++	jvivenot	
 2765	2288263	Rust	dbdr	
@@ -385,6 +385,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4464,time=2021-04-13 03:32:25
 4702	1826849	C++	Geplik	
 4710	865185	Java	alexshramko	
 4715	3855753	Python3	tuan91	
+4716	1408260	C#	cucurucu	
 4717	788361	C++	Bob	
 4718	1814485	C#	Fluttershy	
 4737	3835659	Rust	Nimatt	
@@ -399,6 +400,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4464,time=2021-04-13 03:32:25
 4772	3947806	C#	Kr4unos	
 4774	569223	Javascript	Glutamatt	
 4775	389175	Java	Folkenn84	
+4777	594697	C#	dimulien	
 4782	847675	Haskell	RobinHood	
 4818	855492	Java	Erk	
 4821	1020626	Javascript	PiterYeh	
@@ -611,7 +613,6 @@ Score	UserID	Lang	Pseudo	#optim,count=4464,time=2021-04-13 03:32:25
 5736	1740037	Scala	ereiam	
 5736	2550213	C#	hogehoge	
 5736	2438065	Rust	iter	
-5736	1408260	C#	cucurucu	
 5739	971137	C++	Burlinn	
 5739	1232188	Python3	Sylven	
 5743	4090664	Kotlin	sikr_	
@@ -793,6 +794,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4464,time=2021-04-13 03:32:25
 5860	762642	Python3	Wonyoung	
 5860	2858320	C++	Loule	
 5860	1657904	Python3	yschou	
+5860	1688826	TypeScript	statox	
 5861	954356	C++		
 5861	420035	Pascal	bvs23bkv33	
 5861	1483798	Ruby	hm001	
@@ -997,5 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=4464,time=2021-04-13 03:32:25
 5908	948764	Javascript	Katie	
 5908	1235498	Java	Bouh	
 5909	3784861	Haskell	thiebt	
-5911	2856582	Python3	Towelie	
-5912	970195	C++	Elbanono	
