@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4709,time=2021-04-15 00:30:04
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4710,time=2021-04-16 01:19:19
 0	47.44	1433161	1484525	C	Mingu	
 0	45.82	494104	455215	C++	Recar	
 0	45.55	990110	357643	C++	Rogerup	
@@ -355,10 +355,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4709,time=2021-04-15 00:30:
 0	35	1036012	343571	Haskell	Chahine	
 0	35	370259	343960	VB.NET	Queloune	
 0	34.99	1038437	354577	Python3	dbur	
-0	34.99	1267417	374725	Python3	co42	
 0	34.98	980671	350251	Python	bwbaugh	
 0	34.98	1044705	342220	Python	Roysh9	
 0	34.98	1288865	411370	C	codyboto	
+0	34.98	1267417	374725	Python3	co42	
 0	34.98	155934	356674	PHP	Ninsuo	
 0	34.97	811857	350465	Java	Illumine	
 0	34.96	846937	345706	F#	HintOfBrain	
@@ -494,6 +494,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4709,time=2021-04-15 00:30:
 0	33.85	1431373	492861	C++	Kornel07bd	
 0	33.85	1416725	1229101	C	BayashiPascal	
 0	33.84	792813	356355	Python3	VilBoub	
+0	33.84	1047061	342478	Java	ThePiti85	
 0	33.84	1291467	1393993	Javascript	Grimpeur	
 0	33.83	1059122	354676	C++	g2lm	
 0	33.83	1211916	1590022	Python3	Hobbit	
@@ -501,7 +502,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4709,time=2021-04-15 00:30:
 0	33.81	1072075	345860	Javascript	vieirasub07	
 0	33.8	1186871	366966	Ruby	bnd	
 0	33.79	595698	350923	C++	Kwekken	
-0	33.78	1047061	342478	Java	ThePiti85	
 0	33.78	1020589	355038	Java	Jevri	
 0	33.77	1502379	2668277	Java	B-GangsteR	
 0	33.77	941843	356067	Java	S4M37	
@@ -640,7 +640,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4709,time=2021-04-15 00:30:
 0	32.69	1792532	2702493	C#	Zanbez	
 0	32.68	4108922	3434702	Python3	PiZa_OuiOui	
 0	32.68	4108919	3434712	Python3	PaPyTiger	
-0	32.65	4108926	3434689	Python3	Saydrick	
 0	32.65	406152	357568	Python	TiarinBlate	
 0	32.64	968305	357298	C++	Mickael.a	
 0	32.64	902195	345241	Java	0x43-0x50	
@@ -653,6 +652,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4709,time=2021-04-15 00:30:
 0	32.61	1411379	601007	C#	R3N4U6	
 0	32.6	1047881	356780	Scala	GreenTea	
 0	32.6	1339431	3047741	Javascript	Enie	
+0	32.59	4108926	3434689	Python3	Saydrick	
 0	32.57	1898847	2242355	C	faga	
 0	32.57	218189	415584	Python3	[CG]Maxime	
 0	32.56	1087109	361761	C++	Norival	

@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=8902,time=2021-04-15 02:49:26
+Score	UserID	Lang	Pseudo	#optim,count=8912,time=2021-04-16 04:29:42
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -234,6 +234,7 @@ Score	UserID	Lang	Pseudo	#optim,count=8902,time=2021-04-15 02:49:26
 195930	4039884	C++	mzbear	
 195880	1061242	C++	martinpapa69	
 195530	922880	C#	Leshka	
+195040	4193469	Rust	yannick-t	
 195000	925695	OCaml	Boulet	
 194890	2521360	C	g.naboychenko	
 194440	1018437	C++	dubicube	
@@ -430,6 +431,7 @@ Score	UserID	Lang	Pseudo	#optim,count=8902,time=2021-04-15 02:49:26
 110050	225875	C#	leff	
 109610	959402	C#	gmessier	
 109470	884069	Java	punxxy	
+109310	1863217	C	Draradech	
 109030	806823	C	Zer0	
 109000	3691992	C++	friska	
 108920	2719604	Python3	vpoulailleau	
@@ -997,5 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=8902,time=2021-04-15 02:49:26
 62610	949601	Python3	Romkinder	
 62610	1893667	PHP	AnthonyT	
 62610	3493230	Rust	sgalasso	
-62610	701553	Java	JRR	
-62590	3418530	Python3		
