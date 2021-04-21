@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=519,time=2021-04-20 03:45:34
+Score	UserID	Lang	Pseudo	#optim,count=521,time=2021-04-21 04:57:50
 62564496	2288263	Rust	dbdr	
 59353524	765200	Rust	FrancoisB	
 59353464	3457031	C++	YurkovAS	
@@ -107,6 +107,7 @@ Score	UserID	Lang	Pseudo	#optim,count=519,time=2021-04-20 03:45:34
 675240	1566335	Java	BeardedWhale	
 643904	1452327	Rust	solmir	
 538536	1309948	C++	Runner87	
+474760	2290633	Python3	field3	
 435988	273004	Python3	ptitrex	
 415156	182536	C	dbo	
 407312	1479930	C++	LeRenard	
@@ -221,6 +222,8 @@ Score	UserID	Lang	Pseudo	#optim,count=519,time=2021-04-20 03:45:34
 53512	2862624	Python3	B-Marty	
 53512	425462	Python3	Azt-yur	
 53512	1443075	C++	Wolfy82	
+53512	4251195	Java	Smelty	
+53512	1938265	Python3	ANONYMOUS42	
 52376	4105263	Java	Meegumi	
 52032	2831825	Java	1null	
 51804	4059960	Java	hexahurz	
@@ -246,6 +249,7 @@ Score	UserID	Lang	Pseudo	#optim,count=519,time=2021-04-20 03:45:34
 48636	3115713	C	faneyer	
 48460	4105018	Python3	MarcDillar	
 48220	165671	Python3	[CG]cyppan	
+47912	335954	Java	nmahoude	
 47756	1221160	PHP	gendos_ua	
 47748	826671	Python3	kayou	
 47648	4059073	Python3	Julien-Verdun	
@@ -257,7 +261,6 @@ Score	UserID	Lang	Pseudo	#optim,count=519,time=2021-04-20 03:45:34
 45200	4002619	Python3	Juraj09	
 44840	2227858	C#	SnailMan	
 44596	3486522	Python3	Pea.	
-44392	2290633	Python3	field3	
 44064	3978509	PHP	elePHPant	
 43648	351385	Python3	fabmarcant	
 43648	958227	Python3	LantarSidonis	
@@ -327,7 +330,6 @@ Score	UserID	Lang	Pseudo	#optim,count=519,time=2021-04-20 03:45:34
 27336	4085698	Python3	sbs7	
 27292	1393802	Python3	a.mezhenin	
 27036	2353603	Pascal	MrSok	
-27036	335954	Java	nmahoude	
 27012	4111826	Java	ThomasMascaro	
 26592	3999693	Python3	ln-dev05	
 26516	4063573	Python3	Kaitakuchi2077	
@@ -515,5 +517,5 @@ Score	UserID	Lang	Pseudo	#optim,count=519,time=2021-04-20 03:45:34
 300	4094683	Python3	Loes	
 300	275626	Javascript	GreyMoon	
 300	3487406	C#	SyvachenkoMK	
-252	1931701	Java	anis.ktari	
+252	1931701	Java	anis_kt	
 240	3798577	Python3	Aswoon	
