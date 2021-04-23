@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=360,time=2021-04-22 02:37:38
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=361,time=2021-04-23 02:39:54
 1	48.55	524638	3433428	C++	miklla	
 1	43.55	2522090	3389739	C++	MSmits	
 1	43.23	3727174	3121047	C++	Crazy_Remi	
@@ -319,20 +319,21 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=360,time=2021-04-22 02:37:3
 1	-8.26	2976878	3137817	Python3	Corentin_brtx	
 1	-8.52	2388950	3133958	Python3	AnneGt	
 1	-8.62	3994637	3133849	Python3	CGallo	
-0	19.06	2592027	3154423	C#	ParticleBeam	
-0	17.72	1673734	3134690	Javascript	pshezgyr	
-0	17.67	1944726	3138456	C++	bourgeof	
-0	17.45	837350	3138626	Python3	BorisZ	
-0	17.45	3857913	3261157	C#	NguyenThanhHiep	
-0	17.43	4104999	3352675	Python3	plelez	
-0	17.27	1807033	3325832	Java	AdrienTod	
-0	17.12	3752226	3137844	Python3	european_central_bank	
-0	17.11	3691491	3132984	Javascript	icecream17	
-0	16.94	3787419	3105660	Python3	Thyl	
-0	16.9	3163278	3136133	C++	joaquimelerebel	
+0	20.24	2819211	3512767	F#	fstiffo	
+0	18.37	1673734	3134690	Javascript	pshezgyr	
+0	18.27	2592027	3154423	C#	ParticleBeam	
+0	18.25	1944726	3138456	C++	bourgeof	
+0	17.99	837350	3138626	Python3	BorisZ	
+0	17.81	3857913	3261157	C#	NguyenThanhHiep	
+0	17.55	4104999	3352675	Python3	plelez	
+0	17.43	1807033	3325832	Java	AdrienTod	
+0	17.07	3691491	3132984	Javascript	icecream17	
+0	17.04	3752226	3137844	Python3	european_central_bank	
+0	16.89	3787419	3105660	Python3	Thyl	
+0	16.83	3163278	3136133	C++	joaquimelerebel	
 0	16.71	3883555	3135646	Python3	icew	
-0	16.7	3938134	3137273	Python3	mapey10811	
-0	16.64	3986479	3137481	Python3	sbrnc	
+0	16.67	3938134	3137273	Python3	mapey10811	
+0	16.58	3986479	3137481	Python3	sbrnc	
 0	16.54	2311362	3162500	Javascript	TerenuiRouby	
 0	16.5	2508635	3066766	Java	hemhel	
 0	16.25	1861258	3131811	Rust	Nazdhun	
@@ -345,10 +346,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=360,time=2021-04-22 02:37:3
 0	8.14	4011653	3137220	Java	CDA-20285-Guillaume-Queffelec	
 0	5.8	4169001	3412715	Python3	Nelikey	
 0	5.23	2069141	3448006	C#	tomeko	
-0	1.06	2325449	3314560	Perl	otpv	
 0	1.06	4029033	3149721	C++	3DPerson	
-0	1.06	3981181	3133611	Go	monkrus	
 0	1.05	1713174	3066591	Python3	BigUP	
+0	1.05	2325449	3314560	Perl	otpv	
+0	1.05	3981181	3133611	Go	monkrus	
 0	0.63	1855354	3139322	Python3	KiwiTae	
 0	0.6	3990055	3331935	Python3	bcb200	
 0	0.59	999637	3393902	Python3	dinobogan	
@@ -357,5 +358,5 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=360,time=2021-04-22 02:37:3
 0	0.41	3986053	3173768	C++	Backtomars	
 0	0.34	3980414	3349422	Python3	Penchal1395	
 0	-0.23	3627342	3146176	C#	Zuabros	
-0	-6.52	3994643	3130608	Python3	KingSatur	
+0	-6.53	3994643	3130608	Python3	KingSatur	
 0	-7.9	3883166	3132246	C++	Sanjay_Sharma	
