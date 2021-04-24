@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=60,time=2021-04-23 02:40:02
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=62,time=2021-04-24 03:08:41
 1	39.65	2522090	3487739	C++	MSmits	
 1	37.72	2923506	3472743	C++	darkhorse64	
 1	35.15	2924895	3473254	C	trictrac	
@@ -51,11 +51,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=60,time=2021-04-23 02:40:02
 1	5.34	862919	3480910	C++	Astrobytes	
 1	2.5	1713174	3457229	Python3	BigUP	
 1	1.74	935734	3507794	Java	MNada	
-0	7.51	4061750	3501950	Kotlin	dStulle	
-0	5.58	4237862	3472199	C++	Hanlyeon	
-0	4.82	2325449	3502822	PHP	otpv	
-0	4.34	3695023	3496105	C++	solution.cpp	
-0	3.77	4147861	3479150	C#	FelixRichter2000	
-0	2.98	4250133	3511758	Python3	MiguelFab	
-0	1.72	4272202	3499050	Python3	Hezbaf	
-0	-9.25	3569066	3457234	D	derjack	
+0	16.64	4250133	3515047	Python3	MiguelFab	
+0	12.09	2791909	3514928	C++	Gresa	
+0	9.87	4061750	3501950	Kotlin	dStulle	
+0	7.78	4237862	3472199	C++	Hanlyeon	
+0	6.93	2325449	3502822	PHP	otpv	
+0	6.18	3482949	3515112	C#	Masshood	
+0	2.57	4147861	3479150	C#	FelixRichter2000	
+0	2.48	3695023	3496105	C++	solution.cpp	
+0	1.05	4272202	3499050	Python3	Hezbaf	
+0	-9.44	3569066	3457234	D	derjack	

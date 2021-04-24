@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5888,time=2021-04-23 02:40:02
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5894,time=2021-04-24 03:08:42
 5	33.11	3193653	3004019	C++	karliso	
 5	31.27	880353	2975979	C++	zasmu	
 5	31.17	1082988	2982332	C++	Saelyos	
@@ -808,6 +808,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5888,time=2021-04-23 02:40:
 3	23.67	3797271	2978943	Python3	Cam_B	
 3	23.65	900403	2980306	C++	0xC0FFEE	
 3	23.65	1543177	2976634	Python3	Xoff	
+3	23.58	1920644	2980506	C++	Skygge	
 3	23.55	3581203	2979566	C++	franckCJ	
 3	23.55	1698756	2978709	C#	Sylions	
 3	23.55	1070655	2979498	C++	shanks	
@@ -818,7 +819,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5888,time=2021-04-23 02:40:
 3	23.46	1417805	2979138	Java	hiro116s	
 3	23.45	3804005	2977797	Java	GlitchyByte	
 3	23.45	3794483	2976115	Python3	yuribr	
-3	23.45	1920644	2980506	C++	Skygge	
 3	23.44	990110	2977590	C++	Rogerup	
 3	23.42	1276766	2979360	Python3	brian__fr	
 3	23.39	3818012	2975919	C++	-k	
@@ -830,13 +830,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5888,time=2021-04-23 02:40:
 3	23.35	3800764	2976982	C#	QossMean	
 3	23.35	3622078	2979145	Python3	Paikan2068	
 3	23.35	3414155	2977392	Scala	Smerk	
-3	23.34	1171469	2979292	Java	Reblochon	
 3	23.33	2297753	2979684	Python3	Warly7692	
 3	23.32	3230794	2977172	Java	tutubalin	
 3	23.32	3795574	2978549	Javascript	Iron-postier	
 3	23.3	3155517	2976259	C#	toto0121	
 3	23.29	1437684	2979624	C#	Maulkin	
 3	23.28	3785981	2977576	Java	Banti	
+3	23.28	1171469	2979292	Java	Reblochon	
 3	23.27	3169011	2976857	Java	geschaftsman	
 3	23.26	3764223	2978272	Go	ywake	
 3	23.26	1815235	2977737	C#	Maliamnon	
@@ -970,13 +970,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=5888,time=2021-04-23 02:40:
 3	21.66	3776706	2980526	C#	dashu_baba	
 3	21.66	1182388	3374671	Javascript	Jack92	
 3	21.65	3488041	2977046	C#	KodeMonkey	
-3	21.64	2497472	2975990	Java	Hexabin	
 3	21.63	574826	2990338	Java	heisenbug	
 3	21.63	3538566	2980322	C#	aguillaume	
 3	21.63	1223140	2978644	Kotlin	kgautron	
 3	21.63	3509558	2976265	C#	Kiat	
 3	21.61	221648	2979958	C++	stephenvk	
 3	21.61	2112007	2978055	Javascript	KRAKEN	
+3	21.61	2497472	2975990	Java	Hexabin	
 3	21.61	3500889	3151415	Java	oPyRuSo	
 3	21.58	2014685	2980024	Java	Colossus	
 3	21.56	2714901	2977202	Javascript	isolomak	
