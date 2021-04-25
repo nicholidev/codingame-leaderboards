@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4715,time=2021-04-24 00:30:04
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4715,time=2021-04-25 00:35:42
 0	47.44	1433161	1484525	C	Mingu	
 0	45.82	494104	455215	C++	Recar	
 0	45.55	990110	357643	C++	Rogerup	
@@ -8,9 +8,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4715,time=2021-04-24 00:30:
 0	44.04	638784	351362	C	Yqnn	
 0	43.99	252533	2570353	Javascript	AlexSurin	
 0	43.86	1629259	2238404	C++	Marchete	
+0	43.53	351062	1847653	Java	Neumann	
 0	43.47	2472606	3005863	C++	MehdiTouil	
 0	43.47	739151	341011	C++	Romka	
-0	43.44	351062	1847653	Java	Neumann	
 0	43.13	836415	363206	Java	tallo	
 0	43.1	3443015	3501494	C++	Wozniak	
 0	42.91	272290	350495	C++	Olaf69	
@@ -26,8 +26,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4715,time=2021-04-24 00:30:
 0	42.51	1314316	2081250	C++	jolindien	
 0	42.47	1399382	2672407	C++	Regulus136	
 0	42.39	1175343	365555	Java	Hankerspace	
-0	42.38	1733593	1962036	C++	Wei-1	
 0	42.37	1229284	668346	C++	Prajyoth	
+0	42.37	1733593	1962036	C++	Wei-1	
 0	42.36	1169499	904460	C++	naab	
 0	42.28	1327028	416068	C++	FredericBautista	
 0	42.2	1390607	1126210	C++	Ivan_Derzhylo	
@@ -127,8 +127,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4715,time=2021-04-24 00:30:
 0	38.54	877850	348071	Java	Edin	
 0	38.53	869323	341535	C#	Ferra	
 0	38.53	1378958	1442852	C#	Illedan	
-0	38.5	518726	353087	Haskell	nybble41	
 0	38.47	937225	347403	Java	Daedin	
+0	38.44	518726	353087	Haskell	nybble41	
 0	38.43	1766582	913056	C++	smugiss	
 0	38.41	574656	357657	Python	dmpage	
 0	38.4	1767134	1325988	Java	AntonYuriev	
@@ -674,7 +674,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4715,time=2021-04-24 00:30:
 0	32.4	878086	356183	Perl	dchoulette	
 0	32.39	246715	342761	C++	MattW	
 0	32.38	928567	2110026	C++	Konstanta	
-0	32.35	1063294	343755	Java	Chaya	
+0	32.37	1063294	343755	Java	Chaya	
 0	32.35	1488036	642447	Python3	vlabbe	
 0	32.31	992144	350705	C++	MikeSixNine	
 0	32.3	952145	380164	OCaml	EddyNasty	

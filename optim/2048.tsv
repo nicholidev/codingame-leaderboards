@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=522,time=2021-04-24 03:08:55
+Score	UserID	Lang	Pseudo	#optim,count=524,time=2021-04-25 03:24:44
 62564496	2288263	Rust	dbdr	
 59353524	765200	Rust	FrancoisB	
 59353464	3457031	C++	YurkovAS	
@@ -154,6 +154,7 @@ Score	UserID	Lang	Pseudo	#optim,count=522,time=2021-04-24 03:08:55
 93356	862919	C++	Astrobytes	
 90644	3522047	TypeScript	asgeirr	
 87920	3606971	Javascript	LordVonAdel	
+86744	335954	Java	nmahoude	
 86544	4086233	Python3	qwertz73355a	
 84136	1848459	Kotlin	Velcoro	
 80000	2414853	Python3	StephaneLaveau	
@@ -249,7 +250,6 @@ Score	UserID	Lang	Pseudo	#optim,count=522,time=2021-04-24 03:08:55
 48636	3115713	C	faneyer	
 48460	4105018	Python3	MarcDillar	
 48220	165671	Python3	[CG]cyppan	
-47912	335954	Java	nmahoude	
 47756	1221160	PHP	gendos_ua	
 47748	826671	Python3	kayou	
 47648	4059073	Python3	Julien-Verdun	
@@ -515,6 +515,7 @@ Score	UserID	Lang	Pseudo	#optim,count=522,time=2021-04-24 03:08:55
 344	1441471	Haskell	bitwave	
 344	4102952	Java	Patev	
 344	4263517	Python3	MarekK	
+344	4290959	Javascript	OSMS	
 300	4094683	Python3	Loes	
 300	275626	Javascript	GreyMoon	
 300	3487406	C#	SyvachenkoMK	
