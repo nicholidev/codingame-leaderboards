@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=98,time=2021-04-25 02:35:50
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=99,time=2021-04-26 02:30:38
 1	45.43	2924895	3006726	C	trictrac	
 1	43.96	2288263	2852691	Rust	dbdr	
 1	42.97	1489865	2840096	C++	EricSMSO	
@@ -56,7 +56,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=98,time=2021-04-25 02:35:50
 0	25.44	1968089	3069970	C++	MarcinDus	
 0	24.99	3721214	3423431	C++	jrke	
 0	24.9	3165536	2835866	C++	barbora	
-0	24.86	3691491	3000764	Javascript	icecream17	
+0	24.85	3691491	3000764	Javascript	icecream17	
 0	24.63	4098427	3429416	Python3	Ask369	
 0	24.2	524638	3367821	C++	miklla	
 0	23.89	3691366	3126206	Java	V90	
@@ -70,7 +70,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=98,time=2021-04-25 02:35:50
 0	20.1	2923506	3135597	C++	darkhorse64	
 0	18.73	1288527	2846809	C++	Snef	
 0	18.42	2069141	2827471	C#	tomeko	
-0	16.75	1660968	3002247	Java	Greedo	
+0	16.76	1660968	3002247	Java	Greedo	
 0	16.59	1412263	2845682	PHP	PatrickMcGinnisII	
 0	16.48	3239970	3004072	Java	solaimanope	
 0	16.37	3626792	2995093	C++	Python3newbie	
@@ -80,20 +80,21 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=98,time=2021-04-25 02:35:50
 0	15.24	3465935	2999042	C++	chiheb	
 0	12.4	808454	2994217	Javascript	.EagleDawn.	
 0	12.1	3465661	2996447	Javascript	Thiesjoo	
+0	11.7	1740037	2830385	Scala	ereiam	
 0	11.7	3803201	2994724	Java	FDA44	
-0	11.59	1740037	2830385	Scala	ereiam	
-0	11.39	3274956	2822487	C++	LeProfesseur	
-0	11.38	3136787	2832651	Java	jacek	
-0	11.09	1483648	3008599	Java	DhakalKumar	
-0	10.33	973040	2975391	C	papyjo	
-0	7.55	2325449	3314623	Perl	otpv	
-0	4.91	523846	2808955	C#	Palmipedus	
-0	4.89	1854639	2995971	C#	iDxMeG	
-0	4.54	3634792	2999615	Javascript	robat	
-0	4.42	3579977	3000578	Javascript	Jellyblob	
-0	4.07	3464590	3012279	C	abbecool	
+0	11.52	3136787	2832651	Java	jacek	
+0	11.5	3274956	2822487	C++	LeProfesseur	
+0	11.22	1483648	3008599	Java	DhakalKumar	
+0	10.54	973040	2975391	C	papyjo	
+0	8.07	2325449	3314623	Perl	otpv	
+0	5.43	523846	2808955	C#	Palmipedus	
+0	5.27	1854639	2995971	C#	iDxMeG	
+0	4.63	3634792	2999615	Javascript	robat	
+0	4.61	3579977	3000578	Javascript	Jellyblob	
+0	3.81	3464590	3012279	C	abbecool	
+0	3.31	4029033	3150449	TypeScript	3DPerson	
 0	3.25	4129463	3379413	Javascript	Anonyymouss	
-0	2.96	4029033	3150449	TypeScript	3DPerson	
-0	2.81	3533119	2832388	TypeScript	wlesavo	
-0	2.17	3354337	3450307	C++	Westicles	
-0	-7.91	4032211	3394606	Python3	artmyros	
+0	3.09	484004	3516699	Python3	aCat	
+0	2.89	3533119	2832388	TypeScript	wlesavo	
+0	1.5	3354337	3450307	C++	Westicles	
+0	-8	4032211	3394606	Python3	artmyros	

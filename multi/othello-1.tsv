@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=233,time=2021-04-25 02:35:51
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=234,time=2021-04-26 02:30:38
 1	43.11	2288263	3024723	Rust	dbdr	
 1	40.5	1400179	3401929	C++	reCurse	
 1	40.1	3136787	3510845	C++	jacek	
@@ -65,7 +65,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=233,time=2021-04-25 02:35:5
 0	22.91	1480384	3329244	C++	RockyMullet	
 0	22.73	4129774	3458926	C#	ErrorRazor	
 0	22.71	2562633	3339153	Python3	Nodascott	
-0	22.55	1484839	3508520	C++	sparky	
+0	22.54	1484839	3508520	C++	sparky	
 0	22.49	3065352	3335587	C++	Arti1990	
 0	22.42	2656201	3409902	Python3	ThibaultRyt	
 0	22.38	436451	3371750	Go	piri	
@@ -83,7 +83,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=233,time=2021-04-25 02:35:5
 0	21.46	1787301	3409718	C#	l5kklk	
 0	21.27	483813	3428171	C++	dabro90	
 0	21.24	4157545	3409416	C#	Mazsi7	
-0	20.43	1753077	3087359	Python3	codingWhale	
+0	20.42	1753077	3087359	Python3	codingWhale	
 0	20.29	4134816	3405809	Python3	-oa-	
 0	20.12	4058276	3204407	Python3	aatif_khan	
 0	19.96	4130131	3413294	Python3	YuvalG	
@@ -104,7 +104,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=233,time=2021-04-25 02:35:5
 0	18.27	3323757	3387160	Python3	ByteWolf	
 0	18.18	1346401	3412642	Python3	Yeti78	
 0	18.08	1447534	3413375	Ruby	Scapesalot	
-0	18.03	2833929	3067052	Python3	Pierre_C	
+0	18.08	2833929	3067052	Python3	Pierre_C	
 0	17.91	788361	3402600	Javascript	Bob	
 0	17.77	2833886	3427429	Python3	KnutWart	
 0	17.63	1886386	3410925	Javascript	h0ly	
@@ -115,7 +115,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=233,time=2021-04-25 02:35:5
 0	16.91	2592027	3025137	C#	ParticleBeam	
 0	16.87	3432946	3405295	Python3	Heartie_x	
 0	16.83	4150501	3404216	PHP	zdenak11	
-0	16.72	2928146	3407273	C	LolCat	
+0	16.8	2928146	3407273	C	LolCat	
 0	16.65	3569066	3463091	D	derjack	
 0	16.48	2252914	3404196	Python3	Malleek	
 0	16.32	3622757	3357166	Python3	anid	
@@ -151,8 +151,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=233,time=2021-04-25 02:35:5
 0	15.2	1525816	3418275	Javascript	Flodnes	
 0	15.2	3675563	3408636	C++	QuentinSauvage	
 0	15.17	4139511	3412197	Python3	PabloBrianese	
+0	15.07	3955301	3082498	Python3	SeptaCube	
 0	15.06	4141929	3409529	PHP	varfendell	
-0	15.06	3955301	3082498	Python3	SeptaCube	
 0	14.89	4152572	3403367	Python3	jacumol	
 0	14.89	4154919	3405806	C#	Nekai	
 0	14.79	1390789	3407726	TypeScript	Matthieu.L	
@@ -179,9 +179,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=233,time=2021-04-25 02:35:5
 0	13.83	889789	3016981	C	Alain-Delpuch	
 0	13.82	1701631	3516295	Rust	lrouquette	
 0	13.8	4089252	3405591	Python3	Miki09	
+0	13.79	4112733	3406119	Python3	SGE-GamingWarrior	
 0	13.78	1247564	3408932	PHP	jgrenier	
 0	13.77	909782	3414097	Go	Harkness	
-0	13.77	4112733	3406119	Python3	SGE-GamingWarrior	
 0	13.76	3808031	3032315	Ruby	_proton	
 0	13.74	4153526	3410412	Python3	dcobol78	
 0	13.74	1540478	3032959	Java	struct	
@@ -211,9 +211,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=233,time=2021-04-25 02:35:5
 0	0.02	4162291	3409836	Java	RohanPahwa	
 0	-0.06	351453	3357991	Python3	TinaryTree	
 0	-0.1	4138476	3409965	Python3	Raziel5	
+0	-0.1	4155767	3404243	Go	newday1588	
 0	-0.16	4105514	3410340	Python3	FeiChong	
 0	-0.24	3903319	3345407	Javascript	aymane211	
-0	-0.28	4155767	3404243	Go	newday1588	
 0	-0.46	4011503	3350966	Python3	Indian	
 0	-0.47	4150664	3405853	Java	Krhells	
 0	-0.55	4085326	3415103	Javascript	Samzok123	
@@ -221,14 +221,15 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=233,time=2021-04-25 02:35:5
 0	-0.74	3699033	3031778	C++	Bitwise	
 0	-0.75	4032959	3406206	Javascript	gordonjr	
 0	-0.79	4237028	3466430	Python3	20poop	
-0	-1.07	4148678	3402865	Java	Gabriel_IUT	
-0	-1.33	2325449	3314535	Perl	otpv	
-0	-1.36	3911100	3051301	Java	nontyan	
-0	-1.78	2006348	3041789	C++	Koji02	
-0	-1.8	513153	3041996	C++	voidle	
-0	-1.81	3985506	3105504	C++	iwatachan	
-0	-1.84	4018953	3139303	Javascript	zTTK	
-0	-2.04	2653768	3411971	Java	beligh	
-0	-2.27	4075812	3406857	C++	5yntaxErr0r	
-0	-2.32	4254274	3500038	Javascript	MS.Monster	
-0	-2.34	3354337	3450274	C++	Westicles	
+0	-0.82	2325449	3314535	Perl	otpv	
+0	-1.18	4148678	3402865	Java	Gabriel_IUT	
+0	-1.38	4018953	3139303	Javascript	zTTK	
+0	-1.48	2006348	3041789	C++	Koji02	
+0	-1.56	3911100	3051301	Java	nontyan	
+0	-1.78	3985506	3105504	C++	iwatachan	
+0	-1.8	3354337	3450274	C++	Westicles	
+0	-1.88	4254274	3500038	Javascript	MS.Monster	
+0	-2.07	513153	3041996	C++	voidle	
+0	-2.34	2653768	3411971	Java	beligh	
+0	-2.47	4075812	3406857	C++	5yntaxErr0r	
+0	-3.14	484004	3516697	Python3	aCat	
