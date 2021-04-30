@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=935,time=2021-04-29 02:58:49
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=936,time=2021-04-30 04:19:23
 9	30.08	2489835	1769668	C#	Akarachudra	
 9	25.87	2254195	1769673	Java	BrunoFelthes	
 9	24.81	1818159	1769663	C++	JRFerguson	
@@ -397,7 +397,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=935,time=2021-04-29 02:58:4
 6	15.65	2519513	2047752	C#	SamHipkiss	
 6	15.58	2430901	1741871	Python3	unjailed	
 6	15.58	314562	2095971	Javascript	Mechar	
-6	15.54	1209562	1740148	Python3	JohnnyYuge	
+6	15.54	1209562	1740148	Python3	Jiway	
 6	15.5	2497890	2116094	C#	BlackBird	
 6	15.49	1997622	3006216	Python3	Ra777	
 6	15.43	2545050	2536295	Python3	Byzilio	
@@ -886,6 +886,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=935,time=2021-04-29 02:58:4
 0	8.33	4264690	3514193	Python3	hofangman	
 0	8.26	4097765	3345957	C	daedaeNdasiy	
 0	8.25	2923079	2119502	Python3	Code_Lister	
+0	8.24	3352992	3524462	Javascript	c0ndu17	
 0	8.13	2801000	2032169	C++	demoPilot	
 0	8.05	484004	3516679	Python3	aCat	
 0	8.05	2612889	2055260	C#	Symphonia	
@@ -918,18 +919,18 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=935,time=2021-04-29 02:58:4
 0	7.62	1477622	1741310	C#	zrdon	
 0	7.62	1386032	1776489	Java	Houssem_201	
 0	7	1013463	1759229	Python3	Lachrymosa	
-0	6.59	236902	2313737	C++	Tryum	
-0	6.12	1362802	1747414	Javascript	Orlandi	
-0	3.83	2512705	1770867	Swift	awesomeFencer	
+0	6.57	236902	2313737	C++	Tryum	
+0	6.05	1362802	1747414	Javascript	Orlandi	
+0	3.76	2512705	1770867	Swift	awesomeFencer	
 0	3.72	1717345	2061864	Scala	kotobotov	
 0	-5.78	1950105	3493030	C++	nazgath	
-0	-6.15	1246479	2697767	Java	Bastien_Baloup	
-0	-6.27	4135555	3383858	Python3	JetNoLi	
+0	-6.18	1246479	2697767	Java	Bastien_Baloup	
+0	-6.28	4135555	3383858	Python3	JetNoLi	
 0	-6.84	4032211	3341675	Python3	artmyros	
-0	-8.15	2643826	1875932	Python3	LeoB	
+0	-8.17	2643826	1875932	Python3	LeoB	
 0	-10.07	2315334	1776639	Java	VIP193	
 0	-10.19	1126419	1761345	C#	seyhen	
-0	-10.21	666934	1768944	Python	93	
+0	-10.22	666934	1768944	Python	93	
 0	-10.48	1264023	1747289	VB.NET	Alamir	
 0	-10.63	2006348	1751833	Javascript	Koji02	
 0	-13.66	2524934	1743138	Python3	muhammed_sahil	
