@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=527,time=2021-05-01 04:33:34
+Score	UserID	Lang	Pseudo	#optim,count=529,time=2021-05-02 04:50:02
 62564496	2288263	Rust	dbdr	
 59353524	765200	Rust	FrancoisB	
 59353464	3457031	C++	YurkovAS	
@@ -75,6 +75,7 @@ Score	UserID	Lang	Pseudo	#optim,count=527,time=2021-05-01 04:33:34
 3379696	2340294	C	deviluc	
 3349920	2043908	C++	AntiSquid	
 3237600	1693448	C	KoenduBuf	
+3126188	3319855	C#	Drobor	
 3094748	1489865	C++	EricSMSO	
 3073904	2438514	C++	davi_bart	
 3029892	4216789	Rust	Saur2000	
@@ -100,7 +101,6 @@ Score	UserID	Lang	Pseudo	#optim,count=527,time=2021-05-01 04:33:34
 1244252	4083537	Python3	DavidAvsajanishvili	
 1106220	1785098	C++	E_pur_si_muove	
 1036264	3406987	Python3	Radu_Sav	
-972012	3319855	C#	Drobor	
 930052	3141948	Java	philRG	
 894468	3812486	Javascript	gitKad	
 725440	3842838	TypeScript	Streusel	
@@ -128,6 +128,7 @@ Score	UserID	Lang	Pseudo	#optim,count=527,time=2021-05-01 04:33:34
 287992	508460	C++	Volia	
 285004	4016170	C	GMCG	
 276084	4142307	Python3	Editsira	
+260576	3903473	Python3	Konstant	
 257252	2437570	Python3	LordAchillus	
 250352	3942793	Java	The_Auditor	
 247104	4097008	Python3	petru4io	
@@ -138,13 +139,13 @@ Score	UserID	Lang	Pseudo	#optim,count=527,time=2021-05-01 04:33:34
 189156	2153101	Python3	Bilou06	
 186964	580424	C++	siman	
 182532	1069779	Python3	salanger	
+175944	3657275	Python3	jujurocking	
 163796	531863	Java	Amin	
 161352	1457162	Python3	JFB	
 152796	4045442	Python3	slapslash	
 150844	3488041	Rust	KodeMonkey	
 144428	4072753	C++	mdstoy	
 129864	1040176	Python3	BoBot	
-129596	3657275	Python3	jujurocking	
 112488	1383054	Python3	Oxame	
 108568	2647542	Java	szatist	
 107152	4116825	C#	JoeyVera	
@@ -184,7 +185,6 @@ Score	UserID	Lang	Pseudo	#optim,count=527,time=2021-05-01 04:33:34
 66064	304363	Javascript	chocolord	
 65944	2069141	C#	tomeko	
 65288	1703441	Java	Michelou	
-64844	3903473	Python3	Konstant	
 64660	2202771	Java	Kaplone	
 64212	3446921	Python3	TheOtherAKS	
 63648	4105782	C++	Koisic	
@@ -307,6 +307,7 @@ Score	UserID	Lang	Pseudo	#optim,count=527,time=2021-05-01 04:33:34
 32016	3626427	Javascript	R1O	
 31636	371603	Ruby	martin	
 31424	4112733	Python3	SGE-GamingWarrior	
+31384	1457223	C++	jleconte	
 31060	153957	Javascript	JeremyV	
 30760	4099191	Python3	kazzou	
 30708	1876212	Python3	PFischbeck	
@@ -520,6 +521,7 @@ Score	UserID	Lang	Pseudo	#optim,count=527,time=2021-05-01 04:33:34
 344	4263517	Python3	MarekK	
 344	4290959	Javascript	OSMS	
 344	4274197	Rust	i8fbnkyw	
+344	3970263	Python3	VasanthanPT	
 300	4094683	Python3	Loes	
 300	275626	Javascript	GreyMoon	
 300	3487406	C#	SyvachenkoMK	

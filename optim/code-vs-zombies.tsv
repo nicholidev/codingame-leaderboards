@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=9092,time=2021-05-01 04:33:01
+Score	UserID	Lang	Pseudo	#optim,count=9111,time=2021-05-02 04:49:21
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -274,6 +274,7 @@ Score	UserID	Lang	Pseudo	#optim,count=9092,time=2021-05-01 04:33:01
 181840	1712255	Go	Ukster	
 180950	1709003	Java	csaurin	
 180920	1302700	C#	Tounsi	
+180630	4067707	C++	therealbeef	
 180310	4117970	Python3	zhoubou	
 179700	1842010	C#	southpolenator	
 179350	3823601	Python3	cysong	
@@ -295,6 +296,7 @@ Score	UserID	Lang	Pseudo	#optim,count=9092,time=2021-05-01 04:33:01
 173880	1164242	Java	Andry_	
 173740	1488793	Python3	kerloic	
 173290	826914	C++	Kyrus	
+173170	1693210	Python3	Fractal	
 172480	1205152	C#	cfoll	
 172420	292106	C++	durmus	
 172370	2115491	Go	Haashi	
@@ -344,6 +346,7 @@ Score	UserID	Lang	Pseudo	#optim,count=9092,time=2021-05-01 04:33:01
 153110	2361019	Python3	kleisauke	
 151360	1131528	C	Owl	
 150900	1584802	Python3	emh	
+150570	1716299	C++	micky924	
 150400	563069	Python3	Darkris	
 149700	1952778	Go	XXIV	
 149650	2339129	Python3	ChristianSloper	
@@ -387,7 +390,6 @@ Score	UserID	Lang	Pseudo	#optim,count=9092,time=2021-05-01 04:33:01
 137280	3760956	C++	GeekNbOne	
 137140	2077458	Python3	Ragi	
 136530	1467771	C++	Telokis	
-135550	4067707	C++	therealbeef	
 134980	893915	Python3	DeVoTeD	
 134860	1737611	Javascript	RPlusPlus	
 134750	1173260	Rust	Erasmus	
@@ -440,7 +442,6 @@ Score	UserID	Lang	Pseudo	#optim,count=9092,time=2021-05-01 04:33:01
 112670	1442344	PHP	PavelRaskin	
 111020	3449368	C#	widemouthfrog1	
 110590	972894	C++	resty-daze	
-110590	1716299	C++	micky924	
 110050	225875	C#	leff	
 109610	959402	C#	gmessier	
 109470	884069	Java	punxxy	
@@ -571,6 +572,7 @@ Score	UserID	Lang	Pseudo	#optim,count=9092,time=2021-05-01 04:33:01
 73950	429850	Python3	Powazny	
 73680	264258	Python3	MrFlibble	
 73590	1287344	Python3	Alshock	
+73530	2589340	C++	Zource	
 73360	1521843	C#	Doug	
 73110	2711018	Java	Fabs	
 73090	2526322	C	fhemsworth	
@@ -584,7 +586,6 @@ Score	UserID	Lang	Pseudo	#optim,count=9092,time=2021-05-01 04:33:01
 72100	2052376	Rust	JoeySK	
 71970	973040	C++	papyjo	
 71660	4085072	Rust	Estebansi	
-71590	2589340	Javascript	Zource	
 71530	1759335	C#	metahom	
 71310	198916	Java	WhatTrickeryIsThis	
 71310	1469666	Python3	alenic	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=9092,time=2021-05-01 04:33:01
 62830	826778	PHP	Yug	
 62830	1206363	PHP	DimitarMinchev	
 62830	304126	PHP	kami	
-62830	1545484	PHP	DobosPavel	
