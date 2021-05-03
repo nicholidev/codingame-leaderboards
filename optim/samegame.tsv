@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=293,time=2021-05-02 04:49:59
+Score	UserID	Lang	Pseudo	#optim,count=294,time=2021-05-03 03:01:42
 174652	3354337	Scala	Westicles	
 167588	1530051	C++	UlYoP	
 165192	2968035	C++	DomiKo	
@@ -70,6 +70,7 @@ Score	UserID	Lang	Pseudo	#optim,count=293,time=2021-05-02 04:49:59
 36760	1096844	Python3	mm00	
 35961	1029663	C	Skreamly	
 35734	837350	Python3	BorisZ	
+35560	2826402	Java	1Alex	
 35153	3792309	C++	schachmatt	
 35107	1901311	Python3	Kaikyu	
 35080	3965571	Python3	Smekarn	
@@ -146,6 +147,7 @@ Score	UserID	Lang	Pseudo	#optim,count=293,time=2021-05-02 04:49:59
 13816	2474883	Python3	lakeoverflow	
 12761	1698958	Javascript	OlafDriver	
 11532	3983017	PHP	TLbuis	
+11506	2436448	Java	FrancoisMeme	
 10584	3344108	Rust	Xmar	
 10374	4208158	C++	Tiouz	
 10352	1715811	Java	PositiveQuark	
@@ -163,7 +165,6 @@ Score	UserID	Lang	Pseudo	#optim,count=293,time=2021-05-02 04:49:59
 9902	2792232	Python3	Monoterpene	
 9902	3141948	Python3	philRG	
 9902	4008310	C#		
-9902	2436448	Java	FrancoisMeme	
 9899	3903847	Java	UnicornP	
 9894	1412263	PHP	PatrickMcGinnisII	
 9848	1910916	C#	VivienBillot	
@@ -253,7 +254,6 @@ Score	UserID	Lang	Pseudo	#optim,count=293,time=2021-05-02 04:49:59
 8860	3329141	C#	andrea_angella	
 8774	3982719	Javascript	pierre-db	
 8567	3558096	C++	LapinChiffre	
-8114	2826402	Java	1Alex	
 8094	1162493	Python3	irmo322	
 8030	3985025	Python3	nickname02	
 7848	3923022	Javascript	FabInCode	
@@ -288,4 +288,5 @@ Score	UserID	Lang	Pseudo	#optim,count=293,time=2021-05-02 04:49:59
 6500	3662753	Python3	miaouss	
 6500	2605855	Python3	logiqub	
 6500	2928146	PHP	LolCat	
+6500	814685	Javascript	AthosPyte	
 6382	3980754	Javascript	Pougache	

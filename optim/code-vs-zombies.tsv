@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=9111,time=2021-05-02 04:49:21
+Score	UserID	Lang	Pseudo	#optim,count=9139,time=2021-05-03 03:01:34
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -151,10 +151,10 @@ Score	UserID	Lang	Pseudo	#optim,count=9111,time=2021-05-02 04:49:21
 224790	994468	C++	darkdieg	
 224160	1300254	Python3	Escdemon	
 224100	1757792	Java	oreshnik	
+223780	4290907	C++	janm31415	
 223630	3965155	C		
 223100	735910	C++	Agade	
 223010	156188	C++	DorianWilde	
-222430	4290907	C++	janm31415	
 222380	3533119	C++	wlesavo	
 222280	579894	C++	Binarii	
 222240	1201796	ObjectiveC	P.Greze	
@@ -265,6 +265,7 @@ Score	UserID	Lang	Pseudo	#optim,count=9111,time=2021-05-02 04:49:21
 185160	3836429	Python3	Hippolyte	
 185110	1122412	Java	TheNinja	
 183690	3941506	C#	Blacksheep	
+183390	4067707	C++	therealbeef	
 183080	2592027	C#	ParticleBeam	
 183020	1527403	C++	Di_Masta	
 182960	2050195	C	eklore	
@@ -274,7 +275,6 @@ Score	UserID	Lang	Pseudo	#optim,count=9111,time=2021-05-02 04:49:21
 181840	1712255	Go	Ukster	
 180950	1709003	Java	csaurin	
 180920	1302700	C#	Tounsi	
-180630	4067707	C++	therealbeef	
 180310	4117970	Python3	zhoubou	
 179700	1842010	C#	southpolenator	
 179350	3823601	Python3	cysong	
@@ -576,6 +576,7 @@ Score	UserID	Lang	Pseudo	#optim,count=9111,time=2021-05-02 04:49:21
 73360	1521843	C#	Doug	
 73110	2711018	Java	Fabs	
 73090	2526322	C	fhemsworth	
+72980	1438259	Kotlin	Yolgie	
 72660	849746	Python3	lmj	
 72640	1052630	Java	_	
 72620	1022926	Python3	_BC_	
@@ -826,6 +827,7 @@ Score	UserID	Lang	Pseudo	#optim,count=9111,time=2021-05-02 04:49:21
 64260	4184195	C++	Patrick0	
 64260	3973359	C++	KAbel	
 64260	3670631	C++	merlleu	
+64260	2779453	C++	Welesy	
 64250	2858320	C++	Loule	
 64230	155928	PHP	pk	
 64230	1147815	Python3	Tashiqi	
@@ -997,5 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=9111,time=2021-05-02 04:49:21
 62890	4050891	Python3	bvdb89	
 62870	4099593	Java	Lousyzerg	
 62830	826778	PHP	Yug	
-62830	1206363	PHP	DimitarMinchev	
-62830	304126	PHP	kami	
