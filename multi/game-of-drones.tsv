@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3478,time=2021-05-05 04:44:58
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3478,time=2021-05-06 04:43:35
 5	28.06	893541	3390078	Java	wala	
 5	27.63	1629259	2643022	C++	Marchete	
 5	27.3	1335230	2327918	C++	jft63	
@@ -950,11 +950,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3478,time=2021-05-05 04:44:
 3	16.76	1875472	1440809	F#	BillBert	
 3	16.76	588464	1453056	C#	MikeJensen	
 3	16.72	788357	1431985	Python	DrDr3ck	
-3	16.71	934381	2434401	Rust	PolyB	
 3	16.7	2646961	2093482	Java	ShermanMg	
 3	16.67	1473561	1432109	C#	wooster	
 3	16.66	813507	1431838	Python3	Sunsky	
 3	16.66	653256	1432350	Java	KeludOdebu	
+3	16.66	665210	1431814	Javascript	kamyl	
+3	16.64	934381	2434401	Rust	PolyB	
 3	16.61	2685573	1964597	Java	thomas.h	
 3	16.61	3935226	3274627	C++	platypus_No1	
 3	16.61	947230	1432114	C++	gupascal	
@@ -968,7 +969,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3478,time=2021-05-05 04:44:
 3	16.59	573189	1432381	Java	Eresia	
 3	16.59	927312	1432192	Javascript	El_Coyote	
 3	16.59	1777292	1432155	Python3	hopplahopp	
-3	16.58	665210	1431814	Javascript	kamyl	
 3	16.58	411147	1432110	C#	HunterX	
 3	16.58	1730885	1432061	Java	Miroslav27	
 3	16.58	1424630	1432060	Java	irwinm	
@@ -995,7 +995,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3478,time=2021-05-05 04:44:
 3	16.5	3667335	3083231	Python3	tdb64	
 3	16.49	2863335	2505864	Python3	denkuc	
 3	16.47	3301073	2416819	Java	Sihosnarf	
+3	16.47	1359547	1432138	Python3	Transat	
 3	16.45	1397939	1431782	C++	AeQ	
 3	16.45	1486034	1432291	C#	NealN	
 3	16.45	1436776	2150985	C++	BrainSolver	
-3	16.44	2867477	2088898	Javascript	MichaelKommandant	
