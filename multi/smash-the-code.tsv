@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2459,time=2021-05-07 02:30:21
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2459,time=2021-05-08 02:30:12
 5	35.66	1400179	2986754	C++	reCurse	
 5	31.98	1327028	2990369	C++	FredericBautista	
 5	30.3	1413236	511966	Go	Medici	
@@ -823,19 +823,16 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2459,time=2021-05-07 02:30:
 2	-8.32	1108968	2598824	Python3	Obaul	
 2	-8.95	3170918	2924235	C++	reLu	
 2	-10.29	1630901	1327361	C++	Pand0re	
-1	24.87	2047039	1332702	Python	Loufis	
-1	24.81	4309574	3553472	Python3	KornDV	
-1	24.35	614489	493173	C	Nazoum81	
+1	24.98	2047039	1332702	Python	Loufis	
+1	24.25	614489	493173	C	Nazoum81	
 1	24.23	801375	495101	C++	Lord_Farawyn	
 1	24.17	1062481	483910	Java	MauroSemproni	
-1	23.74	153645	2688544	Python3	Ironc	
-1	23.6	1494618	625811	Javascript	Lune	
-1	23.6	3477232	3030518	Python3	AxelVo	
-1	23.41	1308136	622142	Javascript	AsZ	
+1	24.1	4309574	3556275	Python3	KornDV	
+1	23.73	153645	2688544	Python3	Ironc	
+1	23.72	1494618	625811	Javascript	Lune	
+1	23.5	859508	573090	C#	ger0000	
+1	23.5	3477232	3030518	Python3	AxelVo	
 1	23.38	1620096	749641	C	InvisibleUSA	
-1	23.38	859508	573090	C#	ger0000	
-1	23.38	2203927	1669704	C++	MohamedAlmograby_2nd_year_2018	
-1	23.37	973155	576064	C++	Namal	
 1	23.37	1559074	735117	C#	Meilby	
 1	23.36	890335	1481109	C++	ttr	
 1	23.35	855824	482080	Python3	VoxMortem	
@@ -849,10 +846,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2459,time=2021-05-07 02:30:
 1	23.34	390965	500812	Java	Aikyos	
 1	23.33	1502298	610550	C#	skargg	
 1	23.33	359746	628910	Java	Shoohei	
+1	23.33	1355097	746657	Javascript	Manos	
 1	23.33	1245243	495360	Javascript	Clement134	
 1	23.33	1195394	593115	Python3	Larnak	
 1	23.32	1747292	2255766	Swift	CodeReaper	
 1	23.32	754792	906113	C++	Ramdeath	
+1	23.32	1308136	622142	Javascript	AsZ	
 1	23.32	3938495	3485184	OCaml	o11s	
 1	23.32	1385478	498347	Python3	ssssssssssssspppppprrrrrrrr	
 1	23.31	1527782	647661	C	zad	
@@ -864,7 +863,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2459,time=2021-05-07 02:30:
 1	23.3	1526032	781283	C++	AdamBadura	
 1	23.3	3143143	2267027	C	TripleCrown	
 1	23.29	1312208	653873	Java	CraaazySteeeve	
+1	23.29	2203927	1669704	C++	MohamedAlmograby_2nd_year_2018	
 1	23.29	1463575	494417	Javascript	Kittenschnitzel	
+1	23.28	973155	576064	C++	Namal	
 1	23.28	1490531	579789	C++	pedrofr	
 1	23.28	1014924	493584	PHP	TommyP	
 1	23.27	1471723	505853	Javascript	munizart	
@@ -894,7 +895,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2459,time=2021-05-07 02:30:
 1	23.2	1891787	1400468	Python	Threyeth	
 1	23.2	1409204	487289	Javascript	Ricco7La	
 1	23.2	1517028	936212	Python3	Nicau	
-1	23.19	2548707	2226397	Javascript	notliam	
 1	23.19	1482103	595604	C	BlasterBaz	
 1	23.19	1662602	768550	C++	brenrik	
 1	23.19	1404527	488144	Javascript	Bastiboy	
@@ -902,7 +902,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2459,time=2021-05-07 02:30:
 1	23.19	224988	506945	Python	DerPferd	
 1	23.18	162982	1122658	Python3	Dami-e	
 1	23.18	1676969	789328	Java	Louenes	
-1	23.18	1355097	746657	Javascript	Manos	
 1	23.18	1443075	484310	C++	Wolfy82	
 1	23.18	1231500	547484	C#	Kinga	
 1	23.18	2740243	2983464	Python3	Rprades	
@@ -910,7 +909,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2459,time=2021-05-07 02:30:
 1	23.17	435967	664050	Ruby	NullNilNone	
 1	23.17	1251131	896454	C#	ma81xx	
 1	23.16	1317750	481682	Python3	zizouvb	
-1	23.16	1195663	576535	Java	TimberLefief	
 1	23.16	1385626	962800	C#	Wabash9000	
 1	23.16	1411423	484831	Perl	Wyllyam	
 1	23.15	2257079	1581890	C#	MartinVN	
@@ -940,6 +938,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2459,time=2021-05-07 02:30:
 1	23.1	3331361	2346994	Javascript	Hikyu	
 1	23.1	1364114	493061	C++	Unforgiven	
 1	23.1	2085746	1390550	C++	JacobNoga	
+1	23.08	1195663	576535	Java	TimberLefief	
 1	23.08	1640431	751000	Go	Automatico	
 1	23.08	386279	495760	Python3	Amikum	
 1	23.08	1220347	579377	C#	Pooky	
@@ -960,6 +959,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2459,time=2021-05-07 02:30:
 1	23.03	1116946	628892	Java	marhuero	
 1	23.03	1836084	1218206	C++	TaoLu	
 1	23.03	1494734	589398	Java	Leogelas	
+1	23.03	2548707	2226397	Javascript	notliam	
 1	23.03	1491359	590307	C++	MurfDude	
 1	23.02	1495350	591678	PHP	Wranorn	
 1	23.02	1563880	672682	Java	Patrick8675	
