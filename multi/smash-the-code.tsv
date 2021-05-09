@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2459,time=2021-05-08 02:30:12
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2459,time=2021-05-09 02:30:56
 5	35.66	1400179	2986754	C++	reCurse	
 5	31.98	1327028	2990369	C++	FredericBautista	
 5	30.3	1413236	511966	Go	Medici	
@@ -827,7 +827,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2459,time=2021-05-08 02:30:
 1	24.25	614489	493173	C	Nazoum81	
 1	24.23	801375	495101	C++	Lord_Farawyn	
 1	24.17	1062481	483910	Java	MauroSemproni	
-1	24.1	4309574	3556275	Python3	KornDV	
 1	23.73	153645	2688544	Python3	Ironc	
 1	23.72	1494618	625811	Javascript	Lune	
 1	23.5	859508	573090	C#	ger0000	
@@ -837,6 +836,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2459,time=2021-05-08 02:30:
 1	23.36	890335	1481109	C++	ttr	
 1	23.35	855824	482080	Python3	VoxMortem	
 1	23.35	1514906	678800	C++	Gwaka	
+1	23.35	1393911	501141	Javascript	neal_s	
 1	23.35	1508772	805634	PHP	LeadFarmer	
 1	23.35	154937	601257	Python3	[CG]BOUGA	
 1	23.35	1072200	511891	C	alze	
@@ -875,7 +875,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2459,time=2021-05-08 02:30:
 1	23.25	912971	2335906	C#	Amousy	
 1	23.25	1472464	507333	Javascript	und3fined	
 1	23.24	1455512	484767	Javascript	Khar	
-1	23.24	1393911	501141	Javascript	neal_s	
 1	23.24	1377467	512115	C#	GeorgeClooney	
 1	23.23	1361326	875277	C#	8]	
 1	23.23	3028864	2194001	VB.NET	lorcQc	
@@ -995,7 +994,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2459,time=2021-05-08 02:30:
 1	22.96	1012020	634685	Python3	Markusha	
 1	22.96	1324097	736974	Java	niak75	
 1	22.96	1627356	943260	C++	Pelker	
-1	22.96	1176061	501768	Javascript	Chaos	
 1	22.95	1463578	494529	Javascript	MarkusMulkahainen	
 1	22.95	1811179	2257842	Java	Tetarus	
 1	22.95	1505665	622783	Python3	NicolasGrosjean	
+1	22.95	1604839	722158	Javascript	Smeletz	
+1	22.95	1372632	579224	C++	yurahuna	

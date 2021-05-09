@@ -1,5 +1,5 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4718,time=2021-05-08 00:30:07
-0	47.44	1433161	1484525	C	Mingu	
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4718,time=2021-05-09 00:30:40
+0	47.45	1433161	1484525	C	Mingu	
 0	45.82	494104	455215	C++	Recar	
 0	45.55	990110	357643	C++	Rogerup	
 0	45.3	629202	357838	Java	Larry	
@@ -149,9 +149,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4718,time=2021-05-08 00:30:
 0	38.22	371603	352311	C++	martin	
 0	38.21	884367	343493	Python	frozar	
 0	38.21	1457162	2083083	C++	JFB	
-0	38.2	984109	353465	OCaml	LeCaRiBoU	
 0	38.19	193315	362858	Dart	hau	
 0	38.14	225892	345329	F#	ikarni	
+0	38.11	984109	353465	OCaml	LeCaRiBoU	
 0	38.1	1033147	358142	Javascript	Starbuck	
 0	38.08	554263	348765	C++	assy	
 0	38.05	1986145	1231495	C++	ValNyz	
@@ -186,11 +186,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4718,time=2021-05-08 00:30:
 0	37.69	715319	339017	C#	poksh	
 0	37.63	1062962	418259	C	ArmandO.S.	
 0	37.63	2731276	2063011	C++	panda42	
+0	37.62	935565	354751	Java	Vil_Rouquin	
 0	37.61	1188212	382180	C	superredlark	
 0	37.61	1095288	364431	Python	Vilo	
 0	37.58	335818	356610	Java	TyraEl	
 0	37.57	545951	341940	C++	AntonT	
-0	37.56	935565	354751	Java	Vil_Rouquin	
 0	37.55	1348523	963697	C++	Numb_	
 0	37.53	682376	356493	Java	fraagol	
 0	37.51	1077559	1330493	C++	PhOeNyX	
@@ -838,7 +838,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4718,time=2021-05-08 00:30:
 0	30.81	1403325	417255	Javascript	MrHen	
 0	30.79	1058103	342685	C++	Ruan	
 0	30.77	2056413	1367161	Python3	flyingsly	
-0	30.76	2056649	1418803	C++	J3r3m067	
 0	30.76	1066672	347937	Javascript	Zhyjiuk	
 0	30.76	3647844	3460314	Python3	rc95401	
 0	30.75	924135	480578	C++	Stuxnet	
@@ -850,9 +849,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4718,time=2021-05-08 00:30:
 0	30.7	2528944	1916431	OCaml	MPSI_LIV_La_caste	
 0	30.7	1526243	1058767	C++	ash2620	
 0	30.69	990569	343544	C++	Srkr	
+0	30.68	2056649	1418803	C++	J3r3m067	
 0	30.68	1010573	3047579	Javascript	Jezebel	
 0	30.68	1336138	404327	Python	wyrdoe	
 0	30.67	1448366	576791	C++	Mihai2121	
+0	30.66	1466376	1329402	C#	docjONEs	
 0	30.66	1249322	370455	C#	MattLGX	
 0	30.66	2055377	1467199	C++	Covfefe	
 0	30.65	1051871	355018	Python3	MattHylkema	
@@ -866,7 +867,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4718,time=2021-05-08 00:30:
 0	30.6	2110342	2104229	C++	lchenay	
 0	30.6	393345	339918	C++	Peter9449	
 0	30.6	1075044	345379	Javascript	vob	
-0	30.59	1466376	1329402	C#	docjONEs	
 0	30.59	1555765	791752	C#	DewJunkie	
 0	30.59	959402	2668968	C#	gmessier	
 0	30.58	1369369	1391279	Python3	JulienDalle	
@@ -978,7 +978,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4718,time=2021-05-08 00:30:
 0	29.72	1059235	357337	C++	YerzhanU	
 0	29.68	2804763	2241961	C++	HAL9001	
 0	29.67	880291	342283	C++	LaChapeliere	
-0	29.66	910613	2335620	C#	morozec	
+0	29.65	910613	2335620	C#	morozec	
 0	29.62	1189814	369357	Java	xy007	
 0	29.61	1247757	370417	Javascript	jackbrv	
 0	29.56	973040	1733307	C	papyjo	
