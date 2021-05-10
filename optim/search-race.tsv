@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=412,time=2021-05-09 02:56:07
+Score	UserID	Lang	Pseudo	#optim,count=413,time=2021-05-10 02:32:26
 10359.64	2288263	Rust	dbdr	
 10367.970000000005	351062	C++	Neumann	
 10484.98	1400179	Python3	reCurse	
@@ -263,6 +263,7 @@ Score	UserID	Lang	Pseudo	#optim,count=412,time=2021-05-09 02:56:07
 23120.67000000001	4030968	Python3	MBucas	
 23164.6	4047014	Python3	TolstY	
 23186.1	4086355	Python3	RemJ	
+23198.729999999996	4300969	Javascript	thomasgonda3	
 23214.11	4066925	Python3	KrysmaCZ	
 23245.74	903341	TypeScript	Morthyr	
 23265.46	4068639	Java	IxionTour	
