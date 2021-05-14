@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3777,time=2021-05-13 03:05:33
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3777,time=2021-05-14 03:21:16
 5	35.59	1629259	2238218	C++	Marchete	
 5	33.03	494104	960105	C++	Recar	
 5	32.53	818534	960075	C++	Ixanezis	
@@ -859,11 +859,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3777,time=2021-05-13 03:05:
 3	25.43	816462	937709	Python	hype	
 3	25.42	3936833	3072616	C++	algoliga2020	
 3	25.4	1122412	938128	Java	TheNinja	
+3	25.36	816229	1121050	Python	Gamadzila	
 3	25.33	440476	937946	Ruby	yowa	
 3	25.32	1112730	963186	Python3	lifchicker	
 3	25.31	1913595	1212308	Java	AlessioScarfone	
 3	25.31	1294909	937942	Java	Priscus	
-3	25.28	816229	1121050	Python	Gamadzila	
 3	25.28	3274477	2325627	Java	Flynn_Taggart	
 3	25.28	1480384	963493	C++	RockyMullet	
 3	25.28	825150	938000	Python	Laochao	
@@ -874,7 +874,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3777,time=2021-05-13 03:05:
 3	25.2	2562757	1837072	Java	Buffer94	
 3	25.19	1469376	937710	C++	rashik004	
 3	25.18	1630890	1308306	Java	Wld	
-3	25.17	855492	937509	Go	Erk	
 3	25.16	3289937	2324831	Java	TheAgents	
 3	25.13	1566335	1492935	Java	BeardedWhale	
 3	25.13	1386421	3411266	Kotlin	Anton.Siardziuk	
@@ -894,6 +893,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3777,time=2021-05-13 03:05:
 3	25.02	2213350	1503133	C++	bratek20	
 3	24.99	1544133	2472884	Python3	GameHHH	
 3	24.99	330929	937993	Java	shilov	
+3	24.99	855492	937509	Go	Erk	
 3	24.98	1410353	3385607	Rust	SwagColoredKitteh	
 3	24.96	1272263	940073	Python3	Caled	
 3	24.95	974135	2592085	Python3	A3	
@@ -970,9 +970,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3777,time=2021-05-13 03:05:
 3	22.95	397123	937702	Javascript	Fafnir	
 3	22.91	894599	969297	Java	DidierC	
 3	22.9	1781310	939659	C	pm99	
-3	22.9	2255187	2087043	PHP	rom_02	
 3	22.89	915957	937963	C	Tux	
 3	22.87	2290633	2338466	Python3	field3	
+3	22.86	2255187	2087043	PHP	rom_02	
+3	22.86	1341520	2050848	Java	egaetan	
 3	22.86	1321710	3405132	Python3	Swagboy	
 3	22.84	1268618	958621	Java	Barnou	
 3	22.84	911777	1581264	F#	MasakiKyosuke	
@@ -982,7 +983,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3777,time=2021-05-13 03:05:
 3	22.78	154828	937914	C++	The_ROCK	
 3	22.77	2455616	2048959	Java	JeanClaude44	
 3	22.77	203779	937676	C++	guille1304	
-3	22.76	1341520	2050848	Java	egaetan	
 3	22.75	1559667	1850428	Java	GetSchwifty	
 3	22.73	703271	937604	Javascript	DrinkingBird	
 3	22.72	2717909	1963699	Java	Nelb	
