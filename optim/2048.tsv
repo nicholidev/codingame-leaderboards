@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=540,time=2021-05-14 03:23:18
+Score	UserID	Lang	Pseudo	#optim,count=541,time=2021-05-15 06:33:08
 62564496	2288263	Rust	dbdr	
 59353524	765200	Rust	FrancoisB	
 59353464	3457031	C++	YurkovAS	
@@ -125,6 +125,7 @@ Score	UserID	Lang	Pseudo	#optim,count=540,time=2021-05-14 03:23:18
 371360	2255945	C++	PoppyTrail	
 357444	3008857	Python3	timoru	
 334272	969500	Python3	AnasShami	
+320004	3954213	Python3	FrederickOr	
 307404	3687134	Java	Puccre	
 305628	792813	Python3	VilBoub	
 299136	3700430	C++	Sandivar	
@@ -186,6 +187,7 @@ Score	UserID	Lang	Pseudo	#optim,count=540,time=2021-05-14 03:23:18
 68888	4092149	Python3	MarcTu	
 68208	4022435	Python3	Timothee1997	
 67532	3596893	Python3	vincent8	
+67040	3420134	C++	KelvinAndHubbles	
 66420	385699	Go	Nikai	
 66064	304363	Javascript	chocolord	
 65944	2069141	C#	tomeko	
@@ -206,7 +208,6 @@ Score	UserID	Lang	Pseudo	#optim,count=540,time=2021-05-14 03:23:18
 58428	2592027	C#	ParticleBeam	
 58256	1179950	Swift	Patorikkuyatta	
 57356	4073599	C#	bzkaz	
-57356	3420134	Python3	KelvinAndHubbles	
 57268	1825144	TypeScript	HerrScheissmann	
 56608	4180659	Javascript	abrman	
 56400	389786	Java	menu	
@@ -402,7 +403,7 @@ Score	UserID	Lang	Pseudo	#optim,count=540,time=2021-05-14 03:23:18
 4200	2800866	C#	doug8679	
 4180	4082888	Python3	nodoyuna09	
 4048	3513265	C++	DaNinja	
-4036	4058867	TypeScript	TTTTTTTTTTTTTDDDDDDDDD	
+4036	4058867	TypeScript	I_just_wanna_have_a_name	
 3672	2989414	TypeScript	[Itep]	
 3612	4078395	Python3	KevinDaniel-S	
 3508	3319548	Java	Ellion35	
@@ -481,7 +482,7 @@ Score	UserID	Lang	Pseudo	#optim,count=540,time=2021-05-14 03:23:18
 344	4034361	C#	KirbyKirb	
 344	2147014	Javascript	ArthurPilate	
 344	496440	Python3	AtomicRobot	
-344	1788018	Java	beauBlackDu64	
+344	1788018	Java	bgDu64	
 344	3780374	Java	JorisS	
 344	4089683	C	RedRikudo	
 344	4101566	PHP	HugoSalty57	
