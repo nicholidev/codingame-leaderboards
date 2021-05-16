@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=541,time=2021-05-15 06:33:08
+Score	UserID	Lang	Pseudo	#optim,count=545,time=2021-05-16 04:34:09
 62564496	2288263	Rust	dbdr	
 59353524	765200	Rust	FrancoisB	
 59353464	3457031	C++	YurkovAS	
@@ -49,6 +49,7 @@ Score	UserID	Lang	Pseudo	#optim,count=541,time=2021-05-15 06:33:08
 10404892	3173494	Java	WKDE	
 10183760	1861258	Rust	Nazdhun	
 9607648	416894	C++	MeDev	
+9585300	3919068	C++	14598366	
 9282440	3305510	PHP	TBali	
 8844524	4119186	C#	Rxelux	
 8693156	1952778	Go	XXIV	
@@ -69,6 +70,7 @@ Score	UserID	Lang	Pseudo	#optim,count=541,time=2021-05-15 06:33:08
 4658788	3165536	C++	barbora	
 4641092	952784	C++	[CG]Simon	
 4551296	2258829	C#	Hiker	
+4329100	224325	TypeScript	TidyMaze	
 4049156	4027292	C#	rmait	
 4003632	1807733	Python3	NoZ-	
 3825460	1854246	C++	Counterbalance	
@@ -81,7 +83,6 @@ Score	UserID	Lang	Pseudo	#optim,count=541,time=2021-05-15 06:33:08
 3029892	4216789	Rust	Saur2000	
 2957988	3864752	Rust	MuddySneakers	
 2833088	973040	C	papyjo	
-2791664	224325	TypeScript	TidyMaze	
 2602560	4119778	Scala	Kwokster	
 2460352	1243876	Java	Hi-Low_World	
 2450728	3626782	Java	ItsNotABug	
@@ -126,6 +127,7 @@ Score	UserID	Lang	Pseudo	#optim,count=541,time=2021-05-15 06:33:08
 357444	3008857	Python3	timoru	
 334272	969500	Python3	AnasShami	
 320004	3954213	Python3	FrederickOr	
+312204	1413257	C#	Bavoen	
 307404	3687134	Java	Puccre	
 305628	792813	Python3	VilBoub	
 299136	3700430	C++	Sandivar	
@@ -343,6 +345,7 @@ Score	UserID	Lang	Pseudo	#optim,count=541,time=2021-05-15 06:33:08
 27708	4074861	Java	kishorecoder	
 27336	4085698	Python3	sbs7	
 27292	1393802	Python3	amzh	
+27156	4190376	C#	TranspersonalPsy	
 27036	2353603	Pascal	MrSok	
 27012	4111826	Java	ThomasMascaro	
 26592	3999693	Python3	ln-dev05	
@@ -534,6 +537,7 @@ Score	UserID	Lang	Pseudo	#optim,count=541,time=2021-05-15 06:33:08
 344	4290959	Javascript	OSMS	
 344	4274197	Rust	i8fbnkyw	
 344	4331127	TypeScript	fertwgrdh	
+344	4190375	C#	Pipindron	
 300	4094683	Python3	Loes	
 300	275626	Javascript	GreyMoon	
 300	3487406	C#	SyvachenkoMK	
