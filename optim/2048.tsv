@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=545,time=2021-05-16 04:34:09
+Score	UserID	Lang	Pseudo	#optim,count=547,time=2021-05-17 05:30:27
 62564496	2288263	Rust	dbdr	
 59353524	765200	Rust	FrancoisB	
 59353464	3457031	C++	YurkovAS	
@@ -70,7 +70,7 @@ Score	UserID	Lang	Pseudo	#optim,count=545,time=2021-05-16 04:34:09
 4658788	3165536	C++	barbora	
 4641092	952784	C++	[CG]Simon	
 4551296	2258829	C#	Hiker	
-4329100	224325	TypeScript	TidyMaze	
+4532788	224325	TypeScript	TidyMaze	
 4049156	4027292	C#	rmait	
 4003632	1807733	Python3	NoZ-	
 3825460	1854246	C++	Counterbalance	
@@ -91,6 +91,7 @@ Score	UserID	Lang	Pseudo	#optim,count=545,time=2021-05-16 04:34:09
 2124388	2012662	Python3	Natalka1122	
 2099264	806416	Python3	awnion	
 2013220	1720605	Rust	carlicolosse	
+2000068	1413257	C#	Bavoen	
 1830476	3317816	Java	Jeeronimo	
 1757832	1029663	C	Skreamly	
 1673952	4061329	C++	KLPP	
@@ -127,7 +128,6 @@ Score	UserID	Lang	Pseudo	#optim,count=545,time=2021-05-16 04:34:09
 357444	3008857	Python3	timoru	
 334272	969500	Python3	AnasShami	
 320004	3954213	Python3	FrederickOr	
-312204	1413257	C#	Bavoen	
 307404	3687134	Java	Puccre	
 305628	792813	Python3	VilBoub	
 299136	3700430	C++	Sandivar	
@@ -157,6 +157,7 @@ Score	UserID	Lang	Pseudo	#optim,count=545,time=2021-05-16 04:34:09
 108568	2647542	Java	szatist	
 107152	4116825	C#	JoeyVera	
 104428	3773139	C	Biba2000	
+101908	4185673	Python3	GeorgiD	
 101560	3922731	Scala	Dartisan	
 101548	2662309	C#	AnInventiveNameOfRepute	
 97496	2557034	Python3	IAmAButterfly	
@@ -236,6 +237,7 @@ Score	UserID	Lang	Pseudo	#optim,count=545,time=2021-05-16 04:34:09
 53512	1443075	C++	Wolfy82	
 53512	4251195	Java	Smelty	
 53512	1938265	Python3	ANONYMOUS42	
+53512	3423700	C++	Old-and-Grumpy	
 52376	4105263	Java	Meegumi	
 52032	2831825	Java	1null	
 51804	4059960	Java	hexahurz	

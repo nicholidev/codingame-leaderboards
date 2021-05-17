@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=186,time=2021-05-16 04:31:11
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=186,time=2021-05-17 04:31:27
 1	41.76	3136787	3504929	C++	jacek	
 1	37.06	3193653	3019690	C++	karliso	
 1	36.38	3457031	3466301	C++	YurkovAS	
@@ -124,7 +124,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=186,time=2021-05-16 04:31:1
 0	18.85	2976964	2623022	Python3	BenjaminUrquhart	
 0	18.01	622303	3125162	Python3	Zetrock	
 0	15.88	2833886	3124609	Python3	KnutWart	
-0	15.58	4001503	3126466	C++	Samsiflette	
+0	15.59	4001503	3126466	C++	Samsiflette	
 0	15.41	862919	2693756	C++	Astrobytes	
 0	15.07	909782	3070256	Go	Harkness	
 0	15.07	1019557	3123397	Java	Luigi59	
@@ -132,7 +132,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=186,time=2021-05-16 04:31:1
 0	15.05	3307436	3121549	Python3	kudzoo	
 0	15.02	425462	3126150	Python3	Azt-yur	
 0	14.98	2592027	3341755	C#	ParticleBeam	
-0	14.96	1713174	2616741	Python3	BigUP	
+0	14.97	1713174	2616741	Python3	BigUP	
 0	14.94	3969206	3122610	Python3	pinta1212	
 0	14.88	3997229	3121845	Python3	Dragomal21	
 0	14.88	3884213	3122298	Javascript	RemyVase	
@@ -142,8 +142,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=186,time=2021-05-16 04:31:1
 0	14.61	3230794	3121552	Python3	tutubalin	
 0	14.57	888898	2668561	C++	helgui	
 0	14.53	1066745	2614675	Java	DepartmentOfRedundancy	
-0	14.48	3999695	3125890	Java	ShaxoLudo	
-0	14.44	3496153	3125917	Python3	lndshs	
+0	14.46	3496153	3125917	Python3	lndshs	
 0	14.34	3402737	3127505	Dart	treeplate	
 0	14.33	2933084	3127797	Python3	Adrades	
 0	14.1	3223953	3122139	Java	StempfiFlo	
@@ -156,7 +155,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=186,time=2021-05-16 04:31:1
 0	1.24	3464590	3012285	C	abbecool	
 0	1.23	2325449	3314628	Perl	otpv	
 0	0.68	2069141	2672939	C#	tomeko	
-0	0.46	999637	2636744	Python3	dinobogan	
+0	0.66	999637	2636744	Python3	dinobogan	
 0	0.42	4146642	3391996	Pascal	saleh12H	
 0	0.36	881037	3122380	Java	Amadeuszx	
 0	0.25	3882002	3120766	C++	irmuun	
@@ -170,18 +169,19 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=186,time=2021-05-16 04:31:1
 0	-0.21	3563579	3016202	Javascript	gWizard	
 0	-0.23	4005595	3124756	Python3	csillalk	
 0	-0.38	2968035	3123491	C++	DomiKo	
+0	-0.51	1216540	3121233	Kotlin	Gruni92	
 0	-0.51	3935864	3121039	Go	xept	
+0	-0.52	3998686	3125000	C#	AlexStefanov	
 0	-0.52	3996057	3122630	Go	Abd228	
-0	-0.6	3998686	3125000	C#	AlexStefanov	
-0	-0.72	1216540	3121233	Kotlin	Gruni92	
-0	-0.87	2315896	3122010	Python3	DeCe	
-0	-0.88	2197484	3482708	Go	Tomeziy	
-0	-0.96	1341520	2637663	Java	egaetan	
-0	-1.09	4141531	3388151	Python3	saleh12	
-0	-1.42	1854639	2995986	C#	iDxMeG	
-0	-1.64	3980414	3340149	Python3	Penchal1395	
-0	-1.71	3971104	3125999	Swift	ThibaudLambert	
-0	-1.74	3991913	3127793	Python3	charlem	
-0	-1.75	3998002	3127876	Python3	Sambula	
-0	-2.06	3986907	3121211	Bash	LazarLazar	
-0	-2.99	3354337	3450266	C++	Westicles	
+0	-0.64	2197484	3482708	Go	Tomeziy	
+0	-0.92	4141531	3388151	Python3	saleh12	
+0	-1.11	2315896	3122010	Python3	DeCe	
+0	-1.17	1341520	2637663	Java	egaetan	
+0	-1.22	3971104	3125999	Swift	ThibaudLambert	
+0	-1.26	1854639	2995986	C#	iDxMeG	
+0	-1.52	3998002	3127876	Python3	Sambula	
+0	-1.84	3991913	3127793	Python3	charlem	
+0	-1.95	3980414	3340149	Python3	Penchal1395	
+0	-1.96	3999695	3657806	C++	ShaxoLudo	
+0	-2.4	3986907	3121211	Bash	LazarLazar	
+0	-3	3354337	3450266	C++	Westicles	
