@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=4584,time=2021-05-17 05:29:48
+Score	UserID	Lang	Pseudo	#optim,count=4592,time=2021-05-18 02:37:32
 2759	1301401	C#	Stanax	
 2761	1833680	C++	jvivenot	
 2765	2288263	Rust	dbdr	
@@ -342,6 +342,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4584,time=2021-05-17 05:29:48
 4508	2672932	Python3	Lanfeust	
 4522	153683	Dart	40R15T3	
 4525	931112	C#	stelar	
+4533	1782005	Javascript	AlexW	
 4537	3864752	Rust	MuddySneakers	
 4539	810879	C++	Niceboy	
 4539	2317747	Python3	ElPsyCongroo2011	
@@ -611,6 +612,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4584,time=2021-05-17 05:29:48
 5715	2058158	Python3	RolandKnight	
 5718	4076409	C++	Melarion	
 5720	1503564	C#	tihilv	
+5720	4309574	Python3	KornDV	
 5722	3435179	Python3	Valphyr	
 5724	648751	Haskell	dabino	
 5724	1229038	Python3	Kirsan	
@@ -620,7 +622,6 @@ Score	UserID	Lang	Pseudo	#optim,count=4584,time=2021-05-17 05:29:48
 5728	331880	Scala	Monstruo	
 5730	303151	Python3	MoOT.Cube	
 5730	1469666	C++	alenic	
-5730	1782005	Javascript	AlexW	
 5732	1378659	C++	TFD	
 5732	1529055	Python3	PacMann	
 5733	374987	C++	Duckie	
@@ -638,6 +639,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4584,time=2021-05-17 05:29:48
 5751	2158902	Scala	Snowbart	
 5752	1632895	Python3	CodinMonkey	
 5754	854169	Python3	Silmaen	
+5754	4338213	Python3	rfe	
 5755	347029	Go	Kevapo	
 5756	389786	Java	menu	
 5758	626535	Clojure	Halasimov	
@@ -659,6 +661,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4584,time=2021-05-17 05:29:48
 5773	877133	C	enygmata	
 5773	3377745	Python3	mathieuv	
 5773	862336	C++	Zaphus	
+5777	2295548	Rust	banban	
 5779	874507	PHP	SebastienXD	
 5784	907714	Java	Janot	
 5784	1787026	Javascript	xurei	
@@ -914,7 +917,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4584,time=2021-05-17 05:29:48
 5885	1652969	C#	Berci79	
 5885	4105586	Python3	Django81	
 5885	4146980	Go	Bernathan	
-5885	4309574	Python3	KornDV	
+5885	4185673	Python3	GeorgiD	
 5886	892395	C++	Christophe	
 5886	280978	Python3	Rylanor	
 5886	952729	Bash	Flodelarab	
@@ -996,6 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=4584,time=2021-05-17 05:29:48
 5898	1491790	Python3	Ostralopi-tk	
 5898	1082806	Python3	LowSkill	
 5898	2143315	Python3	FluffyToaster	
-5898	1879134	Python3	Mennimoor	
-5898	2071429	Python3	Mgcat	
-5899	808652	C#	Tarnation	
