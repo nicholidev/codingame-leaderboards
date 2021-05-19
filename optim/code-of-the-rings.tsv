@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=4592,time=2021-05-18 02:37:32
+Score	UserID	Lang	Pseudo	#optim,count=4600,time=2021-05-19 02:33:36
 2759	1301401	C#	Stanax	
 2761	1833680	C++	jvivenot	
 2765	2288263	Rust	dbdr	
@@ -297,6 +297,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4592,time=2021-05-18 02:37:32
 4323	4090777	Java	neilnh	
 4324	1838612	Rust	statiolake	
 4325	574693	Java	Bikecicle	
+4333	1457223	C++	jleconte	
 4337	194467	C++	funkeejeffou	
 4337	1290569	Python3	a76a44	
 4340	1178276	Java	Jerome_95	
@@ -475,6 +476,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4592,time=2021-05-18 02:37:32
 5350	4115124	Java	bitAlb	
 5352	321254	Scala	athy	
 5357	1060181	Ruby	Dabou	
+5358	3770928	C++	ku-haku	
 5365	899864	PHP	therainycat	
 5382	4193469	Rust	yannick-t	
 5388	3319855	C#	Drobor	
@@ -506,7 +508,6 @@ Score	UserID	Lang	Pseudo	#optim,count=4592,time=2021-05-18 02:37:32
 5485	1253105	C#	[CPC]Nitro	
 5488	892056	Python3	LaurentTrk	
 5490	1757041	PHP	Bytenex	
-5493	3770928	C++	ku-haku	
 5496	446956	C++	FranMowinckel	
 5497	905122	Python3	nILS	
 5498	4095799	Python3	circular17	
@@ -569,6 +570,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4592,time=2021-05-18 02:37:32
 5639	2055756	C#	BiBiPunK	
 5648	1504684	Javascript	entrpy	
 5648	1627246	Javascript	katutaistelija	
+5648	4309574	Python3	KornDV	
 5650	1156798	C++	taka-no-me	
 5650	3307806	C++	IlyaTkemal	
 5652	3965571	Python3	Smekarn	
@@ -612,7 +614,6 @@ Score	UserID	Lang	Pseudo	#optim,count=4592,time=2021-05-18 02:37:32
 5715	2058158	Python3	RolandKnight	
 5718	4076409	C++	Melarion	
 5720	1503564	C#	tihilv	
-5720	4309574	Python3	KornDV	
 5722	3435179	Python3	Valphyr	
 5724	648751	Haskell	dabino	
 5724	1229038	Python3	Kirsan	
@@ -850,6 +851,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4592,time=2021-05-18 02:37:32
 5871	2671038	Python3	1one	
 5871	1132011	C#	pci	
 5871	3411072	Kotlin	summer000	
+5871	1796115	Python3	JeanR	
 5872	476659	C++	Beard	
 5872	941805	PHP	losGismos	
 5872	1473079	Javascript	Zylar	
@@ -918,6 +920,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4592,time=2021-05-18 02:37:32
 5885	4105586	Python3	Django81	
 5885	4146980	Go	Bernathan	
 5885	4185673	Python3	GeorgiD	
+5885	4057208	C++	casmith789	
 5886	892395	C++	Christophe	
 5886	280978	Python3	Rylanor	
 5886	952729	Bash	Flodelarab	
@@ -996,6 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=4592,time=2021-05-18 02:37:32
 5898	1524937	C#	Nividica	
 5898	1619210	C++	Cleth	
 5898	1687386	Javascript	JauneLaCouleur	
-5898	1491790	Python3	Ostralopi-tk	
-5898	1082806	Python3	LowSkill	
-5898	2143315	Python3	FluffyToaster	
