@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=9372,time=2021-05-19 02:33:37
+Score	UserID	Lang	Pseudo	#optim,count=9396,time=2021-05-20 03:04:24
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -162,6 +162,7 @@ Score	UserID	Lang	Pseudo	#optim,count=9372,time=2021-05-19 02:33:37
 222000	224325	C++	TidyMaze	
 221910	2472606	C	MehdiTouil	
 221860	3842278	C	hem123	
+221580	4325119	Kotlin	Klimpergeist	
 221390	4125518	Java	Invitor	
 220060	336685	C	JulienBe	
 219970	3990938	C	T01	
@@ -578,7 +579,6 @@ Score	UserID	Lang	Pseudo	#optim,count=9372,time=2021-05-19 02:33:37
 73950	429850	Python3	Powazny	
 73680	264258	Python3	MrFlibble	
 73590	1287344	Python3	Alshock	
-73580	4325119	Kotlin	Klimpergeist	
 73530	2589340	C++	Zource	
 73360	1521843	C#	Doug	
 73110	2711018	Java	Fabs	
@@ -997,5 +997,5 @@ Score	UserID	Lang	Pseudo	#optim,count=9372,time=2021-05-19 02:33:37
 62960	810629	C#	Lukey	
 62960	3493804	Python3	Boublecorsica	
 62950	2973592	C#	EJtheMaster	
+62940	1001990	Python3	dangerworm	
 62930	1642184	Javascript	BastiSchulz	
-62930	3331888	TypeScript	LuizChagas	
