@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=12775,time=2021-05-20 03:04:27
+Score	UserID	Lang	Pseudo	#optim,count=12784,time=2021-05-21 02:33:28
 14337	329200	C++	BlitzProg	
 13905	3533119	C++	wlesavo	
 13603	1366631	Javascript	Morhaus	
@@ -200,6 +200,7 @@ Score	UserID	Lang	Pseudo	#optim,count=12775,time=2021-05-20 03:04:27
 3032	958227	Python3	LantarSidonis	
 3031	1794108	C++	Jeric	
 3030	1479137	PHP	lorenzods	
+3030	594697	C#	dimulien	
 3027	3340387	Java	lambdamu	
 3025	3166728	C++	0ddlyoko	
 3022	828830	C++	duffman	
@@ -291,7 +292,7 @@ Score	UserID	Lang	Pseudo	#optim,count=12775,time=2021-05-20 03:04:27
 2742	839517	C#	Andrei2	
 2742	3937932	TypeScript	OnTheBrink	
 2740	153774	C++	cocoche007	
-2740	1952778	Go	XXIV	
+2740	1952778	Go	blast_beat	
 2732	2014007	PHP	Louise-Francoise	
 2730	962495	Python3	eboot	
 2730	762642	Python3	Wonyoung	
@@ -299,7 +300,6 @@ Score	UserID	Lang	Pseudo	#optim,count=12775,time=2021-05-20 03:04:27
 2728	1201796	C	P.Greze	
 2725	2422378	Java	C2H5OH	
 2724	668954	C++	Fluxor	
-2722	594697	C#	dimulien	
 2718	1181685	Lua	dzik	
 2718	2061249	C++	delisea	
 2714	3031458	C#	_-_Equus_-_Don	
@@ -641,7 +641,6 @@ Score	UserID	Lang	Pseudo	#optim,count=12775,time=2021-05-20 03:04:27
 2532	4046678	Python3	N9798	
 2532	3939557	Python3	AlexandraWheeler	
 2532	154806	Python3	piwai	
-2532	3607506	Python3	tkhadir	
 2532	3774808	Python3	krish10	
 2532	4114840	Python3	ArDiDEx	
 2532	2109780	Python3	ChaudCoLaTeen	
@@ -999,3 +998,4 @@ Score	UserID	Lang	Pseudo	#optim,count=12775,time=2021-05-20 03:04:27
 1998	1135052	Java	flow	
 1994	4194801	Python3	jdeveil	
 1992	389175	Java	Folkenn84	
+1990	254883	Java	maksim	

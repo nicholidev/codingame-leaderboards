@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4752,time=2021-05-20 00:30:07
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4753,time=2021-05-21 00:30:28
 0	47.45	1433161	1484525	C	mingu1.kang	
 0	45.82	494104	455215	C++	Recar	
 0	45.55	990110	357643	C++	Rogerup	
@@ -366,10 +366,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4752,time=2021-05-20 00:30:
 0	34.97	1267417	374725	Python3	co42	
 0	34.97	979569	352955	Javascript	khanh_alice	
 0	34.96	846937	345706	F#	HintOfBrain	
-0	34.96	646829	363403	Java	Kiwewe	
 0	34.96	704875	353003	C#	XaY	
 0	34.96	837350	2195014	Go	BorisZ	
 0	34.95	1740037	2679414	Scala	ereiam	
+0	34.95	646829	363403	Java	Kiwewe	
 0	34.94	715431	349514	Javascript	G3r0	
 0	34.94	568261	352287	Java	Tristan	
 0	34.94	2683458	1917286	OCaml	MPSI_Fusee	
@@ -457,9 +457,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4752,time=2021-05-20 00:30:
 0	33.98	964187	356160	C#	Ali-AlMosawi	
 0	33.98	593099	406417	Python3	Maldo	
 0	33.98	980299	418115	Javascript	Namide	
-0	33.98	776882	505889	C#	Ersimi	
 0	33.98	1072075	345860	Javascript	vieirasub07	
 0	33.96	1291467	1393993	Javascript	Grimpeur	
+0	33.96	776882	505889	C#	Ersimi	
 0	33.96	4108927	3434701	Python3	JteVenDuReve	
 0	33.96	792813	356355	Python3	VilBoub	
 0	33.96	736854	373751	C++	yento	
@@ -873,6 +873,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4752,time=2021-05-20 00:30:
 0	30.6	393345	339918	C++	Peter9449	
 0	30.6	1075044	345379	Javascript	vob	
 0	30.59	959402	2668968	C#	gmessier	
+0	30.58	1189679	505112	C++	Wayde	
 0	30.57	977878	345087	C#	JohannJvR	
 0	30.57	849237	340539	C++	Leviathan	
 0	30.57	2990918	2572150	Javascript	Dingodino	
@@ -892,7 +893,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4752,time=2021-05-20 00:30:
 0	30.54	1068404	449434	C#	Naveronen	
 0	30.52	994096	353057	C#	depl20982	
 0	30.52	2290633	1615815	Python3	field3	
-0	30.52	1189679	505112	C++	Wayde	
 0	30.51	1717962	1437801	C++	Angryshark	
 0	30.51	2762653	2305073	C++	RAAAT	
 0	30.51	1054714	342602	Python	ScottKulp	
@@ -949,7 +949,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4752,time=2021-05-20 00:30:
 0	30.02	1063616	343324	C++	AndriyIlnytskyy	
 0	30.02	686600	371147	PHP	j.watanabe_ORATTA	
 0	30.01	280898	352648	C	Syllo	
-0	30.01	1347645	1661319	Kotlin	Wick3d	
 0	29.99	887067	351906	Python3	~ethiery	
 0	29.98	1335265	1025384	Python3	JuanCarlosPepe	
 0	29.97	1294175	375132	C#	Dima_Ahramovich	
@@ -961,6 +960,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4752,time=2021-05-20 00:30:
 0	29.95	1168511	920742	C++	kasuka	
 0	29.95	1038882	347501	Lua	ICTylor	
 0	29.95	1348345	413754	Java	OndraCZ	
+0	29.94	1347645	1661319	Kotlin	Wick3d	
 0	29.93	1086930	365706	Java	Wolfounet	
 0	29.93	954300	339909	Java	TalpigaBogdan	
 0	29.91	962569	416895	Python3	[K]Gabor	

@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=4606,time=2021-05-20 03:04:18
+Score	UserID	Lang	Pseudo	#optim,count=4608,time=2021-05-21 02:33:19
 2759	1301401	C#	Stanax	
 2761	1833680	C++	jvivenot	
 2765	2288263	Rust	dbdr	
@@ -47,7 +47,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4606,time=2021-05-20 03:04:18
 3413	1100752	C++	ValNykol	
 3415	601054	C++	geza	
 3425	553938	C++	MagAlex	
-3428	1952778	Go	XXIV	
+3428	1952778	Go	blast_beat	
 3430	3035070	C#	Ipso	
 3439	1178569	Python3	Azerrr	
 3445	668954	C++	Fluxor	
@@ -505,6 +505,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4606,time=2021-05-20 03:04:18
 5465	597560	C#	DarkWaw	
 5466	3174072	Python3	zakarfromdakar	
 5476	1207736	C#	Medium	
+5482	334434	Java	Rajh	
 5483	1467771	C++	Telokis	
 5485	1253105	C#	[CPC]Nitro	
 5488	892056	Python3	LaurentTrk	
@@ -860,6 +861,7 @@ Score	UserID	Lang	Pseudo	#optim,count=4606,time=2021-05-20 03:04:18
 5875	908928	Java	estlinara	
 5875	2271162	Java	Dingodoodl	
 5876	994344	Java	Momopouccino	
+5876	4162603	Java	Eluminati	
 5877	880044	C#	Dalmali	
 5877	528275	Python3	Ikko69	
 5878	1162982	C++	bobknows	
@@ -997,5 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=4606,time=2021-05-20 03:04:18
 5898	173805	C#	Storm	
 5898	821024	C	Pagrette	
 5898	1524937	C#	Nividica	
-5898	1619210	C++	Cleth	
-5898	1687386	Javascript	JauneLaCouleur	

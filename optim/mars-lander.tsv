@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=3732,time=2021-05-20 03:04:07
+Score	UserID	Lang	Pseudo	#optim,count=3737,time=2021-05-21 02:33:15
 2509	1327028	C++	FredericBautista	
 2507	154372	Bash	Plopx	
 2504	1249786	C#	Fededevi	
@@ -117,6 +117,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3732,time=2021-05-20 03:04:07
 2338	1754295	Java	SF	
 2338	999637	C	dinobogan	
 2336	1400179	C++	reCurse	
+2335	1458246	C#	Httpsx	
 2332	3938500	Java	evanforCodin	
 2331	4290907	C++	janm31415	
 2330	1937628	C++	Elom	
@@ -128,7 +129,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3732,time=2021-05-20 03:04:07
 2320	811622	C++	Scarfield	
 2320	536400	C++	Atmel	
 2318	3136962	C++	marimarek	
-2315	1458246	C#	Httpsx	
 2314	154388	Python3	PonyPonyCodeCode	
 2313	3903847	Java	UnicornP	
 2312	371603	C++	martin	
@@ -510,6 +510,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3732,time=2021-05-20 03:04:07
 1991	4193469	Rust	yannick-t	
 1991	3425476	Java	SteachTheTurtle	
 1991	2719604	Java	vpoulailleau	
+1991	3924101	Java	kzntz	
 1990	876163	C#	AY1111	
 1990	1393802	Python3	amzh	
 1990	3762699	C	Nolliwood	
@@ -568,12 +569,13 @@ Score	UserID	Lang	Pseudo	#optim,count=3732,time=2021-05-20 03:04:07
 1960	3488598	C++	KSlawinski	
 1959	3308199	Java	ChadThundercode	
 1958	525864	C++	ATwice	
-1958	1952778	Go	XXIV	
+1958	1952778	Go	blast_beat	
 1957	1363760	Javascript	Frostizzz	
 1957	1555765	C#	DewJunkie	
 1957	1470107	C#	jsmith	
 1957	2108186	C++	M_Summerbell	
 1957	2317747	Haskell	ElPsyCongroo2011	
+1957	1482482	Javascript	gmolnar	
 1956	3742936	Python3	David26	
 1955	864639	Java	PseudoNoise	
 1955	3421427	C++	JMACM	
@@ -904,6 +906,7 @@ Score	UserID	Lang	Pseudo	#optim,count=3732,time=2021-05-20 03:04:07
 1809	776401	C#	mshogren	
 1809	2766041	Python3	PVR	
 1808	1064724	Rust	Mamamatchi	
+1808	4283515	PHP	FrancoisBaveye	
 1806	1107630	Go	dbenque	
 1805	1288975	C#	Lamihck	
 1804	996271	Java	labete	
@@ -915,7 +918,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3732,time=2021-05-20 03:04:07
 1802	865548	Python3	Kktus	
 1801	2104136	C++	Max_Summerbell	
 1801	2391407	Java	daadi	
-1801	4283515	PHP	FrancoisBaveye	
 1800	1818356	C#	cgourdon	
 1800	2255931	Python3	MarcusAndrews	
 1799	880353	Python3	zasmu	
@@ -969,7 +971,6 @@ Score	UserID	Lang	Pseudo	#optim,count=3732,time=2021-05-20 03:04:07
 1785	3606061	C++	Tomvanwaas	
 1785	1049124	Python3	iliam14	
 1785	3922731	Dart	Dartisan	
-1785	3607506	Javascript	tkhadir	
 1785	3919068	Python3	14598366	
 1785	4294044	Python3	simsimlafamille	
 1785	2843579	Python3	Velop0p0	
@@ -998,4 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=3732,time=2021-05-20 03:04:07
 1780	2298871	Javascript	jesuisdev.net	
 1780	3693549	Javascript	MostafaAhmedAbdEl-fattah	
 1780	2860185	Javascript	MariaBeckles	
-1780	3806645	Javascript	trizin	
