@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=555,time=2021-05-21 02:33:47
+Score	UserID	Lang	Pseudo	#optim,count=558,time=2021-05-22 02:34:16
 62564496	2288263	Rust	dbdr	
 59353524	765200	Rust	FrancoisB	
 59353464	3457031	C++	YurkovAS	
@@ -37,6 +37,7 @@ Score	UserID	Lang	Pseudo	#optim,count=555,time=2021-05-21 02:33:47
 16925948	3647844	C++	rc95401	
 16652164	2968035	C++	DomiKo	
 16504096	3919068	C++	14598366	
+15665176	224325	TypeScript	TidyMaze	
 15247188	2416641	C++	Zenoscave	
 14545024	1256312	C#	Djoums	
 14498556	1050420	C++	boi_led_egg	
@@ -61,9 +62,9 @@ Score	UserID	Lang	Pseudo	#optim,count=555,time=2021-05-21 02:33:47
 7551380	3721214	C++	jrke	
 7458284	524638	C++	miklla	
 7365316	1314316	C++	jolindien	
+7046556	3335896	C++	_martynas	
 6722180	3996809	C++	VizGhar	
 6254508	512097	C++	Stilgart	
-5716384	224325	TypeScript	TidyMaze	
 5518472	884874	D	Zauberer	
 5005228	4205154	C++	tuna_in_cream	
 4966560	1162014	Java	Bojan	
@@ -82,6 +83,7 @@ Score	UserID	Lang	Pseudo	#optim,count=555,time=2021-05-21 02:33:47
 3073904	2438514	C++	davi_bart	
 3029892	4216789	Rust	Saur2000	
 2957988	3864752	Rust	MuddySneakers	
+2856840	3381264	C#	Crying_Lightning	
 2833088	973040	C	papyjo	
 2602560	4119778	Scala	Kwokster	
 2460352	1243876	Java	Hi-Low_World	
@@ -130,6 +132,7 @@ Score	UserID	Lang	Pseudo	#optim,count=555,time=2021-05-21 02:33:47
 357444	3008857	Python3	timoru	
 334272	969500	Python3	AnasShami	
 320004	3954213	Python3	FrederickOr	
+308332	4162603	Java	Eluminati	
 307404	3687134	Java	Puccre	
 305628	792813	Python3	VilBoub	
 299136	3700430	C++	Sandivar	
@@ -188,7 +191,6 @@ Score	UserID	Lang	Pseudo	#optim,count=555,time=2021-05-21 02:33:47
 74580	1542064	C++	Skyr83	
 74348	810629	C#	Lukey	
 71856	992329	Python3	BeeGee	
-71848	3381264	C#	Crying_Lightning	
 70600	3068678	Python3	DrSilverstone	
 69792	2635907	Javascript	lopidav	
 68904	4030968	Python3	MBucas	
@@ -221,6 +223,7 @@ Score	UserID	Lang	Pseudo	#optim,count=555,time=2021-05-21 02:33:47
 57268	1825144	TypeScript	HerrScheissmann	
 56608	4180659	Javascript	abrman	
 56400	389786	Java	menu	
+56252	1017704	Javascript	Lucasgood	
 55768	820541	PHP	Johnstyle	
 55744	3416055	Python3	ItsAFeature	
 55744	3780735	C++	ecto0310	
@@ -371,6 +374,7 @@ Score	UserID	Lang	Pseudo	#optim,count=555,time=2021-05-21 02:33:47
 24876	4082228	Java	jengisgat	
 24356	4091440	Python3	tarikyildiz	
 24184	1495694	C++	MisterJensen	
+24136	4190375	C#	Pipindron	
 24096	4119521	C++	Mamoe1968	
 23680	4113369	Java	SafouaneJelassi	
 23192	3365527	Go	Civiled	
@@ -547,7 +551,6 @@ Score	UserID	Lang	Pseudo	#optim,count=555,time=2021-05-21 02:33:47
 344	4290959	Javascript	OSMS	
 344	4274197	Rust	i8fbnkyw	
 344	4331127	TypeScript	fertwgrdh	
-344	4190375	C#	Pipindron	
 300	4094683	Python3	Loes	
 300	275626	Javascript	GreyMoon	
 300	3487406	C#	SyvachenkoMK	
