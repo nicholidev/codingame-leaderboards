@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=420,time=2021-05-23 04:42:24
+Score	UserID	Lang	Pseudo	#optim,count=420,time=2021-05-24 02:47:39
 10359.64	2288263	Rust	dbdr	
 10367.970000000005	351062	C++	Neumann	
 10484.98	1400179	Python3	reCurse	
@@ -18,8 +18,8 @@ Score	UserID	Lang	Pseudo	#optim,count=420,time=2021-05-23 04:42:24
 11066.54	1106450	C++	RiSuS	
 11070.630000000005	1314316	C++	jolindien	
 11103.09	3513265	C++	DaNinja	
+11126.529999999992	3721214	C++	jrke	
 11130.269999999997	893541	Java	wala	
-11142.839999999997	3721214	C++	jrke	
 11228.67	4067707	C++	therealbeef	
 11230.059999999998	2786666	C++	TetraktysPhi	
 11249.94	2924895	C	trictrac	
@@ -128,6 +128,7 @@ Score	UserID	Lang	Pseudo	#optim,count=420,time=2021-05-23 04:42:24
 18505.43	806416	Python3	awnion	
 18538.60000000001	3737797	Javascript	lbadet	
 18626.74	958227	Python3	LantarSidonis	
+18648.819999999992	4300969	Javascript	thomasgonda3	
 18842.64999999999	992329	Python3	BeeGee	
 18844.069999999996	2012662	Python3	Natalka1122	
 18898.97	3489223	Javascript	KarloHubai	
@@ -266,7 +267,6 @@ Score	UserID	Lang	Pseudo	#optim,count=420,time=2021-05-23 04:42:24
 23120.67000000001	4030968	Python3	MBucas	
 23164.6	4047014	Python3	TolstY	
 23186.1	4086355	Python3	RemJ	
-23198.729999999996	4300969	Javascript	thomasgonda3	
 23214.11	4066925	Python3	KrysmaCZ	
 23245.74	903341	TypeScript	Morthyr	
 23265.46	4068639	Java	IxionTour	
