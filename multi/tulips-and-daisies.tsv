@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=98,time=2021-05-25 02:30:58
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=98,time=2021-05-26 02:30:57
 1	45.43	2924895	3006726	C	trictrac	
 1	43.96	2288263	2852691	Rust	dbdr	
 1	42.97	1489865	2840096	C++	EricSMSO	
@@ -42,7 +42,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=98,time=2021-05-25 02:30:58
 0	30.85	3472672	2995014	Java	zargak	
 0	30.81	1010476	2995672	C	Migrou	
 0	28.84	1886665	3069953	C++	Ficek	
-0	28.37	3794725	3370539	C++	Qoo	
+0	28.36	3794725	3370539	C++	Qoo	
 0	27.88	3699033	3069908	C++	Bitwise	
 0	27.72	512097	3342905	Haskell	Stilgart	
 0	27.29	2202771	2999881	Java	Kaplone	
@@ -55,21 +55,21 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=98,time=2021-05-25 02:30:58
 0	25.51	3652176	3001682	Kotlin	Allali	
 0	25.44	1968089	3069970	C++	MarcinDus	
 0	24.99	3721214	3423431	C++	jrke	
-0	24.9	3165536	2835866	C++	barbora	
+0	24.89	3165536	2835866	C++	barbora	
 0	24.85	3691491	3000764	Javascript	icecream17	
 0	24.63	4098427	3429416	Python3	Ask369	
 0	24.2	524638	3367821	C++	miklla	
 0	23.89	3691366	3126206	Java	V90	
 0	23.84	3306190	3001984	PHP	edvordo	
 0	23.78	972917	3081880	Python3	norbi97	
-0	23.23	3832899	3000638	Ruby	s5qs9am	
+0	23.27	3832899	3000638	Ruby	s5qs9am	
 0	23.18	2354632	2997157	Javascript	Rahdi	
 0	21.72	1029602	3134636	C	Potemkine	
 0	21.7	1383054	3114350	Python3	Oxame	
 0	21.17	3441312	2995319	Python3	Lara_SL	
 0	20.1	2923506	3135597	C++	darkhorse64	
 0	18.73	1288527	2846809	C++	Snef	
-0	18.42	2069141	2827471	C#	tomeko	
+0	18.47	2069141	2827471	C#	tomeko	
 0	16.76	1660968	3002247	Java	Greedo	
 0	16.59	1412263	2845682	PHP	PatrickMcGinnisII	
 0	16.48	3239970	3004072	Java	solaimanope	
@@ -86,14 +86,15 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=98,time=2021-05-25 02:30:58
 0	11.5	3274956	2822487	C++	LeProfesseur	
 0	11.22	1483648	3008599	Java	DhakalKumar	
 0	10.54	973040	2975391	C	papyjo	
-0	8.07	2325449	3314623	Perl	otpv	
-0	5.43	523846	2808955	C#	Palmipedus	
-0	5.27	1854639	2995971	C#	iDxMeG	
-0	4.63	3634792	2999615	Javascript	robat	
-0	4.61	3579977	3000578	Javascript	Jellyblob	
-0	3.81	3464590	3012279	C	abbecool	
+0	8.14	2325449	3314623	Perl	otpv	
+0	5.36	1854639	2995971	C#	iDxMeG	
+0	5.36	523846	2808955	C#	Palmipedus	
+0	4.83	3634792	2999615	Javascript	robat	
+0	4.83	3579977	3000578	Javascript	Jellyblob	
+0	4.27	3464590	3012279	C	abbecool	
+0	3.5	3533119	2832388	TypeScript	wlesavo	
+0	3.42	484004	3516699	Python3	aCat	
 0	3.25	4129463	3379413	Javascript	Anonyymouss	
-0	3.09	484004	3516699	Python3	aCat	
-0	2.89	3533119	2832388	TypeScript	wlesavo	
-0	1.5	3354337	3450307	C++	Westicles	
-0	-8	4032211	3394606	Python3	artmyros	
+0	2.05	3354337	3450307	C++	Westicles	
+0	-5.18	4358667	3687526	Dart	89516	
+0	-7.1	4032211	3394606	Python3	artmyros	

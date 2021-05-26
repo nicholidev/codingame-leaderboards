@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=188,time=2021-05-25 02:30:58
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=189,time=2021-05-26 02:30:57
 1	42.38	3136787	3680418	C++	jacek	
 1	36.55	3193653	3019690	C++	karliso	
 1	36.42	3457031	3466301	C++	YurkovAS	
@@ -149,16 +149,16 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=188,time=2021-05-25 02:30:5
 0	13.29	942392	3127150	C	Metanoob	
 0	11.5	3156706	2999464	Java	ktotam	
 0	10.53	154840	2804374	Rust	Tomu	
-0	8.74	942601	3126662	Python3	Ploum	
+0	8.79	942601	3126662	Python3	Ploum	
 0	7.68	304126	2828275	PHP	kami	
 0	4.58	1825144	3128234	Javascript	HerrScheissmann	
 0	2.17	354788	3677363	C++	Lexer31	
 0	1.36	3464590	3012285	C	abbecool	
 0	1.32	2325449	3314628	Perl	otpv	
 0	0.5	999637	2636744	Python3	dinobogan	
+0	0.37	1026547	3121806	C++	petty	
 0	0.36	2069141	2672939	C#	tomeko	
 0	0.27	4146642	3391996	Pascal	saleh12H	
-0	0.26	1026547	3121806	C++	petty	
 0	0.2	3882002	3120766	C++	irmuun	
 0	0.19	881037	3122380	Java	Amadeuszx	
 0	0.11	3373579	3122493	Python3	Brownie2002	
@@ -174,16 +174,17 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=188,time=2021-05-25 02:30:5
 0	-0.32	3996057	3122630	Go	Abd228	
 0	-0.33	1216540	3121233	Kotlin	Gruni92	
 0	-0.62	4141531	3388151	Python3	saleh12	
-0	-0.65	2968035	3123491	C++	DomiKo	
-0	-0.83	3866652	3664595	C#	Mindou	
-0	-1	1341520	2637663	Java	egaetan	
-0	-1.01	2197484	3482708	Go	Tomeziy	
-0	-1.02	3971104	3125999	Swift	ThibaudLambert	
-0	-1.15	2315896	3122010	Python3	DeCe	
-0	-1.17	1854639	2995986	C#	iDxMeG	
-0	-1.42	3998002	3127876	Python3	Sambula	
-0	-1.94	3999695	3657806	C++	ShaxoLudo	
-0	-2.02	3991913	3127793	Python3	charlem	
-0	-2.17	3980414	3340149	Python3	Penchal1395	
-0	-2.46	3986907	3121211	Bash	LazarLazar	
-0	-2.89	3354337	3450266	C++	Westicles	
+0	-0.74	2968035	3123491	C++	DomiKo	
+0	-0.76	2315896	3122010	Python3	DeCe	
+0	-0.81	3971104	3125999	Swift	ThibaudLambert	
+0	-0.97	3866652	3664595	C#	Mindou	
+0	-0.98	1854639	2995986	C#	iDxMeG	
+0	-0.99	1341520	2637663	Java	egaetan	
+0	-1.03	2197484	3482708	Go	Tomeziy	
+0	-1.04	3998002	3127876	Python3	Sambula	
+0	-1.86	3980414	3340149	Python3	Penchal1395	
+0	-1.98	3991913	3127793	Python3	charlem	
+0	-2.12	3999695	3657806	C++	ShaxoLudo	
+0	-2.47	3354337	3450266	C++	Westicles	
+0	-2.52	3986907	3121211	Bash	LazarLazar	
+0	-2.92	1035630	3686500	Java	Vestiaz	
