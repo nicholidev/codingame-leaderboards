@@ -1,16 +1,17 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=15,time=2021-05-26 00:30:22
-1	39.5	2924895	3673377	C	trictrac	
-1	36.29	1500515	3673914	C#	eulerscheZahl	
-1	28.53	2290633	3681159	Python3	field3	
-1	27.5	3525167	3677146	Java	fgsdt	
-1	25.05	311035	3682365	Python3	leojean890	
-0	23.68	3141948	3683221	Python3	philRG	
-0	23.48	1412263	3681711	PHP	PatrickMcGinnisII	
-0	13.37	2194865	3679717	Ruby	paranoidduck	
-0	13.19	3136787	3685047	C++	jacek	
-0	2.03	3569066	3677590	Bash	derjack	
-0	1.29	354788	3677365	C++	Lexer31	
-0	1.28	2043908	3675906	VB.NET	AntiSquid	
-0	1.23	3354337	3674788	Javascript	Westicles	
-0	-1.22	4251195	3680680	Java	Smelty	
-0	-1.23	2325449	3675049	Perl	otpv	
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=16,time=2021-05-27 00:30:17
+1	39.39	2924895	3673377	C	trictrac	
+1	36.18	1500515	3673914	C#	eulerscheZahl	
+1	28.54	2290633	3681159	Python3	field3	
+1	27.47	3525167	3677146	Java	fgsdt	
+1	25.32	311035	3682365	Python3	leojean890	
+1	5.5	3141948	3689103	Python3	philRG	
+0	23.3	1412263	3681711	PHP	PatrickMcGinnisII	
+0	15.91	3136787	3685047	C++	jacek	
+0	14.1	2194865	3679717	Ruby	paranoidduck	
+0	1.98	3569066	3677590	Bash	derjack	
+0	1.77	1713174	3687793	Python3	BigUP	
+0	1.45	2043908	3675906	VB.NET	AntiSquid	
+0	1.25	3354337	3674788	Javascript	Westicles	
+0	1	354788	3677365	C++	Lexer31	
+0	-0.54	2325449	3675049	Perl	otpv	
+0	-1.04	4251195	3680680	Java	Smelty	

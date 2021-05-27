@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=562,time=2021-05-26 02:38:13
+Score	UserID	Lang	Pseudo	#optim,count=563,time=2021-05-27 02:36:30
 62564496	2288263	Rust	dbdr	
 59353524	765200	Rust	FrancoisB	
 59353464	3457031	C++	YurkovAS	
@@ -98,6 +98,7 @@ Score	UserID	Lang	Pseudo	#optim,count=562,time=2021-05-26 02:38:13
 1757832	1029663	C	Skreamly	
 1673952	4061329	C++	KLPP	
 1670096	2135916	Python3	Oioi	
+1509904	2833929	Python3	pcourrousse	
 1469488	1966315	C#	ArtemAraptanov	
 1432492	2025868	C++	sumoru	
 1403092	1412263	PHP	PatrickMcGinnisII	
@@ -216,7 +217,6 @@ Score	UserID	Lang	Pseudo	#optim,count=562,time=2021-05-26 02:38:13
 60256	723476	Python3	NeoPhnx	
 59908	3846244	Python3	JLukeSkywalker	
 59788	854952	Java	dolmen1234	
-59748	2833929	Python3	pcourrousse	
 59560	4046678	Python3	N9798	
 59364	2802015	PHP	Psycholoveur	
 58428	2592027	C#	ParticleBeam	
@@ -555,6 +555,7 @@ Score	UserID	Lang	Pseudo	#optim,count=562,time=2021-05-26 02:38:13
 344	4290959	Javascript	OSMS	
 344	4274197	Rust	i8fbnkyw	
 344	4331127	TypeScript	fertwgrdh	
+344	3973359	C++	KAbel	
 300	4094683	Python3	Loes	
 300	275626	Javascript	GreyMoon	
 300	3487406	C#	SyvachenkoMK	
