@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3416,time=2021-05-27 02:32:10
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3417,time=2021-05-28 04:31:57
 6	31.01	1049935	2653256	C++	Azkellas	
 6	30.51	1607522	1886979	C++	RoboStac	
 6	28.69	735910	1886983	C++	Agade	
@@ -473,8 +473,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3416,time=2021-05-27 02:32:
 3	23.93	926167	2633584	C++	Hunyadix	
 3	23.87	2897668	3328181	Python3	Breital	
 3	23.86	992961	1867010	Java	EasyAsPai	
+3	23.84	957334	2129651	Java	Dam	
 3	23.83	3317583	2341906	Python3	Mjo	
-3	23.82	957334	2129651	Java	Dam	
 3	23.82	1442896	2440694	Javascript	Rubbisherman	
 3	23.8	4081634	3678691	Python3	Wontonimo	
 3	23.79	3016830	2599636	Javascript	Doubrixel	
@@ -610,8 +610,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3416,time=2021-05-27 02:32:
 3	21.76	3533569	2609738	Python3	CaribouDuDesert	
 3	21.68	944365	2282094	C++	thomas.colibert	
 3	21.68	1390227	2009656	Javascript	scorbiere	
+3	21.68	1611699	3117748	Java	EpiFlop	
 3	21.68	2849131	2083323	Python	MarKamui	
-3	21.67	1611699	3117748	Java	EpiFlop	
 3	21.65	2117160	3007247	TypeScript	Waterpumpee	
 3	21.63	2212845	2327025	C#	EricB85	
 3	21.62	1573471	2151418	C#	decompiled	
@@ -753,13 +753,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3416,time=2021-05-27 02:32:
 3	19.43	2026088	2604944	Python3	Michelle01	
 3	19.39	233834	2266822	C++	Herumor	
 3	19.39	3419066	2614886	Python3	xR3m1x	
+3	19.37	3444401	2476666	C#	Marcika	
 3	19.36	2023965	2589379	Java	Tempomancer9934	
 3	19.36	4230851	3524819	Python3	elendure	
 3	19.35	1164384	2250863	Javascript	Hiroshimaru	
 3	19.35	1076716	2484569	Python3	OEtzi007	
 3	19.35	3345777	3004273	TypeScript	MeowMeowMeow	
 3	19.34	2401975	3320312	C#	KeepCaIm	
-3	19.32	3444401	2476666	C#	Marcika	
 3	19.3	3513265	3078586	Javascript	DaNinja	
 3	19.29	1838612	3428898	Rust	statiolake	
 3	19.28	523185	2685457	Java	Hjax	
@@ -835,6 +835,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3416,time=2021-05-27 02:32:
 3	18.26	1506762	2678348	Python3	the_real_lolo	
 3	18.26	3516429	2652745	Python3	ShayMichaeli	
 3	18.25	3430449	2457678	C#	SwenV	
+3	18.23	3204946	2572454	Java	kbhi	
 3	18.23	4205394	3507435	Python3	hyndruide	
 3	18.22	2817085	2985033	Go	ostapneko	
 3	18.21	1342663	1901019	Python3	JeromeFavrou	
@@ -842,7 +843,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3416,time=2021-05-27 02:32:
 3	18.2	2400928	1861554	Python3	Gilsidoo	
 3	18.2	3931840	3125141	Java	Patrick33	
 3	18.19	2176877	1896183	C++	pasymows	
-3	18.19	3204946	2572454	Java	kbhi	
 3	18.18	297557	3088384	C#	rwilson	
 3	18.17	1038359	2487441	Python	Ronnie147	
 3	18.16	3398660	2440180	Java	JamesLiKitomba	
@@ -935,7 +935,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3416,time=2021-05-27 02:32:
 3	16.84	610416	3043039	C++	tekitouk	
 3	16.84	3056251	2255482	PHP	CaptainBob	
 3	16.84	3565446	2646511	Python3	GamesterB	
-3	16.84	1516975	2300113	Kotlin	TheBo	
 3	16.83	2914184	2988161	C#	Kos-Boss	
 3	16.82	3881333	3523342	TypeScript	TintinMilou	
 3	16.82	3625446	2642039	Go	f0r	
@@ -954,6 +953,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3416,time=2021-05-27 02:32:
 3	16.71	3686887	2992477	Python3	R1FA	
 3	16.68	2835016	2062157	C++	starkode	
 3	16.68	1891787	2435087	Python3	Threyeth	
+3	16.68	1516975	2300113	Kotlin	TheBo	
 3	16.66	1706034	1955765	Python3	Patricia	
 3	16.66	3715934	2748676	C#	Darkfang	
 3	16.66	3561291	2610398	C++	Tortuga_Grande	
