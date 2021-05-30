@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=985,time=2021-05-29 02:33:50
+Score	UserID	Lang	Pseudo	#optim,count=988,time=2021-05-30 02:30:35
 11902	2288263	Rust	dbdr	
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
@@ -334,6 +334,7 @@ Score	UserID	Lang	Pseudo	#optim,count=985,time=2021-05-29 02:33:50
 3466	754792	C++	Ramdeath	
 3465	2003111	PHP	Krikolo	
 3454	4018953	Javascript	zTTK	
+3440	389786	Java	menu	
 3424	1759839	C	matleg	
 3422	2889262	Javascript	gheath	
 3385	3982480	Javascript	darynka_xo	
@@ -439,7 +440,6 @@ Score	UserID	Lang	Pseudo	#optim,count=985,time=2021-05-29 02:33:50
 2438	3635785	Python3	Farameris	
 2436	2590149	Python3	GoofyGas	
 2435	3755815	C#	Moctrof	
-2434	389786	Java	menu	
 2430	1192837	Rust	davidB	
 2428	3999460	Ruby	jcweaver	
 2422	1307473	C++	Evgenykz	
@@ -882,6 +882,8 @@ Score	UserID	Lang	Pseudo	#optim,count=985,time=2021-05-29 02:33:50
 1045	1229845	Java	Jipe	
 1045	3749964	Python3	WillTheBill	
 1045	4309574	Python3	KornDV	
+1045	1979290	Python3	salmon	
+1045	4277867	Bash	About	
 1041	1074744	Java	GwenGlSoft	
 1039	1129000	Python3	ChairmanOfTheBored	
 1031	2607465	Java	valmowa	
@@ -977,6 +979,7 @@ Score	UserID	Lang	Pseudo	#optim,count=985,time=2021-05-29 02:33:50
 331	3889390	Javascript	SamIrvin17	
 293	482445	C#	BogdanSavchenko	
 234	723476	Python3	NeoPhnx	
+64	4353077	D		
 2	1661397	Ruby	MightyKnight	
 0	2924548	Java	Pepinus	
 0	3379298	C	Modospixel	
