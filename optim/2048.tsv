@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=573,time=2021-06-05 03:28:24
+Score	UserID	Lang	Pseudo	#optim,count=574,time=2021-06-06 02:30:40
 62564496	2288263	Rust	dbdr	
 59353524	765200	Rust	FrancoisB	
 59353464	3457031	C++	YurkovAS	
@@ -51,6 +51,7 @@ Score	UserID	Lang	Pseudo	#optim,count=573,time=2021-06-05 03:28:24
 10404892	3173494	Java	WKDE	
 10183760	1861258	Rust	Nazdhun	
 9607648	416894	C++	MeDev	
+9349956	3721214	C++	jrke	
 9282440	3305510	PHP	TBali	
 8844524	4119186	C#	Rxelux	
 8693156	1952778	Go	blast_beat	
@@ -59,7 +60,6 @@ Score	UserID	Lang	Pseudo	#optim,count=573,time=2021-06-05 03:28:24
 8305688	1515891	Go	ndc	
 8184664	155774	C++	dwarfie	
 7932432	1335230	C++	jft63	
-7551380	3721214	C++	jrke	
 7458284	524638	C++	miklla	
 7365316	1314316	C++	jolindien	
 7046556	3335896	C++	_martynas	
@@ -206,6 +206,7 @@ Score	UserID	Lang	Pseudo	#optim,count=573,time=2021-06-05 03:28:24
 66420	385699	Go	Nikai	
 66064	304363	Javascript	chocolord	
 65944	2069141	C#	tomeko	
+65832	1782005	Python3	AlexW	
 65288	1703441	Java	Michelou	
 64660	2202771	Java	Kaplone	
 64212	3446921	Python3	TheOtherAKS	
@@ -240,6 +241,7 @@ Score	UserID	Lang	Pseudo	#optim,count=573,time=2021-06-05 03:28:24
 55300	3941789	Dart	LastRick	
 54884	3728105	Python3	Marcusde36ste	
 54728	574371	Javascript	Dillysfriend	
+54680	331880	Kotlin	Monstruo	
 54156	2419811	Rust	Valbou	
 53576	4033445	Javascript	netto________	
 53576	819064	Rust	rampion	
@@ -308,7 +310,6 @@ Score	UserID	Lang	Pseudo	#optim,count=573,time=2021-06-05 03:28:24
 40728	3376384	Python3	esteban616	
 40076	4230724	Python3	SefioR13	
 39916	4099017	Java	LeafQuery	
-39664	331880	Kotlin	Monstruo	
 39444	3880773	Python3	kjmma	
 39376	837350	Python3	BorisZ	
 39000	858850	C#	doliver	
