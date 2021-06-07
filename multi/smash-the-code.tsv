@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2470,time=2021-06-06 02:30:20
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2471,time=2021-06-07 02:30:26
 5	35.67	1400179	2986754	C++	reCurse	
 5	31.98	1327028	2990369	C++	FredericBautista	
 5	30.3	1413236	511966	Go	Medici	
@@ -840,11 +840,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2470,time=2021-06-06 02:30:
 1	23.38	1620096	749641	C	InvisibleUSA	
 1	23.38	1385478	498347	Python3	ssssssssssssspppppprrrrrrrr	
 1	23.38	154937	601257	Python3	[CG]BOUGA	
-1	23.37	1072200	511891	C	alze	
 1	23.37	1472464	507333	Javascript	und3fined	
 1	23.37	359746	628910	Java	Shoohei	
 1	23.37	1559074	735117	C#	Meilby	
 1	23.36	859508	573090	C#	ger0000	
+1	23.36	390965	500812	Java	Aikyos	
 1	23.36	3477232	3030518	Python3	AxelVo	
 1	23.36	1035630	3686504	Java	Vestiaz	
 1	23.36	1355097	746657	Javascript	Manos	
@@ -859,8 +859,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2470,time=2021-06-06 02:30:
 1	23.34	1891787	1400468	Python	Threyeth	
 1	23.34	1446679	484869	Javascript	Janus	
 1	23.34	1439710	614967	Javascript	Buesto	
-1	23.34	390965	500812	Java	Aikyos	
 1	23.33	1404527	488144	Javascript	Bastiboy	
+1	23.33	1072200	511891	C	alze	
 1	23.33	1502298	610550	C#	skargg	
 1	23.33	3143143	2267027	C	TripleCrown	
 1	23.33	1245243	495360	Javascript	Clement134	
@@ -983,6 +983,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2470,time=2021-06-06 02:30:
 1	23.01	1263862	646541	Python3	Palermo	
 1	23.01	1495837	634550	Ruby	pityplatsch	
 1	23.01	915148	619650	C#	mbsff	
+1	23	3926522	3101789	Python3	Denshire	
 1	23	1472234	512253	C#	Filip.Lada	
 1	23	2451147	1658070	Python3	Lune-Ares	
 1	23	1656386	760825	C++	miszczu	
@@ -998,4 +999,3 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2470,time=2021-06-06 02:30:
 1	22.97	831171	3342570	Java	Recoding	
 1	22.97	805896	653121	Java	methodMain	
 1	22.97	1460921	491838	Python3	suchintan	
-1	22.96	1600351	687536	Python	rmark	
