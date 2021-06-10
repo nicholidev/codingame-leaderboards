@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=310,time=2021-06-07 02:30:52
+Score	UserID	Lang	Pseudo	#optim,count=311,time=2021-06-10 03:02:34
 174652	3354337	Scala	Westicles	
 167588	1530051	C++	UlYoP	
 165192	2968035	C++	DomiKo	
@@ -16,12 +16,12 @@ Score	UserID	Lang	Pseudo	#optim,count=310,time=2021-06-07 02:30:52
 128510	1378958	C#	Illedan	
 120642	3046779	Rust	Kathrin	
 118483	3457031	C++	YurkovAS	
+117376	3918583	Rust	mikmak	
 116591	1201796	Java	P.Greze	
 113915	2923506	C++	darkhorse64	
 113146	3533119	Python3	wlesavo	
 110747	580424	C++	siman	
 109674	1243354	C++	RSBat	
-108073	3918583	Rust	mikmak	
 102666	509738	C++	Konrad_Wer	
 96229	2510517	C++	Turtlefight	
 95691	3487645	Javascript	hypers	
@@ -63,6 +63,7 @@ Score	UserID	Lang	Pseudo	#optim,count=310,time=2021-06-07 02:30:52
 46958	734401	C++	b0n5a1	
 46889	2007852	Lua	Zorg1	
 45340	1535382	Java	CrankNaz	
+44632	4277867	D	About	
 42986	1952778	Go	blast_beat	
 40370	894599	Javascript	DidierC	
 38584	2617115	Java	Foltergeist113	
@@ -112,6 +113,7 @@ Score	UserID	Lang	Pseudo	#optim,count=310,time=2021-06-07 02:30:52
 29843	2690809	Python3	DvirHz	
 29574	3901513	Java	baronB	
 29547	1307206	C#	OGMichel	
+29052	155774	C++	dwarfie	
 28831	1389527	Python3	MarkGossage	
 28416	1406638	Java	[CG]Thibaud	
 28391	1883670	Java	radekmie	
@@ -149,17 +151,18 @@ Score	UserID	Lang	Pseudo	#optim,count=310,time=2021-06-07 02:30:52
 14789	3760239	Python3	notojapko	
 14504	1584802	Python3	emh	
 14382	2829386	C++	Shaq76	
-14122	155774	C++	dwarfie	
 13977	878974	Python3	nicola	
 13906	3028864	VB.NET	lorcQc	
 13906	1045485	TypeScript	Jessie	
 13816	2474883	Python3	lakeoverflow	
 12761	1698958	Javascript	OlafDriver	
 11532	3983017	PHP	TLbuis	
+10833	4341304	C++	Remiavecuni	
 10628	3878056	Python3	LighTender	
 10584	3344108	Rust	Xmar	
 10352	1715811	Java	PositiveQuark	
 10279	3858550	Python3	SPDene	
+10263	4252924	Java	mike82	
 10200	174205	Python3	ElleryAree	
 10108	1614797	Python3	irvcaza	
 9996	3496153	Python3	lndshs	
@@ -168,7 +171,6 @@ Score	UserID	Lang	Pseudo	#optim,count=310,time=2021-06-07 02:30:52
 9928	3889105	Scala	SpyQuel	
 9908	3922731	Dart	Dartisan	
 9908	2719604	Python3	vpoulailleau	
-9906	4341304	C++	Remiavecuni	
 9902	1678976	Ruby	Gorbit99	
 9902	3563934	C#	ChuckTheNinja	
 9902	2892501	Python3	JakubMaras	

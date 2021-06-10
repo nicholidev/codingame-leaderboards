@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=577,time=2021-06-07 02:30:52
+Score	UserID	Lang	Pseudo	#optim,count=580,time=2021-06-10 03:02:34
 62564496	2288263	Rust	dbdr	
 59353524	765200	Rust	FrancoisB	
 59353464	3457031	C++	YurkovAS	
@@ -88,13 +88,13 @@ Score	UserID	Lang	Pseudo	#optim,count=577,time=2021-06-07 02:30:52
 2602560	4119778	Scala	Kwokster	
 2460352	1243876	Java	Hi-Low_World	
 2450728	3626782	Java	ItsNotABug	
+2330276	2833929	Python3	pcourrousse	
 2319324	4036456	Python3	JeremSwak	
 2253844	475740	C#	Serg	
 2124388	2012662	Python3	Natalka1122	
 2099264	806416	Python3	awnion	
 2013220	1720605	Rust	carlicolosse	
 2000068	1413257	C#	Bavoen	
-1919916	2833929	Python3	pcourrousse	
 1830476	3317816	Java	Jeeronimo	
 1757832	1029663	C	Skreamly	
 1673952	4061329	C++	KLPP	
@@ -144,6 +144,7 @@ Score	UserID	Lang	Pseudo	#optim,count=577,time=2021-06-07 02:30:52
 276084	4142307	Python3	Editsira	
 260576	3903473	Python3	Konstant	
 257252	2437570	Python3	LordAchillus	
+251112	4252924	Java	mike82	
 250352	3942793	Java	The_Auditor	
 247104	4097008	Python3	petru4io	
 243456	3428333	Python3	pavel.jesenski	
@@ -191,6 +192,7 @@ Score	UserID	Lang	Pseudo	#optim,count=577,time=2021-06-07 02:30:52
 79044	1740237	Python3	OlegKornelsen	
 79044	3998980	Python3	bamax	
 78364	2709791	Python3	YOMar	
+78364	4075082	Python3	Loxnol	
 77248	4309574	Python3	KornDV	
 77068	3792309	C++	schachmatt	
 76616	948764	Python3	Katie	
@@ -347,7 +349,7 @@ Score	UserID	Lang	Pseudo	#optim,count=577,time=2021-06-07 02:30:52
 30652	2064637	Java	java_coffee_cup	
 30564	4066824	Javascript	Thannajo	
 30560	2508635	Java	hemhel	
-30556	3883379	Python3	QuentinZimmer	
+30556	3883379	Python3	MichelDarty	
 30476	1386924	Python3	Ylec	
 30012	3574688	C++	RaulButuc	
 30008	3967220	TypeScript	ArturSkrobisz	
@@ -439,6 +441,7 @@ Score	UserID	Lang	Pseudo	#optim,count=577,time=2021-06-07 02:30:52
 3612	4078395	Python3	KevinDaniel-S	
 3508	3319548	Java	Ellion35	
 3508	1407104	Python3	Maun	
+3508	1607251	Javascript	baboulaf	
 3348	1071235	Python3	Hearner	
 3248	3439872	Python3	xdcomrade	
 3248	4118735	Python3	MJE10	

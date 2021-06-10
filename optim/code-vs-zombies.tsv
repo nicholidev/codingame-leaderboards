@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=9652,time=2021-06-07 02:30:47
+Score	UserID	Lang	Pseudo	#optim,count=9704,time=2021-06-10 03:02:15
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -126,6 +126,7 @@ Score	UserID	Lang	Pseudo	#optim,count=9652,time=2021-06-07 02:30:47
 243100	888898	C++	helgui	
 242510	1194057	C++	Altivar	
 242380	820983	Javascript	Funnybobby	
+241190	1239545	Go	jke	
 241150	1449433	C++	Rolf	
 240890	1178276	Java	Jerome_95	
 239940	2872886	C	Andy_F	
@@ -165,7 +166,6 @@ Score	UserID	Lang	Pseudo	#optim,count=9652,time=2021-06-07 02:30:47
 222380	3533119	C++	wlesavo	
 222280	579894	C++	Binarii	
 222240	1201796	ObjectiveC	P.Greze	
-222100	1239545	Go	jke	
 222000	224325	C++	TidyMaze	
 221950	2803485	C	Aimzz	
 221910	2472606	C	MehdiTouil	
@@ -233,6 +233,7 @@ Score	UserID	Lang	Pseudo	#optim,count=9652,time=2021-06-07 02:30:47
 203360	226528	C++	Manwe	
 203110	3920887	C	hirehero	
 202890	3960362	C	Asgardinho	
+202790	1179950	Go	Patorikkuyatta	
 202450	1853167	Java	rcode	
 202360	272290	Go	Olaf69	
 202300	3939443	C++	Lafihalas	
@@ -320,6 +321,7 @@ Score	UserID	Lang	Pseudo	#optim,count=9652,time=2021-06-07 02:30:47
 171820	957176	F#	MWilliam	
 171720	1096201	Javascript	Maksimov	
 171060	1049935	C++	Azkellas	
+171010	1759839	C++	matleg	
 170610	886483	ObjectiveC	R4N4R4M4	
 169520	1400179	C++	reCurse	
 169500	1620803	C++	Lyapunov	
@@ -388,7 +390,6 @@ Score	UserID	Lang	Pseudo	#optim,count=9652,time=2021-06-07 02:30:47
 143110	1525821	C#	Jeroo	
 142770	3380418	C++	Von-Karma	
 142670	3594074	C++	jopo	
-142660	1759839	C++	matleg	
 142600	1740189	Javascript	RBeater	
 142600	1675034	Javascript	francois	
 142570	1393802	Python3	amzh	
@@ -854,7 +855,6 @@ Score	UserID	Lang	Pseudo	#optim,count=9652,time=2021-06-07 02:30:47
 64260	3670631	C++	merlleu	
 64260	2779453	C++	Welesy	
 64260	3931959	C++	Nerg	
-64260	1179950	C++	Patorikkuyatta	
 64260	2066683	C++	padobranac	
 64260	4325911	C++	Bertrand-Felix	
 64260	4122723	C++	Hydrazer	
@@ -862,6 +862,8 @@ Score	UserID	Lang	Pseudo	#optim,count=9652,time=2021-06-07 02:30:47
 64260	4089191	C++	Bixie	
 64260	4233955	C#	Hujing	
 64260	3735813	C++	chris_cc	
+64260	4378186	C++	XYZXYIU	
+64260	3049838	C++	pmor	
 64250	2858320	C++	Loule	
 64230	155928	PHP	pk	
 64230	1147815	Python3	Tashiqi	
@@ -997,5 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=9652,time=2021-06-07 02:30:47
 63090	154961	C#	[CPC]Foudge	
 63090	3711574	Javascript	h3rj4n	
 63070	960661	Python3	missingdays	
-63060	1455346	Groovy	sch4rka	
-63040	3406881	Java	MarcAn	

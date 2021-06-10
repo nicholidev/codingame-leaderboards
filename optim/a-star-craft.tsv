@@ -1,7 +1,8 @@
-Score	UserID	Lang	Pseudo	#optim,count=994,time=2021-06-07 02:30:49
+Score	UserID	Lang	Pseudo	#optim,count=995,time=2021-06-10 03:02:16
 11902	2288263	Rust	dbdr	
 11774	351062	C++	Neumann	
 11724	1169499	C++	naab	
+11711	2500089	C++	Fantomat75	
 11710	1500515	C#	eulerscheZahl	
 11381	1530051	C++	UlYoP	
 11369	2968035	C++	DomiKo	
@@ -14,7 +15,6 @@ Score	UserID	Lang	Pseudo	#optim,count=994,time=2021-06-07 02:30:49
 11009	1001096	C#	MyIIone	
 10984	1082988	C++	Saelyos	
 10969	1783604	C	Vry	
-10870	2500089	C++	Fantomat75	
 10767	338469	C++	__mcts__	
 10744	153774	C++	cocoche007	
 10699	934381	C++	PolyB	
@@ -251,6 +251,7 @@ Score	UserID	Lang	Pseudo	#optim,count=994,time=2021-06-07 02:30:49
 4511	992691	Python3	tredden	
 4484	1022925	C++	Adrien.	
 4458	2420671	Go	Irioth	
+4452	1482482	Javascript	gmolnar	
 4415	2906497	C++	daaskare	
 4343	792813	Python3	VilBoub	
 4326	1584802	C++	emh	
