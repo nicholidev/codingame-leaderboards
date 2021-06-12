@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=9725,time=2021-06-11 04:13:29
+Score	UserID	Lang	Pseudo	#optim,count=9735,time=2021-06-12 02:55:56
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -59,6 +59,7 @@ Score	UserID	Lang	Pseudo	#optim,count=9725,time=2021-06-11 04:13:29
 358250	1414873	Javascript	Volcomix	
 358130	2242201	C++	Maryan	
 355820	3410351	C	Deltaspace	
+354460	4065227	C++	Pamplemus	
 354120	1479930	C++	LeRenard	
 353640	1489865	C++	EricSMSO	
 353450	2924895	C	trictrac	
@@ -254,9 +255,9 @@ Score	UserID	Lang	Pseudo	#optim,count=9725,time=2021-06-11 04:13:29
 196780	1808019	Java	Aelexe	
 196720	2177599	C++	racezwerg	
 196400	1957077	Kotlin	domak	
+196000	4308802	Java	Ascodran	
 195930	4039884	C++	mzbear	
 195880	1061242	C++	martinpapa69	
-195660	4308802	Java	Ascodran	
 195530	922880	C#	Leshka	
 195040	4193469	Rust	yannick-t	
 195000	925695	OCaml	Boulet	
@@ -530,6 +531,7 @@ Score	UserID	Lang	Pseudo	#optim,count=9725,time=2021-06-11 04:13:29
 86100	1767183	C#	MelnikovIgor	
 86050	425462	Java	Azt-yur	
 85500	865548	Python3	Kktus	
+85500	841420	C#	RandomVariable	
 85370	3737875	Python3	Gordon-from-Blumberg	
 85350	256955	C++	cup_of_tea	
 85350	2055377	C++	Covfefe	
@@ -571,6 +573,7 @@ Score	UserID	Lang	Pseudo	#optim,count=9725,time=2021-06-11 04:13:29
 78350	825460	Rust	antoyo	
 78320	1342745	Python3	Catiminie	
 78270	2210037	C#	Code-Ninja	
+78270	3075636	Dart	Dr-D	
 78140	1752303	C++	murrayr	
 78010	2214027	C#	akhileshcoer	
 78010	2212722	C#	ManikGarg	
@@ -996,6 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=9725,time=2021-06-11 04:13:29
 63190	1153428	Javascript	Gromelon	
 63170	792813	Python3	VilBoub	
 63160	334009	PHP	abouvier	
-63130	2658841	Python3	sidb10	
-63120	4265258	C++	justtosha	
-63090	154961	C#	[CPC]Foudge	

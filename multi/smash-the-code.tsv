@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2472,time=2021-06-11 03:31:28
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2473,time=2021-06-12 02:30:33
 5	35.67	1400179	2986754	C++	reCurse	
 5	31.98	1327028	2990369	C++	FredericBautista	
 5	30.3	1413236	511966	Go	Medici	
@@ -877,6 +877,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2472,time=2021-06-11 03:31:
 1	23.3	1405775	570996	C	Yiminjune	
 1	23.3	1472964	562536	C#	fnudd	
 1	23.3	1753121	912652	Python	Fumo201	
+1	23.29	1443075	484310	C++	Wolfy82	
 1	23.29	2203927	1669704	C++	MohamedAlmograby_2nd_year_2018	
 1	23.29	1463575	494417	Javascript	Kittenschnitzel	
 1	23.29	1412502	498595	Javascript	falsidge	
@@ -899,7 +900,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2472,time=2021-06-11 03:31:
 1	23.23	1455173	493497	Python3	DrSpock	
 1	23.23	609811	969744	C#	Atesz	
 1	23.22	2285360	1505940	Javascript	Tatyana	
-1	23.22	1443075	484310	C++	Wolfy82	
 1	23.21	1280770	486102	C	John_Black	
 1	23.21	1377467	512115	C#	GeorgeClooney	
 1	23.21	1081818	504765	Python	Indispira	
@@ -952,6 +952,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2472,time=2021-06-11 03:31:
 1	23.1	1547430	685362	Go	softclone	
 1	23.1	2085746	1390550	C++	JacobNoga	
 1	23.09	1354742	490592	Python3	torxx	
+1	23.09	1494734	589398	Java	Leogelas	
 1	23.08	1640431	751000	Go	Automatico	
 1	23.08	1026791	885989	Javascript	Alfalfamale	
 1	23.08	1220347	579377	C#	Pooky	
@@ -970,7 +971,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2472,time=2021-06-11 03:31:
 1	23.03	4256701	3483268	Javascript	DenysRozhyk	
 1	23.03	1116946	628892	Java	marhuero	
 1	23.03	1595013	1854587	Rust	thebarbershopper	
-1	23.03	1494734	589398	Java	Leogelas	
 1	23.03	1456040	488791	C++	RaphaelM	
 1	23.03	1491359	590307	C++	MurfDude	
 1	23.02	1495350	591678	PHP	Wranorn	
