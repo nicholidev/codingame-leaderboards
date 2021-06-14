@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=432,time=2021-06-13 02:38:21
+Score	UserID	Lang	Pseudo	#optim,count=433,time=2021-06-14 02:48:43
 10359.64	2288263	Rust	dbdr	
 10367.970000000005	351062	C++	Neumann	
 10484.98	1400179	Python3	reCurse	
@@ -38,6 +38,7 @@ Score	UserID	Lang	Pseudo	#optim,count=432,time=2021-06-13 02:38:21
 11552.54	232528	C++	cegprakash	
 11575.149999999996	3533119	C++	wlesavo	
 11610.940000000004	3971358	C++	OldJohn	
+11680.67	3839774	Rust	gurvan_lullien	
 11751.100000000002	820000	C++	ValGrowth	
 11785.200000000004	1194069	Java	Redstrike	
 11798.160000000002	4354663	Rust	MedicatedMandelbrot	
@@ -60,7 +61,6 @@ Score	UserID	Lang	Pseudo	#optim,count=432,time=2021-06-13 02:38:21
 12329.850000000002	155774	C++	dwarfie	
 12377.420000000002	1816783	C++	NightLuna	
 12400.359999999995	2522090	C++	MSmits	
-12404.22	3839774	Rust	gurvan_lullien	
 12419.860000000004	837350	Go	BorisZ	
 12430.510000000002	1607522	C++	RoboStac	
 12521.589999999998	2043908	C++	AntiSquid	
