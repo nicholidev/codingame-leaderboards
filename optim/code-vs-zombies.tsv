@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=9762,time=2021-06-14 02:48:35
+Score	UserID	Lang	Pseudo	#optim,count=9769,time=2021-06-15 02:57:13
 1469740	1399382	C#	Regulus136	
 1455190	351062	C++	Neumann	
 1265020	1327028	C++	FredericBautista	
@@ -34,7 +34,7 @@ Score	UserID	Lang	Pseudo	#optim,count=9762,time=2021-06-14 02:48:35
 473600	1029663	C	Skreamly	
 473010	4073052	C++	slrn	
 468050	2675733	C	PuppyPuncher	
-467390	4070745	C	StevensGino	
+467390	4070745	C	SakataGintoki	
 467270	888746	C++	Phate	
 466860	3918583	Rust	mikmak	
 464000	2772292	C++	Bezukh	
@@ -144,6 +144,7 @@ Score	UserID	Lang	Pseudo	#optim,count=9762,time=2021-06-14 02:48:35
 233830	528262	C	Niii	
 232390	1082167	C++	Smatcher	
 232230	154858	Javascript	VincentEuloge	
+232140	4380449	Javascript	ValidityFail	
 232020	1876212	C++	PFischbeck	
 231710	3771159	C	tamahom	
 231700	2536538	C	Pduhard-	
@@ -502,6 +503,7 @@ Score	UserID	Lang	Pseudo	#optim,count=9762,time=2021-06-14 02:48:35
 97760	1272564	C	Raspberry4all	
 97170	2718963	PHP	Fregat	
 96710	2990918	Javascript	Dingodino	
+96670	3789424	C++	JohnCM	
 96640	1613445	C#	AP-S	
 96180	1894833	Python3	Rimailleur	
 95780	1034635	C++	SlyB	
@@ -600,6 +602,7 @@ Score	UserID	Lang	Pseudo	#optim,count=9762,time=2021-06-14 02:48:35
 74220	1497552	Python3	clemclem	
 73960	940791	Javascript	Kris117	
 73950	429850	Python3	Powazny	
+73860	1688466	C++	geoffroy	
 73680	264258	Python3	MrFlibble	
 73590	1287344	Python3	Alshock	
 73530	2589340	C++	Zource	
@@ -870,6 +873,7 @@ Score	UserID	Lang	Pseudo	#optim,count=9762,time=2021-06-14 02:48:35
 64260	4378186	C++	XYZXYIU	
 64260	3049838	C++	pmor	
 64250	2858320	C++	Loule	
+64240	4299607	Python3	TennyKs	
 64230	155928	PHP	pk	
 64230	1147815	Python3	Tashiqi	
 64230	1095446	Python3	tarbomb	
@@ -927,7 +931,6 @@ Score	UserID	Lang	Pseudo	#optim,count=9762,time=2021-06-14 02:48:35
 63880	873075	Ruby	LiBai	
 63880	2802157	Python3	HKit	
 63880	1127003	Kotlin	BrahimBrahim	
-63880	4299607	Python3	TennyKs	
 63880	4312298	Python3	SicktorHass	
 63870	4155983	PHP	o0lit3	
 63860	1061061	C#	Bandersnatch	
@@ -996,6 +999,3 @@ Score	UserID	Lang	Pseudo	#optim,count=9762,time=2021-06-14 02:48:35
 63240	2927320	Python3	itectori	
 63240	4252318	C#	tihomir-kit	
 63230	1825154	Java	ClemonOfficiel	
-63190	858629	C#	astryad	
-63190	1153428	Javascript	Gromelon	
-63170	792813	Python3	VilBoub	
