@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2547,time=2021-06-15 02:31:07
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2550,time=2021-06-16 02:30:19
 4	35.84	3193653	2708375	C++	karliso	
 4	32.48	3502867	2707285	C++	The_Duck	
 4	31.79	2577687	2707833	C++	blasterpoard	
@@ -761,8 +761,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2547,time=2021-06-15 02:31:
 2	24.72	939890	2709104	Python3	Steel558	
 2	24.72	1803872	2707111	Python3	happyweary	
 2	24.68	3497168	2708437	Python3	ws1088	
+2	24.58	3445440	2707964	C#	BykerDave	
 2	24.56	1418816	2707663	Swift	ictor	
-2	24.55	3445440	2707964	C#	BykerDave	
 2	24.55	230015	2708645	Java	Kolo9	
 2	24.54	3518158	2709156	Java	RonanGui	
 2	24.54	1449433	2842523	C++	Rolf	
@@ -840,7 +840,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2547,time=2021-06-15 02:31:
 2	22.01	3524909	2708410	Haskell	atpotts	
 2	22.01	1438036	2707753	Java	Bubbly_Bee	
 2	21.99	3489832	2707907	Python3	madmaxz	
-2	21.96	240454	2707602	C#	Mikkanu	
 2	21.96	3516048	2708400	C#	biscuitchief	
 2	21.95	3512052	2708083	Java	Xamacor	
 2	21.93	3502066	2707426	Python3	Pusil	
@@ -852,6 +851,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2547,time=2021-06-15 02:31:
 2	21.87	3512837	2709124	Python3	matrac73	
 2	21.85	2688693	2708422	Go	Catagami	
 2	21.85	973627	2708231	Java	Denman	
+2	21.84	240454	2707602	C#	Mikkanu	
 2	21.82	1142286	2708017	Python3	idlebear	
 2	21.82	2166241	2709186	Java	Baendy	
 2	21.82	835581	2708523	C++	FishKOH	
@@ -914,10 +914,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2547,time=2021-06-15 02:31:
 2	20.98	4303052	3525298	Python3	TehGeer	
 2	20.95	2517057	2709145	C++	Edds	
 2	20.9	3367414	2707164	Java	RachidiAlaouiHicham	
-2	20.87	153683	3536603	Dart	40R15T3	
 2	20.81	1504630	2708802	C#	Deejayfool	
 2	20.81	406132	2708323	C++	ManuDev	
 2	20.79	3082494	2707732	Python3	alarih	
+2	20.74	153683	3536603	Dart	40R15T3	
 2	20.73	1193974	2708732	C++	ThePrivateCocktail	
 2	20.68	223576	2708790	C#	laveugle	
 2	20.68	2147961	2709137	C++	korriganFurtif	
