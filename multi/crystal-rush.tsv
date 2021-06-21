@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2554,time=2021-06-20 02:30:19
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2554,time=2021-06-21 02:30:10
 4	35.84	3193653	2708375	C++	karliso	
 4	32.48	3502867	2707285	C++	The_Duck	
 4	31.79	2577687	2707833	C++	blasterpoard	
@@ -817,11 +817,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2554,time=2021-06-20 02:30:
 2	22.8	1272263	2708967	Python3	Caled	
 2	22.79	1613830	2707767	Java	Spasitel	
 2	22.77	1478582	2707195	Python3	Ez4	
-2	22.73	950512	2707926	Python3	salim.aboubacar	
 2	22.68	2662239	2708771	Rust	MarvinTheMartian	
 2	22.64	1355842	2708204	Java	slaghn	
 2	22.6	3516116	2708920	Javascript	Smiter15	
 2	22.58	195346	2708070	C++	antidotcb	
+2	22.57	950512	2707926	Python3	salim.aboubacar	
 2	22.5	1956360	2707776	Swift	A.G.	
 2	22.42	1501006	3336467	PHP	byFd	
 2	22.37	2586078	2709098	Java	tanuco	
@@ -878,11 +878,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2554,time=2021-06-20 02:30:
 2	21.58	2978776	2707354	Python3	ChrisDerPlayer	
 2	21.57	2765317	2707702	C++	GeeX86	
 2	21.57	808454	2839865	Java	.EagleDawn.	
-2	21.57	3028223	2707268	C#	JAB	
 2	21.55	992329	2708539	Python3	BeeGee	
 2	21.48	3522681	2707706	C++	bassdr	
 2	21.46	1382584	2708213	Python3	Fer	
 2	21.45	2270885	2708923	C#	KillHammer	
+2	21.45	3028223	2707268	C#	JAB	
 2	21.44	311035	2837399	Python3	leojean890	
 2	21.43	3058265	2708116	Javascript	RQdan	
 2	21.42	3508259	2707581	C++	Slackbot	
@@ -917,7 +917,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2554,time=2021-06-20 02:30:
 2	20.85	3082494	2707732	Python3	alarih	
 2	20.84	1193974	2708732	C++	ThePrivateCocktail	
 2	20.81	1504630	2708802	C#	Deejayfool	
-2	20.74	153683	3536603	Dart	40R15T3	
 2	20.68	223576	2708790	C#	laveugle	
 2	20.68	2147961	2709137	C++	korriganFurtif	
 2	20.67	406132	2708323	C++	ManuDev	
@@ -937,6 +936,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2554,time=2021-06-20 02:30:
 2	20.59	2074534	3404995	C++	Remi380	
 2	20.59	3264942	2707079	C#	maskit	
 2	20.59	1580598	2707375	Python3	syveqc	
+2	20.58	153683	3536603	Dart	40R15T3	
 2	20.58	3406209	2708054	Swift	Lordam	
 2	20.58	563069	2707963	Python3	Darkris	
 2	20.57	1657489	2707592	C#	threecourse	

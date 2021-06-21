@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=586,time=2021-06-20 02:33:44
+Score	UserID	Lang	Pseudo	#optim,count=586,time=2021-06-21 02:30:28
 62564496	2288263	Rust	dbdr	
 59353524	765200	Rust	FrancoisB	
 59353464	3457031	C++	YurkovAS	
@@ -117,8 +117,8 @@ Score	UserID	Lang	Pseudo	#optim,count=586,time=2021-06-20 02:33:44
 718036	4105514	Python3	FeiChong	
 675240	1566335	Java	BeardedWhale	
 643904	1452327	Rust	solmir	
+604152	2978314	Python3	guir	
 600680	1861852	Javascript	Cramer	
-553016	2978314	Python3	guir	
 538536	1309948	C++	Runner87	
 474760	2290633	Python3	field3	
 435988	273004	Python3	ptitrex	
@@ -348,6 +348,7 @@ Score	UserID	Lang	Pseudo	#optim,count=586,time=2021-06-20 02:33:44
 31384	1457223	C++	jleconte	
 31364	4300969	Javascript	thomasgonda3	
 31060	153957	Javascript	JeremyV	
+30964	3787419	Python3	Thyl	
 30760	4099191	Python3	kazzou	
 30708	1876212	Python3	PFischbeck	
 30652	2064637	Java	java_coffee_cup	
@@ -377,6 +378,7 @@ Score	UserID	Lang	Pseudo	#optim,count=586,time=2021-06-20 02:33:44
 27292	1393802	Python3	amzh	
 27036	2353603	Pascal	MrSok	
 27012	4111826	Java	ThomasMascaro	
+26756	3845610	Python3	pardouin	
 26592	3999693	Python3	ln-dev05	
 26516	4063573	Python3	Kaitakuchi2077	
 26512	1195856	Java	daifei4321	
@@ -478,7 +480,6 @@ Score	UserID	Lang	Pseudo	#optim,count=586,time=2021-06-20 02:33:44
 1268	4118808	Java	7amasa	
 1148	1326773	TypeScript	Koegas	
 524	3709386	Java	uckamello	
-344	3787419	C	Thyl	
 344	3230794	Python3	tutubalin	
 344	2956563	Javascript	Highlander1981	
 344	1920644	C++	Skygge	
@@ -578,7 +579,6 @@ Score	UserID	Lang	Pseudo	#optim,count=586,time=2021-06-20 02:33:44
 344	3973359	C++	KAbel	
 344	4279233	Python3	Alex-1	
 344	3783962	Python3	Mohsen1365ir	
-344	3845610	Python3	pardouin	
 300	4094683	Python3	Loes	
 300	275626	Javascript	GreyMoon	
 300	3487406	C#	SyvachenkoMK	
