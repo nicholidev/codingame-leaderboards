@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7001,time=2021-06-21 02:30:21
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7006,time=2021-06-22 02:39:23
 5	45.06	1400179	3665384	C++	reCurse	
 5	39.37	4300424	3704114	Rust	kurnevsky	
 5	36.66	3348388	3677647	C++	bowwowforeach	
@@ -351,7 +351,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7001,time=2021-06-21 02:30:
 4	42.08	3979789	3666235	PHP	gucamuze	
 4	41.92	2064633	3665830	Ruby	kev_in	
 4	41.78	4285073	3665026	C++	Guntae	
-4	41.75	2941038	3668291	Javascript	Soukasays	
+4	41.74	2941038	3668291	Javascript	Soukasays	
 4	41.58	1275262	3670678	Python3	fluffy_unicorn	
 4	41.55	1443075	3692479	C++	Wolfy82	
 4	41.55	840826	3669503	Python3	PiMastah	
@@ -419,8 +419,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7001,time=2021-06-21 02:30:
 4	39.33	4055155	3665765	C#	g3gg0	
 4	39.32	3922325	3671019	C++	Degalat	
 4	39.3	3360287	3667165	Python3	LucasDubos1	
+4	39.26	1361453	3669760	PHP	Xav726	
 4	39.25	4289243	3665824	Java	ciabatta	
-4	39.23	1361453	3669760	PHP	Xav726	
 4	39.22	3683265	3667677	C++	Bondo416	
 4	39.21	4053013	3669246	Java	nagoke	
 4	39.21	4322543	3676446	Javascript	Chichong	
@@ -498,7 +498,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7001,time=2021-06-21 02:30:
 4	38.18	3804944	3669942	C#	chrond	
 4	38.16	2909500	3665991	Java	Krinax	
 4	38.15	825085	3668605	C++	RaidersII	
-4	38.13	1097889	3673443	C++	HoangH7	
+4	38.14	1097889	3673443	C++	HoangH7	
 4	38.09	4226399	3668939	Java	scaythe	
 4	38.07	1062993	3664978	C#	Whiskee	
 4	38.07	4067800	3679979	C++	SilentAndroid	
@@ -524,7 +524,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7001,time=2021-06-21 02:30:
 4	37.7	416762	3671041	Javascript	Khao	
 4	37.69	4034494	3674502	Rust	GTaf	
 4	37.67	4325119	3670769	Java	Klimpergeist	
-4	37.67	4056982	3665778	Java	kreska	
+4	37.66	4056982	3665778	Java	kreska	
 4	37.65	3916254	3691224	Python3	mikronex	
 4	37.6	2881783	3665555	C++	eki	
 4	37.59	232528	3704381	C++	cegprakash	
@@ -596,7 +596,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7001,time=2021-06-21 02:30:
 4	36.43	4319686	3665123	Javascript	XFreeMan	
 4	36.43	3767281	3665990	Python3	lgutter	
 4	36.42	3817827	3669939	Go	optplx	
-4	36.41	4052198	3679916	Python3	naniwazu	
 4	36.41	4133724	3665148	Javascript	KsandrKj	
 4	36.41	3797458	3668938	Java	Djoman	
 4	36.39	1098634	3668699	Rust	grsoares	
@@ -618,6 +617,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7001,time=2021-06-21 02:30:
 4	36.23	3324892	3668607	Java	Bpeck	
 4	36.23	3111430	3674903	Python3	Tyeknom	
 4	36.23	3406044	3668969	Dart	andry_h	
+4	36.21	4052198	3679916	Python3	naniwazu	
 4	36.18	754792	3670443	C++	Ramdeath	
 4	36.14	594697	3670871	C#	dimulien	
 4	36.14	2536487	3671262	Java	Sumo-Naony	
@@ -626,8 +626,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7001,time=2021-06-21 02:30:
 4	36.12	937878	3680287	C	nyashiki	
 4	36.11	4285348	3718202	PHP	bledda	
 4	36.1	4321011	3670812	C#	Poulet_Frites	
-4	36.1	765200	3670808	C#	FrancoisB	
 4	36.09	4059043	3670675	Java	-N3R0-	
+4	36.09	765200	3670808	C#	FrancoisB	
 4	36.06	3141948	3669446	Python3	philRG	
 4	36.05	3813795	3668584	C++	betrue12	
 4	36.04	4058112	3667941	C++	SadRojer	
@@ -668,8 +668,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7001,time=2021-06-21 02:30:
 4	35.58	2673038	3665465	TypeScript	Zangdar1111	
 4	35.58	3077977	3669924	Python3	YaWa	
 4	35.57	3089131	3665288	Python3	dragonsayen	
-4	35.56	4206982	3668585	Ruby	slempel	
 4	35.56	1457223	3669185	C++	jleconte	
+4	35.56	4206982	3668585	Ruby	slempel	
 4	35.54	4018281	3668469	C	Morseb-HockinDraecg	
 4	35.54	4267009	3668225	Go	Matt1234	
 4	35.54	3706223	3665801	TypeScript	Yab94	
@@ -703,6 +703,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7001,time=2021-06-21 02:30:
 4	35.3	4325171	3666951	Python3	Rapsmith	
 4	35.29	2450542	3665602	C++	MindController	
 4	35.28	3446140	3668860	PHP	Upcy	
+4	35.28	4332444	3667766	Python3	Dramakk	
 4	35.28	2212222	3668914	Java	Rabeeb	
 4	35.28	3452059	3677774	Java	_Vincent_	
 4	35.27	3565821	3674828	Javascript	Mihidari	
@@ -711,7 +712,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7001,time=2021-06-21 02:30:
 4	35.27	4075971	3670177	Python3	Jonas121	
 4	35.27	4313353	3665710	C#	Kret111kret	
 4	35.27	588426	3666420	C++	Jeff06	
-4	35.26	4332444	3667766	Python3	Dramakk	
 4	35.26	802171	3666408	PHP	Merome	
 4	35.26	3691366	3665098	Java	V90	
 4	35.26	4327178	3665823	Python3	MuchToKnow	
@@ -855,11 +855,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7001,time=2021-06-21 02:30:
 4	33.57	998504	3667402	C#	SzEmProg	
 4	33.56	3018178	3693364	C++	Fallback	
 4	33.54	1415773	3666079	C++	pierre31	
+4	33.54	4313675	3666849	C#	krolhm	
 4	33.53	3888289	3669926	Python3	jean216	
 4	33.53	3624941	3665109	Python3	PrzeSta	
 4	33.53	3270023	3668824	Javascript	burningdaylight	
 4	33.51	4318702	3666563	Python3	itzluku	
-4	33.51	4313675	3666849	C#	krolhm	
 4	33.5	1894833	3671505	Python3	Rimailleur	
 4	33.49	4048969	3669905	Python3	raspersc2	
 4	33.49	4089683	3668148	Rust	RedRikudo	

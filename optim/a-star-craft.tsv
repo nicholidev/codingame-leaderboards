@@ -1,4 +1,4 @@
-Score	UserID	Lang	Pseudo	#optim,count=999,time=2021-06-21 02:30:25
+Score	UserID	Lang	Pseudo	#optim,count=1000,time=2021-06-22 02:39:26
 11902	2288263	Rust	dbdr	
 11787	2500089	C++	Fantomat75	
 11774	351062	C++	Neumann	
@@ -221,6 +221,7 @@ Score	UserID	Lang	Pseudo	#optim,count=999,time=2021-06-21 02:30:25
 5299	154806	C++	piwai	
 5292	1931824	Java	Litops	
 5247	371603	Ruby	martin	
+5233	3408865	C++	redimer	
 5204	1970506	Python3	Taldor	
 5199	3480498	PHP	BenPix	
 5167	2715508	C++	Anth	
@@ -234,7 +235,6 @@ Score	UserID	Lang	Pseudo	#optim,count=999,time=2021-06-21 02:30:25
 5023	3353481	C++	takumi152	
 4919	1227148	Java	Schneewittchen	
 4865	1613949	Java	elaaboum	
-4813	3408865	C++	redimer	
 4811	2711438	Python3	Aeneas	
 4779	3226448	Python3	tobk	
 4761	1420817	Javascript	TheMagicShop	
@@ -409,6 +409,7 @@ Score	UserID	Lang	Pseudo	#optim,count=999,time=2021-06-21 02:30:25
 2641	2829573	C#	Zwiebelkopf	
 2641	2647790	C#	They_Dont_CSharp	
 2641	1201783	Python3	qsantos	
+2617	3335896	C++	_martynas	
 2608	2734485	Python3	Randrian	
 2608	1487168	Bash	FatIvan	
 2608	2719604	Python3	vpoulailleau	
@@ -495,7 +496,6 @@ Score	UserID	Lang	Pseudo	#optim,count=999,time=2021-06-21 02:30:25
 2076	1393802	Python3	amzh	
 2076	4193153	Python3	pabx06	
 2076	4277867	Python3	About	
-2074	3335896	C++	_martynas	
 2067	3406987	Python3	Radu_Sav	
 2046	1505665	Python3	NicolasGrosjean	
 2040	2858320	C++	Loule	
@@ -519,6 +519,7 @@ Score	UserID	Lang	Pseudo	#optim,count=999,time=2021-06-21 02:30:25
 1902	1713174	Python3	BigUP	
 1861	1407621	C++	Taohbi	
 1855	1530429	Java	Michiel	
+1855	4191122	Java	ManonCodd	
 1854	1969969	Java	Orleger	
 1845	3430879	C++	Joygred	
 1836	3230794	Python3	tutubalin	
