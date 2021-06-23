@@ -1,110 +1,221 @@
-Score	UserID	Lang	Pseudo	#optim,count=216,time=2021-06-22 02:39:32
-291	2288263	Rust	dbdr	
-294	3949307	C++	xevixevi	
-295	1339675	C++	SR4	
-296	1530051	C++	UlYoP	
-297	3230794	C++	tutubalin	
-298	1436776	C++	BrainSolver	
-298	2311105	C++	kovi	
-302	3533119	C++	wlesavo	
-304	1607522	C++	RoboStac	
-304	1500515	C++	eulerscheZahl	
-307	2923506	C++	darkhorse64	
-309	3621947	C	vrabosh	
-310	3903473	C++	Konstant	
-311	524638	C++	miklla	
-311	1336464	C++	magaiti	
-312	1243354	C++	RSBat	
-313	2500089	C++	Fantomat75	
-314	820000	C++	ValGrowth	
-315	2924895	C	trictrac	
-318	1629259	C++	Marchete	
-319	2416641	C	Zenoscave	
-319	1114834	C++	k4ng0u	
-320	2164798	Java	MKL-MASON	
-320	1480426	C++	Hikari42	
-323	1854246	C++	Counterbalance	
-323	3918583	Rust	mikmak	
-327	1584802	C++	emh	
-328	1693448	C	KoenduBuf	
-329	311035	C++	leojean890	
-329	153092	C++	Aurep	
-334	1449433	C++	Rolf	
-335	888898	C++	helgui	
-338	2950978	C++	icecuber	
-338	1838549	Rust	orangesnowfox	
-338	4334077	C++	Paul_Demanze	
-347	952784	C++	[CG]Simon	
-349	3809853	C++	Emilio-EH	
-363	440476	C++	yowa	
-364	3738782	C#	Inaniwa	
-380	1393802	Rust	amzh	
-382	4277867	Rust	About	
-387	841420	C#	RandomVariable	
-403	1684486	C++	Whopper	
-440	2051334	C++	Dwarth	
-458	2436448	Java	FrancoisMeme	
-485	1566335	Python3	BeardedWhale	
-490	3095454	C++	e2e4b6b7	
-491	4066824	Python3	Thannajo	
-508	792813	Python3	VilBoub	
-509	1484839	Go	sparky	
-520	631323	Python3	herve056	
-567	2786666	C++	TetraktysPhi	
-576	4216789	Perl	Saur2000	
-581	2290633	Ruby	field3	
-583	552776	TypeScript	player_one	
-586	3685512	C	CobraTV	
-631	3792309	Python3	schachmatt	
-660	1179950	Swift	Patorikkuyatta	
-668	4046903	C#	Matt_Eagle	
-680	3496153	Python3	lndshs	
-682	4072753	C++	mdstoy	
-685	2740243	Python3	Rprades	
-691	4208158	Python3	Tiouz	
-703	980147	Python3	kingmoshe	
-717	3435179	Python3	Valphyr	
-782	1925452	Python3	Cyriax	
-800	1201783	Python3	qsantos	
-820	4061329	C++	KLPP	
-828	2398608	Python3	M_C	
-890	1457162	Python3	JFB	
-907	2058158	Python3	RolandKnight	
-950	4046886	Python3	badele	
-955	1029663	C	Skreamly	
-973	2833929	Python3	pcourrousse	
-990	2317747	Python3	ElPsyCongroo2011	
-993	1910916	C#	VivienBillot	
-994	1229038	Python3	Kirsan	
-996	4000809	Kotlin	rst10h	
-1005	2968035	C++	DomiKo	
-1017	4039528	Python3	Elnaril	
-1037	1782814	C#	Trilusion	
-1097	2202771	Java	Kaplone	
-1111	2153101	Python3	Bilou06	
-1122	1378958	C#	Illedan	
-1151	3846923	Kotlin	Hildan	
-1223	3983017	Python3	TLbuis	
-1304	2043908	C++	AntiSquid	
-1341	4283515	PHP	FrancoisBaveye	
-1415	1075220	Java	sebmarty	
-1416	3269275	C#	Ille-Stream	
-1476	155774	PHP	dwarfie	
-1497	3226448	Python3	tobk	
-1503	3171976	TypeScript	horvbalazs	
-1516	1335230	Python3	jft63	
-1549	3647844	Python3	rc95401	
-1597	4285437	Javascript	t3st1	
-1616	2266968	Python3	Steve2072	
-1643	1802967	Python3	Meruem	
-1697	894599	Java	DidierC	
-1730	2064637	Java	java_coffee_cup	
-1936	3740208	Python3	Dinca	
-2067	1466631	Python3	Akrib	
-2069	4315171	Java	Soucis	
-2237	3657937	Python3	elderlybeginner	
-2378	1272263	Python3	Caled	
-2561	3439872	Python3	xdcomrade	
-2589	3845610	Python3	pardouin	
-2722	1337394	Python3	--cha--	
-2769	3789424	Python3	JohnCM	
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=220,time=2021-06-23 07:10:17
+100	291	2288263	Rust	dbdr	
+100	294	3949307	C++	xevixevi	
+100	295	1339675	C++	SR4	
+100	296	1530051	C++	UlYoP	
+100	297	3230794	C++	tutubalin	
+100	298	1436776	C++	BrainSolver	
+100	298	2311105	C++	kovi	
+100	302	3533119	C++	wlesavo	
+100	304	1607522	C++	RoboStac	
+100	304	1500515	C++	eulerscheZahl	
+100	307	2923506	C++	darkhorse64	
+100	309	3621947	C	vrabosh	
+100	310	3903473	C++	Konstant	
+100	311	524638	C++	miklla	
+100	311	1336464	C++	magaiti	
+100	312	1243354	C++	RSBat	
+100	313	2500089	C++	Fantomat75	
+100	314	820000	C++	ValGrowth	
+100	315	2924895	C	trictrac	
+100	318	1629259	C++	Marchete	
+100	319	2416641	C	Zenoscave	
+100	319	1114834	C++	k4ng0u	
+100	320	2164798	Java	MKL-MASON	
+100	320	1480426	C++	Hikari42	
+100	323	1854246	C++	Counterbalance	
+100	323	3918583	Rust	mikmak	
+100	327	1584802	C++	emh	
+100	328	1693448	C	KoenduBuf	
+100	329	311035	C++	leojean890	
+100	329	153092	C++	Aurep	
+100	334	1449433	C++	Rolf	
+100	335	888898	C++	helgui	
+100	338	2950978	C++	icecuber	
+100	338	1838549	Rust	orangesnowfox	
+100	338	4334077	C++	Paul_Demanze	
+100	347	952784	C++	[CG]Simon	
+100	349	3809853	C++	Emilio-EH	
+100	363	440476	C++	yowa	
+100	364	3738782	C#	Inaniwa	
+100	380	1393802	Rust	amzh	
+100	382	4277867	Rust	About	
+100	387	841420	C#	RandomVariable	
+100	403	1684486	C++	Whopper	
+100	436	1484839	Go	sparky	
+100	440	2051334	C++	Dwarth	
+100	458	2436448	Java	FrancoisMeme	
+100	485	1566335	Python3	BeardedWhale	
+100	490	3095454	C++	e2e4b6b7	
+100	491	4066824	Python3	Thannajo	
+100	508	792813	Python3	VilBoub	
+100	520	631323	Python3	herve056	
+100	567	2786666	C++	TetraktysPhi	
+100	576	4216789	Perl	Saur2000	
+100	581	2290633	Ruby	field3	
+100	583	552776	TypeScript	player_one	
+100	586	3685512	C	CobraTV	
+100	631	3792309	Python3	schachmatt	
+100	660	1179950	Swift	Patorikkuyatta	
+100	668	4046903	C#	Matt_Eagle	
+100	680	3496153	Python3	lndshs	
+100	682	4072753	C++	mdstoy	
+100	685	2740243	Python3	Rprades	
+100	691	4208158	Python3	Tiouz	
+100	703	980147	Python3	kingmoshe	
+100	717	3435179	Python3	Valphyr	
+100	782	1925452	Python3	Cyriax	
+100	800	1201783	Python3	qsantos	
+100	820	4061329	C++	KLPP	
+100	828	2398608	Python3	M_C	
+100	890	1457162	Python3	JFB	
+100	907	2058158	Python3	RolandKnight	
+100	950	4046886	Python3	badele	
+100	955	1029663	C	Skreamly	
+100	973	2833929	Python3	pcourrousse	
+100	990	2317747	Python3	ElPsyCongroo2011	
+100	993	1910916	C#	VivienBillot	
+100	994	1229038	Python3	Kirsan	
+100	996	4000809	Kotlin	rst10h	
+100	1005	2968035	C++	DomiKo	
+100	1017	4039528	Python3	Elnaril	
+100	1037	1782814	C#	Trilusion	
+100	1097	2202771	Java	Kaplone	
+100	1111	2153101	Python3	Bilou06	
+100	1122	1378958	C#	Illedan	
+100	1151	3846923	Kotlin	Hildan	
+100	1223	3983017	Python3	TLbuis	
+100	1304	2043908	C++	AntiSquid	
+100	1341	4283515	PHP	FrancoisBaveye	
+100	1415	1075220	Java	sebmarty	
+100	1416	3269275	C#	Ille-Stream	
+100	1476	155774	PHP	dwarfie	
+100	1497	3226448	Python3	tobk	
+100	1503	3171976	TypeScript	horvbalazs	
+100	1516	1335230	Python3	jft63	
+100	1549	3647844	Python3	rc95401	
+100	1597	4285437	Javascript	t3st1	
+100	1616	2266968	Python3	Steve2072	
+100	1643	1802967	Python3	Meruem	
+100	1697	894599	Java	DidierC	
+100	1730	2064637	Java	java_coffee_cup	
+100	1936	3740208	Python3	Dinca	
+100	2067	1466631	Python3	Akrib	
+100	2069	4315171	Java	Soucis	
+100	2237	3657937	Python3	elderlybeginner	
+100	2378	1272263	Python3	Caled	
+100	2561	3439872	Python3	xdcomrade	
+100	2589	3845610	Python3	pardouin	
+100	2722	1337394	Python3	--cha--	
+100	2769	3789424	Python3	JohnCM	
+97	1300	490588	Python3	Uljahn	
+97	1564	4206982	Ruby	slempel	
+97	2095	1413257	Python3	Bavoen	
+97	2203	2838943	Python3	zapakh	
+97	6934	2172874	Rust	Med1ane	
+95	1776	3165536	C#	barbora	
+93	2083	1072200	C	alze	
+93	4413	3406987	Python3	Radu_Sav	
+89	2426	580424	Ruby	siman	
+89	2950	4269171	Python3	actualCoderTrevor	
+86	2441	3865238	C++	Benoit_LCDB	
+86	2813	3105470	Java	Juda-Stico	
+84	3947	1880197	Python3	bicklil	
+82	3034	4110073	C++	souta_1326	
+80	3029	3401105	C++	Husoski	
+78	3357	1876212	Python3	PFischbeck	
+78	3685	3950687	Python3	vkreuz	
+76	3871	4152522	PHP	wilkyo	
+73	5910	4039884	C++	mzbear	
+71	4357	2141506	Python3	Jamesscn	
+71	6057	3922731	Dart	Dartisan	
+69	4403	3770501	C++	luke-guyton	
+69	4602	483321	C#	Clagus	
+69	5494	3416055	Python3	ItsAFeature	
+67	5218	3846244	Python3	JLukeSkywalker	
+65	4943	3354337	C++	Westicles	
+63	5770	4033445	Javascript	netto________	
+60	5586	389473	Javascript	BigBart	
+58	5866	1861258	Go	Nazdhun	
+58	5870	406723	Python3	dach	
+58	6195	3305510	C++	TBali	
+58	6301	3704439	Ruby	mandersn	
+56	6159	1931039	TypeScript	MooMooN	
+56	6166	1886386	Javascript	h0ly	
+56	6176	2826402	Java	1Alex	
+56	7980	2708267	Python3	XyoloJR	
+52	6751	828239	C#	[SG]Bisou	
+52	7157	3780912	C#	Siska	
+50	7051	1035630	Java	Vestiaz	
+47	8419	1412263	PHP	PatrickMcGinnisII	
+45	7629	992329	Python3	BeeGee	
+45	7629	1530750	Python3	UncleV	
+45	7633	3184049	Python3	ghhttt	
+45	7633	4300969	Javascript	thomasgonda3	
+45	7638	1830993	C#	jpcheck	
+45	7639	709490	Ruby	Sinlepuissant	
+45	7640	2844747	Python3	imbadpython	
+45	7641	4298290	Python3	ad3002	
+45	7642	1485015	C++	Murky	
+45	8529	2641712	TypeScript	Scarlatine	
+43	9009	3737269	Python3	htprogras	
+43	9188	2478222	Python3	N4th	
+41	8228	1050420	Python3	boi_led_egg	
+39	8520	3353015	Python3	Salted	
+39	8607	4210403	Python3	Sjeckem	
+39	9192	154806	Python3	piwai	
+39	9414	4045442	Python3	slapslash	
+36	8812	935744	TypeScript	Alcalyn	
+36	8845	1477791	Python3	seitec01	
+34	9101	2006009	Python3	hugolmn	
+34	9114	4286616	Python3	Oddrea	
+34	9127	3564009	Lua	Waffle3z	
+34	9196	1429360	C#	comp0zr	
+32	9469	2069141	C#	tomeko	
+32	9997	4038761	Python3	Leirn	
+32	10663	962495	C++	eboot	
+30	10415	3704725	Python3	kmart	
+28	9997	1740037	Scala	ereiam	
+28	10170	3423700	C++	Old-and-Grumpy	
+26	10832	1579653	Python3	zweedeend	
+26	11553	4309574	Python3	KornDV	
+23	10593	1426685	C++	glebc	
+23	10648	3783962	C++	Mohsen1365ir	
+21	11029	4275035	Java	TsuNaMy4513	
+21	11234	1713174	Python3	BigUP	
+19	11891	3808031	Ruby	_proton	
+19	11932	3494301	Python3	CoreyCV	
+19	12030	2631176	PHP	Sedera	
+19	12066	4122723	Python3	Hydrazer	
+19	12687	3723101	Python3	Lilac_Tsuki	
+17	3992	3501209	Python3	Whatar	
+17	11483	2508635	Javascript	hemhel	
+17	11925	881037	Java	Amadeuszx	
+17	12230	4356381	Python3	NucleicAcid	
+15	11978	1525816	Javascript	Flodnes	
+15	12095	4003177	Python3	Linnlinn	
+15	12549	3136787	Python3	jacek	
+15	12967	1229845	Java	Jipe	
+13	11928	1193459	C++	izanbf	
+13	12101	3489223	Javascript	KarloHubai	
+13	12245	2387233	C#	SinOfWrath	
+13	12248	723476	Python3	NeoPhnx	
+10	12392	1279172	Python3	Alphaloc	
+6	12963	1105871	Python3	PolonaisCripestro	
+2	5	996606	C++	Indy	
+2	5	2438514	C++	davi_bart	
+2	1510	3707873	C++	Philbot	
+2	1510	3749793	Python3	WINWINWIN	
+2	2413	3486522	Python3	Pea.	
+2	2714	1178401	Python3	mizzHuarta	
+2	3316	2081550	Javascript	muy31	
+2	4520	1527403	C++	Di_Masta	
+2	12045	1549856	TypeScript	Keylan	
+2	13550	1635357	Python3	GiB	
+2	13550	2077805	C++	bamilan	
+2	13550	3923022	Javascript	FabInCode	
+2	13550	1206180	Python3	Nyxon	
+0	13846	3627342	C#	Zuabros	
+0	13846	3721214	C++	jrke	
+0	13846	3901646	Python3	VarjaListopad	
+0	13846	153002	C#	fantasyo	

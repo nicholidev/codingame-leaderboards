@@ -1,55 +1,211 @@
-Score	UserID	Lang	Pseudo	#optim,count=89,time=2021-06-22 02:39:27
-1675	2288263	Rust	dbdr	
-1677	1944090	C#	spaceorc	
-1741	1399382	C#	Regulus136	
-1771	1169499	C++	naab	
-1796	2069141	C#	tomeko	
-1944	2043908	D	AntiSquid	
-1964	331880	C++	Monstruo	
-1966	1114834	C++	k4ng0u	
-1982	2785892	Python3	levbor	
-2064	1500515	C#	eulerscheZahl	
-2208	1001096	C#	MyIIone	
-2243	1436776	C++	BrainSolver	
-2274	2311105	C++	kovi	
-2301	2510531	Python3	Jamproject	
-2342	2924895	C	trictrac	
-2364	1687754	Java	cg123	
-2369	888898	C++	helgui	
-2378	3203557	Python3	burnpanck	
-2382	1378958	C#	Illedan	
-2383	820000	C++	ValGrowth	
-2410	1518732	Java	Apfeloxid	
-2411	2455616	Java	JeanClaude44	
-2427	2968035	C++	DomiKo	
-2457	440476	C++	yowa	
-2472	841085	C#	Risen	
-2483	2638020	C#	ja_fica	
-2486	3343665	Rust	Quidome	
-2533	4216789	C	Saur2000	
-2539	2786666	C++	TetraktysPhi	
-2574	1525821	C#	Jeroo	
-2638	759147	C++	kisszots	
-2815	2555066	Python3	dyc3	
-2817	3480498	Java	BenPix	
-2865	992329	C++	BeeGee	
-2934	2522090	C++	MSmits	
-3197	1152991	C#	xoposhiy	
-3204	1457162	Python3	JFB	
-3271	3305510	PHP	TBali	
-3359	3465661	TypeScript	Thiesjoo	
-3474	311035	Python3	leojean890	
-4276	894599	Java	DidierC	
-4438	3457031	C++	YurkovAS	
-4886	668906	Kotlin	Sandworm	
-4886	3406987	C#	Radu_Sav	
-4886	1787026	Java	xurei	
-4886	4205154	C++	tuna_in_cream	
-4886	1567943	Python3	LazyMammal	
-4900	1883740	C++	kermo	
-5202	2104815	Python3	MaTMaT	
-5940	1333869	Python3	kiwijam	
-6128	3317508	Javascript	m4683	
-6332	3271550	C++	Eggface	
-6615	3518006	Python3	mvpnek	
-7228	3983017	Python3	TLbuis	
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=210,time=2021-06-23 07:10:16
+100	1675	2288263	Rust	dbdr	
+100	1677	1944090	C#	spaceorc	
+100	1741	1399382	C#	Regulus136	
+100	1771	1169499	C++	naab	
+100	1796	2069141	C#	tomeko	
+100	1944	2043908	D	AntiSquid	
+100	1964	331880	C++	Monstruo	
+100	1966	1114834	C++	k4ng0u	
+100	1982	2785892	Python3	levbor	
+100	2064	1500515	C#	eulerscheZahl	
+100	2208	1001096	C#	MyIIone	
+100	2243	1436776	C++	BrainSolver	
+100	2274	2311105	C++	kovi	
+100	2301	2510531	Python3	Jamproject	
+100	2342	2924895	C	trictrac	
+100	2364	1687754	Java	cg123	
+100	2369	888898	C++	helgui	
+100	2378	3203557	Python3	burnpanck	
+100	2382	1378958	C#	Illedan	
+100	2383	820000	C++	ValGrowth	
+100	2410	1518732	Java	Apfeloxid	
+100	2411	2455616	Java	JeanClaude44	
+100	2427	2968035	C++	DomiKo	
+100	2457	440476	C++	yowa	
+100	2472	841085	C#	Risen	
+100	2483	2638020	C#	ja_fica	
+100	2486	3343665	Rust	Quidome	
+100	2533	4216789	C	Saur2000	
+100	2539	2786666	C++	TetraktysPhi	
+100	2574	1525821	C#	Jeroo	
+100	2638	759147	C++	kisszots	
+100	2815	2555066	Python3	dyc3	
+100	2817	3480498	Java	BenPix	
+100	2865	992329	C++	BeeGee	
+100	2934	2522090	C++	MSmits	
+100	3197	1152991	C#	xoposhiy	
+100	3204	1457162	Python3	JFB	
+100	3271	3305510	PHP	TBali	
+100	3359	3465661	TypeScript	Thiesjoo	
+100	3474	311035	Python3	leojean890	
+100	4276	894599	Java	DidierC	
+100	4438	3457031	C++	YurkovAS	
+100	4886	668906	Kotlin	Sandworm	
+100	4886	3406987	C#	Radu_Sav	
+100	4886	1787026	Java	xurei	
+100	4886	4205154	C++	tuna_in_cream	
+100	4886	1567943	Python3	LazyMammal	
+100	4900	1883740	C++	kermo	
+100	5202	2104815	Python3	MaTMaT	
+100	5940	1333869	Python3	kiwijam	
+100	6128	3317508	Javascript	m4683	
+100	6332	3271550	C++	Eggface	
+100	6615	3518006	Python3	mvpnek	
+100	7228	3983017	Python3	TLbuis	
+96	4713	2051334	C++	Dwarth	
+96	9789	4142307	Python3	Editsira	
+83	4057	1740037	Scala	ereiam	
+80	3178	569247	Python3	LaurentBouvier	
+76	2585	1484839	Go	sparky	
+63	3703	3494301	Python3	CoreyCV	
+56	4279	3235896	Java	Fenz	
+53	1283	3226448	Python3	tobk	
+46	2652	1572888	Python3	DirtyHarry	
+46	2689	631323	Python3	herve056	
+33	4600	704875	C#	XaY	
+30	1423	962569	C++	[K]Gabor	
+30	1456	868896	Python3	Arn	
+23	3024	1412263	PHP	PatrickMcGinnisII	
+20	229	1195856	Java	daifei4321	
+20	1433	173522	C#	TeddyS	
+16	346	2889948	Python3	anoburn	
+16	443	2715508	C++	Anth	
+16	811	1093968	C++	milosMATRIXrepic	
+13	163	2769647	Java	RiffShark	
+13	709	723476	Python3	NeoPhnx	
+10	114	1061663	Python3	Pivis	
+10	186	226478	Python3	Balkin	
+6	58	1364612	Python3	jbressand	
+6	61	4180659	Javascript	abrman	
+6	106	3315341	Python3	Yoyoda	
+6	261	1629259	Java	Marchete	
+6	820	3647844	Python3	rc95401	
+3	12	992691	Python3	tredden	
+3	12	2407700	Ruby	adoxography	
+3	12	552919	Javascript	Lukas	
+3	12	3421837	Python3	Naindlac	
+3	70	893541	Java	wala	
+3	2670	2416641	Bash	Zenoscave	
+3	30000	2497890	C#	BlackBird	
+0	0	154906	Haskell	JBM	
+0	0	792813	Python3	VilBoub	
+0	0	928567	C++	Konstanta	
+0	0	1713174	Python3	BigUP	
+0	0	1876212	C++	PFischbeck	
+0	0	1480384	C++	RockyMullet	
+0	0	1835014	C	Frits	
+0	0	2428350	Python3	Alan_Christo	
+0	0	3050767	Python3	lunaticPenguin	
+0	0	2897230	C#	kalevala	
+0	0	3046855	Javascript	YopYan	
+0	0	347029	Java	Kevapo	
+0	0	2458976	Java	shukla	
+0	0	3027440	Ruby	Stef_C	
+0	0	905122	Python3	nILS	
+0	0	2202771	Java	Kaplone	
+0	0	3279408	Java	Nilm	
+0	0	865548	Python3	Kktus	
+0	0	3223326	C#	ElodieT	
+0	0	2637336	Python3	Black-Toon	
+0	0	3342604	C++	Nicocaine51	
+0	0	3258892	Python3	ARVR	
+0	0	3321578	C#	MathildeLav	
+0	0	1179357	Javascript	avdg	
+0	0	3167968	VB.NET	Master_Zain	
+0	0	1225445	C#	Lentaq	
+0	0	1368530	C#	Hassenplug	
+0	0	2628455	Python3	PDF	
+0	0	2290633	Python3	field3	
+0	0	256955	C++	cup_of_tea	
+0	0	1464932	Java	Tiramon	
+0	0	1724069	F#	jmpeg	
+0	0	3535408	Python3	Astrolopitheque	
+0	0	3622757	Javascript	anid	
+0	0	3424280	Python3	Zener	
+0	0	3845610	Python3	pardouin	
+0	0	3721214	C++	jrke	
+0	0	2464160	Java	Taeth	
+0	0	3657937	Python3	elderlybeginner	
+0	0	165671	Python3	cyppan	
+0	0	970195	C++	Elbanono	
+0	0	3496153	Python3	lndshs	
+0	0	2708267	Javascript	XyoloJR	
+0	0	1802967	Python3	Meruem	
+0	0	2172874	Rust	Med1ane	
+0	0	3751016	Javascript	Q12	
+0	0	1485015	C++	Murky	
+0	0	4072753	C++	mdstoy	
+0	0	2307886	Python3	metie	
+0	0	3621947	Python3	vrabosh	
+0	0	1178276	Java	Jerome_95	
+0	0	4300969	Javascript	thomasgonda3	
+0	0	3489223	Javascript	KarloHubai	
+0	16	3503501	C++	Dagnarus	
+0	30	1060181	Ruby	Dabou	
+0	30	1759335	Bash	metahom	
+0	30	4251195	Java	Smelty	
+0	30	4122723	Python3	Hydrazer	
+0	31	1029602	C	Potemkine	
+0	43	3177971	Lua	EveryOS	
+0	116	3922731	Dart	Dartisan	
+0	150	371603	Ruby	martin	
+0	150	1050420	Python3	boi_led_egg	
+0	157	567294	Python3	JohannesRichter	
+0	167	3171976	TypeScript	horvbalazs	
+0	278	3328160	Python3	Mustapha.Boussebaine	
+0	390	3087860	Javascript	Jezda1337	
+0	390	3342603	C++	jeremybboy	
+0	390	3342608	Java	Vilky	
+0	420	3212035	C++	xxmaryxx	
+0	420	2673181	PHP	Arckanna	
+0	420	2776033	Javascript	Karamuto	
+0	420	3309182	Java	Coss79	
+0	420	3342602	Java	Valik	
+0	420	1760921	Go	[Leonardone]-[-_-]-[NEETSDKASU]	
+0	420	3536382	Python3	FranckR34	
+0	420	2325449	Perl	otpv	
+0	420	3354337	C++	Westicles	
+0	422	3237004	Java	darkmoonbzh	
+0	450	3138005	C++	GerJCS	
+0	450	3214057	Python3	Nesslax	
+0	476	2833929	Python3	pcourrousse	
+0	480	4038761	Python3	Leirn	
+0	510	3306170	Python3	shanmukh0109	
+0	510	3783962	C++	Mohsen1365ir	
+0	780	3157918	Javascript	AlexandruLeahu	
+0	878	1757118	Javascript	BALEHOK	
+0	928	155929	Python3	[CG]jupoulton	
+0	928	1272263	Python3	Caled	
+0	939	3373604	C	racamsi	
+0	978	3175366	C++	tugrul512bit	
+0	1058	3223335	Python3	Boussad	
+0	1406	2351515	Kotlin	igorlukanin	
+0	1482	2030306	C++	Sangfroid	
+0	2520	1527403	C++	Di_Masta	
+0	2550	403748	C#	[CG]SaiksyApo	
+0	2760	3221186	C++	Alex_perspective	
+0	3150	1169443	Python3	gourraguis	
+0	3150	2960138	Python3		
+0	3150	3039574	C++		
+0	3150	1127579	C	M3T4	
+0	3150	2410235	Python3	Joe_Black	
+0	3150	3291832	C++	JibsriJibwu	
+0	3150	3223311	Java	fbenfraj	
+0	3150	3258864	Javascript	DavidCdr	
+0	3150	3223376	Python3	test_75	
+0	3150	3223332	Java	arond	
+0	3150	3342605	Python3	ClemBqd	
+0	3150	1825085	Python3	Val	
+0	3150	3373803	PHP	Fanfoi125	
+0	3150	2713608	Ruby	LostSymphony	
+0	3150	3474877	Java	phan27	
+0	3150	3586267	Python3	twi	
+0	3150	1428969	Python3	Cpt.Kolute	
+0	3150	3808031	Ruby	_proton	
+0	3150	3946057	Go	orenishii	
+0	6000	1885745	Javascript	CodeSprut	
+0	11200	3059123	Python3	Svarme	
+0	15549	854952	Java	dolmen1234	
+0	30000	1206537	Ruby	MadKnight	
+0	30030	3258764	Javascript	Tizizi	
