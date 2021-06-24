@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=450,time=2021-06-23 07:10:17
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=451,time=2021-06-24 00:30:23
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -115,7 +115,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=450,time=2021-06-23 07:10:17
 100	16670.77	808454	Javascript	.EagleDawn.	
 100	16742.439999999995	389632	Python3	ma	
 100	16769.039999999997	3187336	TypeScript	C6PO	
-100	16815.260000000002	3235897	Java	Zylo	
+100	16811.810000000005	3235897	Java	Zylo	
 100	16842.890000000007	4211056	C#	Nachosauce	
 100	16855.979999999996	3809307	C++	sensaur	
 100	16865.089999999993	886483	C	R4N4R4M4	
@@ -449,3 +449,4 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=450,time=2021-06-23 07:10:17
 0	50000	4186078	Java	ChijiokeOkafor	
 0	50000	4059560	C#	wawalf	
 0	50000	4263837	Javascript	StarFlight	
+0	50000	4315171	Java	Soucis	
