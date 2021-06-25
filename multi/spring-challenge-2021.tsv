@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7015,time=2021-06-24 00:30:20
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7019,time=2021-06-25 00:54:49
 5	45.06	1400179	3665384	C++	reCurse	
 5	39.37	4300424	3704114	Rust	kurnevsky	
 5	36.66	3348388	3677647	C++	bowwowforeach	
@@ -408,7 +408,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7015,time=2021-06-24 00:30:
 4	39.54	4315894	3666677	Python3	sangoes	
 4	39.54	1261726	3665980	Java	Scruby	
 4	39.53	3765105	3665722	Python3	lainislain	
-4	39.49	4016179	3678515	Python3	Tony380	
+4	39.49	4016179	3678515	Python3	Tony.	
 4	39.48	1182388	3666944	Javascript	MiNhon	
 4	39.46	4324288	3671486	Java	tiquaidu	
 4	39.45	4146143	3679990	Java	Zabym	
@@ -426,7 +426,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7015,time=2021-06-24 00:30:
 4	39.21	4322543	3676446	Javascript	Chichong	
 4	39.2	4307227	3670254	C++	doosan.baek	
 4	39.06	1061482	3667336	TypeScript	Ph470u	
-4	39.01	3664238	3668212	Javascript	fbouibao	
+4	39	3664238	3668212	Javascript	fbouibao	
 4	38.97	2993705	3670084	C++	Alf802	
 4	38.95	3783990	3666470	C++	abobas	
 4	38.94	303151	3670768	Python3	MoOT.Cube	
@@ -584,7 +584,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7015,time=2021-06-24 00:30:
 4	36.63	4245657	3669633	Python3	Gui[gui]29	
 4	36.62	2128673	3668389	Python3	larrymotter	
 4	36.61	3525167	3669469	Java	fgsdt	
-4	36.56	4322717	3665790	C++	m_m	
+4	36.59	4322717	3665790	C++	m_m	
 4	36.55	3244897	3665196	Java	Romii	
 4	36.54	3380514	3668879	Java	DFrese	
 4	36.54	3690597	3667702	Python3	But_Why	
@@ -628,9 +628,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7015,time=2021-06-24 00:30:
 4	36.1	4321011	3670812	C#	Poulet_Frites	
 4	36.09	4059043	3670675	Java	-N3R0-	
 4	36.09	765200	3670808	C#	FrancoisB	
+4	36.08	4058112	3667941	C++	SadRojer	
 4	36.06	3141948	3669446	Python3	philRG	
 4	36.05	3813795	3668584	C++	betrue12	
-4	36.04	4058112	3667941	C++	SadRojer	
 4	36	153683	3675732	C#	40R15T3	
 4	36	3800471	3668399	PHP	Peedro07	
 4	35.99	2783687	3665708	PHP	AdrienLopez	
@@ -881,7 +881,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7015,time=2021-06-24 00:30:
 4	33.36	1352572	3667577	C#	niku-live	
 4	33.36	4235021	3669287	Javascript	Amvr	
 4	33.34	1229845	3672970	Java	Jipe	
-4	33.34	828846	3665563	C++	TaiyoJp	
 4	33.33	1852307	3666672	Java	absee	
 4	33.33	4309079	3669746	C#	ttatz	
 4	33.32	3513265	3710174	C++	DaNinja	
@@ -903,6 +902,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7015,time=2021-06-24 00:30:
 4	33.19	1960325	3669188	Javascript	Bladx	
 4	33.15	3804094	3669842	Python3	eldakem	
 4	33.14	953937	3665798	C#	Blaireau	
+4	33.14	828846	3665563	C++	TaiyoJp	
 4	33.13	4315781	3668935	Python3	bjorndv	
 4	33.11	1492846	3665807	Java	mdaw	
 4	33.1	1399688	3722303	C++	jeyries	
