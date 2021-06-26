@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1004,time=2021-06-25 00:54:51
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1006,time=2021-06-26 00:48:36
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
 100	11774	351062	C++	Neumann	
@@ -488,6 +488,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1004,time=2021-06-25 00:54:51
 100	2182	3200687	Python3	delpha	
 100	2169	4206982	Ruby	slempel	
 100	2155	254771	C++	david_tazy	
+100	2141	4230851	Python3	elendure	
 100	2111	1207532	Python3	Squary	
 100	2099	155091	Java	smeagol	
 100	2093	1898584	C++	Natorade	
@@ -903,6 +904,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1004,time=2021-06-25 00:54:51
 100	1031	2607465	Java	valmowa	
 100	1031	3197410	Java	Zydos	
 100	1031	3362964	Python3	a314	
+100	1031	4404681	C#	Tyler_Reed	
 100	1025	3423514	C++	Nghia64582	
 100	1023	951987	C#	yesenin	
 100	1020	1581157	C++	kurmis	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1004,time=2021-06-25 00:54:51
 100	234	723476	Python3	NeoPhnx	
 100	64	4353077	D	ast191001	
 100	2	1661397	Ruby	MightyKnight	
-100	0	2924548	Java	Pepinus	
-100	0	3379298	C	Modospixel	
