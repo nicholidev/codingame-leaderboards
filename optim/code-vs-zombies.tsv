@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=10345,time=2021-06-26 00:48:35
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=10353,time=2021-06-27 00:30:23
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
 100	1265020	1327028	C++	FredericBautista	
@@ -131,6 +131,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10345,time=2021-06-26 00:48:35
 100	242380	820983	Javascript	Funnybobby	
 100	241190	1239545	Go	jke	
 100	241150	1449433	C++	Rolf	
+100	241010	331880	Scala	Monstruo	
 100	240890	1178276	Java	Jerome_95	
 100	239940	2872886	C	Andy_F	
 100	239630	2007852	Go	Zorg1	
@@ -249,7 +250,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10345,time=2021-06-26 00:48:35
 100	200640	4038855	C++	Pedrito_B	
 100	199820	1836058	C++	SeebOmega	
 100	199570	1658067	Java	pstavrianos	
-100	199360	331880	Scala	Monstruo	
 100	198650	153683	Dart	40R15T3	
 100	197850	2376044	C++	NecroSchmurf_IV	
 100	197770	1540343	PHP	chernovig	
@@ -878,6 +878,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10345,time=2021-06-26 00:48:35
 100	64260	3049838	C++	pmor	
 100	64260	4382548	C++	SuryaTheOP	
 100	64260	3990631	Python3	Orionewton	
+100	64260	4286679	C++	Snigafurt	
 100	64250	2858320	C++	Loule	
 100	64240	4299607	Python3	TennyKs	
 100	64230	155928	PHP	pk	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10345,time=2021-06-26 00:48:35
 100	63360	3983017	PHP	TLbuis	
 100	63330	3725891	C++	lord8266	
 100	63320	971701	Haskell	EduardoHi	
-100	63310	3158319	Javascript	BotMan94	
