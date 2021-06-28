@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=452,time=2021-06-27 00:30:25
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=454,time=2021-06-28 00:59:16
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -209,6 +209,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=452,time=2021-06-27 00:30:25
 100	21514.069999999996	1393911	Javascript	neal_s	
 100	21554.48999999999	4182216	Python3	The_Multitude	
 100	21559.69	3763757	Rust	jnovotny	
+100	21597.97	4205154	Python3	tuna_in_cream	
 100	21611.72	2763458	Python3	Lokoslav	
 100	21621.090000000004	2719279	Python3	canag	
 100	21638.669999999995	1970506	Python3	Taldor	
@@ -303,6 +304,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=452,time=2021-06-27 00:30:25
 98	14773.699999999995	1540478	C++	struct	
 98	17057.63	1883740	C++	kermo	
 98	17890.550000000003	2258829	C#	Hiker	
+98	18376.009999999995	4286679	Python3	fungi_star	
 98	19308.55	2998967	TypeScript	Gilde	
 98	19749.700000000004	1427078	C++	ToshiTuringMachine	
 98	20518.800000000003	2926667	C++	RonRo	
