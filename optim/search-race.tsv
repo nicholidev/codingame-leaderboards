@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=454,time=2021-06-28 00:59:16
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=456,time=2021-06-29 00:40:01
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -304,7 +304,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=454,time=2021-06-28 00:59:16
 98	14773.699999999995	1540478	C++	struct	
 98	17057.63	1883740	C++	kermo	
 98	17890.550000000003	2258829	C#	Hiker	
-98	18376.009999999995	4286679	Python3	fungi_star	
+98	18120.46	4286679	Python3	fungi_star	
 98	19308.55	2998967	TypeScript	Gilde	
 98	19749.700000000004	1427078	C++	ToshiTuringMachine	
 98	20518.800000000003	2926667	C++	RonRo	
@@ -384,6 +384,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=454,time=2021-06-28 00:59:16
 76	30025.27	2785892	Python3	levbor	
 76	30143.78	1050420	Python3	boi_led_egg	
 76	30159.29	4089252	Python3	Miki09	
+76	30596.66	709490	Python3	Sinlepuissant	
 74	30385.05999999999	2807089	Python3	Astr0s	
 74	30660.91	3141948	Python3	philRG	
 74	30660.910000000003	4081047	Python3	Rezhay	
@@ -399,6 +400,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=454,time=2021-06-28 00:59:16
 72	32599.319999999992	1895212	Python3	Maxlaxs	
 70	31946.539999999994	3665464	Swift	TheFalk	
 70	31946.539999999994	3883379	Python3	MichelDarty	
+70	31946.539999999994	2532837	Ruby	fauresebast	
 70	32405.080000000005	3420134	Python3	KelvinAndHubbles	
 68	32739.53	3305510	Pascal	TBali	
 68	32739.53	4309574	Python3	KornDV	

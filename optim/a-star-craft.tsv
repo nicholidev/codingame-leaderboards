@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1008,time=2021-06-28 00:59:15
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1009,time=2021-06-29 00:40:00
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
 100	11774	351062	C++	Neumann	
@@ -323,6 +323,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1008,time=2021-06-28 00:59:15
 100	3602	3999695	Python3	ShaxoLudo	
 100	3602	4334077	Python3	Paul_Demanze	
 100	3596	1433688	C++	Geropy	
+100	3584	3335896	C++	_martynas	
 100	3573	1920644	C++	Skygge	
 100	3563	224325	Scala	TidyMaze	
 100	3559	4122723	Javascript	Hydrazer	
@@ -411,7 +412,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1008,time=2021-06-28 00:59:15
 100	2641	2829573	C#	Zwiebelkopf	
 100	2641	2647790	C#	They_Dont_CSharp	
 100	2641	1201783	Python3	qsantos	
-100	2617	3335896	C++	_martynas	
 100	2608	2734485	Python3	Randrian	
 100	2608	1487168	Bash	FatIvan	
 100	2608	2719604	Python3	vpoulailleau	
@@ -989,6 +989,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1008,time=2021-06-28 00:59:15
 100	580	1675720	Javascript	AxFab	
 100	554	3847872	Python3	psychedelic68	
 100	521	1458246	Ruby	Httpsx	
+100	520	1960325	Javascript	Bladx	
 100	518	1506762	Python3	the_real_lolo	
 100	500	3270198	Javascript	simbst	
 100	488	1447713	Python3	WhatnotX	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1008,time=2021-06-28 00:59:15
 100	367	3785208	Java	StrafeAE	
 100	331	3889390	Javascript	SamIrvin17	
 100	293	482445	C#	BogdanSavchenko	
-100	234	723476	Python3	NeoPhnx	
