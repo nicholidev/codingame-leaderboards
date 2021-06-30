@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5226,time=2021-06-29 00:39:59
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5228,time=2021-06-30 00:37:11
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -234,6 +234,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5226,time=2021-06-29 00:39:59
 100	4036	2066683	C++	padobranac	
 100	4036	3973359	C++	KAbel	
 100	4036	4070745	C++	MiyamuraIzumi	
+100	4036	4334077	C++	Paul_Demanze	
 100	4045	936661	Python3	bdvir	
 100	4059	1353260	Java	kluf	
 100	4061	915957	C	Tux	
@@ -905,7 +906,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5226,time=2021-06-29 00:39:59
 100	5884	1652555	Python3	Kalwyn	
 100	5884	1661333	C++	linjoehan	
 100	5884	4065313	C++	XerusPrasinus	
-100	5884	4334077	C++	Paul_Demanze	
 100	5885	808896	Java	ondimon	
 100	5885	154701	Java	luxman99	
 100	5885	933923	PHP	mdio	
@@ -997,5 +997,5 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5226,time=2021-06-29 00:39:59
 100	5887	4159496	C#	maoru	
 100	5887	3423700	C++	Old-and-Grumpy	
 100	5887	1482482	C#	gmolnar	
+100	5887	1795893	Javascript	codingcri	
 100	5888	888904	Java	DanyBoy	
-100	5888	188522	PHP	iolcos	

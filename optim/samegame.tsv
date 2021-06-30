@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=360,time=2021-06-29 00:40:01
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=361,time=2021-06-30 00:37:14
 100	174652	3354337	Scala	Westicles	
 100	167588	1530051	C++	UlYoP	
 100	165192	2968035	C++	DomiKo	
@@ -21,6 +21,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=360,time=2021-06-29 00:40:01
 100	113915	2923506	C++	darkhorse64	
 100	113146	3533119	Python3	wlesavo	
 100	110747	580424	C++	siman	
+100	110086	3235897	Java	Zylo	
 100	109674	1243354	C++	RSBat	
 100	102666	509738	C++	Konrad_Wer	
 100	99630	3525167	Java	fgsdt	
@@ -74,7 +75,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=360,time=2021-06-29 00:40:01
 100	37577	3854069	Swift	Quid34	
 100	36972	1361019	Python3	AlessioGreco	
 100	36760	1096844	Python3	mm00	
-100	36689	3235897	Java	Zylo	
 100	35961	1029663	C	Skreamly	
 100	35734	837350	Python3	BorisZ	
 100	35560	2826402	Java	1Alex	
@@ -324,6 +324,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=360,time=2021-06-29 00:40:01
 0	470	4225517	Python3	Dreli	
 0	470	4353077	D	ast191001	
 0	470	4315171	Java	Soucis	
+0	470	4334077	C++	Paul_Demanze	
 0	437	3475739	Java	Ysp	
 0	400	3741002	Python3	ichbinsmith	
 0	347	3136787	Python3	jacek	
