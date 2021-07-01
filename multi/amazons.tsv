@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=24,time=2021-06-30 00:30:03
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=25,time=2021-07-01 00:30:03
 1	29.1	3136787	3522248	C++	jacek	
 1	17.97	2924895	3520395	C	trictrac	
 1	16.56	1489865	3534648	C++	EricSMSO	
@@ -7,19 +7,20 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=24,time=2021-06-30 00:30:03
 1	8.07	3792309	3714128	C++	schachmatt	
 1	6.02	862919	3520634	C++	Astrobytes	
 1	4.64	3903473	3533323	Python3	Konstant	
-0	16.02	973040	3694355	F#	papyjo	
-0	14.6	3706223	3672996	TypeScript	Yab94	
-0	9.4	2290633	3525766	Python3	field3	
-0	5.4	1540478	3522934	C++	struct	
-0	5.31	3569066	3520583	D	derjack	
-0	5.31	1412263	3523884	PHP	PatrickMcGinnisII	
-0	5.3	1800997	3687612	Python3	The_ZimaBlue	
-0	5.3	1713174	3522841	Python3	BigUP	
-0	5.3	4251195	3522917	Java	Smelty	
-0	5.3	2325449	3533321	Perl	otpv	
-0	5.3	3354337	3520384	Lua	Westicles	
-0	5.3	3721214	3675769	Python3	jrke	
-0	5.29	1802808	3687607	Python3	EnderWiggins	
-0	5.29	354788	3677364	C++	Lexer31	
-0	5.28	4130841	3522793	Javascript	Digginwings	
-0	-10.82	2043908	3529316	Java	AntiSquid	
+0	16.05	973040	3694355	F#	papyjo	
+0	14.64	3706223	3672996	TypeScript	Yab94	
+0	9.27	2290633	3525766	Python3	field3	
+0	5.63	1412263	3523884	PHP	PatrickMcGinnisII	
+0	5.6	862888	3735782	Python3	Jumpmaster	
+0	5.53	1802808	3687607	Python3	EnderWiggins	
+0	5.52	2325449	3533321	Perl	otpv	
+0	5.51	1800997	3687612	Python3	The_ZimaBlue	
+0	5.46	1540478	3522934	C++	struct	
+0	5.46	3569066	3520583	D	derjack	
+0	5.43	1713174	3522841	Python3	BigUP	
+0	5.42	4130841	3522793	Javascript	Digginwings	
+0	5.41	3721214	3675769	Python3	jrke	
+0	5.39	4251195	3522917	Java	Smelty	
+0	5.38	3354337	3520384	Lua	Westicles	
+0	5.35	354788	3677364	C++	Lexer31	
+0	-10.88	2043908	3529316	Java	AntiSquid	
