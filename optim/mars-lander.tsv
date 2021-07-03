@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=4354,time=2021-07-02 00:30:22
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=4357,time=2021-07-03 00:44:00
 100	2509	1327028	C++	FredericBautista	
 100	2507	154372	Bash	Plopx	
 100	2504	1249786	C#	Fededevi	
@@ -18,6 +18,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4354,time=2021-07-02 00:30:22
 100	2474	1530051	C++	UlYoP	
 100	2471	2054776	C++	GinSmal	
 100	2471	3358168	Go	A.U.	
+100	2470	3918583	Rust	mikmak	
 100	2467	1688372	C#	vs120	
 100	2467	490905	Python3	lechium06_	
 100	2464	3418599	C++	YvanHerreros	
@@ -33,7 +34,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4354,time=2021-07-02 00:30:22
 100	2450	1584802	Python3	emh	
 100	2450	3298988	C#	PotatoCoder	
 100	2444	2311105	C++	kovi	
-100	2444	3918583	Rust	mikmak	
 100	2441	553938	C++	MagAlex	
 100	2441	805067	Javascript	Magus	
 100	2440	1566335	Java	BeardedWhale	
@@ -530,6 +530,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4354,time=2021-07-02 00:30:22
 100	1991	4191122	Java	ManonCodd	
 100	1991	2148276	C#	frankenherm	
 100	1991	3514975	Java	Phurinat	
+100	1991	4239399	Java	b18a9n	
 100	1990	876163	C#	AY1111	
 100	1990	1393802	Python3	amzh	
 100	1990	3762699	C	Nolliwood	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4354,time=2021-07-02 00:30:22
 100	1786	922880	C#	Leshka	
 100	1786	3932077	Javascript	CopperFr	
 100	1786	915244	Groovy	moon_invader	
-100	1786	3900466	Python3	Mikanom	

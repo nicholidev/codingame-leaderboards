@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2559,time=2021-07-02 00:30:10
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2559,time=2021-07-03 00:30:11
 4	35.16	3193653	2708375	C++	karliso	
 4	32.56	3502867	2707285	C++	The_Duck	
 4	31.78	2577687	2707833	C++	blasterpoard	
@@ -754,7 +754,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2559,time=2021-07-02 00:30:
 3	2.17	3780587	2848974	C++	PortalBot	
 2	26.32	826277	2708206	C++	Prayer	
 2	26.22	1498163	2707500	Java	Ben-oit	
-2	25.81	944561	2708484	Java	djibouss	
+2	25.89	944561	2708484	Java	djibouss	
 2	25.64	225875	2707609	C#	leff	
 2	25.1	3423700	3709940	C++	Old-and-Grumpy	
 2	24.66	1803872	2707111	Python3	happyweary	
@@ -832,9 +832,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2559,time=2021-07-02 00:30:
 2	22.23	3524909	2708410	Haskell	atpotts	
 2	22.23	1464932	2707159	Java	Tiramon	
 2	22.16	3343665	2707688	Java	Quidome	
+2	22.16	2390375	2708144	Javascript	icetta	
 2	22.13	3502066	2707426	Python3	Pusil	
 2	22.04	1295850	2708311	Java	EvbCFfp1XB	
-2	22.04	2390375	2708144	Javascript	icetta	
 2	22.04	2122087	2708745	C++	RENZOU	
 2	22.01	2401975	2708170	Java	KeepCaIm	
 2	22.01	1438036	2707753	Java	Bubbly_Bee	
@@ -909,10 +909,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2559,time=2021-07-02 00:30:
 2	21.14	1955828	2707556	Java	famaridon	
 2	21.1	3504257	2708537	Java	NidhiGupta	
 2	21.07	833678	2709134	Javascript	ghassen	
-2	20.99	1160218	2707575	C#	unimatrixZero	
 2	20.99	873808	2708951	Java	Vx3	
 2	20.97	4303052	3525298	Python3	TehGeer	
 2	20.95	2517057	2709145	C++	Edds	
+2	20.93	1160218	2707575	C#	unimatrixZero	
 2	20.9	3249886	2708567	Python3	Aguirre	
 2	20.9	3367414	2707164	Java	RachidiAlaouiHicham	
 2	20.89	3082494	2707732	Python3	alarih	
@@ -980,22 +980,22 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2559,time=2021-07-02 00:30:
 2	19.88	2136109	2708887	Javascript	Klemek	
 2	19.86	1375873	2708027	TypeScript	Serhio	
 2	19.78	1818159	2708403	C#	JRFerguson	
+2	19.72	3196328	2708159	C++	LilithRavenloft	
 2	19.72	385699	2707256	C	Nikai	
 2	19.65	1795810	2708146	Javascript	NiniGeek	
 2	19.61	2429661	2708586	C#	SerialGrapist	
-2	19.61	3196328	2708159	C++	LilithRavenloft	
 2	19.6	3507118	2707635	Python3	davemus	
 2	19.51	1147111	2707870	C#	-_.a-zA-Z0-9	
 2	19.49	3401764	3714362	C	anonymous_user	
 2	19.44	2901612	3162052	Python3	Ypsanti	
+2	19.44	3127864	2708236	Python3	TeamT	
 2	19.43	1333684	2707537	Javascript	MarcoFuschini	
-2	19.34	3127864	2708236	Python3	TeamT	
+2	19.43	4227625	3630854	Javascript	EmanSlam	
+2	19.31	1132011	2708047	C#	pci	
+2	19.29	1408361	2708949	C++	[CPC]Cwningen	
 2	19.26	3696874	2735638	Python3	HuiBuh	
-2	19.22	2948157	2707761	Javascript	ztunisia	
-2	19.19	2437067	2707734	Java	AristocelenePeter	
-2	19.19	1408361	2708949	C++	[CPC]Cwningen	
-2	19.1	4090664	3337566	Kotlin	sikr_	
-2	19.06	3245013	2707240	C++	DSG213	
-2	19	1132011	2708047	C#	pci	
-2	18.99	1981732	2707704	F#	MJS	
-2	18.97	2571167	3497439	Java	CyanLumi	
+2	19.21	2928775	2708525	Python3	bob111	
+2	19.14	3510173	3255706	Rust	Reinis-Mazeiks	
+2	19.13	2948157	2707761	Javascript	ztunisia	
+2	19.11	2571167	3497439	Java	CyanLumi	
+2	19.1	2437067	2707734	Java	AristocelenePeter	

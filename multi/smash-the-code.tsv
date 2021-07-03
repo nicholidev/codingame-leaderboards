@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2479,time=2021-07-02 00:30:12
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2480,time=2021-07-03 00:30:13
 5	35.67	1400179	2986754	C++	reCurse	
 5	31.98	1327028	2990369	C++	FredericBautista	
 5	30.3	1413236	511966	Go	Medici	
@@ -831,15 +831,16 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2479,time=2021-07-02 00:30:
 2	-8.32	1108968	2598824	Python3	Obaul	
 2	-8.96	3170918	2924235	C++	reLu	
 2	-10.3	1630901	1327361	C++	Pand0re	
-1	24.71	1747292	2255766	Swift	CodeReaper	
-1	24.05	1514906	678800	C++	Gwaka	
+1	24.57	1747292	2255766	Swift	CodeReaper	
+1	24.06	1514906	678800	C++	Gwaka	
 1	24.04	2047039	1332702	Python	Loufis	
 1	23.71	1494618	625811	Javascript	Lune	
-1	23.42	154937	601257	Python3	[CG]BOUGA	
-1	23.41	1404527	488144	Javascript	Bastiboy	
-1	23.41	890335	1481109	C++	ttr	
+1	23.64	4410463	3739118	PHP	kipow	
+1	23.46	1404527	488144	Javascript	Bastiboy	
+1	23.46	801375	495101	C++	Lord_Farawyn	
+1	23.45	154937	601257	Python3	[CG]BOUGA	
+1	23.44	890335	1481109	C++	ttr	
 1	23.4	754792	906113	C++	Ramdeath	
-1	23.4	801375	495101	C++	Lord_Farawyn	
 1	23.4	153645	2688544	Python3	Ironc	
 1	23.4	3143143	2267027	C	TripleCrown	
 1	23.4	3477232	3030518	Python3	AxelVo	
@@ -858,8 +859,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2479,time=2021-07-02 00:30:
 1	23.35	1508772	805634	PHP	LeadFarmer	
 1	23.35	1062481	483910	Java	MauroSemproni	
 1	23.35	614489	493173	C	Nazoum81	
+1	23.35	1446679	484869	Javascript	Janus	
 1	23.34	1891787	1400468	Python	Threyeth	
-1	23.34	1446679	484869	Javascript	Janus	
+1	23.34	880353	497129	Python3	zasmu	
 1	23.34	1567782	725150	Perl	brt	
 1	23.34	1439710	614967	Javascript	Buesto	
 1	23.33	1502298	610550	C#	skargg	
@@ -870,21 +872,20 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2479,time=2021-07-02 00:30:
 1	23.32	3938495	3485184	OCaml	o11s	
 1	23.32	3028864	2194001	VB.NET	lorcQc	
 1	23.32	435967	664050	Ruby	NullNilNone	
+1	23.31	1412502	498595	Javascript	falsidge	
 1	23.31	1527782	647661	C	zad	
-1	23.31	880353	497129	Python3	zasmu	
 1	23.31	1592902	686826	C	sondx89	
-1	23.3	1596346	768314	C#	LaurisJansons	
 1	23.3	1405775	570996	C	Yiminjune	
 1	23.3	1472964	562536	C#	fnudd	
 1	23.3	1753121	912652	Python	Fumo201	
+1	23.3	1409204	487289	Javascript	Ricco7La	
 1	23.29	1443075	484310	C++	Wolfy82	
 1	23.29	2203927	1669704	C++	MohamedAlmograby_2nd_year_2018	
 1	23.29	3101644	2622382	Python3	HerrHagner	
 1	23.29	1463575	494417	Javascript	Kittenschnitzel	
-1	23.29	1412502	498595	Javascript	falsidge	
 1	23.28	1428356	878484	C++	VictorTimoftii	
 1	23.28	1014924	493584	PHP	TommyP	
-1	23.27	1409204	487289	Javascript	Ricco7La	
+1	23.28	973155	576064	C++	Namal	
 1	23.27	1029602	1573212	C	Potemkine	
 1	23.26	1526032	781283	C++	AdamBadura	
 1	23.26	1297591	653520	C	BigHead	
@@ -894,7 +895,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2479,time=2021-07-02 00:30:
 1	23.25	1482103	595604	C	BlasterBaz	
 1	23.24	1308136	622142	Javascript	AsZ	
 1	23.24	1477028	577663	Ruby	CbIC	
-1	23.24	973155	576064	C++	Namal	
 1	23.24	1455512	484767	Javascript	Khar	
 1	23.24	1280770	486102	C	John_Black	
 1	23.24	1361326	875277	C#	8]	
@@ -903,6 +903,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2479,time=2021-07-02 00:30:
 1	23.23	1455173	493497	Python3	DrSpock	
 1	23.23	609811	969744	C#	Atesz	
 1	23.22	2285360	1505940	Javascript	Tatyana	
+1	23.22	1596346	768314	C#	LaurisJansons	
 1	23.21	1072200	511891	C	alze	
 1	23.21	1294592	575454	Javascript	tetesoulo	
 1	23.21	1081818	504765	Python	Indispira	
@@ -979,6 +980,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2479,time=2021-07-02 00:30:
 1	23.03	1456040	488791	C++	RaphaelM	
 1	23.03	1491359	590307	C++	MurfDude	
 1	23.02	1495350	591678	PHP	Wranorn	
+1	23.02	1460710	491835	Python	wintonzheng	
 1	23.02	1448599	508856	C#	MdNght	
 1	23.02	1479835	534250	C++	skill	
 1	23.02	2422378	1771756	Javascript	C2H5OH	
@@ -989,13 +991,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2479,time=2021-07-02 00:30:
 1	23.01	1263862	646541	Python3	Palermo	
 1	23.01	1463578	494529	Javascript	MarkusMulkahainen	
 1	23.01	915148	619650	C#	mbsff	
-1	23	3926522	3101789	Python3	Denshire	
 1	23	1519601	979378	Python3	Jagang	
+1	23	1132217	495973	C++	Syhnnn	
 1	23	1648009	755489	Java	Getileino	
 1	23	1472234	512253	C#	Filip.Lada	
 1	23	1656386	760825	C++	miszczu	
 1	23	1113415	653895	Python3	Lhassa	
 1	22.99	1470509	503539	C#	KiRa937	
 1	22.99	1492574	582671	C	zc	
-1	22.99	1460921	491838	Python3	suchintan	
-1	22.99	2411860	2690075	C++	Aurelien-Quillet	
