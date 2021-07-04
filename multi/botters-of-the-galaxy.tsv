@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=954,time=2021-07-03 00:35:25
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=955,time=2021-07-04 00:30:17
 9	30.19	2489835	1769668	C#	Akarachudra	
 9	25.62	2254195	1769673	Java	BrunoFelthes	
 9	25.31	1818159	1769663	C++	JRFerguson	
@@ -908,6 +908,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=954,time=2021-07-03 00:35:2
 0	8.13	354788	3677236	C++	Lexer31	
 0	8.05	484004	3516679	Python3	aCat	
 0	8.04	1675720	1748718	C	AxFab	
+0	8.01	3308418	3740324	Python3	Utkarsh554	
 0	7.99	937221	2495942	Java	vrampal	
 0	7.96	2713608	2026587	C#	LostSymphony	
 0	7.94	2462453	2034789	C#	Konamiruku	
@@ -936,10 +937,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=954,time=2021-07-03 00:35:2
 0	7.64	2066751	1846213	C#	AndresPerez	
 0	7.62	1251131	1754754	C#	ma81xx	
 0	7.14	1013463	1759229	Python3	Lachrymosa	
-0	6.75	236902	2313737	C++	Tryum	
-0	6.07	1362802	1747414	Javascript	Orlandi	
-0	3.71	1717345	2061864	Scala	kotobotov	
-0	3.7	2512705	1770867	Swift	awesomeFencer	
+0	6.71	236902	2313737	C++	Tryum	
+0	6.04	1362802	1747414	Javascript	Orlandi	
+0	3.65	2512705	1770867	Swift	awesomeFencer	
+0	3.57	1717345	2061864	Scala	kotobotov	
 0	-4.9	2115840	3683028	C#	GIveMeYourCode	
 0	-5.8	1950105	3493030	C++	nazgath	
 0	-6.18	1246479	2697767	Java	Bastien_Baloup	
@@ -947,7 +948,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=954,time=2021-07-03 00:35:2
 0	-6.85	4032211	3341675	Python3	artmyros	
 0	-8.18	2643826	1875932	Python3	LeoB	
 0	-10.09	2315334	1776639	Java	VIP193	
-0	-10.2	1126419	1761345	C#	seyhen	
+0	-10.21	1126419	1761345	C#	seyhen	
 0	-10.23	666934	1768944	Python	93	
 0	-10.48	1264023	1747289	VB.NET	Alamir	
 0	-10.64	2006348	1751833	Javascript	Koji02	
