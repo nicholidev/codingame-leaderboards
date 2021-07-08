@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4783,time=2021-07-07 00:30:05
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4784,time=2021-07-08 00:30:06
 0	47.11	1433161	1484525	C	mingu1.kang	
 0	45.71	494104	455215	C++	Recar	
 0	45.57	990110	357643	C++	Rogerup	
@@ -159,8 +159,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4783,time=2021-07-07 00:30:
 0	38.12	1060181	359636	Javascript	Dabou	
 0	38.12	1673971	1113063	C++	Lanken	
 0	38.12	554263	348765	C++	assy	
+0	38.11	157377	365493	Javascript	McKelian	
 0	38.08	873809	1874597	C++	Lucky92	
-0	38.05	157377	365493	Javascript	McKelian	
 0	38.05	1986145	1231495	C++	ValNyz	
 0	37.93	2114863	1754493	C++	QWERTy	
 0	37.91	682376	356493	Java	fraagol	
@@ -255,9 +255,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4783,time=2021-07-07 00:30:
 0	36.99	409126	349726	Python3	EpicSound	
 0	36.9	915957	346491	C	Tux	
 0	36.89	617317	355806	C	Med-Amine	
-0	36.8	1188212	382180	C	superredlark	
 0	36.8	1065347	344683	C++	FinalFantasyx	
 0	36.79	847745	358028	PHP	Orminot	
+0	36.75	1188212	382180	C	superredlark	
 0	36.75	2786666	2150454	C++	TetraktysPhi	
 0	36.73	576907	351649	Haskell	Coelso	
 0	36.54	1027836	352469	Go	Wrymm	
@@ -569,13 +569,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4783,time=2021-07-07 00:30:
 0	33.28	4253900	3722531	OCaml	Arol90	
 0	33.27	1076740	351491	Python	Nazo	
 0	33.27	1070781	344999	Python	Peterke	
+0	33.27	977819	352850	C++	Groxx	
 0	33.27	1036976	352864	Java	MojoJojo	
 0	33.27	4347101	3722274	OCaml	Fox_MPSI-LIV	
 0	33.27	1427078	485036	Java	ToshiTuringMachine	
 0	33.24	1041775	346239	Pascal	Darkcodi	
 0	33.24	1110041	3354243	C#	Partybwal	
 0	33.24	721245	342650	ObjectiveC	Eugene1	
-0	33.24	977819	352850	C++	Groxx	
 0	33.22	1404539	417778	Python3	Furrane	
 0	33.21	980299	418115	Javascript	Namide	
 0	33.21	788357	358240	Python	DrDr3ck	
@@ -590,7 +590,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4783,time=2021-07-07 00:30:
 0	33.15	873626	339081	Python	yomax	
 0	33.14	1052068	353141	C++	kkjj	
 0	33.14	828459	345068	C++	omu	
-0	33.14	524398	343069	C	gadic	
 0	33.13	230519	341476	C	Gadam06	
 0	33.13	900460	352430	PHP	Payalord	
 0	33.13	1077623	345476	C	BOABDEAL	
@@ -635,6 +634,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4783,time=2021-07-07 00:30:
 0	32.93	1350974	411575	PHP	Zyxx	
 0	32.92	1068652	355894	C++	Stormer	
 0	32.91	826372	348172	C++	skyyker	
+0	32.91	524398	343069	C	gadic	
 0	32.91	1087109	361761	C++	Norival	
 0	32.9	1020589	355038	Java	Jevri	
 0	32.89	1441132	475633	Python	ryan-morra	
