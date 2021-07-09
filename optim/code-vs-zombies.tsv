@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=10448,time=2021-07-08 00:35:28
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=10462,time=2021-07-09 00:54:25
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
 100	1265020	1327028	C++	FredericBautista	
@@ -120,6 +120,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10448,time=2021-07-08 00:35:28
 100	248650	1566335	Java	BeardedWhale	
 100	248580	862336	C++	Zaphus	
 100	248270	1195031	C++	Nekto	
+100	247770	4029596	C	NaSaPaKri	
 100	247300	3869042	C		
 100	246140	1314796	C#	JBence	
 100	245760	1861258	Rust	Nazdhun	
@@ -196,6 +197,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10448,time=2021-07-08 00:35:28
 100	216640	3657275	C	jujurocking	
 100	216580	773811	Java	szoti	
 100	216200	4018953	C	zTTK	
+100	216140	4191122	C	ManonCodd	
 100	215360	2515515	C	Bobliu	
 100	215230	3966600	C	leaghe	
 100	215220	1753077	C++	codingWhale	
@@ -661,6 +663,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10448,time=2021-07-08 00:35:28
 100	67400	3393535	Python3	LuckyJ.	
 100	67370	2711016	C#	Manuel0814	
 100	67340	517890	C++	Altaire	
+100	67300	4418069	Python3	manuelseeger	
 100	67140	1767134	Java	AntonYuriev	
 100	67020	3520485	C++	DigitalMe	
 100	67010	928022	C#	Yliria	
@@ -676,6 +679,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10448,time=2021-07-08 00:35:28
 100	66630	303151	Python3	MoOT.Cube	
 100	66590	1211531	C++	ciaojian	
 100	66560	3418503	Java	Rihayaz	
+100	66510	4412366	C#	oblacek	
 100	66500	425114	Python3	gluk47	
 100	66500	1360360	Javascript	zombitrafik	
 100	66380	1073834	C++	POLOB	
@@ -697,7 +701,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10448,time=2021-07-08 00:35:28
 100	65650	1522873	C	ZHUXiang	
 100	65590	3418514	Python3	TheBeltingBardYouWishWouldnt	
 100	65590	4095799	Python3	circular17	
-100	65550	4412366	C#	oblacek	
 100	65450	1293284	Python3	NaraJeamfry	
 100	65430	1510662	Java	Nandreas	
 100	65410	1555572	C#	ThunderbirdOne	
@@ -886,6 +889,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10448,time=2021-07-08 00:35:28
 100	64260	4382548	C++	SuryaTheOP	
 100	64260	3990631	Python3	Orionewton	
 100	64260	4286679	C++	fungi_star	
+100	64260	4422682	Python3		
 100	64250	2858320	C++	Loule	
 100	64240	4299607	Python3	TennyKs	
 100	64230	155928	PHP	pk	
@@ -917,6 +921,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10448,time=2021-07-08 00:35:28
 100	64230	3586671	Python3	Uemu-yazid	
 100	64230	2019949	Java	alexturtle	
 100	64230	4323176	Python3	ArseniyFokin	
+100	64230	3996288	C#	Shadnow	
 100	64220	1029602	C	Potemkine	
 100	64220	4111740	C++	xumarcus	
 100	64190	634747	C#	akhansari	
@@ -994,8 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10448,time=2021-07-08 00:35:28
 100	63490	880111	Go	gghez	
 100	63490	4042270	Python3	Andre.H	
 100	63490	4048874	Java	Ldeuxmecanique	
-100	63480	1013757	Ruby	RikyM	
-100	63480	1504309	C#	Isaacqwerty	
-100	63460	152975	Java	Simona	
-100	63440	1178656	Python3	fmhr	
-100	63400	3416055	Python3	ItsAFeature	
