@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=363,time=2021-07-09 00:54:27
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=364,time=2021-07-10 02:25:37
 100	174652	3354337	Scala	Westicles	
 100	167588	1530051	C++	UlYoP	
 100	165192	2968035	C++	DomiKo	
@@ -143,6 +143,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=363,time=2021-07-09 00:54:27
 100	18778	1545094	Javascript	ZooooX	
 100	18670	1688466	C++	geoffroy	
 100	18565	4072753	C++	mdstoy	
+100	18310	3903847	C#	UnicornP	
 100	17028	3305510	PHP	TBali	
 100	16681	2235616	Rust	BroneKot	
 100	16528	2416641	Python3	Zenoscave	
@@ -185,7 +186,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=363,time=2021-07-09 00:54:27
 100	9902	4008310	C#		
 100	9902	3494301	Python3	CoreyCV	
 100	9902	1162493	Python3	irmo322	
-100	9899	3903847	Java	UnicornP	
 100	9894	1412263	PHP	PatrickMcGinnisII	
 100	9848	1910916	C#	VivienBillot	
 100	9847	3806841	C++	SWi	
@@ -285,6 +285,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=363,time=2021-07-09 00:54:27
 100	7456	3703802	Rust	uczys	
 100	7456	992329	Python3	BeeGee	
 100	7434	1566990	Swift	Elsu	
+100	7430	4134943	Python3	vinc-r	
 100	7376	1200669	Python3	houseofsuns	
 100	7296	1549856	TypeScript	Keylan	
 100	7134	1457223	C++	jleconte	
