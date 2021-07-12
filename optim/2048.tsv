@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=601,time=2021-07-11 01:13:35
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=601,time=2021-07-12 00:31:31
 100	62564496	2288263	Rust	dbdr	
 100	59353524	765200	Rust	FrancoisB	
 100	59353464	3457031	C++	YurkovAS	
@@ -36,7 +36,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=601,time=2021-07-11 01:13:35
 100	19127616	1549145	C++	Mealc	
 100	18704804	3136787	C++	jacek	
 100	18131096	329200	C++	BlitzProg	
-100	17334480	3647844	C++	rc95401	
+100	17742928	3647844	C++	rc95401	
 100	17206600	3971358	C++	OldJohn	
 100	16652164	2968035	C++	DomiKo	
 100	16504096	3919068	C++	14598366	
@@ -75,6 +75,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=601,time=2021-07-11 01:13:35
 100	4658788	3165536	C++	barbora	
 100	4641092	952784	C++	[CG]Simon	
 100	4551296	2258829	C#	Hiker	
+100	4235476	1719856	PHP	YOANN	
 100	4049156	4027292	C#	rmait	
 100	4003632	1807733	Python3	NoZ-	
 100	3825460	1854246	C++	Counterbalance	
@@ -95,6 +96,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=601,time=2021-07-11 01:13:35
 100	2319324	4036456	Python3	JeremSwak	
 100	2253844	475740	C#	Serg	
 100	2194824	1309948	C++	Runner87	
+100	2132660	860404	C++	Vitruvius	
 100	2124388	2012662	Python3	Natalka1122	
 100	2099264	806416	Python3	awnion	
 100	2013220	1720605	Rust	carlicolosse	
@@ -117,7 +119,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=601,time=2021-07-11 01:13:35
 100	1036264	3406987	Python3	Radu_Sav	
 100	930052	3141948	Java	philRG	
 100	894468	3812486	Javascript	gitKad	
-100	774736	860404	C++	Vitruvius	
 100	725440	3842838	TypeScript	Streusel	
 100	718036	4105514	Python3	FeiChong	
 100	675240	1566335	Java	BeardedWhale	
@@ -183,7 +184,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=601,time=2021-07-11 01:13:35
 100	93356	862919	C++	Astrobytes	
 100	91336	4188076	Rust	mbultmannuos	
 100	90644	3522047	TypeScript	asgeirr	
-100	89948	1719856	PHP	YOANN	
 100	89720	4176076	C++	2134512	
 100	87920	3606971	Javascript	LordVonAdel	
 100	87456	759147	C++	kisszots	
