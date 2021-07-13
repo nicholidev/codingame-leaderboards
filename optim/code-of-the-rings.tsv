@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5258,time=2021-07-12 00:31:28
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5263,time=2021-07-13 01:16:43
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -709,6 +709,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5258,time=2021-07-12 00:31:28
 100	5800	155934	PHP	Ninsuo	
 100	5800	304126	PHP	kami	
 100	5801	829472	ObjectiveC	andris	
+100	5801	3390309	C++	VincentBaijot	
 100	5804	3173494	Python3	WKDE	
 100	5805	1527403	C++	Di_Masta	
 100	5809	3770485	C++	zakki	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5258,time=2021-07-12 00:31:28
 100	5887	3423700	C++	Old-and-Grumpy	
 100	5887	1482482	C#	gmolnar	
 100	5887	1795893	Javascript	codingcri	
-100	5888	888904	Java	DanyBoy	
