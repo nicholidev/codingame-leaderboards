@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7560,time=2021-07-13 01:07:48
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7562,time=2021-07-14 00:39:53
 5	30.54	832306	3312396	C++	pb4	
 5	29.7	154984	3332311	C++	_Royale	
 5	29	668954	3339073	C++	Fluxor	
@@ -691,7 +691,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7560,time=2021-07-13 01:07:
 3	38.06	3586671	3312460	C++	Uemu-yazid	
 3	38.06	4264690	3712153	C++	hofangman	
 3	37.97	734401	3308179	C++	b0n5a1	
-3	37.9	1231237	3317310	Python3	crazyiop	
+3	37.88	1231237	3317310	Python3	crazyiop	
 3	37.88	1437684	3310603	C#	Maulkin	
 3	37.88	499209	3309735	PHP	Tom85	
 3	37.87	518243	3312619	C++	mbaros	
@@ -847,12 +847,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7560,time=2021-07-13 01:07:
 3	35.73	1408361	3312456	C++	[CPC]Cwningen	
 3	35.73	3523406	3312712	Java	Pansier	
 3	35.71	2683085	3309295	Rust	estoev	
+3	35.7	1855932	3310542	Rust	keigo-brook	
 3	35.7	2889948	3312362	C++	anoburn	
 3	35.69	1467910	3312668	Python3	iian	
 3	35.68	334009	3310105	Bash	abouvier	
 3	35.67	3359490	3310107	Python3	Gr0mph	
 3	35.67	510486	3310612	Python3	Jorigole	
-3	35.66	1855932	3310542	Rust	keigo-brook	
 3	35.66	712849	3312715	Java	Tabea	
 3	35.66	1222619	3339012	Java	Cojy	
 3	35.64	2290633	3316611	Python3	field3	
@@ -877,9 +877,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7560,time=2021-07-13 01:07:
 3	35.31	1940223	3307981	PHP	Eglerion	
 3	35.29	3736976	3312695	C#	olka2g	
 3	35.27	929662	3310014	C++	madxmad	
+3	35.26	1310206	3312614	C	bdudek	
 3	35.26	4145194	3498932	F#	charnel_mouse	
 3	35.26	359096	3312465	Java	Skyloro	
-3	35.26	1310206	3312614	C	bdudek	
 3	35.25	3742936	3310864	Python3	David26	
 3	35.24	1414854	3312997	Rust	jpages	
 3	35.24	3819561	3375391	Javascript	agenordebriat	
@@ -991,7 +991,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7560,time=2021-07-13 01:07:
 3	33.44	1182388	3311594	Javascript	MiNhon	
 3	33.44	1606614	3441141	C++	Wazaa	
 3	33.4	2488317	3312841	C#	Morcifer	
-3	33.36	3230794	3309280	C++	tutubalin	
+3	33.4	3230794	3309280	C++	tutubalin	
 3	33.34	2927320	3309092	C#	itectori	
 3	33.33	1646504	3315620	Go	fil090302	
 3	33.31	3586448	3307520	Python3	LeoT	

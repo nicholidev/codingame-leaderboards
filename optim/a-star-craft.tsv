@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1018,time=2021-07-13 01:16:44
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1019,time=2021-07-14 01:08:13
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
 100	11774	351062	C++	Neumann	
@@ -245,6 +245,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1018,time=2021-07-13 01:16:44
 100	4683	2155687	Kotlin	NilsTheWizzard	
 100	4667	1415498	C++	Kirich	
 100	4663	2470677	C++	Goujon	
+100	4644	2368190	C++	ArtemSpider	
 100	4587	865548	Python3	Kktus	
 100	4586	1464932	Java	Tiramon	
 100	4554	839879	C#	Washier	
@@ -261,10 +262,9 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1018,time=2021-07-13 01:16:44
 100	4285	4216789	Perl	Saur2000	
 100	4222	969333	C++	JasperV	
 100	4217	2360690	C++	Galrauch	
+100	4211	3647844	C++	rc95401	
 100	4210	1485015	C++	Murky	
 100	4205	1568785	C	Chalzy	
-100	4205	3647844	C++	rc95401	
-100	4205	2368190	C++	ArtemSpider	
 100	4183	3340884	Python3	sd001034	
 100	4176	1740037	Scala	ereiam	
 100	4172	2644587	Ruby	Fl4sh	
@@ -504,6 +504,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1018,time=2021-07-13 01:16:44
 100	2076	4193153	Python3	pabx06	
 100	2076	4277867	Python3	About	
 100	2067	3406987	Python3	Radu_Sav	
+100	2048	2660470	Java	Perdur	
 100	2046	1505665	Python3	NicolasGrosjean	
 100	2040	2858320	C++	Loule	
 100	2027	1017817	C#	Becha	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1018,time=2021-07-13 01:16:44
 100	580	1675720	Javascript	AxFab	
 100	554	3847872	Python3	psychedelic68	
 100	521	1458246	Ruby	Httpsx	
-100	520	1960325	Javascript	Bladx	

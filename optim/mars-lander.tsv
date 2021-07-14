@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=4386,time=2021-07-13 01:16:43
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=4386,time=2021-07-14 01:08:11
 100	2509	1327028	C++	FredericBautista	
 100	2507	154372	Bash	Plopx	
 100	2504	1249786	C#	Fededevi	
@@ -234,6 +234,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4386,time=2021-07-13 01:16:43
 100	2210	2165183	C	craig_macmuffin	
 100	2209	1347608	Javascript	Darkoneko	
 100	2207	4159245	Lua	Karhuttaja	
+100	2207	3390309	C++	VincentBaijot	
 100	2206	1059313	C++	_SERGE_	
 100	2204	3857586	Python3	nGragas	
 100	2204	329200	C++	BlitzProg	
@@ -349,7 +350,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4386,time=2021-07-13 01:16:43
 100	2089	2376044	C++	NecroSchmurf_IV	
 100	2089	1702558	C#	MCube	
 100	2088	420035	Pascal	bvs23bkv33	
-100	2088	3390309	C++	VincentBaijot	
 100	2087	1368530	C#	Hassenplug	
 100	2086	3371555	C++	JoshuaH	
 100	2084	956638	Python3	Pi-Geometry	
@@ -882,6 +882,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4386,time=2021-07-13 01:16:43
 100	1832	891648	C	boechiel	
 100	1831	1696998	Python3	schmy	
 100	1831	4046903	C#	Matt_Eagle	
+100	1831	4283515	PHP	FrancoisBaveye	
 100	1830	1137571	C#	APPA_Programming	
 100	1830	224533	C#	SnowTox	
 100	1830	1374531	Java	tchitch	
@@ -944,7 +945,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4386,time=2021-07-13 01:16:43
 100	1809	776401	C#	mshogren	
 100	1809	2766041	Python3	PVR	
 100	1808	1064724	Rust	Mamamatchi	
-100	1808	4283515	PHP	FrancoisBaveye	
 100	1806	1107630	Go	dbenque	
 100	1805	1288975	C#	Lamihck	
 100	1804	996271	Java	labete	

@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4785,time=2021-07-13 00:30:06
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4787,time=2021-07-14 00:30:06
 0	47.11	1433161	1484525	C	mingu1.kang	
 0	45.71	494104	455215	C++	Recar	
 0	45.57	990110	357643	C++	Rogerup	
@@ -104,8 +104,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4785,time=2021-07-13 00:30:
 0	39.41	1052271	362037	C#	Bleash	
 0	39.4	844547	340421	Java	Superthib	
 0	39.31	841085	339404	C#	Risen	
+0	39.29	806823	356569	C	Zer0	
 0	39.27	1043582	342625	C	Nikos	
-0	39.23	806823	356569	C	Zer0	
 0	39.18	834728	352887	Java	ki-ki33	
 0	38.87	1402717	508957	Javascript	jakub	
 0	38.86	1857772	1574293	C++	darkange69	
@@ -173,7 +173,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4785,time=2021-07-13 00:30:
 0	37.84	241181	347322	PHP	BratOK	
 0	37.84	311423	339458	Javascript	kirzyka	
 0	37.84	1300254	885191	C++	Escdemon	
-0	37.82	912651	339142	Python	0006-lVH	
 0	37.82	371603	352311	C++	martin	
 0	37.81	598416	356135	Java	alexandr9519	
 0	37.79	1095288	364431	Python	Vilo	
@@ -182,6 +181,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4785,time=2021-07-13 00:30:
 0	37.78	170619	355334	ObjectiveC	laevand	
 0	37.76	1070856	345143	Java	D-MoNs	
 0	37.76	825460	349230	Lua	antoyo	
+0	37.75	912651	339142	Python	0006-lVH	
 0	37.74	1399852	456793	C++	Thaell	
 0	37.73	2906497	2468509	C++	daaskare	
 0	37.73	207714	339810	Scala	TrueLaurel	
@@ -542,7 +542,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4785,time=2021-07-13 00:30:
 0	33.67	1058272	346773	PHP	Nazalas	
 0	33.65	1583240	768152	Java	SamuelPoulin	
 0	33.64	231556	347492	Python3	BlackDragoon86	
-0	33.63	877003	350476	C++	PauloCezar	
+0	33.62	877003	350476	C++	PauloCezar	
 0	33.62	925695	2128517	OCaml	Boulet	
 0	33.61	941843	356067	Java	S4M37	
 0	33.6	1070718	354099	Java	Sims.	
@@ -992,10 +992,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4785,time=2021-07-13 00:30:
 0	29.77	962569	416895	Python3	[K]Gabor	
 0	29.76	577069	344291	Clojure	tvb999	
 0	29.76	716006	357353	Groovy	bgd54	
+0	29.74	814356	341152	C#	gaps	
 0	29.73	765559	355679	Javascript	Shelby	
 0	29.72	849746	3446940	Python3	lmj	
 0	29.71	1378648	416735	C++	AKA_Steve	
 0	29.71	1310837	382267	Javascript	Bylbok	
 0	29.71	774979	347274	Ruby	Jakski	
 0	29.7	1005933	348219	Java	Aiguill3	
-0	29.7	955253	350724	Javascript	jackbarrett	
