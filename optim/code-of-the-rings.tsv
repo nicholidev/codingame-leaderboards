@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5271,time=2021-07-15 00:30:22
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5275,time=2021-07-16 00:49:32
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -248,6 +248,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5271,time=2021-07-15 00:30:22
 100	4108	2762523	C++	CM42	
 100	4108	3997565	C++	DanieliuS	
 100	4108	1179950	C++	Patorikkuyatta	
+100	4108	1390607	C++	Ivan_Derzhylo	
 100	4111	739475	Pascal	HeliX666	
 100	4124	931502	Python3	TonyDu	
 100	4125	1793238	Javascript	Thats_nick	
@@ -371,12 +372,12 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5271,time=2021-07-15 00:30:22
 100	4599	4290907	C++	janm31415	
 100	4603	4268887	Ruby	XeroOl	
 100	4604	3999478	C#	FuriousT	
+100	4604	4053362	C#	Johan_Braanen	
 100	4609	865548	Python3	Kktus	
 100	4612	155887	Javascript	BanBan	
 100	4615	1072200	C	alze	
 100	4617	943556	C++	DollarAkshay	
 100	4617	973948	C++	Amnesix	
-100	4617	1390607	C++	Ivan_Derzhylo	
 100	4617	1170641	C++	ioncodes	
 100	4617	2007130	C++	Darkyel	
 100	4617	2094925	C++	_echo	
@@ -536,7 +537,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5271,time=2021-07-15 00:30:22
 100	5522	526070	C++	urusant	
 100	5522	2376044	C++	NecroSchmurf_IV	
 100	5525	2784019	Java	cryptoroot	
-100	5525	4053362	C#	Johan_Braanen	
 100	5527	195088	C++	Jopie64	
 100	5527	1256312	C#	Djoums	
 100	5554	3342823	Javascript	Jacki	
@@ -756,7 +756,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5271,time=2021-07-15 00:30:22
 100	5848	348552	Javascript	Paradox	
 100	5848	870035	Java	nefobu	
 100	5848	2567535	C	yanyan	
-100	5849	2169173	Python3	ergzqjdrgdrbsb	
+100	5849	2169173	Python3	Watashiku2	
 100	5849	4166555	Ruby	Natanalel	
 100	5849	2325540	Scala	ifossz	
 100	5850	934381	C++	PolyB	

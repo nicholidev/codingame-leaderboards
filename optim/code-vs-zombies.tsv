@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=10498,time=2021-07-15 00:30:23
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=10508,time=2021-07-16 00:49:33
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
 100	1265020	1327028	C++	FredericBautista	
@@ -62,6 +62,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10498,time=2021-07-15 00:30:23
 100	358130	2242201	C++	Maryan	
 100	355820	3410351	C	Deltaspace	
 100	354460	4065227	C++	Pamplemus	
+100	354420	1390607	C	Ivan_Derzhylo	
 100	354120	1479930	C++	LeRenard	
 100	353640	1489865	C++	EricSMSO	
 100	353450	2924895	C	trictrac	
@@ -128,7 +129,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10498,time=2021-07-15 00:30:23
 100	245640	854952	Java	dolmen1234	
 100	245600	1481544	C++	ZarthaxX	
 100	245490	893541	Java	wala	
-100	245340	4187405	C	docdilo	
+100	245340	4187405	C	1cogniTAU	
 100	243250	3344383	C++	Czejoo	
 100	243100	888898	C++	helgui	
 100	242510	1194057	C++	Altivar	
@@ -482,6 +483,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10498,time=2021-07-15 00:30:23
 100	110050	225875	C#	leff	
 100	109610	959402	C#	gmessier	
 100	109470	884069	Java	punxxy	
+100	109250	1396611	Python3	YellowTurn	
 100	109030	806823	C	Zer0	
 100	109000	3691992	C++	friska	
 100	108920	2719604	Python3	vpoulailleau	
@@ -577,6 +579,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10498,time=2021-07-15 00:30:23
 100	81210	2452543	Javascript	Maznek	
 100	80760	2952826	Java	TarnishedKnight	
 100	80750	3489223	Javascript	KarloHubai	
+100	80300	4103762	C++	MallePietje	
 100	79910	3700723	C#	Maridel_Daicher	
 100	79860	3630308	Python3	Ragest	
 100	79800	1036441	Python3	CastorAF	
@@ -996,6 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10498,time=2021-07-15 00:30:23
 100	63570	1050014	Scala	OlegSolver	
 100	63550	4087505	Python3	vidak	
 100	63540	3586167	C++	rocky_H	
-100	63540	1050801	Javascript	Alopex	
-100	63520	1687648	Python3	Pompom2	
-100	63500	4301754	C++	Elrollo	

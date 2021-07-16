@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1019,time=2021-07-15 00:30:24
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1021,time=2021-07-16 00:49:33
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
 100	11774	351062	C++	Neumann	
@@ -202,6 +202,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1019,time=2021-07-15 00:30:24
 100	5603	2769647	Java	RiffShark	
 100	5600	475134	Python3	AgathokakologicalBit	
 100	5573	1209562	C++	Jiway	
+100	5552	2368190	C++	ArtemSpider	
 100	5456	225875	C#	leff	
 100	5434	3742936	Python3	David26	
 100	5421	3780587	C#	PortalBot	
@@ -221,7 +222,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1019,time=2021-07-15 00:30:24
 100	5302	2837654	Go	R2B2	
 100	5299	154806	C++	piwai	
 100	5292	1931824	Java	Litops	
-100	5286	2368190	C++	ArtemSpider	
 100	5247	371603	Ruby	martin	
 100	5233	3408865	C++	redimer	
 100	5204	1970506	Python3	Taldor	
@@ -246,6 +246,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1019,time=2021-07-15 00:30:24
 100	4683	2155687	Kotlin	NilsTheWizzard	
 100	4667	1415498	C++	Kirich	
 100	4663	2470677	C++	Goujon	
+100	4588	3647844	C++	rc95401	
 100	4587	865548	Python3	Kktus	
 100	4586	1464932	Java	Tiramon	
 100	4554	839879	C#	Washier	
@@ -260,7 +261,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1019,time=2021-07-15 00:30:24
 100	4326	1584802	C++	emh	
 100	4305	952784	Java	[CG]Simon	
 100	4285	4216789	Perl	Saur2000	
-100	4265	3647844	C++	rc95401	
 100	4222	969333	C++	JasperV	
 100	4217	2360690	C++	Galrauch	
 100	4210	1485015	C++	Murky	
@@ -909,6 +909,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1019,time=2021-07-15 00:30:24
 100	1045	4390014	Python3	yfe42	
 100	1045	4273620	Python3	UUolfo	
 100	1045	3769371	Javascript	mokasino	
+100	1045	304126	PHP	kami	
+100	1045	3801079	C#	jokovitch	
 100	1041	1074744	Java	GwenGlSoft	
 100	1039	1129000	Python3	ChairmanOfTheBored	
 100	1031	2607465	Java	valmowa	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1019,time=2021-07-15 00:30:24
 100	587	4252924	Java	mike82	
 100	584	1427970	Go	Garadox	
 100	580	1675720	Javascript	AxFab	
-100	554	3847872	Python3	psychedelic68	
-100	521	1458246	Ruby	Httpsx	
