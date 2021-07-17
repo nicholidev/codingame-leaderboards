@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=464,time=2021-07-16 00:49:34
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=464,time=2021-07-17 00:30:28
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -15,9 +15,9 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=464,time=2021-07-16 00:49:34
 100	10798.61	1566335	Java	BeardedWhale	
 100	10894.180000000002	2923506	C++	darkhorse64	
 100	10935.47	735910	C++	Agade	
+100	10938.65	3235897	Java	Zylo	
 100	10985.34	2311105	C++	kovi	
 100	11047.379999999992	893541	Java	wala	
-100	11066.079999999996	3235897	Java	Zylo	
 100	11066.54	1106450	C++	RiSuS	
 100	11070.630000000005	1314316	C++	jolindien	
 100	11103.09	3513265	C++	DaNinja	
@@ -55,8 +55,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=464,time=2021-07-16 00:49:34
 100	12032.799999999996	2980709	C++	ninnghazad	
 100	12036.180000000008	1306289	C++	Jasperr	
 100	12063.859999999995	1768304	Python3	Manu306	
+100	12122.58	4294044	C++	simsimlafamille	
 100	12143.14	4154326	Python3	montplusa	
-100	12188.88	4294044	C++	simsimlafamille	
 100	12208.77	736075	C++	Xyze	
 100	12216.88	2976356	Python3	magmasa	
 100	12253.14	1767183	C#	MelnikovIgor	

@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1021,time=2021-07-16 00:49:33
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1022,time=2021-07-17 00:30:27
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
 100	11774	351062	C++	Neumann	
@@ -162,6 +162,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1021,time=2021-07-16 00:49:33
 100	6633	1152991	C#	xoposhiy	
 100	6631	2838943	Python3	zapakh	
 100	6610	155896	PHP	gamoul	
+100	6539	2368190	C++	ArtemSpider	
 100	6495	440476	C++	yowa	
 100	6477	1071140	C#	BeberLeNewbie	
 100	6384	1284747	C++	mr-push	
@@ -202,7 +203,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1021,time=2021-07-16 00:49:33
 100	5603	2769647	Java	RiffShark	
 100	5600	475134	Python3	AgathokakologicalBit	
 100	5573	1209562	C++	Jiway	
-100	5552	2368190	C++	ArtemSpider	
 100	5456	225875	C#	leff	
 100	5434	3742936	Python3	David26	
 100	5421	3780587	C#	PortalBot	
@@ -441,6 +441,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1021,time=2021-07-16 00:49:33
 100	2488	1412014	Python3	P-Yves	
 100	2486	3532237	Python3	Bubaptik	
 100	2480	1514534	Java	louis78700	
+100	2480	3801079	C#	jokovitch	
 100	2478	1052630	Lua	_	
 100	2470	3381410	Python3	laurent33	
 100	2470	4034494	Rust	GTaf	
@@ -910,7 +911,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1021,time=2021-07-16 00:49:33
 100	1045	4273620	Python3	UUolfo	
 100	1045	3769371	Javascript	mokasino	
 100	1045	304126	PHP	kami	
-100	1045	3801079	C#	jokovitch	
+100	1045	3239788	C#	Dyanek	
 100	1041	1074744	Java	GwenGlSoft	
 100	1039	1129000	Python3	ChairmanOfTheBored	
 100	1031	2607465	Java	valmowa	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1021,time=2021-07-16 00:49:33
 100	888	3648050	PHP	CocoCouq	
 100	587	4252924	Java	mike82	
 100	584	1427970	Go	Garadox	
-100	580	1675720	Javascript	AxFab	
