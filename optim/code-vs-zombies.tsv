@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=10518,time=2021-07-17 00:30:26
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=10520,time=2021-07-18 00:47:48
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
 100	1265020	1327028	C++	FredericBautista	
@@ -217,6 +217,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10518,time=2021-07-17 00:30:26
 100	212770	154935	Scala	yamo	
 100	212000	1754295	C++	SF	
 100	211860	4101514	Javascript	Pips42	
+100	210780	1077506	Go	gs2	
 100	210270	4338330	C#	0Ph	
 100	210130	952796	C#	CodingTurtle	
 100	209700	1341520	C	egaetan	
@@ -627,6 +628,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10518,time=2021-07-17 00:30:26
 100	73680	264258	Python3	MrFlibble	
 100	73590	1287344	Python3	Alshock	
 100	73530	2589340	C++	Zource	
+100	73500	4413827	Python3	bowaka	
 100	73360	1521843	C#	Doug	
 100	73110	2711018	Java	Fabs	
 100	73090	2526322	C	fhemsworth	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10518,time=2021-07-17 00:30:26
 100	63590	3354337	C++	Westicles	
 100	63590	4003459	Python3	Mohbyus	
 100	63590	2911075	Javascript	ArlandWilliams	
-100	63590	4201400	Java	nqson	
-100	63570	1050014	Scala	OlegSolver	

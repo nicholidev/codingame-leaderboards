@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1022,time=2021-07-17 00:30:27
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1022,time=2021-07-18 00:47:49
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
 100	11774	351062	C++	Neumann	
@@ -154,6 +154,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1022,time=2021-07-17 00:30:27
 100	7189	1206537	C++	MadKnight	
 100	7106	1193679	C++	Icebox	
 100	7089	2490008	C++	ebicochineal	
+100	7019	2368190	C++	ArtemSpider	
 100	6954	1893989	Python3	Rosstherock	
 100	6909	2521394	Kotlin	FrankR	
 100	6791	2018552	C++	gurualo	
@@ -162,7 +163,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1022,time=2021-07-17 00:30:27
 100	6633	1152991	C#	xoposhiy	
 100	6631	2838943	Python3	zapakh	
 100	6610	155896	PHP	gamoul	
-100	6539	2368190	C++	ArtemSpider	
 100	6495	440476	C++	yowa	
 100	6477	1071140	C#	BeberLeNewbie	
 100	6384	1284747	C++	mr-push	
