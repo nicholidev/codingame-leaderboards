@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=10524,time=2021-07-19 00:32:05
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=10527,time=2021-07-20 00:37:14
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
 100	1265020	1327028	C++	FredericBautista	
@@ -14,6 +14,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10524,time=2021-07-19 00:32:05
 100	721100	1629259	C++	Marchete	
 100	705070	805067	Javascript	Magus	
 100	701040	2419544	Java	Intergalactic_space_lord	
+100	690960	2077805	C++	bamilan	
 100	682520	2522090	C#	MSmits	
 100	672970	2968035	C++	DomiKo	
 100	665770	2316796	PHP	Psio	
@@ -24,7 +25,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10524,time=2021-07-19 00:32:05
 100	624280	820000	C++	ValGrowth	
 100	611130	837350	C++	BorisZ	
 100	543500	1273065	C++	TheRadical	
-100	516550	2077805	C++	bamilan	
 100	505510	1549145	C++	Mealc	
 100	486090	2436448	Java	FrancoisMeme	
 100	481750	4017851	C	Pintago	
@@ -144,6 +144,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10524,time=2021-07-19 00:32:05
 100	238100	2579384	Rust	vlad107	
 100	237350	4040124	C	Bycop	
 100	236860	1186292	Rust	GLE	
+100	235120	4370749	C#	cdilo	
 100	235020	2006324	C	SihardeOussama	
 100	234820	976712	C++	Ridakz	
 100	234560	1831684	Java	dbf	
@@ -194,7 +195,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10524,time=2021-07-19 00:32:05
 100	218730	3235897	Java	Zylo	
 100	218090	1483648	C	DhakalKumar	
 100	217240	3774604	C	PerfectOr	
-100	217020	4370749	C#	cdilo	
 100	217000	1173064	C#	a.oryol	
 100	216830	860404	C++	Vitruvius	
 100	216780	3903970	C	Avatar_Wan	
@@ -380,13 +380,14 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10524,time=2021-07-19 00:32:05
 100	157560	1853956	PHP	yoannk	
 100	157270	2364277	C#	Rubms	
 100	157250	1896128	Python3	Vhanire	
+100	156870	4370748	Python3	Raphiking	
 100	156030	1162034	C#	krakeusz	
+100	155950	4437214	C++		
 100	155050	1588583	Python3	dANNs	
 100	154980	414278	Java	oobException	
 100	154470	1551921	C++	konanTheBarbar	
 100	153110	2361019	Python3	kleisauke	
 100	151360	1131528	C	Owl	
-100	151350	4370748	Python3	Raphiking	
 100	150900	1584802	Python3	emh	
 100	150570	1716299	C++	micky924	
 100	150400	563069	Python3	Darkris	
@@ -724,6 +725,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10524,time=2021-07-19 00:32:05
 100	65130	844547	Java	Superthib	
 100	65120	365796	Javascript	CvxFous	
 100	65090	1811179	Java	Tetarus	
+100	65070	814992	Python3	Leogout	
 100	65050	1544445	C#	DoctorJinxey	
 100	65030	3018110	Python3	MechLizardThing	
 100	65010	1234947	Javascript	kuro	
@@ -933,7 +935,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10524,time=2021-07-19 00:32:05
 100	64230	2019949	Java	alexturtle	
 100	64230	4323176	Python3	ArseniyFokin	
 100	64230	3996288	C#	Shadnow	
-100	64230	814992	Python3	Leogout	
+100	64230	2573325	Java	DieuChose	
 100	64220	1029602	C	Potemkine	
 100	64220	4111740	C++	xumarcus	
 100	64190	634747	C#	akhansari	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10524,time=2021-07-19 00:32:05
 100	63590	1427078	Javascript	ToshiTuringMachine	
 100	63590	3730057	Python3	Maxtreme	
 100	63590	363429	Python3	ATHANOR	
-100	63590	3354337	C++	Westicles	
-100	63590	4003459	Python3	Mohbyus	
