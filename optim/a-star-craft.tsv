@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1023,time=2021-07-20 00:37:15
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1025,time=2021-07-21 00:38:39
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
 100	11774	351062	C++	Neumann	
@@ -211,6 +211,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1023,time=2021-07-20 00:37:15
 100	5395	3707873	C#	Philbot	
 100	5394	2000899	C#	GeoBlack	
 100	5380	2317747	Haskell	ElPsyCongroo2011	
+100	5371	956529	C++	Moduus	
 100	5370	765200	C#	FrancoisB	
 100	5359	1728288	C#	MOLP	
 100	5354	3677175	Rust	ToadLump	
@@ -577,6 +578,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1023,time=2021-07-20 00:37:15
 100	1479	4106688	PHP	LovePou	
 100	1477	1466631	Python3	Akrib	
 100	1463	2841249	Python3	MathysCouvreur	
+100	1455	987977	Rust	Dimtion	
 100	1451	4061750	Kotlin	dStulle	
 100	1446	4372857	C++	Sirios	
 100	1431	3494301	Python3	CoreyCV	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1023,time=2021-07-20 00:37:15
 100	939	825111	C++	visaga	
 100	939	1703856	C#	ElPolloLoco	
 100	926	4403461	Java	Chiara5576	
-100	888	3648050	PHP	CocoCouq	
-100	587	4252924	Java	mike82	

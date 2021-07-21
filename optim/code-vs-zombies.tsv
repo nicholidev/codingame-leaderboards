@@ -1,9 +1,10 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=10527,time=2021-07-20 00:37:14
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=10538,time=2021-07-21 00:38:39
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
 100	1265020	1327028	C++	FredericBautista	
 100	1136220	1323814	C	Wildcat-SC	
 100	1120220	154984	C++	_Royale	
+100	849520	2077805	C++	bamilan	
 100	805540	1530051	C++	UlYoP	
 100	794210	1540478	Lua	struct	
 100	777810	806157	C++	Aveuh	
@@ -14,7 +15,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10527,time=2021-07-20 00:37:14
 100	721100	1629259	C++	Marchete	
 100	705070	805067	Javascript	Magus	
 100	701040	2419544	Java	Intergalactic_space_lord	
-100	690960	2077805	C++	bamilan	
 100	682520	2522090	C#	MSmits	
 100	672970	2968035	C++	DomiKo	
 100	665770	2316796	PHP	Psio	
@@ -142,9 +142,9 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10527,time=2021-07-20 00:37:14
 100	239630	2007852	Go	Zorg1	
 100	239160	2232811	Javascript	nargile	
 100	238100	2579384	Rust	vlad107	
+100	237840	4370749	C#	cdilo	
 100	237350	4040124	C	Bycop	
 100	236860	1186292	Rust	GLE	
-100	235120	4370749	C#	cdilo	
 100	235020	2006324	C	SihardeOussama	
 100	234820	976712	C++	Ridakz	
 100	234560	1831684	Java	dbf	
@@ -300,6 +300,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10527,time=2021-07-20 00:37:14
 100	185620	2212283	C++	ElieK	
 100	185160	3836429	Python3	Hippolyte	
 100	185110	1122412	Java	TheNinja	
+100	183740	4370748	C++	Raphiking	
 100	183690	3941506	C#	Blacksheep	
 100	183080	2592027	C#	ParticleBeam	
 100	183020	1527403	C++	Di_Masta	
@@ -380,7 +381,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10527,time=2021-07-20 00:37:14
 100	157560	1853956	PHP	yoannk	
 100	157270	2364277	C#	Rubms	
 100	157250	1896128	Python3	Vhanire	
-100	156870	4370748	Python3	Raphiking	
 100	156030	1162034	C#	krakeusz	
 100	155950	4437214	C++		
 100	155050	1588583	Python3	dANNs	
@@ -535,6 +535,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10527,time=2021-07-20 00:37:14
 100	93690	2211649	C++	MdAsadRub	
 100	92730	1693448	Python3	KoenduBuf	
 100	92600	530441	C++	Prime541	
+100	92280	814992	Python3	Leogout	
 100	92090	3774010	Python3	Presac	
 100	90520	1181685	Lua	dzik	
 100	90510	1186732	Javascript	gkueny	
@@ -725,7 +726,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10527,time=2021-07-20 00:37:14
 100	65130	844547	Java	Superthib	
 100	65120	365796	Javascript	CvxFous	
 100	65090	1811179	Java	Tetarus	
-100	65070	814992	Python3	Leogout	
 100	65050	1544445	C#	DoctorJinxey	
 100	65030	3018110	Python3	MechLizardThing	
 100	65010	1234947	Javascript	kuro	
