@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=10538,time=2021-07-21 00:38:39
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=10547,time=2021-07-22 01:00:07
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
 100	1265020	1327028	C++	FredericBautista	
@@ -107,6 +107,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10538,time=2021-07-21 00:38:39
 100	268880	3938500	C	evanforCodin	
 100	268850	1109979	C++	Gloopy	
 100	268480	889789	C	Alain-Delpuch	
+100	264800	4370749	C#	cdilo	
 100	258950	3903847	C#	UnicornP	
 100	256370	2315158	Java	luigi_gelato	
 100	254420	1140756	C++	BarbsMan	
@@ -142,7 +143,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10538,time=2021-07-21 00:38:39
 100	239630	2007852	Go	Zorg1	
 100	239160	2232811	Javascript	nargile	
 100	238100	2579384	Rust	vlad107	
-100	237840	4370749	C#	cdilo	
 100	237350	4040124	C	Bycop	
 100	236860	1186292	Rust	GLE	
 100	235020	2006324	C	SihardeOussama	
@@ -309,6 +309,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10538,time=2021-07-21 00:38:39
 100	182170	1830993	C#	jpcheck	
 100	181900	1768916	C++	BananSenior	
 100	181840	1712255	Go	Ukster	
+100	181290	814992	Python3	Leogout	
 100	180950	1709003	Java	csaurin	
 100	180920	1302700	C#	Tounsi	
 100	180310	4117970	Python3	zhoubou	
@@ -535,7 +536,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10538,time=2021-07-21 00:38:39
 100	93690	2211649	C++	MdAsadRub	
 100	92730	1693448	Python3	KoenduBuf	
 100	92600	530441	C++	Prime541	
-100	92280	814992	Python3	Leogout	
 100	92090	3774010	Python3	Presac	
 100	90520	1181685	Lua	dzik	
 100	90510	1186732	Javascript	gkueny	
@@ -903,6 +903,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10538,time=2021-07-21 00:38:39
 100	64260	3990631	Python3	Orionewton	
 100	64260	4286679	C++	fungi_star	
 100	64260	4422682	Python3		
+100	64260	3667576	C++	Scondi	
 100	64250	2858320	C++	Loule	
 100	64240	4299607	Python3	TennyKs	
 100	64230	155928	PHP	pk	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10538,time=2021-07-21 00:38:39
 100	63590	3636972	Javascript	After	
 100	63590	1427078	Javascript	ToshiTuringMachine	
 100	63590	3730057	Python3	Maxtreme	
-100	63590	363429	Python3	ATHANOR	
