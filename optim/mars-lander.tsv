@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=4406,time=2021-07-22 01:00:06
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=4408,time=2021-07-23 01:10:30
 100	2509	1327028	C++	FredericBautista	
 100	2507	154372	Bash	Plopx	
 100	2504	1249786	C#	Fededevi	
@@ -375,6 +375,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4406,time=2021-07-22 01:00:06
 100	2073	936078	C++	foolproof	
 100	2072	2889769	C++	GauravNanda	
 100	2069	3393535	C++	LuckyJ.	
+100	2068	860404	C++	Vitruvius	
 100	2066	4233427	Java	Hasuzawa	
 100	2063	3657937	Python3	elderlybeginner	
 100	2062	1273475	C	Charles-Elie.Taupin	
@@ -720,6 +721,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4406,time=2021-07-22 01:00:06
 100	1906	1207939	Python3	Vultrao	
 100	1906	1714338	PHP	cobase2010	
 100	1906	3137636	C++	CheeHong	
+100	1906	4438243	Javascript	OverCoded	
 100	1905	913178	Java	JayJays	
 100	1905	1368852	Rust	raysplaceinspace	
 100	1904	970151	C#	negstek	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4406,time=2021-07-22 01:00:06
 100	1788	837436	Go	aropan	
 100	1788	668906	Java	Sandworm	
 100	1788	414278	Java	oobException	
-100	1788	1740735	Java	DopplerShift	
-100	1787	916452	C#	js	
