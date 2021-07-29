@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=216,time=2021-07-28 00:41:04
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=217,time=2021-07-29 00:41:49
 100	1675	2288263	Rust	dbdr	
 100	1677	1944090	C#	spaceorc	
 100	1741	1399382	C#	Regulus136	
@@ -88,6 +88,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=216,time=2021-07-28 00:41:04
 3	12	552919	Javascript	Lukas	
 3	12	3421837	Python3	Naindlac	
 3	70	893541	Java	wala	
+3	163	4353077	D	ast191001	
+3	163	4277867	D	About	
 3	2670	2416641	Bash	Zenoscave	
 3	30000	2497890	C#	BlackBird	
 0	0	154906	Haskell	JBM	
@@ -164,7 +166,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=216,time=2021-07-28 00:41:04
 0	420	2673181	PHP	Arckanna	
 0	420	2776033	Javascript	Karamuto	
 0	420	3309182	Java	Coss79	
-0	420	3342602	Java	Valik	
+0	420	3342602	Java	Zatopek	
 0	420	1760921	Go	[Leonardone]-[-_-]-[NEETSDKASU]	
 0	420	3536382	Python3	FranckR34	
 0	420	2325449	Perl	otpv	
@@ -209,7 +211,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=216,time=2021-07-28 00:41:04
 0	3150	3946057	Go	orenishii	
 0	3150	4315171	Java	Soucis	
 0	3150	4334077	C++	Paul_Demanze	
-0	3150	4353077	Python3	ast191001	
 0	6000	1885745	Javascript	CodeSprut	
 0	11200	3059123	Python3	Svarme	
 0	15549	854952	Java	dolmen1234	

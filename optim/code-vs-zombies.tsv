@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=10589,time=2021-07-28 00:41:03
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=10596,time=2021-07-29 00:41:48
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
 100	1265020	1327028	C++	FredericBautista	
@@ -135,6 +135,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10589,time=2021-07-28 00:41:03
 100	243100	888898	C++	helgui	
 100	242510	1194057	C++	Altivar	
 100	242380	820983	Javascript	Funnybobby	
+100	241610	1957077	Rust	domak	
 100	241400	1309948	C++	Runner87	
 100	241150	1449433	C++	Rolf	
 100	241010	331880	Scala	Monstruo	
@@ -270,7 +271,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10589,time=2021-07-28 00:41:03
 100	197150	3446319	C++	Stevo12345	
 100	196780	1808019	Java	Aelexe	
 100	196720	2177599	C++	racezwerg	
-100	196400	1957077	Kotlin	domak	
 100	195930	4039884	C++	mzbear	
 100	195880	1061242	C++	martinpapa69	
 100	195530	922880	C#	Leshka	
@@ -522,6 +522,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10589,time=2021-07-28 00:41:03
 100	99730	3621947	Python3	vrabosh	
 100	99620	2149927	C++	funkyJb	
 100	98260	386721	Javascript	Scareware	
+100	97980	1533780	Python3	ordyh	
 100	97950	2421089	Python3	Smlep	
 100	97910	629371	C#	BALEK	
 100	97760	1272564	C	Raspberry4all	
@@ -681,6 +682,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10589,time=2021-07-28 00:41:03
 100	67340	517890	C++	Altaire	
 100	67300	4418069	Python3	manuelseeger	
 100	67140	1767134	Java	AntonYuriev	
+100	67070	4440520	C#	Azertisbenc	
 100	67020	3520485	C++	DigitalMe	
 100	67010	928022	C#	Yliria	
 100	66960	3855753	Python3	tuan91	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10589,time=2021-07-28 00:41:03
 100	63590	221648	C++	stephenvk	
 100	63590	389175	Java	Folkenn84	
 100	63590	1430243	C++	AlexanderKhodos	
-100	63590	2857121	PHP	JuM	
-100	63590	1698756	C#	Sylions	
