@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=467,time=2021-07-29 00:41:54
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=468,time=2021-07-30 01:02:29
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -75,6 +75,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=467,time=2021-07-29 00:41:54
 100	12604.09	1169499	C++	naab	
 100	12633	1753072	C++	MrOne	
 100	12764.8	1418821	C++	input.txt	
+100	12820.049999999996	3589590	Python3	Edjy	
 100	12896.559999999989	153683	Dart	40R15T3	
 100	12932.500000000004	3765895	Lua	Topinambour	
 100	12942.399999999996	1178276	Java	Jerome_95	

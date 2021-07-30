@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=10596,time=2021-07-29 00:41:48
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=10604,time=2021-07-30 01:02:27
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
 100	1265020	1327028	C++	FredericBautista	
@@ -125,6 +125,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10596,time=2021-07-29 00:41:48
 100	248270	1195031	C++	Nekto	
 100	247770	4029596	C	NaSaPaKri	
 100	247300	3869042	C		
+100	246320	1957077	Rust	domak	
 100	246140	1314796	C#	JBence	
 100	245760	1861258	Rust	Nazdhun	
 100	245640	854952	Java	dolmen1234	
@@ -135,7 +136,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10596,time=2021-07-29 00:41:48
 100	243100	888898	C++	helgui	
 100	242510	1194057	C++	Altivar	
 100	242380	820983	Javascript	Funnybobby	
-100	241610	1957077	Rust	domak	
 100	241400	1309948	C++	Runner87	
 100	241150	1449433	C++	Rolf	
 100	241010	331880	Scala	Monstruo	
@@ -490,7 +490,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10596,time=2021-07-29 00:41:48
 100	110050	225875	C#	leff	
 100	109610	959402	C#	gmessier	
 100	109470	884069	Java	punxxy	
-100	109250	1396611	Python3	YellowTurn	
+100	109250	1396611	Python3	Quentin.mht	
 100	109030	806823	C	Zer0	
 100	109000	3691992	C++	friska	
 100	108920	2719604	Python3	vpoulailleau	
@@ -572,6 +572,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10596,time=2021-07-29 00:41:48
 100	84090	2378225	Python3	okon	
 100	82750	1457162	Python3	JFB	
 100	82740	4058290	Python3	dsdread	
+100	82280	1039456	Go	nikokolas	
 100	82130	4159496	C#	maoru	
 100	82090	2387233	C#	SinOfWrath	
 100	82020	1944726	C++	bourgeof	
@@ -672,6 +673,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10596,time=2021-07-29 00:41:48
 100	68420	3044280	Python3	AminGholizad	
 100	68230	3699369	Java	Pithibou	
 100	68180	1864483	Go	Mistblinde	
+100	68050	4449717	C#	Hawke	
 100	67900	1740037	Scala	ereiam	
 100	67850	257832	C++	BlaiseEbuth	
 100	67780	3387053	Javascript	best-team	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10596,time=2021-07-29 00:41:48
 100	63620	3376962	Swift	Kous92	
 100	63600	1076912	Java	Ruyan	
 100	63590	221648	C++	stephenvk	
-100	63590	389175	Java	Folkenn84	
-100	63590	1430243	C++	AlexanderKhodos	
