@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=10613,time=2021-07-31 00:30:31
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=10622,time=2021-08-01 00:30:29
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
 100	1265020	1327028	C++	FredericBautista	
@@ -206,6 +206,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10613,time=2021-07-31 00:30:31
 100	215360	2515515	C	Bobliu	
 100	215230	3966600	C	leaghe	
 100	215220	1753077	C++	codingWhale	
+100	214980	2595251	Rust	Veterini	
 100	214920	3750700	C++	VulpesCorsac	
 100	214740	3965091	C		
 100	214650	581921	C++	GuyBol	
@@ -534,6 +535,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10613,time=2021-07-31 00:30:31
 100	96180	1894833	Python3	Rimailleur	
 100	95780	1034635	C++	SlyB	
 100	95430	1546222	Javascript	julidon	
+100	95330	1039456	Go	nikokolas	
 100	95230	754792	C++	Ramdeath	
 100	94640	3049211	Haskell	NicknameAlreadyTakenIsTaken	
 100	93690	2212306	C++	asad_nitp	
@@ -573,7 +575,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10613,time=2021-07-31 00:30:31
 100	84090	2378225	Python3	okon	
 100	82750	1457162	Python3	JFB	
 100	82740	4058290	Python3	dsdread	
-100	82280	1039456	Go	nikokolas	
 100	82130	4159496	C#	maoru	
 100	82090	2387233	C#	SinOfWrath	
 100	82020	1944726	C++	bourgeof	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10613,time=2021-07-31 00:30:31
 100	63620	3526028	C++	severrabaen	
 100	63620	3422956	C	Martichou	
 100	63620	3949942	C#	Turbo_Junk	
-100	63620	3376962	Swift	Kous92	
