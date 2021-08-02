@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1028,time=2021-08-01 00:30:30
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1030,time=2021-08-02 01:06:59
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
 100	11774	351062	C++	Neumann	
@@ -288,6 +288,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1028,time=2021-08-01 00:30:30
 100	3882	1824376	Java	Kodle	
 100	3869	3792309	C++	schachmatt	
 100	3841	3376849	Python3	Horrip	
+100	3812	4095799	Python3	circular17	
 100	3805	4001904	Javascript	the_red_hat	
 100	3801	301922	Scala	tyrcho	
 100	3800	1453140	VB.NET	believerboy	
@@ -375,7 +376,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1028,time=2021-08-01 00:30:30
 100	3086	558770	Javascript	lD	
 100	3085	1664044	Javascript	BUG	
 100	3067	334434	Java	Rajh	
-100	3065	4095799	Python3	circular17	
 100	3039	1736419	Java	Odinfr	
 100	3036	2856582	C++	Towelie	
 100	3035	894599	Java	DidierC	
@@ -917,8 +917,10 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1028,time=2021-08-01 00:30:30
 100	1045	3239788	C#	Dyanek	
 100	1045	3842724	C++	[ohirune]zzz	
 100	1045	4446183	Python3		
+100	1045	1533780	C++	ordyh	
 100	1041	1074744	Java	GwenGlSoft	
 100	1039	1129000	Python3	ChairmanOfTheBored	
+100	1033	3306551	Python3	StoneRiverPrg	
 100	1031	2607465	Java	valmowa	
 100	1031	3197410	Java	Zydos	
 100	1031	3362964	Python3	a314	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1028,time=2021-08-01 00:30:30
 100	1002	2637659	C#	Barsy	
 100	991	2709791	Python3	YOMar	
 100	974	1093968	Clojure	milosMATRIXrepic	
-100	965	3223311	Java	fbenfraj	
-100	952	935744	TypeScript	Alcalyn	

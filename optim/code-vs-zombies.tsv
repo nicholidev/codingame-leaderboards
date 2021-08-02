@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=10622,time=2021-08-01 00:30:29
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=10626,time=2021-08-02 01:06:58
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
 100	1265020	1327028	C++	FredericBautista	
@@ -336,6 +336,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10622,time=2021-08-01 00:30:29
 100	173290	826914	C++	Kyrus	
 100	173170	1693210	Python3	Fractal	
 100	172480	1205152	C#	cfoll	
+100	172430	1533780	C++	ordyh	
 100	172420	292106	C++	durmus	
 100	172370	2115491	Go	Haashi	
 100	172060	4055973	Java	Aeschli	
@@ -488,7 +489,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10622,time=2021-08-01 00:30:29
 100	112920	1181768	Javascript	dio_O	
 100	112900	2818736	C++	smurfWTIT	
 100	112670	1442344	PHP	PavelRaskin	
-100	111710	1533780	Python3	ordyh	
 100	111020	3449368	C#	widemouthfrog1	
 100	110050	225875	C#	leff	
 100	109610	959402	C#	gmessier	
@@ -914,6 +914,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10622,time=2021-08-01 00:30:29
 100	64260	4422682	Python3		
 100	64260	3667576	C++	Scondi	
 100	64260	4402812	C++	NicolasAlmerge	
+100	64260	3143948	C++	Divinement_Astucieux	
 100	64250	2858320	C++	Loule	
 100	64240	4299607	Python3	TennyKs	
 100	64230	155928	PHP	pk	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10622,time=2021-08-01 00:30:29
 100	63620	2689595	C++	youknowtherules	
 100	63620	3526028	C++	severrabaen	
 100	63620	3422956	C	Martichou	
-100	63620	3949942	C#	Turbo_Junk	

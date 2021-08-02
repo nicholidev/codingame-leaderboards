@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5314,time=2021-08-01 00:30:29
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5320,time=2021-08-02 01:06:58
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -121,6 +121,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5314,time=2021-08-01 00:30:29
 100	3697	513549	Groovy	y0p	
 100	3703	1295111	C#	Andrii.Bakulin	
 100	3707	4338330	C#	0Ph	
+100	3708	3750700	C++	VulpesCorsac	
 100	3714	3918583	Java	mikmak	
 100	3719	942810	C++	Xtophe	
 100	3725	3564009	Lua	Waffle3z	
@@ -137,6 +138,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5314,time=2021-08-01 00:30:29
 100	3761	954023	Java	Rguiu	
 100	3778	668906	Java	Sandworm	
 100	3781	886483	ObjectiveC	R4N4R4M4	
+100	3781	1186250	C#	Gabbek	
 100	3786	869323	C++	Ferra	
 100	3795	2924895	C	trictrac	
 100	3795	3982709	Rust	lukasjapan	
@@ -453,7 +455,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5314,time=2021-08-01 00:30:29
 100	4975	154967	Python3	trnsnt	
 100	4977	380641	C#	Mercadis	
 100	5001	3235897	Java	Zylo	
-100	5016	3750700	C++	VulpesCorsac	
 100	5052	4154326	Go	montplusa	
 100	5052	4275624	Java	UnknownException	
 100	5055	870653	C#	Argyl	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5314,time=2021-08-01 00:30:29
 100	5887	1597483	C#	Crone	
 100	5887	1074555	C++	Blenderiste09	
 100	5887	3972994	Python3	BrainyPanda	
-100	5887	1530051	Python3	UlYoP	
