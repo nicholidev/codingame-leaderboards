@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1030,time=2021-08-02 01:06:59
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1032,time=2021-08-03 02:08:20
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
 100	11774	351062	C++	Neumann	
@@ -247,7 +247,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1030,time=2021-08-02 01:06:59
 100	4683	2155687	Kotlin	NilsTheWizzard	
 100	4667	1415498	C++	Kirich	
 100	4663	2470677	C++	Goujon	
-100	4588	3647844	C++	rc95401	
+100	4661	3647844	C++	rc95401	
 100	4587	865548	Python3	Kktus	
 100	4586	1464932	Java	Tiramon	
 100	4554	839879	C#	Washier	
@@ -918,6 +918,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1030,time=2021-08-02 01:06:59
 100	1045	3842724	C++	[ohirune]zzz	
 100	1045	4446183	Python3		
 100	1045	1533780	C++	ordyh	
+100	1045	4053362	TypeScript	Johan_Braanen	
+100	1045	4447108	C#	MonkeyFeathers	
 100	1041	1074744	Java	GwenGlSoft	
 100	1039	1129000	Python3	ChairmanOfTheBored	
 100	1033	3306551	Python3	StoneRiverPrg	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1030,time=2021-08-02 01:06:59
 100	1002	4028197	Scala	ArnoldFE	
 100	1002	4315171	Java	Soucis	
 100	1002	2637659	C#	Barsy	
-100	991	2709791	Python3	YOMar	
-100	974	1093968	Clojure	milosMATRIXrepic	
