@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1032,time=2021-08-03 02:08:20
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1033,time=2021-08-04 01:00:16
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
 100	11774	351062	C++	Neumann	
@@ -200,6 +200,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1032,time=2021-08-03 02:08:20
 100	5692	2785892	Python3	levbor	
 100	5684	165671	Python3	cyppan	
 100	5642	1944726	C++	bourgeof	
+100	5613	3647844	C++	rc95401	
 100	5603	2769647	Java	RiffShark	
 100	5600	475134	Python3	AgathokakologicalBit	
 100	5573	1209562	C++	Jiway	
@@ -247,7 +248,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1032,time=2021-08-03 02:08:20
 100	4683	2155687	Kotlin	NilsTheWizzard	
 100	4667	1415498	C++	Kirich	
 100	4663	2470677	C++	Goujon	
-100	4661	3647844	C++	rc95401	
 100	4587	865548	Python3	Kktus	
 100	4586	1464932	Java	Tiramon	
 100	4554	839879	C#	Washier	

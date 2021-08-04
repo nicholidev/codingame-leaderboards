@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=469,time=2021-08-03 02:08:21
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=470,time=2021-08-04 01:00:17
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -14,7 +14,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=469,time=2021-08-03 02:08:21
 100	10754.76	735487	C++	amurushkin	
 100	10785.819999999998	1838549	C++	orangesnowfox	
 100	10798.61	1566335	Java	BeardedWhale	
-100	10894.180000000002	2923506	C++	darkhorse64	
+100	10884.48	2923506	C++	darkhorse64	
 100	10935.47	735910	C++	Agade	
 100	10985.34	2311105	C++	kovi	
 100	11047.379999999992	893541	Java	wala	
@@ -22,6 +22,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=469,time=2021-08-03 02:08:21
 100	11070.630000000005	1314316	C++	jolindien	
 100	11103.09	3513265	C++	DaNinja	
 100	11126.529999999992	3721214	C++	jrke	
+100	11218.49	1500515	C#	eulerscheZahl	
 100	11228.67	4067707	C++	therealbeef	
 100	11230.059999999998	2786666	C++	TetraktysPhi	
 100	11249.94	2924895	C	trictrac	
@@ -104,6 +105,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=469,time=2021-08-03 02:08:21
 100	15362.77	4178870	Go	hanabi1224	
 100	15414.2	3877700	Rust	Bytekeeper	
 100	15476.78	1728288	Python3	MOLP	
+100	15555.069999999994	4053362	C#	Johan_Braanen	
 100	15642.7	3488045	C++	SaverHar	
 100	15780.110000000002	3165536	C#	barbora	
 100	15782.589999999998	3925832	C++	Maxim251	
@@ -467,4 +469,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=469,time=2021-08-03 02:08:21
 0	50000	4059560	C#	wawalf	
 0	50000	4263837	Javascript	StarFlight	
 0	50000	4315171	Java	Soucis	
-0	50000	4053362	Javascript	Johan_Braanen	

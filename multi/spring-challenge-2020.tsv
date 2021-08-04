@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6060,time=2021-08-03 02:08:11
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6061,time=2021-08-04 00:53:57
 5	32.65	3193653	3004019	C++	karliso	
 5	31.27	880353	2975979	C++	zasmu	
 5	31.18	1082988	2982332	C++	Saelyos	
@@ -754,11 +754,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6060,time=2021-08-03 02:08:
 3	24.48	3686275	2978967	C#	udu	
 3	24.48	3051977	2977133	Python3	YongJing	
 3	24.48	2320004	2978210	C#	Arthurique	
+3	24.46	2990918	2979626	TypeScript	Dingodino	
 3	24.43	3812486	3145008	Javascript	gitKad	
 3	24.43	1282856	2979300	Javascript	ErikBrendel	
 3	24.42	3809097	2976669	C++	brsnw250	
 3	24.42	3039012	2978403	Rust	matsu7874	
-3	24.41	2990918	2979626	TypeScript	Dingodino	
 3	24.4	1498442	2979615	TypeScript	NSzx	
 3	24.4	1479552	2977698	TypeScript	Tom1	
 3	24.39	3806286	2977764	Python3	St7	
@@ -823,6 +823,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6060,time=2021-08-03 02:08:
 3	23.51	2729055	2980513	Python3	twray2	
 3	23.5	3468263	2978760	Python3	Flyingkid	
 3	23.49	2341005	2975605	C#	Crispy23	
+3	23.48	3938395	3754079	C++	Quentin18	
 3	23.47	1853578	2976570	C#	Code.ama	
 3	23.46	3727948	2977044	Python3	cheaz910	
 3	23.45	3821637	2976715	C	Ace310K	
@@ -831,7 +832,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6060,time=2021-08-03 02:08:
 3	23.44	1437684	2979624	C#	Maulkin	
 3	23.43	3800764	2976982	C#	QossMean	
 3	23.43	3804005	2977797	Java	GlitchyByte	
-3	23.42	3938395	3754079	C++	Quentin18	
 3	23.42	815488	3455002	Java	Seti	
 3	23.39	1671658	2976535	C++	Kirbiby	
 3	23.37	1539215	2979634	C#	the-JJ	
@@ -879,7 +879,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6060,time=2021-08-03 02:08:
 3	23.04	1687809	2995372	Java	egoprince	
 3	23.01	2297753	2979684	Python3	Warly7692	
 3	22.98	227869	2978054	C++	CarniBlood	
-3	22.97	2453008	3016804	Python3	Crypticsy	
 3	22.97	2675308	2977204	Javascript	vkochev	
 3	22.97	3502478	2977759	Kotlin	tachan	
 3	22.96	3586448	2980036	Python3	LeoT	
@@ -891,15 +890,16 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6060,time=2021-08-03 02:08:
 3	22.9	2434893	2979511	Javascript	cdurbin	
 3	22.89	3478926	3123865	C	Leptit_A.D	
 3	22.88	2222363	2975924	Java	Clara_AK	
+3	22.88	2453008	3016804	Python3	Crypticsy	
 3	22.86	3765905	2979695	Python3	edramire	
 3	22.85	1894833	3024587	Python3	Rimailleur	
 3	22.85	2458172	2978312	C++	CaptainHamburger	
 3	22.85	3782047	2979552	Python3	Oetzus	
 3	22.84	3745995	2978274	Python3	MicGor	
 3	22.82	334009	2977313	PHP	abouvier	
+3	22.82	1539245	2979830	Java	Riduidel	
 3	22.82	3744758	2980378	Python3	Mateuszrze	
 3	22.81	1807733	2976181	Python3	NoZ-	
-3	22.8	1539245	2979830	Java	Riduidel	
 3	22.79	3160781	3468121	Java	Aenerion35	
 3	22.78	3380514	2976519	Java	DFrese	
 3	22.73	3772630	2979846	Go	BattleRattle	
@@ -971,6 +971,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6060,time=2021-08-03 02:08:
 3	21.75	2014685	2980024	Java	Colossus	
 3	21.75	3755775	2978159	Java	EmeryCSquared	
 3	21.75	1443538	2978237	Java	Gevater_Tod4711	
+3	21.74	2313474	2987655	Java	EmmanuelPires	
 3	21.74	2154217	2979149	Java	EliasCanalesNieto	
 3	21.73	1105439	2976632	C++	Edrevan	
 3	21.73	3501475	2979491	Python3	Over9000	
@@ -982,7 +983,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6060,time=2021-08-03 02:08:
 3	21.7	831130	2978328	Java	Koji	
 3	21.7	846553	2975603	C++	Aleks	
 3	21.7	1410353	3381357	Rust	SwagColoredKitteh	
-3	21.7	2313474	2987655	Java	EmmanuelPires	
 3	21.69	1306541	2978844	C++	Steuh	
 3	21.68	3274049	2976607	Python3	Tarleya	
 3	21.68	2302190	2977352	Python3	Skrakout	
@@ -993,9 +993,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6060,time=2021-08-03 02:08:
 3	21.66	1740037	2978774	Scala	ereiam	
 3	21.64	3509558	2976265	C#	Taikha	
 3	21.64	3785975	2977367	C++	Agusanso	
+3	21.63	2470801	2977533	Java	asirbu	
 3	21.63	3691366	2977259	Java	V90	
 3	21.63	3341311	2979027	Javascript	Amelieth	
 3	21.63	3813160	2976065	Python3	h25	
 3	21.62	1785098	2980243	C++	E_pur_si_muove	
 3	21.62	3647844	3451270	Python3	rc95401	
-3	21.62	2112007	2978055	Javascript	KRAKEN	
