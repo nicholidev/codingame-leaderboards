@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=470,time=2021-08-04 01:00:17
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=470,time=2021-08-05 00:31:48
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -21,8 +21,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=470,time=2021-08-04 01:00:17
 100	11066.54	1106450	C++	RiSuS	
 100	11070.630000000005	1314316	C++	jolindien	
 100	11103.09	3513265	C++	DaNinja	
-100	11126.529999999992	3721214	C++	jrke	
-100	11218.49	1500515	C#	eulerscheZahl	
+100	11113.44	3721214	C++	jrke	
+100	11182.39	1500515	C#	eulerscheZahl	
 100	11228.67	4067707	C++	therealbeef	
 100	11230.059999999998	2786666	C++	TetraktysPhi	
 100	11249.94	2924895	C	trictrac	
@@ -193,6 +193,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=470,time=2021-08-04 01:00:17
 100	20730.87	4033445	Javascript	netto________	
 100	20771.599999999995	3764160	Python3	A_K	
 100	20842.53000000001	2532837	Ruby	fauresebast	
+100	20846.82	4081047	Javascript	Rezhay	
 100	20848.64	3473592	Python3	VoidWizard	
 100	20860.240000000005	2238839	Java	PhilippeBarrielle	
 100	20912.91	951676	Python3	ApfelPresse	
@@ -400,7 +401,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=470,time=2021-08-04 01:00:17
 76	30596.66	709490	Python3	Sinlepuissant	
 74	30385.05999999999	2807089	Python3	Astr0s	
 74	30660.91	3141948	Python3	philRG	
-74	30660.910000000003	4081047	Python3	Rezhay	
 74	30660.910000000007	3783962	C++	Mohsen1365ir	
 74	30660.910000000007	154806	Python3	piwai	
 74	31357.76	2464160	Ruby	Taeth	

@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1033,time=2021-08-04 01:00:16
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1034,time=2021-08-05 00:31:47
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
 100	11774	351062	C++	Neumann	
@@ -180,6 +180,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1033,time=2021-08-04 01:00:16
 100	6093	3996809	C++	VizGhar	
 100	6071	903416	Scala	matlesudiste	
 100	6064	1518504	Kotlin	bohuss	
+100	6059	3647844	C++	rc95401	
 100	6025	198916	Java	WhatTrickeryIsThis	
 100	5990	1519989	Python3	a5kin	
 100	5976	1572888	Python3	DirtyHarry	
@@ -200,7 +201,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1033,time=2021-08-04 01:00:16
 100	5692	2785892	Python3	levbor	
 100	5684	165671	Python3	cyppan	
 100	5642	1944726	C++	bourgeof	
-100	5613	3647844	C++	rc95401	
 100	5603	2769647	Java	RiffShark	
 100	5600	475134	Python3	AgathokakologicalBit	
 100	5573	1209562	C++	Jiway	
@@ -212,6 +212,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1033,time=2021-08-04 01:00:16
 100	5395	3707873	C#	Philbot	
 100	5394	2000899	C#	GeoBlack	
 100	5380	2317747	Haskell	ElPsyCongroo2011	
+100	5374	4053362	C#	Johan_Braanen	
 100	5371	956529	C++	Moduus	
 100	5370	765200	C#	FrancoisB	
 100	5359	1728288	C#	MOLP	
@@ -274,6 +275,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1033,time=2021-08-04 01:00:16
 100	4135	1460836	Java	ImanolSaga	
 100	4132	962569	Python3	[K]Gabor	
 100	4068	1673512	C++	Ryoken	
+100	4061	4428547	Java	CappuccinoCoder	
 100	4051	1896128	C++	Vhanire	
 100	4042	2833220	Java	Alex311	
 100	4037	218189	C	[CG]Maxime	
@@ -918,7 +920,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1033,time=2021-08-04 01:00:16
 100	1045	3842724	C++	[ohirune]zzz	
 100	1045	4446183	Python3		
 100	1045	1533780	C++	ordyh	
-100	1045	4053362	TypeScript	Johan_Braanen	
 100	1045	4447108	C#	MonkeyFeathers	
 100	1041	1074744	Java	GwenGlSoft	
 100	1039	1129000	Python3	ChairmanOfTheBored	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1033,time=2021-08-04 01:00:16
 100	1002	1630890	Java	Wld	
 100	1002	4028197	Scala	ArnoldFE	
 100	1002	4315171	Java	Soucis	
-100	1002	2637659	C#	Barsy	
