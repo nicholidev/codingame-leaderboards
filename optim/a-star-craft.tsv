@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1034,time=2021-08-05 00:31:47
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1036,time=2021-08-06 00:30:24
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
 100	11774	351062	C++	Neumann	
@@ -177,10 +177,10 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1034,time=2021-08-05 00:31:47
 100	6177	2881066	C++	BuddyKBrush	
 100	6136	3711954	OCaml	kpjl	
 100	6131	1452085	C++	sadakatsu	
+100	6110	3647844	C++	rc95401	
 100	6093	3996809	C++	VizGhar	
 100	6071	903416	Scala	matlesudiste	
 100	6064	1518504	Kotlin	bohuss	
-100	6059	3647844	C++	rc95401	
 100	6025	198916	Java	WhatTrickeryIsThis	
 100	5990	1519989	Python3	a5kin	
 100	5976	1572888	Python3	DirtyHarry	
@@ -225,6 +225,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1034,time=2021-08-05 00:31:47
 100	5302	2837654	Go	R2B2	
 100	5299	154806	C++	piwai	
 100	5292	1931824	Java	Litops	
+100	5261	4428547	Java	CappuccinoCoder	
 100	5247	371603	Ruby	martin	
 100	5233	3408865	C++	redimer	
 100	5204	1970506	Python3	Taldor	
@@ -275,7 +276,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1034,time=2021-08-05 00:31:47
 100	4135	1460836	Java	ImanolSaga	
 100	4132	962569	Python3	[K]Gabor	
 100	4068	1673512	C++	Ryoken	
-100	4061	4428547	Java	CappuccinoCoder	
 100	4051	1896128	C++	Vhanire	
 100	4042	2833220	Java	Alex311	
 100	4037	218189	C	[CG]Maxime	
@@ -358,6 +358,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1034,time=2021-08-05 00:31:47
 100	3323	3027150	Javascript	Ravindra05	
 100	3306	1200669	Python3	houseofsuns	
 100	3284	1495694	C++	MisterJensen	
+100	3266	4421805	C++	Rubixbob	
 100	3245	1614572	Javascript	tuannapci	
 100	3238	802171	PHP	Merome	
 100	3237	1903031	C++	hard-coded	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1034,time=2021-08-05 00:31:47
 100	1002	2625928	C#	LiberLeo	
 100	1002	1630890	Java	Wld	
 100	1002	4028197	Scala	ArnoldFE	
-100	1002	4315171	Java	Soucis	

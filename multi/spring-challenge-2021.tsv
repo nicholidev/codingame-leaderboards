@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7136,time=2021-08-05 00:31:45
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7136,time=2021-08-06 00:30:22
 5	44.78	1400179	3665384	C++	reCurse	
 5	39.19	3457031	3766020	C++	YurkovAS	
 5	38.57	4300424	3704114	Rust	kurnevsky	
@@ -378,7 +378,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7136,time=2021-08-05 00:31:
 4	40.83	2123423	3665728	Java	splanard	
 4	40.79	3922325	3671019	C++	Degalat	
 4	40.77	1676711	3669954	Java	Eeeval	
-4	40.77	1467910	3669697	Python3	iian	
+4	40.76	1467910	3669697	Python3	iian	
 4	40.74	4054947	3665262	C#	LLG	
 4	40.72	3742936	3669421	Python3	David26	
 4	40.67	4061770	3669653	C#	Banquich	
@@ -534,7 +534,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7136,time=2021-08-05 00:31:
 4	37.35	416762	3671041	Javascript	Khao	
 4	37.33	1711397	3670090	Go	DiogoGiassi	
 4	37.31	4231728	3671050	C#	TojoNatolotra	
-4	37.28	155774	3679133	C++	dwarfie	
+4	37.31	155774	3679133	C++	dwarfie	
 4	37.26	1852668	3714149	Python3	gao	
 4	37.25	4342483	3665044	Python3	dice_dice_dice	
 4	37.21	2000540	3669552	C#	rombolshak	
@@ -583,7 +583,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7136,time=2021-08-05 00:31:
 4	36.63	3764504	3666055	C++	amoussai	
 4	36.6	4319686	3665123	Javascript	XFreeMan	
 4	36.6	4322717	3665790	C++	m_m	
-4	36.57	3525167	3669469	Java	fgsdt	
+4	36.59	3525167	3669469	Java	fgsdt	
 4	36.56	4133724	3665148	Javascript	KsandrKj	
 4	36.56	3380514	3668879	Java	DFrese	
 4	36.53	1387149	3665675	C++	daisyo	
@@ -618,9 +618,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7136,time=2021-08-05 00:31:
 4	36.22	3626782	3665575	Python3	ItsNotABug	
 4	36.21	2927320	3668393	C#	itectori	
 4	36.2	937878	3680287	C	nyashiki	
+4	36.18	3180290	3667951	Python3	ilyascapitano	
 4	36.18	1046623	3666846	Java	the_pins	
 4	36.18	4319230	3667066	Rust	cunitac	
-4	36.14	3180290	3667951	Python3	ilyascapitano	
 4	36.12	2184856	3665083	C++	MichalOp	
 4	36.1	4051313	3669425	Python3	aginer	
 4	36.08	4256411	3670375	C++	Pick8chu	
@@ -678,8 +678,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7136,time=2021-08-05 00:31:
 4	35.55	2592367	3667903	C#	Jokero	
 4	35.53	3797458	3668938	Java	Djoman	
 4	35.52	4069184	3668994	C++	nsimon	
-4	35.52	4206982	3668585	Ruby	slempel	
 4	35.52	1439344	3668861	Python3	Gronahak	
+4	35.51	4206982	3668585	Ruby	slempel	
 4	35.51	3324892	3668607	Java	Bpeck	
 4	35.5	3765212	3668410	Python3	pavaucha	
 4	35.49	1259698	3665405	Java	PlagueDoctor	
@@ -820,7 +820,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7136,time=2021-08-05 00:31:
 4	33.9	4323627	3666845	Java	Greenfingers	
 4	33.9	1181432	3665696	C#	ftpud	
 4	33.89	3791366	3668404	Python3	Artygo8	
-4	33.88	1479098	3670105	C++	Elventian	
 4	33.87	4312298	3665791	Python3	SicktorHass	
 4	33.87	3058369	3668785	Java	Matiou	
 4	33.87	1291692	3669111	C#	CedricHulin	
@@ -839,6 +838,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7136,time=2021-08-05 00:31:
 4	33.75	155887	3670774	TypeScript	BanBan	
 4	33.74	420907	3665777	C#	dsannikov	
 4	33.71	4089683	3668148	Rust	RedRikudo	
+4	33.68	1479098	3670105	C++	Elventian	
 4	33.68	3871137	3665697	Kotlin	Fuud	
 4	33.68	1388205	3669615	Java	ForceMajeure	
 4	33.68	3512678	3670694	C++	jjjjjjjtgpptmjj	
@@ -891,7 +891,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7136,time=2021-08-05 00:31:
 4	33.24	4205176	3667207	Go	svzh	
 4	33.24	4067707	3665459	C++	therealbeef	
 4	33.24	4313675	3666849	C#	krolhm	
-4	33.23	533018	3668379	C++	Robinsstudio	
 4	33.22	4048969	3669905	Python3	raspersc2	
 4	33.21	1687754	3673700	Java	cg123	
 4	33.18	3018178	3693364	C++	Fallback	
@@ -906,6 +905,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7136,time=2021-08-05 00:31:
 4	33.12	1960325	3669188	Javascript	Bladx	
 4	33.11	3826631	3665716	C++	aszigeth	
 4	33.11	3420962	3669711	PHP	eadgbe	
+4	33.1	533018	3668379	C++	Robinsstudio	
 4	33.09	3877700	3672853	Rust	Bytekeeper	
 4	33.09	1492846	3665807	Java	mdaw	
 4	33.05	1115939	3678499	C++	Stounate	
@@ -949,8 +949,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7136,time=2021-08-05 00:31:
 4	32.6	1667236	3668190	C	Nerwosolek	
 4	32.6	3815428	3667519	Python3	macosta	
 4	32.6	4309500	3664893	PHP	IbouDKR	
+4	32.59	3804354	3668475	Javascript	TMoweS	
 4	32.58	664272	3668447	Java	tsa	
-4	32.58	3804354	3668475	Javascript	TMoweS	
 4	32.57	4060577	3664990	C++	sumochi	
 4	32.54	4147861	3668495	C#	FelixRichter2000	
 4	32.53	517890	3683254	C++	Altaire	
