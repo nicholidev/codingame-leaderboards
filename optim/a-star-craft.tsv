@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1036,time=2021-08-06 00:30:24
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1036,time=2021-08-07 00:30:24
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
 100	11774	351062	C++	Neumann	
@@ -268,6 +268,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1036,time=2021-08-06 00:30:24
 100	4217	2360690	C++	Galrauch	
 100	4210	1485015	C++	Murky	
 100	4205	1568785	C	Chalzy	
+100	4205	4421805	C++	Rubixbob	
 100	4183	3340884	Python3	sd001034	
 100	4176	1740037	Scala	ereiam	
 100	4172	2644587	Ruby	Fl4sh	
@@ -358,7 +359,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1036,time=2021-08-06 00:30:24
 100	3323	3027150	Javascript	Ravindra05	
 100	3306	1200669	Python3	houseofsuns	
 100	3284	1495694	C++	MisterJensen	
-100	3266	4421805	C++	Rubixbob	
 100	3245	1614572	Javascript	tuannapci	
 100	3238	802171	PHP	Merome	
 100	3237	1903031	C++	hard-coded	

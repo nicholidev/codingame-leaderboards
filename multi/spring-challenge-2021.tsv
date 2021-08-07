@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7136,time=2021-08-06 00:30:22
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7143,time=2021-08-07 00:30:22
 5	44.78	1400179	3665384	C++	reCurse	
 5	39.19	3457031	3766020	C++	YurkovAS	
 5	38.57	4300424	3704114	Rust	kurnevsky	
@@ -446,9 +446,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7136,time=2021-08-06 00:30:
 4	38.73	3622078	3665054	Python3	Paikan2068	
 4	38.73	4327920	3667196	C++	yana87	
 4	38.71	303151	3670768	Python3	MoOT.Cube	
+4	38.67	2600493	3667982	Java	Trottel-Nit	
 4	38.66	3360287	3667165	Python3	LucasDubos1	
 4	38.65	3770735	3666720	Rust	ryo_n	
-4	38.64	2600493	3667982	Java	Trottel-Nit	
 4	38.64	1097889	3673443	C++	HoangH7	
 4	38.63	4053013	3669246	Java	nagoke	
 4	38.62	3565230	3670570	C#	nguyenchithanh	
@@ -557,12 +557,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7136,time=2021-08-06 00:30:
 4	37.04	1908108	3669738	C#	Syhafeur	
 4	37.04	3767281	3665990	Python3	lgutter	
 4	37.03	4323833	3666912	C++	pres1dent	
+4	37.03	1925264	3667882	C++	vmelnyk	
 4	37.01	2173816	3671061	C++	mthakur	
 4	37	1792532	3669007	C#	Zanbez	
 4	36.97	2881783	3665555	C++	eki	
 4	36.97	4034494	3674502	Rust	GTaf	
 4	36.96	2643294	3676420	PHP	L_hermythe	
-4	36.93	1925264	3667882	C++	vmelnyk	
 4	36.93	510000	3666192	C++	FakeNews	
 4	36.92	4052198	3679916	Python3	naniwazu	
 4	36.89	3451278	3666929	Python3	Infinitemonkey_23	
@@ -656,7 +656,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7136,time=2021-08-06 00:30:
 4	35.81	2536487	3671262	Java	Sumo-Naony	
 4	35.77	3690597	3667702	Python3	But_Why	
 4	35.76	670030	3670019	C#	PauloMiguel	
-4	35.73	2063098	3667990	Python3	Miss_Zaza	
 4	35.73	3446140	3668860	PHP	Upcy	
 4	35.73	4313256	3666646	Java	Codechaos	
 4	35.71	2792530	3676916	C#	Xanrum	
@@ -670,6 +669,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7136,time=2021-08-06 00:30:
 4	35.67	4055262	3665064	TypeScript	LucasNef	
 4	35.67	4098770	3670843	C#	LP19	
 4	35.67	2064322	3670885	Dart	adrienarcuri	
+4	35.64	2063098	3667990	Python3	Miss_Zaza	
 4	35.63	3922607	3665772	Java	Battletoad	
 4	35.63	4304903	3669284	Python3	FlorianC	
 4	35.6	3089131	3665288	Python3	dragonsayen	
@@ -843,12 +843,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7136,time=2021-08-06 00:30:
 4	33.68	1388205	3669615	Java	ForceMajeure	
 4	33.68	3512678	3670694	C++	jjjjjjjtgpptmjj	
 4	33.68	2139081	3666411	Python3	Kalioz	
-4	33.66	3270023	3668824	Javascript	burningdaylight	
 4	33.66	2065521	3665721	Java	igolus	
 4	33.66	552543	3669922	Swift	Patou	
 4	33.65	4287519	3671723	C++	kke0949	
 4	33.62	4325462	3665794	C++	kkktym	
 4	33.61	1386924	3674626	Python3	Ylec	
+4	33.61	3270023	3668824	Javascript	burningdaylight	
 4	33.58	998504	3667402	C#	SzEmProg	
 4	33.58	1356356	3668811	Javascript	BaconPepe	
 4	33.55	1095913	3665531	C++	Yamatan	

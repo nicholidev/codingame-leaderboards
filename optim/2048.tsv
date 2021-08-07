@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=623,time=2021-08-06 00:30:26
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=623,time=2021-08-07 00:30:26
 100	62564496	2288263	Rust	dbdr	
 100	59353524	765200	Rust	FrancoisB	
 100	59353464	3457031	C++	YurkovAS	
@@ -121,9 +121,9 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=623,time=2021-08-06 00:30:26
 100	1036264	3406987	Python3	Radu_Sav	
 100	930052	3141948	Java	philRG	
 100	894468	3812486	Javascript	gitKad	
+100	728216	4081047	Javascript	Rezhay	
 100	725440	3842838	TypeScript	Streusel	
 100	718036	4105514	Python3	FeiChong	
-100	711460	4081047	Javascript	Rezhay	
 100	675240	1566335	Java	BeardedWhale	
 100	643904	1452327	Rust	solmir	
 100	607052	2978314	Python3	guir	
@@ -385,6 +385,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=623,time=2021-08-06 00:30:26
 100	29292	2045078	C#	Sharaks	
 100	28932	1740037	Scala	ereiam	
 100	28884	4105985	Python3	iLaziKx	
+100	28664	3532429	Python3	Skyf0l	
 100	28556	4038761	Python3	Leirn	
 100	28532	3731429	Python3	Flapflapfoo	
 100	28336	4081488	Ruby	meerumschlungen	
@@ -395,7 +396,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=623,time=2021-08-06 00:30:26
 100	27888	4135188	Python3	jhewlett	
 100	27884	3634699	Java	Hamza.El	
 100	27780	3766476	C++	mhouppin	
-100	27764	3532429	Python3	Skyf0l	
 100	27708	4074861	Java	kishore.t	
 100	27708	1854639	C#	iDxMeG	
 100	27572	3741524	C	princess_of_zeal	
