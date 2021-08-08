@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=218,time=2021-08-07 00:30:24
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=218,time=2021-08-08 01:34:53
 100	1675	2288263	Rust	dbdr	
 100	1677	1944090	C#	spaceorc	
 100	1741	1399382	C#	Regulus136	
@@ -21,6 +21,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=218,time=2021-08-07 00:30:24
 100	2382	1378958	C#	Illedan	
 100	2383	820000	C++	ValGrowth	
 100	2410	1518732	Java	Apfeloxid	
+100	2410	155774	PHP	dwarfie	
 100	2411	2455616	Java	JeanClaude44	
 100	2427	2968035	C++	DomiKo	
 100	2457	440476	C++	yowa	
@@ -31,7 +32,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=218,time=2021-08-07 00:30:24
 100	2539	2786666	C++	TetraktysPhi	
 100	2574	1525821	C#	Jeroo	
 100	2638	759147	C++	kisszots	
-100	2676	155774	PHP	dwarfie	
 100	2815	2555066	Python3	dyc3	
 100	2817	3480498	Java	BenPix	
 100	2865	992329	C++	BeeGee	
@@ -83,6 +83,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=218,time=2021-08-07 00:30:24
 6	61	4180659	Javascript	abrman	
 6	106	3315341	Python3	Yoyoda	
 6	261	1629259	Java	Marchete	
+6	334	4277867	D	About	
 6	820	3647844	Python3	rc95401	
 3	12	992691	Python3	tredden	
 3	12	2407700	Ruby	adoxography	
@@ -90,7 +91,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=218,time=2021-08-07 00:30:24
 3	12	3421837	Python3	Naindlac	
 3	70	893541	Java	wala	
 3	163	4353077	D	ast191001	
-3	163	4277867	D	About	
 3	2670	2416641	Bash	Zenoscave	
 3	30000	2497890	C#	BlackBird	
 0	0	154906	Haskell	JBM	

@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7143,time=2021-08-07 00:30:22
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7145,time=2021-08-08 01:34:50
 5	44.78	1400179	3665384	C++	reCurse	
 5	39.19	3457031	3766020	C++	YurkovAS	
 5	38.57	4300424	3704114	Rust	kurnevsky	
@@ -349,7 +349,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7143,time=2021-08-07 00:30:
 4	42.56	1084422	3669600	Python3	nmiller	
 4	42.54	4319544	3668837	Python3	BradL	
 4	42.44	3508803	3668945	Java	SlimSt	
-4	42.39	3808317	3667496	C++	Bax533	
+4	42.38	3808317	3667496	C++	Bax533	
 4	42.31	2202771	3763614	Java	Kaplone	
 4	42.07	3730384	3668275	TypeScript	Grillaume	
 4	41.77	4060849	3665786	C++	pulau	
@@ -425,9 +425,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7143,time=2021-08-07 00:30:
 4	39	3501209	3704459	Python3	Whatar	
 4	38.99	1932031	3667886	Javascript	Briossant	
 4	38.98	1620599	3683169	C#	PRO_G_r_AM_m_ER	
-4	38.97	4279330	3665392	C++	level7	
 4	38.97	4323615	3669990	C	Troph	
 4	38.97	4324288	3671486	Java	tiquaidu	
+4	38.96	4279330	3665392	C++	level7	
 4	38.91	1831684	3673505	Java	dbf	
 4	38.9	1182388	3666944	Javascript	MiNhon	
 4	38.9	4110311	3710895	Go	dloukadakis	
@@ -579,8 +579,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7143,time=2021-08-07 00:30:
 4	36.72	3791753	3764423	C++	607	
 4	36.69	1420269	3669988	Java	Vischtor	
 4	36.67	1426685	3670404	C++	glebc	
-4	36.64	4059043	3670675	Java	-N3R0-	
 4	36.63	3764504	3666055	C++	amoussai	
+4	36.63	4059043	3670675	Java	-N3R0-	
 4	36.6	4319686	3665123	Javascript	XFreeMan	
 4	36.6	4322717	3665790	C++	m_m	
 4	36.59	3525167	3669469	Java	fgsdt	
@@ -688,7 +688,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7143,time=2021-08-07 00:30:
 4	35.46	3727251	3665805	C++	Yur3k	
 4	35.46	3429231	3668390	TypeScript	ArmandMeunier	
 4	35.45	4330929	3668613	Python3	hcanon	
-4	35.44	3077977	3669924	Python3	YaWa	
+4	35.45	3077977	3669924	Python3	YaWa	
 4	35.43	1457223	3669185	C++	jleconte	
 4	35.42	4338330	3669917	C#	0Ph	
 4	35.41	1186250	3667471	C#	Gabbek	
@@ -873,8 +873,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7143,time=2021-08-07 00:30:
 4	33.37	3941182	3667410	Python3	RAmon	
 4	33.37	4318702	3666563	Python3	itzluku	
 4	33.35	953937	3665798	C#	Blaireau	
+4	33.35	4048610	3673870	C	ghandii	
 4	33.35	1412263	3666605	PHP	PatrickMcGinnisII	
-4	33.34	4048610	3673870	C	ghandii	
 4	33.34	4055392	3665630	C++	totori	
 4	33.33	2336164	3666711	TypeScript	hwd	
 4	33.31	3919237	3671226	C#	Quick_Kick	

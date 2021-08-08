@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5336,time=2021-08-07 00:30:23
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5339,time=2021-08-08 01:34:51
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -76,6 +76,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5336,time=2021-08-07 00:30:23
 100	3553	1131084	C#	pmod	
 100	3566	1336464	Perl	magaiti	
 100	3568	1822346	C++	Arcaseus	
+100	3572	1186250	C#	Gabbek	
 100	3575	3700629	Javascript	serialgg	
 100	3577	1121543	Scala	Aube	
 100	3599	2928146	PHP	LolCat	
@@ -124,7 +125,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5336,time=2021-08-07 00:30:23
 100	3708	3750700	C++	VulpesCorsac	
 100	3714	3918583	Java	mikmak	
 100	3719	942810	C++	Xtophe	
-100	3721	1186250	C#	Gabbek	
 100	3725	3564009	Lua	Waffle3z	
 100	3732	201919	C++	LouJo	
 100	3733	545951	C++	AntonT	
@@ -218,6 +218,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5336,time=2021-08-07 00:30:23
 100	4006	792813	Python3	VilBoub	
 100	4013	3950687	Python3	vkreuz	
 100	4016	999596	Rust	Schyrsivochter	
+100	4016	860404	C++	Vitruvius	
 100	4017	1408260	C#	cucurucu	
 100	4018	3480498	PHP	BenPix	
 100	4021	818771	Javascript	Feugy	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5336,time=2021-08-07 00:30:23
 100	5887	1994674	Javascript	InwardsEm	
 100	5887	1597483	C#	Crone	
 100	5887	1074555	C++	Blenderiste09	
-100	5887	3972994	Python3	BrainyPanda	
