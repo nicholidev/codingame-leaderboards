@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=473,time=2021-08-09 00:47:08
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=473,time=2021-08-10 01:09:05
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -345,6 +345,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=473,time=2021-08-09 00:47:08
 96	23412.66	1286800	C++	CursingLlama	
 96	24124.110000000008	4084022	TypeScript	Omega1515	
 96	24468.73999999999	3498674	C++	Sko0owi	
+96	24579.090000000007	1077506	Go	gs2	
 96	24990.300000000003	3837943	C++	NullInf	
 96	25177.17000000001	1110480	C#	Fridde112	
 96	25261.67	1082988	Python3	Saelyos	
@@ -394,7 +395,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=473,time=2021-08-09 00:47:08
 82	28640.45	3515315	Python3	MichalM	
 80	26492.93	1959179	Python3	savitar	
 80	28519.65	1802808	Python3	EnderWiggins	
-78	29195.67	1077506	Go	gs2	
 78	30819.960000000006	909782	Go	Harkness	
 78	31050.69000000001	4153954	Python3	RichardTheDou	
 76	30025.27	2785892	Python3	levbor	
