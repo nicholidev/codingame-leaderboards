@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=10694,time=2021-08-10 01:09:03
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=10702,time=2021-08-11 00:58:07
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
 100	1265020	1327028	C++	FredericBautista	
@@ -162,6 +162,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10694,time=2021-08-10 01:09:03
 100	229430	155939	C	xylo	
 100	229290	4148846	C	SkyWhait	
 100	228940	3965226	C		
+100	228460	2202751	C++	MacedoH	
 100	227780	273876	C#	SirSushi	
 100	227620	3622757	C	anid	
 100	227210	4328352	C++	Esael	
@@ -252,6 +253,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10694,time=2021-08-10 01:09:03
 100	203480	2350846	C++	DrBloodmoney	
 100	203400	1880319	C++	WildSmilodon	
 100	203360	226528	C++	Manwe	
+100	203250	1186250	C#	Gabbek	
 100	203110	3920887	C	hirehero	
 100	202890	3960362	C	Asgardinho	
 100	202790	1179950	Go	Patorikkuyatta	
@@ -484,7 +486,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10694,time=2021-08-10 01:09:03
 100	115310	2479417	C++	Papa94	
 100	114480	4119720	C++	maniekTC	
 100	114440	1741901	Go	Jerome_Laforge	
-100	113950	2202751	C++	MacedoH	
 100	113480	3310317	Python3	AWOL	
 100	113140	965891	Javascript	ElanVB	
 100	112920	1181768	Javascript	dio_O	
@@ -669,6 +670,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10694,time=2021-08-10 01:09:03
 100	70380	632549	Java	Keiras	
 100	70270	2833733	Python3	pez	
 100	69850	1001096	C#	MyIIone	
+100	69780	3002969	Rust	Porsuk	
 100	69730	1368122	Go	galthaus	
 100	68980	2212341	C++	Atul007	
 100	68800	1353669	Python3	XAnimaX	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10694,time=2021-08-10 01:09:03
 100	63740	1202744	Pascal	KILLogic	
 100	63740	1652988	Javascript	wardialer	
 100	63740	2006185	C++	Truelight	
-100	63740	3666046	Go	individual-it	
-100	63730	3601127	Java	Commbiekillers	
