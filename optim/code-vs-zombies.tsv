@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=10702,time=2021-08-11 00:58:07
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=10714,time=2021-08-12 00:52:43
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
 100	1265020	1327028	C++	FredericBautista	
@@ -81,6 +81,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10702,time=2021-08-11 00:58:07
 100	317110	1064903	C++	Ghirtor	
 100	315410	1854246	C++	Counterbalance	
 100	303850	588426	C++	Jeff06	
+100	300910	4447108	C	MonkeyFeathers	
 100	300650	1059996	C#	Molybdene	
 100	300350	2311105	C++	kovi	
 100	295710	962495	C++	eboot	
@@ -301,6 +302,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10702,time=2021-08-11 00:58:07
 100	187670	201919	C++	LouJo	
 100	187270	2890600	C++	Surtee	
 100	187070	233834	C++	Herumor	
+100	185760	2025454	Rust	stakka	
 100	185620	2212283	C++	ElieK	
 100	185160	3836429	Python3	Hippolyte	
 100	185110	1122412	Java	TheNinja	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10702,time=2021-08-11 00:58:07
 100	63800	2863053	Javascript	LuisMaGlz	
 100	63760	2937669	C	Nyght	
 100	63740	1202744	Pascal	KILLogic	
-100	63740	1652988	Javascript	wardialer	
-100	63740	2006185	C++	Truelight	
