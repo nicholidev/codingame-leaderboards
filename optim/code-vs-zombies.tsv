@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=10714,time=2021-08-12 00:52:43
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=10725,time=2021-08-13 01:15:38
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
 100	1265020	1327028	C++	FredericBautista	
@@ -283,6 +283,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10714,time=2021-08-12 00:52:43
 100	195000	925695	OCaml	Boulet	
 100	194890	2521360	C	g.naboychenko	
 100	194440	1018437	C++	dubicube	
+100	192840	4239399	C	b18a9n	
 100	192450	1603802	Python3	BigNozMG	
 100	192440	2232492	Javascript	coolraoul	
 100	192340	2232496	Javascript	totopopo	
@@ -693,6 +694,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10714,time=2021-08-12 00:52:43
 100	67300	4418069	Python3	manuelseeger	
 100	67140	1767134	Java	AntonYuriev	
 100	67070	4440520	C#	Azertisbenc	
+100	67040	2177661	Python3	Tioude	
 100	67020	3520485	C++	DigitalMe	
 100	67010	928022	C#	Yliria	
 100	66960	3855753	Python3	tuan91	
@@ -980,7 +982,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10714,time=2021-08-12 00:52:43
 100	64090	2625928	C#	LiberLeo	
 100	64090	3458085	Java	GriZou	
 100	64090	2197804	C#	IHaveYourMilk	
-100	64090	2177661	Python3	Tioude	
 100	64070	1559805	C#	Droet	
 100	64060	1108879	PHP	xfilx	
 100	64040	3418521	Java		
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10714,time=2021-08-12 00:52:43
 100	63830	2141506	C++	Jamesscn	
 100	63800	2863053	Javascript	LuisMaGlz	
 100	63760	2937669	C	Nyght	
-100	63740	1202744	Pascal	KILLogic	

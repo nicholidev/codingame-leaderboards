@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=626,time=2021-08-12 00:52:46
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=626,time=2021-08-13 01:15:40
 100	62564496	2288263	Rust	dbdr	
 100	59353524	765200	Rust	FrancoisB	
 100	59353464	3457031	C++	YurkovAS	
@@ -216,6 +216,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=626,time=2021-08-12 00:52:46
 100	71856	992329	Python3	BeeGee	
 100	70600	3068678	Python3	DrSilverstone	
 100	69792	2635907	Javascript	lopidav	
+100	69764	4459243	Java	CodeNick	
 100	68904	4030968	Python3	MBucas	
 100	68888	4092149	Python3	MarcTu	
 100	68208	4022435	Python3	Timothee1997	
@@ -616,7 +617,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=626,time=2021-08-12 00:52:46
 100	344	3783962	Python3	Mohsen1365ir	
 100	344	4315171	Java	Soucis	
 100	344	4334077	C++	Paul_Demanze	
-100	344	4459243	Java	CodeNick	
 100	300	4094683	Python3	Loes	
 100	300	275626	Javascript	GreyMoon	
 100	300	3487406	C#	SyvachenkoMK	

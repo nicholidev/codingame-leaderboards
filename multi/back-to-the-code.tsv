@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4794,time=2021-08-12 00:30:05
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4795,time=2021-08-13 00:33:27
 0	47.11	1433161	1484525	C	mingu1.kang	
 0	45.71	494104	455215	C++	Recar	
 0	45.57	990110	357643	C++	Rogerup	
@@ -348,10 +348,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4794,time=2021-08-12 00:30:
 0	35.31	979569	352955	Javascript	khanh_alice	
 0	35.31	846937	345706	F#	HintOfBrain	
 0	35.29	1077126	353921	PHP	bedds	
+0	35.29	1007939	340639	Python	Poruk	
 0	35.28	1378399	610995	Python3	DN38416	
 0	35.28	408825	354174	Java	DenVo	
 0	35.28	4210652	3721738	OCaml	Sirine_MPSI_LIV	
-0	35.27	1007939	340639	Python	Poruk	
 0	35.27	1060548	358090	Python	Marc-	
 0	35.26	1258533	925635	Python3	MathJason	
 0	35.26	1243876	799744	PHP	Hi-Low_World	
@@ -536,6 +536,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4794,time=2021-08-12 00:30:
 0	33.77	513456	343079	Python	nwin	
 0	33.76	1251381	415506	Java	ZepHead	
 0	33.76	995658	354941	C++	Faithy	
+0	33.74	925695	2128517	OCaml	Boulet	
 0	33.73	877003	350476	C++	PauloCezar	
 0	33.73	760921	349645	VB.NET	Skleroz	
 0	33.67	4347128	3722604	OCaml	6mon_MPSI_LIV	
@@ -543,7 +544,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4794,time=2021-08-12 00:30:
 0	33.65	1583240	768152	Java	SamuelPoulin	
 0	33.64	231556	347492	Python3	BlackDragoon86	
 0	33.63	751369	340843	C++	tibithegreat	
-0	33.62	925695	2128517	OCaml	Boulet	
 0	33.61	941843	356067	Java	S4M37	
 0	33.6	1070718	354099	Java	Sims.	
 0	33.6	429845	353482	Python3	steve3003	
@@ -691,7 +691,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4794,time=2021-08-12 00:30:
 0	32.6	1040245	355307	C	Matze	
 0	32.6	1053198	385597	Python3	ProfessorWolf	
 0	32.6	968305	357298	C++	Mickael.a	
-0	32.6	900666	353240	Java	lgsmitty	
 0	32.59	154078	357997	Java	Yahya.Elfakir	
 0	32.59	155906	354046	Scala	AlainBearez	
 0	32.58	1294449	408811	Python3	Jolidragon	
@@ -733,6 +732,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4794,time=2021-08-12 00:30:
 0	32.47	1929747	2328414	Java	jeyBoole	
 0	32.46	1334143	412182	Java	SimoneBosh	
 0	32.46	831195	3131120	C++	samgiz	
+0	32.45	900666	353240	Java	lgsmitty	
 0	32.45	425757	415197	Ruby	Keres	
 0	32.44	155853	583565	Java	gansheer	
 0	32.43	4108930	3434709	Python3	SpeedyCoder33	
@@ -759,7 +759,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4794,time=2021-08-12 00:30:
 0	32.3	1198313	369275	Python	BobBieLoblaw	
 0	32.26	845329	353430	C	Tomtix	
 0	32.22	1374887	415741	C#	NicolasViollette	
-0	32.22	4017027	3235727	Python3	Lotopi	
+0	32.19	4017027	3235727	Python3	Lotopi	
 0	32.18	4087664	3364065	C++	YodaMaster123	
 0	32.04	825477	350477	C#	Leblond	
 0	32.03	1488036	642447	Python3	vlabbe	
