@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4795,time=2021-08-13 00:33:27
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4795,time=2021-08-14 00:30:06
 0	47.11	1433161	1484525	C	mingu1.kang	
 0	45.71	494104	455215	C++	Recar	
 0	45.57	990110	357643	C++	Rogerup	
@@ -182,6 +182,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4795,time=2021-08-13 00:33:
 0	37.76	1070856	345143	Java	D-MoNs	
 0	37.76	825460	349230	Lua	antoyo	
 0	37.75	912651	339142	Python	0006-lVH	
+0	37.74	1021256	363051	C#	Toinou	
 0	37.74	1399852	456793	C++	Thaell	
 0	37.73	2906497	2468509	C++	daaskare	
 0	37.72	884855	341800	Java	ChristopherZ	
@@ -195,7 +196,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4795,time=2021-08-13 00:33:
 0	37.69	3457031	2846794	C++	YurkovAS	
 0	37.69	886483	488764	ObjectiveC	R4N4R4M4	
 0	37.69	1348523	963697	C++	Numb_	
-0	37.69	1021256	363051	C#	Toinou	
 0	37.69	1131528	415482	C	Owl	
 0	37.68	156876	362617	C++	ShinjiKun	
 0	37.68	1077559	1330493	C++	PhOeNyX	
@@ -344,7 +344,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4795,time=2021-08-13 00:33:
 0	35.39	1341520	1667468	Java	egaetan	
 0	35.39	435097	348440	Java	IMost	
 0	35.38	582173	355661	PHP	frost	
-0	35.35	467773	356653	Python	windycrazy	
+0	35.32	467773	356653	Python	windycrazy	
 0	35.31	979569	352955	Javascript	khanh_alice	
 0	35.31	846937	345706	F#	HintOfBrain	
 0	35.29	1077126	353921	PHP	bedds	
@@ -732,6 +732,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4795,time=2021-08-13 00:33:
 0	32.47	1929747	2328414	Java	jeyBoole	
 0	32.46	1334143	412182	Java	SimoneBosh	
 0	32.46	831195	3131120	C++	samgiz	
+0	32.46	1058101	342821	C++	FloPanda	
 0	32.45	900666	353240	Java	lgsmitty	
 0	32.45	425757	415197	Ruby	Keres	
 0	32.44	155853	583565	Java	gansheer	
@@ -739,7 +740,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4795,time=2021-08-13 00:33:
 0	32.43	1005061	351609	Ruby	drac	
 0	32.43	1339431	3047741	Javascript	Enie	
 0	32.43	1050421	345346	Java	geppoz	
-0	32.43	1058101	342821	C++	FloPanda	
 0	32.42	979746	353489	C++		
 0	32.42	1501735	789120	Python3	bernardlavilliers	
 0	32.41	1223426	570116	Java	VolgoAK	
