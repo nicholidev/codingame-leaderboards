@@ -1,9 +1,9 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=311,time=2021-08-14 00:44:23
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=312,time=2021-08-15 00:44:02
 100	999	1629259	PHP	Marchete	
 100	999	3354337	C++	Westicles	
 100	999	3949307	C++	xevixevi	
+100	517	1732414	PHP	ClosetAI	
 100	500	2288263	Rust	dbdr	
-100	461	1732414	PHP	ClosetAI	
 100	400	1399382	C#	Regulus136	
 100	259	2043908	D	AntiSquid	
 100	255	2924895	C	trictrac	
@@ -34,7 +34,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=311,time=2021-08-14 00:44:23
 100	89	1484839	PHP	sparky	
 100	89	3938495	OCaml	o11s	
 100	89	4216789	Perl	Saur2000	
-100	86	3647844	Python3	rc95401	
+100	88	3647844	Python3	rc95401	
 100	80	2451652	PHP	code_of_the_dead	
 100	77	3489223	Javascript	KarloHubai	
 100	70	2311105	C++	kovi	
@@ -192,6 +192,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=311,time=2021-08-14 00:44:23
 100	5	3842838	Python3	Streusel	
 100	5	4072753	C++	mdstoy	
 100	5	759147	Python3	kisszots	
+100	5	4459243	Java	CodeNick	
 100	4	3424530	PHP	LRocher	
 100	4	888898	PHP	helgui	
 100	4	3621947	Python3	vrabosh	
