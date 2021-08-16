@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5363,time=2021-08-15 00:44:00
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5365,time=2021-08-16 00:30:21
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -135,6 +135,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5363,time=2021-08-15 00:44:00
 100	3746	1782005	Javascript	AlexW	
 100	3750	2325449	Perl	otpv	
 100	3751	199701	PHP	bzm	
+100	3759	860404	C++	Vitruvius	
 100	3760	173928	Ruby	lacrosse	
 100	3761	954023	Java	Rguiu	
 100	3778	668906	Java	Sandworm	
@@ -173,7 +174,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5363,time=2021-08-15 00:44:00
 100	3895	1341520	Java	egaetan	
 100	3895	2897325	Python3	CAEZAR	
 100	3900	416762	C#	Khao	
-100	3900	860404	C++	Vitruvius	
 100	3904	2526322	Java	fhemsworth	
 100	3910	706692	Java	alexhap	
 100	3930	632549	Java	Keiras	
