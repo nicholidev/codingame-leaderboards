@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=628,time=2021-08-16 00:30:23
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=629,time=2021-08-17 00:38:46
 100	62564496	2288263	Rust	dbdr	
 100	59353524	765200	Rust	FrancoisB	
 100	59353464	3457031	C++	YurkovAS	
@@ -248,6 +248,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=628,time=2021-08-16 00:30:23
 100	59788	854952	Java	dolmen1234	
 100	59560	4046678	Python3	N9798	
 100	59364	2802015	PHP	Psycholoveur	
+100	59284	3787419	C++	Thyl	
 100	58428	2592027	C#	ParticleBeam	
 100	58392	2662368	Python3	NikitaSkybytskyi	
 100	57356	4073599	C#	bzkaz	
@@ -268,7 +269,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=628,time=2021-08-16 00:30:23
 100	54884	3728105	Python3	Marcusde36ste	
 100	54728	574371	Javascript	Dillysfriend	
 100	54156	2419811	Rust	Valbou	
-100	53872	3787419	C++	Thyl	
 100	53576	4033445	Javascript	netto________	
 100	53576	819064	Rust	rampion	
 100	53576	1243354	C++	RSBat	
@@ -622,6 +622,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=628,time=2021-08-16 00:30:23
 100	300	4094683	Python3	Loes	
 100	300	275626	Javascript	GreyMoon	
 100	300	3487406	C#	SyvachenkoMK	
+100	300	4379624	Bash	KamadoTanjiro	
 100	252	1931701	Java	anis_kt	
 100	240	3798577	Python3	Aswoon	
 93	248928	1339675	C++	SR4	

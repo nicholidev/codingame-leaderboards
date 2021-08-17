@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=376,time=2021-08-16 00:30:23
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=377,time=2021-08-17 00:38:46
 100	174652	3354337	Scala	Westicles	
 100	167588	1530051	C++	UlYoP	
 100	165192	2968035	C++	DomiKo	
@@ -28,7 +28,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=376,time=2021-08-16 00:30:23
 100	99630	3525167	Java	fgsdt	
 100	96229	2510517	C++	Turtlefight	
 100	95691	3487645	Javascript	hypers	
-100	93727	862919	C++	Astrobytes	
+100	95048	862919	C++	Astrobytes	
 100	92378	1854246	C++	Counterbalance	
 100	88926	3985088	Java	tiagocuervo	
 100	87682	1449433	C++	Rolf	
@@ -64,6 +64,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=376,time=2021-08-16 00:30:23
 100	49776	3756021	Java	TheSkolar	
 100	49090	3513265	C++	DaNinja	
 100	48890	3738782	C#	Inaniwa	
+100	48166	893541	Java	wala	
 100	48016	4211864	C#	jubick1337	
 100	47886	3691382	C#	Kamil2601	
 100	46958	734401	C++	b0n5a1	
@@ -271,7 +272,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=376,time=2021-08-16 00:30:23
 100	9004	3420134	Python3	KelvinAndHubbles	
 100	9004	1179950	Python3	Patorikkuyatta	
 100	9004	4185673	Python3	GeorgiD	
-100	9004	893541	Java	wala	
 100	8966	3276670	Java	yngknw	
 100	8948	2414853	Python3	StephaneLaveau	
 100	8938	3803352	C++	Tooltip	
@@ -340,6 +340,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=376,time=2021-08-16 00:30:23
 0	470	4353077	D	ast191001	
 0	470	4315171	Java	Soucis	
 0	470	4334077	C++	Paul_Demanze	
+0	470	4379624	Bash	KamadoTanjiro	
 0	437	3475739	Java	Ysp	
 0	400	3741002	Python3	ichbinsmith	
 0	347	3136787	Python3	jacek	

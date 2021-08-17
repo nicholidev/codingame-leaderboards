@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=10739,time=2021-08-16 00:30:21
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=10749,time=2021-08-17 00:38:44
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
 100	1265020	1327028	C++	FredericBautista	
@@ -26,6 +26,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10739,time=2021-08-16 00:30:21
 100	611130	837350	C++	BorisZ	
 100	543500	1273065	C++	TheRadical	
 100	505510	1549145	C++	Mealc	
+100	489880	1003777	Rust	DanXX09	
 100	486090	2436448	Java	FrancoisMeme	
 100	481750	4017851	C	Pintago	
 100	480190	3845610	C++	pardouin	
@@ -211,6 +212,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10739,time=2021-08-16 00:30:21
 100	215220	1753077	C++	codingWhale	
 100	214980	2595251	Rust	Veterini	
 100	214920	3750700	C++	VulpesCorsac	
+100	214760	862919	C++	Astrobytes	
 100	214740	3965091	C		
 100	214650	581921	C++	GuyBol	
 100	214510	3965095	C	Scotty9	
@@ -676,6 +678,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10739,time=2021-08-16 00:30:21
 100	69850	1001096	C#	MyIIone	
 100	69780	3002969	Rust	Porsuk	
 100	69730	1368122	Go	galthaus	
+100	69200	1830625	C++	-Rutger-	
 100	68980	2212341	C++	Atul007	
 100	68800	1353669	Python3	XAnimaX	
 100	68680	225984	PHP	GJohn	
@@ -718,7 +721,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10739,time=2021-08-16 00:30:21
 100	66140	3066640	Java	MaherYounsi	
 100	66110	1158993	Java	SWGA_Glitch	
 100	66060	3605603	Python3	cantgoNHSPCQQ	
-100	65980	1830625	C#	-Rutger-	
 100	65890	2406605	Python3	docri	
 100	65880	523846	C#	Palmipedus	
 100	65800	1216057	Java	RedTheOne	
@@ -861,7 +863,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10739,time=2021-08-16 00:30:21
 100	64260	3749793	Python3	WINWINWIN	
 100	64260	3808031	C++	_proton	
 100	64260	3868172	Javascript	Desjardins	
-100	64260	862919	Python3	Astrobytes	
 100	64260	3959718	C++	Airgo1	
 100	64260	3947806	C++	Kr4unos	
 100	64260	3979131	C++	David_Szmul	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10739,time=2021-08-16 00:30:21
 100	63840	677699	C#	Kawn	
 100	63840	4205154	Python3	tuna_in_cream	
 100	63830	2141506	C++	Jamesscn	
-100	63800	2863053	Javascript	LuisMaGlz	

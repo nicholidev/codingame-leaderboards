@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3515,time=2021-08-16 00:30:12
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3516,time=2021-08-17 00:30:19
 6	30.73	1049935	2653256	C++	Azkellas	
 6	30.55	1607522	1886979	C++	RoboStac	
 6	28.69	735910	1886983	C++	Agade	
@@ -477,9 +477,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3515,time=2021-08-16 00:30:
 3	24.18	2128759	1933954	Haskell	Hjulle	
 3	24.14	925695	2305191	OCaml	Boulet	
 3	24.13	3197936	3437483	C	Kiseli	
+3	24.13	3608589	2633714	Java	Sp0re	
 3	24.12	926167	2633584	C++	Hunyadix	
 3	24.11	3861502	3019101	Javascript	BullaDor	
-3	24.1	3608589	2633714	Java	Sp0re	
 3	24.06	3346469	3007144	TypeScript	Razupaltuff	
 3	24.01	2051334	1868827	C++	Dwarth	
 3	23.96	2897668	3328181	Python3	Breital	
@@ -548,7 +548,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3515,time=2021-08-16 00:30:
 3	23.28	3016830	2599636	Javascript	Doubrixel	
 3	23.27	3428974	2785644	Python3	BartWelling	
 3	23.26	837350	1957201	Go	BorisZ	
-3	23.23	1177795	2090608	Go	Slash-Dev	
+3	23.22	1177795	2090608	Go	Slash-Dev	
 3	23.22	1415878	2476981	Scala	roman-roman	
 3	23.15	1207862	2204371	Java	wirlwind44	
 3	23.12	3718693	3007211	TypeScript	ArneBanane	
@@ -758,7 +758,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3515,time=2021-08-16 00:30:
 3	19.71	1396594	1941074	Javascript	aroy314	
 3	19.7	2572045	3393712	PHP	Essort	
 3	19.67	3256614	2322736	Python3	FredL	
-3	19.65	2555611	2738661	Python3	SpiderSas	
+3	19.66	2555611	2738661	Python3	SpiderSas	
 3	19.65	3401127	2440230	Javascript	Acroscope	
 3	19.63	3647844	3386854	Python3	rc95401	
 3	19.61	4281792	3509798	Python3	YorkParodie	
@@ -869,7 +869,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3515,time=2021-08-16 00:30:
 3	18.07	1506762	2678348	Python3	the_real_lolo	
 3	18.07	1437853	3708600	Python3	OxPuRe	
 3	18.06	3931840	3125141	Java	Patrick33	
-3	18.06	2143315	2644769	Python3	FluffyToaster	
 3	18.06	2841964	2084423	C++	TerrMingAThor	
 3	18.05	2817085	2985033	Go	ostapneko	
 3	18.04	2729055	2049164	C++	twray2	
@@ -885,6 +884,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3515,time=2021-08-16 00:30:
 3	17.92	999186	3063398	Kotlin	Bilgetz	
 3	17.92	496941	2260602	Python3	Datenverlust	
 3	17.89	2707322	3503084	F#	dumboster	
+3	17.88	2143315	2644769	Python3	FluffyToaster	
 3	17.87	3901513	3061656	Java	baronB	
 3	17.86	3572961	2608877	Kotlin	rasu	
 3	17.85	3204946	2572454	Java	kbhi	
