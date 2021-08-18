@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2322,time=2021-08-17 00:38:42
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2323,time=2021-08-18 00:51:42
 6	34.9	2968035	3695980	C++	DomiKo	
 6	34.53	3193653	2579867	C++	karliso	
 6	34.37	820000	3503912	C++	ValGrowth	
@@ -938,20 +938,21 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2322,time=2021-08-17 00:38:
 4	-0.88	2480153	1840080	C++	yourGrandma	
 4	-0.92	1818484	1233073	Python3	IntrusivePenDesperateSword	
 4	-1.13	1594820	936034	C++	Hyuga	
-3	19.92	2169249	2478875	C++	Vision2019	
-3	19.56	3983017	3363464	Python3	TLbuis	
-3	18.9	1608391	789464	Ruby	Swobu	
-3	18.87	1035754	777140	C++	Bassel	
-3	18.69	1180178	2491116	Java	Ninja-Warrior	
-3	18.63	4447108	3783774	C#	MonkeyFeathers	
-3	18.61	889789	779469	C	Alain-Delpuch	
-3	18.58	2456780	2335962	Java	CarsonJudd	
+3	22.78	925769	3794426	C#	troll	
+3	20.02	3983017	3363464	Python3	TLbuis	
+3	19.74	4447108	3783774	C#	MonkeyFeathers	
+3	19.37	1608391	789464	Ruby	Swobu	
+3	19.33	2169249	2478875	C++	Vision2019	
+3	18.7	889789	779469	C	Alain-Delpuch	
+3	18.61	1035754	777140	C++	Bassel	
+3	18.6	1180178	2491116	Java	Ninja-Warrior	
 3	18.51	1422982	1621235	Python	GC	
+3	18.49	2456780	2335962	Java	CarsonJudd	
 3	18.46	1512667	1227063	Python3	DrevanTonder	
 3	18.2	1575086	842580	Python3	rlange	
 3	18.04	1170712	1468496	Python3	Djo0012	
+3	18.04	3808031	2991937	Ruby	_proton	
 3	18.04	2052663	1331776	Python3	Kanak	
-3	17.99	3808031	2991937	Ruby	_proton	
 3	17.97	1701465	910855	C#	JoelSimonsson	
 3	17.96	2158276	2492559	Java	ChetanJain	
 3	17.94	1015805	775314	C++	boddicheg	
@@ -963,17 +964,17 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2322,time=2021-08-17 00:38:
 3	17.84	846316	783973	C++	Tzupy	
 3	17.82	1409203	1631344	C++	Asterion	
 3	17.78	1314796	1226692	C#	JBence	
+3	17.74	834950	1496516	C#	XilasZ	
 3	17.74	3564009	2662657	Lua	Waffle3z	
-3	17.72	276480	1095956	Javascript	Karang	
 3	17.72	1771970	930323	Python3	Entei	
 3	17.72	1634781	776581	C++	O.lg.a	
+3	17.68	276480	1095956	Javascript	Karang	
 3	17.67	1654817	798588	Java	Swarovski84	
 3	17.65	1559016	1106684	Python	mshamory	
-3	17.62	1194054	826339	C++	Bidembois	
 3	17.62	1442750	1400457	Javascript	GwadaKing	
-3	17.57	834950	1496516	C#	XilasZ	
 3	17.56	3352882	2439034	Javascript	Sieghart	
-3	17.53	1124679	774494	C++	Tinaud	
+3	17.55	1194054	826339	C++	Bidembois	
+3	17.5	1124679	774494	C++	Tinaud	
 3	17.47	513549	1434517	Javascript	y0p	
 3	17.37	959943	1082974	C#	RyanHLouw	
 3	17.35	1219395	798915	Java	mihaj	
@@ -998,4 +999,3 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2322,time=2021-08-17 00:38:
 3	16.47	2245596	3468500	C++	BAZooo	
 3	16.34	1347751	787017	Java	FunFR	
 3	16.32	1729129	899906	Java	Thorvaldurg	
-3	16.18	1035630	3674027	Java	Vestiaz	

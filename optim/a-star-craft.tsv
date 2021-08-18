@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1043,time=2021-08-17 00:38:45
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1044,time=2021-08-18 00:51:45
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
 100	11774	351062	C++	Neumann	
@@ -60,8 +60,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1043,time=2021-08-17 00:38:45
 100	9592	1378958	C#	Illedan	
 100	9589	2436448	Java	FrancoisMeme	
 100	9588	1352413	C++	Bikibi	
+100	9577	3647844	C++	rc95401	
 100	9573	1854246	C++	Counterbalance	
-100	9545	3647844	C++	rc95401	
 100	9539	1760921	Go	[Leonardone]-[-_-]-[NEETSDKASU]	
 100	9535	1457162	C++	JFB	
 100	9522	1304841	C++	NitMpez	
@@ -291,6 +291,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1043,time=2021-08-17 00:38:45
 100	3882	1824376	Java	Kodle	
 100	3869	3792309	C++	schachmatt	
 100	3841	3376849	Python3	Horrip	
+100	3815	862919	C++	Astrobytes	
 100	3812	4095799	Python3	circular17	
 100	3805	4001904	Javascript	the_red_hat	
 100	3801	301922	Scala	tyrcho	
@@ -403,7 +404,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1043,time=2021-08-17 00:38:45
 100	2803	3245819	Python3	TomA	
 100	2799	3962423	C++	Shagar	
 100	2790	1410353	Rust	SwagColoredKitteh	
-100	2786	862919	C++	Astrobytes	
 100	2779	1029663	C	Skreamly	
 100	2773	2051278	C++	GuillaumeK	
 100	2766	3502258	Python3	TimAI	
@@ -928,6 +928,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1043,time=2021-08-17 00:38:45
 100	1045	3431280	Python3	luukhf	
 100	1045	4379624	Bash	KamadoTanjiro	
 100	1045	1945778	Javascript	Masthiks	
+100	1045	4452094	Bash	masongtxr	
 100	1041	1074744	Java	GwenGlSoft	
 100	1039	1129000	Python3	ChairmanOfTheBored	
 100	1031	2607465	Java	valmowa	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1043,time=2021-08-17 00:38:45
 100	1002	1178401	Python3	mizzHuarta	
 100	1002	3621947	Python3	vrabosh	
 100	1002	981878	Java	nicolasD	
-100	1002	3489223	Javascript	KarloHubai	

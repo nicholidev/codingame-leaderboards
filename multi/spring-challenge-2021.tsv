@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7175,time=2021-08-17 00:38:42
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7178,time=2021-08-18 00:51:43
 5	44.78	1400179	3665384	C++	reCurse	
 5	39.19	3457031	3766020	C++	YurkovAS	
 5	38.57	4300424	3704114	Rust	kurnevsky	
@@ -316,7 +316,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7175,time=2021-08-17 00:38:
 4	43.64	4071186	3667209	Python3	42pawns	
 4	43.62	2969181	3668591	C++	maras	
 4	43.6	4058994	3665359	Python3	neb0123	
-4	43.58	1883153	3671600	C++	Zoidb3rg	
+4	43.57	1883153	3671600	C++	Zoidb3rg	
 4	43.55	3480498	3687407	Java	BenPix	
 4	43.54	2762795	3666946	Python3	Keysuke	
 4	43.54	1544382	3666304	Python3	Ashargin	
@@ -741,7 +741,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7175,time=2021-08-17 00:38:
 4	34.96	2931246	3668230	C#	Kukiss	
 4	34.95	4323915	3667060	C	5atchm1n	
 4	34.94	3881345	3667888	C++	PavelFromPerm	
-4	34.93	4046568	3668519	Rust	jfaixo	
 4	34.92	3503664	3666943	Python3	egos	
 4	34.91	3737797	3675964	Javascript	lbadet	
 4	34.91	3646829	3666824	TypeScript	pigm0	
@@ -762,6 +761,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7175,time=2021-08-17 00:38:
 4	34.78	2092623	3669266	C++	YoshiNoob	
 4	34.77	4074306	3669077	C++	osc	
 4	34.75	1896941	3669798	Python3	Bluepioupiou	
+4	34.75	4046568	3668519	Rust	jfaixo	
 4	34.65	3427760	3666295	C#	ardalis	
 4	34.63	3836510	3667091	Python3	Chainman	
 4	34.62	4320801	3667104	Python3	HannaHol	
@@ -905,15 +905,15 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7175,time=2021-08-17 00:38:
 4	33.03	4313596	3666634	Kotlin	Heinszn	
 4	33.03	1492846	3665807	Java	mdaw	
 4	33.02	3420962	3669711	PHP	eadgbe	
+4	33.01	1475047	3669300	C++	Mayhem1	
 4	33	3877700	3672853	Rust	Bytekeeper	
 4	32.99	1979290	3669702	Python3	salmon	
 4	32.99	3018178	3693364	C++	Fallback	
-4	32.97	1475047	3669300	C++	Mayhem1	
 4	32.96	1960325	3669188	Javascript	Bladx	
 4	32.96	1115939	3678499	C++	Stounate	
 4	32.95	2025868	3666988	C++	sumoru	
 4	32.95	1352572	3667577	C#	niku-live	
-4	32.91	610989	3670006	Java	Bulbasaur237	
+4	32.91	610989	3670006	Java	Greg237	
 4	32.9	3501077	3666955	C++	Augis154	
 4	32.83	4066411	3668301	C#	PhanPhong	
 4	32.79	3938395	3702296	Python3	Quentin18	

@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5366,time=2021-08-17 00:38:44
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5369,time=2021-08-18 00:51:44
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -377,6 +377,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5366,time=2021-08-17 00:38:44
 100	4599	4290907	C++	janm31415	
 100	4603	4268887	Ruby	XeroOl	
 100	4604	3999478	C#	FuriousT	
+100	4604	4286616	Python3	Oddrea	
 100	4609	865548	Python3	Kktus	
 100	4612	155887	Javascript	BanBan	
 100	4615	1072200	C	alze	
@@ -440,7 +441,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5366,time=2021-08-17 00:38:44
 100	4847	1853772	Python3	rickert	
 100	4856	897543	C++	Peiffer-antoine.fr	
 100	4860	847660	Java	HarderThanNP	
-100	4863	4286616	Python3	Oddrea	
 100	4878	909992	C++	PluC	
 100	4879	4011783	TypeScript	sylbouns	
 100	4886	1607522	Go	RoboStac	
