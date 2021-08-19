@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=10757,time=2021-08-18 00:51:44
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=10759,time=2021-08-19 00:30:27
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
 100	1265020	1327028	C++	FredericBautista	
@@ -19,6 +19,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10757,time=2021-08-18 00:51:44
 100	672970	2968035	C++	DomiKo	
 100	665770	2316796	PHP	Psio	
 100	663620	1630890	Java	Wld	
+100	655210	1003777	Rust	DanXX09	
 100	649860	338469	C++	__mcts__	
 100	648260	2923506	C++	darkhorse64	
 100	644300	1378958	C#	Illedan	
@@ -26,7 +27,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10757,time=2021-08-18 00:51:44
 100	611130	837350	C++	BorisZ	
 100	543500	1273065	C++	TheRadical	
 100	505510	1549145	C++	Mealc	
-100	489880	1003777	Rust	DanXX09	
 100	486090	2436448	Java	FrancoisMeme	
 100	481750	4017851	C	Pintago	
 100	480190	3845610	C++	pardouin	
@@ -147,6 +147,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10757,time=2021-08-18 00:51:44
 100	239160	2232811	Javascript	nargile	
 100	238100	2579384	Rust	vlad107	
 100	237350	4040124	C	Bycop	
+100	237140	862919	C++	Astrobytes	
 100	236860	1186292	Rust	GLE	
 100	236160	860404	C++	Vitruvius	
 100	235020	2006324	C	SihardeOussama	
@@ -212,7 +213,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10757,time=2021-08-18 00:51:44
 100	215220	1753077	C++	codingWhale	
 100	214980	2595251	Rust	Veterini	
 100	214920	3750700	C++	VulpesCorsac	
-100	214760	862919	C++	Astrobytes	
 100	214740	3965091	C		
 100	214650	581921	C++	GuyBol	
 100	214510	3965095	C	Scotty9	

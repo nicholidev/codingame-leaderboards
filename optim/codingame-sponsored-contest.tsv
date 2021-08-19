@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=13745,time=2021-08-18 00:51:45
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=13749,time=2021-08-19 00:30:27
 100	14337	329200	C++	BlitzProg	
 100	13905	3533119	C++	wlesavo	
 100	13603	1366631	Javascript	Morhaus	
@@ -706,6 +706,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13745,time=2021-08-18 00:51:45
 100	2532	4184379	Python3	romain.wg	
 100	2532	4328575	Python3	Swyfti	
 100	2532	3925832	Python3	Maxim251	
+100	2532	4455122	Python3	Razorsixfive	
+100	2532	4239399	Python3	b18a9n	
 100	2528	1034635	C++	SlyB	
 100	2528	1740237	Python3	OlegKornelsen	
 100	2526	2950978	Python3	icecuber	
@@ -724,6 +726,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13745,time=2021-08-18 00:51:45
 100	2502	3965571	Python3	Smekarn	
 100	2502	4283515	PHP	FrancoisBaveye	
 100	2498	1250260	C	Elche	
+100	2498	3751016	C#	Q12	
 100	2497	1892369	C#	Blackw	
 100	2496	862336	C	Zaphus	
 100	2496	2652481	C#		
@@ -996,6 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13745,time=2021-08-18 00:51:45
 100	2048	271034	C++	6pi	
 100	2048	1487535	C++	SvartRiddare	
 100	2048	1675034	Javascript	francois	
-100	2046	930444	C#	Holy_troll	
-100	2046	154388	Python3	PonyPonyCodeCode	
-100	2044	2917059	Python3	Esprit_NOBEL	
