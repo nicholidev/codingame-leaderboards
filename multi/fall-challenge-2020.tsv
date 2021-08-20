@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7824,time=2021-08-19 00:30:24
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7830,time=2021-08-20 00:46:46
 5	29.95	832306	3312396	C++	pb4	
 5	29.51	154984	3332311	C++	_Royale	
 5	29.02	668954	3339073	C++	Fluxor	
@@ -725,10 +725,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7824,time=2021-08-19 00:30:
 3	37.66	3513815	3312053	Python3	jj_	
 3	37.64	4037601	3311524	C++	Jelafo	
 3	37.64	1098634	3315701	Javascript	grsoares	
-3	37.63	3808339	3310092	C++	naoya_t	
 3	37.63	2333083	3312390	C++	Febrin	
+3	37.62	3808339	3310092	C++	naoya_t	
+3	37.61	1467771	3485208	C++	Telokis	
 3	37.59	1445969	3307473	C++	JoPich	
-3	37.59	1467771	3485208	C++	Telokis	
 3	37.58	4056955	3311140	Javascript	Adurmm	
 3	37.58	1282693	3310300	Java	Kuikye	
 3	37.57	3836173	3309171	TypeScript	razyon	
@@ -889,8 +889,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7824,time=2021-08-19 00:30:
 3	35.25	4145194	3498932	F#	charnel_mouse	
 3	35.24	3750962	3309559	C++	Jeroenodb	
 3	35.23	354788	3373752	C++	Lexer31	
-3	35.22	2463909	3308486	Kotlin	ckobayashi	
 3	35.22	1414854	3312997	Rust	jpages	
+3	35.22	2463909	3308486	Kotlin	ckobayashi	
 3	35.21	153692	3312414	Java	Bleizig	
 3	35.17	3273528	3312857	C++	RavenKZP	
 3	35.17	3173494	3308185	Python3	WKDE	
@@ -982,7 +982,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7824,time=2021-08-19 00:30:
 3	33.72	3026370	3312319	Python3	Bernard_Lowe	
 3	33.71	3627465	3312541	Python3	dogiv	
 3	33.71	3759730	3311032	Java	lolo_59	
-3	33.7	1479398	3349261	C#	MindingData	
+3	33.69	1479398	3349261	C#	MindingData	
 3	33.69	3349842	3311050	OCaml	eponier	
 3	33.69	2738964	3313191	Python3	JordanKowal	
 3	33.69	1953786	3315508	Python3	ludowsky	
