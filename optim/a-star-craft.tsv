@@ -1,8 +1,9 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1044,time=2021-08-20 00:53:02
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1045,time=2021-08-21 00:30:29
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
 100	11774	351062	C++	Neumann	
 100	11724	1169499	C++	naab	
+100	11712	2077805	C++	bamilan	
 100	11710	1500515	C#	eulerscheZahl	
 100	11381	1530051	C++	UlYoP	
 100	11369	2968035	C++	DomiKo	
@@ -21,7 +22,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1044,time=2021-08-20 00:53:02
 100	10694	1684486	C++	Whopper	
 100	10691	1452472	C++	Daporan	
 100	10650	3918583	Rust	mikmak	
-100	10647	2077805	C++	bamilan	
 100	10611	2311105	C++	kovi	
 100	10547	1114834	C++	k4ng0u	
 100	10529	1335230	C++	jft63	
@@ -56,7 +56,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1044,time=2021-08-20 00:53:02
 100	9702	1106450	C++	RiSuS	
 100	9659	2350846	C++	DrBloodmoney	
 100	9659	3463517	C++	jackoneill	
-100	9614	3647844	C++	rc95401	
+100	9619	3647844	C++	rc95401	
 100	9601	1194069	Java	Redstrike	
 100	9592	1378958	C#	Illedan	
 100	9589	2436448	Java	FrancoisMeme	
@@ -158,6 +158,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1044,time=2021-08-20 00:53:02
 100	7019	2368190	C++	ArtemSpider	
 100	6954	1893989	Python3	Rosstherock	
 100	6909	2521394	Kotlin	FrankR	
+100	6905	4095799	Pascal	circular17	
 100	6791	2018552	C++	gurualo	
 100	6675	933299	Scala	ThibautRobert	
 100	6656	2158577	C++	zuko3d	
@@ -292,7 +293,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1044,time=2021-08-20 00:53:02
 100	3869	3792309	C++	schachmatt	
 100	3841	3376849	Python3	Horrip	
 100	3815	862919	C++	Astrobytes	
-100	3812	4095799	Python3	circular17	
 100	3805	4001904	Javascript	the_red_hat	
 100	3801	301922	Scala	tyrcho	
 100	3800	1453140	VB.NET	believerboy	
@@ -929,6 +929,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1044,time=2021-08-20 00:53:02
 100	1045	4379624	Bash	KamadoTanjiro	
 100	1045	1945778	Javascript	Masthiks	
 100	1045	4452094	Bash	masongtxr	
+100	1045	4280014	Python3	HannoB	
 100	1041	1074744	Java	GwenGlSoft	
 100	1039	1129000	Python3	ChairmanOfTheBored	
 100	1031	2607465	Java	valmowa	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1044,time=2021-08-20 00:53:02
 100	1002	209298	Python3	pipistrello	
 100	1002	1178401	Python3	mizzHuarta	
 100	1002	3621947	Python3	vrabosh	
-100	1002	981878	Java	nicolasD	

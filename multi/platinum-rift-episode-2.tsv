@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1843,time=2021-08-20 00:46:46
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1844,time=2021-08-21 00:30:25
 0	46.34	1400179	2090524	C++	reCurse	
 0	45.05	1629259	2339355	C++	Marchete	
 0	44.47	2288263	2418174	Rust	dbdr	
@@ -122,7 +122,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1843,time=2021-08-20 00:46:
 0	28.46	3893114	3032704	Java	G.U.E.	
 0	28.41	857521	653465	C#	MrAnderson	
 0	28.4	1201796	772060	C++	P.Greze	
-0	28.39	2995082	2132699	C#	Falcon9BFR	
+0	28.38	2995082	2132699	C#	Falcon9BFR	
 0	28.35	2981558	2132897	C++	remotfognik	
 0	28.33	3331437	2402413	Java	Vintern	
 0	28.31	3165536	3007269	C#	barbora	
@@ -538,8 +538,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1843,time=2021-08-20 00:46:
 0	23.09	2188022	3461323	Kotlin	neuralsim	
 0	23.07	379413	252350	Java	Willim_1985	
 0	23.07	4216700	3677118	C#	DogukanSENER	
+0	23.06	3205329	2254620	C#	rivaldirasya	
 0	23.05	1848087	1230597	Javascript	Morahk	
-0	23.05	3205329	2254620	C#	rivaldirasya	
 0	23.03	629655	800228	Javascript	Wolden-Dans	
 0	23.02	1411649	502836	C++	Levatol	
 0	23.02	1427078	690523	Java	ToshiTuringMachine	
@@ -602,6 +602,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1843,time=2021-08-20 00:46:
 0	22.54	4008476	3426938	C#	ArteXa	
 0	22.54	1458734	493156	Python3	Lizardue	
 0	22.52	600400	256784	C++	Wiltube	
+0	22.52	1405316	1674066	Java	MarvelousMadness	
 0	22.51	2077805	3006764	C++	bamilan	
 0	22.51	2173864	2131918	Python3	Chimera	
 0	22.51	1943653	1222831	Java	Rik	
@@ -634,7 +635,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1843,time=2021-08-20 00:46:
 0	22.47	154986	254955	C++	Olayinka	
 0	22.47	1393911	443512	Javascript	neal_s	
 0	22.47	1034499	1855415	Java	DOS	
-0	22.46	1405316	1674066	Java	MarvelousMadness	
 0	22.46	1811179	1674754	Java	Tetarus	
 0	22.46	904011	708181	Javascript	reserford	
 0	22.46	3192963	2250462	C#	Fandi_azam	
@@ -947,9 +947,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1843,time=2021-08-20 00:46:
 0	17.75	2173079	1450857	Java	optimus_prime	
 0	17.74	523846	254628	C#	Palmipedus	
 0	17.69	880044	307871	C#	Dalmali	
+0	17.68	2003326	1602408	Python	Rat62	
 0	17.67	649227	257276	C#	lenac	
 0	17.64	2574928	2709326	Rust	votrelec	
-0	17.61	2003326	1602408	Python	Rat62	
 0	17.61	2438011	1646651	C	Findo	
 0	17.61	1904803	2209641	C#	Martijnjvdd	
 0	17.61	2762280	1970910	Javascript	BGM	
