@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3838,time=2021-08-21 00:30:10
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3839,time=2021-08-22 00:30:08
 5	35.59	1629259	2238218	C++	Marchete	
 5	33.03	494104	960105	C++	Recar	
 5	32.53	818534	960075	C++	Ixanezis	
@@ -873,9 +873,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3838,time=2021-08-21 00:30:
 3	25.42	1495642	1417921	Javascript	AtomCrafty	
 3	25.39	1324974	3378925	Rust	ViktorCs	
 3	25.39	153965	937537	Python3	Keelhaul	
+3	25.38	225875	3108900	C#	leff	
 3	25.37	3941235	3077216	C++	k3chupe	
 3	25.33	1125334	937553	C#	Hehoslav	
-3	25.31	225875	3108900	C#	leff	
 3	25.3	1167615	1081761	C++	TylerDurden	
 3	25.3	3101644	2482638	Java	HerrHagner	
 3	25.25	810568	938195	C++	Drake	
@@ -903,8 +903,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3838,time=2021-08-21 00:30:
 3	24.94	1480384	963493	C++	RockyMullet	
 3	24.94	648978	937945	C++	winger	
 3	24.94	1630890	1308306	Java	Wld	
-3	24.93	1688887	958727	C#	Kryptum	
 3	24.93	1410353	3385607	Rust	SwagColoredKitteh	
+3	24.93	1688887	958727	C#	Kryptum	
 3	24.93	824766	937452	Java	knard	
 3	24.91	173522	937504	C#	TeddyS	
 3	24.9	276099	937854	C++	R1	
@@ -916,7 +916,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3838,time=2021-08-21 00:30:
 3	24.8	1106450	971809	C++	RiSuS	
 3	24.78	2455124	2475576	C	agiordan	
 3	24.78	810438	937955	C++	Sasurai	
-3	24.73	3295205	2325834	Kotlin	VNG_IS	
 3	24.7	1684020	3741406	Python3	tom_	
 3	24.69	381749	937888	C++	AlexJH	
 3	24.69	807211	937644	C#	MohamedHamed	
@@ -924,6 +923,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3838,time=2021-08-21 00:30:
 3	24.64	1364613	937940	Java	DudeXIII	
 3	24.6	2398608	2657236	Python3	M_C	
 3	24.6	1520827	1414632	Java	IcedCapp	
+3	24.56	3295205	2325834	Kotlin	VNG_IS	
 3	24.56	153674	938600	C	GQMP	
 3	24.56	812420	937437	Python3	rndczn	
 3	24.55	834043	937997	C#	Benoit74B	
@@ -954,8 +954,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3838,time=2021-08-21 00:30:
 3	23.39	817812	937892	C++	hiro00	
 3	23.35	915957	937963	C	Tux	
 3	23.35	972917	3081554	Python3	norbi97	
-3	23.34	193698	937881	C++	snotrabjorn	
 3	23.29	783337	937799	Javascript	Dewey	
+3	23.28	193698	937881	C++	snotrabjorn	
 3	23.25	1564309	1473450	Javascript	gravitypx	
 3	23.22	2255187	2087043	PHP	rom_02	
 3	23.2	2891206	3694334	Javascript	conrisc	
