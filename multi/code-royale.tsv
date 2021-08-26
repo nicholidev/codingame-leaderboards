@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3527,time=2021-08-25 00:30:15
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3527,time=2021-08-26 00:30:15
 6	30.73	1049935	2653256	C++	Azkellas	
 6	30.55	1607522	1886979	C++	RoboStac	
 6	28.69	735910	1886983	C++	Agade	
@@ -462,7 +462,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3527,time=2021-08-25 00:30:
 3	25.22	1569420	2995321	Python3	Tuo	
 3	25.14	1694898	1873991	Python3	tcchiang	
 3	25.12	3518158	2631789	Java	RonanGui	
-3	25.04	1075260	1934384	Java	metwesse	
+3	25.07	1075260	1934384	Java	metwesse	
 3	24.95	4292379	3781992	Python3	Chairman_of_the_Borg	
 3	24.92	3573721	2628593	Java	Kheops	
 3	24.92	1223140	1943357	Kotlin	kgautron	
@@ -627,10 +627,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3527,time=2021-08-25 00:30:
 3	21.77	262688	2345126	C#	CortexSuperior	
 3	21.73	1336138	1970992	Python3	wyrdoe	
 3	21.7	2576701	3710579	Python3	LustOne	
+3	21.69	1895182	1871037	Javascript	Jean_Francois_R	
 3	21.68	4298841	3701573	C#	Dapps	
 3	21.66	4329706	3711985	C#	Sferenc	
 3	21.63	1903031	1861337	Python3	hard-coded	
-3	21.62	1895182	1871037	Javascript	Jean_Francois_R	
 3	21.61	828213	1860547	Go	anst	
 3	21.61	2480164	1885893	C++	Howard123	
 3	21.56	3026548	2183485	Python3	numbermaniac	
@@ -746,12 +746,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3527,time=2021-08-25 00:30:
 3	19.91	2004714	2250486	Scala	Rayho	
 3	19.89	3444401	2476666	C#	Marcika	
 3	19.89	972917	3079912	Python3	norbi97	
-3	19.89	2794638	2081479	Java	patrickm	
 3	19.88	2397787	3379424	Perl	BenLeGob	
 3	19.88	2680190	1908913	Python3	brarrow	
 3	19.87	3555227	2684249	Python3	amaotone	
 3	19.87	659935	2337714	Kotlin	Melman	
 3	19.86	2698546	2427195	Javascript	Eniotan	
+3	19.84	2794638	2081479	Java	patrickm	
 3	19.83	2252914	1875754	Python3	Malleek	
 3	19.83	1353795	1861244	Javascript	TheCrucial	
 3	19.82	3520116	2572425	C#	poik007	
@@ -821,7 +821,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3527,time=2021-08-25 00:30:
 3	18.72	3419066	2614886	Python3	xR3m1x	
 3	18.71	1096274	1875616	C#	DrBrask	
 3	18.71	2023965	2589379	Java	Tempomancer9934	
-3	18.71	233834	2266822	C++	Herumor	
 3	18.71	2968035	3079419	C++	DomiKo	
 3	18.7	2480152	1904936	C++	Koc	
 3	18.69	2155916	2634199	Python3	ButterflyEA	
@@ -836,6 +835,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3527,time=2021-08-25 00:30:
 3	18.66	3255947	3463569	C#	sialino_florian	
 3	18.65	1568785	1938136	C	Chalzy	
 3	18.63	3984040	3699131	Java	ClementMateo	
+3	18.63	233834	2266822	C++	Herumor	
 3	18.63	1318207	2698903	C#	Liezz	
 3	18.63	3956922	3085785	Javascript	emmagordon	
 3	18.62	3984901	3132420	Java	Qwary	
@@ -975,27 +975,27 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3527,time=2021-08-25 00:30:
 3	16.84	1162999	2357304	Java	Vaekor	
 3	16.82	854952	2044561	Java	dolmen1234	
 3	16.81	3903990	3114794	Java	asdfasdfads	
+3	16.78	1095278	3001163	C#	MR23	
 3	16.78	2830729	2487877	Python3	qubits	
 3	16.77	1416686	1897478	C#	Avatar256	
 3	16.77	3715934	2748676	C#	Darkfang	
 3	16.77	3779295	3789674	Python3	xxd	
+3	16.76	3881333	3523342	TypeScript	TintinMilou	
 3	16.75	2613731	1868258	Python3	SafPlusPlus	
-3	16.75	2749146	2033386	Python3	DoubleDOriginal	
+3	16.75	1729129	3801628	Java	Thorvaldurg	
+3	16.73	1253664	1864547	Python3	Arinelle	
 3	16.73	2162401	2107497	C++	Eugenijus	
 3	16.72	917052	2075862	C#	Esside	
 3	16.7	1862435	3026648	Go	hunomina	
 3	16.7	2903283	2092956	Python3	Clement-Warneys	
 3	16.67	3276670	2998949	TypeScript	yngknw	
-3	16.67	1095278	3001163	C#	MR23	
 3	16.66	2835016	2062157	C++	starkode	
-3	16.62	1253664	1864547	Python3	Arinelle	
-3	16.61	3881333	3523342	TypeScript	TintinMilou	
-3	16.51	1706034	1955765	Python3	Patricia	
+3	16.66	2749146	2033386	Python3	DoubleDOriginal	
+3	16.59	2112782	2694471	Python3	spyk	
 3	16.5	3373803	2424334	PHP	Fanfoi125	
-3	16.48	2112782	2694471	Python3	spyk	
-3	16.46	2480132	1916953	C++	Ikaros1110	
-3	16.46	890305	1877763	Java	Michel-L	
 3	16.45	3529323	3121448	Javascript	J-IN	
-3	16.42	1729129	3800631	Java	Thorvaldurg	
+3	16.42	1706034	1955765	Python3	Patricia	
 3	16.38	2148998	1865860	C#	Garjon	
+3	16.38	2480132	1916953	C++	Ikaros1110	
+3	16.37	890305	1877763	Java	Michel-L	
 3	16.35	1891787	2435087	Python3	Threyeth	

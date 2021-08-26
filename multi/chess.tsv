@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=123,time=2021-08-25 00:30:16
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=124,time=2021-08-26 00:30:17
 1	41.48	1673512	3535213	C++	Ryoken	
 1	39.74	2924895	3399667	C	trictrac	
 1	37.58	3136787	3523044	C++	jacek	
@@ -27,7 +27,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=123,time=2021-08-25 00:30:1
 0	22.65	4414812	3749637	C++	GPoll	
 0	21.97	2290633	3401395	Python3	field3	
 0	21.31	1861279	3746597	Java	FrequentlyMissedDeadlines	
-0	19.68	4071357	3525363	Python3	GrowlingBear	
+0	19.7	4071357	3525363	Python3	GrowlingBear	
 0	18.64	3691491	3462795	Javascript	icecream17	
 0	18.29	4156437	3440037	C++	komiamiko	
 0	17.5	3657937	3399256	Python3	elderlybeginner	
@@ -38,8 +38,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=123,time=2021-08-25 00:30:1
 0	16.36	3465870	3513150	C++	HBaudet	
 0	16.32	1288527	3427566	C++	Snef	
 0	16.29	2902168	3413842	Python3	Fabricej	
+0	16.24	3846244	3426610	Python3	JLukeSkywalker	
 0	16.17	928567	3776631	C++	Konstanta	
-0	16.16	3846244	3426610	Python3	JLukeSkywalker	
 0	15.93	1013649	3718040	C++	Nodren	
 0	15.85	3569066	3457935	D	derjack	
 0	15.83	1971865	3459467	Python3	Nanosplitter	
@@ -47,15 +47,15 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=123,time=2021-08-25 00:30:1
 0	15.82	4158566	3403123	Python3	intt	
 0	15.8	2901011	3509705	C#	Ayakor	
 0	15.78	3737269	3395428	Python3	htprogras	
+0	15.77	4105514	3405727	Python3	FeiChong	
 0	15.77	2325449	3502826	PHP	otpv	
 0	15.76	889789	3510207	C	Alain-Delpuch	
-0	15.75	4105514	3405727	Python3	FeiChong	
 0	15.71	1800997	3743511	Python3	The_ZimaBlue	
+0	15.7	1412263	3405274	PHP	PatrickMcGinnisII	
 0	15.69	3420127	3514025	Python3	abraaobarros	
 0	15.69	4002604	3516577	C	Phurapper	
 0	15.69	4237392	3515470	PHP	haykuro	
 0	15.68	1802808	3705911	Python3	EnderWiggins	
-0	15.68	1412263	3405274	PHP	PatrickMcGinnisII	
 0	15.68	4289609	3516797	Python3	Narolph	
 0	15.68	2852592	3511978	C++	OHER	
 0	15.68	1863217	3511953	C	Draradech	
@@ -74,6 +74,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=123,time=2021-08-25 00:30:1
 0	15.62	4153954	3508750	Python3	RichardTheDou	
 0	15.61	2089692	3533580	Scala	raxkin	
 0	15.61	3996765	3514251	Python3	CodeDiller	
+0	15.61	1861852	3441566	Javascript	Cramer	
 0	15.6	2517057	3525527	C++	Edds	
 0	15.59	3354337	3395508	C++	Westicles	
 0	15.59	232528	3695473	C	cegprakash	
@@ -84,7 +85,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=123,time=2021-08-25 00:30:1
 0	15.58	4279233	3513087	Python3	Alex-1	
 0	15.58	4280786	3525715	C++	chocoK	
 0	15.57	4274399	3512842	Python3	AdrienPEREIRA1	
-0	15.56	1861852	3441566	Javascript	Cramer	
 0	15.56	4233955	3515934	C#	Hujing	
 0	15.55	4281792	3776876	C++	YorkParodie	
 0	15.54	3754358	3515813	Python3	Maxordd	
@@ -109,16 +109,17 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=123,time=2021-08-25 00:30:1
 0	15.18	4390977	3738793	Python3	Zathuw	
 0	14.73	3646435	3512909	Javascript	tsiryJL	
 0	14.65	4451835	3782396	C++	woowang	
-0	14.61	4206218	3797723	C#	ProCoder03	
-0	14.57	385699	3437438	Go	Nikai	
-0	13.9	1436776	3711940	C++	BrainSolver	
-0	13.76	4451780	3773878	TypeScript	FrontendCoding	
+0	14.58	4206218	3797723	C#	ProCoder03	
+0	14.53	385699	3437438	Go	Nikai	
+0	13.84	1436776	3711940	C++	BrainSolver	
+0	13.72	4451780	3773878	TypeScript	FrontendCoding	
 0	13.64	4379435	3719011	Javascript	Naourass	
-0	13.42	2613979	3510050	C#	Akhaten	
-0	11.5	3781816	3563663	C#	saw7	
-0	11.13	1610862	3519807	Go	JoseSantosL	
-0	9.53	4274025	3514059	Python3	joniebear	
-0	-1.75	4170716	3513363	Python3	TimothyTinTzeSo	
-0	-2.89	4286452	3513684	Python3	RockyHB	
-0	-3.1	1109021	3530894	C++	Toefski	
-0	-9.66	4100445	3514434	Python3	MathiasBennick	
+0	13.39	2613979	3510050	C#	Akhaten	
+0	11.51	3781816	3563663	C#	saw7	
+0	11.16	1610862	3519807	Go	JoseSantosL	
+0	9.64	4274025	3514059	Python3	joniebear	
+0	-1.11	4192832	3801820	Python3	HV_05	
+0	-1.76	4170716	3513363	Python3	TimothyTinTzeSo	
+0	-2.14	4286452	3513684	Python3	RockyHB	
+0	-3.13	1109021	3530894	C++	Toefski	
+0	-9.83	4100445	3514434	Python3	MathiasBennick	
