@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1046,time=2021-08-26 00:30:29
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1046,time=2021-08-27 00:30:44
 100	11920	2077805	C++	bamilan	
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
@@ -46,6 +46,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1046,time=2021-08-26 00:30:29
 100	9997	2731276	C++	panda42	
 100	9862	1314316	C++	jolindien	
 100	9856	892056	Java	LaurentTrk	
+100	9835	3647844	C++	rc95401	
 100	9805	311035	Python3	leojean890	
 100	9803	1180157	C++	shindannin	
 100	9802	806157	C++	Aveuh	
@@ -53,7 +54,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1046,time=2021-08-26 00:30:29
 100	9777	2386035	C++	Samsonov	
 100	9757	2043908	C++	AntiSquid	
 100	9737	2242201	C++	Maryan	
-100	9728	3647844	C++	rc95401	
 100	9702	1106450	C++	RiSuS	
 100	9659	2350846	C++	DrBloodmoney	
 100	9659	3463517	C++	jackoneill	
@@ -309,6 +309,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1046,time=2021-08-26 00:30:29
 100	3687	2315896	C++	DeCe	
 100	3683	2792232	C#	Monoterpene	
 100	3658	3533119	C++	wlesavo	
+100	3652	2595251	Rust	Veterini	
 100	3650	1883740	C++	kermo	
 100	3621	4286679	Javascript	fungi_star	
 100	3612	1354295	Javascript	AbdullahKhawer	
@@ -361,7 +362,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1046,time=2021-08-26 00:30:29
 100	3323	3027150	Javascript	Ravindra05	
 100	3306	1200669	Python3	houseofsuns	
 100	3284	1495694	C++	MisterJensen	
-100	3256	2595251	Rust	Veterini	
 100	3245	1614572	Javascript	tuannapci	
 100	3238	802171	PHP	Merome	
 100	3237	1903031	C++	hard-coded	
