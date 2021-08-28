@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5392,time=2021-08-27 00:30:43
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5394,time=2021-08-28 00:30:28
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -472,6 +472,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5392,time=2021-08-27 00:30:43
 100	5178	3525167	Python3	fgsdt	
 100	5185	4034494	Rust	GTaf	
 100	5194	1306541	Python3	Steuh	
+100	5194	4165137	Python3	tactile	
 100	5205	2716329	Python3	Recher	
 100	5212	1770280	C#	Maxboyer	
 100	5220	957176	C#	MWilliam	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5392,time=2021-08-27 00:30:43
 100	5887	2350904	C	Nyng	
 100	5887	1569596	C++	JamesYelton	
 100	5887	1035241	C++	Aleman	
-100	5887	2903169	Javascript	glorindel	

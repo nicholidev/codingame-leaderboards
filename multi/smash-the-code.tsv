@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2494,time=2021-08-27 00:30:11
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2494,time=2021-08-28 00:30:17
 5	35.67	1400179	2986754	C++	reCurse	
 5	32.04	1327028	2990369	C++	FredericBautista	
 5	30.5	1413236	511966	Go	Medici	
@@ -927,6 +927,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2494,time=2021-08-27 00:30:
 1	23.19	224988	506945	Python	DerPferd	
 1	23.18	1308136	622142	Javascript	AsZ	
 1	23.18	162982	1122658	Python3	Dami-e	
+1	23.18	1411423	484831	Perl	Wyllyam	
 1	23.18	2257079	1581890	C#	MartinVN	
 1	23.18	1297591	653520	C	BigHead	
 1	23.18	1490531	579789	C++	pedrofr	
@@ -934,7 +935,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2494,time=2021-08-27 00:30:
 1	23.18	1439710	614967	Javascript	Buesto	
 1	23.18	1690967	897004	C#	protone911	
 1	23.18	2085746	1390550	C++	JacobNoga	
-1	23.17	1411423	484831	Perl	Wyllyam	
 1	23.17	1517028	936212	Python3	Nicau	
 1	23.17	1446587	486540	Python3	Cooch	
 1	23.17	1458250	582666	Python3	Epsilonmajorquezero	
@@ -971,6 +971,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2494,time=2021-08-27 00:30:
 1	23.08	1478742	551752	C++	Archimist	
 1	23.08	1563880	672682	Java	Patrick8675	
 1	23.07	1550152	741435	Python3	flaks314	
+1	23.07	1467976	500221	C	NickDominov	
 1	23.07	1811179	2257842	Java	Tetarus	
 1	23.06	1631676	749681	Python3	timoransky	
 1	23.06	1263862	646541	Python3	Palermo	
@@ -989,7 +990,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2494,time=2021-08-27 00:30:
 1	23.03	869320	583908	C++	Draggoon	
 1	23.03	433065	493848	C#	Knafle	
 1	23.03	3274211	2321414	C++	SLJesus	
-1	23.02	1467976	500221	C	NickDominov	
 1	23.02	1547430	685362	Go	softclone	
 1	23.02	1896128	1947601	Python3	Vhanire	
 1	23.02	1495350	591678	PHP	Wranorn	

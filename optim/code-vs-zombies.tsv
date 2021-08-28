@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=10816,time=2021-08-27 00:30:43
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=10824,time=2021-08-28 00:30:28
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
 100	1265020	1327028	C++	FredericBautista	
@@ -145,6 +145,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10816,time=2021-08-27 00:30:43
 100	240890	1178276	Java	Jerome_95	
 100	239940	2872886	C	Andy_F	
 100	239630	2007852	Go	Zorg1	
+100	239550	3230159	C	Phoniex__	
 100	239160	2232811	Javascript	nargile	
 100	238100	2579384	Rust	vlad107	
 100	237350	4040124	C	Bycop	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10816,time=2021-08-27 00:30:43
 100	63880	4312298	Python3	SicktorHass	
 100	63870	4155983	PHP	o0lit3	
 100	63860	1061061	C#	Bandersnatch	
-100	63840	677699	C#	Kawn	
