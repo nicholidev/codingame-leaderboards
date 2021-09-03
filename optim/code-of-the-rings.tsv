@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5402,time=2021-09-02 00:30:23
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5406,time=2021-09-03 00:36:36
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -177,6 +177,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5402,time=2021-09-02 00:30:23
 100	3900	416762	C#	Khao	
 100	3904	2526322	Java	fhemsworth	
 100	3910	706692	Java	alexhap	
+100	3922	4165137	Python3	tactile	
 100	3930	632549	Java	Keiras	
 100	3944	1264368	C#	Ultimacho	
 100	3946	1505744	Python3	KEKW	
@@ -245,7 +246,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5402,time=2021-09-02 00:30:23
 100	4052	4053362	C#	Johan_Braanen	
 100	4059	1353260	Java	kluf	
 100	4061	915957	C	Tux	
-100	4065	4165137	Python3	tactile	
 100	4075	3766290	Javascript	xineohp	
 100	4081	518726	Haskell	nybble41	
 100	4081	2451652	Javascript	code_of_the_dead	
