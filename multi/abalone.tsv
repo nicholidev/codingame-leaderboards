@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=15,time=2021-09-03 00:30:03
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=16,time=2021-09-04 00:30:03
 1	35.52	2924895	3777749	C	trictrac	
 1	28.17	2290633	3777637	Python3	field3	
 1	23.2	1479930	3777941	C++	LeRenard	
@@ -7,10 +7,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=15,time=2021-09-03 00:30:03
 1	16.02	311035	3787225	Python3	leojean890	
 1	15.48	1412263	3779878	PHP	PatrickMcGinnisII	
 1	12.9	862919	3798478	C++	Astrobytes	
-0	7.49	3136787	3778437	Python3	jacek	
-0	6.66	3657937	3780833	Python3	elderlybeginner	
-0	6.45	2043908	3788361	VB.NET	AntiSquid	
-0	6.45	3721214	3779479	Python3	jrke	
-0	6.08	1713174	3782188	Python3	BigUP	
-0	5.99	3569066	3780270	Python3	derjack	
-0	-8.31	2325449	3796651	Perl	otpv	
+0	7.47	3136787	3778437	Python3	jacek	
+0	6.75	3657937	3780833	Python3	elderlybeginner	
+0	6.59	2043908	3788361	VB.NET	AntiSquid	
+0	6.56	3721214	3779479	Python3	jrke	
+0	6.16	1713174	3782188	Python3	BigUP	
+0	6.08	3569066	3780270	Python3	derjack	
+0	-6.61	2325449	3796651	Perl	otpv	
+0	-8.98	3999693	3811610	C++	ln-dev05	
