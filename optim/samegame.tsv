@@ -1,6 +1,7 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=378,time=2021-09-04 01:02:49
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=380,time=2021-09-05 00:52:14
 100	174652	3354337	Scala	Westicles	
 100	167588	1530051	C++	UlYoP	
+100	166108	2923506	C++	darkhorse64	
 100	165192	2968035	C++	DomiKo	
 100	164196	1629259	C#	Marchete	
 100	156252	2924895	C	trictrac	
@@ -17,14 +18,13 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=378,time=2021-09-04 01:02:49
 100	129368	3235897	Java	Zylo	
 100	128988	1399382	C#	Regulus136	
 100	128510	1378958	C#	Illedan	
+100	128074	893541	Java	wala	
 100	120642	3046779	Rust	Kathrin	
 100	118483	3457031	C++	YurkovAS	
 100	116591	1201796	Java	P.Greze	
-100	113915	2923506	C++	darkhorse64	
 100	113146	3533119	Python3	wlesavo	
 100	110747	580424	C++	siman	
 100	109674	1243354	C++	RSBat	
-100	104054	893541	Java	wala	
 100	102666	509738	C++	Konrad_Wer	
 100	99630	3525167	Java	fgsdt	
 100	96229	2510517	C++	Turtlefight	
@@ -146,6 +146,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=378,time=2021-09-04 01:02:49
 100	22101	4218167	C#	33L3H2	
 100	21978	1158098	TypeScript	Matjaz	
 100	21068	1480426	Python3	Hikari42	
+100	20937	1525816	Javascript	Flodnes	
 100	20699	153931	C#	Bast	
 100	20198	3979220	Java	sahdevav	
 100	19462	970195	C++	Elbanono	
@@ -178,6 +179,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=378,time=2021-09-04 01:02:49
 100	10628	3878056	Python3	LighTender	
 100	10584	3344108	Rust	Xmar	
 100	10576	4286679	Python3	fungi_star	
+100	10455	512097	Haskell	Stilgart	
 100	10352	1715811	Java	PositiveQuark	
 100	10279	3858550	Python3	SPDene	
 100	10263	4252924	Java	mike82	
