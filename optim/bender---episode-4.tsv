@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=223,time=2021-09-05 00:52:13
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=224,time=2021-09-06 00:30:26
 100	1675	2288263	Rust	dbdr	
 100	1677	1944090	C#	spaceorc	
 100	1741	1399382	C#	Regulus136	
@@ -10,6 +10,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=223,time=2021-09-05 00:52:13
 100	1982	2785892	Python3	levbor	
 100	1987	3918583	Rust	mikmak	
 100	2064	1500515	C#	eulerscheZahl	
+100	2141	3983017	PHP	TLbuis	
 100	2148	3741524	C	princess_of_zeal	
 100	2208	1001096	C#	MyIIone	
 100	2243	1436776	C++	BrainSolver	
@@ -42,7 +43,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=223,time=2021-09-05 00:52:13
 100	3271	3305510	PHP	TBali	
 100	3359	3465661	TypeScript	Thiesjoo	
 100	3474	311035	Python3	leojean890	
-100	4070	3983017	PHP	TLbuis	
 100	4276	894599	Java	DidierC	
 100	4438	3457031	C++	YurkovAS	
 100	4886	668906	Kotlin	Sandworm	
@@ -151,6 +151,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=223,time=2021-09-05 00:52:13
 0	0	2660470	Java	Perdur	
 0	0	4459243	Java	CodeNick	
 0	0	3768412	Kotlin	calebharrison	
+0	0	2017805	Python3	Winter_not_comming	
 0	16	3503501	C++	Dagnarus	
 0	30	1060181	Ruby	Dabou	
 0	30	1759335	Bash	metahom	

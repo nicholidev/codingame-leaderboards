@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=380,time=2021-09-05 00:52:14
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=381,time=2021-09-06 00:30:27
 100	174652	3354337	Scala	Westicles	
 100	167588	1530051	C++	UlYoP	
 100	166108	2923506	C++	darkhorse64	
@@ -14,11 +14,11 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=380,time=2021-09-05 00:52:14
 100	145638	4007648	C++	nan0S_	
 100	139032	1425201	C#	JamesPun	
 100	136253	2311105	C++	kovi	
+100	133004	893541	Java	wala	
 100	131250	3918583	Rust	mikmak	
 100	129368	3235897	Java	Zylo	
 100	128988	1399382	C#	Regulus136	
 100	128510	1378958	C#	Illedan	
-100	128074	893541	Java	wala	
 100	120642	3046779	Rust	Kathrin	
 100	118483	3457031	C++	YurkovAS	
 100	116591	1201796	Java	P.Greze	
@@ -146,8 +146,10 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=380,time=2021-09-05 00:52:14
 100	22101	4218167	C#	33L3H2	
 100	21978	1158098	TypeScript	Matjaz	
 100	21068	1480426	Python3	Hikari42	
+100	21006	512097	Haskell	Stilgart	
 100	20937	1525816	Javascript	Flodnes	
 100	20699	153931	C#	Bast	
+100	20260	3563934	C#	ChuckTheNinja	
 100	20198	3979220	Java	sahdevav	
 100	19462	970195	C++	Elbanono	
 100	18922	1519989	Python3	a5kin	
@@ -179,7 +181,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=380,time=2021-09-05 00:52:14
 100	10628	3878056	Python3	LighTender	
 100	10584	3344108	Rust	Xmar	
 100	10576	4286679	Python3	fungi_star	
-100	10455	512097	Haskell	Stilgart	
 100	10352	1715811	Java	PositiveQuark	
 100	10279	3858550	Python3	SPDene	
 100	10263	4252924	Java	mike82	
@@ -192,7 +193,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=380,time=2021-09-05 00:52:14
 100	9908	3922731	Dart	Dartisan	
 100	9908	2719604	Python3	vpoulailleau	
 100	9902	1678976	Ruby	Gorbit99	
-100	9902	3563934	C#	ChuckTheNinja	
 100	9902	2892501	Python3	JakubMaras	
 100	9902	2792232	Python3	Monoterpene	
 100	9902	3141948	Python3	philRG	
@@ -253,6 +253,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=380,time=2021-09-05 00:52:14
 100	9268	2779063	Java	LegendsOfCodeAndMagic	
 100	9240	4065313	C++	XerusPrasinus	
 100	9218	928567	C++	Konstanta	
+100	9206	1140677	C++	Crog	
 100	9188	2560037	C#	_Mockel_	
 100	9139	2233179	Python3	Samsa	
 100	9084	1205008	Java	Trisard	

@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=10889,time=2021-09-05 00:52:12
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=10893,time=2021-09-06 00:30:25
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
 100	1265020	1327028	C++	FredericBautista	
@@ -111,6 +111,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10889,time=2021-09-05 00:52:12
 100	268850	1109979	C++	Gloopy	
 100	268480	889789	C	Alain-Delpuch	
 100	264800	4370749	C#	cdilo	
+100	261530	4270131	C	Jack_HerRrer	
 100	258950	3903847	C#	UnicornP	
 100	256370	2315158	Java	luigi_gelato	
 100	254420	1140756	C++	BarbsMan	
@@ -534,6 +535,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10889,time=2021-09-05 00:52:12
 100	99770	3628251	Python3	Noudnt	
 100	99730	3621947	Python3	vrabosh	
 100	99620	2149927	C++	funkyJb	
+100	99100	3563934	C#	ChuckTheNinja	
 100	98260	386721	Javascript	Scareware	
 100	97950	2421089	Python3	Smlep	
 100	97910	629371	C#	BALEK	
@@ -576,7 +578,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10889,time=2021-09-05 00:52:12
 100	86050	425462	Java	Azt-yur	
 100	85500	865548	Python3	Kktus	
 100	85500	841420	C#	RandomVariable	
-100	85440	3563934	C#	ChuckTheNinja	
 100	85370	3737875	Python3	Gordon-from-Blumberg	
 100	85350	256955	C++	cup_of_tea	
 100	85350	2055377	C++	Covfefe	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10889,time=2021-09-05 00:52:12
 100	64090	3458085	Java	GriZou	
 100	64090	2197804	C#	IHaveYourMilk	
 100	64070	1559805	C#	Droet	
-100	64060	1108879	PHP	xfilx	

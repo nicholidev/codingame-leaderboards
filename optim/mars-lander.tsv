@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=4528,time=2021-09-05 00:52:11
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=4528,time=2021-09-06 00:30:24
 100	2509	1327028	C++	FredericBautista	
 100	2507	154372	Bash	Plopx	
 100	2504	1249786	C#	Fededevi	
@@ -29,6 +29,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4528,time=2021-09-05 00:52:11
 100	2459	735910	C++	Agade	
 100	2457	277758	Java	Duffy	
 100	2454	1436776	C++	BrainSolver	
+100	2453	4413827	Go	bowaka	
 100	2452	1001096	C#	MyIIone	
 100	2452	351062	Java	Neumann	
 100	2450	1584802	Python3	emh	
@@ -803,6 +804,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4528,time=2021-09-05 00:52:11
 100	1880	3729654	C++	Nikeleos	
 100	1880	866450	Java	Bdan	
 100	1880	4252924	Java	mike82	
+100	1879	4456275	C#	giawa	
 100	1878	868896	Java	Arn	
 100	1878	1535066	Python3	mard	
 100	1878	3418757	C++	NicolasGiammetta	
@@ -824,7 +826,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4528,time=2021-09-05 00:52:11
 100	1870	3895848	Ruby	fboccacini	
 100	1868	959757	Python3	buffer[]	
 100	1868	1279751	Rust	Tudou	
-100	1868	3930101	C#	0xB6F5F0	
+100	1868	3930101	C#	MS1337	
 100	1866	1986308	PHP	tautelis	
 100	1866	3418342	C++	RJones	
 100	1866	2416641	Python3	Zenoscave	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4528,time=2021-09-05 00:52:11
 100	1799	2351282	C++	TrebledJ	
 100	1798	629371	C#	BALEK	
 100	1798	4078086	Java	Peperi	
-100	1797	1525620	C++	DavidAmer	
-100	1797	1527023	C++	DAmer	
