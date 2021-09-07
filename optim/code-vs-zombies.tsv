@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=10893,time=2021-09-06 00:30:25
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=10901,time=2021-09-07 00:31:31
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
 100	1265020	1327028	C++	FredericBautista	
@@ -29,6 +29,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10893,time=2021-09-06 00:30:25
 100	505510	1549145	C++	Mealc	
 100	487200	862919	C++	Astrobytes	
 100	486090	2436448	Java	FrancoisMeme	
+100	485390	4070745	C	MiyamuraIzumi	
 100	481750	4017851	C	Pintago	
 100	480190	3845610	C++	pardouin	
 100	477460	3919068	C++	14598366	
@@ -37,7 +38,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10893,time=2021-09-06 00:30:25
 100	473010	4073052	C++	slrn	
 100	468050	2675733	C	PuppyPuncher	
 100	467850	1756952	C++	Petras	
-100	467390	4070745	C	MiyamuraIzumi	
 100	467270	888746	C++	Phate	
 100	466860	3918583	Rust	mikmak	
 100	464000	2772292	C++	Bezukh	
@@ -288,6 +288,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10893,time=2021-09-06 00:30:25
 100	195000	925695	OCaml	Boulet	
 100	194890	2521360	C	g.naboychenko	
 100	194440	1018437	C++	dubicube	
+100	194240	4392570	C++	Know~~Nothing	
 100	192840	4239399	C	b18a9n	
 100	192450	1603802	Python3	BigNozMG	
 100	192440	2232492	Javascript	coolraoul	
@@ -377,6 +378,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10893,time=2021-09-06 00:30:25
 100	163080	3789595	C	jgmp	
 100	162570	3044029	C#	GuerillaOynx	
 100	162300	972894	C++	resty-daze	
+100	161950	3774397	Java	FreezeRain	
 100	161790	819803	Java	Anordil	
 100	161770	155955	PHP	nht_dev	
 100	161320	3965181	Javascript	Adlan_Fauzi	
@@ -493,6 +495,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10893,time=2021-09-06 00:30:25
 100	118210	903443	Scala	adriens	
 100	117420	231653	C++	kappy	
 100	115310	2479417	C++	Papa94	
+100	115000	3563934	C#	ChuckTheNinja	
 100	114480	4119720	C++	maniekTC	
 100	114440	1741901	Go	Jerome_Laforge	
 100	113480	3310317	Python3	AWOL	
@@ -535,7 +538,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10893,time=2021-09-06 00:30:25
 100	99770	3628251	Python3	Noudnt	
 100	99730	3621947	Python3	vrabosh	
 100	99620	2149927	C++	funkyJb	
-100	99100	3563934	C#	ChuckTheNinja	
 100	98260	386721	Javascript	Scareware	
 100	97950	2421089	Python3	Smlep	
 100	97910	629371	C#	BALEK	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10893,time=2021-09-06 00:30:25
 100	64090	483321	C#	Clagus	
 100	64090	2625928	C#	LiberLeo	
 100	64090	3458085	Java	GriZou	
-100	64090	2197804	C#	IHaveYourMilk	
-100	64070	1559805	C#	Droet	
