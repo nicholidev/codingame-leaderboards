@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5418,time=2021-09-07 00:31:27
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5418,time=2021-09-08 00:44:30
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -206,6 +206,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5418,time=2021-09-07 00:31:27
 100	3972	153674	C	GQMP	
 100	3972	337622	Scala	Isammoc	
 100	3976	1778295	Javascript	41x	
+100	3976	1578402	Python3	bolbi	
 100	3977	1724069	Python3	jmpeg	
 100	3978	1188212	ObjectiveC	superredlark	
 100	3982	3902927	Python3	Bulgot	
@@ -453,6 +454,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5418,time=2021-09-07 00:31:27
 100	4897	518191	ObjectiveC	gustokashin	
 100	4911	890470	Java	romdouze	
 100	4919	2711018	Javascript	Fabs	
+100	4930	4434701	Java	Pucu	
 100	4934	1301137	Python3	lewisbm	
 100	4940	806823	C	Zer0	
 100	4949	3958580	Python3	HITO	
@@ -466,7 +468,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5418,time=2021-09-07 00:31:27
 100	5055	870653	C#	Argyl	
 100	5071	1479540	C#		
 100	5080	2574801	C#	sT0Ps	
-100	5081	4434701	Java	Pucu	
 100	5098	2408117	Python3	Brollyy	
 100	5113	1400179	C++	reCurse	
 100	5123	825049	Java	Scheronimus	
@@ -549,7 +550,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5418,time=2021-09-07 00:31:27
 100	5525	2784019	Java	cryptoroot	
 100	5527	195088	C++	Jopie64	
 100	5527	1256312	C#	Djoums	
-100	5539	1578402	Python3	bolbi	
 100	5554	3342823	Javascript	Jacki	
 100	5556	826008	C++	Savlik5	
 100	5556	3536533	Python3	__KAPPA__	
@@ -971,6 +971,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5418,time=2021-09-07 00:31:27
 100	5885	3494301	Python3	CoreyCV	
 100	5885	4364520	Scala	1rre	
 100	5885	4246642	Python3	Khryp	
+100	5885	2668649	Python3	pawito	
 100	5886	892395	C++	Christophe	
 100	5886	280978	Python3	Rylanor	
 100	5886	952729	Bash	Flodelarab	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5418,time=2021-09-07 00:31:27
 100	5887	1416207	Java	vano200571	
 100	5887	1368852	Javascript	raysplaceinspace	
 100	5887	950702	C++	RedRacoon	
-100	5887	1962352	C#	DPAmar	
