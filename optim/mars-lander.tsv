@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=4533,time=2021-09-11 00:30:23
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=4534,time=2021-09-12 00:54:23
 100	2509	1327028	C++	FredericBautista	
 100	2507	154372	Bash	Plopx	
 100	2504	1249786	C#	Fededevi	
@@ -10,6 +10,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4533,time=2021-09-11 00:30:23
 100	2490	2968035	C++	DomiKo	
 100	2485	1039809	C#	Azziliz	
 100	2485	154984	PHP	_Royale	
+100	2480	4440113	Rust	Blazde	
 100	2478	338469	C++	__mcts__	
 100	2477	1201783	Python3	qsantos	
 100	2476	1629259	C#	Marchete	
@@ -27,7 +28,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4533,time=2021-09-11 00:30:23
 100	2462	1194069	Java	Redstrike	
 100	2460	2012297	C++	Maksim1744	
 100	2459	735910	C++	Agade	
-100	2459	4440113	Rust	Blazde	
 100	2457	277758	Java	Duffy	
 100	2454	1436776	C++	BrainSolver	
 100	2453	4413827	Go	bowaka	
@@ -314,6 +314,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4533,time=2021-09-11 00:30:23
 100	2134	1718945	C++	ilovebugs	
 100	2134	3521631	C#	Bamboozled2	
 100	2134	1304841	Java	NitMpez	
+100	2134	3594074	C++	jopo	
 100	2133	3737875	C#	Gordon-from-Blumberg	
 100	2131	3727077	C++	Manwi23	
 100	2130	1181768	Java	dio_O	
@@ -653,7 +654,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4533,time=2021-09-11 00:30:23
 100	1950	4050891	Python3	bvdb89	
 100	1950	3942793	Java	The_Auditor	
 100	1949	947797	C#	AxelGroundner	
-100	1949	3594074	C++	jopo	
 100	1948	939331	Python3	Jack4L	
 100	1948	2671038	Javascript	1one	
 100	1948	3504957	C++	AFKmuch	

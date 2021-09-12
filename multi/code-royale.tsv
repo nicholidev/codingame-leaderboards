@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3543,time=2021-09-11 00:30:14
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3544,time=2021-09-12 00:30:16
 6	30.47	1607522	1886979	C++	RoboStac	
 6	30.41	1049935	2653256	C++	Azkellas	
 6	28.85	735910	1886983	C++	Agade	
@@ -491,9 +491,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3543,time=2021-09-11 00:30:
 3	23.94	275620	1873922	C++	M.C.L.	
 3	23.9	156188	2985478	Javascript	DorianWilde	
 3	23.87	2897668	3328181	Python3	Breital	
+3	23.78	933456	2212372	C#	Oran	
 3	23.77	2555066	2421881	Python3	dyc3	
 3	23.77	3317583	2341906	Python3	Mjo	
-3	23.74	933456	2212372	C#	Oran	
 3	23.74	3718613	3008104	TypeScript	Johnsen	
 3	23.72	1060019	1882689	Python3	thyshimrod	
 3	23.71	3760956	3023302	C++	GeekNbOne	
@@ -627,9 +627,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3543,time=2021-09-11 00:30:
 3	21.85	3431596	2459670	Python3	Flo22	
 3	21.85	2138984	3113026	Python3	jobegood	
 3	21.84	2662460	1887282	Javascript	Gamli	
+3	21.82	2061249	2590546	C++	delisea	
 3	21.77	828213	1860547	Go	anst	
 3	21.74	1179357	2095805	Javascript	avdg	
-3	21.74	2061249	2590546	C++	delisea	
 3	21.71	3026548	2183485	Python3	numbermaniac	
 3	21.7	2576701	3710579	Python3	LustOne	
 3	21.67	1895182	1871037	Javascript	Jean_Francois_R	
@@ -696,11 +696,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3543,time=2021-09-11 00:30:
 3	20.45	1838549	3457533	Kotlin	orangesnowfox	
 3	20.45	2480146	1916981	C++	Claire-Liu	
 3	20.42	165671	3114554	Python3	cyppan	
-3	20.41	2173677	1874160	Python3	Raubtaube	
 3	20.4	721943	2462521	Python3	dbourasseau	
 3	20.39	1317264	2996591	Python3	Manny42	
 3	20.38	2999053	2333400	C#	Barnet	
 3	20.34	3634864	2646601	Python3	Jakub_Rojek	
+3	20.31	2173677	1874160	Python3	Raubtaube	
 3	20.31	1109907	3674866	Javascript	polpoul	
 3	20.3	2480127	1903997	C++	Xu-Kuan	
 3	20.29	3908843	3060582	C++	xd15zhn	
@@ -865,10 +865,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3543,time=2021-09-11 00:30:
 3	18.4	1630901	2676530	C++	Pand0re	
 3	18.38	911698	2587428	Python3	Krushak	
 3	18.37	2648574	2022028	Java	CyrilMaitre	
-3	18.37	311035	3162620	Python3	leojean890	
 3	18.36	2729055	2049164	C++	twray2	
 3	18.35	3637352	3779465	Python3	Folhen	
 3	18.31	1481618	3386008	Java	Rahashizar	
+3	18.29	311035	3162620	Python3	leojean890	
 3	18.28	1038359	2487441	Python	Ronnie147	
 3	18.27	2054901	2482800	C#	Doubleday	
 3	18.23	2024033	2581739	C++	Suenodk	
