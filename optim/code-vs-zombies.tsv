@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=10936,time=2021-09-13 00:30:23
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=10956,time=2021-09-14 00:30:30
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
 100	1265020	1327028	C++	FredericBautista	
@@ -32,7 +32,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10936,time=2021-09-13 00:30:23
 100	486090	2436448	Java	FrancoisMeme	
 100	481750	4017851	C	Pintago	
 100	480190	3845610	C++	pardouin	
-100	477460	3919068	C++	14598366	
+100	478880	3919068	C++	14598366	
 100	476930	1485690	C++	Kikoo	
 100	473600	1029663	C	Skreamly	
 100	473010	4073052	C++	slrn	
@@ -300,6 +300,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10936,time=2021-09-13 00:30:23
 100	190720	1830625	C++	-Rutger-	
 100	190500	2179804	Python3	Haegh	
 100	190490	2154217	Java	EliasCanalesNieto	
+100	190090	1467771	C++	Telokis	
 100	189440	3941402	Java	Delfic	
 100	189430	1854639	C#	iDxMeG	
 100	189340	2577929	C	Drazyen	
@@ -453,7 +454,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10936,time=2021-09-13 00:30:23
 100	137530	512207	Scala	Aun	
 100	137280	3760956	C++	GeekNbOne	
 100	137140	2077458	Python3	Ragi	
-100	136530	1467771	C++	Telokis	
 100	134980	893915	Python3	DeVoTeD	
 100	134860	1737611	Javascript	RPlusPlus	
 100	134750	1173260	Rust	Erasmus	
