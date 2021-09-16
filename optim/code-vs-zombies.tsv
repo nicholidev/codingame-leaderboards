@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=10971,time=2021-09-15 00:38:14
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=10995,time=2021-09-16 00:39:36
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
 100	1265020	1327028	C++	FredericBautista	
@@ -46,6 +46,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10971,time=2021-09-15 00:38:14
 100	460810	1881651	C	Alligard	
 100	460360	3196495	C++	putibuzu	
 100	458630	1826849	C++	Geplik	
+100	458530	2255967	C	mehdilh	
 100	456270	4009347	Rust	JaworWr	
 100	453510	3457031	C++	YurkovAS	
 100	447880	3627342	C#	Zuabros	
@@ -211,7 +212,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10971,time=2021-09-15 00:38:14
 100	216640	3657275	C	jujurocking	
 100	216580	773811	Java	szoti	
 100	216200	4018953	C	zTTK	
-100	216200	2255967	C	mehdilh	
 100	216140	4191122	C	ManonCodd	
 100	215360	2515515	C	Bobliu	
 100	215230	3966600	C	leaghe	
@@ -444,6 +444,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10971,time=2021-09-15 00:38:14
 100	141430	3784861	Python3	thiebt	
 100	141050	527749	Javascript	Pds	
 100	140890	4372726	C++	artem_skor	
+100	140540	1484601	Java	theFool	
 100	140350	2360927	Java	schuitj	
 100	140310	4298841	C#	Dapps	
 100	139590	1145203	Python3	Lemps	
@@ -535,6 +536,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10971,time=2021-09-15 00:38:14
 100	102120	1019450	Javascript	joaorp	
 100	101620	2781753	Scala	execdd17	
 100	101580	1053198	Python3	ProfessorWolf	
+100	101390	4510326	Kotlin	MadisL	
 100	101210	4103762	C++	MallePietje	
 100	100730	1140027	Ruby	theBee	
 100	99770	3628251	Python3	Noudnt	
@@ -740,7 +742,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10971,time=2021-09-15 00:38:14
 100	65680	2711020	C++	Daniel_Sch	
 100	65660	3826631	C++	aszigeth	
 100	65650	1522873	C	ZHUXiang	
-100	65630	1484601	Java	theFool	
 100	65590	3418514	Python3	TheBeltingBardYouWishWouldnt	
 100	65590	4095799	Python3	circular17	
 100	65450	1293284	Python3	NaraJeamfry	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=10971,time=2021-09-15 00:38:14
 100	64090	1169374	Java	RafaelMedeirosTeles	
 100	64090	1383429	Java	SaintsRock	
 100	64090	289705	Javascript	c9952594	
-100	64090	1122803	Java	Falldreth	
