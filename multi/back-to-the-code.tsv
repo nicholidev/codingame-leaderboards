@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4799,time=2021-09-16 00:30:06
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4800,time=2021-09-17 00:30:10
 0	47.11	1433161	1484525	C	mingu1.kang	
 0	45.71	494104	455215	C++	Recar	
 0	45.57	990110	357643	C++	Rogerup	
@@ -6,7 +6,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4799,time=2021-09-16 00:30:
 0	44.2	1029152	341600	C++	log0div0	
 0	44.09	2968035	3081420	C++	DomiKo	
 0	43.99	252533	2570353	Javascript	AlexSurin	
-0	43.91	638784	351362	C	Yqnn	
+0	43.94	638784	351362	C	Yqnn	
 0	43.65	1629259	2238404	C++	Marchete	
 0	43.46	739151	341011	C++	Romka	
 0	43.26	351062	1847653	Java	Neumann	
@@ -175,7 +175,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4799,time=2021-09-16 00:30:
 0	37.84	1399852	456793	C++	Thaell	
 0	37.84	1300254	885191	C++	Escdemon	
 0	37.82	170619	355334	ObjectiveC	laevand	
-0	37.82	371603	352311	C++	martin	
 0	37.81	598416	356135	Java	alexandr9519	
 0	37.79	1095288	364431	Python	Vilo	
 0	37.79	2316796	2504063	C++	Psio	
@@ -189,6 +188,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4799,time=2021-09-16 00:30:
 0	37.71	1025212	371677	Java	Asterixk	
 0	37.71	933134	350672	F#	polkduran	
 0	37.71	884855	341800	Java	ChristopherZ	
+0	37.71	371603	352311	C++	martin	
 0	37.7	1000967	355437	C++	KhanhHB	
 0	37.7	4070745	3809740	C++	MiyamuraIzumi	
 0	37.69	3457031	2846794	C++	YurkovAS	
@@ -295,13 +295,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4799,time=2021-09-16 00:30:
 0	35.96	225875	2139918	C#	leff	
 0	35.96	1346403	413885	Python3	BadMistake	
 0	35.95	913697	575048	Java	Tsa6	
+0	35.94	153683	3533830	Dart	40R15T3	
 0	35.94	2531021	2829456	OCaml	TheAFT	
 0	35.93	1335230	2105553	C++	jft63	
 0	35.92	957335	355403	C++	chloesdaddy	
 0	35.92	2550089	1916881	OCaml	MPSI-LIV_CIV[idin]	
 0	35.9	1039808	357949	Python3	DavidL	
 0	35.89	1160200	368848	C++	hsuzuki	
-0	35.87	153683	3533830	Dart	40R15T3	
 0	35.87	994344	364033	Java	Momopouccino	
 0	35.87	1069741	362922	Java	Kakuro	
 0	35.87	1342993	650267	Python3	Mercutio	
@@ -616,8 +616,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4799,time=2021-09-16 00:30:
 0	33.02	4108926	3434689	Python3	Saydrick	
 0	33.01	863425	353693	C#	Antlershy	
 0	33.01	863265	356054	Java	Anaidel	
-0	33	445200	885503	Go	khreenberg	
 0	32.99	980299	418115	Javascript	Namide	
+0	32.98	445200	885503	Go	khreenberg	
 0	32.97	1052068	353141	C++	kkjj	
 0	32.97	932873	369980	Javascript	dwhitnee	
 0	32.97	218189	415584	Python3	[CG]Maxime	
