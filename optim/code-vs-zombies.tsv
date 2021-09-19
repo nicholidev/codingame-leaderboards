@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=11032,time=2021-09-18 00:30:23
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=11039,time=2021-09-19 00:31:25
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
 100	1265020	1327028	C++	FredericBautista	
@@ -62,6 +62,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11032,time=2021-09-18 00:30:23
 100	372960	3366188	Rust	SteveWhite	
 100	363530	3727272	Javascript	paszo	
 100	363400	1786654	C++	Masclins	
+100	363240	4511827	C++	priitl	
 100	358250	1414873	Javascript	Volcomix	
 100	358130	2242201	C++	Maryan	
 100	355820	3410351	C	Deltaspace	
@@ -168,7 +169,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11032,time=2021-09-18 00:30:23
 100	231710	3771159	C	tamahom	
 100	231700	2536538	C	Pduhard-	
 100	231360	1848459	Java	Velcoro	
-100	231190	4511827	C++	priitl	
 100	229430	155939	C	xylo	
 100	229290	4148846	C	SkyWhait	
 100	228940	3965226	C		
@@ -202,6 +202,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11032,time=2021-09-18 00:30:23
 100	219970	3990938	C	T01	
 100	219810	3721214	C	jrke	
 100	219310	992329	C++	BeeGee	
+100	219210	4294830	Java	jannopet	
 100	219170	1734105	C++	Bibou	
 100	218940	4334077	C	Paul_Demanze	
 100	218910	4015956	C	Atomic_coder	
@@ -223,6 +224,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11032,time=2021-09-18 00:30:23
 100	214740	3965091	C		
 100	214650	581921	C++	GuyBol	
 100	214510	3965095	C	Scotty9	
+100	214320	4510326	Kotlin	MadisL	
 100	214050	4067707	C++	therealbeef	
 100	213830	4268887	C++	XeroOl	
 100	213710	1705689	Java	XanX3601	
@@ -235,7 +237,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11032,time=2021-09-18 00:30:23
 100	210780	1077506	Go	gs2	
 100	210270	4338330	C#	0Ph	
 100	210130	952796	C#	CodingTurtle	
-100	210020	4510326	Kotlin	MadisL	
 100	209700	1341520	C	egaetan	
 100	209600	2455616	Java	JeanClaude44	
 100	209280	3779295	C++	xxd	
@@ -566,11 +567,13 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11032,time=2021-09-18 00:30:23
 100	92730	1693448	Python3	KoenduBuf	
 100	92600	530441	C++	Prime541	
 100	92090	3774010	Python3	Presac	
+100	91300	4515517	C#	AndresTr	
 100	90520	1181685	Lua	dzik	
 100	90510	1186732	Javascript	gkueny	
 100	90080	3687134	Rust	Puccre	
 100	89900	4063536	Python3	P4V3L14K0V	
 100	89590	849004	Haskell	Lulu	
+100	89560	4510436	C#	PauliusG	
 100	89080	1181432	C#	ftpud	
 100	89060	4428968	Python3	neufdeux	
 100	88630	779372	C++	ncin	
@@ -638,7 +641,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11032,time=2021-09-18 00:30:23
 100	78010	2212504	C#	ADSharma	
 100	78010	2114633	C#	Josh04	
 100	78010	2262491	C#		
-100	77780	4294830	Java	jannopet	
 100	77760	712849	Java	Tabea	
 100	77530	153937	C++	oook	
 100	77510	1540394	C#	LVdA	
@@ -651,7 +653,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11032,time=2021-09-18 00:30:23
 100	75700	1440207	Python3	Rungekutta	
 100	75660	1407720	Python3	bananaMixer	
 100	75530	1932059	Python3	Zhiesold	
-100	75350	4510436	C#	PauliusG	
 100	74850	2221405	C++	LaxmanRawat	
 100	74710	370969	C#	fgeo	
 100	74360	4000543	Java	DerRaphe	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11032,time=2021-09-18 00:30:23
 100	64190	634747	C#	akhansari	
 100	64190	1533920	Java	EloEloElo	
 100	64180	2019052	C#	KevinM.Brooks	
-100	64170	4187642	Python3	Flammie	
