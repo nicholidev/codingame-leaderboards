@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1066,time=2021-09-19 00:31:26
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1066,time=2021-09-20 00:42:05
 100	11920	2077805	C++	bamilan	
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
@@ -94,6 +94,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1066,time=2021-09-19 00:31:26
 100	8887	1756952	C++	Petras	
 100	8872	735910	C++	Agade	
 100	8854	1734105	C++	Bibou	
+100	8845	1172385	C#	LuckyMe	
 100	8730	739151	C++	Romka	
 100	8708	1620803	C++	Lyapunov	
 100	8681	1601217	Java	Heide	
@@ -110,7 +111,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1066,time=2021-09-19 00:31:26
 100	8424	620537	C#	Ksenia	
 100	8405	828239	C#	[SG]Bisou	
 100	8400	1480501	C++	DaFish	
-100	8368	1172385	C#	LuckyMe	
 100	8357	2463909	Go	ckobayashi	
 100	8313	524638	C++	miklla	
 100	8307	425462	Java	Azt-yur	
@@ -550,6 +550,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1066,time=2021-09-19 00:31:26
 100	1836	3230794	Python3	tutubalin	
 100	1829	3855753	Python3	tuan91	
 100	1818	2616350	C++	Schnibble	
+100	1816	4505065	Python3	Mbarek	
 100	1801	3160962	Python3	Aygalic	
 100	1788	1812801	C#	Chauca	
 100	1781	2655682	Java	CoderFromOuterSpace	
@@ -570,6 +571,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1066,time=2021-09-19 00:31:26
 100	1652	1990452	C#	Benoit_L	
 100	1624	3306551	Python3	StoneRiverPrg	
 100	1621	4105514	Python3	FeiChong	
+100	1614	4471724	Python3	Miyukiko	
 100	1609	3621502	Python3	FarmerJoe19	
 100	1603	1518732	Java	Apfeloxid	
 100	1599	1860827	C#	anuka93	
@@ -622,7 +624,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1066,time=2021-09-19 00:31:26
 100	1235	2631176	PHP	Sedera	
 100	1235	1925452	Python3	Cyriax	
 100	1235	4399098	Javascript	koheikkk	
-100	1235	4505065	Python3	Mbarek	
 100	1233	2497890	C#	BlackBird	
 100	1216	3496138	Python3	HayTheFirst	
 100	1216	2826280	C++	guilhembn	
@@ -947,7 +948,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1066,time=2021-09-19 00:31:26
 100	1045	924425	Javascript	poney	
 100	1045	609811	Python3	Atesz	
 100	1045	4218431	Python3	AkihitoUni	
-100	1045	4471724	Python3	Miyukiko	
 100	1041	1074744	Java	GwenGlSoft	
 100	1039	1129000	Python3	ChairmanOfTheBored	
 100	1031	2607465	Java	valmowa	

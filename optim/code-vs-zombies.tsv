@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=11039,time=2021-09-19 00:31:25
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=11058,time=2021-09-20 00:42:04
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
 100	1265020	1327028	C++	FredericBautista	
@@ -41,6 +41,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11039,time=2021-09-19 00:31:25
 100	467270	888746	C++	Phate	
 100	466860	3918583	Rust	mikmak	
 100	464000	2772292	C++	Bezukh	
+100	463200	4511827	C++	priitl	
 100	463050	1607522	C++	RoboStac	
 100	462150	4341304	C	Remi_avec_un_i	
 100	460810	1881651	C	Alligard	
@@ -62,7 +63,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11039,time=2021-09-19 00:31:25
 100	372960	3366188	Rust	SteveWhite	
 100	363530	3727272	Javascript	paszo	
 100	363400	1786654	C++	Masclins	
-100	363240	4511827	C++	priitl	
 100	358250	1414873	Javascript	Volcomix	
 100	358130	2242201	C++	Maryan	
 100	355820	3410351	C	Deltaspace	
@@ -104,6 +104,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11039,time=2021-09-19 00:31:25
 100	285300	1267417	C++	co42	
 100	283160	1868716	Rust	RagingCactus	
 100	281790	3389226	C#	Peti88	
+100	280980	4510326	Kotlin	MadisL	
 100	280830	4168646	Rust	RaccoonWithSpork	
 100	280290	1368852	Rust	raysplaceinspace	
 100	278850	1944142	C++	yakalir	
@@ -154,6 +155,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11039,time=2021-09-19 00:31:25
 100	239550	3230159	C	Phoniex__	
 100	239160	2232811	Javascript	nargile	
 100	238100	2579384	Rust	vlad107	
+100	237680	1186250	C#	Gabbek	
 100	237350	4040124	C	Bycop	
 100	236860	1186292	Rust	GLE	
 100	236160	860404	C++	Vitruvius	
@@ -161,6 +163,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11039,time=2021-09-19 00:31:25
 100	234820	976712	C++	Ridakz	
 100	234560	1831684	Java	dbf	
 100	234480	1206537	C++	MadKnight	
+100	234360	4294830	Java	jannopet	
 100	233830	528262	C	Niii	
 100	232390	1082167	C++	Smatcher	
 100	232230	154858	Javascript	VincentEuloge	
@@ -202,7 +205,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11039,time=2021-09-19 00:31:25
 100	219970	3990938	C	T01	
 100	219810	3721214	C	jrke	
 100	219310	992329	C++	BeeGee	
-100	219210	4294830	Java	jannopet	
 100	219170	1734105	C++	Bibou	
 100	218940	4334077	C	Paul_Demanze	
 100	218910	4015956	C	Atomic_coder	
@@ -224,7 +226,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11039,time=2021-09-19 00:31:25
 100	214740	3965091	C		
 100	214650	581921	C++	GuyBol	
 100	214510	3965095	C	Scotty9	
-100	214320	4510326	Kotlin	MadisL	
 100	214050	4067707	C++	therealbeef	
 100	213830	4268887	C++	XeroOl	
 100	213710	1705689	Java	XanX3601	
@@ -242,6 +243,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11039,time=2021-09-19 00:31:25
 100	209280	3779295	C++	xxd	
 100	209270	4334406	C	Camdan	
 100	208910	3358736	C	BuluBulu27	
+100	208880	3256989	C++	rizant	
 100	208100	4425076	C	Malu38	
 100	207890	3965104	C	casd2	
 100	207540	331248	C	Zycho	
@@ -266,7 +268,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11039,time=2021-09-19 00:31:25
 100	203480	2350846	C++	DrBloodmoney	
 100	203400	1880319	C++	WildSmilodon	
 100	203360	226528	C++	Manwe	
-100	203250	1186250	C#	Gabbek	
 100	203110	3920887	C	hirehero	
 100	202890	3960362	C	Asgardinho	
 100	202790	1179950	Go	Patorikkuyatta	
@@ -285,7 +286,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11039,time=2021-09-19 00:31:25
 100	197770	1540343	PHP	chernovig	
 100	197690	3534078	C++	chabes	
 100	197300	1464932	Java	Tiramon	
-100	197280	3256989	C++	rizant	
 100	197150	3446319	C++	Stevo12345	
 100	196780	1808019	Java	Aelexe	
 100	196720	2177599	C++	racezwerg	
@@ -668,6 +668,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11039,time=2021-09-19 00:31:25
 100	73110	2711018	Java	Fabs	
 100	73090	2526322	C	fhemsworth	
 100	72980	1438259	Kotlin	Yolgie	
+100	72900	4514305	PHP	Lauri.Kase	
 100	72660	849746	Python3	lmj	
 100	72640	1052630	Java	_	
 100	72620	1022926	Python3	_BC_	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11039,time=2021-09-19 00:31:25
 100	64220	4111740	C++	xumarcus	
 100	64190	634747	C#	akhansari	
 100	64190	1533920	Java	EloEloElo	
-100	64180	2019052	C#	KevinM.Brooks	
