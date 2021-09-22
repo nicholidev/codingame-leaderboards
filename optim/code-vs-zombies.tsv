@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=11065,time=2021-09-21 00:34:11
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=11071,time=2021-09-22 00:35:13
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
 100	1265020	1327028	C++	FredericBautista	
@@ -104,6 +104,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11065,time=2021-09-21 00:34:11
 100	285300	1267417	C++	co42	
 100	283160	1868716	Rust	RagingCactus	
 100	281790	3389226	C#	Peti88	
+100	281780	1470017	C++	BeBopping	
 100	280980	4510326	Kotlin	MadisL	
 100	280830	4168646	Rust	RaccoonWithSpork	
 100	280290	1368852	Rust	raysplaceinspace	
@@ -129,6 +130,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11065,time=2021-09-21 00:34:11
 100	251730	1239545	Go	jke	
 100	250670	1779483	C#	h.otto	
 100	250660	2500089	C++	Fantomat75	
+100	250340	1186250	C#	Gabbek	
 100	250300	4251195	C	Smelty	
 100	249510	2178660	Javascript	monkeyD.Luffy	
 100	248650	1566335	Java	BeardedWhale	
@@ -156,7 +158,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11065,time=2021-09-21 00:34:11
 100	239550	3230159	C	Phoniex__	
 100	239160	2232811	Javascript	nargile	
 100	238100	2579384	Rust	vlad107	
-100	237680	1186250	C#	Gabbek	
 100	237350	4040124	C	Bycop	
 100	236860	1186292	Rust	GLE	
 100	236160	860404	C++	Vitruvius	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11065,time=2021-09-21 00:34:11
 100	64230	4013636	Ruby	p1ngouin	
 100	64220	1029602	C	Potemkine	
 100	64220	4111740	C++	xumarcus	
-100	64190	634747	C#	akhansari	

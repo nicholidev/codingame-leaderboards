@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=385,time=2021-09-21 00:34:14
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=385,time=2021-09-22 00:35:15
 100	174652	3354337	Scala	Westicles	
 100	167588	1530051	C++	UlYoP	
 100	166108	2923506	C++	darkhorse64	
@@ -146,6 +146,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=385,time=2021-09-21 00:34:14
 100	22238	2785892	Python3	levbor	
 100	22101	4218167	C#	33L3H2	
 100	21978	1158098	TypeScript	Matjaz	
+100	21491	924425	Javascript	poney	
 100	21068	1480426	Python3	Hikari42	
 100	21006	512097	Haskell	Stilgart	
 100	20937	1525816	Javascript	Flodnes	
@@ -225,7 +226,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=385,time=2021-09-21 00:34:14
 100	9786	888898	C++	helgui	
 100	9786	4300969	Javascript	thomasgonda3	
 100	9786	1229845	Java	Jipe	
-100	9786	924425	Javascript	poney	
 100	9768	3846244	Python3	JLukeSkywalker	
 100	9738	1893989	Python3	Rosstherock	
 100	9734	2774479	Python3	FSellaouti	
