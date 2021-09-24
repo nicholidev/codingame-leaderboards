@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5449,time=2021-09-23 00:52:19
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5450,time=2021-09-24 00:59:42
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -481,6 +481,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5449,time=2021-09-23 00:52:19
 100	5205	2716329	Python3	Recher	
 100	5212	1770280	C#	Maxboyer	
 100	5220	957176	C#	MWilliam	
+100	5220	4050016	Ruby	CharlesSenemaud	
 100	5230	1767134	Java	AntonYuriev	
 100	5237	153678	Go	dknn	
 100	5237	389473	Rust	BigBart	
@@ -502,6 +503,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5449,time=2021-09-23 00:52:19
 100	5343	951933	C	blueweird	
 100	5350	4115124	Java	bitAlb	
 100	5352	321254	Scala	athy	
+100	5355	4498460	C++	saraneth	
 100	5357	1060181	Ruby	Dabou	
 100	5358	3770928	C++	ku-haku	
 100	5363	4095799	Pascal	circular17	
@@ -621,7 +623,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5449,time=2021-09-23 00:52:19
 100	5679	2124591	Rust	Rdjdv	
 100	5680	2153101	Python3	Bilou06	
 100	5682	3869618	Dart	tsds	
-100	5685	4498460	C++	saraneth	
 100	5686	952450	Ruby	Chinchifou	
 100	5686	3627342	C#	Zuabros	
 100	5688	1923457	Python3	Wonshtrum	
@@ -675,7 +676,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5449,time=2021-09-23 00:52:19
 100	5745	2576701	Python3	LustOne	
 100	5746	2067176	Javascript	0bug	
 100	5748	1640896	Python3	MikeCorp	
-100	5748	4050016	Ruby	CharlesSenemaud	
 100	5751	2158902	Scala	Snowbart	
 100	5752	1632895	Python3	CodinMonkey	
 100	5754	854169	Python3	Silmaen	

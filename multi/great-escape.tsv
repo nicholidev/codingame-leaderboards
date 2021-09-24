@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3859,time=2021-09-23 00:30:12
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3860,time=2021-09-24 00:45:27
 5	35.59	1629259	2238218	C++	Marchete	
 5	33.03	494104	960105	C++	Recar	
 5	32.53	818534	960075	C++	Ixanezis	
@@ -824,11 +824,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3859,time=2021-09-23 00:30:
 3	26.63	3435738	2588910	C++	Resiakedrom	
 3	26.4	1926322	1212463	Java	ANewHope2017	
 3	26.34	2688693	1961199	Go	Catagami	
+3	26.21	653256	938209	Java	KeludOdebu	
 3	26.2	958490	2660736	Python3	lj	
 3	26.2	440476	937946	Ruby	yowa	
 3	26.19	2496173	2128476	Python3	rrter123	
 3	26.19	569247	2062387	Python3	LaurentBouvier	
-3	26.18	653256	938209	Java	KeludOdebu	
 3	26.18	1127783	937927	Python	zouzou	
 3	26.18	884874	1627758	C	Zauberer	
 3	26.17	316274	937555	Python	grivin	
@@ -838,8 +838,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3859,time=2021-09-23 00:30:
 3	26.16	865548	937453	Python	Kktus	
 3	26.15	792261	937965	C++	IKKYU	
 3	26.15	1183644	937719	C++	Donotalo	
+3	26.15	2232336	1483418	C#	jking8	
 3	26.15	840401	937966	Bash	pedrosorio	
-3	26.14	2232336	1483418	C#	jking8	
 3	26.14	1667366	937865	C	Rasky	
 3	26.13	2115491	2494878	Javascript	Haashi	
 3	26.13	832111	1122430	C++	esteine32	
@@ -923,8 +923,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3859,time=2021-09-23 00:30:
 3	24.71	812420	937437	Python3	rndczn	
 3	24.7	834043	937997	C#	Benoit74B	
 3	24.68	1106450	971809	C++	RiSuS	
+3	24.68	1802967	2449261	Python3	Meruem	
 3	24.66	815710	937970	Java	Frax	
-3	24.65	1802967	2449261	Python3	Meruem	
 3	24.59	1364613	937940	Java	DudeXIII	
 3	24.57	2847829	3339835	C++	bcwaitwaiter	
 3	24.54	2213350	1503133	C++	bratek20	
@@ -976,6 +976,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3859,time=2021-09-23 00:30:
 3	23.02	819803	937906	Java	Anordil	
 3	23.02	1437352	937420	C++	lextase	
 3	23.02	652032	937583	Python3	SkyDream	
+3	22.98	911777	1581264	F#	MasakiKyosuke	
 3	22.98	974456	937683	Java	Nemrod	
 3	22.98	816299	937426	Python	oawdodiffj	
 3	22.98	589235	938518	C++	fesouek	
@@ -988,7 +989,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3859,time=2021-09-23 00:30:
 3	22.92	301505	937956	Java	Gaotir	
 3	22.91	507538	2128754	C++	Krzybe	
 3	22.88	870035	937623	Java	nefobu	
-3	22.88	911777	1581264	F#	MasakiKyosuke	
 3	22.88	490872	937551	Python3	erjius	
 3	22.87	1209562	1592295	C++	Jiway	
 3	22.83	409973	937668	Javascript	bugnar7	
