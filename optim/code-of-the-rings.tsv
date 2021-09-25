@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5450,time=2021-09-24 00:59:42
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5456,time=2021-09-25 00:30:25
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -376,6 +376,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5450,time=2021-09-24 00:59:42
 100	4559	3594074	C++	jopo	
 100	4561	4270173	Python3	kralikX	
 100	4583	3815413	Swift	Michael_Howard	
+100	4589	4050016	Ruby	CharlesSenemaud	
 100	4592	2567580	C++	veryRandom	
 100	4596	4305940	C#	Jano42	
 100	4599	1245791	Python3	Bad_Wolf	
@@ -481,7 +482,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5450,time=2021-09-24 00:59:42
 100	5205	2716329	Python3	Recher	
 100	5212	1770280	C#	Maxboyer	
 100	5220	957176	C#	MWilliam	
-100	5220	4050016	Ruby	CharlesSenemaud	
 100	5230	1767134	Java	AntonYuriev	
 100	5237	153678	Go	dknn	
 100	5237	389473	Rust	BigBart	
@@ -545,6 +545,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5450,time=2021-09-24 00:59:42
 100	5497	905122	Python3	nILS	
 100	5504	760921	VB.NET	Skleroz	
 100	5504	1480426	Python3	Hikari42	
+100	5512	4341304	C++	Remi_avec_un_i	
 100	5513	783688	Python3	axx	
 100	5514	937073	Scala	Krlos	
 100	5516	1855354	C++	KiwiTae	
@@ -644,7 +645,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5450,time=2021-09-24 00:59:42
 100	5709	1033147	Java	Starbuck	
 100	5709	2500089	Javascript	Fantomat75	
 100	5711	1386947	Python3	hannoman	
-100	5712	4341304	C++	Remi_avec_un_i	
 100	5713	3762699	Python3	Nolliwood	
 100	5714	1327273	C++	softice	
 100	5715	1876212	Python3	PFischbeck	

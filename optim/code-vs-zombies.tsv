@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=11086,time=2021-09-24 00:59:42
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=11094,time=2021-09-25 00:30:25
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
 100	1265020	1327028	C++	FredericBautista	
@@ -97,6 +97,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11086,time=2021-09-24 00:59:42
 100	291300	1015295	Java	Velicko	
 100	290910	329200	C++	BlitzProg	
 100	290580	4008340	C	Shawnny	
+100	288860	4528331	C	AllanB	
 100	287770	3954357	C	laudep	
 100	287290	788361	C++	Bob	
 100	286460	3428379	C++	Stra	
@@ -299,6 +300,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11086,time=2021-09-24 00:59:42
 100	194890	2521360	C	g.naboychenko	
 100	194440	1018437	C++	dubicube	
 100	194240	4392570	C++	Know~~Nothing	
+100	193520	4518975	C++	civtrader	
 100	192840	4239399	C	b18a9n	
 100	192450	1603802	Python3	BigNozMG	
 100	192440	2232492	Javascript	coolraoul	
@@ -571,7 +573,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11086,time=2021-09-24 00:59:42
 100	92600	530441	C++	Prime541	
 100	92090	3774010	Python3	Presac	
 100	91300	4515517	C#	AndresTr	
-100	91080	4518975	Python3	civtrader	
 100	90520	1181685	Lua	dzik	
 100	90510	1186732	Javascript	gkueny	
 100	90080	3687134	Rust	Puccre	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11086,time=2021-09-24 00:59:42
 100	64230	4389262	Python3	hohenheim74	
 100	64230	1204195	Go	cororiko	
 100	64230	4013636	Ruby	p1ngouin	
-100	64220	1029602	C	Potemkine	
