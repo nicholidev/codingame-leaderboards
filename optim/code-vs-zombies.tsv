@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=11094,time=2021-09-25 00:30:25
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=11100,time=2021-09-26 00:33:29
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
 100	1265020	1327028	C++	FredericBautista	
@@ -33,6 +33,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11094,time=2021-09-25 00:30:25
 100	481750	4017851	C	Pintago	
 100	480190	3845610	C++	pardouin	
 100	478880	3919068	C++	14598366	
+100	477560	4528331	C++	AllanB	
 100	476930	1485690	C++	Kikoo	
 100	473600	1029663	C	Skreamly	
 100	473010	4073052	C++	slrn	
@@ -97,7 +98,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11094,time=2021-09-25 00:30:25
 100	291300	1015295	Java	Velicko	
 100	290910	329200	C++	BlitzProg	
 100	290580	4008340	C	Shawnny	
-100	288860	4528331	C	AllanB	
 100	287770	3954357	C	laudep	
 100	287290	788361	C++	Bob	
 100	286460	3428379	C++	Stra	
@@ -236,6 +236,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11094,time=2021-09-25 00:30:25
 100	212920	1284747	C++	mr-push	
 100	212780	3298022	C	IKEJIME	
 100	212770	154935	Scala	yamo	
+100	212370	4518975	C++	civtrader	
 100	212000	1754295	C++	SF	
 100	211860	4101514	Javascript	Pips42	
 100	210780	1077506	Go	gs2	
@@ -300,7 +301,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11094,time=2021-09-25 00:30:25
 100	194890	2521360	C	g.naboychenko	
 100	194440	1018437	C++	dubicube	
 100	194240	4392570	C++	Know~~Nothing	
-100	193520	4518975	C++	civtrader	
 100	192840	4239399	C	b18a9n	
 100	192450	1603802	Python3	BigNozMG	
 100	192440	2232492	Javascript	coolraoul	
@@ -561,6 +561,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11094,time=2021-09-25 00:30:25
 100	96670	3789424	C++	JohnCM	
 100	96640	1613445	C#	AP-S	
 100	96180	1894833	Python3	Rimailleur	
+100	95970	4519620	C++	Mmhmm	
 100	95780	1034635	C++	SlyB	
 100	95430	1546222	Javascript	julidon	
 100	95330	1039456	Go	nikokolas	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11094,time=2021-09-25 00:30:25
 100	64230	4471724	Python3	Miyukiko	
 100	64230	4389262	Python3	hohenheim74	
 100	64230	1204195	Go	cororiko	
-100	64230	4013636	Ruby	p1ngouin	
