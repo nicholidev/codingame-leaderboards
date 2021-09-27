@@ -1,10 +1,10 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=4566,time=2021-09-26 00:33:28
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=4572,time=2021-09-27 00:46:44
 100	2509	1327028	C++	FredericBautista	
 100	2507	154372	Bash	Plopx	
 100	2504	1249786	C#	Fededevi	
+100	2502	4440113	Rust	Blazde	
 100	2501	1864483	Java	Mistblinde	
 100	2500	2288263	Rust	dbdr	
-100	2497	4440113	Rust	Blazde	
 100	2495	820000	PHP	ValGrowth	
 100	2493	588426	Bash	Jeff06	
 100	2492	1399382	C#	Regulus136	
@@ -258,10 +258,12 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4566,time=2021-09-26 00:33:28
 100	2195	1287344	C++	Alshock	
 100	2195	1129777	C++	Velvacaine	
 100	2195	1765278	Scala	SuperMiron	
+100	2194	3493230	Rust	sgalasso	
 100	2193	1030259	C#	salext	
 100	2192	1487392	Java	Razielwar	
 100	2191	1572888	Python3	DirtyHarry	
 100	2191	2969181	C++	maras	
+100	2190	4050016	Ruby	CharlesSenemaud	
 100	2189	1853425	C++	Peter_Scorgie	
 100	2185	893541	Java	wala	
 100	2185	829018	C++	alchemsti	
@@ -695,7 +697,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4566,time=2021-09-26 00:33:28
 100	1936	1189679	C	Wayde	
 100	1936	4146980	Go	Bernathan	
 100	1935	1634195	Java	k.ab	
-100	1935	4050016	Ruby	CharlesSenemaud	
 100	1934	2162881	Java	B4RF	
 100	1934	1457223	C++	jleconte	
 100	1933	760921	VB.NET	Skleroz	
@@ -714,6 +715,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4566,time=2021-09-26 00:33:28
 100	1928	4038295	Python3	RamanShakya	
 100	1928	1001990	Python3	dangerworm	
 100	1928	3431280	Python3	luukhf	
+100	1928	233627	Javascript	SlipOne	
 100	1927	1121088	Java	Silars	
 100	1927	1858764	C++	vdevid	
 100	1927	857521	C#	MrAnderson	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4566,time=2021-09-26 00:33:28
 100	1804	1296842	Javascript	Athella	
 100	1804	1418821	C++	input.txt	
 100	1803	1060342	Java	Romain_S117	
-100	1803	943558	Javascript	Johanhq	
-100	1803	3080189	Python3	Multiplicity	
