@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=231,time=2021-09-28 00:40:52
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=231,time=2021-09-29 00:32:34
 100	1596	3918583	Rust	mikmak	
 100	1675	2288263	Rust	dbdr	
 100	1677	1944090	C#	spaceorc	
@@ -45,6 +45,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=231,time=2021-09-28 00:40:52
 100	3359	3465661	TypeScript	Thiesjoo	
 100	3474	311035	Python3	leojean890	
 100	3626	512097	Haskell	Stilgart	
+100	3728	3354337	C++	Westicles	
 100	4276	894599	Java	DidierC	
 100	4438	3457031	C++	YurkovAS	
 100	4886	668906	Kotlin	Sandworm	
@@ -67,7 +68,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=231,time=2021-09-28 00:40:52
 80	3178	569247	Python3	LaurentBouvier	
 76	2585	1484839	Go	sparky	
 63	3703	3494301	Python3	CoreyCV	
-60	2271	3354337	C++	Westicles	
 56	4279	3235896	Java	Fenz	
 53	1283	3226448	Python3	tobk	
 46	2652	1572888	Python3	DirtyHarry	
