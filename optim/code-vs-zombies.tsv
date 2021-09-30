@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=11121,time=2021-09-29 00:32:33
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=11126,time=2021-09-30 00:35:47
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
 100	1265020	1327028	C++	FredericBautista	
@@ -73,6 +73,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11121,time=2021-09-29 00:32:33
 100	353640	1489865	C++	EricSMSO	
 100	353450	2924895	C	trictrac	
 100	352600	3513265	C++	DaNinja	
+100	352480	1239545	Go	jke	
 100	351930	735487	C	amurushkin	
 100	351280	2350415	C++	Vintarel	
 100	351240	1467771	C++	Telokis	
@@ -103,7 +104,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11121,time=2021-09-29 00:32:33
 100	286460	3428379	C++	Stra	
 100	286210	153774	C++	cocoche007	
 100	285300	1267417	C++	co42	
-100	285180	1239545	Go	jke	
 100	283160	1868716	Rust	RagingCactus	
 100	281790	3389226	C#	Peti88	
 100	281780	1470017	C++	BeBopping	
@@ -222,6 +222,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11121,time=2021-09-29 00:32:33
 100	216200	4018953	C	zTTK	
 100	216140	4191122	C	ManonCodd	
 100	215360	2515515	C	Bobliu	
+100	215320	1337609	C++	FlyingRaccoon	
 100	215230	3966600	C	leaghe	
 100	215220	1753077	C++	codingWhale	
 100	214980	2595251	Rust	Veterini	
@@ -240,6 +241,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11121,time=2021-09-29 00:32:33
 100	212000	1754295	C++	SF	
 100	211860	4101514	Javascript	Pips42	
 100	210780	1077506	Go	gs2	
+100	210440	3500831	C	goudan	
 100	210270	4338330	C#	0Ph	
 100	210130	952796	C#	CodingTurtle	
 100	209700	1341520	C	egaetan	
@@ -556,6 +558,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11121,time=2021-09-29 00:32:33
 100	97950	2421089	Python3	Smlep	
 100	97910	629371	C#	BALEK	
 100	97760	1272564	C	Raspberry4all	
+100	97240	4417907	Python3	KjmFr	
 100	97170	2718963	PHP	Fregat	
 100	96710	2990918	Javascript	Dingodino	
 100	96670	3789424	C++	JohnCM	
@@ -566,7 +569,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11121,time=2021-09-29 00:32:33
 100	95430	1546222	Javascript	julidon	
 100	95330	1039456	Go	nikokolas	
 100	95230	754792	C++	Ramdeath	
-100	95090	4417907	Python3	KjmFr	
 100	94640	3049211	Haskell	NicknameAlreadyTakenIsTaken	
 100	93690	2212306	C++	asad_nitp	
 100	93690	2211649	C++	MdAsadRub	
@@ -710,7 +712,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11121,time=2021-09-29 00:32:33
 100	68180	1864483	Go	Mistblinde	
 100	68050	4449717	C#	Hawke	
 100	67900	1740037	Scala	ereiam	
-100	67850	257832	C++	BlaiseEbuth	
 100	67780	3387053	Javascript	best-team	
 100	67720	250352	Javascript	Dorkside	
 100	67660	3826720	C++	Noppo	
@@ -962,6 +963,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11121,time=2021-09-29 00:32:33
 100	64260	1073247	C++	_NikJ	
 100	64260	4194335	Javascript	crvn	
 100	64260	4444920	C++	Roiser	
+100	64260	4470306	C++	NONstope	
 100	64250	2858320	C++	Loule	
 100	64240	4299607	Python3	TennyKs	
 100	64240	4333899	Javascript	Handala	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11121,time=2021-09-29 00:32:33
 100	64230	3996288	C#	Shadnow	
 100	64230	2573325	Java	DieuChose	
 100	64230	2649897	C#	0fl	
-100	64230	4471724	Python3	Miyukiko	
-100	64230	4389262	Python3	hohenheim74	
