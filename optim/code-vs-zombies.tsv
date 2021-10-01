@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=11126,time=2021-09-30 00:35:47
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=11133,time=2021-10-01 00:44:50
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
 100	1265020	1327028	C++	FredericBautista	
@@ -66,6 +66,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11126,time=2021-09-30 00:35:47
 100	363400	1786654	C++	Masclins	
 100	358250	1414873	Javascript	Volcomix	
 100	358130	2242201	C++	Maryan	
+100	357020	1239545	Go	jke	
 100	355820	3410351	C	Deltaspace	
 100	354460	4065227	C++	Pamplemus	
 100	354420	1390607	C	Ivan_Derzhylo	
@@ -73,7 +74,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11126,time=2021-09-30 00:35:47
 100	353640	1489865	C++	EricSMSO	
 100	353450	2924895	C	trictrac	
 100	352600	3513265	C++	DaNinja	
-100	352480	1239545	Go	jke	
 100	351930	735487	C	amurushkin	
 100	351280	2350415	C++	Vintarel	
 100	351240	1467771	C++	Telokis	
@@ -124,6 +124,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11126,time=2021-09-30 00:35:47
 100	261530	4270131	C	Jack_HerRrer	
 100	258950	3903847	C#	UnicornP	
 100	256370	2315158	Java	luigi_gelato	
+100	255000	1337609	C++	FlyingRaccoon	
 100	254420	1140756	C++	BarbsMan	
 100	254020	1611699	Java	EpiFlop	
 100	254000	153678	Go	dknn	
@@ -222,7 +223,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11126,time=2021-09-30 00:35:47
 100	216200	4018953	C	zTTK	
 100	216140	4191122	C	ManonCodd	
 100	215360	2515515	C	Bobliu	
-100	215320	1337609	C++	FlyingRaccoon	
 100	215230	3966600	C	leaghe	
 100	215220	1753077	C++	codingWhale	
 100	214980	2595251	Rust	Veterini	
@@ -341,6 +341,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11126,time=2021-09-30 00:35:47
 100	180950	1709003	Java	csaurin	
 100	180920	1302700	C#	Tounsi	
 100	180310	4117970	Python3	zhoubou	
+100	179820	3999174	C++	Shrimpster	
 100	179700	1842010	C#	southpolenator	
 100	179350	3823601	Python3	cysong	
 100	179340	3305510	PHP	TBali	
@@ -700,6 +701,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11126,time=2021-09-30 00:35:47
 100	70510	2320004	C#	Arthurique	
 100	70380	632549	Java	Keiras	
 100	70270	2833733	Python3	pez	
+100	69920	4534872	C++	TheBlueBias	
 100	69850	1001096	C#	MyIIone	
 100	69780	3002969	Rust	Porsuk	
 100	69730	1368122	Go	galthaus	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11126,time=2021-09-30 00:35:47
 100	64230	2019949	Java	alexturtle	
 100	64230	4323176	Python3	ArseniyFokin	
 100	64230	3996288	C#	Shadnow	
-100	64230	2573325	Java	DieuChose	
-100	64230	2649897	C#	0fl	

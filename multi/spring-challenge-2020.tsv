@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6258,time=2021-09-30 00:35:41
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6259,time=2021-10-01 00:30:38
 5	32.37	3193653	3004019	C++	karliso	
 5	31.27	880353	2975979	C++	zasmu	
 5	31.04	1082988	2982332	C++	Saelyos	
@@ -771,11 +771,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6258,time=2021-09-30 00:35:
 3	24.54	1178251	2977875	Java	Briag	
 3	24.54	3783901	2976108	Python3	rlucas585	
 3	24.53	1140677	2975871	C++	Crog	
+3	24.5	4401975	3793430	Java	Cyberhuman	
 3	24.5	3806286	2977764	Python3	St7	
 3	24.49	3039012	2978403	Rust	matsu7874	
 3	24.48	1479552	2977698	TypeScript	Tom1	
 3	24.48	2200342	2976575	C++	BernardoSulzbach	
-3	24.46	4401975	3793430	Java	Cyberhuman	
 3	24.41	2849183	3556349	Java	thebitspud	
 3	24.4	1282856	2979300	Javascript	ErikBrendel	
 3	24.4	1596238	2978681	C#	NickStahl	
@@ -910,7 +910,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6258,time=2021-09-30 00:35:
 3	22.97	3809155	2977442	Java	Myssteriion	
 3	22.95	1807733	2976181	Python3	NoZ-	
 3	22.86	3818012	2975919	C++	-k	
-3	22.84	3160781	3468121	Java	Aenerion35	
 3	22.82	4398412	3798694	Java	JinGOGO	
 3	22.8	1895212	2980466	Python3	Maxlaxs	
 3	22.8	3797046	2975581	Python3	chinwag	
@@ -919,6 +918,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6258,time=2021-09-30 00:35:
 3	22.74	3772630	2979846	Go	BattleRattle	
 3	22.72	3341311	2979027	Javascript	Amelieth	
 3	22.68	3765905	2979695	Python3	edramire	
+3	22.68	3160781	3468121	Java	Aenerion35	
 3	22.63	3744758	2980378	Python3	Mateuszrze	
 3	22.63	4081080	3372858	Python3	Thyron	
 3	22.61	1205152	2977612	Javascript	cfoll	
@@ -977,8 +977,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6258,time=2021-09-30 00:35:
 3	21.96	3740207	2979286	Swift	violettis	
 3	21.93	3806519	2978641	Python3	ijc90	
 3	21.93	3736924	2979495	Java	Autilis	
+3	21.91	1451255	2975876	Javascript	Marcob	
 3	21.91	3501475	2979491	Python3	Over9000	
-3	21.89	1451255	2975876	Javascript	Marcob	
 3	21.89	2714901	2977202	Javascript	isolomak	
 3	21.87	2709409	2979940	Python3	YesYes	
 3	21.86	3802563	2980236	Java	alex-schwartzman	

@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2506,time=2021-09-30 00:35:36
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2507,time=2021-10-01 00:30:32
 5	35.67	1400179	2986754	C++	reCurse	
 5	32.04	1327028	2990369	C++	FredericBautista	
 5	30.5	1413236	511966	Go	Medici	
@@ -897,6 +897,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2506,time=2021-09-30 00:35:
 1	23.26	609811	969744	C#	Atesz	
 1	23.26	1753121	912652	Python	Fumo201	
 1	23.26	1836084	1218206	C++	TaoLu	
+1	23.26	1273475	570241	C	Charles-Elie.Taupin	
 1	23.25	1405775	570996	C	Yiminjune	
 1	23.25	1455173	493497	Python3	DrSpock	
 1	23.25	1251131	896454	C#	ma81xx	
@@ -949,7 +950,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2506,time=2021-09-30 00:35:
 1	23.17	1458250	582666	Python3	Epsilonmajorquezero	
 1	23.17	1633040	1533555	C++	ChristopheSauge	
 1	23.16	1520716	675167	C#	Haskeer	
-1	23.16	1273475	570241	C	Charles-Elie.Taupin	
 1	23.16	215395	502717	Python3	Enknable	
 1	23.16	1491359	590307	C++	MurfDude	
 1	23.15	1603310	713892	Java	yarwest	
@@ -969,6 +969,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2506,time=2021-09-30 00:35:
 1	23.11	1595013	1854587	Rust	thebarbershopper	
 1	23.11	386279	495760	Python3	Amikum	
 1	23.1	1081818	504765	Python	Indispira	
+1	23.1	1377467	512115	C#	GeorgeClooney	
 1	23.1	1519601	979378	Python3	Jagang	
 1	23.1	1515544	635281	Python3	Toka	
 1	23.09	4508271	3835550	Python3	Thorcode	
@@ -984,7 +985,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2506,time=2021-09-30 00:35:
 1	23.08	1478742	551752	C++	Archimist	
 1	23.07	2582643	1876408	Python3	DJrafou	
 1	23.07	1811179	2257842	Java	Tetarus	
-1	23.06	1377467	512115	C#	GeorgeClooney	
 1	23.05	1547430	685362	Go	softclone	
 1	23.04	1317750	481682	Python3	zizouvb	
 1	23.04	1492574	582671	C	zc	
