@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=976,time=2021-10-01 00:30:38
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=976,time=2021-10-02 00:30:25
 9	30.19	2489835	1769668	C#	Akarachudra	
 9	25.62	2254195	1769673	Java	BrunoFelthes	
 9	25.31	1818159	1769663	C++	JRFerguson	
@@ -541,20 +541,20 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=976,time=2021-10-01 00:30:3
 6	-1.85	1108200	1756366	C++	MarkWyz	
 6	-2.01	1538846	1764061	Rust	ZweiPunktFuenf	
 6	-13.84	1319750	1739795	Ruby	NicholasGarrett	
-5	9.35	914013	2052983	Python3	HexTree	
-5	8.25	3522568	2695629	C++	bot.exe	
-5	7.33	2499257	1848893	C++	Jesega	
+5	9.57	914013	2052983	Python3	HexTree	
+5	8.56	3522568	2695629	C++	bot.exe	
+5	8.01	2499257	1848893	C++	Jesega	
+5	0.51	2729093	3848630	Rust	flipped_a_bit	
 5	-0.51	3807227	3033612	Python3	GaryAflalo	
 5	-1.37	1841051	1933402	Python3	0xbeefed	
-5	-4.1	2836264	2668049	C++	M0N1K4	
-5	-4.38	4092113	3363984	Python3	Chiraag123	
-5	-6.23	3520283	2620947	C++	KlonHero	
-5	-6.69	3486079	2503122	Javascript	DerSlack	
+5	-4.19	2836264	2668049	C++	M0N1K4	
+5	-4.63	4092113	3363984	Python3	Chiraag123	
+5	-6.36	3520283	2620947	C++	KlonHero	
+5	-6.73	3486079	2503122	Javascript	DerSlack	
 5	-7.09	1285564	1739455	PHP	Rstamper	
 5	-7.52	2219871	1742660	C#	TernumSal	
 5	-17.43	3522401	2689917	C++	Aretanas	
 5	-21.42	2467024	1743763	Java	Daytona	
-5	-inf	591238			wolfnether	
 5	-inf	1461255			Spaider15	
 5	-inf	2493141			Teks3	
 5	-inf	2541857			Mamba642	
@@ -614,9 +614,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=976,time=2021-10-01 00:30:3
 5	-inf	1500783			NotwenCaasi	
 5	-inf	4008340			Shawnny	
 5	-inf	3568091			Elargas	
-5	-inf	321003			mixam85	
+5	-inf	1716558			BohdanKorchak	
 5	-inf	4157211			Omusie	
-5	-inf	3921345			JFP81	
+5	-inf	321003			mixam85	
 5	-inf	3740142			EliteDaMyth	
 5	-inf	1885608			Asterdroid	
 5	-inf	1667236			Nerwosolek	
@@ -626,7 +626,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=976,time=2021-10-01 00:30:3
 5	-inf	1024388			SamP	
 5	-inf	3514820			Justin-Truong	
 5	-inf	4375434			paintedlady	
-5	-inf	1716558			BohdanKorchak	
+5	-inf	3141948			philRG	
+5	-inf	3921345			JFP81	
 5	-inf	2395414			JakenHerman	
 5	-inf	2357262			MaorKachalon	
 5	-inf	2249782			tokifuko	
@@ -640,22 +641,21 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=976,time=2021-10-01 00:30:3
 5	-inf	2499001			WatchMeCalc	
 5	-inf	1399852			Thaell	
 5	-inf	1942723			Tomux	
-4	12.14	3141948	3834784	Python3	philRG	
-4	10.27	4191192	3840357	Python3	shadowdeath	
-4	9.41	4307408	3527573	Kotlin	WinnerTakesAll	
-4	8.07	3910808	3830224	C#	JayBeAl	
-4	7.76	783129	2433720	C#	Sookie	
-4	7.61	2729093	3840432	Rust	flipped_a_bit	
-4	5.83	2390438	2433330	C++	kote.cdz	
-4	5.31	2390467	2433325	C++	RevientaCerdos	
-4	4.52	2509374	2433317	C++	luisaltaje	
-4	4.04	1830993	1742555	C#	jpcheck	
-4	3.3	2433615	1837565	C#	Eastiling	
+5	-inf	591238			wolfnether	
+4	10.61	4191192	3840357	Python3	shadowdeath	
+4	9.58	3910808	3830224	C#	JayBeAl	
+4	9.49	4307408	3527573	Kotlin	WinnerTakesAll	
+4	7.43	783129	2433720	C#	Sookie	
+4	5.53	2390438	2433330	C++	kote.cdz	
+4	5.23	2390467	2433325	C++	RevientaCerdos	
+4	4.47	2509374	2433317	C++	luisaltaje	
+4	4	1830993	1742555	C#	jpcheck	
+4	3.27	2433615	1837565	C#	Eastiling	
 4	2.48	2495790	1748177	Java	Mexx62	
 4	2.33	1787646	3120123	Python3	wognovice	
-4	1.64	1469131	1744489	Javascript	incepator	
+4	1.62	1469131	1744489	Javascript	incepator	
 4	1.53	2269873	1746968	Java	FHanoun	
-4	1.44	1140699	1742653	C++	AkinaYap	
+4	1.37	1140699	1742653	C++	AkinaYap	
 3	21.09	2160802	3484782	Python3	Danpolo	
 3	18.68	1787494	1770705	Javascript	Quixx	
 3	18.33	4316297	3838011	Javascript	LeviathanProgramming	

@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=655,time=2021-10-01 00:44:52
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=656,time=2021-10-02 00:30:34
 100	62564496	2288263	Rust	dbdr	
 100	59353524	765200	Rust	FrancoisB	
 100	59353464	3457031	C++	YurkovAS	
@@ -140,8 +140,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=655,time=2021-10-01 00:44:52
 100	435988	273004	Python3	ptitrex	
 100	415156	182536	C	dbo	
 100	407312	1479930	C++	LeRenard	
+100	406280	3012238	C++	miszu	
 100	404300	199887	C#	Sanpas	
-100	403984	3012238	C++	miszu	
 100	403532	4026208	Java	alf38	
 100	402388	2328161	Javascript	Joethebus	
 100	401528	1880197	C++	bicklil	
@@ -644,6 +644,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=655,time=2021-10-01 00:44:52
 100	344	4452094	Python3	masongtxr	
 100	344	4412338	Java	Pancake1	
 100	344	4248675	C	titonix91	
+100	344	1784266	Go	Harmaguedon	
 100	300	4094683	Python3	Loes	
 100	300	275626	Javascript	GreyMoon	
 100	300	3487406	C#	SyvachenkoMK	
