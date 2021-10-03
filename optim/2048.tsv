@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=656,time=2021-10-02 00:30:34
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=659,time=2021-10-03 01:11:59
 100	62564496	2288263	Rust	dbdr	
 100	59353524	765200	Rust	FrancoisB	
 100	59353464	3457031	C++	YurkovAS	
@@ -55,6 +55,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=656,time=2021-10-02 00:30:34
 100	10374164	3721214	C++	jrke	
 100	10183760	1861258	Rust	Nazdhun	
 100	10013012	3726978	C++	VirtualAtom	
+100	9918880	3012238	C++	miszu	
 100	9607648	416894	C++	MeDev	
 100	9282440	3305510	PHP	TBali	
 100	8844524	4119186	C#	Rxelux	
@@ -140,7 +141,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=656,time=2021-10-02 00:30:34
 100	435988	273004	Python3	ptitrex	
 100	415156	182536	C	dbo	
 100	407312	1479930	C++	LeRenard	
-100	406280	3012238	C++	miszu	
 100	404300	199887	C#	Sanpas	
 100	403532	4026208	Java	alf38	
 100	402388	2328161	Javascript	Joethebus	
@@ -422,6 +422,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=656,time=2021-10-02 00:30:34
 100	27292	1393802	Python3	amzh	
 100	27036	2353603	Pascal	MrSok	
 100	27012	4111826	Java	ThomasMascaro	
+100	26804	4206218	C#	ProCoder03	
 100	26756	3845610	Python3	pardouin	
 100	26592	3999693	Python3	ln-dev05	
 100	26516	4063573	Python3	Kaitakuchi2077	
@@ -441,6 +442,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=656,time=2021-10-02 00:30:34
 100	24876	4082228	Java	jengisgat	
 100	24788	1466631	Python3	Akrib	
 100	24720	3601433	Python3	Pupuch	
+100	24424	1929426	Java	Cegwe	
 100	24356	4091440	Python3	tarikyildiz	
 100	24184	1495694	C++	MisterJensen	
 100	24136	4190375	C#	Pipindron	
@@ -469,6 +471,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=656,time=2021-10-02 00:30:34
 100	17880	4115531	Java	LaurentBNX	
 100	13532	1578602	C++	Shkwave	
 100	12532	4508482	TypeScript	pavladan	
+100	12392	4003601	C#	Mathieu1988	
 100	11576	2679047	C#	AntonyCoco	
 100	11208	3999695	Java	ShaxoLudo	
 100	8968	1193679	Python3	Icebox	
