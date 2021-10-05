@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=496,time=2021-10-04 00:44:32
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=497,time=2021-10-05 00:30:50
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -412,6 +412,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=496,time=2021-10-04 00:44:32
 80	28519.65	1802808	Python3	EnderWiggins	
 78	30819.960000000006	909782	Go	Harkness	
 78	31050.69000000001	4153954	Python3	RichardTheDou	
+78	31129.95	889789	C	Alain-Delpuch	
 76	30025.27	2785892	Python3	levbor	
 76	30143.78	1050420	Python3	boi_led_egg	
 76	30159.29	4089252	Python3	Miki09	

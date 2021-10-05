@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=11155,time=2021-10-04 00:44:30
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=11164,time=2021-10-05 00:30:48
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
 100	1265020	1327028	C++	FredericBautista	
@@ -51,6 +51,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11155,time=2021-10-04 00:44:30
 100	458530	2255967	C	mehdilh	
 100	456270	4009347	Rust	JaworWr	
 100	453510	3457031	C++	YurkovAS	
+100	453100	1239545	Go	jke	
 100	447880	3627342	C#	Zuabros	
 100	441200	638784	C++	Yqnn	
 100	436580	1307473	C++	Evgenykz	
@@ -66,7 +67,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11155,time=2021-10-04 00:44:30
 100	363400	1786654	C++	Masclins	
 100	358250	1414873	Javascript	Volcomix	
 100	358130	2242201	C++	Maryan	
-100	357020	1239545	Go	jke	
 100	355820	3410351	C	Deltaspace	
 100	354460	4065227	C++	Pamplemus	
 100	354420	1390607	C	Ivan_Derzhylo	
@@ -296,6 +296,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11155,time=2021-10-04 00:44:30
 100	196780	1808019	Java	Aelexe	
 100	196720	2177599	C++	racezwerg	
 100	195930	4039884	C++	mzbear	
+100	195910	1120421	C++	Gordonihno	
 100	195880	1061242	C++	martinpapa69	
 100	195530	922880	C#	Leshka	
 100	195040	4193469	Rust	yannick-t	
@@ -386,6 +387,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11155,time=2021-10-04 00:44:30
 100	168040	2321957	C++	Xenoid	
 100	167610	4399052	Python3	CodinBoss1234	
 100	165740	859803	C#	stauik	
+100	165720	3774397	Java	FreezeRain	
 100	164750	3298988	C#	PotatoCoder	
 100	164710	3647844	C++	rc95401	
 100	164440	222390	Python3	JohnErikSloper	
@@ -393,7 +395,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11155,time=2021-10-04 00:44:30
 100	163080	3789595	C	jgmp	
 100	162570	3044029	C#	GuerillaOynx	
 100	162300	972894	C++	resty-daze	
-100	161950	3774397	Java	FreezeRain	
 100	161790	819803	Java	Anordil	
 100	161770	155955	PHP	nht_dev	
 100	161320	3965181	Javascript	Adlan_Fauzi	
@@ -967,6 +968,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11155,time=2021-10-04 00:44:30
 100	64260	4194335	Javascript	crvn	
 100	64260	4444920	C++	Roiser	
 100	64260	4470306	C++	NONstope	
+100	64260	3420896	C++	Tigroux	
 100	64250	2858320	C++	Loule	
 100	64240	4299607	Python3	TennyKs	
 100	64240	4333899	Javascript	Handala	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11155,time=2021-10-04 00:44:30
 100	64230	3425328	Javascript	waterblue	
 100	64230	4083906	Python3	ingenieurtoni	
 100	64230	3586671	Python3	Uemu-yazid	
-100	64230	2019949	Java	alexturtle	
-100	64230	4323176	Python3	ArseniyFokin	

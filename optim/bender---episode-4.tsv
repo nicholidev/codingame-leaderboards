@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=232,time=2021-10-04 00:44:31
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=232,time=2021-10-05 00:30:49
 100	1596	3918583	Rust	mikmak	
 100	1675	2288263	Rust	dbdr	
 100	1677	1944090	C#	spaceorc	
@@ -67,6 +67,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=232,time=2021-10-04 00:44:31
 83	4325	1684020	Python3	tom_	
 80	3178	569247	Python3	LaurentBouvier	
 76	2585	1484839	Go	sparky	
+73	3730	1910916	C#	VivienBillot	
 63	3703	3494301	Python3	CoreyCV	
 56	4279	3235896	Java	Fenz	
 53	1283	3226448	Python3	tobk	
@@ -96,7 +97,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=232,time=2021-10-04 00:44:31
 3	12	2407700	Ruby	adoxography	
 3	12	552919	Javascript	Lukas	
 3	12	3421837	Python3	Naindlac	
-3	12	1910916	C#	VivienBillot	
 3	46	3625469	VB.NET	Crimson_King	
 3	70	893541	Java	wala	
 3	163	4353077	D	ast191001	
