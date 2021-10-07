@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=255,time=2021-10-06 00:32:28
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=256,time=2021-10-07 00:30:26
 100	291	2288263	Rust	dbdr	
 100	294	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -192,6 +192,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=255,time=2021-10-06 00:32:28
 39	9192	154806	Python3	piwai	
 39	9414	4045442	Python3	slapslash	
 36	8812	935744	TypeScript	Alcalyn	
+36	8822	1781541	Python3	Schwase	
 36	8845	1477791	Python3	seitec01	
 34	9101	2006009	Python3	hugolmn	
 34	9114	4286616	Python3	Oddrea	

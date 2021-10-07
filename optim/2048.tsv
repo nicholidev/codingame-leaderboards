@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=661,time=2021-10-06 00:32:29
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=661,time=2021-10-07 00:30:26
 100	62564496	2288263	Rust	dbdr	
 100	59353524	765200	Rust	FrancoisB	
 100	59353464	3457031	C++	YurkovAS	
@@ -113,6 +113,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=661,time=2021-10-06 00:32:29
 100	1808372	3625469	Python3	Crimson_King	
 100	1767700	3525167	Java	fgsdt	
 100	1757832	1029663	C	Skreamly	
+100	1750624	3489223	C#	KarloHubai	
 100	1673952	4061329	C++	KLPP	
 100	1670096	2135916	Python3	Oioi	
 100	1469488	1966315	C#	ArtemAraptanov	
@@ -125,6 +126,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=661,time=2021-10-06 00:32:29
 100	1244252	4083537	Python3	DavidAvsajanishvili	
 100	1189100	1077506	Go	gs2	
 100	1106220	1785098	C++	E_pur_si_muove	
+100	1067976	992329	Java	BeeGee	
 100	1036264	3406987	Python3	Radu_Sav	
 100	930052	3141948	Java	philRG	
 100	894468	3812486	Javascript	gitKad	
@@ -147,7 +149,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=661,time=2021-10-06 00:32:29
 100	401528	1880197	C++	bicklil	
 100	398076	2172874	Rust	Med1ane	
 100	387012	2785892	Python3	levbor	
-100	386720	992329	Java	BeeGee	
 100	381420	1427078	C++	ToshiTuringMachine	
 100	377016	3433089	Java	lionandmouse	
 100	371360	2255945	C++	PoppyTrail	
@@ -158,6 +159,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=661,time=2021-10-06 00:32:29
 100	308332	4162603	Java	Eluminati	
 100	307404	3687134	Java	Puccre	
 100	305628	792813	Python3	VilBoub	
+100	302160	4003601	C#	Mathieu1988	
 100	299136	3700430	C++	Sandivar	
 100	295132	3815413	Swift	Michael_Howard	
 100	287992	508460	C++	Volia	
@@ -170,7 +172,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=661,time=2021-10-06 00:32:29
 100	247104	4097008	Python3	petru4io	
 100	243456	3428333	Python3	pavel.jesenski	
 100	232164	3968448	Python3	Ragul02	
-100	227540	4003601	C#	Mathieu1988	
 100	220520	3235897	Java	Zylo	
 100	200944	1179950	Java	Patorikkuyatta	
 100	192100	1802967	Python3	Meruem	
@@ -203,7 +204,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=661,time=2021-10-06 00:32:29
 100	93356	862919	C++	Astrobytes	
 100	91664	1830625	C++	-Rutger-	
 100	91336	4188076	Rust	mbultmannuos	
-100	90824	3489223	C#	KarloHubai	
 100	90644	3522047	TypeScript	asgeirr	
 100	90280	4117624	Python3	Thibb1	
 100	87920	3606971	Javascript	LordVonAdel	
@@ -256,6 +256,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=661,time=2021-10-06 00:32:29
 100	60256	723476	Python3	NeoPhnx	
 100	60256	4070745	C++	MiyamuraIzumi	
 100	60256	4348792	Python3	maccha	
+100	60256	1781541	Python3	Schwase	
 100	59908	3846244	Python3	JLukeSkywalker	
 100	59788	854952	Java	dolmen1234	
 100	59560	4046678	Python3	N9798	
@@ -309,7 +310,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=661,time=2021-10-06 00:32:29
 100	49692	4100445	Python3	MathiasBennick	
 100	49232	1194069	Python3	Redstrike	
 100	49232	3950687	Python3	vkreuz	
-100	49232	1781541	Java	Schwase	
 100	49232	153256	C	Achraf_Lyazidi	
 100	49232	3290897	Python3	FlaMe	
 100	49232	3979353	Java	MrGG	
