@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3561,time=2021-10-07 00:30:16
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3561,time=2021-10-08 00:30:21
 6	30.47	1607522	1886979	C++	RoboStac	
 6	30.41	1049935	2653256	C++	Azkellas	
 6	28.85	735910	1886983	C++	Agade	
@@ -428,8 +428,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3561,time=2021-10-07 00:30:
 3	26.3	2481965	1917177	C++	jameslu	
 3	26.23	4180659	3435198	TypeScript	abrman	
 3	26.2	2802157	2256625	Python3	HKit	
+3	26.19	2575019	1861127	PHP	gabriel2combe	
 3	26.19	1171469	1867903	Java	Reblochon	
-3	26.18	2575019	1861127	PHP	gabriel2combe	
 3	26.17	977290	1934758	Python3	Darklighter	
 3	26.15	3474151	2487965	Ruby	lambda_t	
 3	26.15	2683988	2629338	Java	Neoris	
@@ -671,10 +671,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3561,time=2021-10-07 00:30:
 3	20.9	4077996	3318137	Python3	Amabaku	
 3	20.89	1828329	2400049	C++	Speedphoenix	
 3	20.89	1629402	1885201	Haskell	asvyazin	
-3	20.86	3031924	2702256	Python3	Kassout	
 3	20.83	1537951	3401184	Java	Nerchio	
 3	20.82	2212845	2327025	C#	EricB85	
 3	20.81	551895	2629991	Go	Daluc	
+3	20.8	3031924	2702256	Python3	Kassout	
 3	20.78	2923506	2578853	C++	darkhorse64	
 3	20.76	155887	1955862	Javascript	BanBan	
 3	20.76	2242985	1940861	C#	Keve1991	
@@ -740,6 +740,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3561,time=2021-10-07 00:30:
 3	20.04	1477622	1952629	C#	zrdon	
 3	20.01	1752303	2503840	C++	murrayr	
 3	20.01	2442182	3101542	C#	Kojesma	
+3	20	2668212	1900917	C++	aisu170232	
 3	20	3555227	2684249	Python3	amaotone	
 3	19.99	2572045	3393712	PHP	Essort	
 3	19.99	4133128	3847284	Rust	RustyRuster	
@@ -751,7 +752,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3561,time=2021-10-07 00:30:
 3	19.96	993184	1861230	C#	Marchelune	
 3	19.95	3516032	3750872	Python3	Labdahal	
 3	19.93	1740560	2470386	Python3	Beb77	
-3	19.93	2668212	1900917	C++	aisu170232	
 3	19.91	1784315	2328714	Python3	VianneyN	
 3	19.86	3774045	2997549	Python3	MasterDuck	
 3	19.86	1407420	2340637	Java	kiril76	
@@ -848,13 +848,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3561,time=2021-10-07 00:30:
 3	18.64	2373953	3479362	TypeScript	Dridriun	
 3	18.63	723476	3673446	Python3	NeoPhnx	
 3	18.63	911698	2587428	Python3	Krushak	
+3	18.63	3984901	3132420	Java	Qwary	
 3	18.62	3524758	3018989	Python3	Deks	
 3	18.59	3255947	3463569	C#	sialino_florian	
 3	18.57	3533119	2583865	Python3	wlesavo	
 3	18.56	1506762	2678348	Python3	the_real_lolo	
 3	18.55	2155916	2634199	Python3	ButterflyEA	
 3	18.52	4484024	3806127	Python3	Hize	
-3	18.51	3984901	3132420	Java	Qwary	
 3	18.51	1216462	2737166	Python3	MartinVachovski	
 3	18.5	2893007	3381127	C#	EngiGames	
 3	18.5	2382159	1871016	Python3	Danrice	

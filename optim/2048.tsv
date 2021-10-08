@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=661,time=2021-10-07 00:30:26
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=661,time=2021-10-08 00:30:32
 100	62564496	2288263	Rust	dbdr	
 100	59353524	765200	Rust	FrancoisB	
 100	59353464	3457031	C++	YurkovAS	
@@ -90,6 +90,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=661,time=2021-10-07 00:30:26
 100	3349920	2043908	C++	AntiSquid	
 100	3237600	1693448	C	KoenduBuf	
 100	3158800	4482661	C++	square1001	
+100	3109292	992329	Java	BeeGee	
 100	3094748	1489865	C++	EricSMSO	
 100	3073904	2438514	C++	davi_bart	
 100	3029892	4216789	Rust	Saur2000	
@@ -107,13 +108,13 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=661,time=2021-10-07 00:30:26
 100	2194824	1309948	C++	Runner87	
 100	2124388	2012662	Python3	Natalka1122	
 100	2099264	806416	Python3	awnion	
+100	2055904	3489223	C#	KarloHubai	
 100	2013220	1720605	Rust	carlicolosse	
 100	2000068	1413257	C#	Bavoen	
 100	1830476	3317816	Java	Jeeronimo	
 100	1808372	3625469	Python3	Crimson_King	
 100	1767700	3525167	Java	fgsdt	
 100	1757832	1029663	C	Skreamly	
-100	1750624	3489223	C#	KarloHubai	
 100	1673952	4061329	C++	KLPP	
 100	1670096	2135916	Python3	Oioi	
 100	1469488	1966315	C#	ArtemAraptanov	
@@ -126,7 +127,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=661,time=2021-10-07 00:30:26
 100	1244252	4083537	Python3	DavidAvsajanishvili	
 100	1189100	1077506	Go	gs2	
 100	1106220	1785098	C++	E_pur_si_muove	
-100	1067976	992329	Java	BeeGee	
 100	1036264	3406987	Python3	Radu_Sav	
 100	930052	3141948	Java	philRG	
 100	894468	3812486	Javascript	gitKad	
