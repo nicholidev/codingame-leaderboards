@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5493,time=2021-10-08 00:30:29
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5498,time=2021-10-09 00:46:17
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -455,6 +455,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5493,time=2021-10-08 00:30:29
 100	4890	1838549	Rust	orangesnowfox	
 100	4893	3971358	Ruby	OldJohn	
 100	4897	518191	ObjectiveC	gustokashin	
+100	4906	1081827	Python3	MathisHammel	
 100	4911	890470	Java	romdouze	
 100	4919	2711018	Javascript	Fabs	
 100	4930	4434701	Java	Pucu	
@@ -644,6 +645,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5493,time=2021-10-08 00:30:29
 100	5703	1398219	C#	Kenrugo	
 100	5703	4065227	C++	Pamplemus	
 100	5704	3882014	Java	MeatyZor	
+100	5706	1543177	Python3	Xoff	
 100	5709	1033147	Java	Starbuck	
 100	5709	2500089	Javascript	Fantomat75	
 100	5711	1386947	Python3	hannoman	
@@ -785,7 +787,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5493,time=2021-10-08 00:30:29
 100	5850	934381	C++	PolyB	
 100	5852	231653	C++	kappy	
 100	5852	952784	C++	[CG]Simon	
-100	5852	1543177	Python3	Xoff	
 100	5852	1488793	Python3	kerloic	
 100	5852	1400864	C++	Markoz	
 100	5852	3043998	Python3	Linch	
@@ -874,6 +875,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5493,time=2021-10-08 00:30:29
 100	5860	4144079	Java	raphau	
 100	5860	3744084	Python3	racaillou	
 100	5860	3366686	Python3	FAngelo94	
+100	5860	2772722	C++	Hiyoshinobu	
 100	5861	954356	C++		
 100	5861	420035	Pascal	bvs23bkv33	
 100	5861	1483798	Ruby	hm001	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5493,time=2021-10-08 00:30:29
 100	5886	4269720	Python3	ShuP1	
 100	5887	876082	Java	gemsrom	
 100	5887	619590	Java	Abdelrahman_Mohamed	
-100	5887	845293	C	fnoaman	
-100	5887	938678	Java	JDU	
