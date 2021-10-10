@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=11196,time=2021-10-09 00:46:18
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=11200,time=2021-10-10 00:45:09
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
 100	1265020	1327028	C++	FredericBautista	
@@ -60,6 +60,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11196,time=2021-10-09 00:46:18
 100	410380	1114834	C++	k4ng0u	
 100	406200	2571540	C	Nagatwin	
 100	404550	155774	C++	dwarfie	
+100	391640	1470017	C++	BeBopping	
 100	385600	2786666	C++	TetraktysPhi	
 100	374900	4090213	C++	andrecab	
 100	372960	3366188	Rust	SteveWhite	
@@ -107,7 +108,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11196,time=2021-10-09 00:46:18
 100	285300	1267417	C++	co42	
 100	283160	1868716	Rust	RagingCactus	
 100	281790	3389226	C#	Peti88	
-100	281780	1470017	C++	BeBopping	
 100	280980	4510326	Kotlin	MadisL	
 100	280830	4168646	Rust	RaccoonWithSpork	
 100	280290	1368852	Rust	raysplaceinspace	
@@ -185,6 +185,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11196,time=2021-10-09 00:46:18
 100	227620	3622757	C	anid	
 100	227210	4328352	C++	Esael	
 100	226740	1344487	Java	UnnamedCodinGamer	
+100	226740	219157	C	BelaidKhaled	
 100	226320	3844625	C++	olaf_surgut	
 100	226170	3978889	C	Zhansaya_M	
 100	225880	1458246	C#	Httpsx	
@@ -250,6 +251,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11196,time=2021-10-09 00:46:18
 100	209600	2455616	Java	JeanClaude44	
 100	209280	3779295	C++	xxd	
 100	209270	4334406	C	Camdan	
+100	209270	3012238	C++	miszu	
 100	208910	3358736	C	BuluBulu27	
 100	208880	3256989	C++	rizant	
 100	208100	4425076	C	Malu38	
@@ -298,7 +300,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11196,time=2021-10-09 00:46:18
 100	196780	1808019	Java	Aelexe	
 100	196720	2177599	C++	racezwerg	
 100	195930	4039884	C++	mzbear	
-100	195920	219157	C	BelaidKhaled	
 100	195910	1120421	C++	Gordonihno	
 100	195880	1061242	C++	martinpapa69	
 100	195530	922880	C#	Leshka	
@@ -510,7 +511,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11196,time=2021-10-09 00:46:18
 100	121520	1506967	Java	Misterjony	
 100	120530	3962423	C++	Shagar	
 100	120310	1498163	Java	Ben-oit	
-100	119340	3012238	C++	miszu	
 100	118800	829018	C++	alchemsti	
 100	118730	3177921	C#	Akanash	
 100	118370	728898	Python3	DaddysPrincess	
@@ -790,6 +790,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11196,time=2021-10-09 00:46:18
 100	64710	4444688	C#	NickDerMetzger	
 100	64700	3418703	C++		
 100	64690	1031311	C++	Kazz	
+100	64690	4512488	C++	csKingBabar	
 100	64680	1652969	C#	Berci79	
 100	64660	1806837	C++	Pecpeck	
 100	64660	1066745	Java	DepartmentOfRedundancy	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11196,time=2021-10-09 00:46:18
 100	64230	3966824	Java	Quanseigi	
 100	64230	3660682	Python3	Bglacial	
 100	64230	2698120	Python3	Arhaiziya	
-100	64230	4011783	TypeScript	sylbouns	
