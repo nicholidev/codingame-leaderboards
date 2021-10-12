@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=663,time=2021-10-11 00:30:32
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=664,time=2021-10-12 00:59:21
 100	62564496	2288263	Rust	dbdr	
 100	59353524	765200	Rust	FrancoisB	
 100	59353464	3457031	C++	YurkovAS	
@@ -72,6 +72,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=663,time=2021-10-11 00:30:32
 100	7040396	512097	C++	Stilgart	
 100	6741832	3927891	C++	whywhy_	
 100	6722180	3996809	C++	VizGhar	
+100	6638148	992329	Java	BeeGee	
 100	6040172	1638419	Java	Quent21	
 100	5518472	884874	D	Zauberer	
 100	5059552	2405889	Kotlin	Saivo	
@@ -90,7 +91,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=663,time=2021-10-11 00:30:32
 100	3349920	2043908	C++	AntiSquid	
 100	3237600	1693448	C	KoenduBuf	
 100	3158800	4482661	C++	square1001	
-100	3109292	992329	Java	BeeGee	
 100	3094748	1489865	C++	EricSMSO	
 100	3073904	2438514	C++	davi_bart	
 100	3029892	4216789	Rust	Saur2000	
@@ -299,6 +299,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=663,time=2021-10-11 00:30:32
 100	52032	2831825	Java	1null	
 100	51804	4059960	Java	hexahurz	
 100	51804	3774045	Python3	MasterDuck	
+100	51804	2649897	Python3	0fl	
 100	50760	1301563	Python3	tenshi42	
 100	50736	3807329	Python3	kostya200300	
 100	50372	3314029	Python3	Ravenpsycho	
@@ -335,7 +336,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=663,time=2021-10-11 00:30:32
 100	45740	4089252	Python3	Miki09	
 100	45200	4002619	Python3	LiJu09	
 100	44840	2227858	C#	SnailMan	
-100	44596	3486522	Python3	Pea.	
+100	44596	3486522	Python3	Linze	
 100	44064	3978509	PHP	elePHPant	
 100	43648	351385	Python3	fabmarcant	
 100	43648	958227	Python3	LantarSidonis	

@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=260,time=2021-10-11 00:30:31
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=262,time=2021-10-12 00:59:21
 100	291	2288263	Rust	dbdr	
 100	294	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -44,6 +44,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=260,time=2021-10-11 00:30:31
 100	349	3809853	C++	Emilio-EH	
 100	363	440476	C++	yowa	
 100	364	3738782	C#	Inaniwa	
+100	373	153965	Python3	Keelhaul	
 100	380	1393802	Rust	amzh	
 100	382	4277867	Rust	About	
 100	387	841420	C#	RandomVariable	
@@ -160,6 +161,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=260,time=2021-10-11 00:30:31
 69	4602	483321	C#	Clagus	
 69	5494	3416055	Python3	ItsAFeature	
 67	5218	3846244	Python3	JLukeSkywalker	
+63	5283	3839774	Scala	gurvan_lullien	
 63	5770	4033445	Javascript	netto________	
 60	5586	389473	Javascript	BigBart	
 58	5866	1861258	Go	Nazdhun	
@@ -176,7 +178,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=260,time=2021-10-11 00:30:31
 52	7157	3780912	C#	Siska	
 52	7951	3358232	Python3	JessR	
 50	7051	1035630	Java	Vestiaz	
-50	7051	3839774	Scala	gurvan_lullien	
 45	7629	1530750	Python3	UncleV	
 45	7633	3184049	Python3	ghhttt	
 45	7633	4300969	Javascript	thomasgonda3	
@@ -244,7 +245,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=260,time=2021-10-11 00:30:31
 2	5	2438514	C++	davi_bart	
 2	1510	3707873	C++	Philbot	
 2	1510	3749793	Python3	WINWINWIN	
-2	2413	3486522	Python3	Pea.	
+2	2413	3486522	Python3	Linze	
 2	2714	1178401	Python3	mizzHuarta	
 2	3316	2081550	Javascript	muy31	
 2	4520	1527403	C++	Di_Masta	
@@ -254,6 +255,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=260,time=2021-10-11 00:30:31
 2	13550	3923022	Javascript	FabInCode	
 2	13550	1206180	Python3	Nyxon	
 2	13550	3744084	Python3	racaillou	
+2	13550	4003601	C#	Mathieu1988	
 0	13846	3627342	C#	Zuabros	
 0	13846	3721214	C++	jrke	
 0	13846	3901646	Python3	VarjaListopad	

@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4808,time=2021-10-11 00:30:08
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4809,time=2021-10-12 00:38:11
 0	47.11	1433161	1484525	C	mingu1.kang	
 0	45.66	990110	357643	C++	Rogerup	
 0	45.57	494104	455215	C++	Recar	
@@ -215,8 +215,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4808,time=2021-10-11 00:30:
 0	37.63	668906	342000	Java	Sandworm	
 0	37.63	1164957	364547	C++	Dolphish	
 0	37.63	828184	349175	C	Bothari	
-0	37.63	1489865	1099783	C++	EricSMSO	
 0	37.62	392182	689207	Java	Orgcore	
+0	37.62	1489865	1099783	C++	EricSMSO	
 0	37.62	417490	352131	Java	Alevohin	
 0	37.62	886483	488764	ObjectiveC	R4N4R4M4	
 0	37.62	792261	341147	C++	IKKYU	
@@ -248,16 +248,16 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4808,time=2021-10-11 00:30:
 0	37.31	1181853	2120265	Python3	joha	
 0	37.3	828239	350633	C#	[SG]Bisou	
 0	37.3	212028	342255	Java	GHenry	
-0	37.29	617317	355806	C	Med-Amine	
 0	37.28	610934	348830	C#	y_kawano	
 0	37.27	196606	597670	Java	EasyCoder	
 0	37.27	937362	358085	Javascript	josh_	
+0	37.18	617317	355806	C	Med-Amine	
 0	37.11	914086	347129	Ruby	matthewd	
 0	37.07	156188	355931	PHP	DorianWilde	
 0	36.97	1065347	344683	C++	FinalFantasyx	
+0	36.92	409126	349726	Python3	EpicSound	
 0	36.91	847745	358028	PHP	Orminot	
 0	36.86	1065176	344311	Python3	LouisDurand	
-0	36.8	409126	349726	Python3	EpicSound	
 0	36.73	372352	351937	Java	Maradona	
 0	36.72	915957	346491	C	Tux	
 0	36.63	917042	353701	C	lulumeko	
@@ -496,9 +496,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4808,time=2021-10-11 00:30:
 0	34.1	4347098	3721730	OCaml	Axelle_MPSI_LIV_2020	
 0	34.1	938374	340548	C#	UnmanagedCode	
 0	34.09	155934	356674	PHP	Ninsuo	
-0	34.08	1220209	368602	Java	NathanIstace	
 0	34.07	595698	350923	C++	Kwekken	
 0	34.07	1291467	1393993	Javascript	Grimpeur	
+0	34.07	1220209	368602	Java	NathanIstace	
 0	34.07	425477	351416	Java	selslack	
 0	34.06	4255803	3722462	OCaml	Thomas_MPSI1_LIV	
 0	34.06	989912	412554	C++	Arctik3-14	
@@ -509,6 +509,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4808,time=2021-10-11 00:30:
 0	34.05	1060834	342997	Python	WalterOLockerhead	
 0	34.05	153443	348544	Python	simopr	
 0	34.05	4255364	3722465	OCaml	hamza_MPSI_LIV	
+0	34.05	877003	350476	C++	PauloCezar	
 0	34.04	155091	373756	Java	smeagol	
 0	34.03	1122412	474240	Java	TheNinja	
 0	34.03	1462735	1962312	Java	mstuercke	
@@ -520,7 +521,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4808,time=2021-10-11 00:30:
 0	33.99	957701	348873	Python	Kremlin	
 0	33.99	1753072	3032154	C++	MrOne	
 0	33.97	4317054	3722601	OCaml	jean.code	
-0	33.96	877003	350476	C++	PauloCezar	
 0	33.96	982132	344358	C++	cocouf	
 0	33.94	1364983	2117015	C++	BogdanDevichev	
 0	33.93	922810	354216	C#	FCT	
@@ -727,13 +727,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4808,time=2021-10-11 00:30:
 0	32.51	359529	354065	OCaml	vIg0r	
 0	32.51	1206537	656015	C++	MadKnight	
 0	32.5	826359	346562	Python3	Skywalker	
-0	32.5	4108922	3434702	Python3	PiZa_OuiOui	
 0	32.5	3317108	2836787	Python3	Pseud0	
+0	32.49	4108922	3434702	Python3	PiZa_OuiOui	
 0	32.49	834200	350064	Python3	Amin_pl	
+0	32.48	1410680	459585	C	EzLucky	
 0	32.48	417433	353686	C++	Oakos	
 0	32.48	585897	343297	Java	adeprez	
 0	32.47	1223426	570116	Java	VolgoAK	
-0	32.47	1410680	459585	C	EzLucky	
 0	32.47	1068749	354060	C++	MarcioReis	
 0	32.47	1053198	385597	Python3	ProfessorWolf	
 0	32.46	1334143	412182	Java	SimoneBosh	
@@ -796,7 +796,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4808,time=2021-10-11 00:30:
 0	31.59	1046623	570763	Java	the_pins	
 0	31.59	1409924	423547	Java	RevenantMachine	
 0	31.58	872208	349834	Javascript	ferguillaume	
-0	31.58	1400653	2257488	Python3	tsalin	
 0	31.58	1805428	3715598	OCaml	lpmib	
 0	31.58	2724981	3171225	Python3	Majeck	
 0	31.57	1049935	1866122	C++	Azkellas	
@@ -817,6 +816,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4808,time=2021-10-11 00:30:
 0	31.5	406188	351844	C++	parallel	
 0	31.49	1425395	450509	C++	Tsoin122	
 0	31.49	1003800	347103	Go	Summus_Qualitas	
+0	31.49	1400653	2257488	Python3	tsalin	
 0	31.48	608523	3065745	C++	Blinkq	
 0	31.48	1036070	363002	C++	Lelouchzqy	
 0	31.47	523322	344918	C++	cocodrips	
