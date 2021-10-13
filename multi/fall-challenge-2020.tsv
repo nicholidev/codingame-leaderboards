@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7887,time=2021-10-12 00:43:28
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7889,time=2021-10-13 00:56:49
 5	29.95	832306	3312396	C++	pb4	
 5	29.28	154984	3332311	C++	_Royale	
 5	29.02	668954	3339073	C++	Fluxor	
@@ -729,7 +729,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7887,time=2021-10-12 00:43:
 3	37.55	2063104	3312441	Java	Martin_fr	
 3	37.52	3657204	3310666	Python3	mdaraujo	
 3	37.52	3513815	3312053	Python3	jj_	
-3	37.51	4545712	3859184	Python3	M1kb	
 3	37.5	1334166	3312985	C++	xSkyline	
 3	37.49	3805866	3312398	C#	Daftgan	
 3	37.48	4039884	3313281	C++	mzbear	
@@ -758,6 +757,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7887,time=2021-10-12 00:43:
 3	37.32	317861	3664776	Go	lordgun	
 3	37.31	1222619	3339012	Java	Cojy	
 3	37.3	2676203	3311587	C#	KonamiCode	
+3	37.3	4545712	3859184	Python3	M1kb	
 3	37.28	1583095	3312067	Javascript	Instafluff	
 3	37.28	499209	3309735	PHP	Tom85	
 3	37.28	4052824	3314416	C++	Qfeuillam	
@@ -908,12 +908,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7887,time=2021-10-12 00:43:
 3	35.2	1301401	3312611	C#	Stanax	
 3	35.17	3641244	3317705	C	celomary99	
 3	35.17	4065322	3349324	Rust	ootsby	
+3	35.16	980147	3312724	Python3	kingmoshe	
 3	35.16	2721862	3310380	Python3	mataranga	
 3	35.15	1883154	3312734	Javascript	SpectralFlame	
 3	35.15	2536487	3309557	Java	Sumo-Naony	
 3	35.14	1716296	3312130	C++	abzalovim	
 3	35.1	2802157	3312718	Python3	HKit	
-3	35.09	980147	3312724	Python3	kingmoshe	
 3	35.08	4038855	3339325	Python3	Pedrito_B	
 3	35.07	2565497	3312211	Javascript	vladislao	
 3	35.05	4059513	3310668	Java	DrDaleks	
@@ -926,7 +926,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7887,time=2021-10-12 00:43:
 3	34.91	1035630	3312538	Java	Vestiaz	
 3	34.84	2065521	3317365	Java	igolus	
 3	34.83	2104758	3309001	Python3	Danifae	
-3	34.79	2592027	3312446	C#	ParticleBeam	
+3	34.83	2592027	3312446	C#	ParticleBeam	
 3	34.79	2202771	3411090	Java	Kaplone	
 3	34.68	4308802	3783671	Java	Ascodran	
 3	34.66	3808031	3310968	TypeScript	_proton	
@@ -947,12 +947,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7887,time=2021-10-12 00:43:
 3	34.25	1414854	3312997	Rust	jpages	
 3	34.21	3819561	3375391	Javascript	agenordebriat	
 3	34.2	1606614	3441141	C++	Wazaa	
-3	34.16	2744095	3311205	Python3	ArSeNiK	
 3	34.11	3570823	3360196	C++	warmind	
 3	34.1	4014857	3310494	C++	2_1	
 3	34.09	2683085	3309295	Rust	estoev	
 3	34.07	4053085	3310028	Go	chstar	
 3	34.07	3411072	3312863	C++	summer000	
+3	34.04	2744095	3311205	Python3	ArSeNiK	
 3	34.03	3808197	3309912	Java	Didip	
 3	33.93	4058391	3310301	C++	salihfc	
 3	33.9	3774010	3340833	Python3	Presac	

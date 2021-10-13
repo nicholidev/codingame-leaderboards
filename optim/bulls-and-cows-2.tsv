@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=262,time=2021-10-12 00:59:21
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=263,time=2021-10-13 01:00:39
 100	291	2288263	Rust	dbdr	
 100	294	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -37,6 +37,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=262,time=2021-10-12 00:59:21
 100	334	1449433	C++	Rolf	
 100	335	888898	C++	helgui	
 100	336	2110342	Javascript	lchenay	
+100	336	153965	Python3	Keelhaul	
 100	338	2950978	C++	icecuber	
 100	338	1838549	Rust	orangesnowfox	
 100	338	4334077	C++	Paul_Demanze	
@@ -44,12 +45,12 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=262,time=2021-10-12 00:59:21
 100	349	3809853	C++	Emilio-EH	
 100	363	440476	C++	yowa	
 100	364	3738782	C#	Inaniwa	
-100	373	153965	Python3	Keelhaul	
 100	380	1393802	Rust	amzh	
 100	382	4277867	Rust	About	
 100	387	841420	C#	RandomVariable	
 100	403	1684486	C++	Whopper	
 100	414	3226448	Rust	tobk	
+100	415	4526264	C++	cly	
 100	436	1484839	Go	sparky	
 100	440	2051334	C++	Dwarth	
 100	458	2436448	Java	FrancoisMeme	
@@ -104,7 +105,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=262,time=2021-10-12 00:59:21
 100	1277	4512488	C++	csKingBabar	
 100	1304	2043908	C++	AntiSquid	
 100	1355	4487490	Python3	cnk_gr	
-100	1378	4526264	Python3	cly	
 100	1415	1075220	Java	sebmarty	
 100	1416	3269275	C#	Ille-Stream	
 100	1503	3171976	TypeScript	horvbalazs	
@@ -234,7 +234,9 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=262,time=2021-10-12 00:59:21
 15	12549	3136787	Python3	jacek	
 15	12967	1229845	Java	Jipe	
 13	11928	1193459	C++	izanbf	
+13	12082	2612889	Python3	Symphonia	
 13	12101	3489223	Javascript	KarloHubai	
+13	12103	4003601	C#	Mathieu1988	
 13	12245	2387233	C#	SinOfWrath	
 13	12248	723476	Python3	NeoPhnx	
 10	351	3738308	Python3	sgbd	
@@ -255,7 +257,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=262,time=2021-10-12 00:59:21
 2	13550	3923022	Javascript	FabInCode	
 2	13550	1206180	Python3	Nyxon	
 2	13550	3744084	Python3	racaillou	
-2	13550	4003601	C#	Mathieu1988	
 0	13846	3627342	C#	Zuabros	
 0	13846	3721214	C++	jrke	
 0	13846	3901646	Python3	VarjaListopad	

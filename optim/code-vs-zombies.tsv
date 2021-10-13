@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=11222,time=2021-10-12 00:59:15
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=11236,time=2021-10-13 01:00:37
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
 100	1265020	1327028	C++	FredericBautista	
@@ -20,6 +20,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11222,time=2021-10-12 00:59:15
 100	665770	2316796	PHP	Psio	
 100	663620	1630890	Java	Wld	
 100	655210	1003777	Rust	DanXX09	
+100	654580	3012238	C++	miszu	
 100	649860	338469	C++	__mcts__	
 100	648260	2923506	C++	darkhorse64	
 100	644300	1378958	C#	Illedan	
@@ -251,7 +252,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11222,time=2021-10-12 00:59:15
 100	209600	2455616	Java	JeanClaude44	
 100	209280	3779295	C++	xxd	
 100	209270	4334406	C	Camdan	
-100	209270	3012238	C++	miszu	
 100	208910	3358736	C	BuluBulu27	
 100	208880	3256989	C++	rizant	
 100	208100	4425076	C	Malu38	

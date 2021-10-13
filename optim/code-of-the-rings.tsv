@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5503,time=2021-10-12 00:59:15
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5505,time=2021-10-13 01:00:37
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -544,6 +544,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5503,time=2021-10-12 00:59:15
 100	5488	892056	Python3	LaurentTrk	
 100	5489	4400572	Javascript	unnamedminecrafter	
 100	5490	1757041	PHP	Bytenex	
+100	5494	4471038	Java	nguyen.lam.fr	
 100	5496	446956	C++	FranMowinckel	
 100	5496	2295548	Rust	banban	
 100	5497	905122	Python3	nILS	
@@ -620,6 +621,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5503,time=2021-10-12 00:59:15
 100	5664	1488054	C++	vsakraf	
 100	5666	4194276	C#	Codonkey	
 100	5668	1501735	Python3	bernardlavilliers	
+100	5671	4431726	Python3	tealfrog	
 100	5673	438981	Clojure	Drowsy	
 100	5674	959402	PHP	gmessier	
 100	5676	3636931	Rust	v0lat1le	
@@ -785,7 +787,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5503,time=2021-10-12 00:59:15
 100	5849	2169173	Python3	Watashiku2	
 100	5849	4166555	Ruby	Natanalel	
 100	5849	2325540	Scala	ifossz	
-100	5849	4471038	Java	nguyen.lam.fr	
 100	5850	934381	C++	PolyB	
 100	5852	231653	C++	kappy	
 100	5852	952784	C++	[CG]Simon	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5503,time=2021-10-12 00:59:15
 100	5886	268663	Python3	Elensil	
 100	5886	4148246	Java	jmgrozas	
 100	5886	4441094	Python3	Oric1	
-100	5886	2914317	Python3	TimoSissala	

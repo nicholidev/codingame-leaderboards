@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=4608,time=2021-10-12 00:59:14
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=4612,time=2021-10-13 01:00:37
 100	2509	1327028	C++	FredericBautista	
 100	2507	154372	Bash	Plopx	
 100	2504	1249786	C#	Fededevi	
@@ -325,6 +325,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4608,time=2021-10-12 00:59:14
 100	2133	3737875	C#	Gordon-from-Blumberg	
 100	2131	3727077	C++	Manwi23	
 100	2130	1181768	Java	dio_O	
+100	2128	4390099	C++	n02	
 100	2125	1114834	Scala	k4ng0u	
 100	2125	1337680	C++	Discoordination	
 100	2124	915957	C	Tux	
@@ -429,7 +430,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4608,time=2021-10-12 00:59:14
 100	2047	2331589	C#	miaugust	
 100	2046	918913	C++	GreatTux	
 100	2046	2876934	C++	Bgd	
-100	2045	4390099	C++	n02	
 100	2044	1752047	C	RGBenfield	
 100	2044	1879283	Python3	choi07	
 100	2044	4095799	Python3	circular17	
@@ -577,6 +577,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4608,time=2021-10-12 00:59:14
 100	1991	4443387	Java	Rob-G	
 100	1991	4470306	Java	NONstope	
 100	1991	4261456	Java	zachmae	
+100	1991	3801610	Java	badrhub	
+100	1991	1803061	Java	SmokingJoe	
 100	1990	876163	C#	AY1111	
 100	1990	1393802	Python3	amzh	
 100	1990	3762699	C	Nolliwood	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4608,time=2021-10-12 00:59:14
 100	1810	1764075	Java	Salga	
 100	1810	1713174	C++	BigUP	
 100	1810	3741491	Python3	inverb	
-100	1809	1031311	PHP	Kazz	
-100	1809	1165751	Ruby	Canartitude	

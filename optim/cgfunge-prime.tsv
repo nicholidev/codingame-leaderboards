@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=241,time=2021-10-12 00:59:20
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=242,time=2021-10-13 01:00:38
 100	4654	3949307	Perl	xevixevi	
 100	4743	2288263	Rust	dbdr	
 100	5613	4208158	Python3	Tiouz	
@@ -65,6 +65,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=241,time=2021-10-12 00:59:20
 100	42115	3767065	Python3	lxnn	
 100	42684	2233179	PHP	Samsa	
 100	43011	1879060	Python3	Bozydarek	
+100	43144	153965	Python3	Keelhaul	
 100	43601	1186885	Python3	miracle	
 100	43692	1607522	PHP	RoboStac	
 100	44275	3305510	PHP	TBali	
@@ -131,7 +132,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=241,time=2021-10-12 00:59:20
 100	86540	4534872	PHP	TheBlueBias	
 100	86874	4290907	C++	janm31415	
 100	88268	2019949	PHP	alexturtle	
-100	89620	153965	Python3	Keelhaul	
 100	90161	953094	PHP	Witman	
 100	93189	4319426	Python3	Schnegge	
 100	96431	1429360	C++	comp0zr	
@@ -217,6 +217,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=241,time=2021-10-12 00:59:20
 53	3816	893541	Java	wala	
 53	3816	1406638	Javascript	[CG]Thibaud	
 53	3816	924425	Javascript	poney	
+53	3816	3555728	Python3	KVNMDS	
 53	5989	3770485	PHP	zakki	
 53	25822	3369525	PHP	LunEyx	
 50	15016	709490	PHP	Sinlepuissant	
