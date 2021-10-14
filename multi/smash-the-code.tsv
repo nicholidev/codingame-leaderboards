@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2511,time=2021-10-13 00:56:40
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2512,time=2021-10-14 00:30:16
 5	35.47	1400179	2986754	C++	reCurse	
 5	32.04	1327028	2990369	C++	FredericBautista	
 5	30.32	1413236	511966	Go	Medici	
@@ -892,6 +892,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2511,time=2021-10-13 00:56:
 1	23.28	973155	576064	C++	Namal	
 1	23.27	1014924	493584	PHP	TommyP	
 1	23.27	1477028	577663	Ruby	CbIC	
+1	23.27	912971	2335906	C#	Amousy	
 1	23.27	2203927	1669704	C++	MohamedAlmograby_2nd_year_2018	
 1	23.26	1526032	781283	C++	AdamBadura	
 1	23.26	609811	969744	C#	Atesz	
@@ -907,7 +908,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2511,time=2021-10-13 00:56:
 1	23.23	1304340	1295886	Java	AntoineLatour	
 1	23.23	1439710	614967	Javascript	Buesto	
 1	23.23	810902	628546	Python	bouletta	
-1	23.23	912971	2335906	C#	Amousy	
 1	23.23	1676969	789328	Java	Louenes	
 1	23.23	1364114	493061	C++	Unforgiven	
 1	23.22	1527782	647661	C	zad	
@@ -930,6 +930,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2511,time=2021-10-13 00:56:
 1	23.19	1476242	576247	VB.NET	Txiwi	
 1	23.19	889640	672424	Javascript	Kaljuk	
 1	23.19	1490531	579789	C++	pedrofr	
+1	23.19	1051649	491822	PHP	Elektordi	
 1	23.19	1662602	768550	C++	brenrik	
 1	23.19	1026791	885989	Javascript	Alfalfamale	
 1	23.19	224988	506945	Python	DerPferd	
@@ -963,7 +964,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2511,time=2021-10-13 00:56:
 1	23.14	831171	3342570	Java	Recoding	
 1	23.13	1467976	500221	C	NickDominov	
 1	23.13	1509251	2318409	C#	OmikoGaming	
-1	23.13	1051649	491822	PHP	Elektordi	
 1	23.12	1563880	672682	Java	Patrick8675	
 1	23.11	1470835	512500	C++	Fsk	
 1	23.11	1595013	1854587	Rust	thebarbershopper	
