@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=504,time=2021-10-14 00:35:37
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=505,time=2021-10-15 00:37:00
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -67,7 +67,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=504,time=2021-10-14 00:35:37
 100	12253.14	1767183	C#	MelnikovIgor	
 100	12269.570000000002	3836429	Python3	Hippolyte	
 100	12270.799999999996	1754295	Rust	SF	
-100	12311.660000000002	4205154	Rust	tuna_in_cream	
+100	12288.8	4205154	Rust	tuna_in_cream	
 100	12329.850000000002	155774	C++	dwarfie	
 100	12377.420000000002	1816783	C++	NightLuna	
 100	12400.359999999995	2522090	C++	MSmits	
@@ -503,3 +503,4 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=504,time=2021-10-14 00:35:37
 0	50000	4315171	Java	Soucis	
 0	50000	4449404	Java	jernandes	
 0	50000	3779295	Python3	xxd	
+0	50000	3555728	Python3	KVNMDS	
