@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1087,time=2021-10-15 00:36:59
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1089,time=2021-10-16 01:15:28
 100	11920	2077805	C++	bamilan	
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
@@ -357,6 +357,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1087,time=2021-10-15 00:36:59
 100	3507	523846	C#	Palmipedus	
 100	3504	1274026	C#	Sethius	
 100	3481	4155983	Javascript	o0lit3	
+100	3477	1783256	Javascript	curtis2000	
 100	3473	2377210	Rust	mrBen	
 100	3466	754792	C++	Ramdeath	
 100	3465	2003111	PHP	Krikolo	
@@ -406,7 +407,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1087,time=2021-10-15 00:36:59
 100	2939	783555	C#	Colin88	
 100	2916	2034153	C++	AdriZ	
 100	2908	1733593	Scala	Wei-1	
-100	2892	1783256	Javascript	curtis2000	
 100	2888	2687239	Go	Baltilius	
 100	2887	795321	Java	berthy424	
 100	2875	3740208	Python3	Dinca	
@@ -969,6 +969,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1087,time=2021-10-15 00:36:59
 100	1045	3621436	C++	CMN	
 100	1045	1108968	Python3	Obaul	
 100	1045	2364617	Python3	RomainPicot	
+100	1045	4521307	Python3	gabitho788	
+100	1045	4470306	Python3	NONstope	
 100	1041	1074744	Java	GwenGlSoft	
 100	1040	3555728	Python3	KVNMDS	
 100	1039	1129000	Python3	ChairmanOfTheBored	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1087,time=2021-10-15 00:36:59
 100	1010	3090475	Python3	katiepaige	
 100	1010	2110342	Javascript	lchenay	
 100	1010	2973697	Javascript	ddaup	
-100	1010	3303876	Python3	[CG]Wood	
-100	1010	3424138	C	pepnou	

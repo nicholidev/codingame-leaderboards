@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=666,time=2021-10-15 00:37:00
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=667,time=2021-10-16 01:15:29
 100	62564496	2288263	Rust	dbdr	
 100	59353524	765200	Rust	FrancoisB	
 100	59353464	3457031	C++	YurkovAS	
@@ -229,6 +229,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=666,time=2021-10-15 00:37:00
 100	74348	810629	C#	Lukey	
 100	73972	4218167	C#	33L3H2	
 100	71944	4206982	Ruby	slempel	
+100	71408	3563934	C#	ChuckTheNinja	
 100	70852	4136008	Python3	jerry_laevis	
 100	70600	3068678	Python3	DrSilverstone	
 100	69792	2635907	Javascript	lopidav	
@@ -347,7 +348,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=666,time=2021-10-15 00:37:00
 100	43508	481564	VB.NET	mihei	
 100	43468	4065637	C#	Baby1991	
 100	43220	1259143	C++	Bence886	
-100	42480	4038295	Python3	RamanShakya	
+100	42704	3555728	Python3	KVNMDS	
+100	42480	4038295	Python3	rmnShk	
 100	42312	799904	C++	iwashi31	
 100	42296	899745	C#	vabaaalas	
 100	41980	1932980	Rust	AlexandreK	
@@ -376,7 +378,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=666,time=2021-10-15 00:37:00
 100	34872	4051415	Python3	Sebichou	
 100	34768	1626913	Java	AdrienTurmo	
 100	34684	952540	Python3	Kloppie5	
-100	34624	3563934	C#	ChuckTheNinja	
 100	34152	4038158	Javascript	Aayush.Curious	
 100	33836	4146980	Python3	Bernathan	
 100	33484	1398620	C#	Kazkel	
@@ -477,6 +478,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=666,time=2021-10-15 00:37:00
 100	12532	4508482	TypeScript	pavladan	
 100	11576	2679047	C#	AntonyCoco	
 100	11208	3999695	Java	ShaxoLudo	
+100	10684	2364617	C++	RomainPicot	
 100	8968	1193679	Python3	Icebox	
 100	8592	2324305	C#	mgbt	
 100	7732	2612889	Python3	Symphonia	
@@ -538,7 +540,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=666,time=2021-10-15 00:37:00
 100	1876	4117970	Python3	zhoubou	
 100	1860	1218845	C#	Gennadiy	
 100	1844	1071489	Javascript	HgGamer	
-100	1804	3555728	Python3	KVNMDS	
 100	1516	2770393	C#	MrciCopilot	
 100	1516	3708717	Python3	Emiii	
 100	1500	4115534	Python3	NewtonRaphson	

@@ -1,11 +1,12 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=10,time=2021-10-15 00:30:06
-1	28.96	2924895	3861095	C	trictrac	
-1	25.51	1540478	3861097	C++	struct	
-1	22.93	3136787	3861112	C++	jacek	
-1	20.19	862919	3862466	C++	Astrobytes	
-1	19.82	3457031	3862230	C++	YurkovAS	
-1	18.28	2923506	3861190	C++	darkhorse64	
-1	8.51	311035	3861254	Python3	leojean890	
-0	18.74	1479930	3861107	C++	LeRenard	
-0	8.27	3569066	3861081	C++	derjack	
-0	6.65	1412263	3862340	PHP	PatrickMcGinnisII	
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=11,time=2021-10-16 00:30:06
+1	29.78	2924895	3861095	C	trictrac	
+1	24.77	1540478	3861097	C++	struct	
+1	23.18	3136787	3861112	C++	jacek	
+1	21.45	2981630	3863472	C++	AstroHydes	
+1	20.73	3457031	3862230	C++	YurkovAS	
+1	18.98	2923506	3861190	C++	darkhorse64	
+1	8.6	311035	3861254	Python3	leojean890	
+1	-0.97	862919	3863478	C++	Astrobytes	
+0	18.24	1479930	3861107	C++	LeRenard	
+0	7.92	3569066	3861081	C++	derjack	
+0	6.33	1412263	3862340	PHP	PatrickMcGinnisII	
