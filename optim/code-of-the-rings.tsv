@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5512,time=2021-10-16 01:15:27
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5516,time=2021-10-17 01:05:42
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -220,6 +220,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5512,time=2021-10-16 01:15:27
 100	4004	157377	Javascript	McKelian	
 100	4005	826359	Python3	Skywalker	
 100	4006	792813	Python3	VilBoub	
+100	4007	4470306	Python3	NONstope	
 100	4013	3950687	Python3	vkreuz	
 100	4016	999596	Rust	Schyrsivochter	
 100	4017	1408260	C#	cucurucu	
@@ -347,7 +348,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5512,time=2021-10-16 01:15:27
 100	4407	1179357	Javascript	avdg	
 100	4407	2584779	Perl	quirck	
 100	4420	3667259	Javascript	LoneWolf-M21	
-100	4420	4470306	Python3	NONstope	
 100	4433	931062	C++	Blue007422	
 100	4438	802171	PHP	Merome	
 100	4439	2973592	C#	EJtheMaster	
@@ -482,7 +482,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5512,time=2021-10-16 01:15:27
 100	5178	3525167	Python3	fgsdt	
 100	5185	4034494	Rust	GTaf	
 100	5194	1306541	Python3	Steuh	
-100	5202	4341304	C++	Remi_avec_un_i	
+100	5202	4341304	C++	Remi.	
 100	5205	2716329	Python3	Recher	
 100	5212	1770280	C#	Maxboyer	
 100	5220	957176	C#	MWilliam	
@@ -495,6 +495,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5512,time=2021-10-16 01:15:27
 100	5277	633271	Go	Pomyk	
 100	5277	3358736	Java	BuluBulu27	
 100	5278	248263	PHP	NewboO	
+100	5278	4431726	Python3	tealfrog	
 100	5288	4134816	Python3	-oa-	
 100	5293	1353669	Python3	XAnimaX	
 100	5296	3077269	TypeScript	fieldy_rockz	
@@ -529,7 +530,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5512,time=2021-10-16 01:15:27
 100	5429	1779483	C#	h.otto	
 100	5430	1326194	PHP	nicolef	
 100	5431	2339129	Python3	ChristianSloper	
-100	5433	4431726	Python3	tealfrog	
 100	5437	3503501	C++	Dagnarus	
 100	5438	3534078	Python3	chabes	
 100	5439	1257796	C	Oygron	
