@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=389,time=2021-10-17 01:05:44
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=389,time=2021-10-18 00:47:00
 100	174652	3354337	Scala	Westicles	
 100	167588	1530051	C++	UlYoP	
 100	166108	2923506	C++	darkhorse64	
@@ -55,11 +55,11 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=389,time=2021-10-17 01:05:44
 100	65784	218189	C	[CG]Maxime	
 100	63194	2786666	C++	TetraktysPhi	
 100	62112	1436776	C++	BrainSolver	
+100	57735	153965	Python3	Keelhaul	
 100	57552	3015376	Python3	gaha	
 100	56950	3260156	C#	KrzysiekSlawik	
 100	54688	3721214	C++	jrke	
 100	54633	2436448	Java	FrancoisMeme	
-100	54152	153965	Python3	Keelhaul	
 100	54084	973040	C	papyjo	
 100	53892	1441239	Kotlin	Dyd	
 100	52927	1489865	C++	EricSMSO	
@@ -309,6 +309,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=389,time=2021-10-17 01:05:44
 100	7430	4134943	Python3	vinc-r	
 100	7376	1200669	Python3	houseofsuns	
 100	7296	1549856	TypeScript	Keylan	
+100	7174	2364617	C++	RomainPicot	
 100	7134	1457223	C++	jleconte	
 100	7066	1800350	C	Micolino	
 100	7066	3512206	Java	LFR	
@@ -383,7 +384,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=389,time=2021-10-17 01:05:44
 0	20	723476	Python3	NeoPhnx	
 0	20	1802808	Python3	EnderWiggins	
 0	20	1035630	Java	Vestiaz	
-0	20	2364617	C++	RomainPicot	
 0	0	294412	Python3	Kalaspa	
 0	0	3980627	Python3	Metzen	
 0	0	3720818	Python3	DustyMarlowe	

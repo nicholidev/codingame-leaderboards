@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=265,time=2021-10-17 01:05:44
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=265,time=2021-10-18 00:46:59
 100	291	2288263	Rust	dbdr	
 100	294	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -43,6 +43,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=265,time=2021-10-17 01:05:44
 100	338	4334077	C++	Paul_Demanze	
 100	347	952784	C++	[CG]Simon	
 100	349	3809853	C++	Emilio-EH	
+100	358	3839774	Scala	gurvan_lullien	
 100	363	440476	C++	yowa	
 100	364	3738782	C#	Inaniwa	
 100	380	1393802	Rust	amzh	
@@ -54,7 +55,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=265,time=2021-10-17 01:05:44
 100	436	1484839	Go	sparky	
 100	440	2051334	C++	Dwarth	
 100	458	2436448	Java	FrancoisMeme	
-100	473	3839774	Scala	gurvan_lullien	
 100	485	1566335	Python3	BeardedWhale	
 100	490	3095454	C++	e2e4b6b7	
 100	490	893541	Java	wala	
@@ -178,6 +178,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=265,time=2021-10-17 01:05:44
 52	7157	3780912	C#	Siska	
 52	7951	3358232	Python3	JessR	
 50	7051	1035630	Java	Vestiaz	
+47	8005	4003601	C#	Mathieu1988	
 45	7629	1530750	Python3	UncleV	
 45	7633	3184049	Python3	ghhttt	
 45	7633	4300969	Javascript	thomasgonda3	
@@ -188,7 +189,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=265,time=2021-10-17 01:05:44
 45	7642	1485015	C++	Murky	
 45	7647	1684020	Python3	tom_	
 45	7794	2532837	Ruby	fauresebast	
-45	7938	4003601	C#	Mathieu1988	
 45	8529	2641712	TypeScript	Scarlatine	
 43	9009	3737269	Python3	htprogras	
 43	9188	2478222	Python3	N4th	
