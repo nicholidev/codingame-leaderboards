@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=265,time=2021-10-18 00:46:59
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=265,time=2021-10-19 00:47:50
 100	291	2288263	Rust	dbdr	
 100	294	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -143,6 +143,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=265,time=2021-10-18 00:46:59
 93	4413	3406987	Python3	Radu_Sav	
 89	2426	580424	Ruby	siman	
 89	2950	4269171	Python3	actualCoderTrevor	
+89	3286	4003601	C#	Mathieu1988	
 89	3333	3382273	Python3	hasleron	
 86	2441	3865238	C++	Benoit_LCDB	
 86	2813	3105470	Java	Juda-Stico	
@@ -178,7 +179,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=265,time=2021-10-18 00:46:59
 52	7157	3780912	C#	Siska	
 52	7951	3358232	Python3	JessR	
 50	7051	1035630	Java	Vestiaz	
-47	8005	4003601	C#	Mathieu1988	
 45	7629	1530750	Python3	UncleV	
 45	7633	3184049	Python3	ghhttt	
 45	7633	4300969	Javascript	thomasgonda3	
@@ -258,9 +258,9 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=265,time=2021-10-18 00:46:59
 2	13550	3923022	Javascript	FabInCode	
 2	13550	1206180	Python3	Nyxon	
 2	13550	3744084	Python3	racaillou	
+2	13550	3555728	Python3	KVNMDS	
 0	13846	3627342	C#	Zuabros	
 0	13846	3721214	C++	jrke	
 0	13846	3901646	Python3	VarjaListopad	
 0	13846	153002	C#	fantasyo	
 0	13846	4452094	Bash	masongtxr	
-0	13846	3555728	Python3	KVNMDS	
