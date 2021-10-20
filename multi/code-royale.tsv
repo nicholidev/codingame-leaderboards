@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3575,time=2021-10-19 00:47:39
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3575,time=2021-10-20 00:30:18
 6	30.47	1607522	1886979	C++	RoboStac	
 6	30.41	1049935	2653256	C++	Azkellas	
 6	28.85	735910	1886983	C++	Agade	
@@ -454,7 +454,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3575,time=2021-10-19 00:47:
 3	25.74	734401	1870600	C++	b0n5a1	
 3	25.73	2123423	3513913	Java	splanard	
 3	25.72	2952263	2129228	Python3	RenSuzaku	
-3	25.71	2767523	2592115	Python3	yannOrhon	
 3	25.7	1045710	2055159	Javascript	KPricorn	
 3	25.69	1997622	3018325	Python3	Ra777	
 3	25.66	3573721	2628593	Java	Kheops	
@@ -514,8 +513,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3575,time=2021-10-19 00:47:
 3	23.61	1855354	2460519	Python3	KiwiTae	
 3	23.61	3657937	3398087	Python3	elderlybeginner	
 3	23.61	3317583	2341906	Python3	Mjo	
-3	23.6	1060019	1882689	Python3	thyshimrod	
 3	23.6	2555066	2421881	Python3	dyc3	
+3	23.6	1060019	1882689	Python3	thyshimrod	
 3	23.6	1994294	1889296	C#	Samer	
 3	23.58	1950660	2195925	Java	wfkdbchjkkjroenj	
 3	23.56	2579909	3043269	C++	Valentin271	
@@ -673,8 +672,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3575,time=2021-10-19 00:47:
 3	20.91	2923506	2578853	C++	darkhorse64	
 3	20.9	3026079	2235146	C#	CodinGame231	
 3	20.85	2480146	1916981	C++	Claire-Liu	
-3	20.85	1803811	1943960	C	TabascoEye	
 3	20.85	4077996	3318137	Python3	Amabaku	
+3	20.84	1803811	1943960	C	TabascoEye	
 3	20.82	2660470	2448801	Java	Perdur	
 3	20.8	1828329	2400049	C++	Speedphoenix	
 3	20.73	4187801	3707009	Python3	thevoyager	
@@ -825,6 +824,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3575,time=2021-10-19 00:47:
 3	18.84	3706129	2702315	PHP	MadmanInABox	
 3	18.84	2529602	2680810	Javascript	Farlox	
 3	18.82	2923951	2103122	Python3	franchoy	
+3	18.81	1402968	2126182	Python	MMMAAANNN	
 3	18.81	3382685	2555625	Javascript	ivcho	
 3	18.81	2023965	2589379	Java	Tempomancer9934	
 3	18.8	3419066	2614886	Python3	xR3m1x	
@@ -834,7 +834,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3575,time=2021-10-19 00:47:
 3	18.79	3956922	3085785	Javascript	emmagordon	
 3	18.77	4133851	3385433	Python3	gagniou	
 3	18.77	1953786	2481202	Python3	ludowsky	
-3	18.75	1402968	2126182	Python	MMMAAANNN	
 3	18.74	2480152	1904936	C++	Koc	
 3	18.74	3984901	3132420	Java	Qwary	
 3	18.74	4142186	3405001	Java	--Closer11--	
@@ -999,3 +998,4 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3575,time=2021-10-19 00:47:
 3	16.7	3276670	2998949	TypeScript	yngknw	
 3	16.68	3622752	2647563	Python3	lazyDog	
 3	16.67	3717270	2705881	C#	RChristensen174	
+3	16.67	1838289	1870633	C++	Dagal	
