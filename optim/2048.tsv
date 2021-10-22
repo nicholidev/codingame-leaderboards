@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=670,time=2021-10-21 00:57:55
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=671,time=2021-10-22 00:30:31
 100	62564496	2288263	Rust	dbdr	
 100	59353524	765200	Rust	FrancoisB	
 100	59353464	3457031	C++	YurkovAS	
@@ -42,6 +42,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=670,time=2021-10-21 00:57:55
 100	17742928	3647844	C++	rc95401	
 100	17206600	3971358	C++	OldJohn	
 100	16504096	3919068	C++	14598366	
+100	15815952	1152991	C#	xoposhiy	
 100	15247188	2416641	C++	Zenoscave	
 100	14545024	1256312	C#	Djoums	
 100	14498556	1050420	C++	boi_led_egg	
@@ -152,6 +153,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=670,time=2021-10-21 00:57:55
 100	381420	1427078	C++	ToshiTuringMachine	
 100	377016	3433089	Java	lionandmouse	
 100	371360	2255945	C++	PoppyTrail	
+100	368976	4526264	C++	cly	
 100	357444	3008857	Python3	timoru	
 100	353616	1287344	C++	Alshock	
 100	334272	969500	Python3	AnasShami	
@@ -393,7 +395,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=670,time=2021-10-21 00:57:55
 100	32136	3657937	Python3	elderlybeginner	
 100	32136	1441239	Javascript	Dyd	
 100	32016	3626427	Javascript	R1O	
-100	31748	4526264	Python3	cly	
 100	31636	371603	Ruby	martin	
 100	31384	1457223	C++	jleconte	
 100	31364	4300969	Javascript	thomasgonda3	
@@ -487,9 +488,9 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=670,time=2021-10-21 00:57:55
 100	7580	3496778	Javascript	Salineitor	
 100	7168	1518504	Go	bohuss	
 100	7052	4085269	C++	magicien666	
+100	6720	4036826	Javascript	Feust	
 100	6248	3817970	Javascript	RossMcMillan	
 100	6068	2175710	Python3	advq	
-100	5628	4036826	Javascript	Feust	
 100	5092	3881328	Kotlin	Teku_Dev	
 100	5092	660616	Rust	onkery	
 100	4992	3629224	Python3	NC_Productions	

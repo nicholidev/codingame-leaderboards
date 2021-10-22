@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4812,time=2021-10-21 00:30:09
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4811,time=2021-10-22 00:30:09
 0	47.11	1433161	1484525	C	mingu1.kang	
 0	45.66	990110	357643	C++	Rogerup	
 0	45.57	494104	455215	C++	Recar	
@@ -36,8 +36,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4812,time=2021-10-21 00:30:
 0	42.19	843126	370546	C++	ItsBuddha	
 0	42.11	1369177	622526	C++	PernicN	
 0	42.08	1407621	455279	C++	Taohbi	
+0	42.06	1399382	2672407	C++	Regulus136	
 0	42.05	735487	2332712	C++	amurushkin	
-0	42.03	1399382	2672407	C++	Regulus136	
 0	41.97	819300	902293	C++	Chipsondulee	
 0	41.96	1100752	923525	C++	ValNykol	
 0	41.95	1841051	2138633	C++	0xbeefed	
@@ -199,7 +199,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4812,time=2021-10-21 00:30:
 0	37.7	1189812	367775	C#	kagary06	
 0	37.69	3457031	2846794	C++	YurkovAS	
 0	37.69	1348523	963697	C++	Numb_	
-0	37.69	825460	349230	Lua	antoyo	
 0	37.68	2731276	2063011	C++	panda42	
 0	37.68	1077559	1330493	C++	PhOeNyX	
 0	37.68	545951	341940	C++	AntonT	
@@ -210,6 +209,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4812,time=2021-10-21 00:30:
 0	37.66	370471	354612	C#	desoindx	
 0	37.65	1131528	415482	C	Owl	
 0	37.65	718159	347756	Java	dimkadimon	
+0	37.64	825460	349230	Lua	antoyo	
 0	37.64	912651	339142	Python	0006-lVH	
 0	37.64	811164	353766	C#	tonynogo	
 0	37.63	668906	342000	Java	Sandworm	
@@ -548,8 +548,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4812,time=2021-10-21 00:30:
 0	33.71	513456	343079	Python	nwin	
 0	33.68	244742	351221	C#	bhdejager	
 0	33.67	1853805	2422539	C++	LuckyMullet	
+0	33.66	1251381	415506	Java	ZepHead	
 0	33.63	1070718	354099	Java	Sims.	
-0	33.61	1251381	415506	Java	ZepHead	
 0	33.6	818130	341692	C#	St0y4n.GG	
 0	33.58	1054276	344538	C#	Alexein	
 0	33.58	1000361	354894	C++	Ardenrian	
@@ -798,7 +798,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4812,time=2021-10-21 00:30:
 0	31.58	2724981	3171225	Python3	Majeck	
 0	31.57	1049935	1866122	C++	Azkellas	
 0	31.57	4466025	3788398	C++	FluffySalmon	
-0	31.57	414278	476901	Java	oobException	
 0	31.56	600941	347351	C++	mrv	
 0	31.56	1728217	1122731	C#	_spoon_	
 0	31.56	1299891	2403828	Lua	lesslucid	
@@ -813,6 +812,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4812,time=2021-10-21 00:30:
 0	31.53	924135	480578	C++	Stuxnet	
 0	31.52	2055377	1467199	C++	Covfefe	
 0	31.52	820983	344847	Javascript	Funnybobby	
+0	31.51	414278	476901	Java	oobException	
 0	31.51	994034	344557	Java	Jazzcript	
 0	31.49	1425395	450509	C++	Tsoin122	
 0	31.49	1003800	347103	Go	Summus_Qualitas	
