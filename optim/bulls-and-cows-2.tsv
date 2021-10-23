@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=266,time=2021-10-22 00:30:30
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=267,time=2021-10-23 01:39:35
 100	291	2288263	Rust	dbdr	
 100	294	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -33,6 +33,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=266,time=2021-10-22 00:30:30
 100	329	311035	C++	leojean890	
 100	329	153092	C++	Aurep	
 100	329	1306813	C++	sprkrd	
+100	329	3839774	Scala	gurvan_lullien	
 100	332	759147	C++	kisszots	
 100	334	1449433	C++	Rolf	
 100	335	888898	C++	helgui	
@@ -43,7 +44,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=266,time=2021-10-22 00:30:30
 100	338	4334077	C++	Paul_Demanze	
 100	347	952784	C++	[CG]Simon	
 100	349	3809853	C++	Emilio-EH	
-100	358	3839774	Scala	gurvan_lullien	
 100	363	440476	C++	yowa	
 100	364	3738782	C#	Inaniwa	
 100	380	1393802	Rust	amzh	
@@ -247,6 +247,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=266,time=2021-10-22 00:30:30
 6	12963	1105871	Python3	PolonaisCripestro	
 2	5	996606	C++	Indy	
 2	5	2438514	C++	davi_bart	
+2	5	2364617	C++	RomainPicot	
 2	1510	3707873	C++	Philbot	
 2	1510	3749793	Python3	WINWINWIN	
 2	2413	3486522	Python3	Linze	

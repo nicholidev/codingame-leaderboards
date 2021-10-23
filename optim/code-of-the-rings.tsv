@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5529,time=2021-10-22 00:30:28
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5532,time=2021-10-23 01:39:33
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -678,6 +678,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5529,time=2021-10-22 00:30:28
 100	5736	1740037	Scala	ereiam	
 100	5736	2550213	C#	hogehoge	
 100	5736	2438065	Rust	iter	
+100	5737	4480332	Java	L.J.Ok	
 100	5739	971137	C++	Burlinn	
 100	5739	1232188	Python3	Sylven	
 100	5743	4090664	Kotlin	sikr_	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5529,time=2021-10-22 00:30:28
 100	5886	1850560	Python3	Djuls	
 100	5886	1807558	Python3	conio.h	
 100	5886	692440	Kotlin	Opharion	
-100	5886	268663	Python3	Elensil	
