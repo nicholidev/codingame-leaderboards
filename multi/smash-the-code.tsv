@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2516,time=2021-10-23 00:50:36
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2517,time=2021-10-24 00:30:15
 5	35.47	1400179	2986754	C++	reCurse	
 5	32.04	1327028	2990369	C++	FredericBautista	
 5	30.32	1413236	511966	Go	Medici	
@@ -852,12 +852,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2516,time=2021-10-23 00:50:
 1	23.42	1355097	746657	Javascript	Manos	
 1	23.42	880353	497129	Python3	zasmu	
 1	23.42	154937	601257	Python3	[CG]BOUGA	
-1	23.41	1592902	686826	C	sondx89	
 1	23.41	1502298	610550	C#	skargg	
 1	23.41	859508	573090	C#	ger0000	
 1	23.39	754792	906113	C++	Ramdeath	
 1	23.39	4077053	3326771	Javascript	VladKov	
 1	23.38	1202744	493651	Pascal	KILLogic	
+1	23.38	1592902	686826	C	sondx89	
 1	23.38	614489	493173	C	Nazoum81	
 1	23.37	1494618	625811	Javascript	Lune	
 1	23.37	1385478	498347	Python3	ssssssssssssspppppprrrrrrrr	
@@ -956,7 +956,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2516,time=2021-10-23 00:50:
 1	23.16	215395	502717	Python3	Enknable	
 1	23.16	1491359	590307	C++	MurfDude	
 1	23.15	1603310	713892	Java	yarwest	
-1	23.15	1062481	483910	Java	MauroSemproni	
 1	23.15	1627356	943260	C++	Pelker	
 1	23.15	1472234	512253	C#	Filip.Lada	
 1	23.14	2451147	1658070	Python3	Lune-Ares	
@@ -969,7 +968,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2516,time=2021-10-23 00:50:
 1	23.12	1563880	672682	Java	Patrick8675	
 1	23.12	1470835	512500	C++	Fsk	
 1	23.11	1595013	1854587	Rust	thebarbershopper	
-1	23.11	386279	495760	Python3	Amikum	
 1	23.1	1081818	504765	Python	Indispira	
 1	23.1	1377467	512115	C#	GeorgeClooney	
 1	23.1	1519601	979378	Python3	Jagang	
@@ -988,6 +986,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2516,time=2021-10-23 00:50:
 1	23.07	1811179	2257842	Java	Tetarus	
 1	23.06	1132217	495973	C++	Syhnnn	
 1	23.05	1547430	685362	Go	softclone	
+1	23.04	386279	495760	Python3	Amikum	
 1	23.04	1317750	481682	Python3	zizouvb	
 1	23.04	1492574	582671	C	zc	
 1	23.04	3688456	2682749	Python3	Sebi19	
@@ -999,3 +998,4 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2516,time=2021-10-23 00:50:
 1	23.03	433065	493848	C#	Knafle	
 1	23.03	1505665	622783	Python3	NicolasGrosjean	
 1	23.03	3274211	2321414	C++	SLJesus	
+1	23.02	1896128	1947601	Python3	Vhanire	

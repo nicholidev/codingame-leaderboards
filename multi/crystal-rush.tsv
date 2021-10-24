@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2638,time=2021-10-23 00:50:34
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2640,time=2021-10-24 00:30:14
 4	35.16	3193653	2708375	C++	karliso	
 4	32.63	3502867	2707285	C++	The_Duck	
 4	31.95	2970414	2709863	Python3	Fangel	
@@ -792,11 +792,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2638,time=2021-10-23 00:50:
 2	24.66	1386017	2707407	C#	Kimiko88	
 2	24.66	3515315	3091615	Python3	MichalM	
 2	24.64	3514452	2963914	Python3	Sotrosca	
-2	24.61	1018816	2707878	C#	Dartmoor	
 2	24.6	1630890	3723176	Java	Wld	
 2	24.55	2950376	2708516	C++	MarKes	
 2	24.52	3497168	2708437	Python3	ws1088	
 2	24.45	1355842	2708204	Java	slaghn	
+2	24.45	1018816	2707878	C#	Dartmoor	
 2	24.45	2649775	2708864	Python3	bathal	
 2	24.43	1766181	2707808	Javascript	jantorestolsvik	
 2	24.42	1803872	2707111	Python3	happyweary	
@@ -849,10 +849,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2638,time=2021-10-23 00:50:
 2	22.61	2771731	2708276	Python3	coconut78	
 2	22.57	3517009	2707787	Java	grue	
 2	22.55	1081872	2708392	Java	TAgry	
+2	22.55	311035	2837399	Python3	leojean890	
 2	22.54	1613830	2707767	Java	Spasitel	
 2	22.53	3352513	2707170	Rust	nicofff	
 2	22.52	3524758	2707821	Python3	Deks	
-2	22.47	311035	2837399	Python3	leojean890	
 2	22.47	808454	2839865	Java	.EagleDawn.	
 2	22.44	1566179	2707289	C#	ArcaneSaint	
 2	22.41	2076678	2708765	Java	FritzTheCat	
@@ -951,6 +951,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2638,time=2021-10-23 00:50:
 2	20.85	2196884	2707836	C#	SamFishou	
 2	20.85	2074534	3404995	C++	Remi380	
 2	20.84	3508259	2707581	C++	Slackbot	
+2	20.83	2429661	2708586	C#	SerialGrapist	
 2	20.83	3058265	2708116	Javascript	RQdan	
 2	20.82	3255138	2709150	C++	nRoll	
 2	20.82	1715243	2707283	Python3	Zerfa	
@@ -960,7 +961,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2638,time=2021-10-23 00:50:
 2	20.8	1860206	3753661	Kotlin	Meimei	
 2	20.78	1386456	2708030	C#	wvsever	
 2	20.78	2517057	2709145	C++	Edds	
-2	20.77	2429661	2708586	C#	SerialGrapist	
 2	20.77	1920520	2707213	Python3	brady	
 2	20.74	3523160	2707180	Java	SteveDkt	
 2	20.74	2715508	2707063	Python3	Anth	
