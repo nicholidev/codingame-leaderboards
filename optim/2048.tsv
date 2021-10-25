@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=672,time=2021-10-24 00:47:09
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=672,time=2021-10-25 01:01:43
 100	62564496	2288263	Rust	dbdr	
 100	59353524	765200	Rust	FrancoisB	
 100	59353464	3457031	C++	YurkovAS	
@@ -74,6 +74,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=672,time=2021-10-24 00:47:09
 100	6741832	3927891	C++	whywhy_	
 100	6722180	3996809	C++	VizGhar	
 100	6638148	992329	Java	BeeGee	
+100	6181796	4482661	C++	square1001	
 100	6040172	1638419	Java	Quent21	
 100	5518472	884874	D	Zauberer	
 100	5059552	2405889	Kotlin	Saivo	
@@ -91,7 +92,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=672,time=2021-10-24 00:47:09
 100	3379696	2340294	C	deviluc	
 100	3349920	2043908	C++	AntiSquid	
 100	3237600	1693448	C	KoenduBuf	
-100	3158800	4482661	C++	square1001	
 100	3094748	1489865	C++	EricSMSO	
 100	3073904	2438514	C++	davi_bart	
 100	3029892	4216789	Rust	Saur2000	
@@ -444,7 +444,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=672,time=2021-10-24 00:47:09
 100	25860	4105209	Java	AI_says_hi	
 100	25792	1782559	C	ribensan	
 100	25728	4002254	Python3	PlanetSuburbia	
-100	25672	1800997	Python3	The_ZimaBlue	
+100	25672	1800997	Python3	Nagato_Uzumaki	
 100	25488	3774010	Python3	Presac	
 100	25456	3640862	Python3	nopnop	
 100	25300	3353360	Python3	feuerbach	
