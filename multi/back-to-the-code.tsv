@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4813,time=2021-10-25 00:33:35
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4813,time=2021-10-26 00:30:06
 0	47.11	1433161	1484525	C	mingu1.kang	
 0	45.66	990110	357643	C++	Rogerup	
 0	45.57	494104	455215	C++	Recar	
@@ -59,7 +59,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4813,time=2021-10-25 00:33:
 0	41.59	1022699	808868	C++	Baptistin	
 0	41.57	403748	665677	C++	[CG]SaiksyApo	
 0	41.57	569223	345550	Javascript	Glutamatt	
-0	41.57	3167968	2431492	C++	Master_Zain	
 0	41.56	786597	358310	Python3	Fabien	
 0	41.55	555424	365698	C++	cymarechal	
 0	41.55	1022926	349392	Python3	_BC_	
@@ -70,6 +69,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4813,time=2021-10-25 00:33:
 0	41.51	854169	1575126	C++	Silmaen	
 0	41.51	1071140	465610	C++	BeberLeNewbie	
 0	41.51	818534	347972	C++	Ixanezis	
+0	41.51	3167968	2431492	C++	Master_Zain	
 0	41.5	1000778	352558	Python	Aishuu	
 0	41.47	1061061	356380	C#	Bandersnatch	
 0	41.45	1036003	343054	Python	Ryo	
@@ -166,17 +166,17 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4813,time=2021-10-25 00:33:
 0	38.06	157377	365493	Javascript	McKelian	
 0	38.05	2114863	1754493	C++	QWERTy	
 0	38.03	1300254	885191	C++	Escdemon	
-0	38	225892	345329	F#	ikarni	
+0	38.01	207714	339810	Scala	TrueLaurel	
 0	37.99	1353795	1935420	C++	TheCrucial	
 0	37.97	4347119	3722677	C++	Alexandr-MPSI-LIV	
 0	37.96	1071196	354873	Python	void_name	
 0	37.95	873809	1874597	C++	Lucky92	
+0	37.91	225892	345329	F#	ikarni	
 0	37.89	682376	356493	Java	fraagol	
 0	37.88	1399852	456793	C++	Thaell	
 0	37.87	170619	355334	ObjectiveC	laevand	
 0	37.87	715319	339017	C#	poksh	
 0	37.87	2316796	2504063	C++	Psio	
-0	37.86	207714	339810	Scala	TrueLaurel	
 0	37.86	943784	364162	C++	RobertK	
 0	37.83	329200	342522	PHP	BlitzProg	
 0	37.8	1436776	3664349	C++	BrainSolver	
@@ -809,8 +809,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4813,time=2021-10-25 00:33:
 0	31.54	2110342	3798291	C++	lchenay	
 0	31.54	1511645	644788	Python	OleksandrVoytsekhovskyy	
 0	31.54	523322	344918	C++	cocodrips	
+0	31.53	2055377	1467199	C++	Covfefe	
 0	31.53	924135	480578	C++	Stuxnet	
-0	31.52	2055377	1467199	C++	Covfefe	
 0	31.52	820983	344847	Javascript	Funnybobby	
 0	31.51	414278	476901	Java	oobException	
 0	31.51	994034	344557	Java	Jazzcript	
