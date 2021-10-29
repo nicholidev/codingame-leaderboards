@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=11387,time=2021-10-28 00:30:30
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=11393,time=2021-10-29 00:56:05
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -29,7 +29,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11387,time=2021-10-28 00:30:30
 100	611130	837350	C++	BorisZ	
 100	543500	1273065	C++	TheRadical	
 100	505510	1549145	C++	Mealc	
-100	494650	4070745	C	MiyamuraIzumi	
+100	494650	4070745	C	HoriMiyamura	
 100	487200	862919	C++	Astrobytes	
 100	486090	2436448	Java	FrancoisMeme	
 100	481750	4017851	C	Pintago	
@@ -266,6 +266,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11387,time=2021-10-28 00:30:30
 100	205460	3884461	C	NguyenHoangSon	
 100	205280	3877700	Rust	Bytekeeper	
 100	205260	3642129	Python3	nicotard	
+100	205190	811622	C++	Scarfield	
 100	205120	514655	Go	Cristof337	
 100	205080	1324974	C++	ViktorCs	
 100	204970	3971358	C++	OldJohn	
@@ -505,6 +506,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11387,time=2021-10-28 00:30:30
 100	125800	3226448	Python3	tobk	
 100	124600	3847976	Go	[SG]Mob-Programming	
 100	124560	813412	Go	datiti	
+100	124450	1139919	VB.NET	Lliane	
 100	124100	1851160	C#	Fabienvs	
 100	123700	783555	C#	Colin88	
 100	123380	476659	C++	Beard	
@@ -545,7 +547,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11387,time=2021-10-28 00:30:30
 100	108070	1131250	Perl	Jooo	
 100	107240	3541008	Python3	Toilal45	
 100	106100	857521	C#	MrAnderson	
-100	106020	811622	C++	Scarfield	
 100	105830	3033957	Python3	magic56	
 100	105520	811004	C++	tarte7	
 100	105210	2882669	C++		
@@ -713,7 +714,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11387,time=2021-10-28 00:30:30
 100	70510	2320004	C#	Arthurique	
 100	70380	632549	Java	Keiras	
 100	70270	2833733	Python3	pez	
-100	69920	4534872	C++	TheBlueBias	
+100	69920	4534872	C++	BlaiseEbuth	
 100	69850	1001096	C#	MyIIone	
 100	69780	3002969	Rust	Porsuk	
 100	69730	1368122	Go	galthaus	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11387,time=2021-10-28 00:30:30
 100	64230	2386769	Go		
 100	64230	2109780	C++	ChaudCoLaTeen	
 100	64230	1163213	C#	pitipod	
-100	64230	3365949	C++	LuisPortillo	

@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5541,time=2021-10-28 00:30:29
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5542,time=2021-10-29 00:56:05
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -243,7 +243,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5541,time=2021-10-28 00:30:29
 100	4036	154806	C++	piwai	
 100	4036	2066683	C++	padobranac	
 100	4036	3973359	C++	KAbel	
-100	4036	4070745	C++	MiyamuraIzumi	
+100	4036	4070745	C++	HoriMiyamura	
 100	4036	4334077	C++	Paul_Demanze	
 100	4036	4436635	C++	Kardoken	
 100	4036	1073247	C++	_NikJ	
@@ -466,6 +466,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5541,time=2021-10-28 00:30:29
 100	4934	1301137	Python3	lewisbm	
 100	4940	806823	C	Zer0	
 100	4949	3958580	Python3	HITO	
+100	4949	2980709	C++	ninnghazad	
 100	4951	876110	Python3	bougadabou	
 100	4975	154967	Python3	trnsnt	
 100	4977	380641	C#	Mercadis	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5541,time=2021-10-28 00:30:29
 100	5886	1069082	Java	Lenqth	
 100	5886	842737	Python3	Xexanos	
 100	5886	153105	Python3	Idalvar	
-100	5886	1803784	Python3	cyberj0g	
