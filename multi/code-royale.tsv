@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3580,time=2021-10-29 00:39:27
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3581,time=2021-10-30 00:37:00
 6	30.47	1607522	1886979	C++	RoboStac	
 6	30.41	1049935	2653256	C++	Azkellas	
 6	28.85	735910	1886983	C++	Agade	
@@ -436,8 +436,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3580,time=2021-10-29 00:39:
 3	26.07	1449433	1971105	C++	Rolf	
 3	26.06	2973592	3363306	C#	EJtheMaster	
 3	26.04	859803	1860922	C#	stauik	
+3	26.03	4051352	3456384	C++	Rate01	
 3	26.02	1442923	2440545	Ruby	nzdjb	
-3	26.02	4051352	3456384	C++	Rate01	
 3	26.01	3474151	2487965	Ruby	lambda_t	
 3	25.96	1166639	3106947	Python3	hostage112	
 3	25.94	3982472	3148768	Java	Cousnouf	
@@ -626,11 +626,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3580,time=2021-10-29 00:39:
 3	21.84	4081047	3779148	Javascript	Rezhay	
 3	21.83	914013	1863654	Python3	HexTree	
 3	21.76	2138984	3113026	Python3	jobegood	
+3	21.73	828213	1860547	Go	anst	
 3	21.71	2061249	2590546	C++	delisea	
 3	21.7	1913525	1860912	C++	Drus_O	
 3	21.69	2576701	3710579	Python3	LustOne	
 3	21.68	4030696	3160962	TypeScript	msfe	
-3	21.66	828213	1860547	Go	anst	
 3	21.63	1624708	3337787	Kotlin	lifran	
 3	21.63	4298841	3701573	C#	Dapps	
 3	21.61	3389108	2440696	Javascript	HaydenNZ	
@@ -738,6 +738,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3580,time=2021-10-29 00:39:
 3	20.07	2255187	2073459	PHP	rom_02	
 3	20.07	3513265	3078586	Javascript	DaNinja	
 3	20.07	2057540	2133874	Java	liz22	
+3	20.05	938796	2665260	C++	Cyrilus64	
 3	20.04	1477622	1952629	C#	zrdon	
 3	20.03	1740560	2470386	Python3	Beb77	
 3	20.01	3520116	2572425	C#	poik007	
@@ -747,7 +748,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3580,time=2021-10-29 00:39:
 3	19.99	1172385	2678769	C#	LuckyMe	
 3	19.99	4133128	3847284	Rust	RustyRuster	
 3	19.99	2714519	1948149	Python3	pangeland	
-3	19.98	938796	2665260	C++	Cyrilus64	
 3	19.97	813412	2629263	C#	datiti	
 3	19.96	1784315	2328714	Python3	VianneyN	
 3	19.95	2442182	3101542	C#	Kojesma	
@@ -878,12 +878,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3580,time=2021-10-29 00:39:
 3	18.22	2817085	2985033	Go	ostapneko	
 3	18.18	3373712	2435348	C#	SuperStrange	
 3	18.18	2765655	2604317	C#	El_Mono_Sin_Sombra	
-3	18.17	3948656	3103117	Java	Sly-Lam	
 3	18.14	2729055	2049164	C++	twray2	
 3	18.12	3512820	2621061	Python3	AstroLeh	
 3	18.09	3621063	2636717	Python3	Goldberg-Alex	
 3	18.09	1437853	3708600	Python3	OxPuRe	
 3	18.07	3430449	2457678	C#	SwenV	
+3	18.07	3948656	3103117	Java	Sly-Lam	
 3	18.07	2024033	2581739	C++	Suenodk	
 3	18.04	2143315	2644769	Python3	FluffyToaster	
 3	18.03	2375737	2106295	Java	j.magalhaes	
