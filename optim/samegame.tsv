@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=393,time=2021-10-30 00:37:10
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=394,time=2021-10-31 00:55:42
 100	174652	3354337	Scala	Westicles	
 100	167588	1530051	C++	UlYoP	
 100	166108	2923506	C++	darkhorse64	
@@ -14,8 +14,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=393,time=2021-10-30 00:37:10
 100	145638	4007648	C++	nan0S_	
 100	140174	893541	Java	wala	
 100	139032	1425201	C#	JamesPun	
+100	137170	3918583	Rust	mikmak	
 100	136253	2311105	C++	kovi	
-100	136018	3918583	Rust	mikmak	
 100	129368	3235897	Java	Zylo	
 100	128988	1399382	C#	Regulus136	
 100	128510	1378958	C#	Illedan	
@@ -67,6 +67,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=393,time=2021-10-30 00:37:10
 100	52108	414278	Java	oobException	
 100	50264	4277867	D	About	
 100	49776	3756021	Java	TheSkolar	
+100	49675	1140677	C++	Crog	
 100	49341	992329	C++	BeeGee	
 100	49090	3513265	C++	DaNinja	
 100	48890	3738782	C#	Inaniwa	
@@ -88,6 +89,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=393,time=2021-10-30 00:37:10
 100	37577	3854069	Swift	Quid34	
 100	36972	1361019	Python3	AlessioGreco	
 100	36760	1096844	Python3	mm00	
+100	36692	4411617	Python3	AnitaO	
 100	35961	1029663	C	Skreamly	
 100	35734	837350	Python3	BorisZ	
 100	35560	2826402	Java	1Alex	
@@ -104,7 +106,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=393,time=2021-10-30 00:37:10
 100	34300	301922	Scala	tyrcho	
 100	33898	3428333	Python3	pavel.jesenski	
 100	33888	4061329	C++	KLPP	
-100	33792	1140677	C++	Crog	
 100	33530	155774	C++	dwarfie	
 100	33498	1479137	C++	lorenzods	
 100	33428	2544989	Javascript	lulugo19	

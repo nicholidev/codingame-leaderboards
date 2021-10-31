@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=11405,time=2021-10-30 00:37:08
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=11414,time=2021-10-31 00:55:40
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -198,6 +198,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11405,time=2021-10-30 00:37:08
 100	223630	3965155	C		
 100	223100	735910	C++	Agade	
 100	223010	156188	C++	DorianWilde	
+100	222930	1276099	Rust	Caemor	
 100	222380	3533119	C++	wlesavo	
 100	222280	579894	C++	Binarii	
 100	222240	1201796	ObjectiveC	P.Greze	
@@ -669,6 +670,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11405,time=2021-10-30 00:37:08
 100	77070	1122239	C	AymenT	
 100	76520	1753925	Java	Wildcat	
 100	76350	3869618	Python3	tsds	
+100	76310	1469666	Python3	alenic	
 100	75990	504994	Java	NikitON	
 100	75980	1908091	Python3	RedAustin	
 100	75700	1440207	Python3	Rungekutta	
@@ -677,6 +679,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11405,time=2021-10-30 00:37:08
 100	74850	2221405	C++	LaxmanRawat	
 100	74710	370969	C#	fgeo	
 100	74360	4000543	Java	DerRaphe	
+100	74340	3965571	C#	Smekarn	
 100	74220	1497552	Python3	clemclem	
 100	73960	940791	Javascript	Kris117	
 100	73950	429850	Python3	Powazny	
@@ -702,7 +705,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11405,time=2021-10-30 00:37:08
 100	71660	4085072	Rust	Estebansi	
 100	71530	1759335	C#	metahom	
 100	71310	198916	Java	WhatTrickeryIsThis	
-100	71310	1469666	Python3	alenic	
 100	71180	3960017	Python3	PaulM64	
 100	70860	802171	PHP	Merome	
 100	70810	1800034	Python3	Meic	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11405,time=2021-10-30 00:37:08
 100	64230	855492	Go	Erk	
 100	64230	2295726	C++		
 100	64230	2386769	Go		
-100	64230	2109780	C++	ChaudCoLaTeen	
-100	64230	1163213	C#	pitipod	
