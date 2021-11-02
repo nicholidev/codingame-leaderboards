@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=11420,time=2021-11-01 00:47:28
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=11435,time=2021-11-02 00:56:26
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -65,13 +65,13 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11420,time=2021-11-01 00:47:28
 100	385600	2786666	C++	TetraktysPhi	
 100	374900	4090213	C++	andrecab	
 100	372960	3366188	Rust	SteveWhite	
+100	369790	3965571	C#	Smekarn	
 100	366070	1100752	C++	ValNykol	
 100	363530	3727272	Javascript	paszo	
 100	363400	1786654	C++	Masclins	
 100	358250	1414873	Javascript	Volcomix	
 100	358130	2242201	C++	Maryan	
 100	355820	3410351	C	Deltaspace	
-100	355460	3965571	C#	Smekarn	
 100	354460	4065227	C++	Pamplemus	
 100	354420	1390607	C	Ivan_Derzhylo	
 100	354120	1479930	C++	LeRenard	
@@ -808,7 +808,9 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11420,time=2021-11-01 00:47:28
 100	64610	1245015	Java	LorisDeMarchi	
 100	64610	3575624	TypeScript	mpoo	
 100	64580	1070919	Java	Thas	
+100	64580	2430741	Javascript	Faust1	
 100	64540	252533	Javascript	AlexSurin	
+100	64540	4018239	Java	MACKEYTH	
 100	64520	1348621	C	sephi	
 100	64520	1701631	Kotlin	lrouquette	
 100	64520	4459243	Java	CodeNick	
@@ -989,6 +991,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11420,time=2021-11-01 00:47:28
 100	64260	4507776	C++	gudu789	
 100	64260	3045714	C++	David.Moreaux	
 100	64260	3593941	C++	Spielzeugente	
+100	64260	1579042	C++	Hulous	
 100	64250	2858320	C++	Loule	
 100	64240	4299607	Python3	TennyKs	
 100	64240	4333899	Javascript	Handala	
@@ -996,6 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11420,time=2021-11-01 00:47:28
 100	64230	1147815	Python3	Tashiqi	
 100	64230	1095446	Python3	tarbomb	
 100	64230	1175776	PHP	do-see	
-100	64230	855492	Go	Erk	
-100	64230	2295726	C++		
-100	64230	2386769	Go		
