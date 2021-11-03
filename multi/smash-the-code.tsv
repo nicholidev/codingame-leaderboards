@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2520,time=2021-11-02 00:36:48
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2520,time=2021-11-03 00:33:39
 5	35.47	1400179	2986754	C++	reCurse	
 5	32.04	1327028	2990369	C++	FredericBautista	
 5	30.32	1413236	511966	Go	Medici	
@@ -908,10 +908,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2520,time=2021-11-02 00:36:
 1	23.25	1455173	493497	Python3	DrSpock	
 1	23.25	1251131	896454	C#	ma81xx	
 1	23.25	1412502	498595	Javascript	falsidge	
+1	23.24	1472234	512253	C#	Filip.Lada	
 1	23.24	1463575	494417	Javascript	Kittenschnitzel	
 1	23.23	1676969	789328	Java	Louenes	
 1	23.23	1304340	1295886	Java	AntoineLatour	
-1	23.23	1472234	512253	C#	Filip.Lada	
 1	23.23	1364114	493061	C++	Unforgiven	
 1	23.22	1527782	647661	C	zad	
 1	23.22	3101644	2622382	Python3	HerrHagner	
@@ -984,6 +984,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2520,time=2021-11-02 00:36:
 1	23.08	1448599	508856	C#	MdNght	
 1	23.07	1627356	943260	C++	Pelker	
 1	23.07	3688456	2682749	Python3	Sebi19	
+1	23.07	386279	495760	Python3	Amikum	
 1	23.07	2582643	1876408	Python3	DJrafou	
 1	23.07	1811179	2257842	Java	Tetarus	
 1	23.06	1132217	495973	C++	Syhnnn	
@@ -991,7 +992,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2520,time=2021-11-02 00:36:
 1	23.06	1078446	668296	C++	[CPC]Madgic	
 1	23.05	819776	780683	Javascript	Maregas	
 1	23.05	1547430	685362	Go	softclone	
-1	23.04	386279	495760	Python3	Amikum	
 1	23.04	1317750	481682	Python3	zizouvb	
 1	23.04	1492574	582671	C	zc	
 1	23.04	1478742	551752	C++	Archimist	

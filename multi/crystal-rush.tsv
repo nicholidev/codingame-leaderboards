@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2648,time=2021-11-02 00:36:42
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2648,time=2021-11-03 00:33:36
 4	35.16	3193653	2708375	C++	karliso	
 4	32.63	3502867	2707285	C++	The_Duck	
 4	31.95	2970414	2709863	Python3	Fangel	
@@ -213,7 +213,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2648,time=2021-11-02 00:36:
 3	24.87	3472279	2708838	Java	DataWasTaken	
 3	24.86	2551407	2707721	Python3	SmellyPickle	
 3	24.85	3101644	2708569	Python3	HerrHagner	
-3	24.82	2924895	3879640	Python3	trictrac	
+3	24.82	2924895	3879640	C#	trictrac	
 3	24.81	1066745	3163372	Java	DepartmentOfRedundancy	
 3	24.8	3278261	2707121	Javascript	alexeysinko	
 3	24.77	614215	2707101	Java	Jo	
@@ -416,7 +416,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2648,time=2021-11-02 00:36:
 3	21.75	1896309	2709040	C++	Xenoob	
 3	21.72	3427659	2707469	Javascript	Joe-OTAGI	
 3	21.7	3428110	2708612	Python3	hugoa	
-3	21.66	4584723	3880992	Python3	babaaurhum	
+3	21.66	4584723	3880992	C	babaaurhum	
 3	21.63	1798477	2708696	C#	mnivet	
 3	21.63	4318086	3682308	C#	NinjaDev	
 3	21.63	1966319	2708767	C++	0x6E0FF	
@@ -431,7 +431,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2648,time=2021-11-02 00:36:
 3	21.49	996279	2708548	C++	BOBKA	
 3	21.48	2558094	2707550	C#	Jozim	
 3	21.45	2184856	2707493	Python3	MichalOp	
-3	21.43	3443015	3879775	Python3	Wozniak	
+3	21.43	3443015	3879775	C++	Wozniak	
 3	21.41	226528	2707967	Python3	Manwe	
 3	21.4	1382590	2707131	C#	Cristiano	
 3	21.38	3253838	2707334	Kotlin	Bozzio	

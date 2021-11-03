@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=678,time=2021-11-02 00:56:28
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=681,time=2021-11-03 01:05:06
 100	62564496	2288263	Rust	dbdr	
 100	59353524	765200	Rust	FrancoisB	
 100	59353464	3457031	C++	YurkovAS	
@@ -176,6 +176,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=678,time=2021-11-02 00:56:28
 100	250352	3942793	Java	The_Auditor	
 100	247104	4097008	Python3	petru4io	
 100	243456	3428333	Python3	pavel.jesenski	
+100	242668	3617678	Python3	j0	
+100	234852	3244861	Python3	0xecho	
 100	232164	3968448	Python3	Ragul02	
 100	220520	3235897	Java	Zylo	
 100	200944	1179950	Java	Patorikkuyatta	
@@ -224,6 +226,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=678,time=2021-11-02 00:56:28
 100	79660	894599	Python3	DidierC	
 100	79044	1740237	Python3	OlegKornelsen	
 100	79044	3998980	Python3	bamax	
+100	78448	3697689	Rust	MrSkaal	
 100	78364	2709791	Python3	YOMar	
 100	78364	4075082	Python3	Loxnol	
 100	77480	389786	Java	menu	
@@ -450,7 +453,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=678,time=2021-11-02 00:56:28
 100	25672	1800997	Python3	Nagato_Uzumaki	
 100	25488	3774010	Python3	Presac	
 100	25456	3640862	Python3	nopnop	
-100	25360	3697689	Go	MrSkaal	
 100	25300	3353360	Python3	feuerbach	
 100	25000	4493640	Python3	jczh90	
 100	24876	4082228	Java	jengisgat	
@@ -509,6 +511,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=678,time=2021-11-02 00:56:28
 100	4496	3742581	Python3	anonymous_otter	
 100	4496	4408556	C#	Jspoelstra	
 100	4496	3750700	Python3	VulpesCorsac	
+100	4496	4450463	Java	RickJ	
 100	4296	3596445	Python3	Bafiko	
 100	4296	2729630	Python3	Halphas	
 100	4296	3399188	Python3	GabrielAmare	
