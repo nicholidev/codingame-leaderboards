@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=11446,time=2021-11-03 01:05:04
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=11455,time=2021-11-04 00:33:27
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -25,6 +25,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11446,time=2021-11-03 01:05:04
 100	649860	338469	C++	__mcts__	
 100	648260	2923506	C++	darkhorse64	
 100	644300	1378958	C#	Illedan	
+100	634480	3965571	C#	Smekarn	
 100	624280	820000	C++	ValGrowth	
 100	611130	837350	C++	BorisZ	
 100	543500	1273065	C++	TheRadical	
@@ -39,7 +40,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11446,time=2021-11-03 01:05:04
 100	476930	1485690	C++	Kikoo	
 100	473600	1029663	C	Skreamly	
 100	473010	4073052	C++	slrn	
-100	471490	3965571	C#	Smekarn	
 100	468050	2675733	C	PuppyPuncher	
 100	467850	1756952	C++	Petras	
 100	467270	888746	C++	Phate	
@@ -755,6 +755,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11446,time=2021-11-03 01:05:04
 100	66560	3418503	Java	Rihayaz	
 100	66500	425114	Python3	gluk47	
 100	66500	1360360	Javascript	zombitrafik	
+100	66480	2797677	C++	kolph	
 100	66380	1073834	C++	POLOB	
 100	66300	1158783	C++	Platypus	
 100	66220	3418512	Python3		
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11446,time=2021-11-03 01:05:04
 100	64230	155928	PHP	pk	
 100	64230	1147815	Python3	Tashiqi	
 100	64230	1095446	Python3	tarbomb	
-100	64230	1175776	PHP	do-see	
