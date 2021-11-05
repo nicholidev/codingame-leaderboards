@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7382,time=2021-11-04 00:33:25
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7383,time=2021-11-05 00:36:19
 5	43.86	1400179	3665384	C++	reCurse	
 5	40.05	3457031	3873772	C++	YurkovAS	
 5	37.67	4300424	3704114	Rust	kurnevsky	
@@ -342,7 +342,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7382,time=2021-11-04 00:33:
 4	42.92	2683650	3667055	C++	moorhsum	
 4	42.85	4057997	3665744	C++	Thienu	
 4	42.82	3189631	3669080	Javascript	Arkless	
-4	42.77	4288033	3667536	Java	Alonius	
+4	42.76	4288033	3667536	Java	Alonius	
 4	42.66	4185568	3666393	Python3	Antonin_L	
 4	42.56	4319490	3670231	TypeScript	leakiller	
 4	42.19	3508803	3668945	Java	SlimSt	
@@ -445,7 +445,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7382,time=2021-11-04 00:33:
 4	38.67	1932031	3667886	Javascript	Briossant	
 4	38.67	2600493	3667982	Java	[Nit]	
 4	38.67	3683265	3667677	C++	Bondo416	
-4	38.67	3565230	3670570	C#	nguyenchithanh	
+4	38.66	3565230	3670570	C#	nguyenchithanh	
 4	38.65	1761802	3666414	Java	Ghani56	
 4	38.65	4289243	3665824	Java	ciabatta	
 4	38.65	3625084	3671042	C++	Vaurtitoux	
@@ -505,7 +505,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7382,time=2021-11-04 00:33:
 4	37.73	1519989	3665726	Python3	a5kin	
 4	37.7	4342483	3665044	Python3	dice_dice_dice	
 4	37.69	3197936	3673247	C	Kiseli	
-4	37.67	4007523	3665789	C#	ShadyNagy	
+4	37.68	4007523	3665789	C#	ShadyNagy	
 4	37.64	1389184	3668017	Java	Lechevelut	
 4	37.63	4231728	3671050	C#	TojoNatolotra	
 4	37.62	4325119	3670769	Java	Klimpergeist	
@@ -740,9 +740,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7382,time=2021-11-04 00:33:
 4	34.86	802171	3666408	PHP	Merome	
 4	34.86	3138357	3666005	C#	QzL	
 4	34.86	4069184	3668994	C++	nsimon	
+4	34.84	2212222	3668914	Java	Rabeeb	
 4	34.83	3476320	3668838	C++	Eloiir	
 4	34.83	1825335	3666928	Python3	TiNico	
-4	34.82	2212222	3668914	Java	Rabeeb	
 4	34.82	3005726	3665971	C#	leyo	
 4	34.81	4056744	3667964	C++	itigo	
 4	34.78	2197019	3667272	C++	caduk	
@@ -846,8 +846,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7382,time=2021-11-04 00:33:
 4	33.64	4260220	3665768	C++	Molpio	
 4	33.63	4320516	3835661	Javascript	A-Wpro	
 4	33.61	4287519	3671723	C++	kke0949	
+4	33.6	4323412	3669819	Java	LeProblemeEDMN	
 4	33.6	4089683	3668148	Rust	Eidos	
-4	33.58	4323412	3669819	Java	LeProblemeEDMN	
 4	33.58	4194801	3666221	Python3	jdeveil	
 4	33.57	4058503	3666454	C#	TerryMalone	
 4	33.55	4320580	3665690	TypeScript	ValentinDSJ	
@@ -902,8 +902,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7382,time=2021-11-04 00:33:
 4	33.09	4313675	3666849	C#	krolhm	
 4	33.08	420907	3665777	C#	dsannikov	
 4	33.05	3877700	3672853	Rust	Bytekeeper	
+4	33.05	800441	3666947	Rust	kwrig	
 4	33.03	1716296	3670479	C++	abzalovim	
-4	33.02	800441	3666947	Rust	kwrig	
 4	33.02	2577761	3669192	PHP	AeroFufel	
 4	33	2336164	3666711	TypeScript	hwd	
 4	32.99	1475047	3669300	C++	Mayhem1	

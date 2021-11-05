@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=11455,time=2021-11-04 00:33:27
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=11462,time=2021-11-05 00:36:21
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -24,8 +24,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11455,time=2021-11-04 00:33:27
 100	654580	3012238	C++	miszu	
 100	649860	338469	C++	__mcts__	
 100	648260	2923506	C++	darkhorse64	
+100	645780	3965571	C#	Smekarn	
 100	644300	1378958	C#	Illedan	
-100	634480	3965571	C#	Smekarn	
 100	624280	820000	C++	ValGrowth	
 100	611130	837350	C++	BorisZ	
 100	543500	1273065	C++	TheRadical	
@@ -48,7 +48,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11455,time=2021-11-04 00:33:27
 100	464000	2772292	C++	Bezukh	
 100	463050	1607522	C++	RoboStac	
 100	462150	4341304	C	Remi.	
-100	460810	1881651	C	Alligard	
+100	460810	1881651	C	DoubtinGiyov	
 100	460360	3196495	C++	putibuzu	
 100	458630	1826849	C++	Geplik	
 100	458530	2255967	C	mehdilh	
@@ -402,6 +402,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11455,time=2021-11-04 00:33:27
 100	164440	222390	Python3	JohnErikSloper	
 100	164360	1833680	C++	jvivenot	
 100	163080	3789595	C	jgmp	
+100	162980	3555728	Python3	KVNMDS	
 100	162570	3044029	C#	GuerillaOynx	
 100	162300	972894	C++	resty-daze	
 100	161790	819803	Java	Anordil	
@@ -993,9 +994,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11455,time=2021-11-04 00:33:27
 100	64260	3045714	C++	David.Moreaux	
 100	64260	3593941	C++	Spielzeugente	
 100	64260	1579042	C++	Hulous	
+100	64260	4380347	C++	AsteelPoro	
 100	64250	2858320	C++	Loule	
 100	64240	4299607	Python3	TennyKs	
 100	64240	4333899	Javascript	Handala	
 100	64230	155928	PHP	pk	
-100	64230	1147815	Python3	Tashiqi	
-100	64230	1095446	Python3	tarbomb	
