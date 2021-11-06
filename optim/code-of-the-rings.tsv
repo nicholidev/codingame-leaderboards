@@ -1,12 +1,12 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5566,time=2021-11-05 00:36:21
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5569,time=2021-11-06 00:39:31
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
 100	2792	2316796	PHP	Psio	
 100	2793	1485989	Python3	ReActiveNZ	
 100	2808	2077805	C++	bamilan	
+100	2848	1156834	Python3	dave9000	
 100	2850	1399382	C#	Regulus136	
-100	2851	1156834	Python3	dave9000	
 100	2853	1178157	Python3	R_o_l_a_n_d	
 100	2897	1333869	Python3	kiwijam	
 100	2923	1415495	C++	fenrir	
@@ -559,6 +559,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5566,time=2021-11-05 00:36:21
 100	5504	760921	VB.NET	Skleroz	
 100	5504	1480426	Python3	Hikari42	
 100	5513	783688	Python3	axx	
+100	5513	3210529	Pascal	EddyZ	
 100	5514	937073	Scala	Krlos	
 100	5516	1855354	C++	KiwiTae	
 100	5522	526070	C++	urusant	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5566,time=2021-11-05 00:36:21
 100	5885	2668649	Python3	pawito	
 100	5886	892395	C++	Christophe	
 100	5886	280978	Python3	Rylanor	
-100	5886	952729	Bash	Flodelarab	

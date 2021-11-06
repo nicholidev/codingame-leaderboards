@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1102,time=2021-11-05 00:36:22
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1102,time=2021-11-06 00:39:32
 100	11920	2077805	C++	bamilan	
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
@@ -31,6 +31,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1102,time=2021-11-05 00:36:22
 100	10262	893541	Java	wala	
 100	10241	1344487	Java	UnnamedCodinGamer	
 100	10238	1637604	C++	avolchek	
+100	10218	3235897	Java	Zylo	
 100	10203	1629259	C#	Marchete	
 100	10200	1489865	C	EricSMSO	
 100	10195	2907009	C#	Arnaud.Net	
@@ -42,7 +43,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1102,time=2021-11-05 00:36:22
 100	10108	1822184	Pascal	Volchik	
 100	10103	735487	C++	amurushkin	
 100	10088	1064903	C++	Ghirtor	
-100	10040	3235897	Java	Zylo	
 100	10032	331880	C++	Monstruo	
 100	9997	2731276	C++	panda42	
 100	9900	3647844	C++	rc95401	
@@ -285,6 +285,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1102,time=2021-11-05 00:36:22
 100	4051	1896128	C++	Vhanire	
 100	4042	2833220	Java	Alex311	
 100	4037	218189	C	[CG]Maxime	
+100	4035	3337117	C++	timbersson	
 100	4029	1243354	C++	RSBat	
 100	4027	3525167	Python3	fgsdt	
 100	3992	831171	Python3	Recoding	
@@ -398,7 +399,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1102,time=2021-11-05 00:36:22
 100	3100	1179950	C#	Patorikkuyatta	
 100	3087	878974	Python3	nicola	
 100	3086	558770	Javascript	lD	
-100	3086	3337117	C++	timbersson	
 100	3085	1664044	Javascript	BUG	
 100	3067	334434	Java	Rajh	
 100	3039	1736419	Java	Odinfr	

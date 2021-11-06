@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=270,time=2021-11-05 00:36:22
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=272,time=2021-11-06 00:39:33
 100	291	2288263	Rust	dbdr	
 100	294	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -28,6 +28,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=270,time=2021-11-05 00:36:22
 100	320	3741524	C	princess_of_zeal	
 100	320	155774	C++	dwarfie	
 100	321	3839774	Rust	gurvan_lullien	
+100	322	1883740	C++	kermo	
 100	323	1854246	C++	Counterbalance	
 100	327	1584802	C++	emh	
 100	328	1693448	C	KoenduBuf	
@@ -44,7 +45,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=270,time=2021-11-05 00:36:22
 100	338	4334077	C++	Paul_Demanze	
 100	347	952784	C++	[CG]Simon	
 100	349	3809853	C++	Emilio-EH	
-100	358	1883740	C++	kermo	
 100	363	440476	C++	yowa	
 100	364	3738782	C#	Inaniwa	
 100	380	1393802	Rust	amzh	
@@ -184,6 +184,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=270,time=2021-11-05 00:36:22
 52	7951	3358232	Python3	JessR	
 52	9018	4350370	C#	Bela575	
 50	7051	1035630	Java	Vestiaz	
+45	116	3235897	Java	Zylo	
 45	7629	1530750	Python3	UncleV	
 45	7633	3184049	Python3	ghhttt	
 45	7633	4300969	Javascript	thomasgonda3	
@@ -211,6 +212,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=270,time=2021-11-05 00:36:22
 34	9114	4286616	Python3	Oddrea	
 34	9127	3564009	Lua	Waffle3z	
 34	9196	1429360	C#	comp0zr	
+34	9596	2536589	Java	mjfcolas	
 32	9469	2069141	C#	tomeko	
 32	9997	4038761	Python3	Leirn	
 32	10663	962495	C++	eboot	
