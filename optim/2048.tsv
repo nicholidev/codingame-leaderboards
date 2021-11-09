@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=688,time=2021-11-08 01:13:59
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=688,time=2021-11-09 00:30:30
 100	62564496	2288263	Rust	dbdr	
 100	59353524	765200	Rust	FrancoisB	
 100	59353464	3457031	C++	YurkovAS	
@@ -162,6 +162,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=688,time=2021-11-08 01:13:59
 100	354160	4470306	Python3	NONstope	
 100	353616	1287344	C++	Alshock	
 100	334272	969500	Python3	AnasShami	
+100	329580	903179	Go	maksmas	
 100	320004	3954213	Python3	FrederickOr	
 100	308332	4162603	Java	Eluminati	
 100	307404	3687134	Java	Puccre	
@@ -297,7 +298,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=688,time=2021-11-08 01:13:59
 100	55300	3941789	Dart	LastRick	
 100	54884	3728105	Python3	Marcusde36ste	
 100	54728	574371	Javascript	Dillysfriend	
-100	54536	903179	Go	maksmas	
 100	54156	2419811	Rust	Valbou	
 100	53576	4033445	Javascript	netto________	
 100	53576	819064	Rust	rampion	
