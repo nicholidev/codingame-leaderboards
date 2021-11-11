@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=689,time=2021-11-10 00:40:47
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=689,time=2021-11-11 00:40:21
 100	62564496	2288263	Rust	dbdr	
 100	59353524	765200	Rust	FrancoisB	
 100	59353464	3457031	C++	YurkovAS	
@@ -122,9 +122,9 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=689,time=2021-11-10 00:40:47
 100	1757832	1029663	C	Skreamly	
 100	1673952	4061329	C++	KLPP	
 100	1670096	2135916	Python3	Oioi	
+100	1532544	903179	Go	maksmas	
 100	1469488	1966315	C#	ArtemAraptanov	
 100	1432492	2025868	C++	sumoru	
-100	1419416	903179	Go	maksmas	
 100	1403092	1412263	PHP	PatrickMcGinnisII	
 100	1348460	2802157	Python3	HKit	
 100	1336252	3358736	Java	BuluBulu27	
@@ -197,6 +197,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=689,time=2021-11-10 00:40:47
 100	149300	4176076	C++	2134512	
 100	144428	4072753	C++	mdstoy	
 100	140156	4352240	Python3	Inkar	
+100	133052	3123327	Javascript	Cordy	
 100	129864	1040176	Python3	BoBot	
 100	113620	4372857	C++	Sirios	
 100	112488	1383054	Python3	Oxame	
@@ -205,7 +206,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=689,time=2021-11-10 00:40:47
 100	104428	3773139	C	Biba2000	
 100	103940	1879060	Python3	Bozydarek	
 100	103644	4390014	Python3	yfe42	
-100	102704	3123327	Javascript	Cordy	
 100	101908	4185673	Python3	GeorgiD	
 100	101560	3922731	Scala	Dartisan	
 100	101548	2662309	C#	AnInventiveNameOfRepute	
