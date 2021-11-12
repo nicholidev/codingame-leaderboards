@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2528,time=2021-11-11 00:30:12
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2529,time=2021-11-12 00:30:20
 5	35.47	1400179	2986754	C++	reCurse	
 5	32.04	1327028	2990369	C++	FredericBautista	
 5	30.32	1413236	511966	Go	Medici	
@@ -899,7 +899,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2528,time=2021-11-11 00:30:
 1	23.28	162982	1122658	Python3	Dami-e	
 1	23.28	810902	628546	Python	bouletta	
 1	23.28	1361326	875277	C#	8]	
-1	23.28	1245243	495360	Javascript	Clement134	
 1	23.28	973155	576064	C++	Namal	
 1	23.27	1477028	577663	Ruby	CbIC	
 1	23.27	1494734	589398	Java	Leogelas	
@@ -907,6 +906,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2528,time=2021-11-11 00:30:
 1	23.27	2203927	1669704	C++	MohamedAlmograby_2nd_year_2018	
 1	23.26	1526032	781283	C++	AdamBadura	
 1	23.26	609811	969744	C#	Atesz	
+1	23.26	1245243	495360	Javascript	Clement134	
 1	23.26	1308136	622142	Javascript	AsZ	
 1	23.26	1753121	912652	Python	Fumo201	
 1	23.26	1836084	1218206	C++	TaoLu	
@@ -942,16 +942,15 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2528,time=2021-11-11 00:30:
 1	23.19	1405775	570996	C	Yiminjune	
 1	23.19	1026791	885989	Javascript	Alfalfamale	
 1	23.19	1280770	486102	C	John_Black	
-1	23.18	1411423	484831	Perl	Wyllyam	
 1	23.18	1072200	511891	C	alze	
 1	23.18	855824	482080	Python3	VoxMortem	
+1	23.18	1411423	484831	Perl	Wyllyam	
 1	23.18	1231500	547484	C#	Kinga	
 1	23.18	1066028	746798	PHP	JrmC	
 1	23.18	1690967	897004	C#	protone911	
 1	23.18	1455173	493497	Python3	DrSpock	
 1	23.17	1517028	936212	Python3	Nicau	
 1	23.17	1446587	486540	Python3	Cooch	
-1	23.17	1052976	716503	PHP	MatasR	
 1	23.16	1520716	675167	C#	Haskeer	
 1	23.16	215395	502717	Python3	Enknable	
 1	23.16	1051649	491822	PHP	Elektordi	
@@ -959,6 +958,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2528,time=2021-11-11 00:30:
 1	23.15	1081818	504765	Python	Indispira	
 1	23.15	1509251	2318409	C#	OmikoGaming	
 1	23.15	1470835	512500	C++	Fsk	
+1	23.14	1062481	483910	Java	MauroSemproni	
 1	23.14	1029602	1573212	C	Potemkine	
 1	23.14	1471723	505853	Javascript	munizart	
 1	23.14	831171	3342570	Java	Recoding	
@@ -979,6 +979,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2528,time=2021-11-11 00:30:
 1	23.09	647346	591477	Java	CondeZurara	
 1	23.09	1550152	741435	Python3	flaks314	
 1	23.09	1604839	722158	Javascript	Smeletz	
+1	23.09	1052976	716503	PHP	MatasR	
 1	23.09	1631676	749681	Python3	timoransky	
 1	23.08	1460044	498676	Java	Fuz	
 1	23.08	1422880	570414	C++	loginius	
@@ -998,4 +999,3 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2528,time=2021-11-11 00:30:
 1	23.04	1317750	481682	Python3	zizouvb	
 1	23.04	1492574	582671	C	zc	
 1	23.04	1478742	551752	C++	Archimist	
-1	23.04	1212895	624803	Java	Vilrolf	
