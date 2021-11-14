@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3593,time=2021-11-13 00:30:15
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3595,time=2021-11-14 00:47:41
 6	30.47	1607522	1886979	C++	RoboStac	
 6	30.41	1049935	2653256	C++	Azkellas	
 6	28.85	735910	1886983	C++	Agade	
@@ -624,8 +624,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3593,time=2021-11-13 00:30:
 3	21.92	2719883	1954607	Java	tho1294	
 3	21.9	1557915	2677103	Javascript	dtd	
 3	21.89	1179357	2095805	Javascript	avdg	
+3	21.88	914013	1863654	Python3	HexTree	
 3	21.84	4081047	3779148	Javascript	Rezhay	
-3	21.83	914013	1863654	Python3	HexTree	
 3	21.79	4329706	3711985	C#	Sferenc	
 3	21.77	4298841	3701573	C#	Dapps	
 3	21.76	2138984	3113026	Python3	jobegood	
@@ -812,8 +812,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3593,time=2021-11-13 00:30:
 3	19.05	3563633	2646260	Javascript	p1100i	
 3	19.04	3984040	3699131	Java	ClementMateo	
 3	19.02	3435513	2462736	Java	bigpoopypants	
+3	19	3070067	3139241	Python3	ziolekmaciej	
 3	18.98	858708	2487104	Java	zemounette	
-3	18.97	3070067	3139241	Python3	ziolekmaciej	
 3	18.96	4144079	3764008	Java	raphau	
 3	18.88	1103557	2347291	C#	JulienP	
 3	18.88	3656025	2662328	Python3	SStaniszewski	
@@ -899,7 +899,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3593,time=2021-11-13 00:30:
 3	17.94	4078086	3320857	Python3	Peperi	
 3	17.93	311035	3162620	Python3	leojean890	
 3	17.92	2054901	2482800	C#	Doubleday	
-3	17.91	2707322	3503084	F#	dumboster	
 3	17.91	3933016	3070923	C	1501609820	
 3	17.89	1034499	2080228	Java	DOS	
 3	17.88	3774645	2986820	Javascript	LimaceHurlante	
@@ -912,6 +911,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3593,time=2021-11-13 00:30:
 3	17.77	1492668	1971326	Java	MatthieuC	
 3	17.75	314562	2069413	Javascript	Mechar	
 3	17.72	2421201	2508221	C	skoczekrs	
+3	17.72	2707322	3503084	F#	dumboster	
 3	17.7	3535265	2647983	Python3	Szymusi	
 3	17.7	2350846	1937874	C++	DrBloodmoney	
 3	17.68	297557	3088384	C#	rwilson	

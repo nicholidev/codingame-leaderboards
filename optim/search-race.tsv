@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=515,time=2021-11-13 00:43:48
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=517,time=2021-11-14 00:52:37
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -22,6 +22,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=515,time=2021-11-13 00:43:48
 100	11070.630000000005	1314316	C++	jolindien	
 100	11103.09	3513265	C++	DaNinja	
 100	11113.44	3721214	C++	jrke	
+100	11124.399999999994	154984	C++	_Royale	
 100	11182.39	1500515	C#	eulerscheZahl	
 100	11200.430000000002	3918583	Rust	mikmak	
 100	11228.67	4067707	C++	therealbeef	
@@ -91,6 +92,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=515,time=2021-11-13 00:43:48
 100	13235.94	153965	Python3	Keelhaul	
 100	13237.629999999996	1727322	Python3	pyjama	
 100	13380.64	1525821	C#	Jeroo	
+100	13493.75	1737246	Java	Adam798	
 100	13534.07	512097	Haskell	Stilgart	
 100	13543.03	225875	C#	leff	
 100	13559.12	1457162	Python3	JFB	

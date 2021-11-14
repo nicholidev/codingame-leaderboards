@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5590,time=2021-11-13 00:43:46
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5593,time=2021-11-14 00:52:35
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -48,6 +48,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5590,time=2021-11-13 00:43:46
 100	3413	1244576	Java	PauloVilela	
 100	3413	1100752	C++	ValNykol	
 100	3415	601054	C++	geza	
+100	3418	3210529	Pascal	EddyZ	
 100	3425	553938	C++	MagAlex	
 100	3428	1952778	Go	blast_beat	
 100	3430	3035070	C#	Ipso	
@@ -58,7 +59,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5590,time=2021-11-13 00:43:46
 100	3456	1788003	C++	MIKHAIL_CHESNOKOV	
 100	3456	907661	C++	konst	
 100	3467	888404	Perl	Intramonk	
-100	3475	3210529	Pascal	EddyZ	
 100	3477	1878648	Java	jaudo	
 100	3480	2436448	Java	FrancoisMeme	
 100	3482	2406605	Python3	docri	
@@ -752,6 +752,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5590,time=2021-11-13 00:43:46
 100	5801	3390309	C++	VincentBaijot	
 100	5804	3173494	Python3	WKDE	
 100	5805	1527403	C++	Di_Masta	
+100	5806	3754066	C++	jast.e.new.name	
 100	5809	3770485	C++	zakki	
 100	5811	1706883	C#	CommanderCero	
 100	5811	2320186	Java	aPoStAl	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5590,time=2021-11-13 00:43:46
 100	5885	4185673	Python3	GeorgiD	
 100	5885	4057208	C++	casmith789	
 100	5885	4289256	Javascript	Rick_C-137	
-100	5885	3494301	Python3	CoreyCV	

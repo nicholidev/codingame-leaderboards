@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=401,time=2021-11-13 00:43:48
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=403,time=2021-11-14 00:52:38
 100	174652	3354337	Scala	Westicles	
 100	167588	1530051	C++	UlYoP	
 100	166108	2923506	C++	darkhorse64	
@@ -149,6 +149,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=401,time=2021-11-13 00:43:48
 100	26352	3307436	Python3	kudzoo	
 100	26343	811622	C++	Scarfield	
 100	25980	1336464	C++	magaiti	
+100	25950	224325	Go	TidyMaze	
 100	25610	3950417	Python3	Alikyou	
 100	25600	1050421	Python3	geppoz	
 100	24566	3845610	Python3	pardouin	
@@ -320,6 +321,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=401,time=2021-11-13 00:43:48
 100	7430	4134943	Python3	vinc-r	
 100	7376	1200669	Python3	houseofsuns	
 100	7296	1549856	TypeScript	Keylan	
+100	7296	1737246	Python3	Adam798	
 100	7134	1457223	C++	jleconte	
 100	7066	1800350	C	Micolino	
 100	7066	3512206	Java	LFR	
@@ -350,11 +352,11 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=401,time=2021-11-13 00:43:48
 100	6500	2612889	Python3	Symphonia	
 100	6382	3980754	Javascript	Pougache	
 75	6496	1874704	PHP	pkogan	
-57	13921	224325	Scala	TidyMaze	
 40	27217	4067344	C++	Bitterisland6	
 35	28915	3998980	Python3	bamax	
 0	1222	2294763	C++	Maxyx	
 0	492	2069141	C#	tomeko	
+0	476	3783962	Python3	Mohsen1365ir	
 0	470	1895212	Python3	Maxlaxs	
 0	470	3980726	Python3	PoshoLoKo	
 0	470	2230547	Java	SirPouillasse	
