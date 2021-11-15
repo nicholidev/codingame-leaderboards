@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=236,time=2021-11-14 00:52:37
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=236,time=2021-11-15 00:44:36
 100	1596	3918583	Rust	mikmak	
 100	1675	2288263	Rust	dbdr	
 100	1677	1944090	C#	spaceorc	
@@ -23,6 +23,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=236,time=2021-11-14 00:52:37
 100	2378	3203557	Python3	burnpanck	
 100	2382	1378958	C#	Illedan	
 100	2383	820000	C++	ValGrowth	
+100	2406	3594074	C++	jopo	
 100	2410	1518732	Java	Apfeloxid	
 100	2410	155774	PHP	dwarfie	
 100	2411	2455616	Java	JeanClaude44	
@@ -34,7 +35,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=236,time=2021-11-14 00:52:37
 100	2533	4216789	C	Saur2000	
 100	2539	2786666	C++	TetraktysPhi	
 100	2574	1525821	C#	Jeroo	
-100	2595	3594074	C++	jopo	
 100	2638	759147	C++	kisszots	
 100	2815	2555066	Python3	dyc3	
 100	2817	3480498	Java	BenPix	
@@ -225,7 +225,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=236,time=2021-11-14 00:52:37
 0	3150	3586267	Python3	twi	
 0	3150	1428969	Python3	Cpt.Kolute	
 0	3150	3808031	Ruby	_proton	
-0	3150	3946057	Go	orenishii	
+0	3150	3946057	Go	iwakura-lain	
 0	3150	4315171	Java	Soucis	
 0	3150	4334077	C++	Paul_Demanze	
 0	3150	4379624	Bash	KamadoTanjiro	
