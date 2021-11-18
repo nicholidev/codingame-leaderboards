@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6317,time=2021-11-17 00:30:25
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6319,time=2021-11-18 00:30:22
 5	32.37	3193653	3004019	C++	karliso	
 5	31.27	880353	2975979	C++	zasmu	
 5	31.04	1082988	2982332	C++	Saelyos	
@@ -790,12 +790,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6317,time=2021-11-17 00:30:
 3	24.27	4066925	3412303	Python3	KrysmaCZ	
 3	24.26	2275088	2976835	C#	RSojak	
 3	24.26	3938395	3754079	C++	Quentin18	
+3	24.25	2200342	2976575	C++	BernardoSulzbach	
 3	24.21	1282856	2979300	Javascript	ErikBrendel	
 3	24.2	1802967	3366248	Python3	Meruem	
 3	24.19	1947436	2980511	C++	MoosPow	
 3	24.18	3427517	3691444	Javascript	csysja	
 3	24.18	3309229	2980217	Python3	igs_m	
-3	24.17	2200342	2976575	C++	BernardoSulzbach	
 3	24.16	3147344	2978648	Python3	Gibruska	
 3	24.13	4135000	3413501	C++	TPR	
 3	24.1	3419294	2976000	Javascript	Sissiimperatice	
@@ -852,6 +852,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6317,time=2021-11-17 00:30:
 3	23.49	1391220	2976750	PHP	mesavitae	
 3	23.49	996279	2978733	C++	BOBKA	
 3	23.48	2458172	2978312	C++	CaptainHamburger	
+3	23.47	3797271	2978943	Python3	Cam_B	
 3	23.46	3795574	2978549	Javascript	Iron-postier	
 3	23.46	3719253	2979699	Javascript	daffie	
 3	23.46	1276766	2979360	Python3	brian__fr	
@@ -861,8 +862,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6317,time=2021-11-17 00:30:
 3	23.45	3805081	2979229	Python3	ai_rice	
 3	23.45	3723210	2976856	C#	ChristopherHahn	
 3	23.45	3809097	2976669	C++	brsnw250	
-3	23.44	3797271	2978943	Python3	Cam_B	
 3	23.44	3800220	2977466	C++	Kurpilyansky	
+3	23.44	3811032	2976467	Go	LadislavZigo	
 3	23.43	3763162	2977175	Java	chimpansiets	
 3	23.43	990110	2977590	C++	Rogerup	
 3	23.43	900403	2980306	C++	0xC0FFEE	
@@ -872,7 +873,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6317,time=2021-11-17 00:30:
 3	23.43	1784938	3092032	C#	Julius2k17	
 3	23.43	1991836	2994703	C#	qbit86	
 3	23.42	1815235	2977737	C#	Maliamnon	
-3	23.42	3811032	2976467	Go	LadislavZigo	
 3	23.41	1070655	2979498	C++	shanks	
 3	23.4	3414155	2977392	Scala	Smerk	
 3	23.4	3802180	2979892	C++	SaminRK	
@@ -932,8 +932,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6317,time=2021-11-17 00:30:
 3	22.63	4398412	3798694	Java	JinGOGO	
 3	22.63	153620	2977730	PHP	[CPC]Karedas	
 3	22.62	3689606	3028914	C++	DuckDuckGoose	
+3	22.61	1807733	2976181	Python3	NoZ-	
 3	22.59	2680421	2979813	Java	Barons	
-3	22.52	1807733	2976181	Python3	NoZ-	
 3	22.52	3797046	2975581	Python3	chinwag	
 3	22.52	3772630	2979846	Go	BattleRattle	
 3	22.51	1452449	2977216	Java	m4nu8untu	
