@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=11573,time=2021-11-18 00:30:28
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=11585,time=2021-11-19 01:27:41
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -148,6 +148,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11573,time=2021-11-18 00:30:28
 100	246320	1957077	Rust	domak	
 100	246140	1314796	C#	JBence	
 100	245760	1861258	Rust	Nazdhun	
+100	245660	1129777	C++	Velvacaine	
 100	245640	854952	Java	dolmen1234	
 100	245600	1481544	C++	ZarthaxX	
 100	245490	893541	Java	wala	
@@ -292,7 +293,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11573,time=2021-11-18 00:30:28
 100	201370	2729630	C++	Halphas	
 100	201140	668954	C++	Fluxor	
 100	200740	512097	Haskell	Stilgart	
-100	200690	4594964	C	DialFrost	
 100	200640	4038855	C++	Pedrito_B	
 100	199820	1836058	C++	SeebOmega	
 100	199740	1033258	Kotlin	tbarthel	
@@ -366,7 +366,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11573,time=2021-11-18 00:30:28
 100	178480	1173137	C++	chouetz	
 100	178150	3998705	C	LevanTruong	
 100	177630	1990099	Java	JackDaniel1	
-100	177310	1129777	C++	Velvacaine	
 100	177190	2470677	C++	Goujon	
 100	177180	3965560	C#	Ryanless	
 100	177130	1646165	Python3	CasperHagenaars	
@@ -999,3 +998,4 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11573,time=2021-11-18 00:30:28
 100	64260	4194335	Javascript	crvn	
 100	64260	4444920	C++	Roiser	
 100	64260	4470306	C++	NONstope	
+100	64260	3420896	C++	Tigroux	

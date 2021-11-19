@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=695,time=2021-11-18 00:30:30
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=696,time=2021-11-19 01:27:43
 100	62564496	2288263	Rust	dbdr	
 100	59353524	765200	Rust	FrancoisB	
 100	59353464	3457031	C++	YurkovAS	
@@ -90,6 +90,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=695,time=2021-11-18 00:30:30
 100	4049156	4027292	C#	rmait	
 100	4003632	1807733	Python3	NoZ-	
 100	3825460	1854246	C++	Counterbalance	
+100	3488032	3754066	C++	jast.e.new.name	
 100	3455812	4120837	C++	philipplenk	
 100	3379696	2340294	C	deviluc	
 100	3349920	2043908	C++	AntiSquid	
@@ -116,7 +117,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=695,time=2021-11-18 00:30:30
 100	2013220	1720605	Rust	carlicolosse	
 100	2000068	1413257	C#	Bavoen	
 100	1923056	3958314	PHP	NicoDeug	
-100	1913468	3754066	C++	jast.e.new.name	
 100	1830476	3317816	Java	Jeeronimo	
 100	1808372	3625469	Python3	Crimson_King	
 100	1767700	3525167	Java	fgsdt	
@@ -366,6 +366,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=695,time=2021-11-18 00:30:30
 100	43648	2331861	Java	AranoBredero	
 100	43648	1480426	Python3	Hikari42	
 100	43648	3087337	Python3	JayDe	
+100	43648	4597544	Python3	Polnoluniza	
 100	43508	481564	VB.NET	mihei	
 100	43468	4065637	C#	Baby1991	
 100	43220	1259143	C++	Bence886	

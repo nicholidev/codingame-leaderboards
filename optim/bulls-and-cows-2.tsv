@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=277,time=2021-11-18 00:30:29
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=278,time=2021-11-19 01:27:42
 100	291	2288263	Rust	dbdr	
 100	294	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -45,6 +45,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=277,time=2021-11-18 00:30:29
 100	338	2950978	C++	icecuber	
 100	338	1838549	Rust	orangesnowfox	
 100	338	4334077	C++	Paul_Demanze	
+100	339	4341304	C++	Remi.	
 100	347	952784	C++	[CG]Simon	
 100	349	3809853	C++	Emilio-EH	
 100	363	440476	C++	yowa	
@@ -53,7 +54,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=277,time=2021-11-18 00:30:29
 100	382	4277867	Rust	About	
 100	387	841420	C#	RandomVariable	
 100	403	1684486	C++	Whopper	
-100	408	4341304	C++	Remi.	
 100	414	3226448	Rust	tobk	
 100	415	4526264	C++	cly	
 100	436	1484839	Go	sparky	
@@ -135,6 +135,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=277,time=2021-11-18 00:30:29
 100	2116	3899102	C++	Bart89	
 100	2237	3657937	Python3	elderlybeginner	
 100	2378	1272263	Python3	Caled	
+100	2454	4559916	Javascript	Karne	
 100	2561	3439872	Python3	xdcomrade	
 100	2589	3845610	Python3	pardouin	
 100	2722	1337394	Python3	--cha--	

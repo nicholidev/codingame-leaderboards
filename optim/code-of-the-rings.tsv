@@ -1,11 +1,11 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5607,time=2021-11-18 00:30:28
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5611,time=2021-11-19 01:27:40
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
 100	2792	2316796	PHP	Psio	
 100	2793	1485989	Python3	ReActiveNZ	
 100	2808	2077805	C++	bamilan	
-100	2846	1156834	Python3	dave9000	
+100	2844	1156834	Python3	dave9000	
 100	2850	1399382	C#	Regulus136	
 100	2853	1178157	Python3	R_o_l_a_n_d	
 100	2897	1333869	Python3	kiwijam	
@@ -570,6 +570,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5607,time=2021-11-18 00:30:28
 100	5525	2784019	Java	cryptoroot	
 100	5527	195088	C++	Jopie64	
 100	5527	1256312	C#	Djoums	
+100	5546	3770880	Java	Yu_212	
 100	5554	3342823	Javascript	Jacki	
 100	5555	4077723	C#	co_test	
 100	5556	826008	C++	Savlik5	
@@ -587,7 +588,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5607,time=2021-11-18 00:30:28
 100	5567	1651569	Go	Insan	
 100	5567	236685	Java	Palawan	
 100	5569	1925452	C++	Cyriax	
-100	5575	3770880	Java	Yu_212	
 100	5580	1684030	Rust	Mator	
 100	5582	4209343	Java	petor	
 100	5583	4156437	Python3	komiamiko	
@@ -630,6 +630,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5607,time=2021-11-18 00:30:28
 100	5650	3307806	C++	IlyaTkemal	
 100	5652	3965571	Python3	Smekarn	
 100	5656	631359	Python3	Aratz	
+100	5656	4480332	Java	L.J.Ok	
 100	5659	759912	Javascript	felipeptcho	
 100	5659	2792232	Python3	Monoterpene	
 100	5660	3414863	Javascript	smsalisbury	
@@ -691,7 +692,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5607,time=2021-11-18 00:30:28
 100	5736	1740037	Scala	ereiam	
 100	5736	2550213	C#	hogehoge	
 100	5736	2438065	Rust	iter	
-100	5737	4480332	Java	L.J.Ok	
 100	5739	971137	C++	Burlinn	
 100	5739	1232188	Python3	Sylven	
 100	5743	4090664	Kotlin	sikr_	

@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=42,time=2021-11-18 00:30:05
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=44,time=2021-11-19 00:30:08
 2	29.42	2924895	3865632	C	trictrac	
 2	28.56	2350415	3858727	C++	Vintarel	
 2	27.22	4574526	3875872	Python3	NavidHt	
@@ -30,14 +30,16 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=42,time=2021-11-18 00:30:05
 1	14.24	3708717	3893242	Python3	Emiii	
 1	11.66	1479930	3887510	C++	LeRenard	
 1	6.38	862919	3857298	C++	Astrobytes	
-0	14.89	3141948	3884514	Python3	philRG	
-0	13.67	2771065	3889702	C++	JHBonarius	
-0	10.59	4329085	3857293	Python3	Siyanew	
-0	7.35	4177562	3855770	Javascript	JHowell	
-0	7.34	3569066	3854576	Python3	derjack	
-0	7.09	1713174	3855629	Python3	BigUP	
-0	7.03	4206218	3876119	C#	Jerrasterix	
-0	4.97	2121438	3861343	Rust	DarkPhoenix6	
-0	-0.63	1412263	3859785	PHP	PatrickMcGinnisII	
-0	-7.64	4508271	3876114	Python3	Thorcode	
-0	-10.22	2043908	3874283	TypeScript	AntiSquid	
+0	14.8	3141948	3884514	Python3	philRG	
+0	13.59	2771065	3889702	C++	JHBonarius	
+0	10.71	4329085	3857293	Python3	Siyanew	
+0	7.67	4177562	3855770	Javascript	JHowell	
+0	7.37	3569066	3854576	Python3	derjack	
+0	7.2	1713174	3855629	Python3	BigUP	
+0	7.12	4206218	3876119	C#	Jerrasterix	
+0	5.17	2121438	3861343	Rust	DarkPhoenix6	
+0	0.4	1412263	3859785	PHP	PatrickMcGinnisII	
+0	-5.43	4508271	3876114	Python3	Thorcode	
+0	-7.43	3052502	3900714	Python3	Nabuchokot	
+0	-8.89	2043908	3874283	TypeScript	AntiSquid	
+0	-9.11	829593	3900713	Java	daqiu	
