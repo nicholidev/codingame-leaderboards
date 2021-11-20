@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=278,time=2021-11-19 01:27:42
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=279,time=2021-11-20 00:51:41
 100	291	2288263	Rust	dbdr	
 100	294	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -22,6 +22,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=278,time=2021-11-19 01:27:42
 100	314	820000	C++	ValGrowth	
 100	315	2924895	C	trictrac	
 100	318	1629259	C++	Marchete	
+100	318	4341304	C++	Remi.	
 100	319	2416641	C	Zenoscave	
 100	319	1114834	C++	k4ng0u	
 100	320	2164798	Java	Mihai-Boicu	
@@ -45,7 +46,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=278,time=2021-11-19 01:27:42
 100	338	2950978	C++	icecuber	
 100	338	1838549	Rust	orangesnowfox	
 100	338	4334077	C++	Paul_Demanze	
-100	339	4341304	C++	Remi.	
 100	347	952784	C++	[CG]Simon	
 100	349	3809853	C++	Emilio-EH	
 100	363	440476	C++	yowa	
@@ -134,8 +134,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=278,time=2021-11-19 01:27:42
 100	2101	1412263	PHP	PatrickMcGinnisII	
 100	2116	3899102	C++	Bart89	
 100	2237	3657937	Python3	elderlybeginner	
+100	2260	4559916	Javascript	Karne	
 100	2378	1272263	Python3	Caled	
-100	2454	4559916	Javascript	Karne	
 100	2561	3439872	Python3	xdcomrade	
 100	2589	3845610	Python3	pardouin	
 100	2722	1337394	Python3	--cha--	
@@ -182,6 +182,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=278,time=2021-11-19 01:27:42
 56	6159	1931039	TypeScript	MooMooN	
 56	6166	1886386	Javascript	h0ly	
 56	6176	2826402	Java	1Alex	
+56	6196	3141948	Python3	philRG	
 56	7980	2708267	Python3	XyoloJR	
 52	6751	828239	C#	[SG]Bisou	
 52	6753	992329	Python3	BeeGee	

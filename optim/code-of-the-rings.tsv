@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5611,time=2021-11-19 01:27:40
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5615,time=2021-11-20 00:51:39
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -588,6 +588,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5611,time=2021-11-19 01:27:40
 100	5567	1651569	Go	Insan	
 100	5567	236685	Java	Palawan	
 100	5569	1925452	C++	Cyriax	
+100	5578	2550213	C++	hogehoge	
 100	5580	1684030	Rust	Mator	
 100	5582	4209343	Java	petor	
 100	5583	4156437	Python3	komiamiko	
@@ -623,6 +624,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5611,time=2021-11-19 01:27:40
 100	5637	155881	PHP	Hevey	
 100	5638	3478926	C	Alexis.D	
 100	5639	2055756	C#	BiBiPunK	
+100	5647	4480332	Java	L.J.Ok	
 100	5648	1504684	Javascript	entrpy	
 100	5648	1627246	Javascript	katutaistelija	
 100	5648	4309574	Python3	KornDV	
@@ -630,7 +632,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5611,time=2021-11-19 01:27:40
 100	5650	3307806	C++	IlyaTkemal	
 100	5652	3965571	Python3	Smekarn	
 100	5656	631359	Python3	Aratz	
-100	5656	4480332	Java	L.J.Ok	
 100	5659	759912	Javascript	felipeptcho	
 100	5659	2792232	Python3	Monoterpene	
 100	5660	3414863	Javascript	smsalisbury	
@@ -690,7 +691,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5611,time=2021-11-19 01:27:40
 100	5734	1452085	Javascript	sadakatsu	
 100	5735	4142307	Python3	Editsira	
 100	5736	1740037	Scala	ereiam	
-100	5736	2550213	C#	hogehoge	
 100	5736	2438065	Rust	iter	
 100	5739	971137	C++	Burlinn	
 100	5739	1232188	Python3	Sylven	
@@ -710,6 +710,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5611,time=2021-11-19 01:27:40
 100	5760	228826	C++	Snark	
 100	5760	3965752	TypeScript	SpiderSeb	
 100	5761	2791601	Python3	wjan	
+100	5761	4559916	Javascript	Karne	
 100	5764	522661	Scala	aerosoul	
 100	5764	1840946	Ruby	zazaboon	
 100	5765	1858764	Python3	vdevid	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5611,time=2021-11-19 01:27:40
 100	5885	3160441	Python3	Fruitful	
 100	5885	1652969	C#	Berci79	
 100	5885	4105586	Python3	Django81	
-100	5885	4146980	Go	Bernathan	
