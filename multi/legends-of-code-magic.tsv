@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2197,time=2021-11-20 00:30:19
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2198,time=2021-11-21 00:36:35
 6	26.37	1400179	2086196	C++	reCurse	
 6	25.97	2725066	2119940	C#	Cize	
 6	25.83	1841051	2086085	C++	0xbeefed	
@@ -698,9 +698,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2197,time=2021-11-20 00:30:
 3	22.23	1179448	2212157	Python3	rrodrigues	
 3	22.2	3441957	3005806	Python3	Bastian971	
 3	22.19	1461780	3411341	Go	Ardgevald	
+3	22.16	3956109	3116910	Python3	saquintes	
 3	22.16	558770	2066860	Javascript	lD	
 3	22.14	1731211	2125079	Python3	fala	
-3	22.12	3956109	3116910	Python3	saquintes	
 3	22.09	3881980	3028088	Javascript	Yefis	
 3	22.08	3403092	2439365	Python3	EvanS	
 3	22.08	4068332	3293072	C#	eclep	
@@ -807,7 +807,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2197,time=2021-11-20 00:30:
 3	20.82	2914317	3029776	C#	TimoSissala	
 3	20.77	2638124	2322340	Java	Kemacian	
 3	20.77	2890353	2127421	Java	Lenocia	
-3	20.74	1853578	2068075	C#	Code.ama	
 3	20.74	3714230	2743254	Python3	StephenIMT	
 3	20.73	1990452	2088813	C#	Benoit_L	
 3	20.71	1410353	3385620	Rust	SwagColoredKitteh	
@@ -825,14 +824,15 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2197,time=2021-11-20 00:30:
 3	20.62	1993095	3107168	C#	Volpel	
 3	20.61	1124755	2123198	Java	tfcardoso	
 3	20.61	4232545	3538362	C++	TYranno	
+3	20.6	1853578	2068075	C#	Code.ama	
 3	20.6	1876212	2068873	Python3	PFischbeck	
 3	20.59	2629686	3708009	Python3	krutovsky	
 3	20.59	2879372	3372097	Python3	Pableur	
-3	20.58	208338	3619881	C++	Absolem	
 3	20.57	1130957	2225485	Javascript	Sokehur	
 3	20.57	271945	3504753	Rust	aangairbender	
 3	20.56	3776353	2826241	C++	Enegas	
 3	20.56	1045710	2068615	Javascript	KPricorn	
+3	20.55	208338	3619881	C++	Absolem	
 3	20.54	2591056	2343875	C++	JacieM	
 3	20.48	3931524	3082308	C++	leonhardt	
 3	20.47	3524758	2697879	Python3	Deks	
@@ -921,11 +921,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2197,time=2021-11-20 00:30:
 3	19.46	3380881	2420868	Javascript	NumberThreeNA	
 3	19.45	4039884	3381200	C++	mzbear	
 3	19.44	2968929	2129520	C++	Kamas2408	
-3	19.43	1167980	2124152	Javascript	qoobus	
 3	19.42	1538549	2069491	Python3	Nikodimishe	
 3	19.42	2410712	2097735	Python3	ArturLaskowski	
 3	19.38	2007690	2308163	Java	SpeedOfMagic	
 3	19.37	4063515	3316115	Python3	Mindme	
+3	19.36	1167980	2124152	Javascript	qoobus	
 3	19.36	3642393	2702857	C#	nullbit	
 3	19.36	3841444	2997339	Javascript	HellRevenger	
 3	19.34	3212867	2258184	C#	lauderttest	
