@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=4721,time=2021-11-21 00:36:39
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=4725,time=2021-11-22 00:50:44
 100	2509	1327028	C++	FredericBautista	
 100	2507	154372	Bash	Plopx	
 100	2504	1249786	C#	Fededevi	
@@ -69,9 +69,11 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4721,time=2021-11-21 00:36:39
 100	2404	1835525	C#	nwendel	
 100	2401	1333869	Python3	kiwijam	
 100	2400	1498163	Java	Ben-oit	
+100	2400	3533314	C#	skotz	
 100	2399	3839774	Rust	gurvan_lullien	
 100	2398	1336464	C++	magaiti	
 100	2398	3647844	Python3	rc95401	
+100	2398	1129777	C++	Velvacaine	
 100	2397	1314316	C++	jolindien	
 100	2397	155774	PHP	dwarfie	
 100	2396	1880319	C++	WildSmilodon	
@@ -205,7 +207,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4721,time=2021-11-21 00:36:39
 100	2265	3443052	C	ItCouldBeJav	
 100	2265	1606614	C#	Wazaa	
 100	2265	4051110	C++	nan0S___	
-100	2265	3533314	C#	skotz	
 100	2264	4072753	C++	mdstoy	
 100	2262	2003902	C	mploux	
 100	2261	1728288	Python3	MOLP	
@@ -277,7 +278,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4721,time=2021-11-21 00:36:39
 100	2197	3727272	Javascript	paszo	
 100	2196	2197750	C	alec_RogueSaloon	
 100	2195	1287344	C++	Alshock	
-100	2195	1129777	C++	Velvacaine	
 100	2195	1765278	Scala	SuperMiron	
 100	2193	1030259	C#	salext	
 100	2192	1487392	Java	Razielwar	
@@ -464,6 +464,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4721,time=2021-11-21 00:36:39
 100	2036	1195006	C++	neutrinum	
 100	2036	3525167	Python3	fgsdt	
 100	2036	2421141	Python3	HomerS.	
+100	2034	3712145	Java	69razer69	
 100	2033	2476681	C#	Jam2it	
 100	2033	2786804	C++	Evilkeeper	
 100	2033	3722889	C	Lafytt	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4721,time=2021-11-21 00:36:39
 100	1823	1503564	C#	tihilv	
 100	1823	3439872	Python3	xdcomrade	
 100	1822	1288865	Java	codyboto	
-100	1822	1845617	Java	Shingy	

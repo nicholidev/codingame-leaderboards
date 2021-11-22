@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=699,time=2021-11-21 00:36:42
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=700,time=2021-11-22 00:50:47
 100	62564496	2288263	Rust	dbdr	
 100	59353524	765200	Rust	FrancoisB	
 100	59353464	3457031	C++	YurkovAS	
@@ -12,6 +12,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=699,time=2021-11-21 00:36:42
 100	56679460	2311105	C++	kovi	
 100	56228180	1378958	C#	Illedan	
 100	56158848	3533119	C++	wlesavo	
+100	55323540	154984	C++	_Royale	
 100	55101288	893541	Java	wala	
 100	54242784	2968035	C++	DomiKo	
 100	54182244	1500515	C#	eulerscheZahl	
@@ -53,7 +54,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=699,time=2021-11-21 00:36:42
 100	11486744	2837654	C++	R2B2	
 100	10989500	1630890	Java	Wld	
 100	10745408	3839774	Rust	gurvan_lullien	
-100	10641336	154984	C++	_Royale	
 100	10404892	3173494	Java	WKDE	
 100	10374164	3721214	C++	jrke	
 100	10183760	1861258	Rust	Nazdhun	
@@ -455,6 +455,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=699,time=2021-11-21 00:36:42
 100	27572	3741524	C	princess_of_zeal	
 100	27336	4085698	Python3	sbs7	
 100	27292	1393802	Python3	amzh	
+100	27132	4481912	Python3	Dr_Monkey	
 100	27036	2353603	Pascal	MrSok	
 100	27012	4111826	Java	ThomasMascaro	
 100	26804	4206218	C#	Jerrasterix	
