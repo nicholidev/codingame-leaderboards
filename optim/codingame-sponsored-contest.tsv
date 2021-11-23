@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=14158,time=2021-11-22 00:50:45
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=14161,time=2021-11-23 00:47:48
 100	14337	329200	C++	BlitzProg	
 100	13905	3533119	C++	wlesavo	
 100	13603	1366631	Javascript	Morhaus	
@@ -284,6 +284,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14158,time=2021-11-22 00:50:45
 100	2818	1913381	Java	PancakeNinja	
 100	2809	3073020	Python3	_francois_	
 100	2803	1607522	Go	RoboStac	
+100	2800	4341304	C++	Remi.	
 100	2798	877581	C#	fabianoms	
 100	2798	884874	Java	Zauberer	
 100	2794	2689552	Javascript	dudasaron	
@@ -302,7 +303,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14158,time=2021-11-22 00:50:45
 100	2766	1427078	Java	ToshiTuringMachine	
 100	2765	3958314	PHP	NicoDeug	
 100	2764	3493230	Rust	sgalasso	
-100	2756	4341304	C++	Remi.	
 100	2752	3271002	Java	Dinzy	
 100	2750	2968035	Python3	DomiKo	
 100	2744	2143315	Python3	FluffyToaster	
@@ -427,7 +427,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14158,time=2021-11-22 00:50:45
 100	2532	1539222	Python3	kthordarson	
 100	2532	1552137	Python3	MycChiu	
 100	2532	1479264	Python3	ArbustRe	
-100	2532	1303554	Python3	Diheuheu	
+100	2532	1303554	Python3	ThomasV34	
 100	2532	1106045	Python3	M1k3	
 100	2532	1274111	Python3	Despotia	
 100	2532	1640371	Python3	Rx-K1NG	
@@ -739,7 +739,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14158,time=2021-11-22 00:50:45
 100	2532	1297713	Python3	Ryuuk	
 100	2532	4570289	Python3	Killax-D	
 100	2532	4586341	Python3	BL_4CK	
-100	2532	3245233	Python3	Flasshi_	
+100	2532	3245233	Python3	Flasssh_	
 100	2528	1034635	C++	SlyB	
 100	2528	1740237	Python3	OlegKornelsen	
 100	2526	2950978	Python3	icecuber	
@@ -874,7 +874,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14158,time=2021-11-22 00:50:45
 100	2278	905191	C++	Vince31	
 100	2272	206582	PHP	kpeatubho	
 100	2268	389632	Python3	ma	
-100	2266	4471038	Java	nguyen.lam.fr	
+100	2266	4471038	Java	nguyen.lam	
 100	2262	1368530	C#	Hassenplug	
 100	2260	3844260	C#	ZapBeeblebrox	
 100	2256	1564937	Javascript	meer	

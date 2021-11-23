@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=279,time=2021-11-22 00:50:46
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=280,time=2021-11-23 00:47:49
 100	291	2288263	Rust	dbdr	
 100	294	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -115,6 +115,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=279,time=2021-11-22 00:50:46
 100	1304	2043908	C++	AntiSquid	
 100	1355	4487490	Python3	cnk_gr	
 100	1360	4003601	C#	Mathieu1988	
+100	1380	4559916	Javascript	Karne	
 100	1415	1075220	Java	sebmarty	
 100	1416	3269275	C#	Ille-Stream	
 100	1503	3171976	TypeScript	horvbalazs	
@@ -134,7 +135,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=279,time=2021-11-22 00:50:46
 100	2101	1412263	PHP	PatrickMcGinnisII	
 100	2116	3899102	C++	Bart89	
 100	2237	3657937	Python3	elderlybeginner	
-100	2260	4559916	Javascript	Karne	
 100	2378	1272263	Python3	Caled	
 100	2561	3439872	Python3	xdcomrade	
 100	2589	3845610	Python3	pardouin	
@@ -253,6 +253,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=279,time=2021-11-22 00:50:46
 13	12101	3489223	Javascript	KarloHubai	
 13	12245	2387233	C#	SinOfWrath	
 13	12248	723476	Python3	NeoPhnx	
+13	12390	4073854	Python3	13uk	
 10	351	3738308	Python3	sgbd	
 10	12392	1279172	Python3	Alphaloc	
 6	938	4286679	Python3	fungi_star	
