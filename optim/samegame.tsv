@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=406,time=2021-11-23 00:47:49
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=406,time=2021-11-24 00:35:50
 100	174652	3354337	Scala	Westicles	
 100	167588	1530051	C++	UlYoP	
 100	166108	2923506	C++	darkhorse64	
@@ -19,6 +19,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=406,time=2021-11-23 00:47:49
 100	129368	3235897	Java	Zylo	
 100	128988	1399382	C#	Regulus136	
 100	128510	1378958	C#	Illedan	
+100	120732	3983017	PHP	TLbuis	
 100	120642	3046779	Rust	Kathrin	
 100	118483	3457031	C++	YurkovAS	
 100	116591	1201796	Java	P.Greze	
@@ -120,7 +121,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=406,time=2021-11-23 00:47:49
 100	32440	3954992	Python3	wcanka	
 100	32314	2202771	Java	Kaplone	
 100	32283	2833929	Python3	pcourrousse	
-100	32282	3983017	PHP	TLbuis	
 100	32092	1397268	C	RTLB	
 100	31810	2043908	C++	AntiSquid	
 100	31716	1404379	C++	hpa	

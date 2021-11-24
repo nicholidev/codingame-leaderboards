@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=280,time=2021-11-23 00:47:49
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=282,time=2021-11-24 00:35:50
 100	291	2288263	Rust	dbdr	
 100	294	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -170,6 +170,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=280,time=2021-11-23 00:47:49
 71	4357	2141506	Python3	Jamesscn	
 71	6057	3922731	Dart	Dartisan	
 69	4403	3770501	C++	luke-guyton	
+69	4451	1483798	Go	hm001	
 69	4602	483321	C#	Clagus	
 69	5494	3416055	Python3	ItsAFeature	
 67	4975	3141948	Python3	philRG	
@@ -225,6 +226,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=280,time=2021-11-23 00:47:49
 30	10415	3704725	Python3	kmart	
 28	9997	1740037	Scala	ereiam	
 28	10170	3423700	C++	Old-and-Grumpy	
+28	10653	4073854	Python3	13uk	
 26	10832	1579653	Python3	zweedeend	
 26	11553	4309574	Python3	KornDV	
 23	10585	1114496	Python3	BlasphemousCrossbreed	
@@ -253,7 +255,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=280,time=2021-11-23 00:47:49
 13	12101	3489223	Javascript	KarloHubai	
 13	12245	2387233	C#	SinOfWrath	
 13	12248	723476	Python3	NeoPhnx	
-13	12390	4073854	Python3	13uk	
 10	351	3738308	Python3	sgbd	
 10	12392	1279172	Python3	Alphaloc	
 6	938	4286679	Python3	fungi_star	
@@ -274,6 +275,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=280,time=2021-11-23 00:47:49
 2	13550	1206180	Python3	Nyxon	
 2	13550	3744084	Python3	racaillou	
 2	13550	3555728	Python3	KVNMDS	
+2	13550	2070953	Java	programdestroyer	
 0	13846	3627342	C#	Zuabros	
 0	13846	3721214	C++	jrke	
 0	13846	3901646	Python3	VarjaListopad	
