@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=523,time=2021-11-25 00:40:02
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=524,time=2021-11-26 00:49:23
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -369,6 +369,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=523,time=2021-11-25 00:40:02
 98	23867.929999999997	2043512	PHP	matijabelec	
 98	23952.840000000004	2621204	Java	DqmnJyres	
 98	23993.089999999993	4035069	Javascript	nikensss	
+98	24074.469999999987	4522254	Javascript	Guillaume.Herr	
 98	24410.88	4086387	Javascript	AdamDean	
 98	24797.45	4088022	Python3	JorgeRodrigo	
 98	24924.97	4072753	C++	mdstoy	
