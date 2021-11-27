@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2204,time=2021-11-26 00:34:32
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2204,time=2021-11-27 00:51:46
 6	26.37	1400179	2086196	C++	reCurse	
 6	25.97	2725066	2119940	C#	Cize	
 6	25.83	1841051	2086085	C++	0xbeefed	
@@ -696,9 +696,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2204,time=2021-11-26 00:34:
 3	22.29	2891206	2134594	Javascript	conrisc	
 3	22.29	3966842	3127222	Python3	PitrPi	
 3	22.28	3068830	2228413	Python3	Snucha	
+3	22.27	4007703	3128518	Python3	MOsmanis	
 3	22.25	3111112	2220415	Python3	Qubeg	
 3	22.25	558770	2066860	Javascript	lD	
-3	22.21	4007703	3128518	Python3	MOsmanis	
 3	22.2	3441957	3005806	Python3	Bastian971	
 3	22.19	1461780	3411341	Go	Ardgevald	
 3	22.19	3881980	3028088	Javascript	Yefis	
@@ -763,8 +763,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2204,time=2021-11-26 00:34:
 3	21.41	1875472	2069963	F#	BillBert	
 3	21.41	2335979	2986306	C	JulienFv	
 3	21.37	1815756	2428225	C++	Addict	
+3	21.36	1305374	2456042	C#	Frankich	
 3	21.35	1596238	3530422	C#	NickStahl	
-3	21.34	1305374	2456042	C#	Frankich	
 3	21.33	957775	2679154	Javascript	Sutat	
 3	21.32	1744591	2065063	C++	JonathanMead	
 3	21.32	1281870	3413739	Python3	Sheerockoff	
@@ -822,6 +822,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2204,time=2021-11-26 00:34:
 3	20.66	4232545	3538362	C++	TYranno	
 3	20.65	3015719	2351272	C++	Wiaderko	
 3	20.65	1506280	3171829	C++	TwoLate	
+3	20.64	4085043	3846451	Python3	EldronGah	
 3	20.64	1822120	3001718	C#	Zetosion	
 3	20.62	2727498	2065483	Javascript	Vilvalas	
 3	20.61	3931524	3082308	C++	leonhardt	
@@ -831,7 +832,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2204,time=2021-11-26 00:34:
 3	20.59	2629686	3708009	Python3	krutovsky	
 3	20.58	271945	3504753	Rust	aangairbender	
 3	20.58	1124755	2123198	Java	tfcardoso	
-3	20.58	4085043	3846451	Python3	EldronGah	
 3	20.57	1130957	2225485	Javascript	Sokehur	
 3	20.57	3710284	2743234	Python3	chloe-jacob	
 3	20.51	2879372	3372097	Python3	Pableur	
@@ -992,10 +992,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2204,time=2021-11-26 00:34:
 3	18.94	3237290	2346444	Java	TSTo	
 3	18.93	1527403	2066796	C++	Di_Masta	
 3	18.92	523185	3015417	Python3	Hjax	
+3	18.91	3036823	3164010	Go	thlacroix	
 3	18.89	3969206	3112727	Python3	pinta1212	
 3	18.89	1867609	2925545	Python3	rcar	
 3	18.89	2070953	3897538	Java	programdestroyer	
 3	18.89	452323	2087234	Java	duk	
 3	18.88	1947029	3157563	Python3	DougWeimer	
 3	18.88	3141948	3757522	Python3	philRG	
-3	18.88	4153405	3399419	Lua	MoonlitPlatypus	
