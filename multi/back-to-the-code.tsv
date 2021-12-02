@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4830,time=2021-12-01 00:36:19
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4830,time=2021-12-02 00:34:02
 0	47.11	1433161	1484525	C	mingu1.kang	
 0	45.57	494104	455215	C++	Recar	
 0	45.55	990110	357643	C++	Rogerup	
@@ -227,11 +227,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4830,time=2021-12-01 00:36:
 0	37.49	799904	356151	C++	iwashi31	
 0	37.49	430768	345848	Python	ash	
 0	37.49	156876	362617	C++	ShinjiKun	
-0	37.48	1489865	1099783	C++	EricSMSO	
 0	37.48	335818	356610	Java	TyraEl	
 0	37.48	2906497	2468509	C++	daaskare	
 0	37.48	1062962	418259	C	ArmandO.S.	
 0	37.47	972854	494282	Python	MrXo	
+0	37.47	1489865	1099783	C++	EricSMSO	
 0	37.46	718159	347756	Java	dimkadimon	
 0	37.46	1046361	348222	C#	Dragonic	
 0	37.45	792261	341147	C++	IKKYU	
@@ -519,6 +519,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4830,time=2021-12-01 00:36:
 0	33.97	1032334	349138	Java	lukasz.garb	
 0	33.97	4255364	3722465	OCaml	hamza_MPSI_LIV	
 0	33.96	837180	342014	C++	Arkh45	
+0	33.96	153443	348544	Python	simopr	
 0	33.96	1122412	474240	Java	TheNinja	
 0	33.96	368588	351943	Python	Archangel	
 0	33.96	1070477	382458	Java	Stirius	
@@ -530,7 +531,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4830,time=2021-12-01 00:36:
 0	33.94	1584802	883891	Python3	emh	
 0	33.93	1291467	1393993	Javascript	Grimpeur	
 0	33.92	516255	341232	Java	Vargas	
-0	33.91	153443	348544	Python	simopr	
 0	33.91	513456	343079	Python	nwin	
 0	33.91	244742	351221	C#	bhdejager	
 0	33.9	1068085	348642	C++	moman	
@@ -807,13 +807,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4830,time=2021-12-01 00:36:
 0	31.57	1728217	1122731	C#	_spoon_	
 0	31.56	1046623	570763	Java	the_pins	
 0	31.56	1400653	2257488	Python3	tsalin	
-0	31.55	1063061	351295	Java	omi	
 0	31.54	3807227	3018281	C++	GaryAflalo	
 0	31.53	1448366	576791	C++	Mihai2121	
 0	31.53	1000199	357975	C	Zlatko	
 0	31.53	842203	357470	C++	ji_no	
 0	31.53	1068125	344809	Lua	Irvineflon	
 0	31.51	270926	347486	Python	NigelSheldon	
+0	31.49	1063061	351295	Java	omi	
 0	31.48	1511645	644788	Python	OleksandrVoytsekhovskyy	
 0	31.47	999926	353502	C#	SkyyStorm	
 0	31.47	1409924	423547	Java	RevenantMachine	

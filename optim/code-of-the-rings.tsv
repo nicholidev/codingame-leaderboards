@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5640,time=2021-12-01 00:47:16
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5643,time=2021-12-02 00:39:09
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -251,6 +251,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5640,time=2021-12-01 00:47:16
 100	4036	4436635	C++	Kardoken	
 100	4036	1073247	C++	_NikJ	
 100	4036	1470927	C++	ClementAvenel	
+100	4036	4592681	C++	Urutar	
 100	4041	3481298	C++	mmikhailov	
 100	4045	936661	Python3	bdvir	
 100	4052	4053362	C#	Johan_Braanen	
@@ -259,6 +260,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5640,time=2021-12-01 00:47:16
 100	4075	3766290	Javascript	xineohp	
 100	4081	518726	Haskell	nybble41	
 100	4081	2451652	Javascript	code_of_the_dead	
+100	4081	4622964	Ruby	Haradwaith	
 100	4088	607150	Java	Frisky	
 100	4094	527749	C++	Pds	
 100	4106	864308	Java	plewanda	
@@ -638,6 +640,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5640,time=2021-12-01 00:47:16
 100	5659	759912	Javascript	felipeptcho	
 100	5659	2792232	Python3	Monoterpene	
 100	5660	3414863	Javascript	smsalisbury	
+100	5661	3625469	Python3	Crimson_King	
 100	5664	1488054	C++	vsakraf	
 100	5666	4194276	C#	Codonkey	
 100	5668	1501735	Python3	bernardlavilliers	
@@ -996,6 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5640,time=2021-12-01 00:47:16
 100	5885	2585631	C++	Tkachenko	
 100	5885	1029663	C	Skreamly	
 100	5885	3715831	Java	UQ-LELE	
-100	5885	1893989	Python3	Rosstherock	
-100	5885	4030696	TypeScript	msfe	
-100	5885	2878528	Python3	jankollar	
