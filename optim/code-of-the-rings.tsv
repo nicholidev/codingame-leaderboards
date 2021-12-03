@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5643,time=2021-12-02 00:39:09
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5644,time=2021-12-03 00:36:08
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -252,6 +252,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5643,time=2021-12-02 00:39:09
 100	4036	1073247	C++	_NikJ	
 100	4036	1470927	C++	ClementAvenel	
 100	4036	4592681	C++	Urutar	
+100	4036	4576463	C++	Didelabedeli	
 100	4041	3481298	C++	mmikhailov	
 100	4045	936661	Python3	bdvir	
 100	4052	4053362	C#	Johan_Braanen	
@@ -504,6 +505,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5643,time=2021-12-02 00:39:09
 100	5230	1767134	Java	AntonYuriev	
 100	5237	153678	Go	dknn	
 100	5237	389473	Rust	BigBart	
+100	5248	2217572	Python3	Ben9	
 100	5252	1642932	C++	Durkin	
 100	5261	828213	Go	anst	
 100	5269	1449433	C++	Rolf	
@@ -836,7 +838,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5643,time=2021-12-02 00:39:09
 100	5859	900129	C++	Julien_E	
 100	5859	1861852	Javascript	Cramer	
 100	5860	802343	Java	Etheriel	
-100	5860	933394	Java	maven8919	
+100	5860	933394	Java	The_Muffin_Man	
 100	5860	283206	C#	tom103	
 100	5860	956638	Python3	Pi-Geometry	
 100	5860	323228	Haskell	dbihbka	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5643,time=2021-12-02 00:39:09
 100	5885	2141506	Python3	Jamesscn	
 100	5885	3490454	Python3	PAug	
 100	5885	2585631	C++	Tkachenko	
-100	5885	1029663	C	Skreamly	
-100	5885	3715831	Java	UQ-LELE	
