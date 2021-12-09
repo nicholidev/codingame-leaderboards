@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=11739,time=2021-12-08 00:35:32
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=11751,time=2021-12-09 01:22:39
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -138,9 +138,9 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11739,time=2021-12-08 00:35:32
 100	253890	1883740	C++	kermo	
 100	253340	1314316	C++	jolindien	
 100	253110	1129777	C++	Velvacaine	
+100	251430	893541	Java	wala	
 100	250670	1779483	C#	h.otto	
 100	250660	2500089	C++	Fantomat75	
-100	250540	893541	Java	wala	
 100	250400	4603455	C	Codyz	
 100	250340	1186250	C#	Gabbek	
 100	250300	4251195	C	Smelty	
@@ -191,7 +191,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11739,time=2021-12-08 00:35:32
 100	228940	3965226	C		
 100	228460	2202751	C++	MacedoH	
 100	227780	273876	C#	SirSushi	
-100	227620	3622757	C	anid	
 100	227210	4328352	C++	Esael	
 100	226740	1344487	Java	UnnamedCodinGamer	
 100	226320	3844625	C++	surgutti	
@@ -382,6 +381,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11739,time=2021-12-08 00:35:32
 100	174530	3686471	Python3	Eltech	
 100	173880	1164242	Java	Andry_	
 100	173740	1488793	Python3	kerloic	
+100	173590	2661980	C++	Leos	
 100	173290	826914	C++	Kyrus	
 100	173170	1693210	Python3	Fractal	
 100	172480	1205152	C#	cfoll	
@@ -741,7 +741,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11739,time=2021-12-08 00:35:32
 100	69850	1001096	C#	MyIIone	
 100	69780	3002969	Rust	Porsuk	
 100	69730	1368122	Go	galthaus	
-100	69590	2661980	C++	Leos	
 100	68980	2212341	C++	Atul007	
 100	68800	1353669	Python3	XAnimaX	
 100	68680	225984	PHP	GJohn	
@@ -999,3 +998,4 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11739,time=2021-12-08 00:35:32
 100	64260	4422682	Python3	antomoe	
 100	64260	3667576	C++	Scondi	
 100	64260	4402812	C++	NicolasAlmerge	
+100	64260	3143948	C++	Divinement_Astucieux	

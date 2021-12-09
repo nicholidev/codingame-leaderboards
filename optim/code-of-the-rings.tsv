@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5653,time=2021-12-08 00:35:31
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5652,time=2021-12-09 01:22:38
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -41,7 +41,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5653,time=2021-12-08 00:35:31
 100	3370	1068877	C#	[CPC]Tamno	
 100	3370	371603	C++	martin	
 100	3378	1425201	C#	JamesPun	
-100	3378	3622757	C#	anid	
 100	3385	3210529	Pascal	EddyZ	
 100	3387	4095128	PHP	Voltmachine	
 100	3392	1620803	Perl	Lyapunov	
@@ -999,3 +998,4 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5653,time=2021-12-08 00:35:31
 100	5885	3882165	PHP	FredCirius	
 100	5885	2141506	Python3	Jamesscn	
 100	5885	3490454	Python3	PAug	
+100	5885	2585631	C++	Tkachenko	
