@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=4773,time=2021-12-09 01:22:38
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=4777,time=2021-12-10 00:47:22
 100	2509	1327028	C++	FredericBautista	
 100	2507	154372	Bash	Plopx	
 100	2504	1249786	C#	Fededevi	
@@ -186,6 +186,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4773,time=2021-12-09 01:22:38
 100	2289	3739507	Python3	Konzil	
 100	2286	3533119	C++	wlesavo	
 100	2285	2316796	Java	Psio	
+100	2285	4640032	Java	mkomar	
 100	2284	848989	Java	revever	
 100	2284	3478926	C	Alexis.D	
 100	2284	2536589	Java	mjfcolas	
@@ -194,6 +195,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4773,time=2021-12-09 01:22:38
 100	2281	1312473	Python3	StealthEye	
 100	2280	3744758	C++	Mateuszrze	
 100	2279	2371389	C#	Franta	
+100	2279	4624520	Java	octos	
 100	2277	1420269	Python3	Vischtor	
 100	2276	3760551	Scala	stivens	
 100	2274	1432947	Python3	empathy87	
@@ -211,7 +213,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4773,time=2021-12-09 01:22:38
 100	2265	1606614	C#	Wazaa	
 100	2265	4051110	C++	nan0S___	
 100	2264	4072753	C++	mdstoy	
-100	2264	4624520	Java	octos	
 100	2262	2003902	C	mploux	
 100	2261	1728288	Python3	MOLP	
 100	2260	631323	Python3	herve056	
@@ -236,7 +237,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4773,time=2021-12-09 01:22:38
 100	2239	3408953	C++	CFDboy	
 100	2238	1386456	Java	wvsever	
 100	2238	925695	OCaml	Boulet	
-100	2238	4640032	Java	mkomar	
 100	2237	989912	C++	Arctik3-14	
 100	2237	813150	C++	cgrave	
 100	2237	1698954	Java	Neurovul	
@@ -391,6 +391,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4773,time=2021-12-09 01:22:38
 100	2097	1612475	C#	superhoang	
 100	2095	950545	C#	Cobru	
 100	2095	1375394	Javascript	geekk	
+100	2095	4622964	Python3	Haradwaith	
 100	2094	219157	C++	BelaidKhaled	
 100	2094	2050195	C	eklore	
 100	2090	4589991	Python3	asioud	
@@ -683,7 +684,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4773,time=2021-12-09 01:22:38
 100	1960	1642878	Java	aclarke822	
 100	1960	3488598	C++	KSlawinski	
 100	1960	4464852	Python3	Vykthor	
-100	1960	4622964	Python3	Haradwaith	
 100	1959	3308199	Java	ChadThundercode	
 100	1958	525864	C++	ATwice	
 100	1957	1363760	Javascript	Frostizzz	
@@ -944,6 +944,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4773,time=2021-12-09 01:22:38
 100	1848	3283415	Python3	Bon[]Crayon	
 100	1847	886702	Java	Vorgritche	
 100	1847	3912106	C++	Triskell95	
+100	1847	4594770	Python3	picoplankton	
 100	1846	4133433	C#	JRoukas	
 100	1845	1106476	Ruby	DrDaemos	
 100	1845	1477622	C#	zrdon	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4773,time=2021-12-09 01:22:38
 100	1829	3919237	C#	Quick_Kick	
 100	1828	981974	Java	Fanky	
 100	1828	2328351	Python3	DominicCrutchley	
-100	1828	2215663	Java	Hulios	

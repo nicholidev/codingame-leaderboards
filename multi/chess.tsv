@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=142,time=2021-12-09 01:22:32
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=143,time=2021-12-10 00:47:11
 1	41.44	1673512	3535213	C++	Ryoken	
 1	39.69	2924895	3399667	C	trictrac	
 1	37.35	2363657	3785554	C++	Ztrk	
@@ -47,10 +47,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=142,time=2021-12-09 01:22:3
 0	15.91	4145261	3571950	Java	MR.AEON	
 0	15.88	3737269	3395428	Python3	htprogras	
 0	15.88	1336464	3445756	C++	magaiti	
+0	15.88	4237392	3515470	PHP	haykuro	
 0	15.88	4251195	3509951	Java	Smelty	
 0	15.87	1412263	3405274	PHP	PatrickMcGinnisII	
 0	15.86	1520734	3517051	Javascript	BarlesBarles	
-0	15.86	4237392	3515470	PHP	haykuro	
 0	15.84	4281792	3776876	C++	YorkParodie	
 0	15.84	2069141	3447990	C#	tomeko	
 0	15.84	397891	3514792	Go	Blindiak	
@@ -60,11 +60,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=142,time=2021-12-09 01:22:3
 0	15.79	2517057	3525527	C++	Edds	
 0	15.77	1971865	3459467	Python3	Nanosplitter	
 0	15.76	4289609	3516797	Python3	Narolph	
+0	15.76	1013649	3718040	C++	Nodren	
 0	15.76	4275953	3512622	C++	fff1015	
 0	15.75	1800997	3743511	Python3	Nagato_Uzumaki	
 0	15.75	4233955	3515934	C#	Hujing	
 0	15.74	3857811	3879223	Python3	KidsTech50000	
-0	15.74	1013649	3718040	C++	Nodren	
 0	15.74	4105514	3405727	Python3	FeiChong	
 0	15.73	4263279	3516372	PHP	Arbie	
 0	15.72	3721214	3395359	C++	jrke	
@@ -78,7 +78,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=142,time=2021-12-09 01:22:3
 0	15.68	1609946	3803266	Python3	PeopleOfPlay	
 0	15.68	4002604	3516577	C	Phurapper	
 0	15.67	1861852	3441566	Javascript	Cramer	
+0	15.67	4526164	3840756	Python3	Hyukz	
 0	15.66	2371784	3530790	Java	JM_06	
+0	15.66	3314492	3513561	Python3	__Caveman__	
 0	15.65	862819	3664147	C#	Umbakrail	
 0	15.63	4291129	3680004	Java	BorisGrushenko	
 0	15.62	889789	3510207	C	Alain-Delpuch	
@@ -86,10 +88,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=142,time=2021-12-09 01:22:3
 0	15.62	2566623	3682346	C++	VincentBab	
 0	15.62	4280786	3525715	C++	chocoK	
 0	15.61	232528	3695473	C	cegprakash	
-0	15.61	3314492	3513561	Python3	__Caveman__	
 0	15.61	4344120	3747928	Python3	thunfischtoast	
 0	15.6	3984673	3397237	Python3	Rodrigo_the_coder	
-0	15.6	4526164	3840756	Python3	Hyukz	
 0	15.59	4153954	3508750	Python3	RichardTheDou	
 0	15.58	3961307	3512404	Javascript	ShortBite	
 0	15.58	2852592	3511978	C++	OHER	
@@ -113,8 +113,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=142,time=2021-12-09 01:22:3
 0	15.23	4172184	3751644	Python3	5nr	
 0	15.2	4263290	3508512	Python3	HoneyCombo	
 0	15.2	2334524	3486891	Lua	djsapsan	
+0	15.19	4493640	3832019	Python3	jczh90	
 0	15.17	3737271	3913732	C#	berlioz	
-0	15.16	4493640	3832019	Python3	jczh90	
 0	15.14	4027469	3511980	Javascript	Sharki	
 0	15.14	4248615	3475383	C	Gbrouwer	
 0	14.98	2902168	3908075	Python3	Fabrice-j	
@@ -127,17 +127,18 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=142,time=2021-12-09 01:22:3
 0	14.57	3657275	3513361	Python3	jujurocking	
 0	14.31	1436776	3711940	C++	BrainSolver	
 0	14.04	4379435	3719011	Javascript	Naourass	
-0	14	3781816	3563663	C#	saw7	
+0	14.01	3781816	3563663	C#	saw7	
 0	13.34	2613979	3510050	C#	Akhaten	
-0	13.04	1610862	3519807	Go	JoseSantosL	
-0	12.21	1449903	3844362	Python3	AKIBA	
-0	11.6	4274025	3514059	Python3	joniebear	
-0	9.75	4621421	3917999	Go	Fourgate	
-0	7.65	3644101	3881660	Python3	riioze	
-0	6.1	4286452	3513684	Python3	RockyHB	
-0	4.63	1109021	3530894	C++	Toefski	
-0	4.26	4170716	3513363	Python3	TimothyTinTzeSo	
-0	2.32	1367088	3805552	C#	magus2	
-0	1.67	4192832	3801820	Python3	HV_05	
-0	-5.44	4100445	3514434	Python3	MathiasBennick	
-0	-7.34	4254731	3886872	Go	Bisexual-Gurl	
+0	13.09	1610862	3519807	Go	JoseSantosL	
+0	12.29	1449903	3844362	Python3	AKIBA	
+0	11.65	4274025	3514059	Python3	joniebear	
+0	10	4621421	3917999	Go	Fourgate	
+0	7.32	3644101	3881660	Python3	riioze	
+0	6.11	4286452	3513684	Python3	RockyHB	
+0	4.42	1109021	3530894	C++	Toefski	
+0	4.3	4170716	3513363	Python3	TimothyTinTzeSo	
+0	2.92	4644967	3926948	Python3	CodyAce	
+0	2.55	1367088	3805552	C#	magus2	
+0	2.03	4192832	3801820	Python3	HV_05	
+0	-5.77	4100445	3514434	Python3	MathiasBennick	
+0	-7.5	4254731	3886872	Go	Bisexual-Gurl	

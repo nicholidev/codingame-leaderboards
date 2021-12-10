@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=11751,time=2021-12-09 01:22:39
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=11760,time=2021-12-10 00:47:22
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -141,7 +141,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11751,time=2021-12-09 01:22:39
 100	251430	893541	Java	wala	
 100	250670	1779483	C#	h.otto	
 100	250660	2500089	C++	Fantomat75	
-100	250400	4603455	C	Codyz	
 100	250340	1186250	C#	Gabbek	
 100	250300	4251195	C	Smelty	
 100	249510	2178660	Javascript	monkeyD.Luffy	
@@ -232,6 +231,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11751,time=2021-12-09 01:22:39
 100	216490	1081827	Python3	MathisHammel	
 100	216200	4018953	C	zTTK	
 100	216140	4191122	C	ManonCodd	
+100	215440	4644967	C	CodyAce	
 100	215360	2515515	C	Bobliu	
 100	215230	3966600	C	leaghe	
 100	215220	1753077	C++	codingWhale	
@@ -499,6 +499,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11751,time=2021-12-09 01:22:39
 100	134750	1173260	Rust	Erasmus	
 100	134650	775897	C++	gchebanov	
 100	134280	2942948	C++	Tchouche	
+100	134240	3959384	Java	DamienCarreau	
 100	133060	3413813	Javascript	Hvosten	
 100	132420	1128769	Rust	Dwakus	
 100	131710	648751	Haskell	dabino	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11751,time=2021-12-09 01:22:39
 100	64260	4422682	Python3	antomoe	
 100	64260	3667576	C++	Scondi	
 100	64260	4402812	C++	NicolasAlmerge	
-100	64260	3143948	C++	Divinement_Astucieux	
