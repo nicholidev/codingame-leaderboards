@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=4776,time=2021-12-11 01:05:44
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=4779,time=2021-12-12 00:42:02
 100	2509	1327028	C++	FredericBautista	
 100	2507	154372	Bash	Plopx	
 100	2504	1249786	C#	Fededevi	
@@ -267,6 +267,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4776,time=2021-12-11 01:05:44
 100	2211	1188212	C++	superredlark	
 100	2211	1147989	C++	kerek	
 100	2210	2165183	C	craig_macmuffin	
+100	2210	4595779	Haskell	wmarkham	
 100	2209	1347608	Javascript	Darkoneko	
 100	2207	4159245	Lua	Karhuttaja	
 100	2207	3390309	C++	VincentBaijot	
@@ -284,12 +285,12 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4776,time=2021-12-11 01:05:44
 100	2195	1287344	C++	Alshock	
 100	2195	1765278	Scala	SuperMiron	
 100	2193	1030259	C#	salext	
+100	2193	1781541	Python3	Schwase	
 100	2192	1487392	Java	Razielwar	
 100	2191	1572888	Python3	DirtyHarry	
 100	2191	2969181	C++	maras	
 100	2190	4050016	Ruby	CharlesSenemaud	
 100	2189	1853425	C++	Peter_Scorgie	
-100	2188	4595779	Haskell	wmarkham	
 100	2185	893541	Java	wala	
 100	2185	829018	C++	alchemsti	
 100	2182	3917341	D	Putnam3145	
@@ -394,6 +395,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4776,time=2021-12-11 01:05:44
 100	2095	4622964	Python3	Haradwaith	
 100	2094	219157	C++	BelaidKhaled	
 100	2094	2050195	C	eklore	
+100	2092	2661980	C++	Leos	
 100	2090	4589991	Python3	asioud	
 100	2089	939543	C#	[Peter]	
 100	2089	1843142	C++	MichaelSavaglia	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4776,time=2021-12-11 01:05:44
 100	1829	1046150	Java	DavidLu	
 100	1829	958036	Python3	BkBest	
 100	1829	3919237	C#	Quick_Kick	
-100	1828	981974	Java	Fanky	
-100	1828	2328351	Python3	DominicCrutchley	

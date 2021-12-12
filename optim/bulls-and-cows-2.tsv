@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=288,time=2021-12-11 01:05:46
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=289,time=2021-12-12 00:42:04
 100	291	2288263	Rust	dbdr	
 100	294	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -30,6 +30,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=288,time=2021-12-11 01:05:46
 100	320	3741524	C	princess_of_zeal	
 100	320	155774	C++	dwarfie	
 100	321	3839774	Rust	gurvan_lullien	
+100	321	893541	Java	wala	
 100	322	1883740	C++	kermo	
 100	322	2350415	C++	Vintarel	
 100	323	1854246	C++	Counterbalance	
@@ -62,7 +63,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=288,time=2021-12-11 01:05:46
 100	472	1781541	Python3	Schwase	
 100	485	1566335	Python3	BeardedWhale	
 100	490	3095454	C++	e2e4b6b7	
-100	490	893541	Java	wala	
 100	491	4066824	Python3	Thannajo	
 100	508	792813	Python3	VilBoub	
 100	520	631323	Python3	herve056	
@@ -191,6 +191,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=288,time=2021-12-11 01:05:46
 56	6166	1886386	Javascript	h0ly	
 56	6176	2826402	Java	1Alex	
 56	7980	2708267	Python3	XyoloJR	
+54	6848	1765851	Java	abnew123	
 52	6751	828239	C#	[SG]Bisou	
 52	6753	992329	Python3	BeeGee	
 52	6757	1030709	C#	Cmdr.Shepard	
