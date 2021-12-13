@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=530,time=2021-12-12 00:42:04
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=530,time=2021-12-13 00:33:28
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -11,6 +11,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=530,time=2021-12-12 00:42:04
 100	10702.669999999998	1415495	C	fenrir	
 100	10750.69	1114834	C++	k4ng0u	
 100	10751.739999999994	1288527	C++	Snef	
+100	10751.95	2968035	Python3	DomiKo	
 100	10754.76	735487	C++	amurushkin	
 100	10785.819999999998	1838549	C++	orangesnowfox	
 100	10798.61	1566335	Java	BeardedWhale	
@@ -18,7 +19,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=530,time=2021-12-12 00:42:04
 100	10899.320000000002	154984	C++	_Royale	
 100	10919.46	2924895	C	trictrac	
 100	10935.47	735910	C++	Agade	
-100	10974.62	2968035	Python3	DomiKo	
 100	10985.34	2311105	C++	kovi	
 100	11047.379999999992	893541	Java	wala	
 100	11066.54	1106450	C++	RiSuS	
@@ -124,6 +124,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=530,time=2021-12-12 00:42:04
 100	15935.800000000005	1480426	Python3	Hikari42	
 100	16215.7	1787026	Java	xurei	
 100	16296.01	2290633	Python3	field3	
+100	16316.38	4211056	C#	Nachosauce	
 100	16322.67	862919	C++	Astrobytes	
 100	16387.28	1854246	C++	Counterbalance	
 100	16409.879999999997	2172874	Rust	Med1ane	
@@ -131,7 +132,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=530,time=2021-12-12 00:42:04
 100	16429.349999999995	2406605	Python3	docri	
 100	16459.829999999998	517890	C++	Altaire	
 100	16497.57	490588	Python3	Uljahn	
-100	16525.780000000002	4211056	C#	Nachosauce	
 100	16641.72	1767310	C++	manro	
 100	16653.729999999996	4083441	Python3	Larrxi	
 100	16670.77	808454	Javascript	.EagleDawn.	
