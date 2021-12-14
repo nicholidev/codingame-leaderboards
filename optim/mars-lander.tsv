@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=4781,time=2021-12-13 00:33:25
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=4783,time=2021-12-14 00:30:32
 100	2509	1327028	C++	FredericBautista	
 100	2507	154372	Bash	Plopx	
 100	2504	1249786	C#	Fededevi	
@@ -106,6 +106,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4781,time=2021-12-13 00:33:25
 100	2368	786597	Python3	Fabien	
 100	2368	952284	Ruby	Copro	
 100	2368	2069141	C#	tomeko	
+100	2366	893541	Java	wala	
 100	2365	1826849	C++	Geplik	
 100	2362	826372	C++	skyyker	
 100	2362	4009347	Rust	JaworWr	
@@ -124,6 +125,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4781,time=2021-12-13 00:33:25
 100	2353	3700629	Javascript	serialgg	
 100	2350	3873399	C++	Bruno_OR	
 100	2349	3903473	Python3	Konstant	
+100	2349	638784	C++	Yqnn	
 100	2347	1015215	C++	XaralamposXaris	
 100	2346	3789595	C++	jgmp	
 100	2346	3389226	C#	Peti88	
@@ -163,7 +165,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4781,time=2021-12-13 00:33:25
 100	2308	992329	C++	BeeGee	
 100	2306	1501735	Python3	bernardlavilliers	
 100	2306	1073247	Java	_NikJ	
-100	2306	638784	C++	Yqnn	
 100	2305	2651240	Java	[MPST]Donset	
 100	2303	4572223	Python3	oskar1	
 100	2301	1854731	C#	Solringen	
@@ -291,7 +292,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4781,time=2021-12-13 00:33:25
 100	2191	2969181	C++	maras	
 100	2190	4050016	Ruby	CharlesSenemaud	
 100	2189	1853425	C++	Peter_Scorgie	
-100	2185	893541	Java	wala	
 100	2185	829018	C++	alchemsti	
 100	2182	3917341	D	Putnam3145	
 100	2182	862919	C++	Astrobytes	
@@ -639,6 +639,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4781,time=2021-12-13 00:33:25
 100	1985	3435874	Python3	AlexPisnoli	
 100	1985	3545248	Kotlin	amkad	
 100	1984	2290633	Python3	field3	
+100	1984	1634607	Python3	Taraxacum	
 100	1982	1304434	Java	MP-63	
 100	1982	1600136	Python3	KrishanHarkhoe	
 100	1982	3882014	Java	MeatyZor	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4781,time=2021-12-13 00:33:25
 100	1830	1290541	Python3	JorAlias	
 100	1829	1046150	Java	DavidLu	
 100	1829	958036	Python3	BkBest	
-100	1829	3919237	C#	Quick_Kick	

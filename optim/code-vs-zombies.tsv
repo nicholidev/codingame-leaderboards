@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=11785,time=2021-12-13 00:33:26
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=11796,time=2021-12-14 00:30:33
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -45,6 +45,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11785,time=2021-12-13 00:33:26
 100	467270	888746	C++	Phate	
 100	466860	3918583	Rust	mikmak	
 100	466410	4511827	C++	priitl	
+100	465250	4504049	C	Deliambre	
 100	464000	2772292	C++	Bezukh	
 100	463050	1607522	C++	RoboStac	
 100	462150	4341304	C	Remi.	
@@ -491,6 +492,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11785,time=2021-12-13 00:33:26
 100	137980	890630	C#	Shurishe	
 100	137710	3839774	Rust	gurvan_lullien	
 100	137530	512207	Scala	Aun	
+100	137310	2557590	Kotlin	raaperrotta	
 100	137280	3760956	C++	GeekNbOne	
 100	137140	2077458	Python3	Ragi	
 100	136020	4514305	PHP	Lauri.Kase	
@@ -568,7 +570,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11785,time=2021-12-13 00:33:26
 100	106100	857521	C#	MrAnderson	
 100	105830	3033957	Python3	magic56	
 100	105520	811004	C++	tarte7	
-100	105410	2557590	Python3	raaperrotta	
 100	105210	2882669	C++		
 100	104380	841814	C++	kdridi	
 100	103450	4077794	C#	Cofporation	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11785,time=2021-12-13 00:33:26
 100	64260	3990631	Python3	Orionewton	
 100	64260	4286679	C++	fungi_star	
 100	64260	4422682	Python3	antomoe	
-100	64260	3667576	C++	Scondi	
