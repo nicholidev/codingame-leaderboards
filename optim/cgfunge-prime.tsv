@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=254,time=2021-12-14 00:30:34
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=255,time=2021-12-15 00:57:07
 100	4654	3949307	Perl	xevixevi	
 100	4743	2288263	Rust	dbdr	
 100	5613	4208158	Python3	Tiouz	
@@ -81,6 +81,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=254,time=2021-12-14 00:30:34
 100	48874	1754295	PHP	SF	
 100	49228	3457031	PHP	YurkovAS	
 100	49239	4095799	PHP	circular17	
+100	49665	1569823	PHP	Niako	
 100	50637	1050421	PHP	geppoz	
 100	51119	3489223	Javascript	KarloHubai	
 100	51370	1131250	C++	Jooo	
@@ -92,7 +93,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=254,time=2021-12-14 00:30:34
 100	54778	3298022	PHP	IKEJIME	
 100	54778	4334077	PHP	Paul_Demanze	
 100	54778	2369368	PHP	BugKiller_328	
-100	54778	3354337	C++	Westicles	
+100	54778	3354337	C++	Mrs.GloriaZindlebocker	
 100	54778	4576463	PHP	Didelabedeli	
 100	54878	4277867	Javascript	About	
 100	55498	2043908	D	AntiSquid	
@@ -117,7 +118,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=254,time=2021-12-14 00:30:34
 100	67264	3075636	Dart	Dr-D	
 100	67728	2802859	Ruby	tdeo	
 100	68658	1932260	Python3	Maxime09	
-100	69250	1569823	PHP	Niako	
 100	69400	2341447	Python3	algmyr	
 100	69488	2290633	PHP	field3	
 100	71100	1607251	PHP	baboulaf	
@@ -144,6 +144,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=254,time=2021-12-14 00:30:34
 100	88672	3847976	PHP	[SG]Mob-Programming	
 100	90161	953094	PHP	Witman	
 100	93189	4319426	Python3	Schnegge	
+100	95106	4595779	Haskell	wmarkham	
 100	96431	1429360	C++	comp0zr	
 100	101440	894599	Python3	DidierC	
 100	102827	4454468	Python3	KNTK	
