@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1467,time=2021-12-16 00:30:13
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1466,time=2021-12-17 00:30:13
 6	30.61	2577687	2058383	C++	blasterpoard	
 6	30.15	735910	2058382	C++	Agade	
 6	29.33	1500515	2058386	C#	eulerscheZahl	
@@ -47,7 +47,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1467,time=2021-12-16 00:30:
 6	14.53	1741196	2058525	C++	Valdemar	
 6	3.17	1664044	2094876	C#	BUG	
 6	3.17	2073179	2058380	C#	Biwere	
-6	3.15	2006324	2058384	C#	SihardeOussama	
+6	3.15	2006324	2058384	C#	[Cheater]SihardeOussama	
 5	29.21	1632368	3318060	C++	olphe	
 5	28.78	2351282	2052053	C++	TrebledJ	
 5	28.48	335954	2058921	Java	nmahoude	
@@ -377,7 +377,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1467,time=2021-12-16 00:30:
 4	16.48	3808031	3026263	F#	_proton	
 4	16.41	2928146	2489241	PHP	LolCat	
 4	16.4	4596822	3912800	C++	Zwii	
-4	16.33	1354295	3000448	F#	AbdullahKhawer	
 4	16.32	1525831	1957408	Python3	ntsd	
 4	16.27	1449433	2097273	C++	Rolf	
 4	16.18	1893871	3100237	Python3	RedCosti	
@@ -999,3 +998,4 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1467,time=2021-12-16 00:30:
 2	2.68	3538566	3096464	C#	aguillaume	
 2	1.19	3816816	3527586	Python3	NyxHemera	
 2	1.03	3932542	3069156	VB.NET	pewpewpew	
+2	0	1783652	1952200	Haskell	kephas	
