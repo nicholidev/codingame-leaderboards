@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=293,time=2021-12-17 00:45:20
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=293,time=2021-12-18 01:07:30
 100	291	2288263	Rust	dbdr	
 100	294	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -17,6 +17,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=293,time=2021-12-17 00:45:20
 100	311	524638	C++	miklla	
 100	311	1336464	C++	magaiti	
 100	311	3235897	Java	Zylo	
+100	311	893541	Java	wala	
 100	312	1243354	C++	RSBat	
 100	313	2500089	C++	Fantomat75	
 100	314	820000	C++	ValGrowth	
@@ -30,7 +31,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=293,time=2021-12-17 00:45:20
 100	320	3741524	C	princess_of_zeal	
 100	320	155774	C++	dwarfie	
 100	321	3839774	Rust	gurvan_lullien	
-100	321	893541	Java	wala	
 100	322	1883740	C++	kermo	
 100	322	2350415	C++	Vintarel	
 100	323	1854246	C++	Counterbalance	
@@ -245,6 +245,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=293,time=2021-12-17 00:45:20
 21	11029	4275035	Java	TsuNaMy4513	
 21	11234	1713174	Python3	BigUP	
 21	11250	4153433	Java	Deytrino	
+21	12145	4396180	C++	Manusse	
 19	11634	3536382	Python3	FranckR34	
 19	11891	3808031	Ruby	_proton	
 19	11932	3494301	Python3	CoreyCV	
@@ -253,7 +254,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=293,time=2021-12-17 00:45:20
 19	12162	4261456	Python3	zachmae	
 17	3992	3501209	Python3	Whatar	
 17	11483	2508635	Javascript	hemhel	
-17	11817	4396180	C++	Manusse	
 17	11925	881037	Java	Amadeuszx	
 17	12067	4253866	Ruby	solebull	
 17	12230	4356381	Python3	NucleicAcid	
