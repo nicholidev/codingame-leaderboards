@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=11841,time=2021-12-18 01:07:29
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=11886,time=2021-12-19 01:13:31
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -173,7 +173,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11841,time=2021-12-18 01:07:29
 100	237350	4040124	C	Bycop	
 100	236860	1186292	Rust	GLE	
 100	236160	860404	C++	Vitruvius	
-100	235020	2006324	C	[Cheater]SihardeOussama	
+100	235020	2006324	C	Djangonaut	
 100	234820	976712	C++	Ridakz	
 100	234560	1831684	Java	dbf	
 100	234480	1206537	C++	MadKnight	
@@ -218,6 +218,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11841,time=2021-12-18 01:07:29
 100	220060	336685	C	JulienBe	
 100	219970	3990938	C	T01	
 100	219810	3721214	C	jrke	
+100	219740	4658972	C		
 100	219310	992329	C++	BeeGee	
 100	219170	1734105	C++	Bibou	
 100	218940	4334077	C	Paul_Demanze	
@@ -861,6 +862,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11841,time=2021-12-18 01:07:29
 100	64310	4152522	Java	wilkyo	
 100	64270	1642907	Python3	gleberof	
 100	64270	3317435	Python3	Tisiol	
+100	64270	4659080	C++		
+100	64270	4659025	C++	TEAM03	
 100	64260	935802	Java	Jerhyn	
 100	64260	1469819	Javascript	Allsecond	
 100	64260	481564	VB.NET	mihei	
@@ -996,6 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11841,time=2021-12-18 01:07:29
 100	64260	3049838	C++	pmor	
 100	64260	4382548	C++	SuryaTheOP	
 100	64260	3990631	Python3	Orionewton	
-100	64260	4286679	C++	fungi_star	
-100	64260	4422682	Python3	antomoe	
-100	64260	3667576	C++	Scondi	
