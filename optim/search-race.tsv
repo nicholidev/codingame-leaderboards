@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=531,time=2021-12-19 01:13:32
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=531,time=2021-12-20 01:03:43
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -81,6 +81,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=531,time=2021-12-19 01:13:32
 100	12540.469999999998	4257906	C++	NotSureWhyThisWorks	
 100	12604.09	1169499	C++	naab	
 100	12633	1753072	C++	MrOne	
+100	12736.61	2473192	Python3	game-ai-course	
 100	12764.8	1418821	C++	input.txt	
 100	12820.049999999996	3589590	Python3	Edjy	
 100	12821.759999999997	3533314	C#	skotz	
@@ -136,7 +137,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=531,time=2021-12-19 01:13:32
 100	16641.72	1767310	C++	manro	
 100	16653.729999999996	4083441	Python3	Larrxi	
 100	16670.77	808454	Javascript	.EagleDawn.	
-100	16709.54	2473192	Python3	game-ai-course	
 100	16742.439999999995	389632	Python3	ma	
 100	16769.039999999997	3187336	TypeScript	C6PO	
 100	16802.75	331880	Javascript	Monstruo	
