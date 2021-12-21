@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=11895,time=2021-12-20 01:03:41
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=11907,time=2021-12-21 00:30:25
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -390,6 +390,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11895,time=2021-12-20 01:03:41
 100	172430	1533780	C++	ordyh	
 100	172420	292106	C++	durmus	
 100	172370	2115491	Go	Haashi	
+100	172090	3959384	Java	DamienCarreau	
 100	172060	4055973	Java	Aeschli	
 100	171870	1258533	Rust	MathJason	
 100	171820	957176	F#	MWilliam	
@@ -502,7 +503,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=11895,time=2021-12-20 01:03:41
 100	134750	1173260	Rust	Erasmus	
 100	134650	775897	C++	gchebanov	
 100	134280	2942948	C++	Tchouche	
-100	134240	3959384	Java	DamienCarreau	
 100	133060	3413813	Javascript	Hvosten	
 100	132420	1128769	Rust	Dwakus	
 100	131710	648751	Haskell	dabino	
