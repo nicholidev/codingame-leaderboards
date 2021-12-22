@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=531,time=2021-12-21 00:30:27
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=530,time=2021-12-22 00:39:09
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -529,4 +529,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=531,time=2021-12-21 00:30:27
 0	50000	3779295	Python3	xxd	
 0	50000	4184379	Python3	romain.wg	
 0	50000	1844452	C#	Rodrigue19	
-0	50000	4612235	Python3	DialFrost	
