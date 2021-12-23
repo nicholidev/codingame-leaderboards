@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=4811,time=2021-12-22 00:39:06
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=4817,time=2021-12-23 00:33:34
 100	2509	1327028	C++	FredericBautista	
 100	2507	154372	Bash	Plopx	
 100	2504	1249786	C#	Fededevi	
@@ -34,6 +34,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4811,time=2021-12-22 00:39:06
 100	2458	893541	Java	wala	
 100	2457	277758	Java	Duffy	
 100	2454	1436776	C++	BrainSolver	
+100	2454	3903473	Python3	Konstant	
 100	2453	4413827	Go	bowaka	
 100	2452	1001096	C#	MyIIone	
 100	2452	351062	Java	Neumann	
@@ -45,7 +46,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4811,time=2021-12-22 00:39:06
 100	2440	1566335	Java	BeardedWhale	
 100	2440	2315158	Java	luigi_gelato	
 100	2440	4287206	Java	NicolasDesn	
-100	2440	3903473	Python3	Konstant	
 100	2438	1500515	C#	eulerscheZahl	
 100	2436	1050420	Python3	boi_led_egg	
 100	2435	3235897	Java	Zylo	
@@ -172,6 +172,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4811,time=2021-12-22 00:39:06
 100	2301	860404	C++	Vitruvius	
 100	2300	3465277	Python3		
 100	2300	1481384	C++	Ethaniael	
+100	2300	4536057	C++	JuliusSakata	
 100	2298	4354663	Rust	MedicatedMandelbrot	
 100	2297	1100752	C++	ValNykol	
 100	2297	1452327	Rust	solmir	
@@ -536,6 +537,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4811,time=2021-12-22 00:39:06
 100	2005	4505262	Python3	Takamatsu	
 100	2002	457232	C#	_Sickonce	
 100	2002	1705176	Python3	Jabba_Hatt	
+100	2002	4134943	Java	vinc-r	
 100	2001	4438822	Python3	ludodul	
 100	2001	3744084	Python3	racaillou	
 100	2001	4163606	Java	Juli1G	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4811,time=2021-12-22 00:39:06
 100	1832	4512488	C++	csKingBabar	
 100	1831	1696998	Python3	schmy	
 100	1831	4046903	C#	Matt_Eagle	
-100	1831	4283515	PHP	FrancoisBaveye	
-100	1830	1137571	C#	APPA_Programming	
