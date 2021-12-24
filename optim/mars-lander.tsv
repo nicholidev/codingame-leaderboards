@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=4817,time=2021-12-23 00:33:34
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=4821,time=2021-12-24 00:48:48
 100	2509	1327028	C++	FredericBautista	
 100	2507	154372	Bash	Plopx	
 100	2504	1249786	C#	Fededevi	
@@ -29,12 +29,12 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4817,time=2021-12-23 00:33:34
 100	2464	2976356	C++	magmasa	
 100	2462	1307473	C++	Evgenykz	
 100	2462	1194069	Java	Redstrike	
+100	2462	893541	Java	wala	
+100	2461	3903473	Python3	Konstant	
 100	2460	2012297	C++	Maksim1744	
 100	2459	735910	C++	Agade	
-100	2458	893541	Java	wala	
 100	2457	277758	Java	Duffy	
 100	2454	1436776	C++	BrainSolver	
-100	2454	3903473	Python3	Konstant	
 100	2453	4413827	Go	bowaka	
 100	2452	1001096	C#	MyIIone	
 100	2452	351062	Java	Neumann	
@@ -73,6 +73,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4817,time=2021-12-23 00:33:34
 100	2401	1333869	Python3	kiwijam	
 100	2400	1498163	Java	Ben-oit	
 100	2400	3533314	C#	skotz	
+100	2400	4536057	C++	JuliusSakata	
 100	2399	3839774	Rust	gurvan_lullien	
 100	2398	1336464	C++	magaiti	
 100	2398	3647844	Python3	rc95401	
@@ -172,7 +173,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4817,time=2021-12-23 00:33:34
 100	2301	860404	C++	Vitruvius	
 100	2300	3465277	Python3		
 100	2300	1481384	C++	Ethaniael	
-100	2300	4536057	C++	JuliusSakata	
 100	2298	4354663	Rust	MedicatedMandelbrot	
 100	2297	1100752	C++	ValNykol	
 100	2297	1452327	Rust	solmir	
@@ -662,7 +662,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4817,time=2021-12-23 00:33:34
 100	1973	1522923	Python3	Tear	
 100	1973	1894859	C++	Vidra	
 100	1973	4036826	Javascript	Feust	
-100	1973	4612315	Python3	Gerritvw2	
+100	1973	4612315	Python3	Gerritvw	
 100	1972	154961	C#	[CPC]Foudge	
 100	1972	1910916	C#	VivienBillot	
 100	1972	4301050	C#	SamTheSomebody	
@@ -895,6 +895,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4817,time=2021-12-23 00:33:34
 100	1874	4589257	Python3	Anger1st	
 100	1874	4508271	Python3	Thorcode	
 100	1874	4568069	Python3	Perithia	
+100	1874	4663659	Python3	DialFrost	
 100	1872	887320	C++	Afek	
 100	1872	1291145	C	Hich	
 100	1871	971177	Java	davidlepilote	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4817,time=2021-12-23 00:33:34
 100	1832	1186250	Python3	Gabbek	
 100	1832	4512488	C++	csKingBabar	
 100	1831	1696998	Python3	schmy	
-100	1831	4046903	C#	Matt_Eagle	
