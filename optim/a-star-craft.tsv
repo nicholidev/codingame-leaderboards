@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1127,time=2021-12-24 00:48:49
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1127,time=2021-12-25 00:57:53
 100	11920	2077805	C++	bamilan	
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
@@ -107,6 +107,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1127,time=2021-12-24 00:48:49
 100	8511	1480426	C++	Hikari42	
 100	8464	2350415	C++	Vintarel	
 100	8456	2321957	C	Xenoid	
+100	8452	1086050	Rust	aandrukhovich	
 100	8443	888898	C++	helgui	
 100	8442	512097	C++	Stilgart	
 100	8431	4596822	C++	Zwii	
@@ -298,7 +299,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1127,time=2021-12-24 00:48:49
 100	3957	857521	C#	MrAnderson	
 100	3929	3076371	C++	Krakota	
 100	3925	3503501	C++	Dagnarus	
-100	3915	1086050	Python3	aandrukhovich	
 100	3882	1824376	Java	Kodle	
 100	3869	3792309	C++	schachmatt	
 100	3848	1470927	Javascript	ClementAvenel	
