@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5691,time=2021-12-26 00:35:11
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5694,time=2021-12-27 02:27:35
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -534,8 +534,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5691,time=2021-12-26 00:35:11
 100	5363	4095799	Pascal	circular17	
 100	5365	899864	PHP	therainycat	
 100	5367	4526264	Python3	cly	
+100	5371	3319855	C#	Drobor	
 100	5382	4193469	Rust	yannick-t	
-100	5388	3319855	C#	Drobor	
 100	5390	593523	C++	supermassive	
 100	5400	1961440	C++	simon_v	
 100	5404	927873	C	Charlot67	
@@ -624,6 +624,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5691,time=2021-12-26 00:35:11
 100	5619	829018	C++	alchemsti	
 100	5621	1481544	C++	ZarthaxX	
 100	5624	1498163	Java	Ben-oit	
+100	5624	1443075	C++	Wolfy82	
 100	5625	3840675	C#	FeedThisDev	
 100	5626	4373790	Python3	Eltrion	
 100	5627	1192837	Scala	davidB	
@@ -635,7 +636,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5691,time=2021-12-26 00:35:11
 100	5637	155881	PHP	Hevey	
 100	5638	3478926	C	Alexis.D	
 100	5639	2055756	C#	BiBiPunK	
-100	5640	1443075	C++	Wolfy82	
 100	5647	4480332	Java	L.J.Ok	
 100	5648	1504684	Javascript	entrpy	
 100	5648	1627246	Javascript	katutaistelija	
