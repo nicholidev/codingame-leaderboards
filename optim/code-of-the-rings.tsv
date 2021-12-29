@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5698,time=2021-12-28 01:36:37
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5701,time=2021-12-29 00:30:24
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -523,6 +523,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5698,time=2021-12-28 01:36:37
 100	5304	1567943	C++	LazyMammal	
 100	5304	4615176	C++	guperman	
 100	5305	1172385	C#	LuckyMe	
+100	5317	3319855	C#	Drobor	
 100	5319	4039528	Python3	Elnaril	
 100	5320	3480275	Python3	gbg727	
 100	5331	359096	Java	Skyloro	
@@ -536,7 +537,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5698,time=2021-12-28 01:36:37
 100	5363	4095799	Pascal	circular17	
 100	5365	899864	PHP	therainycat	
 100	5367	4526264	Python3	cly	
-100	5371	3319855	C#	Drobor	
 100	5382	4193469	Rust	yannick-t	
 100	5390	593523	C++	supermassive	
 100	5400	1961440	C++	simon_v	
