@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=55,time=2021-12-30 00:43:12
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=56,time=2021-12-31 00:38:39
 3	31.79	1186250	3379823	C#	Gabbek	
 3	30.17	1436776	3664352	C++	BrainSolver	
 3	29.38	2288263	2696905	Rust	dbdr	
@@ -42,15 +42,16 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=55,time=2021-12-30 00:43:12
 1	13.11	3563934	3847031	C#	ChuckTheNinja	
 1	11.6	2360927	3817206	Javascript	schuitj	
 1	11.04	1412263	3073118	PHP	PatrickMcGinnisII	
-0	15.37	2631176	3810326	PHP	Sedera	
-0	7.26	1854639	2995988	C#	iDxMeG	
-0	7.26	3354337	3450264	C++	Mrs.GloriaZindlebocker	
-0	7.25	1038359	3378552	Python3	Ronnie147	
-0	7.25	1713174	2683174	Python3	BigUP	
-0	7.25	3464590	3012280	C	abbecool	
-0	7.25	484004	3516700	Python3	aCat	
-0	7.25	523846	2828228	C#	Palmipedus	
-0	7.24	3808031	3116670	Ruby	_proton	
-0	7.24	3386139	3027710	Python3	MaliciouslyCrypticUsername	
-0	7.24	2325449	2985364	Perl	otpv	
-0	7.23	1341520	3002283	Java	egaetan	
+0	15.38	2631176	3810326	PHP	Sedera	
+0	7.45	3808031	3116670	Ruby	_proton	
+0	7.45	1854639	2995988	C#	iDxMeG	
+0	7.4	3386139	3027710	Python3	MaliciouslyCrypticUsername	
+0	7.39	4626700	3955748	PHP	JohnyDarecek	
+0	7.37	3354337	3450264	C++	Mrs.GloriaZindlebocker	
+0	7.37	1713174	2683174	Python3	BigUP	
+0	7.36	3464590	3012280	C	abbecool	
+0	7.36	484004	3516700	Python3	aCat	
+0	7.35	523846	2828228	C#	Palmipedus	
+0	7.34	1038359	3378552	Python3	Ronnie147	
+0	7.33	2325449	2985364	Perl	otpv	
+0	7.29	1341520	3002283	Java	egaetan	
