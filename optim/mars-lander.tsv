@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=4845,time=2022-01-02 05:06:11
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=4848,time=2022-01-03 00:52:20
 100	2509	1327028	C++	FredericBautista	
 100	2507	154372	Bash	Plopx	
 100	2504	1249786	C#	Fededevi	
@@ -16,9 +16,9 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4845,time=2022-01-02 05:06:11
 100	2477	1201783	Python3	qsantos	
 100	2476	1629259	C#	Marchete	
 100	2476	1156834	Python3	dave9000	
+100	2476	893541	Java	wala	
 100	2475	1323814	Java	Wildcat-SC	
 100	2475	828213	Python3	anst	
-100	2475	893541	Java	wala	
 100	2474	1530051	C++	UlYoP	
 100	2471	2054776	C++	GinSmal	
 100	2471	3358168	Go	A.U.	
@@ -40,6 +40,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4845,time=2022-01-02 05:06:11
 100	2452	351062	Java	Neumann	
 100	2450	1584802	Python3	emh	
 100	2450	3298988	C#	PotatoCoder	
+100	2448	3657937	Python3	elderlybeginner	
 100	2444	2311105	C++	kovi	
 100	2441	553938	C++	MagAlex	
 100	2441	805067	Javascript	Magus	
@@ -48,7 +49,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4845,time=2022-01-02 05:06:11
 100	2440	4287206	Java	NicolasDesn	
 100	2438	1500515	C#	eulerscheZahl	
 100	2436	1050420	Python3	boi_led_egg	
-100	2436	3657937	Python3	elderlybeginner	
 100	2435	3235897	Java	Zylo	
 100	2433	3457031	C++	YurkovAS	
 100	2433	1781541	Python3	Schwase	
@@ -443,6 +443,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4845,time=2022-01-02 05:06:11
 100	2061	1349553	Java	TechIsFun	
 100	2061	3852884	C++	Urka	
 100	2060	3489223	Javascript	KarloHubai	
+100	2060	4667633	Go	Lukiwuki	
 100	2059	1608197	Perl	Luun	
 100	2059	1522873	C	ZHUXiang	
 100	2059	2176877	C++	pasymows	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4845,time=2022-01-02 05:06:11
 100	1834	1471525	Python3	W1ll3m	
 100	1833	868898	Java	LH	
 100	1833	1338636	Python3	maximed	
-100	1833	2436448	Java	FrancoisMeme	
