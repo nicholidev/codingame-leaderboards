@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6372,time=2022-01-04 03:35:07
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6372,time=2022-01-05 04:35:37
 5	32.37	3193653	3004019	C++	karliso	
 5	31.27	880353	2975979	C++	zasmu	
 5	31.04	1082988	2982332	C++	Saelyos	
@@ -759,12 +759,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6372,time=2022-01-04 03:35:
 3	25.4	1498442	2979615	TypeScript	NSzx	
 3	25.1	3819467	2975822	C++	bin101	
 3	25.08	3749358	2975743	Java	jon26	
+3	24.96	3387410	3057343	Java	Paolo_Rzf	
 3	24.95	3806286	2977764	Python3	St7	
 3	24.93	1178251	2977875	Java	Briag	
 3	24.92	925695	2980303	OCaml	Boulet	
 3	24.91	1309948	3738932	Java	Runner87	
 3	24.91	2990918	2979626	TypeScript	Dingodino	
-3	24.89	3387410	3057343	Java	Paolo_Rzf	
 3	24.84	1529396	2976805	Python3	ulukai	
 3	24.8	303151	2976855	Python3	MoOT.Cube	
 3	24.79	3039012	2978403	Rust	matsu7874	
@@ -774,12 +774,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6372,time=2022-01-04 03:35:
 3	24.57	1111798	2997758	Javascript	lifetimeLearner007	
 3	24.56	1140677	2975871	C++	Crog	
 3	24.54	1596238	2978681	C#	NickStahl	
+3	24.41	1506970	2976707	C#	Speedrun	
 3	24.4	1528274	2978261	Ruby	BlanCap	
 3	24.39	4401975	3793430	Java	Cyberhuman	
 3	24.38	3800302	3459454	C++	v.cogut	
 3	24.38	3799710	2976686	Java	adyg77	
 3	24.37	3766690	3011380	C++	marty4545	
-3	24.37	1506970	2976707	C#	Speedrun	
 3	24.37	2320004	2978210	C#	Arthurique	
 3	24.35	3783901	2976108	Python3	rlucas585	
 3	24.34	3563633	2980017	Javascript	p1100i	
@@ -827,11 +827,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6372,time=2022-01-04 03:35:
 3	23.75	514747	2977768	Python3	AxelCS	
 3	23.7	1539245	2979830	Java	Riduidel	
 3	23.7	1152991	3875930	C#	xoposhiy	
+3	23.67	1894833	3024587	Python3	Rimailleur	
 3	23.66	1671658	2976535	C++	Kirbiby	
 3	23.66	1543177	2976634	Python3	Xoff	
 3	23.62	3468263	2978760	Python3	Flyingkid	
 3	23.62	3155517	2976259	C#	toto0121	
-3	23.61	1894833	3024587	Python3	Rimailleur	
 3	23.6	1714054	2975900	C++	Marau	
 3	23.6	815488	3455002	Java	Seti	
 3	23.59	1062962	2980397	C++	ArmandO.S.	
@@ -854,6 +854,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6372,time=2022-01-04 03:35:
 3	23.48	2458172	2978312	C++	CaptainHamburger	
 3	23.47	1991836	2994703	C#	qbit86	
 3	23.47	3797271	2978943	Python3	Cam_B	
+3	23.47	3763162	2977175	Java	chimpansiets	
 3	23.47	3719253	2979699	Javascript	daffie	
 3	23.46	1015522	2977798	Python3	ratmir15	
 3	23.46	1276766	2979360	Python3	brian__fr	
@@ -867,7 +868,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6372,time=2022-01-04 03:35:
 3	23.45	3414155	2977392	Scala	Smerk	
 3	23.45	3805081	2979229	Python3	ai_rice	
 3	23.45	3723210	2976856	C#	ChristopherHahn	
-3	23.43	3763162	2977175	Java	chimpansiets	
 3	23.43	990110	2977590	C++	Rogerup	
 3	23.43	3563879	2975920	C#	LuiGio	
 3	23.43	3586448	2980036	Python3	LeoT	
@@ -897,8 +897,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6372,time=2022-01-04 03:35:
 3	23.2	1652969	2977756	C#	Berci79	
 3	23.18	3041715	2977613	Java	hlin	
 3	23.18	1687809	2995372	Java	egoprince	
+3	23.13	3329545	2979622	Python3	stylemanguy	
 3	23.13	1194069	3407975	Java	Redstrike	
-3	23.09	3329545	2979622	Python3	stylemanguy	
 3	23.08	1525821	2979841	C#	Jeroo	
 3	23.07	2675308	2977204	Javascript	vkochev	
 3	23.06	4284674	3807799	Java	GuruLeo	
@@ -951,7 +951,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6372,time=2022-01-04 03:35:
 3	22.29	2453008	3016804	Python3	Crypticsy	
 3	22.28	1452463	2979820	Python3	Tristannah	
 3	22.26	2086201	3109855	C++	mchl12	
-3	22.25	3814797	2977649	Java	adam-balazs	
 3	22.24	153045	2979746	C++	nib	
 3	22.24	1373231	2980233	Python3	shypiguy	
 3	22.22	4403610	3795696	C++	anakinCSA	
@@ -962,6 +961,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6372,time=2022-01-04 03:35:
 3	22.17	846553	2975603	C++	Aleks	
 3	22.17	3817179	2976059	C#	MAPATKO	
 3	22.16	342048	2976134	Javascript	fixme	
+3	22.16	3814797	2977649	Java	adam-balazs	
 3	22.14	1614797	2975886	Python3	irvcaza	
 3	22.12	3622078	2979145	Python3	Paikan2068	
 3	22.11	2856582	2979844	C++	Towelie	
