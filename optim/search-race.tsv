@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=539,time=2022-01-06 02:12:27
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=540,time=2022-01-07 03:22:31
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -13,7 +13,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=539,time=2022-01-06 02:12:27
 100	10751.739999999994	1288527	C++	Snef	
 100	10751.95	2968035	Python3	DomiKo	
 100	10754.76	735487	C++	amurushkin	
-100	10781.729999999998	893541	Java	wala	
+100	10780.999999999998	893541	Java	wala	
 100	10785.819999999998	1838549	C++	orangesnowfox	
 100	10798.61	1566335	Java	BeardedWhale	
 100	10877.459999999995	2923506	C++	darkhorse64	
@@ -450,6 +450,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=539,time=2022-01-06 02:12:27
 80	26492.93	1959179	Python3	savitar	
 80	28519.65	1802808	Python3	EnderWiggins	
 78	29688.080000000005	4628354	PHP	jpud	
+78	30107.589999999993	4669164	Python3	Vlad100	
 78	30819.960000000006	909782	Go	Harkness	
 78	31050.69000000001	4153954	Python3	RichardTheDou	
 78	31129.95	889789	C	Alain-Delpuch	

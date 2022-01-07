@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=4859,time=2022-01-06 02:12:16
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=4859,time=2022-01-07 03:22:28
 100	2509	1327028	C++	FredericBautista	
 100	2507	154372	Bash	Plopx	
 100	2504	1249786	C#	Fededevi	
@@ -321,6 +321,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4859,time=2022-01-06 02:12:16
 100	2164	3594074	C++	jopo	
 100	2163	2215615	C++	JonathanCasey	
 100	2160	606890	C#	r2d2tm	
+100	2160	2468853	C++	ppajuel	
 100	2159	2440248	Python3	Javfres	
 100	2158	1378254	Lua	zet23t	
 100	2157	3005528	C++		
@@ -467,7 +468,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4859,time=2022-01-06 02:12:16
 100	2047	2331589	C#	miaugust	
 100	2046	918913	C++	GreatTux	
 100	2046	2876934	C++	Bgd	
-100	2045	2468853	C++	ppajuel	
 100	2044	1752047	C	RGBenfield	
 100	2044	1879283	Python3	choi07	
 100	2044	4095799	Python3	circular17	
@@ -949,6 +949,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4859,time=2022-01-06 02:12:16
 100	1855	518726	Haskell	nybble41	
 100	1855	594027	C#	ionelicamarcel	
 100	1855	1460836	C++	ImanolSaga	
+100	1855	4559358	C	Greg.ch	
 100	1853	1071264	Java	JohnSalter	
 100	1853	404560	C++	Uquu	
 100	1852	894599	Java	DidierC	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=4859,time=2022-01-06 02:12:16
 100	1836	1269927	Java	Copley	
 100	1836	1654818	C	tarapitha	
 100	1836	2721745	C	Octoroc	
-100	1836	1029251	C++	Simon5	
