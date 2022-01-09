@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5732,time=2022-01-08 00:54:29
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5732,time=2022-01-09 03:20:20
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -349,6 +349,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5732,time=2022-01-08 00:54:29
 100	4379	1654818	Python3	tarapitha	
 100	4380	808780	Scala	nautilus	
 100	4385	1848459	Java	Velcoro	
+100	4386	4270882	Python3	[ron]	
 100	4387	2837454	Java	Inc_	
 100	4389	552776	Javascript	player_one	
 100	4397	1879852	Java		
@@ -500,7 +501,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5732,time=2022-01-08 00:54:29
 100	5137	3871875	TypeScript	hector7	
 100	5148	4330025	Python3	wyenat	
 100	5158	3340884	Python3	sd001034	
-100	5170	4270882	Python3	[ron]	
 100	5175	953062	C++	rouviecy	
 100	5178	3525167	Python3	fgsdt	
 100	5180	2217572	Python3	Ben9	
@@ -569,6 +569,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5732,time=2022-01-08 00:54:29
 100	5476	1207736	C#	Medium	
 100	5482	334434	Java	Rajh	
 100	5483	1467771	C++	Telokis	
+100	5483	481988	Kotlin	DevKirill	
 100	5485	1253105	C#	[CPC]Nitro	
 100	5488	892056	Python3	LaurentTrk	
 100	5489	4400572	Javascript	unnamedminecrafter	
@@ -682,6 +683,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5732,time=2022-01-08 00:54:29
 100	5703	1398219	C#	Kenrugo	
 100	5703	4065227	C++	Pamplemus	
 100	5704	3882014	Java	MeatyZor	
+100	5705	4395739	Python3	Andret0701	
 100	5706	1543177	Python3	Xoff	
 100	5709	1033147	Java	Starbuck	
 100	5709	2500089	Javascript	Fantomat75	
@@ -957,6 +959,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5732,time=2022-01-08 00:54:29
 100	5871	1132011	C#	pci	
 100	5871	3411072	Kotlin	summer000	
 100	5871	1796115	Python3	JeanR	
+100	5871	4648805	C++	LordOfElements	
 100	5872	476659	C++	Beard	
 100	5872	941805	PHP	losGismos	
 100	5872	1473079	Javascript	Zylar	
@@ -996,6 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5732,time=2022-01-08 00:54:29
 100	5885	583258	Java	kr0nd	
 100	5885	273064	Go	ma2	
 100	5885	957197	C#	Luche	
-100	5885	1203593	C#	[CPC]Naity	
-100	5885	874023	Java	meira	
-100	5885	1010861	Java	brubru777	
