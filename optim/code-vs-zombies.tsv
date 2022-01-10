@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=12091,time=2022-01-09 03:20:21
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=12101,time=2022-01-10 02:09:36
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -134,6 +134,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=12091,time=2022-01-09 03:20:21
 100	258950	3903847	C#	UnicornP	
 100	256370	2315158	Java	luigi_gelato	
 100	255000	1337609	C++	FlyingRaccoon	
+100	254920	1290569	C#	a76a44	
 100	254420	1140756	C++	BarbsMan	
 100	254020	1611699	Java	EpiFlop	
 100	254000	153678	Go	dknn	
@@ -253,7 +254,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=12091,time=2022-01-09 03:20:21
 100	212370	4518975	C++	civtrader	
 100	212000	1754295	C++	SF	
 100	211860	4101514	Javascript	Pips42	
-100	211230	1290569	C#	a76a44	
 100	210780	1077506	Go	gs2	
 100	210700	2515448	C++	ChuOkupai	
 100	210440	3500831	C	goudan	
@@ -752,6 +752,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=12091,time=2022-01-09 03:20:21
 100	69730	1368122	Go	galthaus	
 100	68980	2212341	C++	Atul007	
 100	68800	1353669	Python3	XAnimaX	
+100	68790	1243354	C++	RSBat	
 100	68680	225984	PHP	GJohn	
 100	68460	2215302	C++	west	
 100	68420	3044280	Python3	AminGholizad	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=12091,time=2022-01-09 03:20:21
 100	64260	4325911	C++	Bertrand-Felix	
 100	64260	4122723	C++	Hydrazer	
 100	64260	4063085	C++	Nac110	
-100	64260	4089191	C++	Bixie	
