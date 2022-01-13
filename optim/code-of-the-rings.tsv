@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5736,time=2022-01-12 00:46:14
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5737,time=2022-01-13 00:51:31
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -528,6 +528,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5736,time=2022-01-12 00:46:14
 100	5304	1567943	C++	LazyMammal	
 100	5304	4615176	C++	guperman	
 100	5305	1172385	C#	LuckyMe	
+100	5312	481988	Kotlin	DevKirill	
 100	5317	3319855	C#	Drobor	
 100	5319	4039528	Python3	Elnaril	
 100	5320	3480275	Python3	gbg727	
@@ -557,7 +558,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5736,time=2022-01-12 00:46:14
 100	5429	1779483	C#	h.otto	
 100	5430	1326194	PHP	nicolef	
 100	5431	2339129	Python3	ChristianSloper	
-100	5433	481988	Kotlin	DevKirill	
 100	5437	3503501	C++	Dagnarus	
 100	5438	3534078	Python3	chabes	
 100	5439	1257796	C	Oygron	
@@ -792,6 +792,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5736,time=2022-01-12 00:46:14
 100	5819	1667366	C	Rasky	
 100	5821	530441	C++	Prime541	
 100	5821	3436443	Python3	Mazelcop	
+100	5823	4564296	Java	E_Mantix	
 100	5824	3868172	C++	Desjardins	
 100	5826	993630	Python3	WVN	
 100	5826	2321957	C++	Xenoid	
@@ -826,7 +827,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5736,time=2022-01-12 00:46:14
 100	5848	348552	Javascript	Paradox	
 100	5848	870035	Java	nefobu	
 100	5848	2567535	C	yanyan	
-100	5848	4564296	Java	E_Mantix	
 100	5849	2169173	Python3	Watashiku2	
 100	5849	4166555	Ruby	Natanalel	
 100	5849	2325540	Scala	ifossz	

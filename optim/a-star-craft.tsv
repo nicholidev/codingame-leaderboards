@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1137,time=2022-01-12 00:46:15
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1140,time=2022-01-13 00:51:32
 100	11920	2077805	C++	bamilan	
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
@@ -213,6 +213,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1137,time=2022-01-12 00:46:15
 100	5609	3337117	C++	timbersson	
 100	5603	2769647	Java	RiffShark	
 100	5600	475134	Python3	AgathokakologicalBit	
+100	5575	1243354	C++	RSBat	
 100	5573	1209562	C++	Jiway	
 100	5456	225875	C#	leff	
 100	5434	3742936	Python3	David26	
@@ -292,7 +293,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1137,time=2022-01-12 00:46:15
 100	4051	1896128	C++	Vhanire	
 100	4042	2833220	Java	Alex311	
 100	4037	218189	C	[CG]Maxime	
-100	4029	1243354	C++	RSBat	
 100	4027	3525167	Python3	fgsdt	
 100	3992	831171	Python3	Recoding	
 100	3962	4018239	Java	MACKEYTH	
@@ -518,6 +518,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1137,time=2022-01-12 00:46:15
 100	2268	2773075	C#	Patronus	
 100	2254	1499779	Java	NomadZ	
 100	2253	2135916	Python3	Oioi	
+100	2250	1678347	Python3	TheDarkPikachu	
 100	2247	4438822	Python3	ludodul	
 100	2245	2716329	Python3	Recher	
 100	2240	2420013	Javascript	Zoli007	
@@ -627,6 +628,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1137,time=2022-01-12 00:46:15
 100	1507	1160652	Python3	spyr03	
 100	1497	935802	Java	Jerhyn	
 100	1496	2055377	Python3	Covfefe	
+100	1496	4471038	Java	nguyen.lam	
 100	1495	1818909	Python3	romaingz	
 100	1480	1610862	Python3	JoseSantosL	
 100	1479	4106688	PHP	LovePou	
@@ -649,7 +651,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1137,time=2022-01-12 00:46:15
 100	1316	2984118	Java	aplq	
 100	1293	2642273	Python3	Pluk	
 100	1284	2782074	C#	LancerX0	
-100	1283	4471038	Java	nguyen.lam	
 100	1280	1525816	Javascript	Flodnes	
 100	1277	1505954	C#	Salintas	
 100	1274	1599552	Go	FlyingRatBull	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1137,time=2022-01-12 00:46:15
 100	1045	4552488	Python3	ElCanardo	
 100	1045	3532429	Python3	Skyf0l	
 100	1045	3926408	Python3	loockeeer	
-100	1045	4586057	C#	errorvdept	
