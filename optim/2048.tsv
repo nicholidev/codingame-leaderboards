@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=738,time=2022-01-13 00:51:34
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=739,time=2022-01-14 01:51:12
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
 100	59353524	765200	Rust	FrancoisB	
@@ -42,6 +42,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=738,time=2022-01-13 00:51:34
 100	18131096	329200	C++	BlitzProg	
 100	17742928	3647844	C++	rc95401	
 100	17206600	3971358	C++	OldJohn	
+100	16966052	4584723	C++	babaaurhum	
 100	16504096	3919068	C++	14598366	
 100	16393216	972894	C++	resty-daze	
 100	15815952	1152991	C#	xoposhiy	
@@ -49,7 +50,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=738,time=2022-01-13 00:51:34
 100	14686960	1323814	C	Wildcat-SC	
 100	14545024	1256312	C#	Djoums	
 100	14498556	1050420	C++	boi_led_egg	
-100	14387524	4584723	C++	babaaurhum	
 100	14072088	1732414	C++	ClosetAI	
 100	13516584	2451652	Java	code_of_the_dead	
 100	12526428	1838549	Rust	orangesnowfox	
@@ -122,6 +122,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=738,time=2022-01-13 00:51:34
 100	2124388	2012662	Python3	Natalka1122	
 100	2099264	806416	Python3	awnion	
 100	2055904	3489223	C#	KarloHubai	
+100	2022564	4648805	C++	LordOfElements	
 100	2013220	1720605	Rust	carlicolosse	
 100	2000068	1413257	C#	Bavoen	
 100	1923056	3958314	PHP	NicoDeug	
@@ -142,7 +143,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=738,time=2022-01-13 00:51:34
 100	1244252	4083537	Python3	DavidAvsajanishvili	
 100	1189100	1077506	Go	gs2	
 100	1151228	4672487	TypeScript	inem	
-100	1135984	4648805	C++	LordOfElements	
 100	1106220	1785098	C++	E_pur_si_muove	
 100	1036264	3406987	Python3	Radu_Sav	
 100	930052	3141948	Java	philRG	
@@ -504,6 +504,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=738,time=2022-01-13 00:51:34
 100	25488	3774010	Python3	Presac	
 100	25456	3640862	Python3	nopnop	
 100	25372	4588070	Java	FeemOfficial	
+100	25372	1830993	C#	jpcheck	
 100	25300	3353360	Python3	feuerbach	
 100	25000	4493640	Python3	ChuaZhengHongJonathan	
 100	24876	4082228	Java	jengisgat	
