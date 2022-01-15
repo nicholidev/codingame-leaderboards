@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=540,time=2022-01-14 01:51:11
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=541,time=2022-01-15 00:30:32
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -111,6 +111,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=540,time=2022-01-14 01:51:11
 100	14414.680000000004	1410353	Rust	SwagColoredKitteh	
 100	14423.209999999995	1952778	Go	blast_beat	
 100	14763.829999999998	992329	Python3	BeeGee	
+100	14764.97	3817827	Go	optplx	
 100	14771.22	2135916	Python3	Oioi	
 100	14823.6	3524000	Python3	depthzer0	
 100	14936.870000000004	1728288	Python3	MOLP	
@@ -238,6 +239,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=540,time=2022-01-14 01:51:11
 100	21209.49	2833886	Python3	KnutWart	
 100	21230.060000000005	495252	Python3	PXke	
 100	21318.35	4039884	C++	mzbear	
+100	21367.379999999994	4681014	TypeScript	Jrmc5	
 100	21369.98	1217418	Javascript	Methral	
 100	21415.040000000005	1287344	Python3	Alshock	
 100	21431.25999999999	3845610	Python3	pardouin	
@@ -383,7 +385,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=540,time=2022-01-14 01:51:11
 98	24410.88	4086387	Javascript	AdamDean	
 98	24797.45	4088022	Python3	JorgeRodrigo	
 98	24924.97	4072753	C++	mdstoy	
-98	25334.679999999997	3817827	Go	optplx	
 96	21754.27	961929	Python3	Marcaunon	
 96	22448.259999999995	788361	C++	Bob	
 96	22571.51000000001	3998980	Python3	bamax	
