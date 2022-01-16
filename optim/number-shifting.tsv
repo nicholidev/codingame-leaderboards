@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=354,time=2022-01-15 00:30:31
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=354,time=2022-01-16 02:56:54
 100	999	1629259	PHP	Marchete	
 100	999	3354337	C++	Mrs.GloriaZindlebocker	
 100	999	3949307	C++	xevixevi	
@@ -54,6 +54,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=354,time=2022-01-15 00:30:31
 100	60	3482129	PHP	Tiho97	
 100	60	3235897	Java	Zylo	
 100	60	3983017	PHP	TLbuis	
+100	59	2962968	PHP	Pukunya	
 100	53	512097	Haskell	Stilgart	
 100	53	2980709	C++	ninnghazad	
 100	52	925695	PHP	Boulet	
@@ -69,7 +70,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=354,time=2022-01-15 00:30:31
 100	45	398735	C#	mogikanin	
 100	44	862336	PHP	Zaphus	
 100	43	1753077	Python3	codingWhale	
-100	43	2962968	PHP	Pukunya	
 100	42	4104174	Java	JorBer	
 100	41	4135188	Python3	jhewlett	
 100	38	1464932	PHP	Tiramon	
@@ -123,6 +123,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=354,time=2022-01-15 00:30:31
 100	21	1923457	Python3	Wonshtrum	
 100	21	3839774	Rust	gurvan_lullien	
 100	21	153965	Python3	Keelhaul	
+100	21	389786	Java	menu	
 100	20	2715508	Bash	Anth	
 100	20	2124591	Rust	Rdjdv	
 100	20	1802967	Python3	Meruem	
@@ -139,7 +140,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=354,time=2022-01-15 00:30:31
 100	18	228826	PHP	Snark	
 100	18	1607251	Javascript	baboulaf	
 100	18	1433688	C++	Geropy	
-100	18	389786	Java	menu	
 100	17	1093968	C++	milosMATRIXrepic	
 100	17	2923506	C++	darkhorse64	
 100	16	3700824	Bash	Calaquendi	

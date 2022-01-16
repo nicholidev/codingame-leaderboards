@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4842,time=2022-01-15 00:30:16
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4842,time=2022-01-16 00:30:10
 0	47.11	1433161	1484525	C	mingu1.kang	
 0	45.57	494104	455215	C++	Recar	
 0	45.55	990110	357643	C++	Rogerup	
@@ -101,8 +101,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4842,time=2022-01-15 00:30:
 0	39.87	217547	358235	Haskell	stderr	
 0	39.82	842532	345362	Ruby	spy	
 0	39.74	567736	357038	C++	dam94	
-0	39.67	848394	352597	Java	schwarzahl	
 0	39.65	2489026	3848190	OCaml	TOPetit	
+0	39.58	848394	352597	Java	schwarzahl	
 0	39.4	947693	352491	Java	Sunglow	
 0	39.24	1043582	342625	C	Nikos	
 0	39.21	834728	352887	Java	ki-ki33	
@@ -384,6 +384,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4842,time=2022-01-15 00:30:
 0	35.05	1093968	968670	Java	milosMATRIXrepic	
 0	35.05	155924	355326	C++	yvesmocq	
 0	35.04	413624	345729	PHP	Mathieu	
+0	35.01	980671	350251	Python	bwbaugh	
 0	35.01	273004	355833	C++	ptitrex	
 0	35	1007939	340639	Python	Poruk	
 0	35	2115491	2574645	Javascript	Haashi	
@@ -401,7 +402,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4842,time=2022-01-15 00:30:
 0	34.91	1053433	355354	Java	3WTochka	
 0	34.9	1070189	344988	C#	Sebizuka	
 0	34.89	4210652	3721738	OCaml	Sirine_MPSI_LIV	
-0	34.87	980671	350251	Python	bwbaugh	
 0	34.85	4347092	3722700	OCaml	Tenroc_MPSI_LIV	
 0	34.83	2492191	3493185	OCaml	MPSI-LIV-TheoBekh	
 0	34.82	198212	349947	Python	progsdi	
@@ -813,7 +813,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4842,time=2022-01-15 00:30:
 0	31.49	1753424	909020	C++	FilkinKuiv	
 0	31.49	608523	3065745	C++	Blinkq	
 0	31.48	393345	339918	C++	Peter9449	
-0	31.48	999926	353502	C#	SkyyStorm	
 0	31.48	1511645	644788	Python	OleksandrVoytsekhovskyy	
 0	31.46	880044	341687	C#	Dalmali	
 0	31.46	414278	476901	Java	oobException	
@@ -825,6 +824,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4842,time=2022-01-15 00:30:
 0	31.42	1316945	398932	Ruby	aeris22	
 0	31.42	587313	352933	C#	o4815162342	
 0	31.42	3807227	3018281	C++	GaryAflalo	
+0	31.41	999926	353502	C#	SkyyStorm	
 0	31.41	1306752	411937	Python	spk9	
 0	31.4	1331995	392989	Java	TheSamWiser	
 0	31.4	270926	347486	Python	NigelSheldon	
