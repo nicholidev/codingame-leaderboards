@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5742,time=2022-01-16 02:56:53
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5744,time=2022-01-17 00:51:28
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -91,6 +91,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5742,time=2022-01-16 02:56:53
 100	3645	1457162	Python3	JFB	
 100	3646	888898	Javascript	helgui	
 100	3648	3939443	C++	Lafihalas	
+100	3648	4270882	Python3	[ron]	
 100	3650	1498442	Javascript	NSzx	
 100	3652	1264581	Python3	BenjiIsBack	
 100	3653	1034635	C++	SlyB	
@@ -144,6 +145,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5742,time=2022-01-16 02:56:53
 100	3778	668906	Java	Sandworm	
 100	3781	886483	ObjectiveC	R4N4R4M4	
 100	3786	869323	C++	Ferra	
+100	3788	4083537	Javascript	DavidAvsajanishvili	
 100	3795	3982709	Rust	lukasjapan	
 100	3804	950088	C#	Nickname123	
 100	3807	1441239	Javascript	Dyd	
@@ -349,7 +351,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5742,time=2022-01-16 02:56:53
 100	4379	1654818	Python3	tarapitha	
 100	4380	808780	Scala	nautilus	
 100	4385	1848459	Java	Velcoro	
-100	4386	4270882	Python3	[ron]	
 100	4387	2837454	Java	Inc_	
 100	4389	552776	Javascript	player_one	
 100	4397	1879852	Java		
@@ -644,6 +645,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5742,time=2022-01-16 02:56:53
 100	5637	155881	PHP	Hevey	
 100	5638	3478926	C	Alexis.D	
 100	5639	2055756	C#	BiBiPunK	
+100	5643	4662405	Python3	helpmefindaname	
 100	5647	4480332	Java	L.J.Ok	
 100	5648	1504684	Javascript	entrpy	
 100	5648	1627246	Javascript	katutaistelija	
@@ -766,6 +768,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5742,time=2022-01-16 02:56:53
 100	5793	1405926	Javascript	mtreinik	
 100	5793	1982679	Go	Quidcott	
 100	5794	1517028	Python3	Nicau	
+100	5795	1479137	C++	lorenzods	
 100	5796	232815	Haskell	kmate	
 100	5796	4102840	Python3	professoryana	
 100	5798	278144	C++	SerenityTn	
@@ -824,7 +827,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5742,time=2022-01-16 02:56:53
 100	5843	3080189	Python3	Multiplicity	
 100	5844	524638	C++	miklla	
 100	5846	854446	Java	Squallco	
-100	5847	4083537	Javascript	DavidAvsajanishvili	
 100	5848	348552	Javascript	Paradox	
 100	5848	870035	Java	nefobu	
 100	5848	2567535	C	yanyan	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5742,time=2022-01-16 02:56:53
 100	5885	808896	Java	ondimon	
 100	5885	154701	Java	luxman99	
 100	5885	933923	PHP	mdio	
-100	5885	975645	Haskell	Bastes	
-100	5885	997461	Python3	draos	
