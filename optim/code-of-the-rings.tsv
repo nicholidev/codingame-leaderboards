@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5746,time=2022-01-18 00:34:14
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5750,time=2022-01-19 00:41:35
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -231,6 +231,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5746,time=2022-01-18 00:34:14
 100	4016	999596	Rust	Schyrsivochter	
 100	4017	1408260	C#	Hominoidean	
 100	4018	3480498	PHP	BenPix	
+100	4018	1485699	Python3	TabulaRasa	
 100	4021	818771	Javascript	Feugy	
 100	4026	935744	PHP	Alcalyn	
 100	4029	3711954	Python3	kpjl	
@@ -393,6 +394,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5746,time=2022-01-18 00:34:14
 100	4559	3594074	C++	jopo	
 100	4561	4270173	Python3	kralikX	
 100	4563	1634607	Python3	Taraxacum	
+100	4580	1076740	Python3	Nazo	
 100	4583	3815413	Swift	Michael_Howard	
 100	4589	4050016	Ruby	CharlesSenemaud	
 100	4592	2567580	C++	veryRandom	
@@ -522,7 +524,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5746,time=2022-01-18 00:34:14
 100	5277	633271	Go	Pomyk	
 100	5277	3358736	Java	BuluBulu27	
 100	5278	248263	PHP	NewboO	
-100	5280	1485699	Python3	TabulaRasa	
 100	5288	4134816	Python3	-oa-	
 100	5293	1353669	Python3	XAnimaX	
 100	5296	3077269	TypeScript	fieldy_rockz	
@@ -618,6 +619,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5746,time=2022-01-18 00:34:14
 100	5588	153057	PHP	PierralF	
 100	5591	2638940	Python3	Pergunta2	
 100	5592	1061061	C#	Bandersnatch	
+100	5592	4564296	Java	E_Mantix	
 100	5594	837350	Ruby	BorisZ	
 100	5596	873958	C#	cheeser	
 100	5596	1399619	C++	yurp	
@@ -795,7 +797,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5746,time=2022-01-18 00:34:14
 100	5819	1667366	C	Rasky	
 100	5821	530441	C++	Prime541	
 100	5821	3436443	Python3	Mazelcop	
-100	5823	4564296	Java	E_Mantix	
 100	5824	3868172	C++	Desjardins	
 100	5826	993630	Python3	WVN	
 100	5826	2321957	C++	Xenoid	
@@ -927,7 +928,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5746,time=2022-01-18 00:34:14
 100	5860	3366686	Python3	FAngelo94	
 100	5860	2772722	C++	Hiyoshinobu	
 100	5860	2612889	Python3	Symphonia	
-100	5860	1076740	Python3	Nazo	
 100	5860	4553650	Python3	JRBensa	
 100	5860	4578584	Python3	Kronblom	
 100	5860	4200593	Python3	qwatry	
