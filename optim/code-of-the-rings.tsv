@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5750,time=2022-01-19 00:41:35
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5751,time=2022-01-20 00:30:28
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -221,6 +221,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5750,time=2022-01-19 00:41:35
 100	3991	1802935	C#		
 100	3996	320053	PHP	Zbug	
 100	3997	876163	C#	AY1111	
+100	4001	1485699	Python3	TabulaRasa	
 100	4003	833299	C++	egbert	
 100	4004	751369	C++	tibithegreat	
 100	4004	157377	Javascript	McKelian	
@@ -231,7 +232,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5750,time=2022-01-19 00:41:35
 100	4016	999596	Rust	Schyrsivochter	
 100	4017	1408260	C#	Hominoidean	
 100	4018	3480498	PHP	BenPix	
-100	4018	1485699	Python3	TabulaRasa	
 100	4021	818771	Javascript	Feugy	
 100	4026	935744	PHP	Alcalyn	
 100	4029	3711954	Python3	kpjl	
@@ -340,6 +340,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5750,time=2022-01-19 00:41:35
 100	4347	1096201	Javascript	Maksimov	
 100	4348	2398608	Python3	M_C	
 100	4348	723476	Python3	NeoPhnx	
+100	4349	1076740	Python3	Nazo	
 100	4352	199646	Ruby	netoctone	
 100	4354	1863721	C#	intain	
 100	4359	1511645	Python3	OleksandrVoytsekhovskyy	
@@ -394,7 +395,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5750,time=2022-01-19 00:41:35
 100	4559	3594074	C++	jopo	
 100	4561	4270173	Python3	kralikX	
 100	4563	1634607	Python3	Taraxacum	
-100	4580	1076740	Python3	Nazo	
 100	4583	3815413	Swift	Michael_Howard	
 100	4589	4050016	Ruby	CharlesSenemaud	
 100	4592	2567580	C++	veryRandom	
@@ -931,6 +931,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5750,time=2022-01-19 00:41:35
 100	5860	4553650	Python3	JRBensa	
 100	5860	4578584	Python3	Kronblom	
 100	5860	4200593	Python3	qwatry	
+100	5860	4039328	Python3	KleinesAtom93	
 100	5861	954356	C++		
 100	5861	420035	Pascal	bvs23bkv33	
 100	5861	1483798	Ruby	hm001	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5750,time=2022-01-19 00:41:35
 100	5884	4065313	C++	XerusPrasinus	
 100	5885	808896	Java	ondimon	
 100	5885	154701	Java	luxman99	
-100	5885	933923	PHP	mdio	

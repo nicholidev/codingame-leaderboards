@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=746,time=2022-01-19 00:41:43
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=746,time=2022-01-20 00:30:31
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
 100	59353524	765200	Rust	FrancoisB	
@@ -97,6 +97,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=746,time=2022-01-19 00:41:43
 100	4235476	1719856	PHP	YOANN	
 100	4049156	4027292	C#	rmait	
 100	4003632	1807733	Python3	NoZ-	
+100	3979984	4648805	C++	LordOfElements	
 100	3825460	1854246	C++	Counterbalance	
 100	3668428	3817827	Go	optplx	
 100	3488032	3754066	C++	jast.e.new.name	
@@ -115,7 +116,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=746,time=2022-01-19 00:41:43
 100	2523096	4459243	Java	CodeNick	
 100	2460352	1243876	Java	Hi-Low_World	
 100	2450728	3626782	Java	ItsNotABug	
-100	2430844	4648805	C++	LordOfElements	
 100	2423384	154354	OCaml	Fougere	
 100	2330276	2833929	Python3	pcourrousse	
 100	2319324	4036456	Python3	JeremSwak	
@@ -142,7 +142,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=746,time=2022-01-19 00:41:43
 100	1336252	3358736	Java	BuluBulu27	
 100	1332584	2719604	Python3	vpoulailleau	
 100	1316056	4190376	C#	TranspersonalPsy	
-100	1244252	4083537	Python3	DavidAvsajanishvili	
+100	1248712	4083537	Python3	DavidAvsajanishvili	
 100	1189100	1077506	Go	gs2	
 100	1151228	4672487	TypeScript	inem	
 100	1106220	1785098	C++	E_pur_si_muove	
