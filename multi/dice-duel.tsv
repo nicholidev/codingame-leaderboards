@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=85,time=2022-01-20 00:30:11
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=86,time=2022-01-21 00:41:49
 1	41.81	2288263	3727514	Rust	dbdr	
 1	36.71	2311105	3734523	C++	kovi	
 1	36.48	2924895	3741368	C	trictrac	
@@ -40,7 +40,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=85,time=2022-01-20 00:30:11
 0	18.96	3136787	3685047	C++	jacek	
 0	18.95	2194865	3679717	Ruby	paranoidduck	
 0	18.95	2588604	3866471	Python3	Remus_	
-0	17.11	2296350	3874513	Python3	a.fzndr	
+0	17.12	2296350	3874513	Python3	a.fzndr	
 0	12.63	3641173	3866791	Ruby	Eltiel	
 0	10.57	3657937	3741563	Python3	elderlybeginner	
 0	10.55	4532723	3871034	Ruby	Empiro	
@@ -52,20 +52,20 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=85,time=2022-01-20 00:30:11
 0	3.44	4088657	3872826	C#	Cuc	
 0	3.31	4148107	3867961	Javascript	Askr	
 0	3.23	4244046	3870455	Python3	Pysa	
+0	3.08	4452094	3804910	Bash	masongtxr	
 0	3.06	4545314	3866336	Python3	WestsideYokel	
 0	3.04	3766345	3805291	C++	Rovi1	
-0	2.96	4452094	3804910	Bash	masongtxr	
 0	2.93	354788	3677365	C++	Lexer31	
 0	2.91	3569066	3677590	Bash	derjack	
-0	2.91	2043908	3775829	VB.NET	AntiSquid	
 0	2.91	4300181	3869038	Python3	edluis373	
 0	2.91	4539961	3865727	Python3	Walter_white	
+0	2.81	2043908	3775829	VB.NET	AntiSquid	
 0	2.8	4544686	3865763	PHP	KamilKmk	
 0	2.75	3354337	3674788	Javascript	Mrs.GloriaZindlebocker	
+0	2.64	4549612	3865653	C++	kool_d	
 0	2.6	4536244	3847427	Python3	Nana123	
 0	2.6	1713174	3687793	Python3	BigUP	
 0	2.51	3555728	3866715	Python3	KVNMDS	
-0	2.41	4549612	3865653	C++	kool_d	
 0	2.39	3800561	3755426	Python3	Aholief	
 0	2.38	3407143	3870742	Javascript	guptaji	
 0	2.3	4557630	3865859	Python3	H3adph0n3c0d3r	
@@ -73,14 +73,15 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=85,time=2022-01-20 00:30:11
 0	1.89	838930	3872117	C++	julia0091	
 0	1.84	2325449	3675049	Perl	otpv	
 0	1.63	2466996	3867215	C#	dreadylein	
-0	1.11	4514126	3873710	Python3	makajjou	
-0	0.89	3903952	3873520	C#	Chaufan	
-0	0.85	4520655	3866671	C	Ginger38	
-0	0.61	3854793	3873037	C++	dumboy	
-0	0.58	3810738	3866512	C++	Nyjako	
-0	0.42	4626700	3955769	PHP	JohnyDarecek	
-0	0.4	4555729	3866498	C#	PPDAC	
-0	0.4	3501234	3823514	C	david1100	
-0	-0.05	4546271	3873018	C++	gauta40	
-0	-0.26	4251195	3680680	Java	Smelty	
-0	-0.68	3055457	3869685	Javascript	Skillist	
+0	1.22	4514126	3873710	Python3	makajjou	
+0	1.02	4555729	3866498	C#	PPDAC	
+0	0.98	3810738	3866512	C++	Nyjako	
+0	0.87	3854793	3873037	C++	dumboy	
+0	0.53	4520655	3866671	C	Ginger38	
+0	0.52	3903952	3873520	C#	Chaufan	
+0	0.5	3501234	3823514	C	david1100	
+0	0.48	4626700	3955769	PHP	JohnyDarecek	
+0	-0.07	4251195	3680680	Java	Smelty	
+0	-0.36	4546271	3873018	C++	gauta40	
+0	-0.53	4700503	3977107	Java	Woof007	
+0	-0.83	3055457	3869685	Javascript	Skillist	
