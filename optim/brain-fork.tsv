@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5758,time=2022-01-23 01:10:47
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5761,time=2022-01-24 00:31:10
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -362,6 +362,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5758,time=2022-01-23 01:10:47
 100	4407	1179357	Javascript	avdg	
 100	4407	2584779	Perl	quirck	
 100	4420	3667259	Javascript	LoneWolf-M21	
+100	4430	3420816	Python3	Floth	
 100	4433	931062	C++	Blue007422	
 100	4438	802171	PHP	Merome	
 100	4439	2973592	C#	EJtheMaster	
@@ -674,6 +675,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5758,time=2022-01-23 01:10:47
 100	5688	1923457	Python3	Wonshtrum	
 100	5690	975849	C#	MathieuBrousseau	
 100	5690	2297753	Python3	Warly7692	
+100	5690	4672487	TypeScript	inem	
 100	5691	1038882	C++	ICTylor	
 100	5691	1436776	C++	BrainSolver	
 100	5693	4570242	C#	Milanovich	
@@ -721,7 +723,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5758,time=2022-01-23 01:10:47
 100	5736	2438065	Rust	iter	
 100	5739	971137	C++	Burlinn	
 100	5739	1232188	Python3	Sylven	
-100	5739	4672487	TypeScript	inem	
 100	5743	4090664	Kotlin	sikr_	
 100	5743	1549145	C++	Mealc	
 100	5745	2576701	Python3	LustOne	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5758,time=2022-01-23 01:10:47
 100	5884	1652555	Python3	Kalwyn	
 100	5884	1661333	C++	linjoehan	
 100	5884	4065313	C++	XerusPrasinus	
-100	5885	808896	Java	ondimon	

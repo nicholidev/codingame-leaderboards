@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1856,time=2022-01-23 00:58:42
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1856,time=2022-01-24 00:31:02
 0	46.33	1400179	2090524	C++	reCurse	
 0	45.05	1629259	2339355	C++	Marchete	
 0	44.49	2288263	2418174	Rust	dbdr	
@@ -122,7 +122,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1856,time=2022-01-23 00:58:
 0	28.08	3226448	3004405	Python3	tobk	
 0	28.07	4298841	3712569	C#	Dapps	
 0	28.07	2990028	2132911	C#	torrent	
-0	28.05	2521660	1854990	Java	leoclz	
+0	28.07	2521660	1854990	Java	leoclz	
 0	28.04	1188212	370624	C	superredlark	
 0	28.04	2155916	2132908	C++	ButterflyEA	
 0	28.03	1369177	622548	C++	PernicN	
@@ -259,10 +259,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1856,time=2022-01-23 00:58:
 0	26.42	3739280	3041058	Java	thanos_team	
 0	26.41	862336	3011945	C++	Zaphus	
 0	26.4	490588	2986407	Python3	Uljahn	
+0	26.38	734853	259444	Java	JBV	
 0	26.37	795103	1696514	C#	EloiStree	
 0	26.36	1071140	618701	C#	BeberLeNewbie	
 0	26.35	3285724	2852147	Java	Syp	
-0	26.34	734853	259444	Java	JBV	
 0	26.34	3285744	2343848	Java	Shinzeo	
 0	26.3	525864	3430050	C++	ATwice	
 0	26.3	3907501	3040468	Python3	le.rose.di.ada	
@@ -499,8 +499,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1856,time=2022-01-23 00:58:
 0	23.41	1520827	1438141	Java	IcedCapp	
 0	23.4	648586	253280	Haskell		
 0	23.34	599411	1628314	C++	Colehour	
+0	23.33	2290633	3012037	Python3	field3	
 0	23.3	3205329	2254620	C#	rivaldirasya	
-0	23.3	2290633	3012037	Python3	field3	
 0	23.3	308188	3754105	C++	Azimov	
 0	23.26	754792	1637292	C++	Ramdeath	
 0	23.24	773590	306089	C++	PetasIII	
@@ -683,11 +683,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1856,time=2022-01-23 00:58:
 0	21.23	779881	255635	C++	vishfrnds	
 0	21.19	3191992	2665251	Python3	alicecrusoe	
 0	21.18	1008123	369707	C++	Falanx	
+0	21.17	4039794	3897779	C#	Codeab	
 0	21.16	4370531	3701475	Java	Onur_Sozer	
 0	21.14	3190756	2844389	Python3	darkGrimoire	
 0	21.13	2007852	3004048	Go	Zorg1	
 0	21.12	2908429	2129656	Python3	MilkiBiss	
-0	21.11	4039794	3897779	C#	Codeab	
 0	21.1	3657944	3500679	Python3	xyz-1	
 0	21.06	1158238	1641434	Python3	Veka	
 0	21.03	810201	247397	Javascript	xathis	
@@ -950,6 +950,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1856,time=2022-01-23 00:58:
 0	17.72	812470	413926	C++	dingjun	
 0	17.7	2455124	2491745	C	agiordan	
 0	17.7	612580	253108	PHP	Huntross	
+0	17.69	2173079	1450857	Java	optimus_prime	
 0	17.66	1983587	1299424	Java	mikimikimiki	
 0	17.65	2762280	1970910	Javascript	BGM	
 0	17.62	1670523	772793	Java	j-selby	
@@ -962,7 +963,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1856,time=2022-01-23 00:58:
 0	17.54	249200	259458	C++	Snu	
 0	17.53	3505775	2734755	Python3	Ilophe	
 0	17.53	943556	310663	C++	DollarAkshay	
-0	17.53	2173079	1450857	Java	optimus_prime	
 0	17.53	1354742	418185	Ruby	torxx	
 0	17.5	307013	593542	Python3	Elbarto	
 0	17.5	1287344	796134	Python3	Alshock	
@@ -980,22 +980,22 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1856,time=2022-01-23 00:58:
 0	17.26	880044	307871	C#	Dalmali	
 0	17.25	1469829	3007486	Java	Jazzhop	
 0	17.25	720205	255669	ObjectiveC	Svennevz	
+0	17.25	3863342	3476143	Python3	IGuessTheyWantAName	
 0	17.24	925695	2120548	OCaml	Boulet	
+0	17.23	238747	247125	PHP	defkrie	
 0	17.23	1417559	2135625	C++	NashBean	
 0	17.21	726298	253292	Javascript	reueljonathan	
 0	17.21	1363760	604571	Javascript	Frostizzz	
 0	17.17	1005061	492074	Ruby	drac	
-0	17.15	3863342	3476143	Python3	IGuessTheyWantAName	
 0	17.14	3774645	3004263	Javascript	LimaceHurlante	
 0	17.13	969000	366037	Javascript	KB	
 0	17.13	1173588	374229	C#	MarijBerghuijs	
 0	17.12	842596	304491	Python3	Raph	
 0	17.11	3192184	2250008	Python3	JonathanYudiGunawan	
-0	17.11	238747	247125	PHP	defkrie	
 0	17.1	403447	367026	C#	Maxwell23	
 0	17.08	464686	255821	Javascript	nono0481	
 0	17.07	1921209	1119739	C++	anonymus1111	
 0	17.07	1651569	932961	Go	Insan	
 0	17.03	4281608	3698999	Java	seren_karaseyfioglu	
 0	17.03	3842838	3000594	Javascript	Streusel	
-0	17	2003326	1602408	Python	Rat62	
+0	17.02	1547181	694693	C#	adeo8	
