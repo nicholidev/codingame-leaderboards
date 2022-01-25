@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1148,time=2022-01-24 00:31:11
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1150,time=2022-01-25 00:33:34
 100	11920	2077805	C++	bamilan	
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
@@ -369,6 +369,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1148,time=2022-01-24 00:31:11
 100	3516	2590081	C++	Eris_C	
 100	3507	523846	C#	Palmipedus	
 100	3504	1274026	C#	Sethius	
+100	3500	4343764	Javascript	knknknkn	
+100	3484	1515834	C++	Wobet	
 100	3481	4155983	Javascript	o0lit3	
 100	3473	2377210	Rust	mrBen	
 100	3466	754792	C++	Ramdeath	
@@ -442,12 +444,14 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1148,time=2022-01-24 00:31:11
 100	2754	173522	C#	TeddyS	
 100	2751	4447108	C++	MonkeyFeathers	
 100	2750	1791118	C++	Baboune251	
+100	2743	3950687	Python3	vkreuz	
 100	2724	1502463	Python3	jitsch	
 100	2705	1719856	Lua	YOANN	
 100	2699	2202771	Java	Kaplone	
 100	2687	3775962	Python3	AlexProk	
 100	2680	3846244	Python3	JLukeSkywalker	
 100	2671	2077458	Javascript	Ragi	
+100	2671	4471038	Java	nguyen.lam	
 100	2668	4022435	Python3	Timothee1997	
 100	2650	1046623	Java	the_pins	
 100	2641	2829573	C#	Zwiebelkopf	
@@ -506,7 +510,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1148,time=2022-01-24 00:31:11
 100	2378	990569	C++	Srkr	
 100	2375	3878056	Python3	LighTender	
 100	2358	3778409	Kotlin	l_o_g_a_n	
-100	2354	4471038	Java	nguyen.lam	
 100	2339	650661	Ruby	Syro	
 100	2337	2663983	C#	TheStrategist97	
 100	2334	3465870	C++	HBaudet	
@@ -907,7 +910,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1148,time=2022-01-24 00:31:11
 100	1045	3858550	VB.NET	SPDene	
 100	1045	1880197	Python3	bicklil	
 100	1045	3354337	Bash	Mrs.GloriaZindlebocker	
-100	1045	3950687	Python3	vkreuz	
 100	1045	3979033	Python3	Kadyrgali	
 100	1045	3978889	Python3	Zhansaya_M	
 100	1045	3980441	Python3	hhhdhdhdhdhg	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1148,time=2022-01-24 00:31:11
 100	1045	3723101	Python3	Lilac_Tsuki	
 100	1045	3621436	C++	CMN	
 100	1045	1108968	Python3	Obaul	
-100	1045	2364617	Python3	RomainPicot	
-100	1045	4521307	Python3	gabitho788	
