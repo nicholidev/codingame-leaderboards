@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=416,time=2022-01-25 00:30:07
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=417,time=2022-01-26 00:30:08
 1	42.58	2522090	3777054	C++	MSmits	
 1	39.46	1629259	3790539	C++	Marchete	
 1	39.21	524638	3433428	C++	miklla	
@@ -318,7 +318,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=416,time=2022-01-25 00:30:0
 1	11.54	4004777	3135524	Javascript	Tippie	
 1	11.54	3989873	3133267	Java	JirkaS	
 1	11.54	1490835	3130261	C	Bason1515	
-1	11.53	4685891	3974231	Python3	Laki42	
+1	11.53	4685891	3974231	Python3	Laki_42	
 1	11.53	3688521	3131285	Python3	camno	
 1	11.5	2482615	3922164	Scala	Zenobia	
 1	11.48	1939395	3133334	C#	Feburas	
@@ -386,7 +386,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=416,time=2022-01-25 00:30:0
 0	16.57	2311362	3162500	Javascript	TerenuiRouby	
 0	16.22	3883555	3135646	Python3	icew	
 0	16.16	1861258	3131811	Rust	Nazdhun	
-0	16.11	3938134	3137273	Python3	mapey10811	
+0	16.12	3938134	3137273	Python3	mapey10811	
 0	15.93	3230794	3413813	Python3	tutubalin	
 0	15.89	1178401	3759678	Python3	mizzHuarta	
 0	15.25	1532448	3136527	Javascript	mborecki	
@@ -395,23 +395,24 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=416,time=2022-01-25 00:30:0
 0	13.84	4015275	3136794	C++	herka	
 0	13.64	1819808	3538278	Python3	RedLightning	
 0	12.21	3788128	3132767	C++	Lokesh_Kumar	
-0	9.21	4011653	3137220	Java	CDA-20285-Guillaume-Queffelec	
+0	9.27	4011653	3137220	Java	CDA-20285-Guillaume-Queffelec	
 0	5.18	2069141	3448006	C#	tomeko	
-0	4.07	4169001	3412715	Python3	Nelikey	
-0	2.18	4626700	3955771	PHP	JohnyDarecek	
-0	1.36	1713174	3066591	Python3	BigUP	
-0	0.98	889789	3131540	C	Alain-Delpuch	
-0	0.95	1855354	3139322	Python3	KiwiTae	
-0	0.83	4337717	3625887	Python3	SahilKapoor	
-0	0.8	484004	3516702	Python3	aCat	
-0	0.77	999637	3393902	Python3	dinobogan	
-0	0.7	3980414	3349422	Python3	Penchal1395	
-0	0.6	3939425	3345613	Python3	Coury	
-0	0.51	2325449	3314560	Perl	otpv	
-0	0.32	3990055	3331935	Python3	bcb200	
-0	0.14	4570225	3963208	Java	Hugo_godanceur	
-0	0.13	3627342	3146176	C#	Zuabros	
-0	0.11	3986053	3173768	C++	Backtomars	
-0	0.1	3981181	3133611	Go	monkrus	
-0	-7.15	3994643	3130608	Python3	KingSatur	
-0	-8.62	3883166	3132246	C++	Sanjay_Sharma	
+0	4.58	4169001	3412715	Python3	Nelikey	
+0	2.03	4626700	3955771	PHP	JohnyDarecek	
+0	1.38	1713174	3066591	Python3	BigUP	
+0	1.31	889789	3131540	C	Alain-Delpuch	
+0	1.31	1855354	3139322	Python3	KiwiTae	
+0	1.24	999637	3393902	Python3	dinobogan	
+0	1.18	484004	3516702	Python3	aCat	
+0	1.01	2325449	3314560	Perl	otpv	
+0	0.95	4337717	3625887	Python3	SahilKapoor	
+0	0.53	3939425	3345613	Python3	Coury	
+0	0.38	3980414	3349422	Python3	Penchal1395	
+0	0.33	3990055	3331935	Python3	bcb200	
+0	0.28	3981181	3133611	Go	monkrus	
+0	0.27	3627342	3146176	C#	Zuabros	
+0	0.22	3986053	3173768	C++	Backtomars	
+0	0.17	4183089	3984053	Python3	PringleOrange	
+0	0.16	4570225	3963208	Java	Hugo_godanceur	
+0	-7.3	3994643	3130608	Python3	KingSatur	
+0	-8.75	3883166	3132246	C++	Sanjay_Sharma	

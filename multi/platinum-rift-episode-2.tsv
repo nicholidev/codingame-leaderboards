@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1856,time=2022-01-25 00:33:29
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1857,time=2022-01-26 00:50:37
 0	46.33	1400179	2090524	C++	reCurse	
 0	45.05	1629259	2339355	C++	Marchete	
 0	44.49	2288263	2418174	Rust	dbdr	
@@ -135,10 +135,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1856,time=2022-01-25 00:33:
 0	27.97	2582018	3009698	C	KCrown	
 0	27.97	2981558	2132897	C++	remotfognik	
 0	27.96	1743393	1093139	C++	Yudzhin	
-0	27.96	1200604	3011119	C++	Alos	
 0	27.96	1307473	460623	C++	Evgenykz	
 0	27.95	498616	257287	C++	irhc	
 0	27.95	1393802	3737005	Python3	amzh	
+0	27.95	1200604	3011119	C++	Alos	
 0	27.94	200367	247387	Java	ecc	
 0	27.92	3130148	2987259	Python3	Mika_44	
 0	27.88	1073247	1476130	C++	_NikJ	
@@ -244,6 +244,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1856,time=2022-01-25 00:33:
 0	26.51	2572485	1867135	Ruby	DGynn	
 0	26.5	3299002	2996541	Python3	JeremiePoupard	
 0	26.49	323893	257838	Java	Onjanirina	
+0	26.49	735910	1577985	C++	Agade	
 0	26.48	153045	254408	Javascript	nib	
 0	26.48	1920780	1308457	C++	WagnerGascho	
 0	26.48	2960847	2132900	C++	hendrix	
@@ -251,7 +252,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1856,time=2022-01-25 00:33:
 0	26.47	2337529	3006269	Python3	detonavomek	
 0	26.46	1209562	1661634	C++	Jiway	
 0	26.45	1390607	892335	C++	Ivan_Derzhylo	
-0	26.45	735910	1577985	C++	Agade	
 0	26.44	536072	257775	Java	IKarl	
 0	26.44	1460864	576186	C++	Taliesin	
 0	26.44	1431710	1779034	C++	Thorb	
@@ -450,6 +450,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1856,time=2022-01-25 00:33:
 0	24.21	1673512	2999665	C++	Ryoken	
 0	24.21	1458992	495935	Python	tomo-otsuka	
 0	24.2	1528929	799912	Java	Blackfich	
+0	24.2	1392051	416483	C#	HaydenWilliamRead	
 0	24.19	802230	252054	Java	Orabig	
 0	24.19	495384	300160	C#	Poledustaren	
 0	24.19	224325	3784411	Java	TidyMaze	
@@ -458,7 +459,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1856,time=2022-01-25 00:33:
 0	24.18	1988483	2263187	C#	Uhrond	
 0	24.18	1384569	434519	PHP	Zayaec	
 0	24.18	3270198	2691930	Javascript	simbst	
-0	24.17	1392051	416483	C#	HaydenWilliamRead	
 0	24.17	920987	309924	Python3	redna70	
 0	24.16	226925	370438	Javascript	SancheZZ	
 0	24.16	590875	1231587	Java	Ragusnik	
@@ -728,8 +728,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1856,time=2022-01-25 00:33:
 0	20.61	688633	256984	PHP	jpabloix	
 0	20.6	4372960	3701703	Javascript	Memolino	
 0	20.59	1920401	1117929	C++	FireSquid	
+0	20.58	4395858	3777583	VB.NET	SaidAouani	
 0	20.56	597560	255373	C#	DarkWaw	
-0	20.55	4395858	3777583	VB.NET	SaidAouani	
 0	20.53	1348387	1106321	Java	Harpalionu	
 0	20.52	1135573	2207142	Java	SotirisKentros	
 0	20.49	1489068	800118	C++	Subby_	
@@ -798,11 +798,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1856,time=2022-01-25 00:33:
 0	19.27	4082780	3700449	Python3	Samin_Taheri	
 0	19.27	186405	257049	C#	d-mark	
 0	19.25	590311	255261	Java	realtim	
+0	19.24	1443614	620035	C#	Gaswigue	
 0	19.23	3756021	3004914	Java	TheSkolar	
 0	19.23	1405926	547071	Javascript	mtreinik	
 0	19.22	1512667	658543	Python3	DrevanTonder	
 0	19.22	1802967	3173842	Python3	Meruem	
-0	19.21	1443614	620035	C#	Gaswigue	
 0	19.21	827332	490201	Java	Metalshoot	
 0	19.21	3953398	3768193	Javascript	jinips	
 0	19.2	463094	254024	C++	Voidminded	
@@ -975,6 +975,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1856,time=2022-01-25 00:33:
 0	17.35	155777	256003	Java	Fab	
 0	17.34	2574928	2709326	Rust	votrelec	
 0	17.3	2117127	2240103	Python3	rhv	
+0	17.28	726298	253292	Javascript	reueljonathan	
 0	17.26	2096064	1444593	Python	xiao.sha	
 0	17.26	450391	254239	C++	smrkt	
 0	17.26	880044	307871	C#	Dalmali	
@@ -984,7 +985,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1856,time=2022-01-25 00:33:
 0	17.24	925695	2120548	OCaml	Boulet	
 0	17.23	238747	247125	PHP	defkrie	
 0	17.23	1417559	2135625	C++	NashBean	
-0	17.21	726298	253292	Javascript	reueljonathan	
 0	17.21	1363760	604571	Javascript	Frostizzz	
 0	17.17	1005061	492074	Ruby	drac	
 0	17.14	3774645	3004263	Javascript	LimaceHurlante	

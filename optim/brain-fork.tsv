@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5763,time=2022-01-25 00:33:33
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5767,time=2022-01-26 00:50:40
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -36,6 +36,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5763,time=2022-01-25 00:33:33
 100	3312	3235897	Java	Zylo	
 100	3333	973040	F#	papyjo	
 100	3340	2311105	C++	kovi	
+100	3347	4270882	Python3	[ron]	
 100	3356	154984	PHP	_Royale	
 100	3367	806157	Python3	Aveuh	
 100	3370	1068877	C#	[CPC]Tamno	
@@ -66,7 +67,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5763,time=2022-01-25 00:33:33
 100	3493	558770	Java	lD	
 100	3504	172938	Javascript	kuzmaka	
 100	3507	2043908	C++	AntiSquid	
-100	3510	4270882	Python3	[ron]	
 100	3515	1630890	Java	Wld	
 100	3523	311035	Python3	leojean890	
 100	3524	155774	PHP	dwarfie	
@@ -159,6 +159,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5763,time=2022-01-25 00:33:33
 100	3826	953751	C++	sebv	
 100	3829	1584802	Python3	emh	
 100	3829	1746116	C#	Nick5477	
+100	3831	3950687	Python3	vkreuz	
 100	3833	622213	Go	Ornicare	
 100	3834	567787	C#	SAL9000	
 100	3837	1487392	Java	Razielwar	
@@ -228,7 +229,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5763,time=2022-01-25 00:33:33
 100	4005	826359	Python3	Skywalker	
 100	4006	792813	Python3	VilBoub	
 100	4007	4470306	Python3	NONstope	
-100	4013	3950687	Python3	vkreuz	
 100	4016	999596	Rust	Schyrsivochter	
 100	4017	1408260	C#	Hominoidean	
 100	4018	3480498	PHP	BenPix	
@@ -256,6 +256,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5763,time=2022-01-25 00:33:33
 100	4036	4592681	C++	Urutar	
 100	4036	4576463	C++	Didelabedeli	
 100	4036	4378731	C++	_Pauk_	
+100	4036	4343764	C++	knknknkn	
 100	4041	3481298	C++	mmikhailov	
 100	4045	936661	Python3	bdvir	
 100	4052	4053362	C#	Johan_Braanen	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5763,time=2022-01-25 00:33:33
 100	5884	1634212	C#	PerlinMandleBro	
 100	5884	1652555	Python3	Kalwyn	
 100	5884	1661333	C++	linjoehan	
-100	5884	4065313	C++	XerusPrasinus	
