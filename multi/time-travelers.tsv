@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4845,time=2022-01-26 00:30:12
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4846,time=2022-01-27 00:30:11
 0	47.11	1433161	1484525	C	mingu1.kang	
 0	45.57	494104	455215	C++	Recar	
 0	45.55	990110	357643	C++	Rogerup	
@@ -249,9 +249,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4845,time=2022-01-26 00:30:
 0	37.23	335818	356610	Java	TyraEl	
 0	37.23	409126	349726	Python3	EpicSound	
 0	37.21	610934	348830	C#	y_kawano	
+0	37.19	372352	351937	Java	Maradona	
 0	37.19	341401	351400	OCaml	morf	
 0	37.18	331880	1646602	Scala	Monstruo	
-0	37.14	372352	351937	Java	Maradona	
 0	37.12	156188	355931	PHP	DorianWilde	
 0	37.07	828239	350633	C#	[SG]Bisou	
 0	37.06	937362	358085	Javascript	josh_	
@@ -333,7 +333,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4845,time=2022-01-26 00:30:
 0	35.84	389632	351320	Python	ma	
 0	35.84	153057	744215	PHP	PierralF	
 0	35.84	913697	575048	Java	Tsa6	
-0	35.75	980503	354791	C++	d0_0b	
 0	35.75	802171	351062	PHP	Merome	
 0	35.75	1342993	650267	Python3	Mercutio	
 0	35.71	811857	350465	Java	Illumine	
@@ -341,6 +340,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4845,time=2022-01-26 00:30:
 0	35.71	871430	348691	Java	Arkandias	
 0	35.71	628001	353745	PHP	Herobrine	
 0	35.69	1065810	348671	Python3	ArtemN	
+0	35.69	980503	354791	C++	d0_0b	
 0	35.64	1034042	357837	Java	dungeon_master	
 0	35.64	837350	2195014	Go	BorisZ	
 0	35.64	904045	355157	Java	ZenDoor	
@@ -564,9 +564,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4845,time=2022-01-26 00:30:
 0	33.61	420835	356520	Python	Ishkulov	
 0	33.59	267148	351928	C#	d3dave	
 0	33.55	904209	3086236	Python3	Myrtille44	
-0	33.53	445200	885503	Go	khreenberg	
 0	33.51	1818159	2429944	C++	JRFerguson	
 0	33.51	1000361	354894	C++	Ardenrian	
+0	33.51	445200	885503	Go	khreenberg	
 0	33.48	995658	354941	C++	Faithy	
 0	33.46	155601	346438	C++	mattox	
 0	33.46	197298	351835	Java	Falkor	
@@ -574,6 +574,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4845,time=2022-01-26 00:30:
 0	33.36	1006307	344707	Java	adeldjellal	
 0	33.36	1251381	415506	Java	ZepHead	
 0	33.31	474673	354165	Python3	eXod	
+0	33.23	4108926	3434689	Python3	Saydrick	
 0	33.21	1480384	2422627	C++	RockyMullet	
 0	33.21	1072075	345860	Javascript	vieirasub07	
 0	33.21	1853805	2422539	C++	LuckyMullet	
@@ -601,7 +602,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4845,time=2022-01-26 00:30:
 0	33.14	828459	345068	C++	omu	
 0	33.13	1064518	354080	Java	lombosp	
 0	33.13	1047061	342478	Java	ThePiti85	
-0	33.12	4108926	3434689	Python3	Saydrick	
 0	33.12	845329	3828240	C	Tomtix	
 0	33.12	992144	350705	C++	MikeSixNine	
 0	33.12	854854	355762	Python3	dmitritch	
@@ -846,7 +846,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4845,time=2022-01-26 00:30:
 0	31.26	825477	350477	C#	Leblond	
 0	31.26	4347114	3708471	OCaml	Tizzart_MPSI-LIV	
 0	31.26	3734880	2754610	Swift	DavidJangdal	
-0	31.24	1409924	423547	Java	RevenantMachine	
 0	31.23	2665660	1917445	OCaml	MPSI-LIV_jesappelGrout2	
 0	31.23	527749	629802	Go	Pds	
 0	31.23	350385	1215478	Scala	davnn	
@@ -866,6 +865,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4845,time=2022-01-26 00:30:
 0	31.16	875545	438717	Python3	BELPHEGOR	
 0	31.16	1036070	363002	C++	Lelouchzqy	
 0	31.15	874995	1214728	C++	Andy1210	
+0	31.15	1409924	423547	Java	RevenantMachine	
 0	31.14	1121485	364728	C++	Dowan	
 0	31.13	917606	352479	C	Jomi	
 0	31.13	4347104	3708466	OCaml	Tetraxene-MPSI-LIV	
