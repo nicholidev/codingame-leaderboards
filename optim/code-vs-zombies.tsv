@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=12259,time=2022-01-27 00:36:51
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=12268,time=2022-01-28 00:30:30
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -253,6 +253,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=12259,time=2022-01-27 00:36:51
 100	212780	3298022	C	IKEJIME	
 100	212770	154935	Scala	yamo	
 100	212370	4518975	C++	civtrader	
+100	212250	4537924	Rust	ArtesScytale	
 100	212000	1754295	C++	SF	
 100	211860	4101514	Javascript	Pips42	
 100	210780	1077506	Go	gs2	
@@ -768,7 +769,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=12259,time=2022-01-27 00:36:51
 100	67900	1740037	Scala	ereiam	
 100	67780	3387053	Javascript	best-team	
 100	67720	250352	Javascript	Dorkside	
-100	67710	4537924	Rust	ArtesScytale	
 100	67660	3826720	C++	Noppo	
 100	67400	3393535	Python3	LuckyJ.	
 100	67370	2711016	C#	Manuel0814	
