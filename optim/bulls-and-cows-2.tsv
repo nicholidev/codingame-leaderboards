@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=304,time=2022-01-28 00:30:31
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=304,time=2022-01-29 00:30:26
 100	291	2288263	Rust	dbdr	
 100	294	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -51,6 +51,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=304,time=2022-01-28 00:30:31
 100	349	3809853	C++	Emilio-EH	
 100	363	440476	C++	yowa	
 100	364	3738782	C#	Inaniwa	
+100	379	3343665	Rust	Quidome	
 100	380	1393802	Rust	amzh	
 100	382	4277867	Rust	About	
 100	387	841420	C#	RandomVariable	
@@ -195,7 +196,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=304,time=2022-01-28 00:30:31
 58.69565217391305	5870	406723	Python3	dach	
 58.69565217391305	6195	3305510	C++	TBali	
 58.69565217391305	6301	3704439	Ruby	mandersn	
-56.52173913043478	6158	3343665	Rust	Quidome	
 56.52173913043478	6159	1931039	TypeScript	MooMooN	
 56.52173913043478	6166	1886386	Javascript	h0ly	
 56.52173913043478	6176	2826402	Java	1Alex	
