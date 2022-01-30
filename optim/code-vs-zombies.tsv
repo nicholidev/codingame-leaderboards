@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=12279,time=2022-01-29 00:30:24
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=12288,time=2022-01-30 02:52:11
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -177,6 +177,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=12279,time=2022-01-29 00:30:24
 100	236860	1186292	Rust	GLE	
 100	236160	860404	C++	Vitruvius	
 100	235020	2006324	C	Djangonaut	
+100	234990	4537924	Rust	ArtesScytale	
 100	234820	976712	C++	Ridakz	
 100	234560	1831684	Java	dbf	
 100	234480	1206537	C++	MadKnight	
@@ -189,6 +190,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=12279,time=2022-01-29 00:30:24
 100	231710	3771159	C	tamahom	
 100	231700	2536538	C	Pduhard-	
 100	231360	1848459	Java	Velcoro	
+100	231300	4453922	C	kariiii	
 100	229430	155939	C	xylo	
 100	229290	4148846	C	SkyWhait	
 100	228940	3965226	C		
@@ -253,7 +255,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=12279,time=2022-01-29 00:30:24
 100	212780	3298022	C	IKEJIME	
 100	212770	154935	Scala	yamo	
 100	212370	4518975	C++	civtrader	
-100	212250	4537924	Rust	ArtesScytale	
 100	212000	1754295	C++	SF	
 100	211860	4101514	Javascript	Pips42	
 100	210780	1077506	Go	gs2	
@@ -536,6 +537,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=12279,time=2022-01-29 00:30:24
 100	124450	1139919	VB.NET	Lliane	
 100	124100	1851160	C#	Fabienvs	
 100	123700	783555	C#	Colin88	
+100	123390	1140030	Scala	AdryBender	
 100	123380	476659	C++	Beard	
 100	123050	3319855	C#	Drobor	
 100	122730	3264942	C#	maskit	
@@ -655,6 +657,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=12279,time=2022-01-29 00:30:24
 100	84150	1302094	Clojure	terje	
 100	84090	2378225	Python3	okon	
 100	84070	1483365	Python3	risko	
+100	83360	1229266	Go	AntonKosov	
 100	82750	1457162	Python3	JFB	
 100	82740	4058290	Python3	dsdread	
 100	82130	4159496	C#	maoru	
@@ -996,6 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=12279,time=2022-01-29 00:30:24
 100	64260	1320338	C#	Yves-MarieYmcaBlaevoet	
 100	64260	3962659	C++	ShortBaited	
 100	64260	3699517	C++	Mhite	
-100	64260	4263831	C++	MrFruit	
-100	64260	3425476	C++	SteachTheTurtle	
-100	64260	4184195	C++	Patrick0	
