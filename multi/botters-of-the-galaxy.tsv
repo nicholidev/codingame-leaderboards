@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1009,time=2022-01-30 02:41:29
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1009,time=2022-01-31 00:36:45
 9	30.19	2489835	1769668	C#	Akarachudra	
 9	25.62	2254195	1769673	Java	BrunoFelthes	
 9	25.1	1818159	1769663	C++	JRFerguson	
@@ -553,26 +553,25 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1009,time=2022-01-30 02:41:
 6	-2.66	1108200	1756366	C++	MarkWyz	
 6	-2.93	1538846	1764061	Rust	ZweiPunktFuenf	
 6	-14	1319750	1739795	Ruby	NicholasGarrett	
-5	10.54	3522568	2695629	C++	bot.exe	
-5	9.18	2499257	1848893	C++	Jesega	
-5	6.88	914013	2052983	Python3	HexTree	
-5	-0.65	3807227	3033612	Python3	GaryAflalo	
-5	-1.68	2729093	3848630	Rust	flipped_a_bit	
-5	-1.68	1841051	1933402	Python3	0xbeefed	
-5	-4.86	2836264	2668049	C++	M0N1K4	
-5	-5.24	4092113	3363984	Python3	Chiraag123	
-5	-6.48	3520283	2620947	C++	KlonHero	
+5	12.9	1042911	3989586	TypeScript	Bitmind	
+5	9.72	3522568	2695629	C++	bot.exe	
+5	8.46	2499257	1848893	C++	Jesega	
+5	7.36	914013	2052983	Python3	HexTree	
+5	-0.87	3807227	3033612	Python3	GaryAflalo	
+5	-1.85	1841051	1933402	Python3	0xbeefed	
+5	-1.86	2729093	3848630	Rust	flipped_a_bit	
+5	-4.95	2836264	2668049	C++	M0N1K4	
+5	-5.28	4092113	3363984	Python3	Chiraag123	
+5	-6.49	3520283	2620947	C++	KlonHero	
 5	-6.87	3486079	2503122	Javascript	DerSlack	
 5	-7.15	1285564	1739455	PHP	Rstamper	
-5	-7.6	2219871	1742660	C#	TernumSal	
+5	-7.61	2219871	1742660	C#	TernumSal	
 5	-17.45	3522401	2689917	C++	Aretanas	
 5	-21.45	2467024	1743763	Java	Daytona	
-5	-inf	1461255			Spaider15	
 5	-inf	2493141			Teks3	
 5	-inf	2541857			Mamba642	
 5	-inf	1449129			Nagas	
 5	-inf	2545054			Glebasta_WhiteStar	
-5	-inf	1042911			Bitmind	
 5	-inf	875453			Chapel	
 5	-inf	1877899			Hagalaz	
 5	-inf	2484082			neuromancer	
@@ -660,6 +659,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1009,time=2022-01-30 02:41:
 5	-inf	1399852			Thaell	
 5	-inf	1942723			Tomux	
 5	-inf	591238			wolfnether	
+5	-inf	1461255			Spaider15	
 4	9.34	4557825	3901586	Python3	OSSFF7	
 4	9.27	783129	2433720	C#	Sookie	
 4	8.71	1473079	3983710	Javascript	Zylar	

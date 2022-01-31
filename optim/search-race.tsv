@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=572,time=2022-01-30 02:52:13
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=573,time=2022-01-31 00:54:10
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -13,7 +13,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=572,time=2022-01-30 02:52:13
 100	10751.739999999994	1288527	C++	Snef	
 100	10751.95	2968035	Python3	DomiKo	
 100	10754.76	735487	C++	amurushkin	
-100	10762.55	893541	Java	wala	
+100	10762.080000000004	893541	Java	wala	
 100	10785.819999999998	1838549	C++	orangesnowfox	
 100	10798.61	1566335	Java	BeardedWhale	
 100	10877.459999999995	2923506	C++	darkhorse64	
@@ -80,6 +80,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=572,time=2022-01-30 02:52:13
 100	12526.309999999996	1443075	C++	Wolfy82	
 100	12540.37	4071357	Python3	GrowlingBear	
 100	12540.469999999998	4257906	C++	NotSureWhyThisWorks	
+100	12602.799999999996	2629686	C#	krutovsky	
 100	12604.09	1169499	C++	naab	
 100	12633	1753072	C++	MrOne	
 100	12736.61	2473192	Python3	game-ai-course	
@@ -127,7 +128,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=572,time=2022-01-30 02:52:13
 100	14410.85	4714538	Python3	ekaterinaparamonova	
 100	14414.680000000004	1410353	Rust	SwagColoredKitteh	
 100	14423.209999999995	1952778	Go	blast_beat	
-100	14451.31	2629686	Python3	krutovsky	
 100	14763.829999999998	992329	Python3	BeeGee	
 100	14764.97	3817827	Go	optplx	
 100	14771.22	2135916	Python3	Oioi	
@@ -445,6 +445,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=572,time=2022-01-30 02:52:13
 92	26201.35	4034361	C#	KirbyKirb	
 92	26373.54	3467813	Java	CJava	
 92	27225.42	3753935	Python3	AlexandreMuller	
+90	17097.329999999994	4612315	Python3	Gerritvw	
 90	24394	1876212	Python3	PFischbeck	
 90	24394.000000000004	894826	Java	tekki	
 90	25310.380000000005	1783256	Javascript	curtis2000	
