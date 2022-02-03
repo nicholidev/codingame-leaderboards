@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1155,time=2022-02-02 00:30:25
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1156,time=2022-02-03 00:35:17
 100	11920	2077805	C++	bamilan	
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
@@ -74,6 +74,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1155,time=2022-02-02 00:30:25
 100	9408	1203167	C++	r3versi	
 100	9393	155939	C++	xylo	
 100	9358	805067	C++	Magus	
+100	9358	4262172	C++	highjump	
 100	9312	1631432	C++	freecode	
 100	9224	939530	Java	Jahz	
 100	9194	3380514	Java	DFrese	
@@ -87,7 +88,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1155,time=2022-02-02 00:30:25
 100	9014	1336464	C++	magaiti	
 100	9010	1077559	Java	PhOeNyX	
 100	8993	1706883	C++	CommanderCero	
-100	8977	4262172	C++	highjump	
 100	8961	1484839	Go	sparky	
 100	8944	2040493	Rust	dojomouse	
 100	8932	2902986	C++	Zilvarro	
@@ -374,6 +374,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1155,time=2022-02-02 00:30:25
 100	3507	523846	C#	Palmipedus	
 100	3504	1274026	C#	Sethius	
 100	3500	4343764	Javascript	knknknkn	
+100	3485	4684374	Javascript	Teunisv	
 100	3481	4155983	Javascript	o0lit3	
 100	3473	2377210	Rust	mrBen	
 100	3466	754792	C++	Ramdeath	
@@ -420,11 +421,11 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1155,time=2022-02-02 00:30:25
 100	3036	2856582	C++	Towelie	
 100	3035	894599	Java	DidierC	
 100	2985	925695	OCaml	Boulet	
+100	2979	2017805	Python3	Winter_not_comming	
 100	2958	2327967	Ruby	Karocyt	
 100	2954	2245596	C++	BAZooo	
 100	2947	3305510	PHP	TBali	
 100	2939	783555	C#	Colin88	
-100	2938	2017805	Python3	Winter_not_comming	
 100	2916	2034153	C++	AdriZ	
 100	2908	1733593	Scala	Wei-1	
 100	2888	2687239	Go	Baltilius	
@@ -695,6 +696,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1155,time=2022-02-02 00:30:25
 100	1138	4286616	Python3	Oddrea	
 100	1137	3123668	Python3	MattCliff	
 100	1135	1179357	Javascript	avdg	
+100	1133	3343665	Rust	Quidome	
 100	1129	3791753	Java	607	
 100	1129	4493640	Python3	ChuaZhengHongJonathan	
 100	1125	2921333	Java	WhiskeyJack	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1155,time=2022-02-02 00:30:25
 100	1045	609811	Python3	Atesz	
 100	1045	4218431	Python3	AkihitoUni	
 100	1045	4450463	C#	RickJ	
-100	1045	4481820	Python3	Dr.Bloodmoney	
-100	1045	3106766	Java	Jufo	

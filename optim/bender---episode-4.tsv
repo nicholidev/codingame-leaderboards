@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=241,time=2022-02-02 00:30:26
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=243,time=2022-02-03 00:35:17
 100	1596	3918583	Rust	mikmak	
 100	1675	2288263	Rust	dbdr	
 100	1677	1944090	C#	spaceorc	
@@ -65,12 +65,12 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=241,time=2022-02-02 00:30:26
 100	6615	3518006	Python3	mvpnek	
 96.66666666666669	4713	2051334	C++	Dwarth	
 96.66666666666669	9789	4142307	Python3	Editsira	
+90	2983	3647844	Python3	rc95401	
 86.66666666666667	5025	1364612	Python3	jbressand	
 83.33333333333333	4057	1740037	Scala	ereiam	
 83.33333333333333	4325	1684020	Python3	tom_	
 80	3178	569247	Python3	LaurentBouvier	
 76.66666666666667	2585	1484839	Go	sparky	
-73.33333333333333	1828	3647844	Python3	rc95401	
 73.33333333333333	3730	1910916	C#	VivienBillot	
 63.333333333333336	3703	3494301	Python3	CoreyCV	
 56.666666666666664	4279	3235896	Java	Fenz	
@@ -166,6 +166,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=241,time=2022-02-02 00:30:26
 0	0	3563934	C#	ChuckTheNinja	
 0	0	2649897	C#	0fl	
 0	0	1781541	Python3	Schwase	
+0	0	4259317	C++	amanMahendroo	
 0	16	3503501	C++	Dagnarus	
 0	30	1060181	Ruby	Dabou	
 0	30	1759335	Bash	metahom	
@@ -190,6 +191,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=241,time=2022-02-02 00:30:26
 0	420	1760921	Go	[Leonardone]-[-_-]-[NEETSDKASU]	
 0	420	3536382	Python3	FranckR34	
 0	420	2325449	Perl	otpv	
+0	420	3657944	Python3	xyz-1	
 0	422	3237004	Java	darkmoonbzh	
 0	450	3138005	C++	GerJCS	
 0	450	3214057	Python3	Nesslax	
