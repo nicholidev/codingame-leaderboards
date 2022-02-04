@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=24,time=2022-02-03 00:30:08
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=25,time=2022-02-04 00:30:04
 1	42.69	3136787	3879250	C++	jacek	
 1	35.9	2924895	3864336	C	trictrac	
 1	32.24	1540478	3861097	C++	struct	
@@ -9,17 +9,18 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=24,time=2022-02-03 00:30:08
 1	17.01	2923506	3868458	C++	darkhorse64	
 1	4.14	311035	3890146	Python3	leojean890	
 1	-4.07	862919	3863478	C++	Astrobytes	
-0	27.58	2290633	3867871	Python3	field3	
+0	27.63	2290633	3867871	Python3	field3	
 0	23.02	4390912	3929387	Python3	Benoit_Belasco	
 0	22.5	3647844	3953741	Python3	rc95401	
+0	19.58	3141948	3865108	Python3	philRG	
 0	19.57	2169719	3890555	C	KaluTheFrog	
-0	19.42	3141948	3865108	Python3	philRG	
-0	19.25	792813	3933203	Python3	VilBoub	
-0	11.46	3569066	3861081	C++	derjack	
-0	11.43	973040	3909765	F#	papyjo	
+0	19.34	792813	3933203	Python3	VilBoub	
+0	11.43	3569066	3861081	C++	derjack	
+0	11.28	973040	3909765	F#	papyjo	
 0	11.26	4508271	3906830	Python3	Thorcode	
-0	10.68	4626700	3955767	PHP	JohnyDarecek	
-0	10.55	1412263	3862340	PHP	PatrickMcGinnisII	
-0	10.33	4183089	3985095	Python3	PringleOrange	
-0	10.19	1713174	3874782	Python3	BigUP	
-0	9.77	4646980	3985584	Python3	Kururugi	
+0	10.96	4626700	3955767	PHP	JohnyDarecek	
+0	10.53	1412263	3862340	PHP	PatrickMcGinnisII	
+0	10.43	4183089	3985095	Python3	PringleOrange	
+0	10.33	1713174	3874782	Python3	BigUP	
+0	10.25	4646980	3985584	Python3	Kururugi	
+0	10.2	2325449	3992974	Perl	otpv	

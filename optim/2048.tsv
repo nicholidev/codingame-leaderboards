@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=750,time=2022-02-03 00:35:19
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=752,time=2022-02-04 00:41:37
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
 100	59353524	765200	Rust	FrancoisB	
@@ -35,6 +35,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=750,time=2022-02-03 00:35:19
 100	24972856	4584723	C++	babaaurhum	
 100	24748316	3337117	Rust	timbersson	
 100	22268052	1169264	C++	moarrrr	
+100	22235932	4648805	C++	LordOfElements	
 100	21068732	1050421	Java	geppoz	
 100	20105044	4208158	Python3	Tiouz	
 100	19365776	331880	Kotlin	Monstruo	
@@ -42,7 +43,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=750,time=2022-02-03 00:35:19
 100	18704804	3136787	C++	jacek	
 100	18131096	329200	C++	BlitzProg	
 100	17742928	3647844	C++	rc95401	
-100	17735604	4648805	C++	LordOfElements	
 100	17206600	3971358	C++	OldJohn	
 100	16504096	3919068	C++	14598366	
 100	16393216	972894	C++	resty-daze	
@@ -349,6 +349,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=750,time=2022-02-03 00:35:19
 100	51804	4059960	Java	hexahurz	
 100	51804	3774045	Python3	MasterDuck	
 100	51804	2649897	Python3	0fl	
+100	51452	4664816	C++	lexx_it	
 100	51216	1350974	PHP	Zyxx	
 100	50884	3959384	Python3	DamienCarreau	
 100	50760	1301563	Python3	tenshi42	
@@ -739,6 +740,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=750,time=2022-02-03 00:35:19
 100	344	1579042	Ruby	Hulous	
 100	344	4693644	C++		
 100	344	2625928	C#	.Leonard	
+100	344	4367376	Python3	Squar3	
 100	300	4094683	Python3	Loes	
 100	300	275626	Javascript	GreyMoon	
 100	300	3487406	C#	SyvachenkoMK	

@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=451,time=2022-02-03 00:35:19
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=451,time=2022-02-04 00:41:36
 100	174652	3354337	Scala	Mrs.GloriaZindlebocker	
 100	169004	154984	C++	_Royale	
 100	167588	1530051	C++	UlYoP	
@@ -31,6 +31,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=451,time=2022-02-03 00:35:19
 100	103996	3647844	Python3	rc95401	
 100	102666	509738	C++	Konrad_Wer	
 100	99630	3525167	Java	fgsdt	
+100	99543	2629686	C#	krutovsky	
 100	96229	2510517	C++	Turtlefight	
 100	95691	3487645	Javascript	hypers	
 100	95472	862919	C++	Astrobytes	
@@ -62,7 +63,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=451,time=2022-02-03 00:35:19
 100	65784	218189	C	[CG]Maxime	
 100	63194	2786666	C++	TetraktysPhi	
 100	62112	1436776	C++	BrainSolver	
-100	60770	2629686	Python3	krutovsky	
 100	60072	3533314	C#	skotz	
 100	57735	153965	Python3	Keelhaul	
 100	57552	3015376	Python3	gaha	
@@ -192,6 +192,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=451,time=2022-02-03 00:35:19
 100	20699	153931	C#	Bast	
 100	20198	3979220	Java	sahdevav	
 100	19883	4626981	Python3	QqTest	
+100	19558	1003777	Rust	DanXX09	
 100	19462	970195	C++	Elbanono	
 100	19283	4136008	Python3	jerry_laevis	
 100	18922	1519989	Python3	a5kin	
@@ -217,7 +218,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=451,time=2022-02-03 00:35:19
 100	13977	878974	Python3	nicola	
 100	13906	3028864	VB.NET	lorcQc	
 100	13906	1045485	TypeScript	Jessie	
-100	13906	1003777	Rust	DanXX09	
 100	13816	2474883	Python3	lakeoverflow	
 100	12761	1698958	Javascript	OlafDriver	
 100	12452	3774500	Javascript	zakariamouhid	
