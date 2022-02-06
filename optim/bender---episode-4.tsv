@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=243,time=2022-02-05 01:25:27
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=244,time=2022-02-06 00:32:13
 100	1596	3918583	Rust	mikmak	
 100	1675	2288263	Rust	dbdr	
 100	1677	1944090	C#	spaceorc	
@@ -172,6 +172,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=243,time=2022-02-05 01:25:27
 0	30	1759335	Bash	metahom	
 0	30	4251195	Java	Smelty	
 0	30	4122723	Python3	Hydrazer	
+0	30	2364617	C++	RomainPicot	
 0	31	1029602	C	Potemkine	
 0	43	3177971	Lua	EveryOS	
 0	116	3922731	Dart	Dartisan	
