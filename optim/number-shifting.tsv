@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=359,time=2022-02-08 01:17:51
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=359,time=2022-02-09 00:40:36
 100	999	1629259	PHP	Marchete	
 100	999	3354337	C++	Mrs.GloriaZindlebocker	
 100	999	3949307	C++	xevixevi	
@@ -38,6 +38,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=359,time=2022-02-08 01:17:51
 100	89	1484839	PHP	sparky	
 100	89	3938495	OCaml	o11s	
 100	89	4216789	Perl	Saur2000	
+100	89	2962968	PHP	Pukunya	
 100	80	2451652	PHP	code_of_the_dead	
 100	77	3489223	Javascript	KarloHubai	
 100	71	973040	C	papyjo	
@@ -54,7 +55,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=359,time=2022-02-08 01:17:51
 100	60	3482129	PHP	Tiho97	
 100	60	3235897	Java	Zylo	
 100	60	3983017	PHP	TLbuis	
-100	60	2962968	PHP	Pukunya	
 100	53	512097	Haskell	Stilgart	
 100	53	2980709	C++	ninnghazad	
 100	52	925695	PHP	Boulet	
@@ -179,6 +179,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=359,time=2022-02-08 01:17:51
 100	11	2833929	Python3	pcourrousse	
 100	11	173928	Ruby	lacrosse	
 100	11	4053362	C#	Johan_Braanen	
+100	11	4648805	C++	LordOfElements	
 100	10	3305510	PHP	TBali	
 100	9	2373953	TypeScript	Dridriun	
 100	9	1740037	Scala	ereiam	
@@ -344,7 +345,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=359,time=2022-02-08 01:17:51
 100	1	1323814	D	Wildcat-SC	
 100	1	2625928	C#	.Leonard	
 100	1	2364617	C++	RomainPicot	
-100	1	4648805	C++	LordOfElements	
 0	0	1341520	Java	egaetan	
 0	0	1755783	Python3	Nahgil2614	
 0	0	1429360	C++	comp0zr	
