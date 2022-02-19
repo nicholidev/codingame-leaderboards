@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=56,time=2022-02-18 00:30:07
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=56,time=2022-02-19 00:30:06
 3	39.97	1500515	3372725	C#	eulerscheZahl	
 3	34.37	2288263	2696881	Rust	dbdr	
 3	33.92	2924895	2691058	C	trictrac	
@@ -37,21 +37,21 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=56,time=2022-02-18 00:30:07
 2	10.73	2923506	2679400	C++	darkhorse64	
 2	6.23	4158692	3934137	Python3	All2u	
 2	4.86	1029602	2694410	C	Potemkine	
-0	16.08	1473079	3978274	Javascript	Zylar	
-0	4.74	4183089	3985064	Python3	PringleOrange	
-0	4.66	354788	3681038	C++	Lexer31	
-0	4.64	2325449	3314568	Perl	otpv	
-0	4.63	999637	3393898	Python3	dinobogan	
-0	4.62	1854639	2995973	C#	iDxMeG	
-0	4.59	4525057	3877232	C	brule	
-0	4.56	3984673	3415818	Python3	Rodrigo_the_coder	
-0	4.55	1830993	2681031	C#	jpcheck	
-0	4.55	1713174	2686968	Python3	BigUP	
-0	4.55	523846	2828221	C#	Palmipedus	
-0	4.55	4045070	3524906	Java	cantaloupe9	
-0	4.54	3464590	3012274	C	abbecool	
-0	4.53	4487490	3887267	Python3	cnk_gr	
-0	4.53	4626700	3955750	PHP	JohnyDarecek	
-0	4.52	3854872	3068098	Javascript	TheGenius	
-0	4.52	1412263	3073123	PHP	PatrickMcGinnisII	
+1	6.83	1473079	4006077	Javascript	Zylar	
+0	12.93	1412263	4006074	PHP	PatrickMcGinnisII	
+0	4.53	4183089	3985064	Python3	PringleOrange	
+0	4.5	1830993	2681031	C#	jpcheck	
+0	4.5	1713174	2686968	Python3	BigUP	
 0	4.5	3354337	3450291	C++	Mrs.GloriaZindlebocker	
+0	4.5	3854872	3068098	Javascript	TheGenius	
+0	4.5	3464590	3012274	C	abbecool	
+0	4.5	2325449	3314568	Perl	otpv	
+0	4.5	4525057	3877232	C	brule	
+0	4.49	354788	3681038	C++	Lexer31	
+0	4.48	4487490	3887267	Python3	cnk_gr	
+0	4.48	4626700	3955750	PHP	JohnyDarecek	
+0	4.48	3984673	3415818	Python3	Rodrigo_the_coder	
+0	4.48	523846	2828221	C#	Palmipedus	
+0	4.48	999637	3393898	Python3	dinobogan	
+0	4.48	4045070	3524906	Java	cantaloupe9	
+0	4.48	1854639	2995973	C#	iDxMeG	
