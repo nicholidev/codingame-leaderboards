@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=313,time=2022-02-23 01:00:52
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=313,time=2022-02-24 00:44:04
 100	291	2288263	Rust	dbdr	
 100	293	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -9,6 +9,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=313,time=2022-02-23 01:00:52
 100	302	3533119	C++	wlesavo	
 100	304	1607522	C++	RoboStac	
 100	304	1500515	C++	eulerscheZahl	
+100	306	4341304	C++	Remi.	
 100	307	2923506	C++	darkhorse64	
 100	308	512097	Haskell	Stilgart	
 100	309	3621947	C	vrabosh	
@@ -26,7 +27,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=313,time=2022-02-23 01:00:52
 100	314	155774	C++	dwarfie	
 100	315	2924895	C	trictrac	
 100	318	1629259	C++	Marchete	
-100	318	4341304	C++	Remi.	
 100	319	2416641	C	Zenoscave	
 100	319	1114834	C++	k4ng0u	
 100	319	4753187	C++	boldcrew	
@@ -204,7 +204,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=313,time=2022-02-23 01:00:52
 56.52173913043478	6159	1931039	TypeScript	MooMooN	
 56.52173913043478	6166	1886386	Javascript	h0ly	
 56.52173913043478	6169	3847872	Javascript	Gaspar-Cdv	
-56.52173913043478	6176	2826402	Java	1Alex	
+56.52173913043478	6176	2826402	Java	LPAlex	
 56.52173913043478	7282	4621820	Python3	JorgeEP	
 56.52173913043478	7980	2708267	Python3	XyoloJR	
 54.34782608695652	6848	1765851	Java	abnew123	
@@ -286,6 +286,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=313,time=2022-02-23 01:00:52
 13.043478260869565	12101	3489223	Javascript	KarloHubai	
 13.043478260869565	12245	2387233	C#	SinOfWrath	
 13.043478260869565	12248	723476	Python3	NeoPhnx	
+10.869565217391305	344	3721214	Python3	jrke	
 10.869565217391305	351	3738308	Python3	sgbd	
 10.869565217391305	12392	1279172	Python3	Alphaloc	
 6.521739130434782	938	4286679	Python3	fungi_star	
@@ -307,7 +308,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=313,time=2022-02-23 01:00:52
 2.1739130434782608	13550	3555728	Python3	KVNMDS	
 2.1739130434782608	13550	2070953	Java	programdestroyer	
 0	13846	3627342	C#	Zuabros	
-0	13846	3721214	C++	jrke	
 0	13846	3901646	Python3	VarjaListopad	
 0	13846	153002	C#	fantasyo	
 0	13846	4452094	Bash	masongtxr	

@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2273,time=2022-02-23 00:57:20
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2277,time=2022-02-24 00:40:32
 6	26.44	1400179	2086196	C++	reCurse	
 6	25.97	2725066	2119940	C#	Cize	
 6	25.85	1841051	2086085	C++	0xbeefed	
@@ -685,7 +685,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2273,time=2022-02-23 00:57:
 3	22.91	3464032	2489720	C#	Pinkviini	
 3	22.9	3881980	3028088	Javascript	Yefis	
 3	22.9	4246691	3497275	C#	DelZ	
-3	22.86	314562	2071374	Javascript	Mechar	
+3	22.88	314562	2071374	Javascript	Mechar	
 3	22.82	2493861	3495875	C++	40647043S	
 3	22.82	4246312	3507992	C++	40673034H	
 3	22.73	3260829	3828911	Java	diabol1k	
@@ -741,10 +741,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2273,time=2022-02-23 00:57:
 3	22.06	1328992	2698966	Java	Eutermann	
 3	22.05	2932041	2241061	Python3	avatar12341	
 3	22.04	1829569	2091391	Python3	[0___0]	
+3	22.02	558770	2066860	Javascript	lD	
 3	22.01	2772873	2715262	Python3	Surrealig	
 3	22.01	2047762	2189741	Python3	jabaa	
 3	21.99	3955210	3507140	C++	mathlin	
-3	21.97	558770	2066860	Javascript	lD	
 3	21.97	4226676	3511198	C++	FYFY	
 3	21.97	4007703	3128518	Python3	MOsmanis	
 3	21.97	1698172	3126220	Python3	glop	
@@ -889,7 +889,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2273,time=2022-02-23 00:57:
 3	20.17	1124755	2123198	Java	tfcardoso	
 3	20.14	4707110	3980940	C#	Chakrosch	
 3	20.12	4477789	3798285	Python3	Plasmids	
-3	20.11	1022195	2236131	C	Kwuxy	
 3	20.1	4232545	3538362	C++	TYranno	
 3	20.1	1520982	2612784	Python3	AntonioValenteMacarilay	
 3	20.08	1601561	2108257	Java	Ligarnes	
@@ -897,6 +896,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2273,time=2022-02-23 00:57:
 3	20.04	1466631	2621049	Python3	Akrib	
 3	20.04	1875472	2069963	F#	BillBert	
 3	20.01	1410353	3385620	Rust	SwagColoredKitteh	
+3	20.01	1022195	2236131	C	Kwuxy	
 3	19.98	275620	2332692	Python3	M.C.L.	
 3	19.98	2936928	2229541	Python3	Wrona	
 3	19.95	3325474	2354923	Rust	Bobbadillio	
