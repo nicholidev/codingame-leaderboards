@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6417,time=2022-02-28 00:30:19
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6417,time=2022-03-01 00:30:20
 5	32.37	3193653	3004019	C++	karliso	
 5	31.27	880353	2975979	C++	zasmu	
 5	31.04	1082988	2982332	C++	Saelyos	
@@ -788,7 +788,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6417,time=2022-02-28 00:30:
 3	24.29	1066745	2980030	Java	DepartmentOfRedundancy	
 3	24.29	3766690	3011380	C++	marty4545	
 3	24.24	3938395	3754079	C++	Quentin18	
-3	24.22	3147344	2978648	Python3	Gibruska	
 3	24.21	4066925	3412303	Python3	KrysmaCZ	
 3	24.17	2200342	2976575	C++	BernardoSulzbach	
 3	24.15	1282856	2979300	Javascript	ErikBrendel	
@@ -801,6 +800,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6417,time=2022-02-28 00:30:
 3	24.07	2275088	2976835	C#	RSojak	
 3	24.06	281532	2976665	Scala	Soullz	
 3	24.05	3199548	2980221	C#	yonder83	
+3	24.03	3147344	2978648	Python3	Gibruska	
 3	24.02	2849183	3556349	Java	thebitspud	
 3	24	4287222	3799004	C++	Gaksoo	
 3	24	2258829	3024505	C#	Hiker	
@@ -965,7 +965,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6417,time=2022-02-28 00:30:
 3	22.09	1614797	2975886	Python3	irvcaza	
 3	22.08	2470801	2977533	Java	asirbu	
 3	22.08	3093780	2976177	Java	Stanhope	
-3	22.06	186405	2978991	C#	d-mark	
 3	22.05	2143560	2981597	C++	ashiknur	
 3	22.04	3818278	2975715	C++	_____snow_____	
 3	22.04	2856582	2979844	C++	Towelie	
@@ -988,6 +987,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6417,time=2022-02-28 00:30:
 3	21.94	3046779	2977622	Kotlin	Kathrin	
 3	21.94	1065947	2980390	C#	RPA	
 3	21.93	3509558	2976265	C#	Taikha	
+3	21.92	186405	2978991	C#	d-mark	
 3	21.92	3002906	2977705	Python3	[1078]ElChapo	
 3	21.92	4403610	3795696	C++	anakinCSA	
 3	21.9	1182388	3374671	Javascript	MiNhon	
