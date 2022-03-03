@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=771,time=2022-03-02 00:30:27
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=774,time=2022-03-03 00:33:35
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
 100	59353524	765200	Rust	FrancoisB	
@@ -220,6 +220,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=771,time=2022-03-02 00:30:27
 100	163796	531863	Java	Amin	
 100	161352	1457162	Python3	JFB	
 100	152796	4045442	Python3	slapslash	
+100	152204	1473789	C++	jebouin	
 100	150844	3488041	Rust	KodeMonkey	
 100	149300	4176076	C++	2134512	
 100	144428	4072753	C++	mdstoy	
@@ -355,6 +356,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=771,time=2022-03-02 00:30:27
 100	53512	4251195	Java	Smelty	
 100	53512	1938265	Python3	ANONYMOUS42	
 100	53512	3423700	C++	Old-and-Grumpy	
+100	53320	4755370	Python3	TheoFrancois75	
 100	52376	4105263	Java	Meegumi	
 100	52308	1505665	Python3	NicolasGrosjean	
 100	52032	2831825	Java	1null	
@@ -369,6 +371,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=771,time=2022-03-02 00:30:27
 100	49768	3691491	Javascript	icecream17	
 100	49768	2077805	C++	bamilan	
 100	49768	4446743	Python3	rawalpi	
+100	49756	3806986	PHP	jjdb210	
 100	49692	2532837	Ruby	fauresebast	
 100	49692	1747550	C#	Rafalon	
 100	49692	4100445	Python3	MathiasBennick	
@@ -588,7 +591,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=771,time=2022-03-02 00:30:27
 100	4992	3629224	Python3	NC_Productions	
 100	4948	1039948	Java	ledokubelis	
 100	4832	3349513	Python3	Lamisedaxeh	
-100	4832	4755370	Python3	TheoFrancois75	
 100	4792	1759839	Python3	matleg	
 100	4680	4000111	Python3	PROMETHEUS42	
 100	4668	3863256	Javascript	Deuzwood	
@@ -609,6 +611,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=771,time=2022-03-02 00:30:27
 100	4168	1726873	Javascript	Raviowitch	
 100	4048	3513265	C++	DaNinja	
 100	4036	4058867	TypeScript	I_just_wanna_have_a_name	
+100	3784	4745511	C#	Markus88	
 100	3672	2989414	TypeScript	[Itep]	
 100	3612	4078395	Python3	KevinDaniel-S	
 100	3508	3319548	Java	Ellion35	
@@ -764,7 +767,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=771,time=2022-03-02 00:30:27
 100	300	275626	Javascript	GreyMoon	
 100	300	3487406	C#	SyvachenkoMK	
 100	300	4379624	Bash	KamadoTanjiro	
-100	252	1931701	Java	anis_kt	
+100	252	1931701	Java	anissh	
 100	240	3798577	Python3	Aswoon	
 100	240	4454924	Bash	kingdomplum	
 100	240	4549700	Java		
