@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=257,time=2022-03-04 00:30:04
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=256,time=2022-03-05 00:30:04
 4	34.7	1400179	2355338	Python3	reCurse	
 4	32.45	351062	2355013	C++	Neumann	
 4	29.11	1607522	2351976	C++	RoboStac	
@@ -31,7 +31,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=257,time=2022-03-04 00:30:0
 2	14.92	828239	2355575	C#	[SG]Bisou	
 2	14.82	1457162	2585303	C++	JFB	
 2	13.51	2786666	2356675	C++	TetraktysPhi	
-2	12.26	2043908	3481516	C++	AntiSquid	
 2	10.67	1415495	2355091	C	fenrir	
 2	3.21	3362602	2421263	C++	nulte	
 2	1.18	3457489	2474069	C++	LPV	

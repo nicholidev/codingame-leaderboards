@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=111,time=2022-03-04 00:32:08
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=110,time=2022-03-05 00:30:07
 1	45.43	2924895	3006726	C	trictrac	
 1	43.29	2288263	2852691	Rust	dbdr	
 1	43.03	1489865	2840096	C++	EricSMSO	
@@ -32,7 +32,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=111,time=2022-03-04 00:32:0
 1	22.55	3770485	3064901	C++	zakki	
 1	22.54	3737875	3020872	Java	Gordon-from-Blumberg	
 1	22.23	1518504	2994767	Kotlin	bohuss	
-1	21.47	2043908	3150423	C++	AntiSquid	
 1	21.07	3813021	3384672	C++	Xlos	
 1	19.44	3839737	3069962	Rust	BlackOnWhite	
 1	19.02	3808031	2994773	Ruby	_proton	

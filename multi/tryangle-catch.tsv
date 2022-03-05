@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=56,time=2022-03-04 00:32:18
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=55,time=2022-03-05 01:15:42
 3	32.11	4119720	3848686	C++	maniekTC	
 3	28.01	2311105	3457413	C++	kovi	
 3	23.58	2288263	3481308	Rust	dbdr	
@@ -51,7 +51,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=56,time=2022-03-04 00:32:18
 0	2.91	3567321	3467613	Python3	TPhilippe	
 0	2.89	4183089	3984364	Python3	PringleOrange	
 0	2.85	862498	3756390	C#	Graviton_Noir	
-0	2.82	2043908	3449974	D	AntiSquid	
 0	2.6	1341520	3414715	Java	egaetan	
 0	-3.23	3267572	3468256	C#	Nenos	
 0	-13.46	764093	3462476	Python3	Melf	

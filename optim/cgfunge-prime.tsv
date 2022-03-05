@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=271,time=2022-03-04 00:32:27
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=271,time=2022-03-05 01:15:55
 100	4654	3949307	Perl	xevixevi	
 100	4743	2288263	Rust	dbdr	
 100	5613	4208158	Python3	Tiouz	
@@ -36,6 +36,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=271,time=2022-03-04 00:32:27
 100	32793	1518732	PHP	Apfeloxid	
 100	32915	371603	PHP	martin	
 100	33173	2061249	OCaml	delisea	
+100	33364	3657937	Python3	elderlybeginner	
 100	34130	2786666	Pascal	TetraktysPhi	
 100	34334	3226448	PHP	tobk	
 100	34940	1114834	PHP	k4ng0u	
@@ -46,7 +47,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=271,time=2022-03-04 00:32:27
 100	37115	1178276	PHP	Jerome_95	
 100	37187	3711954	PHP	kpjl	
 100	37188	888898	PHP	helgui	
-100	37364	3657937	Python3	elderlybeginner	
 100	37399	3490454	PHP	PAug	
 100	38056	759147	C++	kisszots	
 100	38092	3475407	Python3	LeChat.Sokolov	
@@ -101,7 +101,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=271,time=2022-03-04 00:32:27
 100	54778	3354337	C++	StraumliPerversion	
 100	54778	4576463	PHP	Didelabedeli	
 100	54878	4277867	Javascript	About	
-100	55498	2043908	D	AntiSquid	
 100	56808	3563934	Python3	ChuckTheNinja	
 100	57006	893259	Python3	pveniat	
 100	57020	3339680	C++	Iornek	
@@ -253,6 +252,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=271,time=2022-03-04 00:32:27
 47	987	4428547	PHP	CappuccinoCoder	
 47	2004	1274026	C#	Sethius	
 47	4606	3496138	Python3	HayTheFirst	
+47	6016	4730289	Python3	Claypiston	
 47	6204	2833929	Python3	pcourrousse	
 42	48066	1932980	Javascript	AlexandreK	
 38	40108	490905	Python3	lechium06_	
