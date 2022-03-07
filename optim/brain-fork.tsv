@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5880,time=2022-03-06 00:30:29
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5884,time=2022-03-07 00:30:25
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -478,6 +478,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5880,time=2022-03-06 00:30:29
 100	4856	897543	C++	Peiffer-antoine.fr	
 100	4859	1443075	C++	Wolfy82	
 100	4860	847660	Java	HarderThanNP	
+100	4860	1241661	Python3	jukkes	
 100	4878	909992	C++	PluC	
 100	4879	4011783	TypeScript	sylbouns	
 100	4882	4456275	C#	giawa	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5880,time=2022-03-06 00:30:29
 100	5875	985015	Python3	Eniidras	
 100	5876	994344	Java	Momopouccino	
 100	5876	4162603	Java	Eluminati	
-100	5877	880044	C#	Dalmali	
