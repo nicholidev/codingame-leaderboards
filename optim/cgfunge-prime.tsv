@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=272,time=2022-03-07 00:30:35
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=272,time=2022-03-08 00:53:08
 100	4654	3949307	Perl	xevixevi	
 100	4743	2288263	Rust	dbdr	
 100	5613	4208158	Python3	Tiouz	
@@ -33,8 +33,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=272,time=2022-03-07 00:30:35
 100	31397	3918583	PHP	mikmak	
 100	31792	569247	Python3	LaurentBouvier	
 100	31822	3165536	PHP	barbora	
+100	32672	3657937	Python3	elderlybeginner	
 100	32793	1518732	PHP	Apfeloxid	
-100	32820	3657937	Python3	elderlybeginner	
 100	32915	371603	PHP	martin	
 100	33173	2061249	OCaml	delisea	
 100	34130	2786666	Pascal	TetraktysPhi	
@@ -150,6 +150,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=272,time=2022-03-07 00:30:35
 100	88672	3847976	PHP	[SG]Mob-Programming	
 100	90161	953094	PHP	Witman	
 100	91141	952784	Python3	[CG]Simon	
+100	91327	4136008	Python3	jerry_laevis	
 100	93189	4319426	Python3	Schnegge	
 100	95106	4595779	Haskell	wmarkham	
 100	96431	1429360	C++	comp0zr	
@@ -171,7 +172,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=272,time=2022-03-07 00:30:35
 100	158793	1412263	PHP	PatrickMcGinnisII	
 99	70310	1517967	C++	Santerminator	
 99	76164	3348927	Python3	asterion9	
-99	104556	4136008	Python3	jerry_laevis	
 98	82926	4410456	PHP	luke03	
 96	152840	948764	Python3	Katie	
 96	172086	3751016	Java	Q12	

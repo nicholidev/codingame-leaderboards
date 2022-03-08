@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=313,time=2022-03-07 00:30:35
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=313,time=2022-03-08 00:53:08
 100	291	2288263	Rust	dbdr	
 100	293	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -54,6 +54,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=313,time=2022-03-07 00:30:35
 100	349	3809853	C++	Emilio-EH	
 100	363	440476	C++	yowa	
 100	364	3738782	C#	Inaniwa	
+100	364	1684020	Python3	tom_	
 100	379	3343665	Rust	Quidome	
 100	380	1393802	Rust	amzh	
 100	382	4277867	Rust	About	
@@ -78,7 +79,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=313,time=2022-03-07 00:30:35
 100	581	2290633	Ruby	field3	
 100	583	552776	TypeScript	player_one	
 100	586	3685512	C	CobraTV	
-100	611	1684020	Python3	tom_	
 100	631	3792309	Python3	schachmatt	
 100	660	1179950	Swift	Patorikkuyatta	
 100	668	4046903	C#	Matt_Eagle	
@@ -168,6 +168,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=313,time=2022-03-07 00:30:35
 97.82608695652172	2203	2838943	Python3	zapakh	
 97.82608695652172	6934	2172874	Rust	Med1ane	
 95.65217391304348	1776	3165536	C#	barbora	
+95.65217391304348	3328	1140677	C++	Crog	
 93.47826086956522	1241	4641581	C++	hoody7	
 93.47826086956522	2083	1072200	C	alze	
 93.47826086956522	4413	3406987	Python3	Radu_Sav	
@@ -214,7 +215,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=313,time=2022-03-07 00:30:35
 52.17391304347826	6757	1030709	C#	Cmdr.Shepard	
 52.17391304347826	7157	3780912	C#	Siska	
 52.17391304347826	7951	3358232	Python3	JessR	
-52.17391304347826	8084	1140677	C++	Crog	
 52.17391304347826	9018	4350370	C#	Bela575	
 50	7051	1035630	Java	Vestiaz	
 50	7152	2625928	C#	.Leonard	
