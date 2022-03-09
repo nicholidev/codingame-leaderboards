@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=647,time=2022-03-08 00:53:09
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=648,time=2022-03-09 00:37:25
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -431,6 +431,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=647,time=2022-03-08 00:53:09
 100	24183.770000000004	1386924	Python3	Ylec	
 100	24191.679999999993	4386234	Python3	EnoGic	
 100	24312.050000000003	4046903	C#	Matt_Eagle	
+100	24439.83	3775234	Javascript	Xavier_LGLS	
 100	24639.05	3429151	Rust	musshush	
 98	13762.290000000005	4718307	Python3		
 98	14773.699999999995	1540478	C++	struct	
