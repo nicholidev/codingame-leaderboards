@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=313,time=2022-03-09 00:37:25
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=314,time=2022-03-10 00:32:51
 100	291	2288263	Rust	dbdr	
 100	293	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -145,6 +145,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=313,time=2022-03-09 00:37:25
 100	1730	2064637	Java	java_coffee_cup	
 100	1754	371603	Ruby	martin	
 100	1844	4146980	Python3	Bernathan	
+100	1855	1140677	C++	Crog	
 100	1936	3740208	Python3	Dinca	
 100	2002	4390014	Python3	yfe42	
 100	2046	4315171	Java	Soucis	
@@ -168,7 +169,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=313,time=2022-03-09 00:37:25
 97.82608695652172	2203	2838943	Python3	zapakh	
 97.82608695652172	6934	2172874	Rust	Med1ane	
 95.65217391304348	1776	3165536	C#	barbora	
-95.65217391304348	3328	1140677	C++	Crog	
 93.47826086956522	1241	4641581	C++	hoody7	
 93.47826086956522	2083	1072200	C	alze	
 93.47826086956522	4413	3406987	Python3	Radu_Sav	
@@ -312,3 +312,4 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=313,time=2022-03-09 00:37:25
 0	13846	153002	C#	fantasyo	
 0	13846	4452094	Bash	masongtxr	
 0	13846	4626700	PHP	JohnyDarecek	
+0	13846	4183089	Python3	PringleOrange	
