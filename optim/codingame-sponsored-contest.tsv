@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=14671,time=2022-03-10 00:32:50
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=14682,time=2022-03-13 00:30:30
 100	14337	329200	C++	BlitzProg	
 100	13905	3533119	C++	wlesavo	
 100	13603	1366631	Javascript	Morhaus	
@@ -60,6 +60,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14671,time=2022-03-10 00:32:50
 100	4380	3766690	C++	marty4545	
 100	4377	1140756	C++	BarbsMan	
 100	4373	182536	Scala	dbo	
+100	4338	4714305	C#	Aki1020	
 100	4326	1687754	Java	cg123	
 100	4318	1186273	Ruby	knacky	
 100	4292	154961	C#	[CPC]Foudge	
@@ -925,6 +926,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14671,time=2022-03-10 00:32:50
 100	2250	2273312	Python3	racko	
 100	2248	3409742	C++	Machiavelli_5040	
 100	2248	4260220	Python3	Molpio	
+100	2248	4673683	C++	BartK	
 100	2246	300292	Haskell	0rca	
 100	2246	1243255	Python3	tavator	
 100	2244	1286277	Python3	Belzh	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14671,time=2022-03-10 00:32:50
 100	2166	2315158	Java	luigi_gelato	
 100	2164	1786155	PHP	MakingOf	
 100	2164	225875	C#	leff	
-100	2162	426401	Python3	RedLeader	
-100	2162	2904988	Python3	Evan_He	
