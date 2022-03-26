@@ -1,5 +1,5 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=474,time=2022-03-13 00:30:32
-100	174652	3354337	Scala	StraumliPerversion	
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=479,time=2022-03-26 00:30:25
+100	174652	3354337	Scala	Westicles	
 100	169004	154984	C++	_Royale	
 100	167588	1530051	C++	UlYoP	
 100	166108	2923506	C++	darkhorse64	
@@ -63,15 +63,20 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=474,time=2022-03-13 00:30:32
 100	65784	218189	C	[CG]Maxime	
 100	63194	2786666	C++	TetraktysPhi	
 100	62112	1436776	C++	BrainSolver	
+100	60812	4749470	Python3	magnus5552	
 100	60072	3533314	C#	skotz	
+100	59404	4756592	Python3	kroki221	
 100	57735	153965	Python3	[CG]Keelhaul	
 100	57552	3015376	Python3	gaha	
 100	57184	4752465	Python3	SpideyDan	
 100	57151	4755137	Python3	artem2222	
+100	57084	4756080	Python3	endymion	
 100	56966	331880	Kotlin	Monstruo	
 100	56950	3260156	C#	KrzysiekSlawik	
-100	55722	4749470	Python3	magnus5552	
+100	56638	4753199	Python3	Kaigorodov	
+100	56382	4752178	Python3	Stas_Korolev	
 100	54688	3721214	C++	jrke	
+100	54673	4758191	Python3	ChickiBoomBoxer	
 100	54633	2436448	Java	FrancoisMeme	
 100	54084	973040	C	papyjo	
 100	53892	1441239	Kotlin	Dyd	
@@ -79,7 +84,9 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=474,time=2022-03-13 00:30:32
 100	52108	414278	Java	oobException	
 100	51426	1003777	Rust	DanXX09	
 100	51345	4714500	Python3	hoffck	
-100	51248	4758191	Python3	ChickiBoomBoxer	
+100	51204	3508047	Python3	MexBanDoc	
+100	50643	4756908	Python3	Ryuk124	
+100	50616	3607260	Python3		
 100	50610	4713863	Python3	starscreeper	
 100	50264	4277867	D	About	
 100	50034	2350415	C++	Vintarel	
@@ -89,27 +96,24 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=474,time=2022-03-13 00:30:32
 100	49341	992329	C++	BeeGee	
 100	49090	3513265	C++	DaNinja	
 100	48890	3738782	C#	Inaniwa	
-100	48806	3508047	Python3	MexBanDoc	
 100	48806	4758147	Python3	ferrovovan	
 100	48016	4211864	C#	jubick1337	
+100	47940	4752159	Python3	Strauwu	
 100	47886	3691382	C#	Kamil2601	
 100	46958	734401	C++	b0n5a1	
 100	46889	2007852	Lua	Zorg1	
 100	46410	1737246	Python3	Adam798	
 100	45340	1535382	Java	CrankNaz	
-100	44964	4756908	Python3	Ryuk124	
-100	44964	4752159	Python3	Strauwu	
 100	43800	4053362	C#	Johan_Braanen	
 100	42986	1952778	Go	blast_beat	
 100	42984	4755109	Python3	casadd	
-100	42182	4756592	Python3	kroki221	
-100	42182	4752178	Python3	Stas_Korolev	
 100	40442	4510576	C++	__Malina	
 100	40370	894599	Javascript	DidierC	
 100	40340	1838549	Rust	orangesnowfox	
 100	40148	3563934	C#	ChuckTheNinja	
 100	39838	4714501	Python3	username_ss	
 100	39658	4714534	Python3	Taya_bg	
+100	38920	335954	Java	nmahoude	
 100	38894	4713954	Python3	AbObUs-_-	
 100	38584	2617115	Java	Foltergeist113	
 100	38528	389786	Java	menu	
@@ -155,8 +159,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=474,time=2022-03-13 00:30:32
 100	32283	2833929	Python3	pcourrousse	
 100	32092	1397268	C	RTLB	
 100	31952	4714510	Python3	polina_natasha	
-100	31952	4756080	Python3	endymion	
-100	31952	4753199	Python3	Kaigorodov	
 100	31716	1404379	C++	hpa	
 100	31595	1754295	Rust	SF	
 100	31593	311035	Python3	leojean890	
@@ -185,7 +187,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=474,time=2022-03-13 00:30:32
 100	27730	4713146	Python3	Lerka_bes	
 100	26956	3987513	Javascript	Element118	
 100	26950	1178276	Java	Jerome_95	
-100	26932	2153101	Python3	Bilou06	
+100	26932	2153101	Python3	Sylvain0675	
 100	26564	4526264	Python3	cly	
 100	26352	3307436	Python3	kudzoo	
 100	26343	811622	C++	Scarfield	
@@ -201,6 +203,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=474,time=2022-03-13 00:30:32
 100	22270	3842724	C++	[ohirune]zzz	
 100	22238	2785892	Python3	levbor	
 100	22101	4218167	C#	33L3H2	
+100	22064	4760387	Python3	W-A-L-L-E	
 100	21978	1158098	TypeScript	Matjaz	
 100	21921	1473789	C++	jebouin	
 100	21068	1480426	Python3	Hikari42	
@@ -209,6 +212,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=474,time=2022-03-13 00:30:32
 100	20699	153931	C#	Bast	
 100	20198	3979220	Java	sahdevav	
 100	19883	4626981	Python3	QqTest	
+100	19797	4648805	C++	LordOfElements	
 100	19462	970195	C++	Elbanono	
 100	19283	4136008	Python3	jerry_laevis	
 100	18922	1519989	Python3	a5kin	
@@ -269,7 +273,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=474,time=2022-03-13 00:30:32
 100	9848	1910916	C#	VivienBillot	
 100	9847	3806841	C++	SWi	
 100	9822	3406987	Python3	Radu_Sav	
-100	9813	4648805	C++	LordOfElements	
 100	9806	3580156	Python3	SeraphWeddUltimate	
 100	9790	1093968	C++	milosMATRIXrepic	
 100	9790	2520236	Python3	Yumahey	
@@ -315,6 +318,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=474,time=2022-03-13 00:30:32
 100	9486	3486522	C++	Linze	
 100	9486	4155983	C++	o0lit3	
 100	9486	4718127	C++		
+100	9486	4612315	C++	Gerritvw	
 100	9480	1861258	Rust	Nazdhun	
 100	9444	3975507	C++	SenLai	
 100	9412	1043688	Javascript	Erebe3133123	
@@ -368,6 +372,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=474,time=2022-03-13 00:30:32
 100	8860	3329141	C#	andrea_angella	
 100	8774	3982719	Javascript	pierre-db	
 100	8567	3558096	C++	LapinChiffre	
+100	8542	3806986	PHP	jjdb210	
 100	8492	814685	Javascript	AthosPyte	
 100	8268	3847872	Javascript	Gaspar-Cdv	
 100	8030	3985025	Python3	nickname02	
@@ -381,6 +386,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=474,time=2022-03-13 00:30:32
 100	7456	1588583	Python3	dANNs	
 100	7434	1566990	Swift	Elsu	
 100	7430	4134943	Python3	vinc-r	
+100	7428	1896959	PHP	helmegior	
 100	7376	1200669	Python3	houseofsuns	
 100	7296	1549856	TypeScript	Keylan	
 100	7134	1457223	C++	jleconte	
@@ -403,7 +409,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=474,time=2022-03-13 00:30:32
 100	6500	3904540	Python3	Queuebee	
 100	6500	1653682	Java	iesouibenoa	
 100	6500	2153226	Python3	frehage	
-100	6500	3970082	Python3	AymericDelaunay	
+100	6500	3970082	Python3	AkumaNemui	
 100	6500	3620087	C++	Batfly	
 100	6500	2015072	Ruby	cervemar	
 100	6500	3332198	Java	Matsoy	
@@ -468,7 +474,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=474,time=2022-03-13 00:30:32
 0	20	1035630	Java	Vestiaz	
 0	20	4585938	Python3	Risodu	
 0	20	3379773	Rust	Bernerdo	
-0	6	3806986	PHP	jjdb210	
 0	0	294412	Python3	Kalaspa	
 0	0	3980627	Python3	Metzen	
 0	0	3720818	Python3	DustyMarlowe	

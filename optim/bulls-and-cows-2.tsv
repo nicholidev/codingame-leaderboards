@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=315,time=2022-03-13 00:30:31
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=318,time=2022-03-26 00:30:25
 100	291	2288263	Rust	dbdr	
 100	293	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -58,6 +58,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=315,time=2022-03-13 00:30:31
 100	379	3343665	Rust	Quidome	
 100	380	1393802	Rust	amzh	
 100	382	4277867	Rust	About	
+100	384	3983017	PHP	TLbuis	
 100	387	841420	C#	RandomVariable	
 100	403	1684486	C++	Whopper	
 100	414	3226448	Rust	tobk	
@@ -76,6 +77,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=315,time=2022-03-13 00:30:31
 100	567	2786666	C++	TetraktysPhi	
 100	576	4216789	Perl	Saur2000	
 100	578	481988	Kotlin	DevKirill	
+100	579	1475413	TypeScript	AlucardDH	
 100	581	2290633	Ruby	field3	
 100	583	552776	TypeScript	player_one	
 100	586	3685512	C	CobraTV	
@@ -98,7 +100,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=315,time=2022-03-13 00:30:31
 100	820	4061329	C++	KLPP	
 100	828	2398608	Python3	M_C	
 100	847	3711954	Python3	kpjl	
-100	885	3983017	PHP	TLbuis	
 100	890	1457162	Python3	JFB	
 100	903	3647844	Python3	rc95401	
 100	907	2058158	Python3	RolandKnight	
@@ -118,7 +119,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=315,time=2022-03-13 00:30:31
 100	1037	1782814	C#	Trilusion	
 100	1065	2202771	Java	Kaplone	
 100	1079	2364617	C++	RomainPicot	
-100	1111	2153101	Python3	Bilou06	
+100	1111	2153101	Python3	Sylvain0675	
 100	1122	1378958	C#	Illedan	
 100	1136	4576463	Python3	Didelabedeli	
 100	1151	3846923	Kotlin	Hildan	
@@ -129,6 +130,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=315,time=2022-03-13 00:30:31
 100	1303	4261121	Python3	Louwi	
 100	1355	4487490	Python3	cnk_gr	
 100	1360	4003601	C#	Mathieu1988	
+100	1370	508460	C++	Volia	
 100	1380	4559916	Javascript	Karne	
 100	1415	1075220	Java	sebmarty	
 100	1416	3269275	C#	Ille-Stream	
@@ -151,6 +153,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=315,time=2022-03-13 00:30:31
 100	2046	4315171	Java	Soucis	
 100	2101	1412263	PHP	PatrickMcGinnisII	
 100	2116	3899102	C++	Bart89	
+100	2223	3354337	C++	Westicles	
 100	2237	3657937	Python3	elderlybeginner	
 100	2351	1331143	Javascript	Alois.S	
 100	2378	1272263	Python3	Caled	
@@ -183,7 +186,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=315,time=2022-03-13 00:30:31
 80.43478260869566	3029	3401105	C++	Husoski	
 78.26086956521739	3357	1876212	Python3	PFischbeck	
 78.26086956521739	3685	3950687	Python3	vkreuz	
-78.26086956521739	3720	3354337	C++	StraumliPerversion	
 78.26086956521739	6524	3723101	Python3	Lilac_Tsuki	
 76.08695652173913	3871	4152522	PHP	wilkyo	
 73.91304347826087	3824	1483798	Go	hm001	
@@ -266,6 +268,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=315,time=2022-03-13 00:30:31
 21.73913043478261	11714	3486522	Python3	Linze	
 19.565217391304348	11591	1594351	Python3	elplouk	
 19.565217391304348	11634	3536382	Python3	FranckR34	
+19.565217391304348	11708	4420742	Python3	Mortis_666	
 19.565217391304348	11891	3808031	Ruby	_proton	
 19.565217391304348	11932	3494301	Python3	CoreyCV	
 19.565217391304348	12030	2631176	PHP	Sedera	
