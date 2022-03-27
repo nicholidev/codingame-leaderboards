@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=12891,time=2022-03-26 00:30:23
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=12901,time=2022-03-27 00:39:37
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -97,6 +97,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=12891,time=2022-03-26 00:30:23
 100	317110	1064903	C++	Ghirtor	
 100	315410	1854246	C++	Counterbalance	
 100	303850	588426	C++	Jeff06	
+100	303220	893541	Java	wala	
 100	300910	4447108	C	MonkeyFeathers	
 100	300650	1059996	C#	Molybdene	
 100	300350	2311105	C++	kovi	
@@ -108,6 +109,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=12891,time=2022-03-26 00:30:23
 100	291300	1015295	Java	Velicko	
 100	290910	329200	C++	BlitzProg	
 100	290580	4008340	C	Shawnny	
+100	289400	4612315	C	Gerritvw	
 100	287770	3954357	C	laudep	
 100	287290	788361	C++	Bob	
 100	286460	3428379	C++	Stra	
@@ -132,7 +134,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=12891,time=2022-03-26 00:30:23
 100	268010	3814292	Go	Beretta_Vexee	
 100	264800	4370749	C#	EulPicard	
 100	261530	4270131	C	Jack_HerRrer	
-100	260300	893541	Java	wala	
 100	258950	3903847	C#	UnicornP	
 100	256370	2315158	Java	luigi_gelato	
 100	255000	1337609	C++	FlyingRaccoon	
@@ -207,6 +208,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=12891,time=2022-03-26 00:30:23
 100	224790	994468	C++	darkdieg	
 100	224160	1300254	Python3	Escdemon	
 100	224100	1757792	Java	oreshnik	
+100	223900	4797686	C	ede800	
 100	223780	4290907	C++	janm31415	
 100	223630	3965155	C		
 100	223100	735910	C++	Agade	
@@ -280,6 +282,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=12891,time=2022-03-26 00:30:23
 100	207890	3965104	C	casd2	
 100	207540	331248	C	Zycho	
 100	207490	3626931	C	BlackStorm	
+100	206700	4809631	C++	MasterOogway	
 100	206480	4659075	C	WillyChen	
 100	206300	2145460	Java	r33ncode	
 100	206220	1152991	C#	xoposhiy	
@@ -308,7 +311,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=12891,time=2022-03-26 00:30:23
 100	202450	1853167	Java	rcode	
 100	202360	272290	Go	Clement0635	
 100	202300	3939443	C++	Lafihalas	
-100	201680	4809631	C	MasterOogway	
 100	201370	2729630	C++	Halphas	
 100	201150	2632447	C#	Andrey135296	
 100	201140	668954	C++	Fluxor	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=12891,time=2022-03-26 00:30:23
 100	64260	4058416	C++	ZacDonald	
 100	64260	4026335	C++	maxoftheking	
 100	64260	1128095	C++	ako68	
-100	64260	154806	C++	piwai	
-100	64260	3606038	C++	AIDRI	
