@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1197,time=2022-03-27 00:39:43
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1199,time=2022-03-28 00:30:28
 100	11920	2077805	C++	bamilan	
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
@@ -160,6 +160,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1197,time=2022-03-27 00:39:43
 100	7258	788361	C++	Bob	
 100	7241	153057	PHP	PierralF	
 100	7217	2058158	C#	RolandKnight	
+100	7204	2629686	C#	krutovsky	
 100	7200	1754295	Rust	SF	
 100	7189	1206537	C++	MadKnight	
 100	7140	1343111	Javascript	Thal	
@@ -170,7 +171,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1197,time=2022-03-27 00:39:43
 100	6909	2521394	Kotlin	FrankR	
 100	6905	4095799	Pascal	circular17	
 100	6791	2018552	C++	gurualo	
-100	6783	2629686	C#	krutovsky	
 100	6675	933299	Scala	ThibautRobert	
 100	6656	2158577	C++	zuko3d	
 100	6633	1152991	C#	xoposhiy	
@@ -502,6 +502,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1197,time=2022-03-27 00:39:43
 100	2470	3381410	Python3	laurent33	
 100	2470	4034494	Rust	GTaf	
 100	2469	2837454	Java	Inc_	
+100	2465	3776530	Python3	Insufficient	
 100	2447	1792532	C#	Zanbez	
 100	2445	1997415	Java	LordCatello	
 100	2438	153965	Python3	[CG]Keelhaul	
@@ -626,6 +627,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1197,time=2022-03-27 00:39:43
 100	1684	256955	C++	cup_of_tea	
 100	1673	1734039	C++	ProfJack	
 100	1658	3143143	C	TripleCrown	
+100	1658	3696867	Java	chouxchoux	
 100	1654	3373803	PHP	Fanfoi125	
 100	1652	1990452	C#	Benoit_L	
 100	1624	3306551	Python3	StoneRiverPrg	
@@ -692,6 +694,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1197,time=2022-03-27 00:39:43
 100	1235	2631176	PHP	Sedera	
 100	1235	1925452	Python3	Cyriax	
 100	1235	4399098	Javascript	koheikkk	
+100	1235	1895182	TypeScript	Jean_Francois_R	
 100	1233	2497890	C#	BlackBird	
 100	1216	3496138	Python3	HayTheFirst	
 100	1216	2826280	C++	guilhembn	
@@ -718,7 +721,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1197,time=2022-03-27 00:39:43
 100	1129	4493640	Python3	ChuaZhengHongJonathan	
 100	1125	2921333	Java	WhiskeyJack	
 100	1119	3258892	Python3	ARVR	
-100	1118	3696867	Java	chouxchoux	
 100	1116	4504049	Javascript	Deliambre	
 100	1114	3341794	Java	ggggggggg2	
 100	1108	3520116	C#	poik007	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1197,time=2022-03-27 00:39:43
 100	1045	1229845	Java	Jipe	
 100	1045	3749964	Python3	WillTheBill	
 100	1045	4309574	Python3	KornDV	
-100	1045	1979290	Python3	salmon	
-100	1045	3039012	Rust	matsu7874	
