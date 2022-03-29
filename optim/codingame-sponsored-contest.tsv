@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=14740,time=2022-03-28 00:30:28
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=14746,time=2022-03-29 00:30:34
 100	14337	329200	C++	BlitzProg	
 100	13905	3533119	C++	wlesavo	
 100	13603	1366631	Javascript	Morhaus	
@@ -798,6 +798,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14740,time=2022-03-28 00:30:28
 100	2502	225892	F#	ikarni	
 100	2502	3965571	Python3	Smekarn	
 100	2502	4283515	PHP	FrancoisBaveye	
+100	2500	981878	Java	nicolasD	
 100	2498	1250260	C	Elche	
 100	2498	3751016	C#	Q12	
 100	2497	1892369	C#	Blackw	
@@ -805,6 +806,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14740,time=2022-03-28 00:30:28
 100	2496	2652481	C#		
 100	2496	1449433	C++	Rolf	
 100	2494	3504879	Python3	SRobot	
+100	2494	4756200	C++	tueda	
 100	2492	1485699	Python3	TabulaRasa	
 100	2491	1034499	Java	DOS	
 100	2484	1195856	Java	daifei4321	
@@ -900,7 +902,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14740,time=2022-03-28 00:30:28
 100	2322	3775656	Python3	Folichon	
 100	2320	925695	OCaml	Boulet	
 100	2320	3674955	Python3	TheClownDE	
-100	2320	981878	Java	nicolasD	
 100	2318	1207939	Python3	Senua	
 100	2310	841420	C#	RandomVariable	
 100	2306	335954	Java	nmahoude	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14740,time=2022-03-28 00:30:28
 100	2174	2897230	C#	kalevala	
 100	2174	865548	Python3	Kktus	
 100	2174	3760956	Python3	GeekNbOne	
-100	2172	1479098	C++	Elventian	
