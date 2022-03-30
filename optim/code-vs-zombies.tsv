@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=12927,time=2022-03-29 00:30:34
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=12935,time=2022-03-30 00:40:45
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -96,7 +96,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=12927,time=2022-03-29 00:30:34
 100	322820	186179	C++	Nagrarok	
 100	317110	1064903	C++	Ghirtor	
 100	315410	1854246	C++	Counterbalance	
-100	304890	893541	Java	wala	
+100	310690	893541	Java	wala	
 100	303850	588426	C++	Jeff06	
 100	300910	4447108	C	MonkeyFeathers	
 100	300650	1059996	C#	Molybdene	
@@ -508,6 +508,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=12927,time=2022-03-29 00:30:34
 100	141430	3784861	Python3	thiebt	
 100	141050	527749	Javascript	Pds	
 100	140890	4372726	C++	artem_skor	
+100	140770	1579627	Python3	Bahrani	
 100	140540	1484601	Java	theFool	
 100	140350	2360927	Java	schuutj	
 100	140310	4298841	C#	Dapps	
@@ -755,6 +756,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=12927,time=2022-03-29 00:30:34
 100	72610	648983	C++	Elliot	
 100	72530	1568785	C	Chalzy	
 100	72330	2419215	Python3	FinalFrag	
+100	72200	4586203	Python3	sixsicksix	
 100	72100	715319	C#	poksh	
 100	72100	2052376	Rust	JoeySK	
 100	71970	973040	C++	papyjo	
@@ -790,7 +792,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=12927,time=2022-03-29 00:30:34
 100	68180	1864483	Go	Mistblinde	
 100	68050	4449717	C#	Hawke	
 100	67900	1740037	Scala	ereiam	
-100	67840	4586203	Python3	sixsicksix	
 100	67780	3387053	Javascript	best-team	
 100	67720	250352	Javascript	Dorkside	
 100	67660	3826720	C++	Noppo	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=12927,time=2022-03-29 00:30:34
 100	64260	2063592	C++	Gbaud	
 100	64260	3762469	Python3	0x47726579	
 100	64260	4058416	C++	ZacDonald	
-100	64260	4026335	C++	maxoftheking	

@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1201,time=2022-03-29 00:30:34
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1201,time=2022-03-30 00:40:45
 100	11920	2077805	C++	bamilan	
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
@@ -75,6 +75,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1201,time=2022-03-29 00:30:34
 100	9358	805067	C++	Magus	
 100	9358	4262172	C++	highjump	
 100	9312	1631432	C++	freecode	
+100	9287	4341304	C++	Remi.	
 100	9224	939530	Java	Jahz	
 100	9194	3380514	Java	DFrese	
 100	9170	1481544	C++	ZarthaxX	
@@ -92,7 +93,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1201,time=2022-03-29 00:30:34
 100	8932	2902986	C++	Zilvarro	
 100	8931	886483	C	R4N4R4M4	
 100	8919	1273065	C++	TheRadical	
-100	8902	4341304	C++	Remi.	
 100	8887	1756952	C++	Petras	
 100	8872	735910	C++	Agade	
 100	8854	1734105	C++	Bibou	
@@ -183,6 +183,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1201,time=2022-03-29 00:30:34
 100	6364	196808	Java	bonam	
 100	6350	1831684	Java	dbf	
 100	6317	1479236	Java	Syj	
+100	6277	3776530	Python3	Insufficient	
 100	6272	2762653	C#	RAAAT	
 100	6229	734401	C++	b0n5a1	
 100	6225	873958	C#	cheeser	
@@ -228,7 +229,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1201,time=2022-03-29 00:30:34
 100	5400	155774	C++	dwarfie	
 100	5395	3707873	C#	Philbot	
 100	5394	2000899	C#	GeoBlack	
-100	5389	3776530	Python3	Insufficient	
 100	5380	2317747	Haskell	ElPsyCongroo2011	
 100	5374	4053362	C#	Johan_Braanen	
 100	5371	956529	C++	Moduus	
@@ -440,6 +440,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1201,time=2022-03-29 00:30:34
 100	2908	1733593	Scala	Wei-1	
 100	2888	2687239	Go	Baltilius	
 100	2887	795321	Java	berthy424	
+100	2878	1895182	TypeScript	Jean_Francois_R	
 100	2875	3740208	Python3	Dinca	
 100	2853	2482615	Python3	Zenobia	
 100	2844	717456	Python3	BullsEye72	
@@ -681,7 +682,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1201,time=2022-03-29 00:30:34
 100	1349	2879143	Python3	Rodeuse1	
 100	1321	4520982	Python3	nickv97	
 100	1316	2984118	Java	aplq	
-100	1310	1895182	TypeScript	Jean_Francois_R	
 100	1293	2642273	Python3	Pluk	
 100	1284	2782074	C#	LancerX0	
 100	1280	1525816	Javascript	Flodnes	

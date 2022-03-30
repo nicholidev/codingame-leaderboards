@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5936,time=2022-03-29 00:30:33
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5938,time=2022-03-30 00:40:44
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -184,10 +184,10 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5936,time=2022-03-29 00:30:33
 100	3900	416762	C#	Khao	
 100	3904	2526322	Java	fhemsworth	
 100	3910	706692	Java	alexhap	
+100	3914	3481994	Python3	nipaC	
 100	3922	4165137	Python3	tactile	
 100	3930	632549	Java	Keiras	
 100	3931	4714305	C#	Aki1020	
-100	3931	3481994	Python3	nipaC	
 100	3944	1264368	C#	Ultimacho	
 100	3946	1505744	Python3	KEKW	
 100	3947	1061663	C++	Pivis	
@@ -391,6 +391,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5936,time=2022-03-29 00:30:33
 100	4501	856695	Java	colegu	
 100	4506	155939	C	xylo	
 100	4508	2672932	Python3	Lanfeust	
+100	4510	2421141	Python3	HomerS.	
 100	4522	153683	Dart	40R15T3	
 100	4525	931112	C#	stelar	
 100	4537	3864752	Rust	MuddySneakers	
@@ -620,7 +621,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5936,time=2022-03-29 00:30:33
 100	5558	2241559	Python3	eskeln	
 100	5558	2007852	Go	Zorg1	
 100	5558	2591714	Python3	Yamabushi	
-100	5558	2421141	Python3	HomerS.	
 100	5559	3457031	C++	YurkovAS	
 100	5562	1076454	C#	LordCM	
 100	5563	944594	Java	omarkammoun	
