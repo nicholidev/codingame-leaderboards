@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=12950,time=2022-03-31 00:30:34
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=12967,time=2022-04-01 00:30:25
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -68,6 +68,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=12950,time=2022-03-31 00:30:34
 100	385600	2786666	C++	TetraktysPhi	
 100	374900	4090213	C++	andrecab	
 100	372960	3366188	Rust	SteveWhite	
+100	370330	893541	Java	wala	
 100	366070	1100752	C++	ValNykol	
 100	364940	4343764	C	knknknkn	
 100	363530	3727272	Javascript	paszo	
@@ -95,7 +96,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=12950,time=2022-03-31 00:30:34
 100	322820	186179	C++	Nagrarok	
 100	317110	1064903	C++	Ghirtor	
 100	315410	1854246	C++	Counterbalance	
-100	311730	893541	Java	wala	
 100	303850	588426	C++	Jeff06	
 100	300910	4447108	C	MonkeyFeathers	
 100	300650	1059996	C#	Molybdene	
@@ -353,6 +353,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=12950,time=2022-03-31 00:30:34
 100	189260	1238934	C++	accorp	
 100	189190	3433338	C#	RedRabbit	
 100	188930	880353	C++	zasmu	
+100	188630	3776530	Python3	Insufficient	
 100	188380	1041619	Java	ryguyfiveatgmaildotcom	
 100	188340	3337117	Rust	timbersson	
 100	188070	1086050	Python3	aandrukhovich	
@@ -411,7 +412,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=12950,time=2022-03-31 00:30:34
 100	172090	3959384	Java	DamienCarreau	
 100	172060	4055973	Java	Aeschli	
 100	172010	3203557	C++	burnpanck	
-100	171880	3776530	Python3	Insufficient	
 100	171870	1258533	Rust	MathJason	
 100	171820	957176	F#	MWilliam	
 100	171720	1096201	Javascript	Maksimov	
@@ -677,6 +677,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=12950,time=2022-03-31 00:30:34
 100	84150	1302094	Clojure	terje	
 100	84090	2378225	Python3	okon	
 100	84070	1483365	Python3	risko	
+100	83720	3871167	C	ncoursol	
 100	82750	1457162	Python3	JFB	
 100	82740	4058290	Python3	dsdread	
 100	82630	4102489	C#	Fredbart94	
@@ -738,6 +739,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=12950,time=2022-03-31 00:30:34
 100	74710	370969	C#	fgeo	
 100	74360	4000543	Java	DerRaphe	
 100	74220	1497552	Python3	clemclem	
+100	74130	4259902	Python3	Nalisco	
 100	73960	940791	Javascript	Kris117	
 100	73950	429850	Python3	Powazny	
 100	73860	1688466	C++	geoffroy	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=12950,time=2022-03-31 00:30:34
 100	64260	4018528	Javascript	toony	
 100	64260	3002086	Python3	Mercy38	
 100	64260	2063592	C++	Gbaud	
-100	64260	3762469	Python3	0x47726579	
-100	64260	4058416	C++	ZacDonald	
