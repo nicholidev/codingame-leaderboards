@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5946,time=2022-04-01 00:30:24
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5951,time=2022-04-02 00:30:27
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -101,6 +101,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5946,time=2022-04-01 00:30:24
 100	3671	1675720	C#	AxFab	
 100	3680	507383	C#	Vadasz	
 100	3684	351062	Java	Neumann	
+100	3692	3481994	Python3	nipaC	
 100	3696	858602	C++	Suigetsusake	
 100	3696	1528929	C++	Blackfich	
 100	3696	1753424	C++	FilkinKuiv	
@@ -146,7 +147,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5946,time=2022-04-01 00:30:24
 100	3778	668906	Java	Sandworm	
 100	3781	886483	ObjectiveC	R4N4R4M4	
 100	3786	869323	C++	Ferra	
-100	3792	3481994	Python3	nipaC	
 100	3795	3982709	Rust	lukasjapan	
 100	3804	950088	C#	Nickname123	
 100	3807	1441239	Javascript	Dyd	
@@ -382,11 +382,11 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5946,time=2022-04-01 00:30:24
 100	4471	1734105	Python3	Bibou	
 100	4471	903179	Go	maksmas	
 100	4475	3337790	C#	gitbeginer	
+100	4475	2421141	Python3	HomerS.	
 100	4476	154348	ObjectiveC	ProYd	
 100	4476	2976356	C++	magmasa	
 100	4482	1487535	Perl	SvartRiddare	
 100	4483	2250452	Python3	Isac	
-100	4484	2421141	Python3	HomerS.	
 100	4485	1838549	Rust	orangesnowfox	
 100	4490	599674	Javascript	NinetyOne	
 100	4501	856695	Java	colegu	
@@ -731,6 +731,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5946,time=2022-04-01 00:30:24
 100	5726	4136008	Python3	jerry_laevis	
 100	5728	952626	OCaml	Tesseract	
 100	5728	331880	Scala	Monstruo	
+100	5728	4771383	Python3	Mythael	
 100	5730	303151	Python3	MoOT.Cube	
 100	5730	1469666	C++	alenic	
 100	5731	1642654	C#	zibizz1	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5946,time=2022-04-01 00:30:24
 100	5871	4648805	C++	LordOfElements	
 100	5872	476659	C++	Beard	
 100	5872	941805	PHP	losGismos	
-100	5872	1473079	Javascript	Zylar	
