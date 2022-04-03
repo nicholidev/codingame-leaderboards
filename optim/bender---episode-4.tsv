@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=248,time=2022-04-02 00:30:29
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=248,time=2022-04-03 00:45:56
 100	1596	3918583	Rust	mikmak	
 100	1675	2288263	Rust	dbdr	
 100	1677	1944090	C#	spaceorc	
@@ -33,6 +33,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=248,time=2022-04-02 00:30:29
 100	2486	3343665	Rust	Quidome	
 100	2533	4216789	C	Saur2000	
 100	2539	2786666	C++	TetraktysPhi	
+100	2564	4673683	C++	BartK	
 100	2574	1525821	C#	Jeroo	
 100	2638	759147	C++	kisszots	
 100	2815	2555066	Python3	dyc3	
@@ -51,7 +52,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=248,time=2022-04-02 00:30:29
 100	3626	512097	Haskell	Stilgart	
 100	4276	894599	Java	DidierC	
 100	4438	3457031	C++	YurkovAS	
-100	4884	4673683	C++	BartK	
 100	4886	668906	Kotlin	Sandworm	
 100	4886	3406987	C#	Radu_Sav	
 100	4886	1787026	Java	xurei	
@@ -102,6 +102,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=248,time=2022-04-02 00:30:29
 3.3333333333333335	12	3421837	Python3	Naindlac	
 3.3333333333333335	46	3625469	VB.NET	Crimson_King	
 3.3333333333333335	70	893541	Java	wala	
+3.3333333333333335	162	1802967	Python3	Meruem	
 3.3333333333333335	163	4353077	D	ast191001	
 3.3333333333333335	163	3235897	Java	Zylo	
 3.3333333333333335	2670	2416641	Bash	Zenoscave	
@@ -148,7 +149,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=248,time=2022-04-02 00:30:29
 0	0	970195	C++	Elbanono	
 0	0	3496153	Python3	lndshs	
 0	0	2708267	Javascript	XyoloJR	
-0	0	1802967	Python3	Meruem	
 0	0	2172874	Rust	Med1ane	
 0	0	3751016	Javascript	Q12	
 0	0	1485015	C++	Murky	
