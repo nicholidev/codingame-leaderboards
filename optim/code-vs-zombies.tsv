@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=13018,time=2022-04-05 00:44:47
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=13025,time=2022-04-06 00:30:30
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -33,6 +33,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13018,time=2022-04-05 00:44:47
 100	543500	1273065	C++	TheRadical	
 100	505510	1549145	C++	Mealc	
 100	494650	4070745	C	HoriMiyamura	
+100	489100	893541	Java	wala	
 100	487200	862919	C++	Astrobytes	
 100	486090	2436448	Java	FrancoisMeme	
 100	481750	4017851	C	Pintago	
@@ -66,7 +67,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13018,time=2022-04-05 00:44:47
 100	406200	2571540	C	Nagatwin	
 100	404550	155774	C++	dwarfie	
 100	385600	2786666	C++	TetraktysPhi	
-100	379210	893541	Java	wala	
 100	374900	4090213	C++	andrecab	
 100	372960	3366188	Rust	SteveWhite	
 100	366070	1100752	C++	ValNykol	
@@ -738,6 +738,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13018,time=2022-04-05 00:44:47
 100	75530	1932059	Python3	Zhiesold	
 100	74850	2221405	C++	LaxmanRawat	
 100	74710	370969	C#	fgeo	
+100	74690	4599928	Python3	lhommefm	
 100	74490	4586203	Python3	sixsicksix	
 100	74360	4000543	Java	DerRaphe	
 100	74220	1497552	Python3	clemclem	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13018,time=2022-04-05 00:44:47
 100	64260	808608	C++	Locutus	
 100	64260	1247487	C++	BrutalNikisa	
 100	64260	4018528	Javascript	toony	
-100	64260	3002086	Python3	Mercy38	
