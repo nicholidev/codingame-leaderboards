@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=480,time=2022-04-07 00:32:32
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=486,time=2022-04-08 00:30:31
 100	174652	3354337	Scala	Westicles	
 100	169004	154984	C++	_Royale	
 100	167588	1530051	C++	UlYoP	
@@ -160,6 +160,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=480,time=2022-04-07 00:32:32
 100	32283	2833929	Python3	pcourrousse	
 100	32092	1397268	C	RTLB	
 100	31952	4714510	Python3	polina_natasha	
+100	31952	4813853	Python3	nek32	
+100	31952	4807984	Python3	futig	
 100	31716	1404379	C++	hpa	
 100	31595	1754295	Rust	SF	
 100	31593	311035	Python3	leojean890	
@@ -241,6 +243,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=480,time=2022-04-07 00:32:32
 100	13906	3028864	VB.NET	lorcQc	
 100	13906	1045485	TypeScript	Jessie	
 100	13816	2474883	Python3	lakeoverflow	
+100	13596	4627200	Python3	Fwcode	
 100	12761	1698958	Javascript	OlafDriver	
 100	12452	3774500	Javascript	zakariamouhid	
 100	11626	4341304	C++	Remi.	
@@ -270,6 +273,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=480,time=2022-04-07 00:32:32
 100	9902	1162493	Python3	irmo322	
 100	9902	4447108	C#	MonkeyFeathers	
 100	9902	1468627	Python3	Macgyverx	
+100	9902	4808696	Python3	Kistras	
 100	9894	1412263	PHP	PatrickMcGinnisII	
 100	9848	1910916	C#	VivienBillot	
 100	9847	3806841	C++	SWi	
@@ -320,6 +324,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=480,time=2022-04-07 00:32:32
 100	9486	4155983	C++	o0lit3	
 100	9486	4718127	C++		
 100	9486	4612315	C++	Gerritvw	
+100	9486	3975966	C++	HoussemHach	
 100	9480	1861258	Rust	Nazdhun	
 100	9444	3975507	C++	SenLai	
 100	9412	1043688	Javascript	Erebe3133123	
@@ -424,6 +429,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=480,time=2022-04-07 00:32:32
 75	6496	1874704	PHP	pkogan	
 40	27217	4067344	C++	Bitterisland6	
 35	28915	3998980	Python3	bamax	
+30	31952	4800806	Python3	Super_Max	
 0	1222	2294763	C++	Maxyx	
 0	492	2069141	C#	tomeko	
 0	476	3783962	Python3	Mohsen1365ir	

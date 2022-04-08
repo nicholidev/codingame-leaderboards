@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6460,time=2022-04-07 00:30:13
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6461,time=2022-04-08 00:30:19
 5	31.53	3193653	3004019	C++	karliso	
 5	31.39	880353	2975979	C++	zasmu	
 5	31.05	1082988	2982332	C++	Saelyos	
@@ -836,7 +836,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6460,time=2022-04-07 00:30:
 3	23.59	1991836	2994703	C#	qbit86	
 3	23.59	3802430	2979812	Java	Andronnix	
 3	23.58	3803789	2980305	Java	jeffreyxiao	
-3	23.58	154367	2979371	Java	lapsus63	
 3	23.57	4375436	3734490	Go	spinner-web	
 3	23.56	3726308	3002629	Python3	Klapoutz	
 3	23.56	1391220	2976750	PHP	mesavitae	
@@ -851,6 +850,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6460,time=2022-04-07 00:30:
 3	23.52	1062962	2980397	C++	ArmandO.S.	
 3	23.51	2102562	2979948	Python3	lyan	
 3	23.5	3805081	2979229	Python3	ai_rice	
+3	23.49	154367	2979371	Java	lapsus63	
 3	23.49	2297753	2979684	Python3	Warly7692	
 3	23.49	996279	2978733	C++	BOBKA	
 3	23.49	2443365	2979951	Javascript	Lulemair	
@@ -908,9 +908,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6460,time=2022-04-07 00:30:
 3	22.95	3230794	2977172	Java	tutubalin	
 3	22.95	4402003	3796999	Java	10002	
 3	22.94	3418590	2978233	C++	LaPatateU	
+3	22.93	3795574	2978549	Javascript	Iron-postier	
 3	22.91	2654648	2978421	Python3	AntiP0w	
 3	22.9	3733716	2978389	C#	Bastett	
-3	22.89	3795574	2978549	Javascript	Iron-postier	
 3	22.85	3160781	3468121	Java	Aenerion35	
 3	22.83	1437684	2979624	C#	Maulkin	
 3	22.77	3757728	2975969	C#	semera	
@@ -981,6 +981,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6460,time=2022-04-07 00:30:
 3	21.96	904209	3013143	Python3	Myrtille44	
 3	21.95	2056541	2977345	Java	PeF	
 3	21.95	3647844	3451270	Python3	rc95401	
+3	21.95	3755775	2978159	Java	EmeryCSquared	
 3	21.94	1171469	2979292	Java	Reblochon	
 3	21.94	3046779	2977622	Kotlin	Kathrin	
 3	21.94	1065947	2980390	C#	RPA	
@@ -992,7 +993,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6460,time=2022-04-07 00:30:
 3	21.89	624730	2977190	Scala	ak79	
 3	21.88	1451255	2975876	Javascript	Marcob	
 3	21.87	574826	2990338	Java	heisenbug	
-3	21.86	3755775	2978159	Java	EmeryCSquared	
 3	21.85	1443538	2978237	Java	Gevater_Tod4711	
 3	21.84	3806519	2978641	Python3	ijc90	
 3	21.82	2333354	2977665	C++	Allybag	

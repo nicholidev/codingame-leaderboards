@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=13032,time=2022-04-07 00:32:30
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=13052,time=2022-04-08 00:30:29
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -32,8 +32,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13032,time=2022-04-07 00:32:30
 100	611130	837350	C++	BorisZ	
 100	543500	1273065	C++	TheRadical	
 100	505510	1549145	C++	Mealc	
+100	496310	893541	Java	wala	
 100	494650	4070745	C	HoriMiyamura	
-100	489100	893541	Java	wala	
 100	487200	862919	C++	Astrobytes	
 100	486090	2436448	Java	FrancoisMeme	
 100	481750	4017851	C	Pintago	
@@ -290,6 +290,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13032,time=2022-04-07 00:32:30
 100	205690	2051334	C++	Dwarth	
 100	205670	1487392	Java	Razielwar	
 100	205460	3884461	C	NguyenHoangSon	
+100	205460	1288527	C++	Snef	
 100	205310	1547011	C	Mandzi	
 100	205280	3877700	Rust	Bytekeeper	
 100	205260	3642129	Python3	nicotard	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13032,time=2022-04-07 00:32:30
 100	64260	1726600	C++	Patate	
 100	64260	808608	C++	Locutus	
 100	64260	1247487	C++	BrutalNikisa	
-100	64260	4018528	Javascript	toony	
