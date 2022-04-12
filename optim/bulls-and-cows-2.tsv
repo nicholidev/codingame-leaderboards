@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=320,time=2022-04-11 00:37:18
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=320,time=2022-04-12 00:30:26
 100	291	2288263	Rust	dbdr	
 100	293	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -92,10 +92,10 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=320,time=2022-04-11 00:37:18
 100	717	3435179	Python3	Valphyr	
 100	721	1960325	Javascript	Bladx	
 100	722	924425	Javascript	poney	
+100	778	4283515	PHP	FrancoisBaveye	
 100	782	1925452	Python3	Cyriax	
 100	791	4136008	Python3	jerry_laevis	
 100	794	4662405	Python3	helpmefindaname	
-100	794	4283515	PHP	FrancoisBaveye	
 100	800	1201783	Python3	qsantos	
 100	812	3625469	VB.NET	Crimson_King	
 100	820	4061329	C++	KLPP	
@@ -251,7 +251,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=320,time=2022-04-11 00:37:18
 34.78260869565217	9196	1429360	C#	comp0zr	
 34.78260869565217	9200	4028352	Python3	David_Emmanuel	
 32.608695652173914	9469	2069141	C#	tomeko	
-32.608695652173914	10663	962495	C++	eboot	
+32.608695652173914	10663	962495	C++	eboot.	
 30.434782608695652	10415	3704725	Python3	kmart	
 28.26086956521739	9997	1740037	Scala	ereiam	
 28.26086956521739	10170	3423700	C++	Old-and-Grumpy	

@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=492,time=2022-04-11 00:37:19
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=498,time=2022-04-12 00:30:26
 100	174652	3354337	Scala	Westicles	
 100	169004	154984	C++	_Royale	
 100	167588	1530051	C++	UlYoP	
@@ -165,6 +165,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=492,time=2022-04-11 00:37:19
 100	31952	4813853	Python3	nek32	
 100	31952	4811257	Python3	polyakazachenko	
 100	31952	4814178	Python3	ERSHEG	
+100	31952	4811889	Python3	aas1565	
+100	31952	4811880	Python3	CLABA	
 100	31716	1404379	C++	hpa	
 100	31595	1754295	Rust	SF	
 100	31593	311035	Python3	leojean890	
@@ -202,6 +204,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=492,time=2022-04-11 00:37:19
 100	25980	1336464	C++	magaiti	
 100	25610	3950417	Python3	Alikyou	
 100	25600	1050421	Python3	geppoz	
+100	24926	4833941	Python3		
+100	24926	4745002	Python3	Simosha	
 100	24566	3845610	Python3	pardouin	
 100	23514	4652107	Python3	JonnyWhite	
 100	23428	1160614	C#	moon21	
@@ -229,6 +233,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=492,time=2022-04-11 00:37:19
 100	18600	1719856	PHP	YOANN	
 100	18565	4072753	C++	mdstoy	
 100	17980	4788019	Python3	Houounin_Kouoma	
+100	17980	4809891	Python3	ArGoNeOn	
 100	17028	3305510	PHP	TBali	
 100	16681	2235616	Rust	BroneKot	
 100	16528	2416641	Python3	Zenoscave	
@@ -322,7 +327,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=492,time=2022-04-11 00:37:19
 100	9608	1698512	Python3	VDKZ	
 100	9608	3660682	Python3	Bglacial	
 100	9598	377054	C#	ToTopH	
-100	9596	962495	C++	eboot	
+100	9596	962495	C++	eboot.	
 100	9595	1480501	C++	DaFish	
 100	9500	819858	C#	Ephis	
 100	9486	3486522	C++	Linze	
@@ -486,6 +491,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=492,time=2022-04-11 00:37:19
 0	20	1035630	Java	Vestiaz	
 0	20	4585938	Python3	Risodu	
 0	20	3379773	Rust	Bernerdo	
+0	20	4762440	Python3	yarik0514	
 0	0	294412	Python3	Kalaspa	
 0	0	3980627	Python3	Metzen	
 0	0	3720818	Python3	DustyMarlowe	
