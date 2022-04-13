@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=13112,time=2022-04-12 00:30:24
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=13131,time=2022-04-13 01:00:30
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -278,6 +278,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13112,time=2022-04-12 00:30:24
 100	208880	3256989	C++	rizant	
 100	208600	4615536	C		
 100	208580	2363657	C++	Ztrk	
+100	208450	1288527	C++	Snef	
 100	208100	4425076	C	Malu38	
 100	207890	3965104	C	casd2	
 100	207540	331248	C	Zycho	
@@ -290,7 +291,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13112,time=2022-04-12 00:30:24
 100	205690	2051334	C++	Dwarth	
 100	205670	1487392	Java	Razielwar	
 100	205460	3884461	C	NguyenHoangSon	
-100	205460	1288527	C++	Snef	
 100	205310	1547011	C	Mandzi	
 100	205280	3877700	Rust	Bytekeeper	
 100	205260	3642129	Python3	nicotard	
@@ -708,6 +708,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13112,time=2022-04-12 00:30:24
 100	79460	1169835	C	soleraeus	
 100	79300	828213	Go	anst	
 100	79290	1249138	Python3	Pymole	
+100	79120	4586203	Python3	sixsicksix	
 100	79090	1295111	Python3	Andrii.Bakulin	
 100	78780	1737246	Python3	Adam798	
 100	78780	1243876	Java	Hi-Low_World	
@@ -735,7 +736,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13112,time=2022-04-12 00:30:24
 100	76310	1469666	Python3	alenic	
 100	75990	504994	Java	NikitON	
 100	75980	1908091	Python3	RedAustin	
-100	75870	4586203	Python3	sixsicksix	
 100	75700	1440207	Python3	Rungekutta	
 100	75660	1407720	Python3	bananaMixer	
 100	75530	1932059	Python3	Zhiesold	
