@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5985,time=2022-04-13 01:00:29
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5987,time=2022-04-14 00:30:29
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -632,6 +632,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5985,time=2022-04-13 01:00:29
 100	5578	2550213	C++	hogehoge	
 100	5580	1684030	Rust	Mator	
 100	5582	4209343	Java	petor	
+100	5582	4639401	Python3	Citrate_Bios	
 100	5583	4156437	Python3	komiamiko	
 100	5585	1535819	Java	Afordancja	
 100	5586	1078288	Haskell	d6r27-h59p	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5985,time=2022-04-13 01:00:29
 100	5871	867983	Java	Matze0815	
 100	5871	1583455	C++	phyzen	
 100	5871	2671038	Python3	1one	
-100	5871	1132011	C#	pci	

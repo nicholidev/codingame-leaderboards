@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7807,time=2022-04-13 00:57:32
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7809,time=2022-04-14 00:30:15
 5	43.86	1400179	3665384	C++	reCurse	
 5	40.05	3457031	3873772	C++	YurkovAS	
 5	37.66	4300424	3704114	Rust	kurnevsky	
@@ -390,7 +390,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7807,time=2022-04-13 00:57:
 4	40.78	868137	3667223	Java	Yuki_B	
 4	40.62	4824524	4066029	C++	tzaph	
 4	40.6	2638020	3668992	C++	ja_fica	
-4	40.52	4288033	3667536	Java	Alonius	
 4	40.51	1275262	3670678	Python3	fluffy_unicorn	
 4	40.46	3783990	3666470	C++	abobas	
 4	40.46	4285073	3665026	C++	Guntae	
@@ -398,6 +397,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7807,time=2022-04-13 00:57:
 4	40.31	1768916	3668853	C++	YetAnotherAdam	
 4	40.3	1676711	3669954	Java	Eeeval	
 4	40.27	3337387	3846765	C	melperri	
+4	40.25	4288033	3667536	Java	Alonius	
 4	40.23	4016179	3678515	Python3	Tony.	
 4	40.2	3742936	3669421	Python3	David26	
 4	40.12	3356021	3665175	C++	ojoubout	
@@ -525,7 +525,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7807,time=2022-04-13 00:57:
 4	37.39	3791753	3764423	C++	607	
 4	37.38	416762	3671041	Javascript	Khao	
 4	37.36	1389184	3668017	Java	Lechevelut	
-4	37.35	865548	3667499	Rust	Kktus	
+4	37.36	865548	3667499	Rust	Kktus	
 4	37.34	1611699	3675539	Java	EpiFlop	
 4	37.32	2932223	3665065	C++	hamray	
 4	37.32	1908108	3669738	C#	Syhafeur	
@@ -737,7 +737,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7807,time=2022-04-13 00:57:
 4	34.92	735910	3666800	C++	Agade	
 4	34.91	3012238	3670879	C++	miszu	
 4	34.89	3795676	3667059	Ruby	sofinms	
-4	34.87	4320516	3835661	Javascript	A-Wpro	
+4	34.88	4320516	3835661	Javascript	A-Wpro	
 4	34.83	3881345	3667888	C++	PavelFromPerm	
 4	34.83	3785901	3671513	Javascript	chobo2102	
 4	34.82	3795832	3895006	Javascript	VietAnhTong	
