@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=498,time=2022-04-14 00:30:32
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=508,time=2022-04-15 00:30:26
 100	174652	3354337	Scala	Westicles	
 100	169004	154984	C++	_Royale	
 100	167588	1530051	C++	UlYoP	
@@ -75,6 +75,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=498,time=2022-04-14 00:30:32
 100	56950	3260156	C#	KrzysiekSlawik	
 100	56638	4753199	Python3	Kaigorodov	
 100	56382	4752178	Python3	Stas_Korolev	
+100	55846	4813853	Python3	nek32	
+100	55556	4814602	Python3	SIlentji	
 100	54688	3721214	C++	jrke	
 100	54673	4758191	Python3	ChickiBoomBoxer	
 100	54633	2436448	Java	FrancoisMeme	
@@ -82,6 +84,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=498,time=2022-04-14 00:30:32
 100	53892	1441239	Kotlin	Dyd	
 100	52927	1489865	C++	EricSMSO	
 100	52108	414278	Java	oobException	
+100	52099	4807984	Python3	futig	
 100	51426	1003777	Rust	DanXX09	
 100	51345	4714500	Python3	hoffck	
 100	51204	3508047	Python3	MexBanDoc	
@@ -95,18 +98,26 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=498,time=2022-04-14 00:30:32
 100	49675	1140677	C++	Crog	
 100	49341	992329	C++	BeeGee	
 100	49090	3513265	C++	DaNinja	
+100	48920	4788019	Python3	Houounin_Kouoma	
+100	48914	4809891	Python3	ArGoNeOn	
 100	48890	3738782	C#	Inaniwa	
 100	48806	4758147	Python3	ferrovovan	
+100	48806	4811257	Python3	polyakazachenko	
+100	48806	4766132	Python3	rinawqwqw	
+100	48806	4814178	Python3	ERSHEG	
+100	48806	4745002	Python3	Simosha	
+100	48806	4804811	Python3	programmerochka	
+100	48806	4800806	Python3	Super_Max	
 100	48016	4211864	C#	jubick1337	
 100	47940	4752159	Python3	Strauwu	
 100	47886	3691382	C#	Kamil2601	
+100	47518	4808696	Python3	Kistras	
 100	46958	734401	C++	b0n5a1	
 100	46889	2007852	Lua	Zorg1	
 100	46410	1737246	Python3	Adam798	
 100	45340	1535382	Java	CrankNaz	
+100	44930	4810061	Python3	HairySnake	
 100	43800	4053362	C#	Johan_Braanen	
-100	43658	4808696	Python3	Kistras	
-100	43021	4807984	Python3	futig	
 100	42986	1952778	Go	blast_beat	
 100	42984	4755109	Python3	casadd	
 100	41428	4648805	C++	LordOfElements	
@@ -146,7 +157,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=498,time=2022-04-14 00:30:32
 100	34300	301922	Scala	tyrcho	
 100	33898	3428333	Python3	Nenad.Vukojevic	
 100	33888	4061329	C++	KLPP	
-100	33652	4810061	Python3	HairySnake	
 100	33530	155774	C++	dwarfie	
 100	33508	2451652	Java	code_of_the_dead	
 100	33498	1479137	C++	lorenzods	
@@ -163,11 +173,17 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=498,time=2022-04-14 00:30:32
 100	32283	2833929	Python3	pcourrousse	
 100	32092	1397268	C	RTLB	
 100	31952	4714510	Python3	polina_natasha	
-100	31952	4813853	Python3	nek32	
-100	31952	4811257	Python3	polyakazachenko	
-100	31952	4814178	Python3	ERSHEG	
 100	31952	4811889	Python3	aas1565	
 100	31952	4811880	Python3	CLABA	
+100	31952	4484252	Python3	FIcusAndLik	
+100	31952	4819872	Python3		
+100	31952	4813085	Python3	Turtle_medic	
+100	31952	4813036	Python3	MyakonkikhA	
+100	31952	4814601	Python3	OneTell	
+100	31952	4752152	Python3	TeaMary	
+100	31952	4811919	Python3	cynpy	
+100	31952	4762440	Python3	yarik0514	
+100	31952	4813041	Python3	orosho	
 100	31716	1404379	C++	hpa	
 100	31595	1754295	Rust	SF	
 100	31593	311035	Python3	leojean890	
@@ -204,7 +220,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=498,time=2022-04-14 00:30:32
 100	25987	3264004	Python3	sw1ftin	
 100	25980	1336464	C++	magaiti	
 100	25764	4833941	Python3		
-100	25764	4745002	Python3	Simosha	
 100	25610	3950417	Python3	Alikyou	
 100	25600	1050421	Python3	geppoz	
 100	24566	3845610	Python3	pardouin	
@@ -233,8 +248,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=498,time=2022-04-14 00:30:32
 100	18670	1688466	C++	geoffroy	
 100	18600	1719856	PHP	YOANN	
 100	18565	4072753	C++	mdstoy	
-100	17980	4788019	Python3	Houounin_Kouoma	
-100	17980	4809891	Python3	ArGoNeOn	
 100	17028	3305510	PHP	TBali	
 100	16681	2235616	Rust	BroneKot	
 100	16528	2416641	Python3	Zenoscave	
@@ -440,7 +453,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=498,time=2022-04-14 00:30:32
 75	6496	1874704	PHP	pkogan	
 40	27217	4067344	C++	Bitterisland6	
 35	28915	3998980	Python3	bamax	
-30	31952	4800806	Python3	Super_Max	
 0	1222	2294763	C++	Maxyx	
 0	492	2069141	C#	tomeko	
 0	476	3783962	Python3	Mohsen1365ir	
@@ -491,9 +503,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=498,time=2022-04-14 00:30:32
 0	20	1035630	Java	Vestiaz	
 0	20	4585938	Python3	Risodu	
 0	20	3379773	Rust	Bernerdo	
-0	20	4762440	Python3	yarik0514	
 0	0	294412	Python3	Kalaspa	
 0	0	3980627	Python3	Metzen	
 0	0	3720818	Python3	DustyMarlowe	
 0	0	4166555	Ruby	Natanalel	
-0	0	4804811	Python3	programmerochka	
