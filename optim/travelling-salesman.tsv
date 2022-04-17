@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=132,time=2022-04-16 00:31:17
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=133,time=2022-04-17 01:15:41
 100	201382	2288263	Rust	dbdr	
 100	201382	4277867	D	About	
 100	201382	2077805	C++	bamilan	
@@ -13,12 +13,13 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=132,time=2022-04-16 00:31:17
 100	204027	3902927	Python3	Bulgot	
 100	204511	3647844	C++	rc95401	
 100	205031	2923506	C++	darkhorse64	
+100	205269	4341304	C++	Remi.	
 100	205481	4717726	C++	[Nexure]	
 100	205904	1399382	C++	Regulus136	
 100	205986	580424	C++	siman	
 100	206555	155774	C++	dwarfie	
-100	207455	4341304	C++	Remi.	
-100	207556	2007852	Lua	Zorg1	
+100	207167	2007852	Lua	Zorg1	
+100	208579	792813	Python3	VilBoub	
 100	209198	2962968	C#	Pukunya	
 100	209635	1152991	C#	xoposhiy	
 100	210261	3184049	Python3	ghhttt	
@@ -43,7 +44,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=132,time=2022-04-16 00:31:17
 100	222398	1802967	Python3	Meruem	
 100	224415	4194994	Javascript	zLuki	
 100	225413	4627200	Python3	Fwcode	
-100	228154	792813	Python3	VilBoub	
 100	228711	1287344	C++	Alshock	
 100	228720	3343665	Rust	Quidome	
 100	229528	3490454	Python3	PAug	
@@ -51,6 +51,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=132,time=2022-04-16 00:31:17
 100	230430	4674218	Python3	Kirin04	
 100	232969	4668562	Python3	theaddyct	
 100	235420	4124688	Python3	Murat_Eroglu	
+100	236240	4754623	C++	kirillkulemin	
 100	236323	1140677	C++	Crog	
 100	236323	4587710	Scala	Smetalka	
 100	236588	2290633	Python3	field3	
@@ -60,7 +61,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=132,time=2022-04-16 00:31:17
 100	236748	4562865	Python3	VilBoub_junior	
 100	236886	4562863	Python3	Benoit-Simunsol	
 100	238441	4510576	C++	__Malina	
-100	239503	4754623	C++	kirillkulemin	
 100	239897	311035	Python3	leojean890	
 100	240083	888898	C++	helgui	
 100	240691	4562860	Python3	clxm	
@@ -100,7 +100,9 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=132,time=2022-04-16 00:31:17
 100	250555	1709071	Python3	MAWAAW	
 100	250555	4562894	Python3	Polo14974	
 100	250555	4110334	Python3	Audran227	
+100	250555	4562862	Python3	Scouipou	
 100	254188	3922731	Dart	Dartisan	
+100	256069	1838549	Rust	orangesnowfox	
 100	258239	992549	Java	Thaddy	
 100	268561	4062203	C++	soraie	
 100	312589	1436776	C++	BrainSolver	
@@ -125,7 +127,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=132,time=2022-04-16 00:31:17
 100	2219406	1852668	Python3	gao	
 100	2219406	3603097	Javascript	lanathlor	
 100	2219406	3074711	Javascript	LeoLet	
-100	2219406	4562862	Python3	Scouipou	
 100	2223289	3136787	Python3	jacek	
 100	2784200	4211056	C#	Nachosauce	
 100	3211740	1378958	C#	Illedan	
