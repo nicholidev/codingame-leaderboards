@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6001,time=2022-04-18 01:18:27
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6004,time=2022-04-19 00:30:24
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -763,6 +763,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6001,time=2022-04-18 01:18:27
 100	5759	1489865	C++	EricSMSO	
 100	5760	228826	C++	Snark	
 100	5760	3965752	TypeScript	SpiderSeb	
+100	5760	1303159	C++	StarFox	
 100	5761	2791601	Python3	wjan	
 100	5761	3802525	C#	Chibikko	
 100	5764	522661	Scala	aerosoul	
@@ -848,6 +849,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6001,time=2022-04-18 01:18:27
 100	5840	817076	C++	IonutSimion	
 100	5840	1050490	C++	Snark_Chaser	
 100	5840	1197593	Javascript	NatNgs	
+100	5840	4330978	Python3	RemiLeBrave	
 100	5842	162661	C	Doraj	
 100	5842	1140453	Python3	neosymaui	
 100	5842	4574813	Python3	tib-lp	
@@ -968,7 +970,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6001,time=2022-04-18 01:18:27
 100	5860	4693732	Python3	Red0m	
 100	5860	4688439	Haskell	Angs	
 100	5860	507538	Python3	Krzybe	
-100	5860	4330978	Python3	RemiLeBrave	
 100	5860	4847695	C++	HollaFoil	
 100	5861	954356	C++		
 100	5861	420035	Pascal	bvs23bkv33	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6001,time=2022-04-18 01:18:27
 100	5870	863265	Java	Anaidel	
 100	5870	490588	Python3	Uljahn	
 100	5870	3188551	Javascript	ashelkov	
-100	5871	867983	Java	Matze0815	
