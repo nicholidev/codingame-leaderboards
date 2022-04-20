@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=134,time=2022-04-19 00:30:27
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=136,time=2022-04-20 00:52:54
 100	201382	2288263	Rust	dbdr	
 100	201382	4277867	D	About	
 100	201382	2077805	C++	bamilan	
@@ -19,6 +19,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=134,time=2022-04-19 00:30:27
 100	205986	580424	C++	siman	
 100	206555	155774	C++	dwarfie	
 100	207167	2007852	Lua	Zorg1	
+100	208449	1436776	C++	BrainSolver	
 100	208579	792813	Python3	VilBoub	
 100	209198	2962968	C#	Pukunya	
 100	209635	1152991	C#	xoposhiy	
@@ -36,7 +37,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=134,time=2022-04-19 00:30:27
 100	213842	973040	F#	papyjo	
 100	214159	512097	Haskell	Stilgart	
 100	214276	153965	Python3	[CG]Keelhaul	
-100	214498	1436776	C++	BrainSolver	
 100	215035	3844625	C++	surgutti	
 100	215800	1430796	C	_PereKastor_	
 100	216035	1480426	Python3	Hikari42	
@@ -50,6 +50,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=134,time=2022-04-19 00:30:27
 100	229528	3490454	Python3	PAug	
 100	230165	3802525	C#	Chibikko	
 100	230430	4674218	Python3	Kirin04	
+100	230452	3996809	Kotlin	VizGhar	
 100	232969	4668562	Python3	theaddyct	
 100	235420	4124688	Python3	Murat_Eroglu	
 100	236240	4754623	C++	kirillkulemin	
@@ -67,7 +68,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=134,time=2022-04-19 00:30:27
 100	240691	4562860	Python3	clxm	
 100	240723	3657937	Python3	elderlybeginner	
 100	240892	4441094	Python3	Oric1	
-100	243701	3996809	C++	VizGhar	
 100	244644	2202771	Java	Kaplone	
 100	247358	2625928	C#	.Leonard	
 100	247507	3845610	Python3	pardouin	
@@ -103,6 +103,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=134,time=2022-04-19 00:30:27
 100	250555	4110334	Python3	Audran227	
 100	250555	4562862	Python3	Scouipou	
 100	250555	4106617	Python3	Papouze	
+100	250555	1685636	Go	JarylC	
+100	250555	3508047	C#	MexBanDoc	
 100	254188	3922731	Dart	Dartisan	
 100	256069	1838549	Rust	orangesnowfox	
 100	258239	992549	Java	Thaddy	

@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=13205,time=2022-04-19 00:30:24
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=13221,time=2022-04-20 00:52:51
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -269,6 +269,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13205,time=2022-04-19 00:30:24
 100	211860	4101514	Javascript	Pips42	
 100	210780	1077506	Go	gs2	
 100	210700	2515448	C++	ChuOkupai	
+100	210520	1288527	C++	Snef	
 100	210440	3500831	C	goudan	
 100	210270	4338330	C#	0Ph	
 100	210130	952796	C#	CodingTurtle	
@@ -281,7 +282,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13205,time=2022-04-19 00:30:24
 100	208880	3256989	C++	rizant	
 100	208600	4615536	C		
 100	208580	2363657	C++	Ztrk	
-100	208450	1288527	C++	Snef	
 100	208100	4425076	C	Malu38	
 100	207890	3965104	C	casd2	
 100	207540	331248	C	Zycho	
@@ -579,6 +579,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13205,time=2022-04-19 00:30:24
 100	114690	4414812	C++	GPoll	
 100	114480	4119720	C++	maniekTC	
 100	114440	1741901	Go	Jerome_Laforge	
+100	113800	3390309	C++	VincentBaijot	
 100	113550	1802967	Python3	Meruem	
 100	113480	3310317	Python3	AWOL	
 100	113140	965891	Javascript	ElanVB	
@@ -795,6 +796,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13205,time=2022-04-19 00:30:24
 100	69780	3002969	Rust	Porsuk	
 100	69730	1368122	Go	galthaus	
 100	69650	4420742	Python3	Mortis_666	
+100	69360	4746860	Go	3axapka	
 100	68980	2212341	C++	Atul007	
 100	68800	1353669	Python3	XAnimaX	
 100	68790	1243354	C++	RSBat	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13205,time=2022-04-19 00:30:24
 100	64260	3775369	C++	umesh007	
 100	64260	1337394	C++	--CC--	
 100	64260	3812363	C++	Orilow	
-100	64260	3749793	Python3	WINWINWIN	
-100	64260	3808031	C++	_proton	
