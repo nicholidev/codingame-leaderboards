@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5180,time=2022-04-20 00:52:50
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5181,time=2022-04-21 01:15:46
 100	2509	1327028	C++	FredericBautista	
 100	2507	154372	Bash	Plopx	
 100	2504	1249786	C#	Fededevi	
@@ -86,6 +86,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5180,time=2022-04-20 00:52:50
 100	2394	1106450	C++	RiSuS	
 100	2392	4582789	Python3	Cole20031	
 100	2390	1178276	Java	Jerome_95	
+100	2390	4798287	Javascript	Pietsen	
 100	2389	154806	Python3	piwai	
 100	2389	1883670	Rust	radekmie	
 100	2388	3436443	C++	Mazelcop	
@@ -96,7 +97,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5180,time=2022-04-20 00:52:50
 100	2385	638784	C++	Yqnn	
 100	2384	1003777	C++	DanXX09	
 100	2383	4065227	C++	Pamplemus	
-100	2383	4798287	Javascript	Pietsen	
 100	2381	1527403	C++	Di_Masta	
 100	2379	3720813	C++	Insta-x	
 100	2378	1607522	C++	RoboStac	
@@ -252,8 +252,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5180,time=2022-04-20 00:52:50
 100	2237	989912	C++	Arctik3-14	
 100	2237	813150	C++	cgrave	
 100	2237	1698954	Java	Neurovul	
+100	2236	1168948	C++	Exosum	
 100	2235	3457893	C++	ashr	
-100	2233	1168948	C++	Exosum	
 100	2233	3165536	C#	barbora	
 100	2231	2696465	C++	KarlDjekko	
 100	2231	1515891	Kotlin	ndc	
@@ -482,8 +482,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5180,time=2022-04-20 00:52:50
 100	2050	607150	Java	Frisky	
 100	2048	3427526	Python3	remi2257	
 100	2048	3342823	Javascript	Jacki	
+100	2048	4341304	C++	Remi.	
 100	2047	2331589	C#	miaugust	
-100	2047	4341304	C++	Remi.	
 100	2046	918913	C++	GreatTux	
 100	2046	2876934	C++	Bgd	
 100	2044	1752047	C	RGBenfield	
@@ -554,7 +554,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5180,time=2022-04-20 00:52:50
 100	2007	4046678	Python3	N9798	
 100	2006	840322	Go	nullbus	
 100	2006	2146324	PHP	Grumly-Alex	
-100	2006	4083906	Python3	ingenieurtoni	
+100	2006	4083906	Python3	punkrock	
 100	2005	907714	Java	Janot	
 100	2005	4198798	Dart	Hariton1500	
 100	2005	4505262	Python3	Takamatsu	

@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=13221,time=2022-04-20 00:52:51
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=13236,time=2022-04-21 01:15:47
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -102,6 +102,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13221,time=2022-04-20 00:52:51
 100	300650	1059996	C#	Molybdene	
 100	300350	2311105	C++	kovi	
 100	297980	962495	C++	eboot.	
+100	296540	1288527	C++	Snef	
 100	294560	4515396	C	Kazooie1966	
 100	293170	3965067	C		
 100	293120	219157	C++	BelaidKhaled	
@@ -188,6 +189,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13221,time=2022-04-20 00:52:51
 100	234480	1206537	C++	MadKnight	
 100	234110	4320516	C	A-Wpro	
 100	233830	528262	C	Niii	
+100	233590	3390309	C++	VincentBaijot	
 100	232390	1082167	C++	Smatcher	
 100	232230	154858	Javascript	VincentEuloge	
 100	232140	4380449	Javascript	ValidityFail	
@@ -269,7 +271,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13221,time=2022-04-20 00:52:51
 100	211860	4101514	Javascript	Pips42	
 100	210780	1077506	Go	gs2	
 100	210700	2515448	C++	ChuOkupai	
-100	210520	1288527	C++	Snef	
 100	210440	3500831	C	goudan	
 100	210270	4338330	C#	0Ph	
 100	210130	952796	C#	CodingTurtle	
@@ -426,6 +427,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13221,time=2022-04-20 00:52:51
 100	170610	886483	ObjectiveC	R4N4R4M4	
 100	169520	1400179	C++	reCurse	
 100	169500	1620803	C++	Lyapunov	
+100	168810	4753303	Go	kjrj11	
 100	168800	1495694	C++	MisterJensen	
 100	168750	1495394	C#	qwerty_42	
 100	168700	4599964	C++	_-_pascal_-_	
@@ -512,6 +514,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13221,time=2022-04-20 00:52:51
 100	142160	1495491	Java	[Random]-J3ff3z	
 100	142160	1097343	Java	Alkonost	
 100	141430	3784861	Python3	thiebt	
+100	141310	4035272	Java	noams88	
 100	141050	527749	Javascript	Pds	
 100	140890	4372726	C++	artem_skor	
 100	140770	1579627	Python3	Bahrani	
@@ -579,7 +582,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13221,time=2022-04-20 00:52:51
 100	114690	4414812	C++	GPoll	
 100	114480	4119720	C++	maniekTC	
 100	114440	1741901	Go	Jerome_Laforge	
-100	113800	3390309	C++	VincentBaijot	
 100	113550	1802967	Python3	Meruem	
 100	113480	3310317	Python3	AWOL	
 100	113140	965891	Javascript	ElanVB	
@@ -748,7 +750,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13221,time=2022-04-20 00:52:51
 100	74850	2221405	C++	LaxmanRawat	
 100	74710	370969	C#	fgeo	
 100	74690	4599928	Python3	lhommefm	
-100	74610	4753303	Go	kjrj11	
 100	74360	4000543	Java	DerRaphe	
 100	74220	1497552	Python3	clemclem	
 100	74130	4259902	Python3	Nalisco	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13221,time=2022-04-20 00:52:51
 100	64260	3755551	C++	Zeffar	
 100	64260	3775369	C++	umesh007	
 100	64260	1337394	C++	--CC--	
-100	64260	3812363	C++	Orilow	

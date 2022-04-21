@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2586,time=2022-04-20 00:52:45
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2586,time=2022-04-21 01:15:42
 5	34.76	1400179	2986754	C++	reCurse	
 5	32.06	1327028	2990369	C++	FredericBautista	
 5	30.55	1500515	4015887	C++	eulerscheZahl	
@@ -903,6 +903,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2586,time=2022-04-20 00:52:
 1	23.39	1620096	749641	C	InvisibleUSA	
 1	23.38	754792	906113	C++	Ramdeath	
 1	23.38	1476242	576247	VB.NET	Txiwi	
+1	23.37	154937	601257	Python3	[CG]BOUGA	
 1	23.36	162982	1122658	Python3	Dami-e	
 1	23.36	1866525	1110328	C++	charMlessMan	
 1	23.35	1304340	1295886	Java	AntoineLatour	
@@ -917,7 +918,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2586,time=2022-04-20 00:52:
 1	23.33	1494618	625811	Javascript	Lune	
 1	23.33	3143143	2267027	C	TripleCrown	
 1	23.33	1505744	648167	Python3	KEKW	
-1	23.32	154937	601257	Python3	[CG]BOUGA	
 1	23.32	614489	493173	C	Nazoum81	
 1	23.32	1537927	1218353	Javascript	thecavemanlogic	
 1	23.32	1014924	493584	PHP	TommyP	
@@ -990,6 +990,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2586,time=2022-04-20 00:52:
 1	23.16	1443075	484310	C++	Wolfy82	
 1	23.16	215395	502717	Python3	Enknable	
 1	23.16	1439371	505383	Python3	Irnakk	
+1	23.16	1477937	566928	Java	koeki13	
 1	23.15	3938495	3485184	OCaml	o11s	
 1	23.15	2187656	1468455	Lua	RanXerox	
 1	23.14	1202744	493651	Pascal	KILLogic	
@@ -998,4 +999,3 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2586,time=2022-04-20 00:52:
 1	23.13	1306289	1277203	Javascript	Jasperr	
 1	23.13	433065	493848	C#	Knafle	
 1	23.13	1361326	875277	C#	8]	
-1	23.12	2133806	1428550	C++	Thechrist	
