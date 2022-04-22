@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=800,time=2022-04-21 01:15:49
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=799,time=2022-04-22 00:44:43
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
 100	59353524	765200	Rust	FrancoisB	
@@ -221,6 +221,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=800,time=2022-04-21 01:15:49
 100	184184	2164798	Go	Mihai-Boicu	
 100	182532	1069779	Python3	salanger	
 100	175944	3657275	Python3	jujurocking	
+100	168596	4283515	PHP	FrancoisBaveye	
 100	163796	531863	Java	Amin	
 100	161352	1457162	Python3	JFB	
 100	157876	1740237	Python3	OlegKornelsen	
@@ -235,7 +236,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=800,time=2022-04-21 01:15:49
 100	118552	4726948	Python3	Mince	
 100	113620	4372857	C++	Sirios	
 100	112488	1383054	Python3	Oxame	
-100	109484	4283515	PHP	FrancoisBaveye	
 100	108568	2647542	Java	szatist	
 100	107516	3494517	Javascript	Rigelrain	
 100	107152	4116825	C#	JoeyVera	
@@ -406,7 +406,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=800,time=2022-04-21 01:15:49
 100	48868	4085148	Javascript	oppos	
 100	48636	3115713	C	faneyer	
 100	48460	4105018	Python3	MarcDillar	
-100	48220	165671	Python3	cyppan	
+100	48220	165671	Python3	LoopCodeRecur	
 100	48112	351385	Python3	fabmarcant	
 100	47756	1221160	PHP	gendos_ua	
 100	47748	826671	Python3	kayou	
@@ -508,7 +508,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=800,time=2022-04-21 01:15:49
 100	29964	3852636	Python3	RedaZitouni	
 100	29588	4111713	Python3	Averni	
 100	29552	2243940	Ruby	Revenge911	
-100	29512	3514975	Javascript	Phurinat	
+100	29512	3514975	Javascript	PhuRiNaT	
 100	29292	2045078	C#	Sharaks	
 100	28932	1740037	Scala	ereiam	
 100	28896	4615176	Python3	guperman	
@@ -788,7 +788,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=800,time=2022-04-21 01:15:49
 100	344	4367376	Python3	Squar3	
 100	344	3159485	Python3	GeneralTwi	
 100	344	3537383	Python3	Chihab_eddine	
-100	344	4827535	C++	HoneyGlazedGherkinsEggTartare	
 100	300	4094683	Python3	Loes	
 100	300	275626	Javascript	GreyMoon	
 100	300	3487406	C#	SyvachenkoMK	
