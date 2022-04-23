@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=784,time=2022-04-22 00:44:43
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=784,time=2022-04-23 00:43:10
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -195,7 +195,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=784,time=2022-04-22 00:44:43
 100	14410.85	4714538	Python3	ekaterinaparamonova	
 100	14414.680000000004	1410353	Rust	SwagColoredKitteh	
 100	14423.209999999995	1952778	Go	blast_beat	
-100	14447.72	2125702	C++	cooki	
+100	14436.03	2125702	C++	cooki	
 100	14447.72	3425203	C++	Rhemyr	
 100	14763.829999999998	992329	Python3	BeeGee	
 100	14764.97	3817827	Go	optplx	
@@ -582,6 +582,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=784,time=2022-04-22 00:44:43
 98	22995.709999999995	4760887	Python3		
 98	23058.140000000003	1072200	C	alze	
 98	23058.82999999999	622303	Python3	Zetrock	
+98	23459.76000000001	3451220	C++	corentin.g	
 98	23713.529999999988	4206982	Ruby	slempel	
 98	23714.050000000003	4292467	Python3	IvesL	
 98	23753.659999999996	271888	Python3	Mastor	
@@ -643,7 +644,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=784,time=2022-04-22 00:44:43
 90	26739.34	4201950	C#	rtimbull	
 90	26757.6	4504049	Javascript	Deliambre	
 90	27019.80999999999	4549704	Python3	Opiakos	
-90	27056.39	3451220	C++	corentin.g	
 90	27479.47	3405266	Javascript	ReversableCode	
 90	27743.230000000007	3774604	Python3	PerfectOr	
 88	25264.46	1661333	C++	linjoehan	
@@ -761,6 +761,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=784,time=2022-04-22 00:44:43
 8	47880.37	3476964	Python3	Keltare	
 4	48581.45	888358	Java	MinusKube	
 2	49549.5	2197804	C#	IHaveYourMilk	
+2	49564.95	4794787	Python3	VMmotors	
 0	50000	3808031	Ruby	_proton	
 0	50000	3858153	Javascript	elena-vilchik	
 0	50000	153256	C	Achraf_Lyazidi	
@@ -782,4 +783,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=784,time=2022-04-22 00:44:43
 0	50000	4755455	Python3	Vlad_Cepesh	
 0	50000	4808711	Python3	MatveyTA	
 0	50000	4811793	Python3	Verest_ven	
-0	50000	4794787	C	VMmotors	

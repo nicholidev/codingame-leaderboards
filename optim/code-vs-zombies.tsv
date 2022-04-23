@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=13251,time=2022-04-22 00:44:41
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=13260,time=2022-04-23 00:43:08
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -101,7 +101,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13251,time=2022-04-22 00:44:41
 100	300910	4447108	C	MonkeyFeathers	
 100	300650	1059996	C#	Molybdene	
 100	300350	2311105	C++	kovi	
-100	297980	962495	C++	eboot.	
+100	297980	962495	C++	eboot	
 100	296540	1288527	C++	Snef	
 100	294560	4515396	C	Kazooie1966	
 100	293170	3965067	C		
@@ -672,6 +672,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13251,time=2022-04-22 00:44:41
 100	86460	1213898	Kotlin	Gubbel	
 100	86420	1335230	Java	jft63	
 100	86360	1487844	Python3	edoiks	
+100	86120	4826152	Kotlin	Vicctor	
 100	86100	1767183	C#	MelnikovIgor	
 100	86050	425462	Java	Azt-yur	
 100	85500	865548	Python3	Kktus	
@@ -733,7 +734,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13251,time=2022-04-22 00:44:41
 100	78010	2212504	C#	ADSharma	
 100	78010	2114633	C#	Josh04	
 100	78010	2262491	C#		
-100	77980	4826152	Kotlin	Vicctor	
 100	77760	712849	Java	Tabea	
 100	77530	153937	C++	oook	
 100	77510	1540394	C#	LVdA	
@@ -879,6 +879,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13251,time=2022-04-22 00:44:41
 100	65090	1811179	Java	Tetarus	
 100	65060	4533573	C#	BoredClay	
 100	65050	1544445	C#	DoctorJinxey	
+100	65050	4317574	Rust	juliendbg	
 100	65030	3018110	Python3	MechLizardThing	
 100	65010	1234947	Javascript	kuro	
 100	64960	4730289	Python3	Claypiston	
@@ -887,6 +888,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13251,time=2022-04-22 00:44:41
 100	64890	1372843	Java	djjeck	
 100	64870	1374531	Java	tchitch	
 100	64770	1590522	Python3	Eddyty	
+100	64720	4831991	Python3	Amphi	
 100	64710	4444688	C#	NickDerMetzger	
 100	64700	3418703	C++		
 100	64690	1031311	C++	Kazz	
@@ -899,6 +901,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13251,time=2022-04-22 00:44:41
 100	64610	3575624	TypeScript	mpoo	
 100	64580	1070919	Java	Thas	
 100	64580	2430741	Javascript	Faust1	
+100	64570	4399761	Python3	Knowa	
 100	64540	252533	Javascript	AlexSurin	
 100	64540	4018239	Java	MACKEYTH	
 100	64520	1348621	C	sephi	
@@ -996,6 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13251,time=2022-04-22 00:44:41
 100	64260	2298871	C#	jesuisdev.net	
 100	64260	1276891	C++	Zeba	
 100	64260	3071738	C++	ClashLuke	
-100	64260	3755551	C++	Zeffar	
-100	64260	3775369	C++	umesh007	
-100	64260	1337394	C++	--CC--	
