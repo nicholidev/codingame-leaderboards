@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=139,time=2022-04-23 00:43:11
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=142,time=2022-04-24 00:38:20
 100	201382	2288263	Rust	dbdr	
 100	201382	4277867	D	About	
 100	201382	2077805	C++	bamilan	
@@ -47,6 +47,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=139,time=2022-04-23 00:43:11
 100	222398	1802967	Python3	Meruem	
 100	224415	4194994	Javascript	zLuki	
 100	225413	4627200	Python3	Fwcode	
+100	225889	4754623	C++	kirillkulemin	
 100	228711	1287344	C++	Alshock	
 100	228720	3343665	Rust	Quidome	
 100	229528	3490454	Python3	PAug	
@@ -55,7 +56,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=139,time=2022-04-23 00:43:11
 100	230452	3996809	Kotlin	VizGhar	
 100	232969	4668562	Python3	theaddyct	
 100	235420	4124688	Python3	Murat_Eroglu	
-100	236240	4754623	C++	kirillkulemin	
 100	236323	1140677	C++	Crog	
 100	236323	4587710	Scala	Smetalka	
 100	236588	2290633	Python3	field3	
@@ -108,6 +108,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=139,time=2022-04-23 00:43:11
 100	250555	1685636	Go	JarylC	
 100	250555	3508047	C#	MexBanDoc	
 100	250555	4070228	Python3	MarinDeNsi	
+100	250555	591238	Rust	wolfnether	
 100	254188	3922731	Dart	Dartisan	
 100	256069	1838549	Rust	orangesnowfox	
 100	258239	992549	Java	Thaddy	
@@ -125,6 +126,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=139,time=2022-04-23 00:43:11
 100	1050053	3268086	Javascript	Xaetral	
 100	1320187	4756693	Python3	MorningWalk	
 100	1320334	2364617	C++	RomainPicot	
+100	1320334	2043512	PHP	matijabelec	
+100	1620202	4815186	Javascript	Nab1ee	
 100	2199609	2064637	Java	java_coffee_cup	
 100	2205635	3123327	Javascript	Cordy	
 100	2212202	3738308	Javascript	sgbd	
