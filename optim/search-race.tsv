@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=785,time=2022-04-24 00:38:20
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=785,time=2022-04-25 00:30:25
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -195,6 +195,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=785,time=2022-04-24 00:38:20
 100	14410.85	4714538	Python3	ekaterinaparamonova	
 100	14414.680000000004	1410353	Rust	SwagColoredKitteh	
 100	14423.209999999995	1952778	Go	blast_beat	
+100	14436.03	3699385	C++	SegFaultCG	
 100	14436.03	2125702	C++	cooki	
 100	14447.72	3425203	C++	Rhemyr	
 100	14763.829999999998	992329	Python3	BeeGee	
@@ -339,7 +340,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=785,time=2022-04-24 00:38:20
 100	20313.39	4753276	Python3	xNovaStream	
 100	20387.049999999996	1546445	PHP	didoo	
 100	20391.43999999999	2197019	Python3	caduk	
-100	20410.95	3699385	C++	SegFaultCG	
 100	20416.5	1515891	Kotlin	ndc	
 100	20421.94	1466828	Java	Ercart	
 100	20422.179999999997	4803302	Python3	Galina1106	

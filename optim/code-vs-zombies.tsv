@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=13270,time=2022-04-24 00:38:18
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=13282,time=2022-04-25 00:30:23
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -310,7 +310,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13270,time=2022-04-24 00:38:18
 100	203480	2350846	C++	DrBloodmoney	
 100	203400	1880319	C++	WildSmilodon	
 100	203360	226528	C++	Manwe	
-100	203110	3920887	C	~kamal	
+100	203110	3920887	C	~raiders	
 100	202890	3960362	C	Asgardinho	
 100	202790	1179950	Go	Patorikkuyatta	
 100	202450	1853167	Java	rcode	
@@ -391,6 +391,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13270,time=2022-04-24 00:38:18
 100	179410	3741491	C++	inverb	
 100	179350	3823601	Python3	cysong	
 100	179340	3305510	PHP	TBali	
+100	179300	4753303	Go	kjrj11	
 100	179140	1501735	Python3	bernardlavilliers	
 100	179130	3902927	Python3	Bulgot	
 100	178660	1343111	Javascript	Thal	
@@ -427,7 +428,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13270,time=2022-04-24 00:38:18
 100	170610	886483	ObjectiveC	R4N4R4M4	
 100	169520	1400179	C++	reCurse	
 100	169500	1620803	C++	Lyapunov	
-100	168810	4753303	Go	kjrj11	
 100	168800	1495694	C++	MisterJensen	
 100	168750	1495394	C#	qwerty_42	
 100	168700	4599964	C++	_-_pascal_-_	
@@ -539,6 +539,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13270,time=2022-04-24 00:38:18
 100	133060	3413813	Javascript	Hvosten	
 100	132630	4523276	Python3	JoCodeAvecLeQ	
 100	132420	1128769	Rust	Dwakus	
+100	132130	4747026	C#	Jewry	
 100	131710	648751	Haskell	dabino	
 100	131320	1068324	Python3	arrcpp	
 100	131240	415618	Java	kow	
@@ -617,6 +618,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13270,time=2022-04-24 00:38:18
 100	103170	1715243	Java	Zerfa	
 100	103080	873958	C#	cheeser	
 100	102880	3089131	Python3	dragonsayen	
+100	102520	4743232	C#	TonyCardio	
 100	102350	1258656	C++	Batpapa	
 100	102120	1019450	Javascript	joaorp	
 100	101750	2434732	C#	shirokov.alex	
@@ -717,7 +719,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13270,time=2022-04-24 00:38:18
 100	79300	828213	Go	anst	
 100	79290	1249138	Python3	Pymole	
 100	79230	4586203	Python3	sixsicksix	
-100	79090	1295111	Python3	duksel	
+100	79090	1295111	Python3	Andrii.Bakulin	
 100	78780	1737246	Python3	Adam798	
 100	78780	1243876	Java	Hi-Low_World	
 100	78770	834200	C++	Amin_pl	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13270,time=2022-04-24 00:38:18
 100	64260	3662300	Python3	bagoessatyahutama	
 100	64260	3489132	C++	Lvooodou	
 100	64260	2298871	C#	jesuisdev.net	
-100	64260	1276891	C++	Zeba	
-100	64260	3071738	C++	ClashLuke	
