@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=324,time=2022-04-30 00:41:36
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=324,time=2022-05-01 00:30:26
 100	291	2288263	Rust	dbdr	
 100	293	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -37,6 +37,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=324,time=2022-04-30 00:41:36
 100	322	1883740	C++	kermo	
 100	322	2350415	C++	Vintarel	
 100	323	1854246	C++	Counterbalance	
+100	326	4208158	C++	Tiouz	
 100	327	1584802	C++	emh	
 100	328	1693448	C	KoenduBuf	
 100	329	311035	C++	leojean890	
@@ -65,7 +66,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=324,time=2022-04-30 00:41:36
 100	403	1684486	C++	Whopper	
 100	414	3226448	Rust	tobk	
 100	415	4526264	C++	cly	
-100	421	4208158	C++	Tiouz	
 100	436	1484839	Go	sparky	
 100	440	2051334	C++	Dwarth	
 100	458	2436448	Java	FrancoisMeme	
@@ -75,6 +75,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=324,time=2022-04-30 00:41:36
 100	491	4066824	Python3	Thannajo	
 100	508	792813	Python3	VilBoub	
 100	520	631323	Python3	herve056	
+100	547	4245841	C++	ADsun	
 100	550	1262539	C++	schizo	
 100	552	3927891	Python3	whywhy_	
 100	567	2786666	C++	TetraktysPhi	
@@ -181,7 +182,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=324,time=2022-04-30 00:41:36
 89.1304347826087	2426	580424	Ruby	siman	
 89.1304347826087	2950	4269171	Python3	actualCoderTrevor	
 89.1304347826087	3333	3382273	Python3	hasleron	
-89.1304347826087	4538	4245841	Python3	ADsun	
 86.95652173913044	2441	3865238	C++	Benoit_LCDB	
 86.95652173913044	2813	3105470	Java	Juda-Stico	
 84.78260869565217	3947	1880197	Python3	bicklil	

@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=255,time=2022-04-30 00:41:35
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=256,time=2022-05-01 00:30:26
 100	1596	3918583	Rust	mikmak	
 100	1675	2288263	Rust	dbdr	
 100	1677	1944090	C#	spaceorc	
@@ -174,6 +174,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=255,time=2022-04-30 00:41:35
 0	0	4136008	Python3	jerry_laevis	
 0	0	4768665	Python3		
 0	0	4815186	Javascript	Nab1ee	
+0	0	2662309	F#	AnInventiveNameOfRepute	
 0	7	4788358	C#	mattyPea	
 0	16	3503501	C++	Dagnarus	
 0	30	1060181	Ruby	Dabou	
