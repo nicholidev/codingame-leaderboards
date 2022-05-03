@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=513,time=2022-05-02 01:03:54
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=513,time=2022-05-03 00:30:36
 100	174652	3354337	Scala	Westicles	
 100	169004	154984	C++	_Royale	
 100	167588	1530051	C++	UlYoP	
@@ -77,6 +77,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=513,time=2022-05-02 01:03:54
 100	56638	4753199	Python3	Kaigorodov	
 100	56382	4752178	Python3	Stas_Korolev	
 100	55846	4813853	Python3	nek32	
+100	55793	4746858	C#	NrpYt7xe	
 100	55556	4814602	Python3	SIlentji	
 100	54688	3721214	C++	jrke	
 100	54673	4758191	Python3	ChickiBoomBoxer	
@@ -119,7 +120,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=513,time=2022-05-02 01:03:54
 100	45340	1535382	Java	CrankNaz	
 100	44930	4810061	Python3	HairySnake	
 100	43800	4053362	C#	Johan_Braanen	
-100	43482	4746858	C#	NrpYt7xe	
 100	42986	1952778	Go	blast_beat	
 100	42984	4755109	Python3	casadd	
 100	41428	4648805	C++	LordOfElements	
@@ -330,7 +330,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=513,time=2022-05-02 01:03:54
 100	9786	1132011	C#	pci	
 100	9768	3846244	Python3	JLukeSkywalker	
 100	9750	2364617	C++	RomainPicot	
-100	9748	2625928	C#	.Leonard	
+100	9748	2625928	C#	Leonard.	
 100	9738	1893989	Python3	Rosstherock	
 100	9734	2774479	Python3	FSellaouti	
 100	9728	3961074	Python3	MeisterMueller	

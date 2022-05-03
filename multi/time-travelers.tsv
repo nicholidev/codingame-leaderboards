@@ -1,9 +1,9 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4850,time=2022-05-02 01:03:38
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4850,time=2022-05-03 00:30:29
 0	47.11	1433161	1484525	C	mingu1.kang	
 0	45.68	494104	455215	C++	Recar	
 0	45.54	990110	357643	C++	Rogerup	
 0	44.92	629202	357838	Java	Larry	
-0	44.21	1029152	341600	C++	log0div0	
+0	44.06	1029152	341600	C++	log0div0	
 0	44.02	2968035	3081420	C++	DomiKo	
 0	43.94	638784	351362	C	Yqnn	
 0	43.47	2472606	3005863	C++	MehdiTouil	
@@ -11,8 +11,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4850,time=2022-05-02 01:03:
 0	43.39	252533	2570353	Javascript	AlexSurin	
 0	43.33	4070745	3849319	Java	HoriMiyamura	
 0	43.31	351062	1847653	Java	Neumann	
+0	43.28	836415	363206	Java	tallo	
 0	43.26	3443015	3501494	C++	Wozniak	
-0	43.18	836415	363206	Java	tallo	
 0	43.1	739151	341011	C++	Romka	
 0	43.1	2924895	3506308	C++	trictrac	
 0	43	272290	350495	C++	Clement0635	
@@ -93,7 +93,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4850,time=2022-05-02 01:03:
 0	40.56	622773	343848	C++	eldidou	
 0	40.5	1034338	342969	Python	Galilleos	
 0	40.25	842532	345362	Ruby	spy	
-0	40.15	320053	351116	PHP	Zbug	
+0	40.21	320053	351116	PHP	Zbug	
 0	40.11	788361	344057	C++	Bob	
 0	40.05	947892	414997	C++	ZachAttackary	
 0	40.04	1001096	348402	C#	MyIIone	
@@ -586,6 +586,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4850,time=2022-05-02 01:03:
 0	33.24	992144	350705	C++	MikeSixNine	
 0	33.24	1057929	354240	Java	jcha93	
 0	33.23	1818159	2429944	C++	JRFerguson	
+0	33.21	1020589	355038	Java	Jevri	
 0	33.19	1426525	451326	Python3	FrankVieira	
 0	33.19	1853805	2422539	C++	LuckyMullet	
 0	33.18	704737	368735	Python	Azelo	
@@ -594,7 +595,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4850,time=2022-05-02 01:03:
 0	33.17	1063575	350076	C#	TomaszMalik	
 0	33.17	940262	357776	Python3	f	
 0	33.16	1110041	3354243	C#	Partybwal	
-0	33.16	1020589	355038	Java	Jevri	
 0	33.16	4347141	3722546	OCaml	verdelhanMPSI_LIV	
 0	33.16	1145498	364197	Java	Mouseas	
 0	33.16	895306	347955	Javascript	NikIvan	

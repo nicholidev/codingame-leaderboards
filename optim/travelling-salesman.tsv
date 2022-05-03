@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=151,time=2022-05-02 01:03:55
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=153,time=2022-05-03 00:30:37
 100	201382	2288263	Rust	dbdr	
 100	201382	4277867	D	About	
 100	201382	2077805	C++	bamilan	
@@ -6,6 +6,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=151,time=2022-05-02 01:03:55
 100	201388	3354337	C++	Westicles	
 100	201389	3721214	Python3	jrke	
 100	201404	893541	Java	wala	
+100	201472	4208158	Python3	Tiouz	
 100	202080	1344487	C++	UnnamedCodinGamer	
 100	202139	2786666	C++	TetraktysPhi	
 100	202184	2311105	C++	kovi	
@@ -14,6 +15,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=151,time=2022-05-02 01:03:55
 100	204511	3647844	C++	rc95401	
 100	205031	2923506	C++	darkhorse64	
 100	205269	4341304	C++	Remi.	
+100	205449	2451652	Java	code_of_the_dead	
 100	205481	4717726	C++	[Nexure]	
 100	205904	1399382	C++	Regulus136	
 100	205986	580424	C++	siman	
@@ -21,7 +23,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=151,time=2022-05-02 01:03:55
 100	207167	2007852	Lua	Zorg1	
 100	208418	1436776	C++	BrainSolver	
 100	208579	792813	Python3	VilBoub	
-100	209151	2451652	Java	code_of_the_dead	
 100	209198	2962968	C#	Pukunya	
 100	209635	1152991	C#	xoposhiy	
 100	210261	3184049	Python3	ghhttt	
@@ -42,7 +43,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=151,time=2022-05-02 01:03:55
 100	214247	4802208	C++	cestpasvrai	
 100	214276	153965	Python3	[CG]Keelhaul	
 100	215035	3844625	C++	surgutti	
-100	215617	4208158	C++	Tiouz	
 100	215800	1430796	C	_PereKastor_	
 100	216035	1480426	Python3	Hikari42	
 100	220368	4754623	C++	kirillkulemin	
@@ -76,7 +76,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=151,time=2022-05-02 01:03:55
 100	240723	3657937	Python3	elderlybeginner	
 100	240892	4441094	Python3	Oric1	
 100	244644	2202771	Java	Kaplone	
-100	247358	2625928	C#	.Leonard	
+100	245296	4534733	Python3	Damko757	
+100	247358	2625928	C#	Leonard.	
 100	247507	3845610	Python3	pardouin	
 100	247538	925695	OCaml	Boulet	
 100	248044	1475413	TypeScript	AlucardDH	
@@ -119,6 +120,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=151,time=2022-05-02 01:03:55
 100	254188	3922731	Dart	Dartisan	
 100	258239	992549	Java	Thaddy	
 100	268561	4062203	C++	soraie	
+100	310436	4245841	C++	ADsun	
 100	318303	862919	C++	Astrobytes	
 100	328546	1132011	C#	pci	
 100	344482	1579627	C#	Bahrani	
@@ -131,7 +133,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=151,time=2022-05-02 01:03:55
 100	1007690	1522266	Javascript	Sliya	
 100	1045150	4768303	Javascript	YaRi78	
 100	1050053	3268086	Javascript	Xaetral	
-100	1286880	4245841	C++	ADsun	
 100	1320187	4756693	Python3	MorningWalk	
 100	1320334	2364617	C++	RomainPicot	
 100	1320334	2043512	PHP	matijabelec	
@@ -145,6 +146,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=151,time=2022-05-02 01:03:55
 100	2219406	1852668	Python3	gao	
 100	2219406	3603097	Javascript	lanathlor	
 100	2219406	3074711	Javascript	LeoLet	
+100	2219406	2069141	C#	tomeko	
 100	2223289	3136787	Python3	jacek	
 100	2784200	4211056	C#	Nachosauce	
 100	3211740	1378958	C#	Illedan	

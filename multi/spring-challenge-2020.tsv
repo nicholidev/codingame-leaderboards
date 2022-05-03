@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6479,time=2022-05-02 01:03:32
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6479,time=2022-05-03 00:30:18
 5	31.53	3193653	3004019	C++	karliso	
 5	31.39	880353	2975979	C++	zasmu	
 5	31.05	1082988	2982332	C++	Saelyos	
@@ -759,10 +759,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6479,time=2022-05-02 01:03:
 3	25.65	3819467	2975822	C++	bin101	
 3	25.33	1498442	2979615	TypeScript	NSzx	
 3	25.14	3051977	2977133	Python3	YongJing	
+3	24.86	1309948	3738932	Java	Runner87	
 3	24.84	1549145	2976014	C++	Mealc	
 3	24.83	3749358	2975743	Java	jon26	
 3	24.8	925695	2980303	OCaml	Boulet	
-3	24.79	1309948	3738932	Java	Runner87	
 3	24.78	3039012	2978403	Rust	matsu7874	
 3	24.76	303151	2976855	Python3	MoOT.Cube	
 3	24.75	1111798	2997758	Javascript	lifetimeLearner007	
@@ -809,13 +809,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6479,time=2022-05-02 01:03:
 3	23.92	1479552	2977698	TypeScript	Tom1	
 3	23.91	1479137	3114400	C++	lorenzods	
 3	23.91	3680541	2977492	Java	Asela	
+3	23.89	1470927	3875072	Java	MisterQuidam	
 3	23.89	3761568	3456886	C++	rimon	
 3	23.87	1105782	2979745	C#	RubenFilipe	
 3	23.86	514747	2977768	Python3	AxelCS	
 3	23.86	3686275	2978967	C#	udu	
 3	23.85	849746	2976425	Python3	lmj	
 3	23.84	648751	2978370	Haskell	dabino	
-3	23.84	1470927	3875072	Java	MisterQuidam	
 3	23.83	2310861	2975999	Python3	Ilovepie	
 3	23.79	3804005	2977797	Java	GlitchyByte	
 3	23.79	1698756	2978709	C#	Sylions	
@@ -911,10 +911,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6479,time=2022-05-02 01:03:
 3	22.93	3380514	2976519	Java	DFrese	
 3	22.91	2654648	2978421	Python3	AntiP0w	
 3	22.91	3689606	3028914	C++	DuckDuckGoose	
-3	22.9	3733716	2978389	C#	Bastett	
 3	22.85	1759839	2978707	Python3	matleg	
 3	22.85	3160781	3468121	Java	Aenerion35	
 3	22.84	3757728	2975969	C#	semera	
+3	22.82	3733716	2978389	C#	Bastett	
 3	22.81	3511049	2976652	C++	Nacho_Vigi	
 3	22.73	3765905	2979695	Python3	edramire	
 3	22.71	3809155	2977442	Java	Myssteriion	
@@ -928,7 +928,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6479,time=2022-05-02 01:03:
 3	22.58	2680421	2979813	Java	Barons	
 3	22.58	2222363	2975924	Java	Clara_AK	
 3	22.55	153620	2977730	PHP	[CPC]Karedas	
-3	22.54	1807733	2976181	Python3	NoZ-	
 3	22.54	3750754	2979906	Python3	lukasg	
 3	22.53	2112007	2978055	Javascript	KRAKEN	
 3	22.53	1740037	2978774	Scala	ereiam	
@@ -950,6 +949,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6479,time=2022-05-02 01:03:
 3	22.4	2086201	3109855	C++	mchl12	
 3	22.4	893177	2980474	C#	Rebelwillow	
 3	22.4	3772630	2979846	Go	BattleRattle	
+3	22.37	1807733	2976181	Python3	NoZ-	
 3	22.37	3478926	3123865	C	Alexis.D	
 3	22.36	3274049	2976607	Python3	Tarleya	
 3	22.35	3818012	2975919	C++	-k	
@@ -991,10 +991,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6479,time=2022-05-02 01:03:
 3	21.92	3002906	2977705	Python3	[1078]ElChapo	
 3	21.92	1098634	2987916	Javascript	grsoares	
 3	21.89	3818517	2975813	C++	m_99	
+3	21.89	3806519	2978641	Python3	ijc90	
 3	21.88	1451255	2975876	Javascript	Marcob	
 3	21.87	574826	2990338	Java	heisenbug	
 3	21.85	4119720	3487811	C++	maniekTC	
-3	21.84	3806519	2978641	Python3	ijc90	
 3	21.8	3691366	2977259	Java	V90	
 3	21.8	186405	2978991	C#	d-mark	
 3	21.8	4403610	3795696	C++	anakinCSA	

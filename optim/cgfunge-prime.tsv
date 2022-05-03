@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=286,time=2022-05-02 01:03:49
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=286,time=2022-05-03 00:30:35
 100	4654	3949307	Perl	xevixevi	
 100	4743	2288263	Rust	dbdr	
 100	5613	4208158	Python3	Tiouz	
@@ -89,6 +89,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=286,time=2022-05-02 01:03:49
 100	49239	4095799	PHP	circular17	
 100	49314	4276144	Ruby	MeWhenI	
 100	49665	1569823	PHP	Niako	
+100	50328	4115124	PHP	bitAlb	
 100	50637	1050421	PHP	geppoz	
 100	51119	3489223	Javascript	KarloHubai	
 100	51370	1131250	C++	Jooo	
@@ -148,7 +149,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=286,time=2022-05-02 01:03:49
 100	77800	3421399	PHP	Athight	
 100	79870	2407700	PHP	adoxography	
 100	80555	4648805	C++	LordOfElements	
-100	81285	4115124	PHP	bitAlb	
 100	82120	2051334	Python3	Dwarth	
 100	82510	2172874	Rust	Med1ane	
 100	84339	828239	PHP	[SG]Bisou	
@@ -165,6 +165,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=286,time=2022-05-02 01:03:49
 100	93189	4319426	Python3	Schnegge	
 100	95106	4595779	Haskell	wmarkham	
 100	96431	1429360	C++	comp0zr	
+100	98724	792813	Python3	VilBoub	
 100	101440	894599	Python3	DidierC	
 100	102827	4454468	Python3	KNTK	
 100	102851	3845610	Python3	pardouin	
@@ -235,7 +236,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=286,time=2022-05-02 01:03:49
 53	3816	3660819	Scala	BloodyTurtles	
 53	3816	3486522	Python3	Linze	
 53	3816	1485015	C++	Murky	
-53	3816	792813	Python3	VilBoub	
 53	3816	2944672	C++	Myrrhe	
 53	3816	2769835	Python3	kyunamk	
 53	3816	3513265	PHP	DaNinja	
@@ -254,7 +254,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=286,time=2022-05-02 01:03:49
 53	3816	3983017	PHP	TLbuis	
 53	3816	3466914	Python3	jules00	
 53	3816	4626700	PHP	JohnyDarecek	
-53	3816	2625928	C#	.Leonard	
+53	3816	2625928	C#	Leonard.	
 53	3816	2364617	Python3	RomainPicot	
 53	3816	3603097	Javascript	lanathlor	
 53	3816	2677877	Python3	KyanBlevins	
