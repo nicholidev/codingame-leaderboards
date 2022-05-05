@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7840,time=2022-05-04 00:37:40
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7844,time=2022-05-05 01:02:48
 5	43.84	1400179	3665384	C++	reCurse	
 5	40.05	3457031	3873772	C++	YurkovAS	
 5	37.66	4300424	3704114	Rust	kurnevsky	
@@ -311,7 +311,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7840,time=2022-05-04 00:37:
 5	2.46	1930944	3667736	Kotlin	Neige	
 5	2.04	3741524	3669962	Kotlin	princess_of_zeal	
 4	43.91	4083551	3665763	C++	Tenacious_C	
-4	43.75	3480498	3687407	Java	BenPix	
+4	43.74	3480498	3687407	Java	BenPix	
 4	43.62	1201796	3673806	Javascript	P.Greze	
 4	43.57	1883153	3671600	C++	Zoidb3rg	
 4	43.48	304126	3668298	PHP	kami	
@@ -486,8 +486,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7840,time=2022-05-04 00:37:
 4	37.8	4053013	3669246	Java	nagoke	
 4	37.77	3524834	3669412	C++	Schemidt	
 4	37.77	3353481	3665022	C++	takumi152	
-4	37.74	4323615	3669990	C	Troph	
 4	37.73	4145423	3669699	Java	pizza6	
+4	37.73	4323615	3669990	C	Troph	
 4	37.7	4067800	3679979	C++	SilentAndroid	
 4	37.68	4313127	3665799	Scala	Stilgar101010	
 4	37.66	4231728	3671050	C#	TojoNatolotra	
@@ -734,7 +734,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7840,time=2022-05-04 00:37:
 4	35.02	3797458	3668938	Java	Djoman	
 4	35.01	2856523	3664907	Python3	Meldarion	
 4	34.95	3737797	3675964	Javascript	lbadet	
-4	34.93	3795676	3667059	Ruby	sofinms	
 4	34.92	735910	3666800	C++	Agade	
 4	34.85	4018281	3668469	C	Morseb-HockinDraecg	
 4	34.85	4590269	3947758	C#	Cheeriohz	
@@ -752,6 +751,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7840,time=2022-05-04 00:37:
 4	34.72	1825335	3666928	Python3	TiNico	
 4	34.7	1443769	3669677	C#	weweno	
 4	34.7	4313500	3666242	C#	HDainester	
+4	34.69	3795676	3667059	Ruby	sofinms	
 4	34.68	4066079	3669259	Java	M3in3	
 4	34.67	1186250	3667471	C#	Gabbek	
 4	34.67	1968855	3666926	Java	ThePurificator	
@@ -868,8 +868,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7840,time=2022-05-04 00:37:
 4	33.39	2373953	3669364	TypeScript	Dridriun	
 4	33.34	3941182	3667410	Python3	RAmon	
 4	33.33	1479098	3670105	C++	Elventian	
+4	33.27	4326105	3667101	C++	Kmoi	
 4	33.27	2025868	3666988	C++	sumoru	
-4	33.25	4326105	3667101	C++	Kmoi	
 4	33.24	3877700	3672853	Rust	Bytekeeper	
 4	33.24	3472279	3667466	C++	DataWasTaken	
 4	33.24	1073247	3851287	C++	_NikJ	
