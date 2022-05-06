@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=13440,time=2022-05-05 01:03:00
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=13480,time=2022-05-06 00:30:35
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -286,6 +286,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13440,time=2022-05-05 01:03:00
 100	208600	4615536	C		
 100	208580	2363657	C++	Ztrk	
 100	208100	4425076	C	Malu38	
+100	208000	4007973	C	FML128	
 100	207890	3965104	C	casd2	
 100	207540	331248	C	Zycho	
 100	207490	3626931	C	BlackStorm	
@@ -308,13 +309,13 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13440,time=2022-05-05 01:03:00
 100	204480	4285348	C	bledda	
 100	204080	4039794	C	Codeab	
 100	204000	154388	C++	PonyPonyCodeCode	
+100	203960	1179950	Go	Patorikkuyatta	
 100	203890	1715811	Java	PositiveQuark	
 100	203480	2350846	C++	DrBloodmoney	
 100	203400	1880319	C++	WildSmilodon	
 100	203360	226528	C++	Manwe	
 100	203110	3920887	C	~raiders	
 100	202890	3960362	C	Asgardinho	
-100	202790	1179950	Go	Patorikkuyatta	
 100	202450	1853167	Java	rcode	
 100	202360	272290	Go	Clement0635	
 100	202300	3939443	C++	Lafihalas	
@@ -375,6 +376,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13440,time=2022-05-05 01:03:00
 100	185160	3836429	Python3	Hippolyte	
 100	185110	1122412	Java	TheNinja	
 100	184740	3924101	C++	kzntz	
+100	184390	4083405	C++	jzen	
 100	183740	4370748	C++	Raphiking	
 100	183690	3941506	C#	Blacksheep	
 100	183080	2592027	C#	ParticleBeam	
@@ -540,7 +542,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13440,time=2022-05-05 01:03:00
 100	134750	1173260	Rust	Erasmus	
 100	134650	775897	C++	gchebanov	
 100	134280	2942948	C++	Tchouche	
-100	134160	4083405	C++	jzen	
 100	133060	3413813	Javascript	Hvosten	
 100	132630	4523276	Python3	JoCodeAvecLeQ	
 100	132420	1128769	Rust	Dwakus	
@@ -644,6 +645,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13440,time=2022-05-05 01:03:00
 100	97720	4819360	Python3	Vemore	
 100	97240	4417907	Python3	EntrezVotreNomIci	
 100	97170	2718963	PHP	Fregat	
+100	96840	2675754	C++	CaptainGreen	
 100	96710	2990918	Javascript	Dingodino	
 100	96670	3789424	C++	JohnCM	
 100	96640	1613445	C#	AP-S	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13440,time=2022-05-05 01:03:00
 100	64260	3522643	C++	Dragon_Breath	
 100	64260	3515754	C++	Marginax	
 100	64260	1478706	Python3	The-Dude	
-100	64260	3571584	C++	PastaMamita	
-100	64260	3574688	C++	RaulButuc	
