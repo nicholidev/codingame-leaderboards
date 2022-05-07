@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=13480,time=2022-05-06 00:30:35
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=13495,time=2022-05-07 01:00:25
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -341,6 +341,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13480,time=2022-05-06 00:30:35
 100	195930	4039884	C++	mzbear	
 100	195910	1120421	C++	Gordonihno	
 100	195880	1061242	C++	martinpapa69	
+100	195700	1601217	C++	Heide	
 100	195530	922880	C#	Leshka	
 100	195040	4193469	Rust	yannick-t	
 100	195000	925695	OCaml	Boulet	
@@ -408,6 +409,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13480,time=2022-05-06 00:30:35
 100	177180	3965560	C#	Ryanless	
 100	177130	1646165	Python3	CasperHagenaars	
 100	177030	2451652	Java	code_of_the_dead	
+100	176170	4819360	C	Vemore	
 100	175020	1880388	Python3	avn	
 100	174890	4773899	C++	Cheerful	
 100	174820	4743931	Python3	Djak47	
@@ -536,6 +538,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13480,time=2022-05-06 00:30:35
 100	137530	512207	Scala	Aun	
 100	137280	3760956	C++	GeekNbOne	
 100	137140	2077458	Python3	Ragi	
+100	136550	2675754	C++	CaptainGreen	
 100	136020	4514305	PHP	Lauri.Kase	
 100	134980	893915	Python3	DeVoTeD	
 100	134860	1737611	Javascript	RPlusPlus	
@@ -631,6 +634,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13480,time=2022-05-06 00:30:35
 100	101670	837436	C++	aropan	
 100	101620	2781753	Scala	execdd17	
 100	101580	1053198	Python3	ProfessorWolf	
+100	101230	4863228	C++	Anlzebeth	
 100	101210	4103762	C++	MallePietje	
 100	100780	1798477	C#	mnivet	
 100	100730	1140027	Ruby	theBee	
@@ -642,10 +646,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13480,time=2022-05-06 00:30:35
 100	97950	2421089	Python3	Smlep	
 100	97910	629371	C#	BALEK	
 100	97760	1272564	C	Raspberry4all	
-100	97720	4819360	Python3	Vemore	
 100	97240	4417907	Python3	EntrezVotreNomIci	
 100	97170	2718963	PHP	Fregat	
-100	96840	2675754	C++	CaptainGreen	
 100	96710	2990918	Javascript	Dingodino	
 100	96670	3789424	C++	JohnCM	
 100	96640	1613445	C#	AP-S	
@@ -758,6 +760,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13480,time=2022-05-06 00:30:35
 100	75700	1440207	Python3	Rungekutta	
 100	75660	1407720	Python3	bananaMixer	
 100	75530	1932059	Python3	Zhiesold	
+100	75010	4830112	Python3	slow-mo	
 100	74850	2221405	C++	LaxmanRawat	
 100	74710	370969	C#	fgeo	
 100	74690	4599928	Python3	lhommefm	
@@ -996,6 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=13480,time=2022-05-06 00:30:35
 100	64260	3442915	C++	such	
 100	64260	2243940	Python3	Revenge911	
 100	64260	270881	Python3	Maurice_Moss	
-100	64260	3522643	C++	Dragon_Breath	
-100	64260	3515754	C++	Marginax	
-100	64260	1478706	Python3	The-Dude	

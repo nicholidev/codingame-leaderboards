@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1229,time=2022-05-06 00:30:35
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1231,time=2022-05-07 01:00:26
 100	11920	2077805	C++	bamilan	
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
@@ -261,6 +261,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1229,time=2022-05-06 00:30:35
 100	5062	2894347	Rust	efugier	
 100	5054	2042323	Python3	mana_b	
 100	5023	3353481	C++	takumi152	
+100	5014	4589241	Python3	Setra022	
 100	4919	1227148	Java	Schneewittchen	
 100	4865	1613949	Java	elaaboum	
 100	4863	4673683	C++	BartK	
@@ -304,7 +305,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1229,time=2022-05-06 00:30:35
 100	4065	4083537	Python3	DavidAvsajanishvili	
 100	4051	1896128	C++	Vhanire	
 100	4042	2833220	Java	Alex311	
-100	4039	4589241	Python3	Setra022	
 100	4037	218189	C	[CG]Maxime	
 100	4027	3525167	Python3	fgsdt	
 100	3992	831171	Python3	Recoding	
@@ -329,6 +329,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1229,time=2022-05-06 00:30:35
 100	3797	1802967	Python3	Meruem	
 100	3781	4050765	C++	Traquila	
 100	3779	3317583	Python3	Mjo	
+100	3778	1838612	D	statiolake	
 100	3721	2315158	Java	luigi_gelato	
 100	3719	3167968	Javascript	Master_Zain	
 100	3709	2051334	C++	Dwarth	
@@ -435,6 +436,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1229,time=2022-05-06 00:30:35
 100	3039	1736419	Java	Odinfr	
 100	3036	2856582	C++	Towelie	
 100	3035	894599	Java	DidierC	
+100	3023	1186250	C#	Gabbek	
 100	2985	925695	OCaml	Boulet	
 100	2979	2017805	Python3	Winter_not_comming	
 100	2959	4587710	Scala	Smetalka	
@@ -442,7 +444,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1229,time=2022-05-06 00:30:35
 100	2954	2245596	C++	BAZooo	
 100	2947	3305510	PHP	TBali	
 100	2939	783555	C#	Colin88	
-100	2932	1838612	D	statiolake	
 100	2920	1895182	TypeScript	Jean_Francois_R	
 100	2916	2034153	C++	AdriZ	
 100	2908	1733593	Scala	Wei-1	
@@ -461,6 +462,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1229,time=2022-05-06 00:30:35
 100	2799	3962423	C++	Shagar	
 100	2790	1410353	Rust	SwagColoredKitteh	
 100	2779	1029663	C	Skreamly	
+100	2777	3573721	Javascript	Kheops	
 100	2774	467193	Python3	pin72	
 100	2773	2051278	C++	GuillaumeK	
 100	2766	3502258	Python3	TimAI	
@@ -531,7 +533,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1229,time=2022-05-06 00:30:35
 100	2381	1528274	Ruby	BlanCap	
 100	2380	3903473	Python3	Konstant	
 100	2378	990569	C++	Srkr	
-100	2376	3573721	Javascript	Kheops	
 100	2375	3878056	Python3	LighTender	
 100	2358	3778409	Kotlin	l_o_g_a_n	
 100	2339	650661	Ruby	Syro	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1229,time=2022-05-06 00:30:35
 100	1045	3904540	Python3	Queuebee	
 100	1045	3999693	C++	ln-dev05	
 100	1045	4177163	Python3	ajames	
-100	1045	4274197	Rust	i8fbnkyw	
