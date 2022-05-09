@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=164,time=2022-05-08 01:27:58
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=165,time=2022-05-09 00:47:28
 100	201382	2288263	Rust	dbdr	
 100	201382	4277867	D	About	
 100	201382	2077805	C++	bamilan	
@@ -18,7 +18,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=164,time=2022-05-08 01:27:58
 100	205269	4341304	C++	Remi.	
 100	205449	2451652	Java	code_of_the_dead	
 100	205481	4717726	C++	[Nexure]	
-100	205865	1436776	C++	BrainSolver	
+100	205671	1436776	C++	BrainSolver	
 100	205904	1399382	C++	Regulus136	
 100	205986	580424	C++	siman	
 100	206555	155774	C++	dwarfie	
@@ -32,6 +32,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=164,time=2022-05-08 01:27:58
 100	210563	820000	C++	ValGrowth	
 100	210862	4083537	Python3	DavidAvsajanishvili	
 100	210883	2350415	C++	Vintarel	
+100	211481	4754623	C++	kirillkulemin	
 100	211604	4726885	C++	Boooooooo	
 100	211747	2500089	C++	Fantomat75	
 100	212201	943556	C++	DollarAkshay	
@@ -45,10 +46,11 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=164,time=2022-05-08 01:27:58
 100	214159	512097	Haskell	Stilgart	
 100	214247	4802208	C++	cestpasvrai	
 100	214276	153965	Python3	[CG]Keelhaul	
+100	214489	224325	Go	TidyMaze	
 100	215035	3844625	C++	surgutti	
 100	215800	1430796	C	_PereKastor_	
 100	216035	1480426	Python3	Hikari42	
-100	220368	4754623	C++	kirillkulemin	
+100	216148	3839774	Scala	gurvan_lullien	
 100	220943	4562865	Python3	VilBoub_junior	
 100	221822	1003777	Rust	DanXX09	
 100	221850	3226448	Python3	tobk	
@@ -56,7 +58,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=164,time=2022-05-08 01:27:58
 100	224415	4194994	Javascript	zLuki	
 100	224638	1838549	Rust	orangesnowfox	
 100	225413	4627200	Python3	Fwcode	
-100	228499	224325	Go	TidyMaze	
 100	228711	1287344	C++	Alshock	
 100	228720	3343665	Rust	Quidome	
 100	229528	3490454	Python3	PAug	
