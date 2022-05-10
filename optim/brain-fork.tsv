@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6057,time=2022-05-09 00:47:19
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6064,time=2022-05-10 00:39:39
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -568,6 +568,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6057,time=2022-05-09 00:47:19
 100	5363	4095799	Pascal	circular17	
 100	5365	899864	PHP	therainycat	
 100	5367	4526264	Python3	cly	
+100	5373	1425182	Scala	Dipucian	
 100	5382	4193469	Rust	yannick-t	
 100	5390	593523	C++	supermassive	
 100	5400	1961440	C++	simon_v	
@@ -656,7 +657,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6057,time=2022-05-09 00:47:19
 100	5604	1566335	Python3	BeardedWhale	
 100	5606	155955	PHP	nht_dev	
 100	5609	1086050	Python3	aandrukhovich	
-100	5611	1425182	Scala	Dipucian	
 100	5615	268835	Java	Adri	
 100	5616	3951098	Python3	SlurpasGasskagg	
 100	5619	829018	C++	alchemsti	

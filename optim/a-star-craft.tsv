@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1236,time=2022-05-09 00:47:20
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1237,time=2022-05-10 00:39:40
 100	11920	2077805	C++	bamilan	
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
@@ -140,6 +140,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1236,time=2022-05-09 00:47:20
 100	7784	862336	C++	Zaphus	
 100	7760	3919068	C++	14598366	
 100	7723	3960770	C++	AndorM	
+100	7713	1838612	Rust	statiolake	
 100	7643	232528	C++	cegprakash	
 100	7643	1059313	C++	_SERGE_	
 100	7641	1418821	C	input.txt	
@@ -197,7 +198,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1236,time=2022-05-09 00:47:20
 100	6071	903416	Scala	matlesudiste	
 100	6064	1518504	Kotlin	bohuss	
 100	6025	198916	Java	WhatTrickeryIsThis	
-100	6001	1838612	D	statiolake	
 100	5990	1519989	Python3	a5kin	
 100	5976	1572888	Python3	DirtyHarry	
 100	5965	3382273	C++	hasleron	
@@ -250,6 +250,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1236,time=2022-05-09 00:47:20
 100	5261	4428547	Java	CappuccinoCoder	
 100	5247	371603	Ruby	martin	
 100	5233	3408865	C++	redimer	
+100	5206	1186250	C#	Gabbek	
 100	5204	1970506	Python3	Taldor	
 100	5199	3480498	PHP	BenPix	
 100	5167	2715508	C++	Anth	
@@ -276,7 +277,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1236,time=2022-05-09 00:47:20
 100	4683	2155687	Kotlin	NilsTheWizzard	
 100	4667	1415498	C++	Kirich	
 100	4663	2470677	C++	Goujon	
-100	4620	1186250	C#	Gabbek	
 100	4587	865548	Python3	Kktus	
 100	4586	1464932	Java	Tiramon	
 100	4554	839879	C#	Washier	
@@ -374,6 +374,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1236,time=2022-05-09 00:47:20
 100	3602	4592681	Python3	Urutar	
 100	3602	4134943	Python3	vinc-r	
 100	3602	4848961	Python3	Sasso_Stark	
+100	3602	4534733	Python3	Damko757	
 100	3596	1433688	C++	Geropy	
 100	3584	3335896	C++	_martynas	
 100	3582	1953786	Python3	ludowsky	
@@ -706,7 +707,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1236,time=2022-05-09 00:47:20
 100	1277	1505954	C#	Salintas	
 100	1274	1599552	Go	FlyingRatBull	
 100	1272	2604075	Python3	[CG]NaejDoree	
-100	1262	4534733	Python3	Damko757	
 100	1249	2069141	C#	tomeko	
 100	1243	414278	Java	oobException	
 100	1239	4386234	Python3	EnoGic	

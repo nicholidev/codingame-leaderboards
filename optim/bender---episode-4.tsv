@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=257,time=2022-05-09 00:47:21
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=258,time=2022-05-10 00:39:40
 100	1596	3918583	Rust	mikmak	
 100	1675	2288263	Rust	dbdr	
 100	1677	1944090	C#	spaceorc	
@@ -62,6 +62,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=257,time=2022-05-09 00:47:21
 100	4900	1883740	C++	kermo	
 100	5202	2104815	Python3	MaTMaT	
 100	5436	792813	Python3	VilBoub	
+100	5932	4589241	Python3	Setra022	
 100	5940	1333869	Python3	kiwijam	
 100	6128	3317508	Javascript	m4683	
 100	6332	3271550	C++	Eggface	
@@ -83,7 +84,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=257,time=2022-05-09 00:47:21
 33.333333333333336	4600	704875	C#	XaY	
 30	1423	962569	C++	[K]Gabor	
 30	1456	868896	Python3	Arn	
-26.666666666666668	1270	4589241	Python3	Setra022	
 23.333333333333332	3024	1412263	PHP	PatrickMcGinnisII	
 20	229	1195856	Java	daifei4321	
 20	1433	173522	C#	TeddyS	
@@ -203,6 +203,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=257,time=2022-05-09 00:47:21
 0	420	3536382	Python3	FranckR34	
 0	420	2325449	Perl	otpv	
 0	420	3657944	Python3	xyz-1	
+0	420	4771365	Python3	J56164	
 0	422	3237004	Java	darkmoonbzh	
 0	444	4443387	Python3	Rob-G	
 0	450	3138005	C++	GerJCS	
