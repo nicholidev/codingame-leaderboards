@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1237,time=2022-05-13 00:51:26
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1240,time=2022-05-14 00:43:07
 100	11920	2077805	C++	bamilan	
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
@@ -240,6 +240,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1237,time=2022-05-13 00:51:26
 100	5354	3677175	Rust	ToadLump	
 100	5331	4154326	Go	montplusa	
 100	5323	1372349	Java	NinjaDoggy	
+100	5321	1186250	C#	Gabbek	
 100	5317	1894833	Python3	Rimailleur	
 100	5317	937878	C++	nyashiki	
 100	5311	607571	Scala	gfabre	
@@ -250,7 +251,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1237,time=2022-05-13 00:51:26
 100	5261	4428547	Java	CappuccinoCoder	
 100	5247	371603	Ruby	martin	
 100	5233	3408865	C++	redimer	
-100	5206	1186250	C#	Gabbek	
 100	5204	1970506	Python3	Taldor	
 100	5199	3480498	PHP	BenPix	
 100	5167	2715508	C++	Anth	
@@ -405,6 +405,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1237,time=2022-05-13 00:51:26
 100	3422	2889262	Javascript	gheath	
 100	3392	4784765	Python3	idia	
 100	3385	3982480	Javascript	darynka_xo	
+100	3382	3356703	Javascript	MickaelB	
 100	3356	3150053	Javascript	HarveyGW	
 100	3348	3343665	Rust	Quidome	
 100	3344	1029602	C	Potemkine	
@@ -721,6 +722,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1237,time=2022-05-13 00:51:26
 100	1215	2685790	Javascript	Laws	
 100	1213	1547011	Java	Mandzi	
 100	1197	1527403	C++	Di_Masta	
+100	1190	4821969	Python3	grizzur	
 100	1188	3691491	Javascript	icecream17	
 100	1174	4039528	Python3	Elnaril	
 100	1165	1461866	Java	Spacebird1313	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1237,time=2022-05-13 00:51:26
 100	1045	3640682	Rust	qqSmile	
 100	1045	951799	Python3	danimano	
 100	1045	2944672	C++	Myrrhe	
-100	1045	4141556	C++	Justnoone	
-100	1045	1724524	Python3	Duaner	

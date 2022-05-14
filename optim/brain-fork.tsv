@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6073,time=2022-05-13 00:51:25
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6080,time=2022-05-14 00:43:06
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -516,6 +516,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6073,time=2022-05-13 00:51:25
 100	5052	4275624	Java	UnknownException	
 100	5055	870653	C#	Argyl	
 100	5071	1479540	C#		
+100	5076	3586448	Python3	LeoT	
 100	5080	2574801	C#	sT0Ps	
 100	5098	2408117	Python3	Brollyy	
 100	5106	4594770	Python3	picoplankton	
@@ -526,7 +527,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6073,time=2022-05-13 00:51:25
 100	5148	4330025	Python3	wyenat	
 100	5158	3340884	Python3	sd001034	
 100	5175	953062	C++	rouviecy	
-100	5177	3586448	Python3	LeoT	
 100	5178	3525167	Python3	fgsdt	
 100	5180	2217572	Python3	Ben9	
 100	5181	4661927	C++	SatchShred	
@@ -980,6 +980,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6073,time=2022-05-13 00:51:25
 100	5860	507538	Python3	Krzybe	
 100	5860	4847695	C++	HollaFoil	
 100	5860	3356703	Python3	MickaelB	
+100	5860	1067069	Kotlin	Reiska	
 100	5861	954356	C++		
 100	5861	420035	Pascal	bvs23bkv33	
 100	5861	1483798	Ruby	hm001	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6073,time=2022-05-13 00:51:25
 100	5865	847563	Python3	r_sa	
 100	5865	919703	C++	TheShadowX	
 100	5865	271034	C++	6pi	
-100	5865	199887	C#	Sanpas	
