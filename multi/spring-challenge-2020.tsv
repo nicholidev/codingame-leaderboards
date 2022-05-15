@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6498,time=2022-05-14 00:43:01
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6499,time=2022-05-15 00:40:35
 5	31.53	3193653	3004019	C++	karliso	
 5	31.39	880353	2975979	C++	zasmu	
 5	31.05	1082988	2982332	C++	Saelyos	
@@ -786,7 +786,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6498,time=2022-05-14 00:43:
 3	24.43	3938395	3754079	C++	Quentin18	
 3	24.43	3783901	2976108	Python3	rlucas585	
 3	24.42	1506970	2976707	C#	Speedrun	
-3	24.35	3563633	2980017	Javascript	p1100i	
+3	24.39	3563633	2980017	Javascript	p1100i	
 3	24.31	1140677	2975871	C++	Crog	
 3	24.26	3427517	3691444	Javascript	csysja	
 3	24.2	4287222	3799004	C++	Gaksoo	
@@ -821,9 +821,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6498,time=2022-05-14 00:43:
 3	23.85	1479552	2977698	TypeScript	Tom1	
 3	23.85	2200342	2976575	C++	BernardoSulzbach	
 3	23.83	3811717	3050741	C++	saikatoto	
+3	23.81	3529519	2992994	Python3	Kristo30	
 3	23.81	3686275	2978967	C#	udu	
 3	23.8	1422936	2979359	Java	Luky	
-3	23.8	3529519	2992994	Python3	Kristo30	
 3	23.8	2392192	2991212	C++	lgm42	
 3	23.77	849746	2976425	Python3	lmj	
 3	23.76	1105782	2979745	C#	RubenFilipe	
@@ -908,7 +908,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6498,time=2022-05-14 00:43:
 3	23.07	3802180	2979892	C++	SaminRK	
 3	23.06	1759839	2978707	Python3	matleg	
 3	23	1452449	2977216	Java	m4nu8untu	
-3	22.97	3418590	2978233	C++	LaPatateU	
+3	22.99	3418590	2978233	C++	LaPatateU	
 3	22.96	153045	2979746	C++	nib	
 3	22.94	2675308	2977204	Javascript	vkochev	
 3	22.93	3523406	2976755	Java	Pansier	
@@ -941,6 +941,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6498,time=2022-05-14 00:43:
 3	22.44	1686299	2978848	C++	JRiedl	
 3	22.44	3772630	2979846	Go	BattleRattle	
 3	22.44	893177	2980474	C#	Rebelwillow	
+3	22.43	2086201	3109855	C++	mchl12	
 3	22.43	2434893	2979511	Javascript	cdurbin	
 3	22.42	3819989	3476598	C++	KawattaTaido	
 3	22.42	3757728	2975969	C#	semera	
@@ -948,7 +949,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6498,time=2022-05-14 00:43:
 3	22.37	3736924	2979495	Java	Autilis	
 3	22.37	2680421	2979813	Java	Barons	
 3	22.37	1652969	2977756	C#	Berci79	
-3	22.34	2086201	3109855	C++	mchl12	
 3	22.31	2112007	2978055	Javascript	KRAKEN	
 3	22.3	3776706	2980526	C#	dashu_baba	
 3	22.3	1205152	2977612	Javascript	cfoll	
