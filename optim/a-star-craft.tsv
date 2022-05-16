@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1240,time=2022-05-15 00:40:41
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1241,time=2022-05-16 00:53:31
 100	11920	2077805	C++	bamilan	
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
@@ -130,6 +130,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1240,time=2022-05-15 00:40:41
 100	8199	403748	C#	[CG]SaiksyApo	
 100	8128	1342741	C++	ltDan	
 100	8038	1477622	C#	zrdon	
+100	8008	1186250	C#	Gabbek	
 100	7987	1443538	Java	Tux4711	
 100	7948	1845617	C++	Shingy	
 100	7899	2455616	Java	JeanClaude44	
@@ -240,7 +241,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1240,time=2022-05-15 00:40:41
 100	5354	3677175	Rust	ToadLump	
 100	5331	4154326	Go	montplusa	
 100	5323	1372349	Java	NinjaDoggy	
-100	5321	1186250	C#	Gabbek	
 100	5317	1894833	Python3	Rimailleur	
 100	5317	937878	C++	nyashiki	
 100	5311	607571	Scala	gfabre	
@@ -591,6 +591,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1240,time=2022-05-15 00:40:41
 100	2076	4193153	Python3	pabx06	
 100	2076	4277867	Python3	About	
 100	2067	3406987	Python3	Radu_Sav	
+100	2052	3349939	C++	mr.spring	
 100	2048	2660470	Java	Perdur	
 100	2046	1505665	Python3	NicolasGrosjean	
 100	2040	2858320	C++	Loule	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1240,time=2022-05-15 00:40:41
 100	1045	4038761	Python3	Leirn	
 100	1045	3640682	Rust	qqSmile	
 100	1045	951799	Python3	danimano	
-100	1045	2944672	C++	Myrrhe	

@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=334,time=2022-05-15 00:40:42
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=334,time=2022-05-16 00:53:31
 100	291	2288263	Rust	dbdr	
 100	293	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -55,6 +55,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=334,time=2022-05-15 00:40:42
 100	340	4262172	C++	highjump	
 100	345	952784	C++	[CG]Simon	
 100	349	3809853	C++	Emilio-EH	
+100	362	935744	C	Alcalyn	
 100	363	440476	C++	yowa	
 100	364	3738782	C#	Inaniwa	
 100	364	1684020	Python3	tom_	
@@ -78,6 +79,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=334,time=2022-05-15 00:40:42
 100	547	4245841	C++	ADsun	
 100	550	1262539	C++	schizo	
 100	552	3927891	Python3	whywhy_	
+100	566	416762	TypeScript	Khao	
 100	567	2786666	C++	TetraktysPhi	
 100	576	4216789	Perl	Saur2000	
 100	578	481988	Kotlin	DevKirill	
@@ -156,7 +158,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=334,time=2022-05-15 00:40:42
 100	1730	2064637	Java	java_coffee_cup	
 100	1754	371603	Ruby	martin	
 100	1844	4146980	Python3	Bernathan	
-100	1893	416762	TypeScript	Khao	
 100	1936	3740208	Python3	Dinca	
 100	2002	4390014	Python3	yfe42	
 100	2046	4315171	Java	Soucis	
@@ -190,7 +191,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=334,time=2022-05-15 00:40:42
 89.1304347826087	3333	3382273	Python3	hasleron	
 86.95652173913044	2441	3865238	C++	Benoit_LCDB	
 86.95652173913044	2813	3105470	Java	Juda-Stico	
-84.78260869565217	2624	935744	C	Alcalyn	
 84.78260869565217	3947	1880197	Python3	bicklil	
 84.78260869565217	4182	4333899	Javascript	Handala	
 82.6086956521739	3034	4110073	C++	souta_1326	
