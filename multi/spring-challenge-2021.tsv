@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7853,time=2022-05-17 00:40:10
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7854,time=2022-05-18 00:34:51
 5	43.83	1400179	3665384	C++	reCurse	
 5	40.02	3457031	3873772	C++	YurkovAS	
 5	37.66	4300424	3704114	Rust	kurnevsky	
@@ -341,7 +341,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7853,time=2022-05-17 00:40:
 4	42.74	568476	3682909	Java	Dje54	
 4	42.74	2762795	3666946	Python3	Keysuke	
 4	42.65	2887878	3941570	C++	Brodalee	
-4	42.62	3808317	3667496	C++	Bax533	
+4	42.63	3808317	3667496	C++	Bax533	
 4	42.52	3508803	3668945	Java	SlimSt	
 4	42.51	1544382	3666304	Python3	Ashargin	
 4	42.5	3769834	3668614	C#	Hoggins	
@@ -420,8 +420,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7853,time=2022-05-17 00:40:
 4	39.49	1205008	3665103	Java	Trisard	
 4	39.36	4053362	3665301	C++	Johan_Braanen	
 4	39.32	2064511	3668689	Java	Semenyutenko_Andrey	
-4	39.24	1061482	3667336	TypeScript	Ph470u	
 4	39.24	1836058	3678283	C++	SeebOmega	
+4	39.24	1061482	3667336	TypeScript	Ph470u	
 4	39.2	1073240	3666505	Python3	IvanSchro	
 4	39.19	4062794	3665743	Javascript	Passi10	
 4	39.13	4178870	3666198	Go	hanabi1224	
@@ -442,7 +442,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7853,time=2022-05-17 00:40:
 4	38.9	3657937	3666916	Python3	elderlybeginner	
 4	38.9	4307227	3670254	C++	doosan.baek	
 4	38.89	3501209	3704459	Python3	Whatar	
-4	38.82	4289243	3665824	Java	ciabatta	
+4	38.81	4289243	3665824	Java	ciabatta	
 4	38.81	2123423	3665728	Java	splanard	
 4	38.8	4329776	3665738	Python3	takayg	
 4	38.79	1097889	3673443	C++	HoangH7	
@@ -484,9 +484,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7853,time=2022-05-17 00:40:
 4	37.85	4067707	3929626	C++	therealbeef	
 4	37.84	1354896	3664932	Python3	Maciulis	
 4	37.82	2600493	3667982	Java	[Nit]	
-4	37.8	4053013	3669246	Java	nagoke	
+4	37.79	4053013	3669246	Java	nagoke	
 4	37.77	3524834	3669412	C++	Schemidt	
-4	37.77	3353481	3665022	C++	takumi152	
 4	37.73	4145423	3669699	Java	pizza6	
 4	37.73	4323615	3669990	C	Troph	
 4	37.7	4067800	3679979	C++	SilentAndroid	
@@ -500,6 +499,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7853,time=2022-05-17 00:40:
 4	37.62	1414873	3671731	Javascript	Volcomix	
 4	37.62	3902927	3669438	Python3	Bulgot	
 4	37.62	4323833	3666912	C++	pres1dent	
+4	37.61	3353481	3665022	C++	takumi152	
 4	37.61	4324288	3671486	Java	tiquaidu	
 4	37.6	4414819	3991228	Rust	Michael_Rouart	
 4	37.6	3764598	3665239	C++	mgarcia-	
@@ -561,9 +561,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7853,time=2022-05-17 00:40:
 4	36.98	3141948	3669446	Python3	philRG	
 4	36.89	4304826	3668795	Rust	diegocasanova	
 4	36.89	3710710	3693654	C++	rafaelSorel	
-4	36.88	3101644	3669325	Python3	HerrHagner	
 4	36.86	1742604	3666204	C++	TonoX	
 4	36.77	2681776	3665773	Java	Klepus	
+4	36.76	3101644	3669325	Python3	HerrHagner	
 4	36.75	1671042	3667609	Java	hello_it	
 4	36.75	3597780	3669118	Go	EParisot	
 4	36.73	3996096	3695474	Haskell	Sakisan	
@@ -710,6 +710,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7853,time=2022-05-17 00:40:
 4	35.21	3646829	3666824	TypeScript	pigm0	
 4	35.21	1020626	3666913	C++	PiterYeh	
 4	35.19	2592367	3667903	C#	Jokero	
+4	35.18	4053907	3666617	C#	Cer3s	
 4	35.17	3836510	3667091	Python3	pychainman	
 4	35.17	3138357	3666005	C#	QzL	
 4	35.17	4075971	3670177	Python3	Jonas121	
@@ -719,7 +720,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7853,time=2022-05-17 00:40:
 4	35.14	3089131	3665288	Python3	dragonsayen	
 4	35.12	3765212	3668410	Python3	pavaucha	
 4	35.12	2536487	3671262	Java	Sumo-Naony	
-4	35.12	4053907	3666617	C#	Cer3s	
 4	35.12	3012238	3670879	C++	miszu	
 4	35.11	951724	3665167	Python3	Ka-L	
 4	35.1	230015	3670315	Java	Kolo9	
@@ -752,13 +752,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7853,time=2022-05-17 00:40:
 4	34.72	4257906	3665553	Python3	NotSureWhyThisWorks	
 4	34.72	1825335	3666928	Python3	TiNico	
 4	34.7	199887	3674508	C#	Sanpas	
-4	34.7	4313500	3666242	C#	HDainester	
 4	34.69	3795676	3667059	Ruby	sofinms	
+4	34.69	4313500	3666242	C#	HDainester	
+4	34.68	1443769	3669677	C#	weweno	
 4	34.67	1186250	3667471	C#	Gabbek	
 4	34.67	1968855	3666926	Java	ThePurificator	
 4	34.67	2247033	3665800	C++	Enchante	
 4	34.65	4325393	3670925	C++	Izayoi_R	
-4	34.65	1443769	3669677	C#	weweno	
 4	34.64	4318445	3699681	Go	FabienSW	
 4	34.63	2197019	3667272	C++	caduk	
 4	34.62	3806435	3669404	Python3	Rejem	
@@ -834,10 +834,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7853,time=2022-05-17 00:40:
 4	34.19	1229845	3672970	Java	Jipe	
 4	34.18	1997622	3667976	C#	Ra777	
 4	34.17	4255698	3668970	Python3	Skonopi	
-4	34.17	3624941	3665109	Python3	PrzeSta	
 4	34.16	4287519	3671723	C++	kke0949	
 4	34.16	3052895	3670561	Java	4Gn13S2k4	
-4	34.16	3354668	3665734	Python3	DimSumSaying	
 4	34.15	3919237	3671226	C#	Quick_Kick	
 4	34.15	4074306	3669077	C++	osc	
 4	34.14	3826631	3665716	C++	aszigeth	
@@ -856,9 +854,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7853,time=2022-05-17 00:40:
 4	34.05	2014685	3669088	Java	Colossus	
 4	34.05	1059313	3675652	C++	_SERGE_	
 4	34.05	998504	3667402	C#	SzEmProg	
+4	34.03	3624941	3665109	Python3	PrzeSta	
 4	34.02	3820935	3665391	C++	monnu	
 4	33.95	1333869	3665770	Python3	kiwijam	
 4	33.94	3817861	3665707	C	adeburea	
+4	33.91	3354668	3665734	Python3	DimSumSaying	
 4	33.88	552543	3669922	Swift	Patou	
 4	33.78	828846	3665563	C++	TaiyoJp	
 4	33.7	1785850	3668371	Python3	Gregfer	
@@ -963,13 +963,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7853,time=2022-05-17 00:40:
 4	32.36	1623470	3670865	C++	sparlane	
 4	32.35	490588	3672716	Python3	Uljahn	
 4	32.34	1716296	3670479	C++	abzalovim	
+4	32.29	3763923	3667525	C++	nforay	
 4	32.28	664272	3668447	Java	tsa	
 4	32.28	4308084	3667771	C++	RetiredPope	
 4	32.28	3512678	3670694	C++	jjjjjjjtgpptmjj	
 4	32.27	4324604	3670548	C++	Ziurke	
 4	32.26	3815428	3667519	Python3	macosta	
 4	32.25	432916	3669599	C++	Godspeed	
-4	32.18	3763923	3667525	C++	nforay	
 4	32.17	420907	3665777	C#	dsannikov	
 4	32.16	4329706	3669948	C#	Sferenc	
 4	32.15	4191192	3759674	Python3	shadowdeath	
