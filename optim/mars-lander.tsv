@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5335,time=2022-05-23 01:06:21
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5340,time=2022-05-24 00:34:37
 100	2509	1327028	C++	FredericBautista	
 100	2507	154372	Bash	Plopx	
 100	2504	1249786	C#	Fededevi	
@@ -154,10 +154,12 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5335,time=2022-05-23 01:06:21
 100	2331	4290907	C++	janm31415	
 100	2330	1937628	C++	Elom	
 100	2326	2786666	C++	TetraktysPhi	
+100	2325	1109979	C++	Gloopy	
 100	2324	1469666	C++	alenic	
 100	2324	1213718	C++	MrPavtun	
 100	2322	3313759	Java	Umptah	
 100	2321	1236329	Java	povatm	
+100	2321	1944142	C++	yakalir	
 100	2320	536400	C++	Atmel	
 100	2318	3136962	C++	marimarek	
 100	2318	4067707	C++	therealbeef	
@@ -228,6 +230,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5335,time=2022-05-23 01:06:21
 100	2262	2003902	C	mploux	
 100	2261	1728288	Python3	MOLP	
 100	2260	631323	Python3	herve056	
+100	2258	4899990	Rust	Golfand	
 100	2257	3508811	C++	MisterGuy	
 100	2257	965650	Python3	abrl	
 100	2256	1136521	C	nadrek	
@@ -265,7 +268,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5335,time=2022-05-23 01:06:21
 100	2229	1497552	C++	clemclem	
 100	2227	4095128	PHP	Voltmachine	
 100	2226	4081634	Python3	Wontonimo	
-100	2226	4899990	Rust	Golfand	
 100	2225	3703510	C++	TheStrojnik	
 100	2225	1239545	Go	jke	
 100	2223	1005061	Ruby	drac	
@@ -671,6 +673,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5335,time=2022-05-23 01:06:21
 100	1991	4870649	Java	VictoriousTriceraton	
 100	1991	1179950	Java	Patorikkuyatta	
 100	1991	4110334	Java	Audran227	
+100	1991	4671340	Java	helpMeFindAJob	
 100	1990	876163	C#	AY1111	
 100	1990	1393802	Python3	amzh	
 100	1990	3762699	C	Nolliwood	
@@ -996,6 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5335,time=2022-05-23 01:06:21
 100	1858	2882503	C++	YasseReda	
 100	1857	909890	C	Snayle	
 100	1857	3226448	Kotlin	tobk	
-100	1857	656081	Python3	2skill3d4u	
-100	1856	207597	Java	OxCyril	
-100	1856	790326	C#	Sprucie	
