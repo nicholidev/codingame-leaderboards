@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=338,time=2022-05-25 00:39:21
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=339,time=2022-05-26 00:39:19
 100	291	2288263	Rust	dbdr	
 100	293	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -55,6 +55,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=338,time=2022-05-25 00:39:21
 100	340	4262172	C++	highjump	
 100	345	952784	C++	[CG]Simon	
 100	349	3809853	C++	Emilio-EH	
+100	361	3647844	C++	rc95401	
 100	362	935744	C	Alcalyn	
 100	363	440476	C++	yowa	
 100	364	3738782	C#	Inaniwa	
@@ -63,7 +64,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=338,time=2022-05-25 00:39:21
 100	380	1393802	Rust	amzh	
 100	382	4277867	Rust	About	
 100	384	3983017	PHP	TLbuis	
-100	384	3647844	C++	rc95401	
 100	387	841420	C#	RandomVariable	
 100	403	1684486	C++	Whopper	
 100	414	3226448	Rust	tobk	
@@ -145,6 +145,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=338,time=2022-05-25 00:39:21
 100	1415	1075220	Java	sebmarty	
 100	1416	3269275	C#	Ille-Stream	
 100	1455	4684374	C#	Teunisv	
+100	1466	419310	Dart	DECo	
 100	1481	1140677	C++	Crog	
 100	1503	3171976	TypeScript	horvbalazs	
 100	1505	1802967	Python3	Meruem	

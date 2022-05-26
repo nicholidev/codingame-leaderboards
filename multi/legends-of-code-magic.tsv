@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2382,time=2022-05-25 00:30:12
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2386,time=2022-05-26 00:30:07
 6	26.3	1400179	2086196	C++	reCurse	
 6	25.88	1841051	2086085	C++	0xbeefed	
 6	25.81	2725066	2119940	C#	Cize	
@@ -671,10 +671,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2382,time=2022-05-25 00:30:
 3	23.38	3764384	3858270	C++	Kota314	
 3	23.38	3664384	3904853	TypeScript	daviih	
 3	23.37	4084909	3482411	Javascript	bluehipy	
+3	23.37	4182149	3426300	Javascript	Elindrage	
 3	23.37	3956769	3145951	Javascript	swcangels	
 3	23.36	2124017	3817824	Python3	Fireflyer067	
 3	23.36	314562	2071374	Javascript	Mechar	
-3	23.33	4182149	3426300	Javascript	Elindrage	
 3	23.32	3972994	3151452	Python3	BrainyPanda	
 3	23.32	3533016	2585474	Python3	Super_Yaourt	
 3	23.32	2025987	2358709	C++	Cham	
@@ -815,9 +815,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2382,time=2022-05-25 00:30:
 3	21.16	3798090	2985308	C++	Aalleman	
 3	21.16	3432863	3826136	Bash	kReid	
 3	21.13	2613606	2098146	C++	Nivekiba	
+3	21.11	1943136	3664173	C++	Minimalist	
 3	21.1	3501272	2502684	Java	Tobigruni	
 3	21.09	3534168	3171676	C++	Nural	
-3	21.09	1943136	3664173	C++	Minimalist	
 3	21.09	1981732	2065357	F#	MJS	
 3	21.09	1281870	3413739	Python3	Sheerockoff	
 3	21.08	1744591	2065063	C++	JonathanMead	
@@ -897,7 +897,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2382,time=2022-05-25 00:30:
 3	20.29	2457031	2330254	Java	Hollowbox	
 3	20.29	1979001	3959693	Java	Pier1	
 3	20.28	2485500	3807788	Javascript	Chrisk	
-3	20.28	2914317	3029776	C#	TimoSissala	
 3	20.28	4602621	3894501	Javascript	UnCivil	
 3	20.27	3370267	2408495	C++	SamCWill	
 3	20.26	3524758	2697879	Python3	Deks	
@@ -906,6 +905,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2382,time=2022-05-25 00:30:
 3	20.18	2591056	2343875	C++	JacieM	
 3	20.18	3432825	4073116	Python3	felixs1105	
 3	20.17	1849945	2459527	C++	YOuOY	
+3	20.16	2914317	3029776	C#	TimoSissala	
 3	20.14	1410353	3385620	Rust	SwagColoredKitteh	
 3	20.12	3335380	4046340	C++	Darkproduct	
 3	20.11	3776353	2826241	C++	Enegas	

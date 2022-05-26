@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6501,time=2022-05-25 00:39:14
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6503,time=2022-05-26 00:39:12
 5	31.53	3193653	3004019	C++	karliso	
 5	31.39	880353	2975979	C++	zasmu	
 5	31.07	1082988	2982332	C++	Saelyos	
@@ -831,7 +831,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6501,time=2022-05-25 00:39:
 3	23.75	3727948	2977044	Python3	cheaz910	
 3	23.74	3804005	2977797	Java	GlitchyByte	
 3	23.73	1479137	3114400	C++	lorenzods	
-3	23.72	3803789	2980305	Java	jeffreyxiao	
 3	23.71	3199548	2980221	C#	yonder83	
 3	23.67	3811032	2976467	Go	LadislavZigo	
 3	23.66	1543177	2976634	Python3	Xoff	
@@ -846,6 +845,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6501,time=2022-05-25 00:39:
 3	23.57	1015522	2977798	Python3	ratmir15	
 3	23.57	1894833	3024587	Python3	Rimailleur	
 3	23.56	2735427	2979295	Go	tbmc	
+3	23.56	3803789	2980305	Java	jeffreyxiao	
 3	23.56	4232545	3486613	Python3	TYranno	
 3	23.55	3797271	2978943	Python3	Cam_B	
 3	23.52	1671658	2976535	C++	Kirbiby	
@@ -865,11 +865,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6501,time=2022-05-25 00:39:
 3	23.48	3785981	2977576	Java	Banti	
 3	23.48	3809097	2976669	C++	brsnw250	
 3	23.48	3563879	2975920	C#	Lugger	
+3	23.47	648751	2978370	Haskell	dabino	
 3	23.47	3719253	2979699	Javascript	daffie	
 3	23.46	1920644	2980506	C++	Skygge	
 3	23.45	154806	2979702	Python3	piwai	
 3	23.45	1391220	2976750	PHP	mesavitae	
-3	23.43	648751	2978370	Haskell	dabino	
 3	23.43	2729055	2980513	Python3	twray2	
 3	23.43	1784938	3092032	C#	Julius2k17	
 3	23.42	1070655	2979498	C++	shanks	
@@ -899,7 +899,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6501,time=2022-05-25 00:39:
 3	23.22	153620	2977730	PHP	[CPC]Karedas	
 3	23.21	3782047	2979552	Python3	Oetzus	
 3	23.2	2458172	2978312	C++	CaptainHamburger	
-3	23.18	1815235	2977737	C#	Maliamnon	
 3	23.17	3266132	2975654	C++	itohdak	
 3	23.11	1415773	2980377	Go	pierre31	
 3	23.1	3800764	2976982	C#	QossMean	
@@ -907,6 +906,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6501,time=2022-05-25 00:39:
 3	23.08	3795574	2978549	Javascript	Iron-postier	
 3	23.07	3802180	2979892	C++	SaminRK	
 3	23.06	1759839	2978707	Python3	matleg	
+3	23.03	1815235	2977737	C#	Maliamnon	
 3	23	1452449	2977216	Java	m4nu8untu	
 3	22.99	3418590	2978233	C++	LaPatateU	
 3	22.96	153045	2979746	C++	nib	
@@ -921,12 +921,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6501,time=2022-05-25 00:39:
 3	22.71	3160781	3468121	Java	Aenerion35	
 3	22.68	3341311	2979027	Javascript	Amelieth	
 3	22.65	1895212	2980466	Python3	Maxlaxs	
+3	22.65	4398412	3798694	Java	JinGOGO	
 3	22.64	1420817	2980321	C++	TheMagicShop	
 3	22.63	1807733	2976181	Python3	NoZ-	
 3	22.61	2654648	2978421	Python3	AntiP0w	
 3	22.61	1437684	2979624	C#	Maulkin	
 3	22.56	3564365	2976520	C#	lIAnkIl	
-3	22.55	4398412	3798694	Java	JinGOGO	
 3	22.55	2222363	2975924	Java	Clara_AK	
 3	22.54	3750754	2979906	Python3	lukasg	
 3	22.54	3809155	2977442	Java	Myssteriion	
@@ -988,7 +988,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6501,time=2022-05-25 00:39:
 3	21.96	3324192	2979942	Python3	Spongebobcarre	
 3	21.96	3785975	2977367	C++	Agusanso	
 3	21.96	3002906	2977705	Python3	[1078]ElChapo	
+3	21.96	1182388	3374671	Javascript	MiNhon	
 3	21.96	1469829	2978113	Java	Jazzhop	
+3	21.95	221648	2979958	C++	stephenvk	
 3	21.94	624730	2977190	Scala	ak79	
 3	21.91	4119720	3487811	C++	maniekTC	
 3	21.91	1639037	2976325	C++	Atlasx	
@@ -996,6 +998,4 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6501,time=2022-05-25 00:39:
 3	21.9	3691366	2977259	Java	V90	
 3	21.89	1481693	2985051	C#	aniski	
 3	21.89	3622078	2979145	Python3	Paikan2068	
-3	21.88	1976585	2976728	C++	TheMadOcarina	
-3	21.88	1480640	2976744	C#	snodes	
-3	21.87	846553	2975603	C++	Aleks	
+3	21.89	4403610	3795696	C++	anakinCSA	
