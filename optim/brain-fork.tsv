@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6125,time=2022-05-26 00:39:17
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6130,time=2022-05-27 00:30:30
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -380,6 +380,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6125,time=2022-05-26 00:39:17
 100	4433	931062	C++	Blue007422	
 100	4438	802171	PHP	Merome	
 100	4439	2973592	C#	EJtheMaster	
+100	4452	1676711	Java	Eeeval	
 100	4457	1445969	Python3	JoPich	
 100	4463	4536057	C++	JuliusSakata	
 100	4467	574371	Javascript	Dillysfriend	
@@ -449,6 +450,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6125,time=2022-05-26 00:39:17
 100	4642	2711020	C++	Daniel_Sch	
 100	4647	949302	C	paweu	
 100	4650	4275953	C++	fff1015	
+100	4653	1420817	Javascript	TheMagicShop	
 100	4654	2731276	C#	panda42	
 100	4655	840350	Java	Anupam	
 100	4667	1537951	Java	Nerchio	
@@ -934,7 +936,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6125,time=2022-05-26 00:39:17
 100	5860	2040637	Perl	polettix	
 100	5860	1586397	Python3	menger3	
 100	5860	1127532	Python3	Sergii_Krivokhatko	
-100	5860	1420817	Javascript	TheMagicShop	
 100	5860	2416641	Ruby	Zenoscave	
 100	5860	2685573	Java	thomas.h	
 100	5860	2767070	Python3	mdps	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6125,time=2022-05-26 00:39:17
 100	5862	1614814	C++	Zippolyte	
 100	5862	1947803	Python3	igjbot	
 100	5862	2425975	Javascript	MrBird	
-100	5862	4036826	Python3	Feust	
