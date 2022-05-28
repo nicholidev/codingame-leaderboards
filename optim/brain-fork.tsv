@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6130,time=2022-05-27 00:30:30
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6137,time=2022-05-28 00:48:01
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -75,12 +75,12 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6130,time=2022-05-27 00:30:30
 100	3543	918352	Python3	CoYoTe99	
 100	3552	1854246	C++	Counterbalance	
 100	3553	1131084	C#	pmod	
+100	3562	3586448	Python3	LeoT	
 100	3566	1336464	Perl	magaiti	
 100	3568	1822346	C++	Arcaseus	
 100	3572	1186250	C#	Gabbek	
 100	3575	3700629	Javascript	serialgg	
 100	3577	1121543	Scala	Aube	
-100	3594	3586448	Python3	LeoT	
 100	3599	2928146	PHP	LolCat	
 100	3612	887560	Java	stok	
 100	3613	536400	C++	Atmel	
@@ -711,6 +711,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6130,time=2022-05-27 00:30:30
 100	5691	1436776	C++	BrainSolver	
 100	5692	4071357	Python3	GrowlingBear	
 100	5693	4570242	C#	Milanovich	
+100	5693	523846	C#	Palmipedus	
 100	5694	1254760	Python3	Brady	
 100	5695	2923506	C++	darkhorse64	
 100	5695	153092	Python3	Aurep	
@@ -988,6 +989,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6130,time=2022-05-27 00:30:30
 100	5860	3356703	Python3	MickaelB	
 100	5860	1067069	Kotlin	Reiska	
 100	5860	3864897	Javascript	qb45	
+100	5860	1685283	Clojure	schadocalex	
 100	5861	954356	C++		
 100	5861	420035	Pascal	bvs23bkv33	
 100	5861	1483798	Ruby	hm001	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6130,time=2022-05-27 00:30:30
 100	5862	1128320	C++	acapela	
 100	5862	1595023	Javascript	rayd	
 100	5862	1614814	C++	Zippolyte	
-100	5862	1947803	Python3	igjbot	
-100	5862	2425975	Javascript	MrBird	
