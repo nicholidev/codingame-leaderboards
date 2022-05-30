@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=846,time=2022-05-29 00:35:50
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=847,time=2022-05-30 00:30:32
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
 100	59353524	765200	Rust	FrancoisB	
@@ -221,6 +221,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=846,time=2022-05-29 00:35:50
 100	237704	3123327	Javascript	Cordy	
 100	234852	3244861	Python3	0xecho	
 100	232164	3968448	Python3	Ragul02	
+100	229972	2315158	Java	luigi_gelato	
 100	220520	3235897	Java	Zylo	
 100	202752	3657937	Python3	elderlybeginner	
 100	200944	1179950	Java	Patorikkuyatta	
@@ -232,6 +233,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=846,time=2022-05-29 00:35:50
 100	185924	4283515	PHP	FrancoisBaveye	
 100	184184	2164798	Go	Mihai-Boicu	
 100	182532	1069779	Python3	salanger	
+100	177772	4746859	C#	CHKAFF	
 100	175944	3657275	Python3	jujurocking	
 100	166428	4132744	Python3	XeinyX	
 100	163796	531863	Java	Amin	
@@ -241,7 +243,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=846,time=2022-05-29 00:35:50
 100	150844	3488041	Rust	KodeMonkey	
 100	149300	4176076	C++	2134512	
 100	144428	4072753	C++	mdstoy	
-100	142496	4746859	C#	CHKAFF	
+100	142496	4746790	C#	AydartsyanGrisha	
 100	140156	4352240	Python3	N_noa21	
 100	138316	4083405	C++	jzen	
 100	136504	3556476	C#	YohanC	
@@ -354,6 +356,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=846,time=2022-05-29 00:35:50
 100	59284	3787419	C++	Thyl	
 100	58428	2592027	C#	ParticleBeam	
 100	58392	2662368	Python3	NikitaSkybytskyi	
+100	58340	3724738	C++	BoatBuilder	
 100	57992	3657944	Python3	xyz-1	
 100	57356	4073599	C#	bzkaz	
 100	57268	1825144	TypeScript	HerrScheissmann	
@@ -371,7 +374,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=846,time=2022-05-29 00:35:50
 100	55744	4450463	Java	RickJ	
 100	55744	924425	Javascript	poney	
 100	55744	3617730	Python3	Karta	
-100	55744	4746790	Python3	AydartsyanGrisha	
 100	55744	1158098	Javascript	Matjaz	
 100	55420	4105993	Java	Angeles	
 100	55300	3941789	Dart	LastRick	
@@ -583,7 +585,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=846,time=2022-05-29 00:35:50
 100	25792	1782559	C	ribensan	
 100	25728	4002254	Python3	PlanetSuburbia	
 100	25672	1800997	Python3	Nagato_Uzumaki	
-100	25500	2315158	Java	luigi_gelato	
 100	25488	3774010	Python3	Presac	
 100	25456	3640862	Python3	nopnop	
 100	25372	4588070	Java	FeemOfficial	
