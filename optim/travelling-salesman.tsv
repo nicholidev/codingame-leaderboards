@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=192,time=2022-05-30 00:30:32
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=194,time=2022-05-31 00:30:31
 100	201382	2288263	Rust	dbdr	
 100	201382	4277867	D	About	
 100	201382	2077805	C++	bamilan	
@@ -68,10 +68,10 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=192,time=2022-05-30 00:30:32
 100	223029	841420	Python3	RandomVariable	
 100	224415	4194994	Javascript	zLuki	
 100	224638	1838549	Rust	orangesnowfox	
+100	225332	4378731	Python3	_Pauk_	
 100	225413	4627200	Python3	Fwcode	
 100	228711	1287344	C++	Alshock	
 100	228720	3343665	Rust	Quidome	
-100	228948	4378731	Python3	_Pauk_	
 100	229528	3490454	Python3	PAug	
 100	230165	3802525	C#	Chibikko	
 100	230430	4674218	Python3	Kirin04	
@@ -81,6 +81,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=192,time=2022-05-30 00:30:32
 100	234148	4134943	Python3	vinc-r	
 100	234565	925695	OCaml	Boulet	
 100	235560	3187336	Javascript	C6PO	
+100	236274	3724738	C++	BoatBuilder	
 100	236323	1140677	C++	Crog	
 100	236323	4587710	Scala	Smetalka	
 100	236413	992329	C++	BeeGee	
@@ -148,6 +149,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=192,time=2022-05-30 00:30:32
 100	250555	4446060	Python3	Prodigity	
 100	250555	4124472	Python3	Valdez001	
 100	250555	4372857	C++	Sirios	
+100	250555	4821969	Python3	grizzur	
+100	250555	3750985	Python3	vexilla72	
 100	250784	1179357	Rust	avdg	
 100	254188	3922731	Dart	Dartisan	
 100	258239	992549	Java	Thaddy	
@@ -172,7 +175,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=192,time=2022-05-30 00:30:32
 100	1320334	2364617	C++	RomainPicot	
 100	1606048	3938395	C++	Quentin18	
 100	1620202	4815186	Javascript	Nab1ee	
-100	1920660	3724738	C++	BoatBuilder	
 100	2199609	2064637	Java	java_coffee_cup	
 100	2212202	3738308	Javascript	sgbd	
 100	2217143	4442007	C++	D3Dou	

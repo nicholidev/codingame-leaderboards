@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1051,time=2022-05-30 00:30:26
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1051,time=2022-05-31 00:30:25
 9	30.25	2489835	1769668	C#	Akarachudra	
 9	25.62	2254195	1769673	Java	BrunoFelthes	
 9	25.23	1818159	1769663	C++	JRFerguson	
@@ -408,7 +408,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1051,time=2022-05-30 00:30:
 6	17.99	1861258	1741789	Python3	Nazdhun	
 6	17.82	646741	1774419	C++	Polack77	
 6	17.56	1587636	1855208	C++	meta11co	
-6	17.37	892436	1853063	C++	Napak	
+6	17.38	892436	1853063	C++	Napak	
 6	17.36	894599	1845569	Java	DidierC	
 6	17.3	2519513	2047752	C#	SamHipkiss	
 6	16.98	1432561	1748314	Python3	Calebblaze	
@@ -439,7 +439,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1051,time=2022-05-30 00:30:
 6	15.93	3542938	2695815	C++	Vikuuuse	
 6	15.85	1586397	2844257	Python3	menger3	
 6	15.82	4015921	3209440	TypeScript	vuzonp	
-6	15.8	2450989	1746352	Java	SergeyRF	
+6	15.82	2450989	1746352	Java	SergeyRF	
 6	15.76	4320795	3976540	C++	momow24	
 6	15.56	1860206	1743518	Python3	Meimei	
 6	15.52	2466996	3871143	C#	dreadylein	
@@ -487,8 +487,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1051,time=2022-05-30 00:30:
 6	12.18	197298	1766238	PHP	Falkor	
 6	12.09	420830	1746645	C++	opsenas	
 6	12.07	2125348	1751596	Java	JMLeMage	
-6	11.89	580424	3021206	C++	siman	
-6	11.86	1272263	1747373	Python3	Caled	
+6	11.99	1272263	1747373	Python3	Caled	
+6	11.96	580424	3021206	C++	siman	
 6	11.61	4450463	3839212	C#	RickJ	
 6	11.61	4158692	3990949	Python3	All2u	
 6	11.54	4470306	3860342	C#	NONstope	
@@ -511,7 +511,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1051,time=2022-05-30 00:30:
 6	10.8	1698172	1751559	Python3	glop	
 6	10.75	1540478	1739525	Javascript	struct	
 6	10.6	1841602	1772263	C#	BrightHammer16	
-6	10.45	1965534	1804681	Javascript	AlexandrePalis	
+6	10.55	1965534	1804681	Javascript	AlexandrePalis	
 6	10.31	2478141	1740703	C++	koopafou	
 6	10.28	2927602	2668646	C++	RibsOfDoom	
 6	10.24	3680900	2679081	C++	MartynasPetrusevicius	
@@ -521,7 +521,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1051,time=2022-05-30 00:30:
 6	9.79	4375315	3743091	Python3	poppyer	
 6	9.79	1953786	1924931	Python3	ludowsky	
 6	9.71	2685790	2119708	Javascript	Laws	
-6	9.47	2017805	4304596	Python3	Winter_not_comming	
 6	9.44	1816257	1863891	C++	Bullle	
 6	9.42	1981732	2084898	F#	MJS	
 6	9.3	2526290	1774887	C++	hk_cnyali	
@@ -538,7 +537,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1051,time=2022-05-30 00:30:
 6	8.43	1276891	1748979	C++	Zeba	
 6	8.26	1223426	1747314	Kotlin	VolgoAK	
 6	8.26	2997102	2254942	Python3	[SSS]Nass	
-6	8.26	540888	2080535	Ruby	Gamma	
+6	8.23	540888	2080535	Ruby	Gamma	
 6	8.13	1698119	1774908	C#	Bumblesquat	
 6	7.89	3039456	2202111	Python	SabertheLost	
 6	7.63	838053	1756230	Javascript	foufbibi	
@@ -548,26 +547,27 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1051,time=2022-05-30 00:30:
 6	7.09	3542939	2695817	C++	Taffy_Taffington	
 6	7.04	1786654	2215020	C++	Masclins	
 6	6.99	2824703	2668651	C++	NormantasStankevicius	
+6	6.96	3542945	2695829	C++	shredyz	
 6	6.93	155928	1740140	C	pk	
 6	6.87	3568090	2679366	C++	Rokas_Cikanavicius	
-6	6.83	3542945	2695829	C++	shredyz	
 6	6.8	3568092	2689806	C++	Serva	
-6	6.7	1926967	1743224	PHP	Stanworld	
-6	6.42	938714	1745603	C++	Kristijonas	
-6	6.4	3230794	2929153	Python3	tutubalin	
-6	6.18	2863843	2685998	C++	BlackWind	
-6	6.09	1778731	1741196	Rust	pen	
-6	5.64	1787026	3450889	Javascript	xurei	
-6	5.64	1741996	2643893	Java	Otha	
-6	4.76	1104021	1771815	C#	Hule	
-6	4.16	2627770	1867639	Go	skido	
-6	4.13	2405889	1842413	Scala	Saivo	
-6	3.64	3408715	2445893	Python3	Abydox	
-6	3.28	1838289	1740824	C++	Dagal	
-6	1.13	1428084	1964374	Dart	Mixolyde	
-6	-3.1	1108200	1756366	C++	MarkWyz	
-6	-3.53	1538846	1764061	Rust	ZweiPunktFuenf	
-6	-14.09	1319750	1739795	Ruby	NicholasGarrett	
+6	6.79	1926967	1743224	PHP	Stanworld	
+6	6.52	3230794	2929153	Python3	tutubalin	
+6	6.52	938714	1745603	C++	Kristijonas	
+6	6.21	2863843	2685998	C++	BlackWind	
+6	5.89	1778731	1741196	Rust	pen	
+6	5.84	1741996	2643893	Java	Otha	
+6	5.73	1787026	3450889	Javascript	xurei	
+6	5.4	1104021	1771815	C#	Hule	
+6	4.63	2627770	1867639	Go	skido	
+6	3.82	2405889	1842413	Scala	Saivo	
+6	3.74	1838289	1740824	C++	Dagal	
+6	3.55	3408715	2445893	Python3	Abydox	
+6	3.36	2017805	4305552	Python3	Winter_not_comming	
+6	1	1428084	1964374	Dart	Mixolyde	
+6	-3.31	1108200	1756366	C++	MarkWyz	
+6	-3.73	1538846	1764061	Rust	ZweiPunktFuenf	
+6	-14.1	1319750	1739795	Ruby	NicholasGarrett	
 5	20.05	1042911	3989586	TypeScript	Bitmind	
 5	10.42	3522568	2695629	C++	bot.exe	
 5	6.42	2499257	1848893	C++	Jesega	

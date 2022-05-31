@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=15020,time=2022-05-30 00:30:30
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=15025,time=2022-05-31 00:30:29
 100	14337	329200	C++	BlitzProg	
 100	13905	3533119	C++	wlesavo	
 100	13603	1366631	Javascript	Morhaus	
@@ -128,6 +128,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15020,time=2022-05-30 00:30:30
 100	3615	893541	Java	wala	
 100	3614	1399382	C#	Regulus136	
 100	3607	569860	Python3	mapclyps	
+100	3600	4372857	C++	Sirios	
 100	3582	1258765	C#	Falcon256	
 100	3569	224676	Python3	Jin66	
 100	3563	1619211	C++	Tolomei	
@@ -182,7 +183,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15020,time=2022-05-30 00:30:30
 100	3261	3726978	C++	VirtualAtom	
 100	3243	3534078	Python3	chabes	
 100	3242	1569823	Python3	Niako	
-100	3240	4372857	C++	Sirios	
 100	3238	3767576	C++	njaber	
 100	3228	311035	Python3	leojean890	
 100	3218	1607395	C#	Osuran	
@@ -818,6 +818,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15020,time=2022-05-30 00:30:30
 100	2532	4620553	Python3	TKirishima	
 100	2532	4484483	Python3	loleur361	
 100	2532	4419628	Python3	.fill.	
+100	2532	4706980	Python3	ToTo125oc	
 100	2528	1034635	C++	SlyB	
 100	2528	1740237	Python3	OlegKornelsen	
 100	2526	2950978	Python3	icecuber	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15020,time=2022-05-30 00:30:30
 100	2222	783337	Java	Dewey	
 100	2220	1147815	Python3	Tashiqi	
 100	2216	2119347	C++	rsk_chaos	
-100	2216	1653524	Python3	quatre1	

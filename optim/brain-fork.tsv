@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6140,time=2022-05-30 00:30:29
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6142,time=2022-05-31 00:30:28
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -519,6 +519,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6140,time=2022-05-30 00:30:29
 100	5052	4154326	Go	montplusa	
 100	5052	4275624	Java	UnknownException	
 100	5055	870653	C#	Argyl	
+100	5062	523846	C#	Palmipedus	
 100	5071	1479540	C#		
 100	5080	2574801	C#	sT0Ps	
 100	5098	2408117	Python3	Brollyy	
@@ -672,6 +673,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6140,time=2022-05-30 00:30:29
 100	5626	4373790	Python3	Eltrion	
 100	5627	1192837	Scala	davidB	
 100	5628	933299	Scala	ThibautRobert	
+100	5630	3724738	C++	BoatBuilder	
 100	5634	3614490	Python3	VizzHere	
 100	5635	482830	Java	Kiks007	
 100	5636	1680862	C++	retrograd	
@@ -712,7 +714,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6140,time=2022-05-30 00:30:29
 100	5691	1436776	C++	BrainSolver	
 100	5692	4071357	Python3	GrowlingBear	
 100	5693	4570242	C#	Milanovich	
-100	5693	523846	C#	Palmipedus	
 100	5694	1254760	Python3	Brady	
 100	5695	2923506	C++	darkhorse64	
 100	5695	153092	Python3	Aurep	
@@ -798,7 +799,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6140,time=2022-05-30 00:30:29
 100	5780	4325119	Kotlin	Klimpergeist	
 100	5784	907714	Java	Janot	
 100	5784	1787026	Javascript	xurei	
-100	5784	3724738	C++	BoatBuilder	
 100	5785	2538640	Python3	MrWaldron	
 100	5786	870313	Scala	Aash	
 100	5787	1600779	C#	AustinSpafford	
