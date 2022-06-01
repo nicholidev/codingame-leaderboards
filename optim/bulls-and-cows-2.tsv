@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=340,time=2022-05-31 00:30:30
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=342,time=2022-06-01 00:30:32
 100	291	2288263	Rust	dbdr	
 100	293	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -65,6 +65,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=340,time=2022-05-31 00:30:30
 100	382	4277867	Rust	About	
 100	384	3983017	PHP	TLbuis	
 100	387	841420	C#	RandomVariable	
+100	396	4446060	Python3	Prodigity	
 100	403	1684486	C++	Whopper	
 100	414	3226448	Rust	tobk	
 100	415	4526264	C++	cly	
@@ -72,7 +73,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=340,time=2022-05-31 00:30:30
 100	440	2051334	C++	Dwarth	
 100	458	2436448	Java	FrancoisMeme	
 100	465	1781541	Python3	Schwase	
-100	474	4446060	Python3	Prodigity	
 100	485	1566335	Python3	BeardedWhale	
 100	490	3095454	C++	e2e4b6b7	
 100	491	4066824	Python3	Thannajo	
@@ -206,6 +206,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=340,time=2022-05-31 00:30:30
 78.26086956521739	4846	4372857	C++	Sirios	
 78.26086956521739	6524	3723101	Python3	Lilac_Tsuki	
 76.08695652173913	3871	4152522	PHP	wilkyo	
+76.08695652173913	4070	4902733	Python3	Adrien6054	
 73.91304347826087	3824	1483798	Go	hm001	
 73.91304347826087	4918	4534733	Python3	Damko757	
 73.91304347826087	5910	4039884	C++	mzbear	
@@ -251,6 +252,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=340,time=2022-05-31 00:30:30
 45.65217391304348	7640	4558116	Javascript	Alexiza	
 45.65217391304348	7641	4298290	Python3	ad3002	
 45.65217391304348	7642	1485015	C++	Murky	
+45.65217391304348	7650	3187543	Python3	JustATree	
 45.65217391304348	7794	2532837	Ruby	fauresebast	
 45.65217391304348	8462	4504049	Javascript	Deliambre	
 45.65217391304348	8529	2641712	TypeScript	Scarlatine	

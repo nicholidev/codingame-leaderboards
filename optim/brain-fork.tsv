@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6142,time=2022-05-31 00:30:28
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6144,time=2022-06-01 00:30:30
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -384,6 +384,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6142,time=2022-05-31 00:30:28
 100	4452	1676711	Java	Eeeval	
 100	4457	1445969	Python3	JoPich	
 100	4463	4536057	C++	JuliusSakata	
+100	4464	1420817	Javascript	TheMagicShop	
 100	4467	574371	Javascript	Dillysfriend	
 100	4467	757394	C++	MohamedAbdElRaouf	
 100	4469	1588583	Python3	dANNs	
@@ -451,7 +452,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6142,time=2022-05-31 00:30:28
 100	4642	2711020	C++	Daniel_Sch	
 100	4647	949302	C	paweu	
 100	4650	4275953	C++	fff1015	
-100	4653	1420817	Javascript	TheMagicShop	
 100	4654	2731276	C#	panda42	
 100	4655	840350	Java	Anupam	
 100	4667	1537951	Java	Nerchio	
@@ -527,6 +527,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6142,time=2022-05-31 00:30:28
 100	5111	4559916	Javascript	Karne	
 100	5113	1400179	C++	reCurse	
 100	5123	825049	Java	Scheronimus	
+100	5136	3349939	C++	mr.spring	
 100	5137	3871875	TypeScript	hector7	
 100	5148	4330025	Python3	wyenat	
 100	5158	3340884	Python3	sd001034	
@@ -606,6 +607,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6142,time=2022-05-31 00:30:28
 100	5488	892056	Python3	LaurentTrk	
 100	5489	4400572	Javascript	unnamedminecrafter	
 100	5490	1757041	PHP	Bytenex	
+100	5492	3724738	C++	BoatBuilder	
 100	5494	4471038	Java	nguyen.lam	
 100	5496	446956	C++	FranMowinckel	
 100	5496	2295548	Rust	banban	
@@ -673,7 +675,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6142,time=2022-05-31 00:30:28
 100	5626	4373790	Python3	Eltrion	
 100	5627	1192837	Scala	davidB	
 100	5628	933299	Scala	ThibautRobert	
-100	5630	3724738	C++	BoatBuilder	
 100	5634	3614490	Python3	VizzHere	
 100	5635	482830	Java	Kiks007	
 100	5636	1680862	C++	retrograd	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6142,time=2022-05-31 00:30:28
 100	5861	1483798	Ruby	hm001	
 100	5861	2715508	C++	Anth	
 100	5861	2959342	Scala	spemmons	
-100	5862	1164731	C++	Germain	

@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=529,time=2022-05-31 00:30:31
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=529,time=2022-06-01 00:30:33
 100	174652	3354337	Scala	Westicles	
 100	169004	154984	C++	_Royale	
 100	167588	1530051	C++	UlYoP	
@@ -8,6 +8,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=529,time=2022-05-31 00:30:31
 100	156252	2924895	C	trictrac	
 100	154816	2522090	C++	MSmits	
 100	152240	4390014	Python3	yfe42	
+100	150752	1630890	Java	Wld	
 100	150376	1314316	C++	jolindien	
 100	150000	2288263	Rust	dbdr	
 100	147888	1500515	C#	eulerscheZahl	
@@ -21,7 +22,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=529,time=2022-05-31 00:30:31
 100	131570	1399382	C#	Regulus136	
 100	129368	3235897	Java	Zylo	
 100	128510	1378958	C#	Illedan	
-100	128084	1630890	Java	Wld	
 100	120732	3983017	PHP	TLbuis	
 100	120642	3046779	Rust	Kathrin	
 100	118483	3457031	C++	YurkovAS	
@@ -308,6 +308,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=529,time=2022-05-31 00:30:31
 100	9902	4447108	C#	MonkeyFeathers	
 100	9902	1468627	Python3	Macgyverx	
 100	9902	4159245	Python3	Karhuttaja	
+100	9902	1040176	Python3	BoBot	
 100	9894	1412263	PHP	PatrickMcGinnisII	
 100	9856	1077559	Java	PhOeNyX	
 100	9848	1910916	C#	VivienBillot	
@@ -430,7 +431,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=529,time=2022-05-31 00:30:31
 100	7456	3703802	Rust	uczys	
 100	7456	1588583	Python3	dANNs	
 100	7456	802230	Perl	Orabig	
-100	7456	1040176	Python3	BoBot	
 100	7456	4002273	Python3	YohannDana	
 100	7456	4446060	Python3	Prodigity	
 100	7434	1566990	Swift	Elsu	
