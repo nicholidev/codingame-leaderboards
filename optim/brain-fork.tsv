@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6144,time=2022-06-01 00:30:30
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6144,time=2022-06-02 00:51:44
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -235,6 +235,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6144,time=2022-06-01 00:30:30
 100	4005	826359	Python3	Skywalker	
 100	4006	792813	Python3	VilBoub	
 100	4007	4470306	Python3	NONstope	
+100	4015	523846	C#	Palmipedus	
 100	4016	999596	Rust	Schyrsivochter	
 100	4017	1408260	C#	Hominoidean	
 100	4018	3480498	PHP	BenPix	
@@ -307,6 +308,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6144,time=2022-06-01 00:30:30
 100	4191	943784	Pascal	RobertK	
 100	4197	3483051	Python3	micwo	
 100	4200	936495	Java	LittleCrow	
+100	4200	1420817	Javascript	TheMagicShop	
 100	4208	2106827	C++	shangshandaye	
 100	4209	638784	C++	Yqnn	
 100	4210	226115	C++	Nergal	
@@ -384,7 +386,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6144,time=2022-06-01 00:30:30
 100	4452	1676711	Java	Eeeval	
 100	4457	1445969	Python3	JoPich	
 100	4463	4536057	C++	JuliusSakata	
-100	4464	1420817	Javascript	TheMagicShop	
 100	4467	574371	Javascript	Dillysfriend	
 100	4467	757394	C++	MohamedAbdElRaouf	
 100	4469	1588583	Python3	dANNs	
@@ -468,6 +469,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6144,time=2022-06-01 00:30:30
 100	4732	3256989	C++	rizant	
 100	4737	3835659	Rust	Nimatt	
 100	4739	1053198	Python3	ProfessorWolf	
+100	4741	3349939	C++	mr.spring	
 100	4756	2802157	Python3	HKit	
 100	4760	940262	Java	f	
 100	4761	188674	Java	Dravini	
@@ -519,7 +521,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6144,time=2022-06-01 00:30:30
 100	5052	4154326	Go	montplusa	
 100	5052	4275624	Java	UnknownException	
 100	5055	870653	C#	Argyl	
-100	5062	523846	C#	Palmipedus	
 100	5071	1479540	C#		
 100	5080	2574801	C#	sT0Ps	
 100	5098	2408117	Python3	Brollyy	
@@ -527,7 +528,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6144,time=2022-06-01 00:30:30
 100	5111	4559916	Javascript	Karne	
 100	5113	1400179	C++	reCurse	
 100	5123	825049	Java	Scheronimus	
-100	5136	3349939	C++	mr.spring	
 100	5137	3871875	TypeScript	hector7	
 100	5148	4330025	Python3	wyenat	
 100	5158	3340884	Python3	sd001034	
