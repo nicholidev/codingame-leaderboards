@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=848,time=2022-06-02 00:51:47
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=848,time=2022-06-03 00:30:37
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
 100	59353524	765200	Rust	FrancoisB	
@@ -88,6 +88,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=848,time=2022-06-02 00:51:47
 100	6741832	3927891	C++	whywhy_	
 100	6722180	3996809	C++	VizGhar	
 100	6638148	992329	Java	BeeGee	
+100	6415556	4746790	C#	AydartsyanGrisha	
 100	6260476	1883740	C++	kermo	
 100	6181796	4482661	C++	square1001	
 100	6165368	4537924	Rust	ArtesScytale	
@@ -177,7 +178,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=848,time=2022-06-02 00:51:47
 100	538168	3774500	Javascript	zakariamouhid	
 100	474760	2290633	Python3	field3	
 100	457352	4259902	Python3	Nalisco	
-100	454224	4746790	C#	AydartsyanGrisha	
 100	435988	273004	Python3	ptitrex	
 100	415156	182536	C	dbo	
 100	407312	1479930	C++	LeRenard	
@@ -241,6 +241,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=848,time=2022-06-02 00:51:47
 100	163796	531863	Java	Amin	
 100	161352	1457162	Python3	JFB	
 100	157876	1740237	Python3	OlegKornelsen	
+100	155688	3349939	C++	mr.spring	
 100	152796	4045442	Python3	slapslash	
 100	150844	3488041	Rust	KodeMonkey	
 100	149300	4176076	C++	2134512	
@@ -250,7 +251,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=848,time=2022-06-02 00:51:47
 100	136504	3556476	C#	YohanC	
 100	135484	1178401	Python3	mizzHuarta	
 100	129864	1040176	Python3	BoBot	
-100	121908	3349939	C++	mr.spring	
 100	118552	4726948	Python3	Mince	
 100	113620	4372857	C++	Sirios	
 100	112488	1383054	Python3	Oxame	

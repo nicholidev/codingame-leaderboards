@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6144,time=2022-06-02 00:51:44
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6146,time=2022-06-03 00:30:34
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -521,6 +521,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6144,time=2022-06-02 00:51:44
 100	5052	4154326	Go	montplusa	
 100	5052	4275624	Java	UnknownException	
 100	5055	870653	C#	Argyl	
+100	5056	3724738	C++	BoatBuilder	
 100	5071	1479540	C#		
 100	5080	2574801	C#	sT0Ps	
 100	5098	2408117	Python3	Brollyy	
@@ -607,7 +608,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6144,time=2022-06-02 00:51:44
 100	5488	892056	Python3	LaurentTrk	
 100	5489	4400572	Javascript	unnamedminecrafter	
 100	5490	1757041	PHP	Bytenex	
-100	5492	3724738	C++	BoatBuilder	
 100	5494	4471038	Java	nguyen.lam	
 100	5496	446956	C++	FranMowinckel	
 100	5496	2295548	Rust	banban	
