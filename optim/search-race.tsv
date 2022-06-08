@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=832,time=2022-06-08 00:30:27
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=832,time=2022-06-08 19:26:10
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -20,6 +20,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=832,time=2022-06-08 00:30:27
 100	10899.320000000002	154984	C++	_Royale	
 100	10919.46	2924895	C	trictrac	
 100	10935.47	735910	C++	Agade	
+100	10973.089999999997	1540478	C++	struct	
 100	10985.34	2311105	C++	kovi	
 100	11066.54	1106450	C++	RiSuS	
 100	11070.630000000005	1314316	C++	jolindien	
@@ -132,7 +133,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=832,time=2022-06-08 00:30:27
 100	13150.6	4811257	Python3	polyakazachenko	
 100	13160.09	4814178	Python3	ERSHEG	
 100	13160.169999999996	4814602	Python3	SIlentji	
-100	13178.86	1540478	C++	struct	
 100	13191.129999999996	2115491	Go	Haashi	
 100	13209.469999999998	4813041	Python3	orosho	
 100	13229.640000000005	4800806	Python3	Super_Max	

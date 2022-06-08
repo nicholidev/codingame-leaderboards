@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=851,time=2022-06-08 00:30:28
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=851,time=2022-06-08 19:26:11
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
 100	59353524	765200	Rust	FrancoisB	
@@ -143,6 +143,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=851,time=2022-06-08 00:30:28
 100	1923056	3958314	PHP	NicoDeug	
 100	1830476	3317816	Java	Jeeronimo	
 100	1808372	3625469	Python3	Crimson_King	
+100	1791640	2436448	C++	FrancoisMeme	
 100	1767700	3525167	Java	fgsdt	
 100	1757832	1029663	C	Skreamly	
 100	1673952	4061329	C++	KLPP	
@@ -161,7 +162,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=851,time=2022-06-08 00:30:28
 100	1212664	4627477	Python3	REX26	
 100	1189100	1077506	Go	gs2	
 100	1106220	1785098	C++	E_pur_si_muove	
-100	1094208	2436448	C++	FrancoisMeme	
 100	1036264	3406987	Python3	Radu_Sav	
 100	981320	1473789	C++	jebouin	
 100	930052	3141948	Java	philRG	
@@ -271,6 +271,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=851,time=2022-06-08 00:30:28
 100	98892	4159245	Go	Karhuttaja	
 100	98508	3420134	C++	KelvinAndHubbles	
 100	97496	2557034	Python3	IAmAButterfly	
+100	96236	3724738	C++	BoatBuilder	
 100	93812	4039884	C++	mzbear	
 100	93356	862919	C++	Astrobytes	
 100	93356	4053693	Python3	KS2003	
@@ -278,7 +279,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=851,time=2022-06-08 00:30:28
 100	91336	4188076	Rust	mbultmannuos	
 100	91292	3561474	Python3	Blokops	
 100	90836	4562865	Python3	VilBoub_junior	
-100	90784	3724738	C++	BoatBuilder	
 100	90644	3522047	TypeScript	asgeirr	
 100	90280	4117624	Python3	Thibb1	
 100	89252	4510576	C++	__Malina	
@@ -359,6 +359,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=851,time=2022-06-08 00:30:28
 100	59284	3787419	C++	Thyl	
 100	58428	2592027	C#	ParticleBeam	
 100	58392	2662368	Python3	NikitaSkybytskyi	
+100	58056	3750985	Python3	vexilla72	
 100	57992	3657944	Python3	xyz-1	
 100	57356	4073599	C#	bzkaz	
 100	57268	1825144	TypeScript	HerrScheissmann	
@@ -582,7 +583,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=851,time=2022-06-08 00:30:28
 100	26512	1195856	Java	daifei4321	
 100	26480	4059753	Javascript	1ez	
 100	26284	4097119	Python3	CasualPotato	
-100	26020	3750985	Python3	vexilla72	
 100	25860	4105209	Java	AI_says_hi	
 100	25792	1782559	C	ribensan	
 100	25728	4002254	Python3	PlanetSuburbia	
