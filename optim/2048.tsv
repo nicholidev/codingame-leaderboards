@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=849,time=2022-06-06 00:30:38
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=851,time=2022-06-08 00:30:28
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
 100	59353524	765200	Rust	FrancoisB	
@@ -147,6 +147,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=849,time=2022-06-06 00:30:38
 100	1757832	1029663	C	Skreamly	
 100	1673952	4061329	C++	KLPP	
 100	1670096	2135916	Python3	Oioi	
+100	1574132	4506498	Rust	TimeEngineer	
 100	1532544	903179	Go	maksmas	
 100	1469488	1966315	C#	ArtemAraptanov	
 100	1432492	2025868	C++	sumoru	
@@ -160,8 +161,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=849,time=2022-06-06 00:30:38
 100	1212664	4627477	Python3	REX26	
 100	1189100	1077506	Go	gs2	
 100	1106220	1785098	C++	E_pur_si_muove	
+100	1094208	2436448	C++	FrancoisMeme	
 100	1036264	3406987	Python3	Radu_Sav	
-100	988512	2436448	C++	FrancoisMeme	
 100	981320	1473789	C++	jebouin	
 100	930052	3141948	Java	philRG	
 100	918632	2315158	Java	luigi_gelato	
@@ -230,11 +231,11 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=849,time=2022-06-06 00:30:38
 100	200944	1179950	Java	Patorikkuyatta	
 100	194768	1588135	Swift	bjurner	
 100	192100	1802967	Python3	Meruem	
+100	190076	3349939	C++	mr.spring	
 100	189464	1449433	C++	Rolf	
 100	189156	2153101	Python3	Sylvain0675	
 100	186964	580424	C++	siman	
 100	185924	4283515	PHP	FrancoisBaveye	
-100	184600	3349939	C++	mr.spring	
 100	184184	2164798	Go	Mihai-Boicu	
 100	182532	1069779	Python3	salanger	
 100	175944	3657275	Python3	jujurocking	
@@ -838,6 +839,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=849,time=2022-06-06 00:30:38
 100	344	3574858	Python3	lolTempest	
 100	344	420785	Javascript	Max52	
 100	344	186179	C++	Nagrarok	
+100	344	1076716	Python3	OEtzi007	
 100	300	4094683	Python3	Loes	
 100	300	275626	Javascript	GreyMoon	
 100	300	3487406	C#	SyvachenkoMK	
