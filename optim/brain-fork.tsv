@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6162,time=2022-06-09 00:30:24
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6165,time=2022-06-10 01:02:18
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -176,6 +176,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6162,time=2022-06-09 00:30:24
 100	3868	2785892	Python3	levbor	
 100	3869	2605855	Python3	logiqub	
 100	3874	3839774	Kotlin	gurvan_lullien	
+100	3874	3772010	Kotlin	loog	
 100	3875	937362	Javascript	josh_	
 100	3875	2421141	Python3	HomerS.	
 100	3879	153927	C++	Cubix	
@@ -220,7 +221,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6162,time=2022-06-09 00:30:24
 100	3972	337622	Scala	Isammoc	
 100	3976	1778295	Javascript	41x	
 100	3976	1578402	Python3	bolbi	
-100	3976	3772010	Kotlin	loog	
 100	3977	1724069	Python3	jmpeg	
 100	3978	1188212	ObjectiveC	superredlark	
 100	3982	3902927	Python3	Bulgot	
@@ -419,6 +419,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6162,time=2022-06-09 00:30:24
 100	4563	1634607	Python3	Taraxacum	
 100	4583	3815413	Swift	Michael_Howard	
 100	4589	4050016	Ruby	CharlesSenemaud	
+100	4591	3647844	Python3	rc95401	
 100	4592	2567580	C++	veryRandom	
 100	4596	4305940	C#	Jano42	
 100	4599	1245791	Python3	Bad_Wolf	
@@ -823,7 +824,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6162,time=2022-06-09 00:30:24
 100	5796	4102840	Python3	professoryana	
 100	5798	278144	C++	SerenityTn	
 100	5799	1131528	Javascript	Owl	
-100	5799	828239	C#	[SG]Bisou	
+100	5799	828239	C#	[SG]Sebastien	
 100	5799	3705601	Java	ido_the_pro	
 100	5800	155934	PHP	Ninsuo	
 100	5800	304126	PHP	kami	
@@ -835,7 +836,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6162,time=2022-06-09 00:30:24
 100	5809	3770485	C++	zakki	
 100	5811	1706883	C#	CommanderCero	
 100	5811	2320186	Java	aPoStAl	
-100	5811	3647844	Python3	rc95401	
 100	5812	2932889	Python3	shushiri	
 100	5814	3509975	Pascal	bneumann	
 100	5815	186405	C#	d-mark	
