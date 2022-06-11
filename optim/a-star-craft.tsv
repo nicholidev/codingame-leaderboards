@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1269,time=2022-06-10 01:02:19
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1271,time=2022-06-11 00:30:31
 100	11920	2077805	C++	bamilan	
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
@@ -30,6 +30,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1269,time=2022-06-10 01:02:19
 100	10286	2923506	C++	darkhorse64	
 100	10272	2316796	PHP	Psio	
 100	10269	3457031	C++	YurkovAS	
+100	10243	4257906	Rust	NotSureWhyThisWorks	
 100	10241	1344487	Java	UnnamedCodinGamer	
 100	10238	1637604	C++	avolchek	
 100	10203	1629259	C#	Marchete	
@@ -153,7 +154,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1269,time=2022-06-10 01:02:19
 100	7537	2662709	Python3	dead_man	
 100	7525	1714338	Java	cobase2010	
 100	7511	973040	C	papyjo	
-100	7501	4257906	Rust	NotSureWhyThisWorks	
 100	7476	1050421	C++	geppoz	
 100	7466	1432947	Python3	empathy87	
 100	7455	1944142	C++	yakalir	
@@ -339,6 +339,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1269,time=2022-06-10 01:02:19
 100	3797	1802967	Python3	Meruem	
 100	3781	4050765	C++	Traquila	
 100	3779	3317583	Python3	Mjo	
+100	3756	4870604	Go	willbeason	
 100	3721	2315158	Java	luigi_gelato	
 100	3719	3167968	Javascript	Master_Zain	
 100	3709	2051334	C++	Dwarth	
@@ -410,6 +411,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1269,time=2022-06-10 01:02:19
 100	3424	1759839	C	matleg	
 100	3423	3768412	Javascript	calebharrison	
 100	3422	2889262	Javascript	gheath	
+100	3399	4936809	Javascript	JamesPhilip	
 100	3392	4784765	Python3	idia	
 100	3385	3982480	Javascript	darynka_xo	
 100	3356	3150053	Javascript	HarveyGW	
@@ -633,6 +635,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1269,time=2022-06-10 01:02:19
 100	1861	1407621	C++	Taohbi	
 100	1855	1530429	Java	Michiel	
 100	1855	4191122	Java	ManonCodd	
+100	1855	4801044	C++	TINOUAINANI	
 100	1854	1969969	Java	Orleger	
 100	1845	3430879	C++	Joygred	
 100	1841	3563934	C#	ChuckTheNinja	
@@ -996,6 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1269,time=2022-06-10 01:02:19
 100	1045	3141948	Python3	philRG	
 100	1045	4045442	Python3	slapslash	
 100	1045	3136787	C++	jacek	
-100	1045	4091573	Python3	Draagon	
-100	1045	2032243	C#	A510	
-100	1045	3899168	C#	BlackWraith	
