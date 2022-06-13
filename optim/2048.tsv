@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=855,time=2022-06-12 00:30:33
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=855,time=2022-06-13 00:58:13
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
 100	59353524	765200	Rust	FrancoisB	
@@ -97,6 +97,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=855,time=2022-06-12 00:30:33
 100	5820284	1807733	Python3	NoZ-	
 100	5769228	3826720	C++	Noppo	
 100	5518472	884874	D	Zauberer	
+100	5341884	2436448	C++	FrancoisMeme	
 100	5059552	2405889	Kotlin	Saivo	
 100	5005228	4205154	C++	tuna_in_cream	
 100	4966560	1162014	Java	Bojan	
@@ -107,7 +108,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=855,time=2022-06-12 00:30:33
 100	4551296	2258829	C#	Hiker	
 100	4354272	1566335	Java	BeardedWhale	
 100	4330608	2629686	C#	krutovsky	
-100	4315496	2436448	C++	FrancoisMeme	
 100	4289648	4673683	C++	BartK	
 100	4235476	1719856	PHP	YOANN	
 100	4049156	4027292	C#	rmait	
@@ -125,6 +125,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=855,time=2022-06-12 00:30:33
 100	3029892	4216789	Rust	Saur2000	
 100	3002156	2595251	Rust	Veterini	
 100	2957988	3864752	Rust	MuddySneakers	
+100	2901060	2948040	Javascript	Pouyou	
 100	2856840	3381264	C#	Crying_Lightning	
 100	2833088	973040	C	papyjo	
 100	2602560	4119778	Scala	Kwokster	
@@ -139,6 +140,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=855,time=2022-06-12 00:30:33
 100	2194824	1309948	C++	Runner87	
 100	2124388	2012662	Python3	Natalka1122	
 100	2099264	806416	Python3	awnion	
+100	2098516	4506498	Rust	TimeEngineer	
 100	2055904	3489223	C#	KarloHubai	
 100	2013220	1720605	Rust	carlicolosse	
 100	2000068	1413257	C#	Bavoen	
@@ -149,7 +151,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=855,time=2022-06-12 00:30:33
 100	1757832	1029663	C	Skreamly	
 100	1673952	4061329	C++	KLPP	
 100	1670096	2135916	Python3	Oioi	
-100	1574132	4506498	Rust	TimeEngineer	
 100	1532544	903179	Go	maksmas	
 100	1469488	1966315	C#	ArtemAraptanov	
 100	1432492	2025868	C++	sumoru	
@@ -843,7 +844,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=855,time=2022-06-12 00:30:33
 100	344	420785	Javascript	Max52	
 100	344	186179	C++	Nagrarok	
 100	344	1076716	Python3	OEtzi007	
-100	344	2948040	Javascript	Pouyou	
 100	300	4094683	Python3	Loes	
 100	300	275626	Javascript	GreyMoon	
 100	300	3487406	C#	SyvachenkoMK	
