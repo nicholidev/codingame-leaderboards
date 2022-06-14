@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5411,time=2022-06-13 00:58:09
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5413,time=2022-06-14 01:17:59
 100	2509	1327028	C++	FredericBautista	
 100	2507	154372	Bash	Plopx	
 100	2504	1249786	C#	Fededevi	
@@ -76,6 +76,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5411,time=2022-06-13 00:58:09
 100	2404	1835525	C#	nwendel	
 100	2403	1298794	C++	Husenap	
 100	2401	1333869	Python3	kiwijam	
+100	2401	1109979	C++	Gloopy	
 100	2400	1498163	Java	Ben-oit	
 100	2400	3533314	C#	skotz	
 100	2400	4536057	C++	JuliusSakata	
@@ -83,7 +84,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5411,time=2022-06-13 00:58:09
 100	2398	1336464	C++	magaiti	
 100	2398	3647844	Python3	rc95401	
 100	2398	1129777	C++	Velvacaine	
-100	2398	1109979	C++	Gloopy	
 100	2397	1314316	C++	jolindien	
 100	2397	155774	PHP	dwarfie	
 100	2396	1880319	C++	WildSmilodon	
@@ -354,6 +354,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5411,time=2022-06-13 00:58:09
 100	2147	4051087	C++	malcolm1234__	
 100	2144	1752518	Java	akirender	
 100	2144	668954	C++	Fluxor	
+100	2142	2460216	Java	ElaineMarley	
 100	2141	1193408	Javascript	DoubleZeroSteph	
 100	2141	1201796	Javascript	P.Greze	
 100	2141	4555810	C++	JakubM30	
@@ -404,7 +405,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5411,time=2022-06-13 00:58:09
 100	2110	303151	Python3	MoOT.Cube	
 100	2110	4262172	C++	highjump	
 100	2109	3487429	C++	Lestiar	
-100	2109	2460216	Java	ElaineMarley	
 100	2108	509738	Swift	Konrad_Wer	
 100	2107	1131528	C#	Owl	
 100	2107	1669999	Python3	Killerjay666	
@@ -980,6 +980,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5411,time=2022-06-13 00:58:09
 100	1868	1279751	Rust	Tudou	
 100	1868	3930101	C#	MS1337	
 100	1867	4661927	C++	SatchShred	
+100	1867	4452961	C	Sheeesh---	
 100	1866	1986308	PHP	tautelis	
 100	1866	3418342	C++	RJones	
 100	1866	2416641	Python3	Zenoscave	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5411,time=2022-06-13 00:58:09
 100	1861	2521379	Python3	Calaglin	
 100	1860	1133716	Javascript	Jbz797	
 100	1860	2849183	Python3	thebitspud	
-100	1860	2605855	Python3	logiqub	

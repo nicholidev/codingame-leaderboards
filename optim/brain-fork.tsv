@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6176,time=2022-06-13 00:58:10
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6179,time=2022-06-14 01:18:00
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -295,6 +295,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6176,time=2022-06-13 00:58:10
 100	4129	2434422	Python3	GilMaN	
 100	4132	847745	PHP	Orminot	
 100	4132	3959718	C++	Airgo1	
+100	4141	2460216	Java	ElaineMarley	
 100	4143	2578576	C#	joewoess	
 100	4147	394667	Python3	elvers	
 100	4151	3958314	PHP	NicoDeug	
@@ -564,7 +565,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6176,time=2022-06-13 00:58:10
 100	5304	1567943	C++	LazyMammal	
 100	5304	4615176	C++	guperman	
 100	5305	1172385	C#	LuckyMe	
-100	5306	2460216	Java	ElaineMarley	
 100	5312	481988	Kotlin	DevKirill	
 100	5317	3319855	C#	Drobor	
 100	5319	4039528	Python3	Elnaril	
@@ -755,6 +755,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6176,time=2022-06-13 00:58:10
 100	5728	952626	OCaml	Tesseract	
 100	5728	331880	Scala	Monstruo	
 100	5728	4771383	Python3	Mythael	
+100	5728	4732605	Python3	PoustouFlan	
 100	5730	303151	Python3	MoOT.Cube	
 100	5730	1469666	C++	alenic	
 100	5731	1642654	C#	zibizz1	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6176,time=2022-06-13 00:58:10
 100	5860	3356703	Python3	MickaelB	
 100	5860	1067069	Kotlin	Reiska	
 100	5860	3864897	Javascript	qb45	
-100	5860	1685283	Clojure	schadocalex	
