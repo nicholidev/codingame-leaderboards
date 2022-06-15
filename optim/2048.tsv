@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=856,time=2022-06-14 01:18:07
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=859,time=2022-06-15 00:30:29
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
 100	59353524	765200	Rust	FrancoisB	
@@ -112,11 +112,11 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=856,time=2022-06-14 01:18:07
 100	4235476	1719856	PHP	YOANN	
 100	4049156	4027292	C#	rmait	
 100	4025368	2089692	Scala	raxkin	
+100	3841448	1067069	Kotlin	Reiska	
 100	3825460	1854246	C++	Counterbalance	
 100	3824732	4341304	C++	Remi.	
 100	3668428	3817827	Go	optplx	
 100	3488032	3754066	C++	jast.e.new.name	
-100	3477428	1067069	Kotlin	Reiska	
 100	3455812	4120837	C++	philipplenk	
 100	3379696	2340294	C	deviluc	
 100	3237600	1693448	C	KoenduBuf	
@@ -360,11 +360,12 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=856,time=2022-06-14 01:18:07
 100	59560	4046678	Python3	N9798	
 100	59364	2802015	PHP	Psycholoveur	
 100	59284	3787419	C++	Thyl	
-100	58536	4801044	C++	TINOUAINANI	
+100	59284	4801044	C++	TINOUAINANI	
 100	58428	2592027	C#	ParticleBeam	
 100	58392	2662368	Python3	NikitaSkybytskyi	
 100	58056	3750985	Python3	vexilla72	
 100	57992	3657944	Python3	xyz-1	
+100	57956	4866820	Python3	tinuviel60	
 100	57356	4073599	C#	bzkaz	
 100	57268	1825144	TypeScript	HerrScheissmann	
 100	56608	4180659	Javascript	abrman	
@@ -473,6 +474,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=856,time=2022-06-14 01:18:07
 100	42704	3555728	Python3	KVNMDS	
 100	42480	4038295	Python3	rmnShk	
 100	42296	899745	C#	vabaaalas	
+100	42256	347029	Python3	Kevapo	
 100	41980	1932980	Rust	AlexandreK	
 100	41912	1030709	Python3	Cmdr.Shepard	
 100	41356	4286679	Python3	fungi_star	
@@ -845,6 +847,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=856,time=2022-06-14 01:18:07
 100	344	420785	Javascript	Max52	
 100	344	186179	C++	Nagrarok	
 100	344	1076716	Python3	OEtzi007	
+100	344	4259591	Python3	yedi	
 100	300	4094683	Python3	Loes	
 100	300	275626	Javascript	GreyMoon	
 100	300	3487406	C#	SyvachenkoMK	

@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2792,time=2022-06-14 01:17:44
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2792,time=2022-06-15 00:30:13
 4	35.17	3193653	2708375	C++	karliso	
 4	32.68	3502867	2707285	C++	The_Duck	
 4	32.01	2970414	2709863	Python3	Fangel	
@@ -867,8 +867,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2792,time=2022-06-14 01:17:
 2	23.83	2237703	2707382	Python3	VidOS	
 2	23.8	2662239	2708771	Rust	MarvinTheMartian	
 2	23.77	1874134	3964502	Javascript	jcastagne	
+2	23.63	2061249	2707672	C++	delisea	
 2	23.61	969298	2708533	C#	Dopp	
-2	23.58	2061249	2707672	C++	delisea	
 2	23.55	2228881	3061959	Java	praxus	
 2	23.55	1492668	2708998	Java	MatthieuC	
 2	23.53	2638020	3930445	C++	ja_fica	
@@ -927,8 +927,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2792,time=2022-06-14 01:17:
 2	22.19	1860206	4268498	Kotlin	Meimei	
 2	22.16	406132	2708323	C++	ManuDev	
 2	22.15	2688693	2708422	Go	Catagami	
+2	22.14	3082494	2707732	Python3	alarih	
 2	22.09	1446669	2707419	C++	Adikse	
-2	22.08	3082494	2707732	Python3	alarih	
 2	22.08	371603	2709136	Ruby	martin	
 2	22.05	4489122	3988012	Lua	c0r3dump	
 2	22.01	1464932	2707159	Java	Tiramon	
@@ -968,6 +968,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2792,time=2022-06-14 01:17:
 2	21.36	3367414	2707164	Java	RachidiAlaouiHicham	
 2	21.36	2401975	2708170	Java	KeepCaIm	
 2	21.33	1546173	2708294	Java	MyPharo	
+2	21.33	833678	2709134	Javascript	ghassen	
 2	21.31	3347955	2707390	Ruby	jonez	
 2	21.31	3877700	3027130	Rust	Bytekeeper	
 2	21.3	3512052	2708083	Java	Xamacor	
@@ -975,7 +976,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2792,time=2022-06-14 01:17:
 2	21.27	873808	2708951	Java	Vx3	
 2	21.26	3136376	2708981	Python3	O_A_K	
 2	21.22	1830309	2707782	Python3	[CPC]Bleuzaille	
-2	21.2	833678	2709134	Javascript	ghassen	
 2	21.16	3524909	2708410	Haskell	atpotts	
 2	21.12	2978776	2707354	Python3	ChrisDerPlayer	
 2	21.07	1053433	2708551	Java	3WTochka	
@@ -997,5 +997,5 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2792,time=2022-06-14 01:17:
 2	20.79	155008	2708497	Rust	Majavar	
 2	20.77	2155916	2707299	C++	ButterflyEA	
 2	20.74	886127	2708351	Python3	TillZas	
+2	20.73	4303052	3525298	Python3	TehGeer	
 2	20.72	2200342	2707722	C++	BernardoSulzbach	
-2	20.72	1375873	2708027	TypeScript	Serhio	
