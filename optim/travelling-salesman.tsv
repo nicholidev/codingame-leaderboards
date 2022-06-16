@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=204,time=2022-06-15 00:30:29
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=205,time=2022-06-16 00:32:51
 100	201382	2288263	Rust	dbdr	
 100	201382	4277867	D	About	
 100	201382	2077805	C++	bamilan	
@@ -160,6 +160,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=204,time=2022-06-15 00:30:29
 100	250555	4314190	Dart	Baskman64	
 100	250555	154806	Python3	piwai	
 100	250555	2616395	Javascript	welder	
+100	250555	4259591	Python3	yedi	
+100	250555	523846	C#	Palmipedus	
 100	250784	1179357	Rust	avdg	
 100	254188	3922731	Dart	Dartisan	
 100	258239	992549	Java	Thaddy	
@@ -202,4 +204,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=204,time=2022-06-15 00:30:29
 100	3246732	1500515	Python3	eulerscheZahl	
 0	-15	2968035	C++	DomiKo	
 0	-15	4899415	C++	vvgf	
-0	-15	523846	C#	Palmipedus	
