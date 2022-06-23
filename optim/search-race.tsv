@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=841,time=2022-06-22 00:30:32
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=842,time=2022-06-23 00:30:27
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -773,6 +773,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=841,time=2022-06-22 00:30:32
 68	32739.53	3603097	Javascript	lanathlor	
 68	32739.53	4745511	C#	Markus88	
 68	32739.53	4821969	Python3	grizzur	
+68	32739.53	2616395	Javascript	welder	
 68	32739.53000000001	3950687	Python3	vkreuz	
 68	32739.53000000001	2575549	Python3	HugoCM	
 68	32739.53000000001	1441239	Kotlin	Dyd	
