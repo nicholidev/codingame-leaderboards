@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6535,time=2022-06-23 00:30:21
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6535,time=2022-06-24 00:30:26
 5	31.53	3193653	3004019	C++	karliso	
 5	31.39	880353	2975979	C++	zasmu	
 5	31.07	1082988	2982332	C++	Saelyos	
@@ -774,9 +774,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6535,time=2022-06-23 00:30:
 3	24.76	3766690	3011380	C++	marty4545	
 3	24.74	1596238	2978681	C#	NickStahl	
 3	24.73	2990918	2979626	TypeScript	Dingodino	
-3	24.71	2320004	2978210	C#	Arthurique	
+3	24.73	2320004	2978210	C#	Arthurique	
+3	24.71	3783901	2976108	Python3	rlucas585	
 3	24.69	4287222	3799004	C++	Gaksoo	
-3	24.64	3783901	2976108	Python3	rlucas585	
 3	24.63	2341005	2975605	C#	Crispy23	
 3	24.59	1178251	2977875	Java	Briag	
 3	24.57	3938395	3754079	C++	Quentin18	
@@ -826,16 +826,15 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6535,time=2022-06-23 00:30:
 3	23.88	281532	2976665	Scala	SekoUrsil	
 3	23.88	3422956	3627670	Java	Martichou	
 3	23.88	3147344	2978648	Python3	Gibruska	
+3	23.85	1539245	2979830	Java	Riduidel	
 3	23.84	3329545	2979622	Python3	stylemanguy	
 3	23.83	3727948	2977044	Python3	cheaz910	
 3	23.83	1062962	2980397	C++	ArmandO.S.	
 3	23.83	4066925	3412303	Python3	KrysmaCZ	
 3	23.82	1479552	2977698	TypeScript	Tom1	
 3	23.8	225875	2990713	C#	Leff	
-3	23.8	1539245	2979830	Java	Riduidel	
 3	23.78	1671658	2976535	C++	Kirbiby	
 3	23.78	3803789	2980305	Java	jeffreyxiao	
-3	23.77	3266132	2975654	C++	itohdak	
 3	23.76	2258829	3024505	C#	Hiker	
 3	23.76	1802967	3366248	Python3	Meruem	
 3	23.74	3719253	2979699	Javascript	daffie	
@@ -859,6 +858,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6535,time=2022-06-23 00:30:
 3	23.59	648751	2978370	Haskell	dabino	
 3	23.59	990110	2977590	C++	Rogerup	
 3	23.58	3581203	2979566	C++	franckCJ	
+3	23.57	3266132	2975654	C++	itohdak	
 3	23.52	518243	2977062	C++	mbaros	
 3	23.51	900403	2980306	C++	0xC0FFEE	
 3	23.49	3726308	3002629	Python3	Klapoutz	
@@ -886,6 +886,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6535,time=2022-06-23 00:30:
 3	23.3	1798477	4063837	C#	mnivet	
 3	23.3	3821637	2976715	C	Ace310K	
 3	23.3	4403610	3795696	C++	anakinCSA	
+3	23.29	1287344	2983693	Python3	Alshock	
 3	23.28	3763162	2977175	Java	sietsemagne_tha_god	
 3	23.28	2200342	2976575	C++	BernardoSulzbach	
 3	23.28	1853578	2976570	C#	Code.ama	
@@ -895,7 +896,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6535,time=2022-06-23 00:30:
 3	23.26	1070655	2979498	C++	shanks	
 3	23.26	3785053	2976272	Python3	Khajyeet	
 3	23.24	3041715	2977613	Java	hlin	
-3	23.24	1287344	2983693	Python3	Alshock	
 3	23.24	3805081	2979229	Python3	ai_rice	
 3	23.23	1452449	2977216	Java	m4nu8untu	
 3	23.19	1152991	3875930	C#	xoposhiy	
@@ -959,6 +959,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6535,time=2022-06-23 00:30:
 3	22.28	3501475	2979491	Python3	Over9000	
 3	22.28	1895212	2980466	Python3	Maxlaxs	
 3	22.27	3765905	2979695	Python3	edramire	
+3	22.25	2453008	3016804	Python3	Crypticsy	
+3	22.25	3769834	2978482	C#	Hoggins	
 3	22.24	2422378	3881872	Java	C2H5OH	
 3	22.24	2154217	2979149	Java	EliasCanalesNieto	
 3	22.22	1171469	2979292	Java	Reblochon	
@@ -966,12 +968,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6535,time=2022-06-23 00:30:
 3	22.21	1452463	2979820	Python3	Tristannah	
 3	22.21	1098634	2987916	Javascript	grsoares	
 3	22.2	3329141	3038348	C#	andrea_angella	
-3	22.2	2453008	3016804	Python3	Crypticsy	
-3	22.19	2086201	3109855	C++	mchl12	
-3	22.19	3769834	2978482	C#	Hoggins	
 3	22.19	1976585	2976728	C++	TheMadOcarina	
 3	22.18	2567195	2978772	Java	Rova	
-3	22.17	1480640	2976744	C#	snodes	
+3	22.17	1480640	2976744	C#	nodes	
 3	22.17	1451255	2975876	Javascript	Marcob	
 3	22.17	3806519	2978641	Python3	ijc90	
 3	22.17	3324192	2979942	Python3	Spongebobcarre	
@@ -982,6 +981,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6535,time=2022-06-23 00:30:
 3	22.1	1065947	2980390	C#	RPA	
 3	22.09	4081080	3372858	Python3	Thyron	
 3	22.08	1373231	2980233	Python3	shypiguy	
+3	22.08	2086201	3109855	C++	mchl12	
 3	22.06	4398412	3798694	Java	JinGOGO	
 3	22.04	2824703	2976426	C#	NormantasStankevicius	
 3	22.03	1807733	2976181	Python3	NoZ-	
