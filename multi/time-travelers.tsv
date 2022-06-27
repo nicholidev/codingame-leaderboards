@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4858,time=2022-06-26 00:30:21
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4858,time=2022-06-27 00:30:19
 0	47.11	1433161	1484525	C	mingu1.kang	
 0	45.61	494104	455215	C++	Recar	
 0	45.41	990110	357643	C++	Rogerup	
@@ -517,6 +517,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4858,time=2022-06-26 00:30:
 0	34	4347101	3722274	OCaml	Fox_MPSI-LIV	
 0	34	818130	341692	C#	St0y4n.GG	
 0	34	837180	342014	C++	Arkh45	
+0	34	957701	348873	Python	Kremlin	
 0	34	1060834	342997	Python	WalterOLockerhead	
 0	33.99	1220209	368602	Java	NathanIstace	
 0	33.99	368588	351943	Python	Archangel	
@@ -529,7 +530,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4858,time=2022-06-26 00:30:
 0	33.95	1049414	356906	Python	TheSpeller	
 0	33.92	941843	356067	Java	S4M37	
 0	33.91	4255803	3722462	OCaml	Thomas_MPSI1_LIV	
-0	33.9	957701	348873	Python	Kremlin	
 0	33.89	230519	341476	C	Gadam06	
 0	33.87	889899	339484	C++	ArendPeter	
 0	33.87	1288865	411370	C	codyboto	
@@ -660,9 +660,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4858,time=2022-06-26 00:30:
 0	32.82	1249322	370455	C#	MattLGX	
 0	32.8	788357	358240	Python	DrDr3ck	
 0	32.8	1013649	361769	C	Nodren	
+0	32.8	153784	417722	C#	Whitec	
 0	32.8	949451	370479	Javascript	Poyoman	
 0	32.8	1376803	414523	Javascript	salvan13	
-0	32.79	153784	417722	C#	Whitec	
 0	32.79	1404539	417778	Python3	Furrane	
 0	32.79	1058831	521920	C	Hikachu	
 0	32.79	4108922	3434702	Python3	PiZa_OuiOui	
@@ -691,7 +691,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4858,time=2022-06-26 00:30:
 0	32.72	1005061	351609	Ruby	drac	
 0	32.72	544969	357850	C++	Nabilion	
 0	32.71	1379610	1408449	C++	Stanmar	
-0	32.71	1410680	459585	C	EzLucky	
 0	32.71	154078	357997	Java	Yahya.Elfakir	
 0	32.71	1336198	412279	Java	andreaca	
 0	32.71	1011420	343505	Javascript	Minara	
@@ -731,6 +730,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4858,time=2022-06-26 00:30:
 0	32.63	246715	342761	C++	MattW	
 0	32.62	594697	3524272	C#	dimulien	
 0	32.62	968305	357298	C++	Mickael.a	
+0	32.61	1410680	459585	C	EzLucky	
 0	32.61	1376516	417730	C#	MarkZwicker	
 0	32.61	514460	341304	C++	Harv	
 0	32.6	831171	355703	Java	Recoding	
