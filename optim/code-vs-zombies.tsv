@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=14160,time=2022-06-27 00:30:29
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=14169,time=2022-06-28 00:30:30
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -225,6 +225,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14160,time=2022-06-27 00:30:29
 100	223780	4290907	C++	janm31415	
 100	223630	3965155	C		
 100	223100	735910	C++	Agade	
+100	223040	4923388	C	onthenil	
 100	223010	156188	C++	DorianWilde	
 100	223000	3480705	C	zaham_ijjan	
 100	222930	1276099	Rust	Caemor	
@@ -378,6 +379,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14160,time=2022-06-27 00:30:29
 100	189340	2577929	C	Drazyen	
 100	189260	1238934	C++	accorp	
 100	189190	3433338	C#	RedRabbit	
+100	189040	1087203	C++	ZhivkoPetrov	
 100	188970	1086050	Python3	aandrukhovich	
 100	188930	880353	C++	zasmu	
 100	188380	1041619	Java	ryguyfiveatgmaildotcom	
@@ -927,6 +929,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14160,time=2022-06-27 00:30:29
 100	64960	4730289	Python3	Claypiston	
 100	64930	509738	C#	Konrad_Wer	
 100	64910	3399400	C++	MisterFlos	
+100	64910	4960358	C++	VPM	
+100	64910	4913721	C++	VPH	
 100	64890	1372843	Java	djjeck	
 100	64870	1374531	Java	tchitch	
 100	64770	1590522	Python3	Eddyty	
@@ -995,7 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14160,time=2022-06-27 00:30:29
 100	64260	2578005	C++	RahulKumarMishra	
 100	64260	2657521	C++	Exaltify	
 100	64260	2711854	C++	sl0wz	
-100	64260	2686455	Python3	Hyperionx	
-100	64260	1096836	C++	AyoubOuddah	
-100	64260	818780	C++	bbodin01	
-100	64260	2762993	C++	PiouPiou	
