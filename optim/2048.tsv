@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=862,time=2022-06-28 00:30:32
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=863,time=2022-06-29 00:32:52
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
 100	59353524	765200	Rust	FrancoisB	
@@ -39,6 +39,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=862,time=2022-06-28 00:30:32
 100	21068732	1050421	Java	geppoz	
 100	20105044	4208158	Python3	Tiouz	
 100	19365776	331880	Kotlin	Monstruo	
+100	19162920	3060932	Java	boumagik	
 100	19127616	1549145	C++	Mealc	
 100	18704804	3136787	C++	jacek	
 100	18131096	329200	C++	BlitzProg	
@@ -78,7 +79,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=862,time=2022-06-28 00:30:32
 100	8305688	1515891	Go	ndc	
 100	8184664	155774	C++	dwarfie	
 100	8012044	4746859	C#	CHKAFF	
-100	7942720	3060932	Java	boumagik	
 100	7932432	1335230	C++	jft63	
 100	7458284	524638	C++	miklla	
 100	7399092	3697689	Rust	MrSkaal	
@@ -123,6 +123,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=862,time=2022-06-28 00:30:32
 100	3237600	1693448	C	KoenduBuf	
 100	3094748	1489865	C++	EricSMSO	
 100	3073904	2438514	C++	davi_bart	
+100	3041860	1475413	Javascript	AlucardDH	
 100	3032772	1894051	C#	DarkJarek	
 100	3029892	4216789	Rust	Saur2000	
 100	3002156	2595251	Rust	Veterini	
@@ -480,7 +481,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=862,time=2022-06-28 00:30:32
 100	41980	1932980	Rust	AlexandreK	
 100	41912	1030709	Python3	Cmdr.Shepard	
 100	41356	4286679	Python3	fungi_star	
-100	41156	1475413	Javascript	AlucardDH	
 100	41060	4134816	Python3	.[-.-].	
 100	40728	3376384	Python3	esteban616	
 100	40444	4707829	Java	devnatiofra	
@@ -721,6 +721,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=862,time=2022-06-28 00:30:32
 100	2224	1803565	C++	Amadeo234	
 100	2224	3604596	Python3	sehyod	
 100	2224	4180590	Python3	UltimateVexation	
+100	2224	1398275	Go	Quentin_B	
 100	1912	4102957	Python3	EBenoit	
 100	1904	4039182	Javascript	JoBonaire	
 100	1876	4117970	Python3	zhoubou	
