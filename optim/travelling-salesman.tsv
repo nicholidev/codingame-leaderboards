@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=214,time=2022-06-29 00:32:52
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=216,time=2022-06-30 01:45:34
 100	201382	2288263	Rust	dbdr	
 100	201382	4277867	D	About	
 100	201382	2077805	C++	bamilan	
@@ -32,8 +32,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=214,time=2022-06-29 00:32:52
 100	208303	792813	Python3	VilBoub	
 100	209198	2962968	C#	Pukunya	
 100	209210	1489865	C++	EricSMSO	
+100	209280	4257906	Rust	NotSureWhyThisWorks	
 100	209635	1152991	C#	xoposhiy	
-100	210092	4257906	Rust	NotSureWhyThisWorks	
 100	210261	3184049	Python3	ghhttt	
 100	210408	2438514	C++	davi_bart	
 100	210551	3983017	PHP	TLbuis	
@@ -43,6 +43,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=214,time=2022-06-29 00:32:52
 100	211481	4754623	C++	kirillkulemin	
 100	211604	4726885	C++	Boooooooo	
 100	211747	2500089	C++	Fantomat75	
+100	211908	1475413	Javascript	AlucardDH	
 100	212201	943556	C++	DollarAkshay	
 100	212356	3873666	Python3	brthyyjp	
 100	212643	2980709	C++	ninnghazad	
@@ -56,7 +57,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=214,time=2022-06-29 00:32:52
 100	214159	512097	Haskell	Stilgart	
 100	214247	4802208	C++	cestpasvrai	
 100	214276	153965	Python3	[CG]Keelhaul	
-100	214489	224325	Go	TidyMaze	
+100	214489	224325	Go	[BZH]TidyMaze	
 100	214790	3349939	C++	mr.spring	
 100	215035	3844625	C++	surgutti	
 100	215421	4124688	Python3	Murat_Eroglu	
@@ -115,10 +116,10 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=214,time=2022-06-29 00:32:52
 100	246872	999637	Python3	dinobogan	
 100	247358	2625928	C#	Leonard.	
 100	247507	3845610	Python3	pardouin	
-100	248044	1475413	TypeScript	AlucardDH	
 100	248048	4073854	Python3	Buk.	
 100	248616	3533119	C++	wlesavo	
 100	248690	4801044	C++	mannouao	
+100	249440	837350	Python3	BorisZ	
 100	250047	2637659	C#	Barsy	
 100	250215	3826720	C++	Noppo	
 100	250258	4044949	Java	Exanc	
@@ -175,7 +176,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=214,time=2022-06-29 00:32:52
 100	268561	4062203	C++	soraie	
 100	310436	4245841	C++	ADsun	
 100	318303	862919	C++	Astrobytes	
-100	326884	4537924	C++	ArtesScytale	
+100	322049	4537924	C++	ArtesScytale	
 100	328546	1132011	C#	pci	
 100	344482	1579627	C#	Bahrani	
 100	419282	1883740	C++	kermo	
@@ -213,3 +214,4 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=214,time=2022-06-29 00:32:52
 100	3246732	1500515	Python3	eulerscheZahl	
 0	-15	2968035	C++	DomiKo	
 0	-15	4899415	C++	vvgf	
+0	-15	4436271	Python3	Ayza	
