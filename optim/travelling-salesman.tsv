@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=217,time=2022-07-02 00:34:32
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=217,time=2022-07-03 00:49:17
 100	201382	2288263	Rust	dbdr	
 100	201382	4277867	D	About	
 100	201382	2077805	C++	bamilan	
@@ -16,6 +16,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=217,time=2022-07-02 00:34:32
 100	203031	1436776	C++	BrainSolver	
 100	203193	837436	C++	aropan	
 100	204027	3902927	Python3	Bulgot	
+100	204071	1399382	C++	Regulus136	
 100	204213	4870604	Go	willbeason	
 100	204409	1431608	Rust	MitI_7	
 100	205031	2923506	C++	darkhorse64	
@@ -23,7 +24,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=217,time=2022-07-02 00:34:32
 100	205269	4341304	C++	Remi.	
 100	205449	2451652	Java	code_of_the_dead	
 100	205481	4717726	C++	[Nexure]	
-100	205904	1399382	C++	Regulus136	
 100	205986	580424	C++	siman	
 100	206555	155774	C++	dwarfie	
 100	207167	2007852	Lua	Zorg1	
@@ -88,6 +88,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=217,time=2022-07-02 00:34:32
 100	231750	2069141	C#	tomeko	
 100	232969	4668562	Python3	theaddyct	
 100	234148	4134943	Python3	vinc-r	
+100	234256	3845610	Python3	pardouin	
 100	234276	4760013	Python3	KinaKhongs	
 100	234565	925695	OCaml	Boulet	
 100	235560	3187336	Javascript	C6PO	
@@ -105,7 +106,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=217,time=2022-07-02 00:34:32
 100	238441	4510576	C++	__Malina	
 100	238441	4594770	Python3	picoplankton	
 100	239897	311035	Python3	leojean890	
-100	239987	3845610	Python3	pardouin	
 100	240083	888898	C++	helgui	
 100	240691	4562860	Python3	clxm	
 100	240723	3657937	Python3	elderlybeginner	
