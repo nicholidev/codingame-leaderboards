@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6549,time=2022-07-04 00:38:35
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6553,time=2022-07-05 03:59:20
 5	31.53	3193653	3004019	C++	karliso	
 5	31.39	880353	2975979	C++	zasmu	
 5	31.07	1082988	2982332	C++	Saelyos	
@@ -772,7 +772,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6549,time=2022-07-04 00:38:
 3	24.78	3051977	2977133	Python3	YongJing	
 3	24.74	1596238	2978681	C#	NickStahl	
 3	24.73	3800302	3459454	C++	v.cogut	
-3	24.73	2320004	2978210	C#	Arthurique	
 3	24.71	3783901	2976108	Python3	rlucas585	
 3	24.69	4287222	3799004	C++	Gaksoo	
 3	24.67	2990918	2979626	TypeScript	Dingodino	
@@ -781,6 +780,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6549,time=2022-07-04 00:38:
 3	24.63	2341005	2975605	C#	Crispy23	
 3	24.59	1140677	2975871	C++	Crog	
 3	24.59	1178251	2977875	Java	Briag	
+3	24.55	2320004	2978210	C#	Arthurique	
 3	24.5	303151	2976855	Python3	MoOT.Cube	
 3	24.49	1991836	2994703	C#	qbit86	
 3	24.47	3938395	3754079	C++	Quentin18	
@@ -821,9 +821,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6549,time=2022-07-04 00:38:
 3	23.93	3811717	3050741	C++	saikatoto	
 3	23.9	1015522	2977798	Python3	ratmir15	
 3	23.9	1698756	2978709	C#	Sylions	
+3	23.89	281532	2976665	Scala	SekoUrsil	
 3	23.89	4066925	3412303	Python3	KrysmaCZ	
 3	23.88	3797271	2978943	Python3	Cam_B	
-3	23.88	281532	2976665	Scala	SekoUrsil	
 3	23.88	3147344	2978648	Python3	Gibruska	
 3	23.87	1539245	2979830	Java	Riduidel	
 3	23.86	2258829	3024505	C#	Hiker	
@@ -859,7 +859,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6549,time=2022-07-04 00:38:
 3	23.58	3581203	2979566	C++	franckCJ	
 3	23.54	3266132	2975654	C++	itohdak	
 3	23.53	900403	2980306	C++	0xC0FFEE	
-3	23.51	4284674	3807799	Java	GuruLeo	
 3	23.49	3726308	3002629	Python3	Klapoutz	
 3	23.48	2443365	2979951	Javascript	Lulemair	
 3	23.47	1105782	2979745	C#	RubenFilipe	
@@ -880,11 +879,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6549,time=2022-07-04 00:38:
 3	23.37	3785053	2976272	Python3	Khajyeet	
 3	23.37	1815235	2977737	C#	Maliamnon	
 3	23.36	1391220	2976750	PHP	mesavitae	
+3	23.36	4403610	3795696	C++	anakinCSA	
 3	23.36	154806	2979702	Python3	piwai	
-3	23.35	4403610	3795696	C++	anakinCSA	
 3	23.34	3764223	2978272	Go	ywake	
 3	23.34	904209	4083274	Python3	Myrtille44	
 3	23.34	3800220	2977466	C++	Kurpilyansky	
+3	23.34	4284674	3807799	Java	GuruLeo	
 3	23.34	1452449	2977216	Java	m4nu8untu	
 3	23.33	227869	2978054	C++	CarniBlood	
 3	23.3	1798477	4063837	C#	mnivet	
@@ -933,10 +933,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6549,time=2022-07-04 00:38:
 3	22.58	3819989	3476598	C++	KawattaTaido	
 3	22.57	811622	2980471	C++	Scarfield	
 3	22.55	1639037	2976325	C++	Atlasx	
+3	22.55	3757728	2975969	C#	semera	
 3	22.54	3776706	2980526	C#	dashu_baba	
 3	22.52	2222363	2975924	Java	Clara_AK	
 3	22.52	1652969	2977756	C#	Berci79	
-3	22.52	3757728	2975969	C#	semera	
 3	22.51	2654648	2978421	Python3	AntiP0w	
 3	22.51	3817179	2976059	C#	MAPATKO	
 3	22.51	3647844	3451270	Python3	rc95401	
@@ -961,20 +961,20 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6549,time=2022-07-04 00:38:
 3	22.26	1075260	2981488	Java	metwesse	
 3	22.24	2422378	3881872	Java	C2H5OH	
 3	22.24	2154217	2979149	Java	EliasCanalesNieto	
+3	22.23	1451255	2975876	Javascript	Marcob	
 3	22.22	1171469	2979292	Java	Reblochon	
 3	22.21	1452463	2979820	Python3	Tristannah	
 3	22.21	1098634	2987916	Javascript	grsoares	
 3	22.2	3329141	3038348	C#	andrea_angella	
 3	22.2	1895212	2980466	Python3	Maxlaxs	
-3	22.19	1451255	2975876	Javascript	Marcob	
 3	22.19	4081080	3372858	Python3	Thyron	
 3	22.19	1976585	2976728	C++	TheMadOcarina	
 3	22.19	4398412	3798694	Java	JinGOGO	
 3	22.18	2567195	2978772	Java	Rova	
 3	22.17	1480640	2976744	C#	nodes	
+3	22.17	2313474	2987655	Java	EmmanuelPires	
 3	22.17	3806519	2978641	Python3	ijc90	
 3	22.17	3324192	2979942	Python3	Spongebobcarre	
-3	22.16	2313474	2987655	Java	EmmanuelPires	
 3	22.15	1807733	2976181	Python3	NoZ-	
 3	22.13	2056541	2977345	Java	PeF	
 3	22.13	3622078	2979145	Python3	Paikan2068	
