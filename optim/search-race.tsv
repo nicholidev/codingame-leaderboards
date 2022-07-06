@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=846,time=2022-07-05 03:59:25
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=848,time=2022-07-06 01:47:24
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -690,6 +690,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=846,time=2022-07-05 03:59:25
 90	27019.80999999999	4549704	Python3	Opiakos	
 90	27479.47	3405266	Javascript	ReversableCode	
 90	27743.230000000007	3774604	Python3	PerfectOr	
+90	27820.150000000005	4704154	Python3	unsinn	
 88	25264.46	1661333	C++	linjoehan	
 88	25662.389999999996	3657346	Go	Refiner	
 88	25669.31	1607251	Javascript	baboulaf	
@@ -845,3 +846,4 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=846,time=2022-07-05 03:59:25
 0	50000	4808711	Python3	MatveyTA	
 0	50000	4811793	Python3	Verest_ven	
 0	50000	4717726	Python3	[Nexure]	
+0	50000	1614770	Python3	AdmiralShadow	
