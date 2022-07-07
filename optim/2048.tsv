@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=866,time=2022-07-06 01:47:24
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=867,time=2022-07-07 01:00:43
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
 100	59353524	765200	Rust	FrancoisB	
@@ -67,6 +67,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=866,time=2022-07-06 01:47:24
 100	10183760	1861258	Rust	Nazdhun	
 100	10014568	4334077	C++	Paul_Demanze	
 100	10013012	3726978	C++	VirtualAtom	
+100	9652100	270881	C#	Maurice_Moss	
 100	9607648	416894	C++	MeDev	
 100	9282440	3305510	PHP	TBali	
 100	9179604	2491616	Rust	abt8601	
@@ -106,7 +107,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=866,time=2022-07-06 01:47:24
 100	4681288	1077559	Java	PhOeNyX	
 100	4658788	3165536	C++	barbora	
 100	4551296	2258829	C#	Hiker	
-100	4542348	270881	C#	Maurice_Moss	
 100	4354272	1566335	Java	BeardedWhale	
 100	4330608	2629686	C#	krutovsky	
 100	4289648	4673683	C++	BartK	
@@ -312,6 +312,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=866,time=2022-07-06 01:47:24
 100	77068	3792309	C++	schachmatt	
 100	76616	948764	Python3	Katie	
 100	75872	4230724	Python3	SefioR13	
+100	75352	4791882	Ruby	FlorentC	
 100	74988	4111058	Perl	Perlorodka	
 100	74580	1542064	C++	Skyr83	
 100	74348	810629	C#	Lukey	
@@ -321,6 +322,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=866,time=2022-07-06 01:47:24
 100	70900	2364617	C++	RomainPicot	
 100	70852	4136008	Python3	jerry_laevis	
 100	70600	3068678	Python3	DrSilverstone	
+100	69924	4588175	Go	FlyingCow	
 100	69792	2635907	Javascript	lopidav	
 100	69696	1086050	Python3	aandrukhovich	
 100	68904	4030968	Python3	MBucas	
@@ -377,7 +379,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=866,time=2022-07-06 01:47:24
 100	56452	4589257	Python3	Anger1st	
 100	56384	4428604	Groovy	Simsalagrim	
 100	56252	1017704	Javascript	Lucasgood	
-100	55936	4791882	Ruby	FlorentC	
 100	55768	820541	PHP	Johnstyle	
 100	55744	3416055	Python3	ItsAFeature	
 100	55744	3780735	C++	ecto0310	
