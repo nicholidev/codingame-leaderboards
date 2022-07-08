@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6228,time=2022-07-07 01:00:40
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6232,time=2022-07-08 00:37:39
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -552,6 +552,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6228,time=2022-07-07 01:00:40
 100	5237	389473	Rust	BigBart	
 100	5252	1642932	C++	Durkin	
 100	5261	828213	Go	anst	
+100	5262	2364805	Python3	LauriK	
 100	5267	3703485	Python3	anter69	
 100	5269	1449433	C++	Rolf	
 100	5271	2051334	Python3	Dwarth	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6228,time=2022-07-07 01:00:40
 100	5860	4039328	Python3	KleinesAtom93	
 100	5860	4419317	C++	SchrodingersMind	
 100	5860	4693732	Python3	Red0m	
-100	5860	4688439	Haskell	Angs	
