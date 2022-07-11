@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=14285,time=2022-07-10 00:33:30
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=14292,time=2022-07-11 00:30:26
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -365,6 +365,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14285,time=2022-07-10 00:33:30
 100	195040	4193469	Rust	yannick-t	
 100	195000	925695	OCaml	Boulet	
 100	194890	2521360	C	g.naboychenko	
+100	194780	1465626	C#	Joey_G	
 100	194710	4827859	C	00unknown	
 100	194440	1018437	C++	dubicube	
 100	194240	4392570	C++	Know~~Nothing	
@@ -414,6 +415,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14285,time=2022-07-10 00:33:30
 100	180920	1302700	C#	Tounsi	
 100	180590	300573	Rust	heretiK	
 100	180310	4117970	Python3	zhoubou	
+100	179900	4976018	Python3	disihe	
 100	179820	3999174	C++	Shrimpster	
 100	179700	1842010	C#	southpolenator	
 100	179410	3741491	C++	inverb	
@@ -509,7 +511,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14285,time=2022-07-10 00:33:30
 100	154470	1551921	C++	konanTheBarbar	
 100	154170	3492633	Java	Relapse	
 100	153110	2361019	Python3	kleisauke	
-100	152850	4976018	Python3	disihe	
 100	151380	4050016	Ruby	CharlesSenemaud	
 100	151360	1131528	C	Owl	
 100	150900	1584802	Python3	emh	
@@ -730,7 +731,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14285,time=2022-07-10 00:33:30
 100	84090	2378225	Python3	okon	
 100	84070	1483365	Python3	risko	
 100	83720	3871167	C	ncoursol	
-100	82870	1465626	C#	Joey_G	
 100	82750	1457162	Python3	JFB	
 100	82740	4058290	Python3	dsdread	
 100	82630	4102489	C#	Fredbart94	
@@ -843,6 +843,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14285,time=2022-07-10 00:33:30
 100	69730	1368122	Go	galthaus	
 100	69650	4420742	Python3	Mortis_666	
 100	69360	4746860	Go	3axapka	
+100	69290	4481912	Python3	Dr_Monkey	
 100	68980	2212341	C++	Atul007	
 100	68800	1353669	Python3	XAnimaX	
 100	68790	1243354	C++	RSBat	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14285,time=2022-07-10 00:33:30
 100	64260	1737565	C++	FunnyCoder	
 100	64260	1986145	Python3	ValNyz	
 100	64260	2437570	C++	LordAchillus	
-100	64260	2449144	C++	Squiki	
