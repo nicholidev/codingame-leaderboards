@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=352,time=2022-07-11 00:30:33
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=354,time=2022-07-12 00:36:20
 100	291	2288263	Rust	dbdr	
 100	293	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -136,8 +136,9 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=352,time=2022-07-11 00:30:33
 100	1122	1378958	C#	Illedan	
 100	1136	4576463	Python3	Didelabedeli	
 100	1151	3846923	Kotlin	Hildan	
+100	1172	3376722	Python3	oolivierr	
 100	1188	2719604	Python3	vpoulailleau	
-100	1243	973040	F#	papyjo	
+100	1195	973040	F#	papyjo	
 100	1246	1588583	Python3	dANNs	
 100	1254	4587710	Scala	Smetalka	
 100	1271	3965571	Python3	Smekarn	
@@ -221,6 +222,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=352,time=2022-07-11 00:30:33
 69.56521739130434	4403	3770501	C++	luke-guyton	
 69.56521739130434	4602	483321	C#	Clagus	
 69.56521739130434	5494	3416055	Python3	ItsAFeature	
+67.3913043478261	4782	4257906	Rust	NotSureWhyThisWorks	
 67.3913043478261	4975	3141948	Python3	philRG	
 67.3913043478261	5218	3846244	Python3	JLukeSkywalker	
 67.3913043478261	5950	2802293	Python3	KarimGehad	

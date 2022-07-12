@@ -1,8 +1,9 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=384,time=2022-07-11 00:30:35
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=386,time=2022-07-12 00:36:22
 100	62936	977117	C++	Psyho	
 100	62932	2077805	C++	bamilan	
 100	62906	3903473	Python3	Konstant	
 100	62885	4257906	Rust	NotSureWhyThisWorks	
+100	62775	820000	C++	ValGrowth	
 100	62454	3918583	Rust	mikmak	
 100	62323	4341304	C++	Remi.	
 100	61674	3902927	Python3	Bulgot	
@@ -17,6 +18,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=384,time=2022-07-11 00:30:35
 100	55236	4182831	Python3	Flaaamort	
 100	54108	2923506	C++	darkhorse64	
 100	54108	899666	C#	Whykonen	
+100	53579	4186453	C#	Audatic	
 100	53423	4759510	Python3	Darleanow	
 100	53324	2797677	C++	kolph	
 100	53297	928567	C++	Konstanta	
@@ -42,14 +44,12 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=384,time=2022-07-11 00:30:35
 100	50431	3173494	Python3	WKDE	
 100	50344	4718620	Pascal	Hieronymus	
 100	50117	3938395	Python3	Quentin18	
-100	50017	4186453	C#	Audatic	
 100	49769	3337117	Python3	timbersson	
 100	49764	3446473	Javascript	proprofondo	
 100	46407	4811550	Python3	lyconide	
 100	44754	2463909	Kotlin	ckobayashi	
 100	43390	4974792	Python3	coutinho97	
 100	43390	1388952	Scala	Nik95	
-100	42439	820000	C++	ValGrowth	
 100	40285	1111798	Java	lifetimeLearner007	
 100	40121	4363997	Python3	BlanchR2	
 100	39914	1475413	Javascript	AlucardDH	
@@ -132,7 +132,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=384,time=2022-07-11 00:30:35
 100	16638	4253472	Java	GreyRaven	
 100	16626	1854639	C#	iDxMeG	
 100	16566	4229382	Python3	ClawLegend	
-100	16552	3052608	C#	royal_cheese	
+100	16552	3052608	C#	RomainFi	
 100	16552	4962713	PHP	LePerfo	
 100	16449	780361	C++	BrutalCommiterInSpace	
 100	16372	222665	Lua	borrel	
@@ -149,10 +149,12 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=384,time=2022-07-11 00:30:35
 100	15920	4562863	Python3	Benoit-Simunsol	
 100	15904	1027945	TypeScript	TriForMine	
 100	15900	2968035	C++	DomiKo	
+100	15900	2202771	Java	Kaplone	
 100	15813	1740037	Scala	ereiam	
 100	15700	631323	Python3	herve056	
 100	15207	4920868	Python3	tidja01	
 100	15205	1415641	Go	BurA	
+100	15202	4097526	Python3	BugM4ker	
 100	15138	4387015	Python3	HellMute	
 100	15121	2246818	Python3	Fredododo	
 100	15100	4745511	C#	Markus88	
@@ -266,7 +268,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=384,time=2022-07-11 00:30:35
 100	0	4972181	Python3	Kizcode	
 100	0	4972222	Python3		
 100	0	4972385	Python3	s.ichiro	
-100	0	2202771	Java	Kaplone	
 100	0	4972522	C#		
 100	0	4972519	Python3		
 100	0	904209	Python3	Myrtille44	
@@ -383,3 +384,4 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=384,time=2022-07-11 00:30:35
 100	0	4984292	C#	connor3mm	
 100	0	4982543	Python3	Lone_Wolf.013	
 100	0	4508271	Python3	Thorcode	
+100	0	2110342	Javascript	lchenay	
