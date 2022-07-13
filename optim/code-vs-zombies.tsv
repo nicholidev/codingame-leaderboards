@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=14307,time=2022-07-12 00:36:19
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=14318,time=2022-07-13 01:06:19
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -226,6 +226,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14307,time=2022-07-12 00:36:19
 100	223900	4797686	C	ede800	
 100	223780	4290907	C++	janm31415	
 100	223630	3965155	C		
+100	223230	1465626	C#	Joey_G	
 100	223100	735910	C++	Agade	
 100	223040	4923388	C	onthenil	
 100	223010	156188	C++	DorianWilde	
@@ -277,6 +278,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14307,time=2022-07-12 00:36:19
 100	212920	1284747	C++	mr-push	
 100	212780	3298022	C	IKEJIME	
 100	212770	154935	Scala	yamo	
+100	212670	4451368	C	Tsukabishi	
 100	212370	4518975	C++	civtrader	
 100	212000	1754295	C++	SF	
 100	211860	4101514	Javascript	Pips42	
@@ -286,7 +288,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14307,time=2022-07-12 00:36:19
 100	210340	4819360	C	Vemore	
 100	210290	3069534	Java	LoganWlv	
 100	210270	4338330	C#	0Ph	
-100	210200	1465626	C#	Joey_G	
 100	210130	952796	C#	CodingTurtle	
 100	209760	2980709	C++	ninnghazad	
 100	209700	1341520	C	egaetan	
@@ -692,6 +693,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14307,time=2022-07-12 00:36:19
 100	91300	4515517	C#	AndresTr	
 100	90520	1181685	Lua	dzik	
 100	90510	1186732	Javascript	gkueny	
+100	90370	4953074	Javascript	jwpapi	
 100	90080	3687134	Rust	Puccre	
 100	89900	4063536	Python3	P4V3L14K0V	
 100	89590	849004	Haskell	Lulu	
@@ -876,7 +878,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14307,time=2022-07-12 00:36:19
 100	66770	2179480	C++	Cayn	
 100	66740	1331143	Python3	Alois.S	
 100	66700	1068877	C#	[CPC]Tamno	
-100	66680	4953074	Javascript	jwpapi	
 100	66630	303151	Python3	MoOT.Cube	
 100	66590	1211531	C++	ciaojian	
 100	66560	3418503	Java	Rihayaz	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14307,time=2022-07-12 00:36:19
 100	64260	1714338	C++	cobase2010	
 100	64260	2320077	C++	leetdavid	
 100	64260	1737565	C++	FunnyCoder	
-100	64260	1986145	Python3	ValNyz	
