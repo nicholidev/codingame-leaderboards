@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=354,time=2022-07-13 01:06:21
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=355,time=2022-07-14 00:36:33
 100	291	2288263	Rust	dbdr	
 100	293	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -68,6 +68,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=354,time=2022-07-13 01:06:21
 100	387	841420	C#	RandomVariable	
 100	396	4446060	Python3	Prodigity	
 100	403	1684486	C++	Whopper	
+100	404	4257906	Rust	NotSureWhyThisWorks	
 100	405	4484024	C++	Hize	
 100	414	3226448	Rust	tobk	
 100	415	4526264	C++	cly	
@@ -78,7 +79,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=354,time=2022-07-13 01:06:21
 100	485	1566335	Python3	BeardedWhale	
 100	490	3095454	C++	e2e4b6b7	
 100	491	4066824	Python3	Thannajo	
-100	492	4257906	Rust	NotSureWhyThisWorks	
 100	508	792813	Python3	VilBoub	
 100	520	631323	Python3	herve056	
 100	547	4245841	C++	ADsun	
@@ -138,8 +138,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=354,time=2022-07-13 01:06:21
 100	1122	1378958	C#	Illedan	
 100	1136	4576463	Python3	Didelabedeli	
 100	1151	3846923	Kotlin	Hildan	
+100	1164	973040	F#	papyjo	
 100	1188	2719604	Python3	vpoulailleau	
-100	1195	973040	F#	papyjo	
 100	1246	1588583	Python3	dANNs	
 100	1254	4587710	Scala	Smetalka	
 100	1271	3965571	Python3	Smekarn	
@@ -315,6 +315,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=354,time=2022-07-13 01:06:21
 17.391304347826086	12230	4356381	Python3	NucleicAcid	
 15.217391304347826	11978	1525816	Javascript	Flodnes	
 15.217391304347826	12095	4003177	Python3	Linnlinn	
+15.217391304347826	12189	380805	TypeScript	Xtendz	
 15.217391304347826	12312	4646980	Python3	Kururugi	
 15.217391304347826	12549	3136787	Python3	jacek	
 15.217391304347826	12967	1229845	Java	Jipe	

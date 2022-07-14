@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=14318,time=2022-07-13 01:06:19
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=14334,time=2022-07-14 00:36:32
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -615,6 +615,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14318,time=2022-07-13 01:06:19
 100	115400	4037601	C++	Jelafo	
 100	115310	2479417	C++	Papa94	
 100	115000	3563934	C#	ChuckTheNinja	
+100	114710	4953074	Javascript	jwpapi	
 100	114690	4414812	C++	GPoll	
 100	114480	4119720	C++	maniekTC	
 100	114440	1741901	Go	Jerome_Laforge	
@@ -693,7 +694,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14318,time=2022-07-13 01:06:19
 100	91300	4515517	C#	AndresTr	
 100	90520	1181685	Lua	dzik	
 100	90510	1186732	Javascript	gkueny	
-100	90370	4953074	Javascript	jwpapi	
 100	90080	3687134	Rust	Puccre	
 100	89900	4063536	Python3	P4V3L14K0V	
 100	89590	849004	Haskell	Lulu	
@@ -981,6 +981,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14318,time=2022-07-13 01:06:19
 100	64320	2212616	C#	KernelX	
 100	64310	153062	Java	Guian	
 100	64310	4152522	Java	wilkyo	
+100	64280	1082937	Kotlin	Wololo	
 100	64270	1642907	Python3	gleberof	
 100	64270	3317435	Python3	Tisiol	
 100	64270	4659080	C++		
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14318,time=2022-07-13 01:06:19
 100	64260	1730834	C++	Sprinter_As	
 100	64260	1714338	C++	cobase2010	
 100	64260	2320077	C++	leetdavid	
-100	64260	1737565	C++	FunnyCoder	
