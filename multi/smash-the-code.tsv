@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2611,time=2022-07-14 00:30:22
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2612,time=2022-07-15 00:30:27
 5	32.66	1327028	2990369	C++	FredericBautista	
 5	32.05	1400179	2986754	C++	reCurse	
 5	30.87	1413236	511966	Go	Medici	
@@ -887,11 +887,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2611,time=2022-07-14 00:30:
 1	23.5	1508772	805634	PHP	LeadFarmer	
 1	23.49	1053403	747446	C#	indomit	
 1	23.48	1077201	500447	C	Baarg	
+1	23.48	4077053	3326771	Javascript	VladKov	
 1	23.48	1280770	486102	C	John_Black	
 1	23.47	1245243	495360	Javascript	Clement134	
 1	23.47	1220347	579377	C#	Pooky	
 1	23.47	912971	2335906	C#	Amousy	
-1	23.46	4077053	3326771	Javascript	VladKov	
 1	23.46	1312208	653873	Java	CraaazySteeeve	
 1	23.45	3331361	2346994	Javascript	Hikyu	
 1	23.45	1482103	595604	C	BlasterBaz	
@@ -944,7 +944,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2611,time=2022-07-14 00:30:
 1	23.27	1557154	3433898	C++	BigToeMan	
 1	23.27	435967	664050	Ruby	NullNilNone	
 1	23.27	973155	576064	C++	Namal	
-1	23.27	1503612	631709	C#	Dreagor	
 1	23.27	614489	493173	C	Nazoum81	
 1	23.27	1297591	653520	C	BigHead	
 1	23.26	215395	502717	Python3	Enknable	
@@ -963,6 +962,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2611,time=2022-07-14 00:30:
 1	23.24	1517028	936212	Python3	Nicau	
 1	23.23	1443075	484310	C++	Wolfy82	
 1	23.23	4843636	4074822	C#	Glace_Ecarlate	
+1	23.23	4256701	3483268	Javascript	DenysRozhyk	
 1	23.22	1251131	896454	C#	ma81xx	
 1	23.22	889640	672424	Javascript	Kaljuk	
 1	23.22	1596346	768314	C#	LaurisJansons	
@@ -973,6 +973,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2611,time=2022-07-14 00:30:
 1	23.22	1294592	575454	Javascript	tetesoulo	
 1	23.21	1393911	501141	Javascript	neal_s	
 1	23.21	1051649	491822	PHP	Elektordi	
+1	23.21	433065	493848	C#	Knafle	
 1	23.21	1455173	493497	Python3	DrSpock	
 1	23.21	2203927	1669704	C++	MohamedAlmograby_2nd_year_2018	
 1	23.21	1269827	642071	Java	bcourtine	
@@ -981,6 +982,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2611,time=2022-07-14 00:30:
 1	23.2	1470835	512500	C++	Fsk	
 1	23.19	3101644	2622382	Python3	HerrHagner	
 1	23.19	1014924	493584	PHP	TommyP	
+1	23.19	1503612	631709	C#	Dreagor	
 1	23.18	1081818	504765	Python	Indispira	
 1	23.18	1273475	570241	C	Charles-Elie.Taupin	
 1	23.18	1377467	512115	C#	GeorgeClooney	
@@ -997,5 +999,3 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2611,time=2022-07-14 00:30:
 1	23.15	1627356	943260	C++	Pelker	
 1	23.15	1662602	768550	C++	brenrik	
 1	23.15	3938495	3485184	OCaml	o11s	
-1	23.15	2187656	1468455	Lua	RanXerox	
-1	23.14	4508271	3835550	Python3	Thorcode	

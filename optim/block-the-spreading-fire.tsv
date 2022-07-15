@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=389,time=2022-07-14 00:36:35
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=389,time=2022-07-15 00:36:46
 100	62936	977117	C++	Psyho	
 100	62932	2077805	C++	bamilan	
 100	62931	820000	C++	ValGrowth	
@@ -18,7 +18,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=389,time=2022-07-14 00:36:35
 100	55236	4182831	Python3	Flaaamort	
 100	54108	2923506	C++	darkhorse64	
 100	54108	899666	C#	Whykonen	
-100	53579	4186453	C#	Audatic	
+100	53605	4186453	C#	Audatic	
 100	53423	4759510	Python3	Darleanow	
 100	53324	2797677	C++	kolph	
 100	53297	928567	C++	Konstanta	
@@ -32,8 +32,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=389,time=2022-07-14 00:36:35
 100	51992	4375316	Python3	Flash7	
 100	51792	4158692	Python3	All2u	
 100	51777	4806550	Python3	Rafarafa	
+100	51739	1186250	C#	Gabbek	
 100	51538	3398045	Python3	C944594C41	
-100	51446	1186250	C#	Gabbek	
 100	51445	4823073	Python3	davfrv	
 100	51228	3496153	Python3	lndshs	
 100	51134	2398608	Python3	M_C	
@@ -73,6 +73,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=389,time=2022-07-14 00:36:35
 100	32386	3457031	C++	YurkovAS	
 100	31915	3700629	TypeScript	serialgg	
 100	31441	2948040	Javascript	Pouyou	
+100	31269	1537951	Java	Nerchio	
 100	30848	2616395	Javascript	welder	
 100	28762	1412263	PHP	PatrickMcGinnisII	
 100	28611	4935186	Python3	Gabay	
@@ -218,6 +219,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=389,time=2022-07-14 00:36:35
 100	821	1542905	Python3	vvvvvvvvv	
 100	800	1060181	Javascript	Dabou	
 100	410	912633	C#	Poviliukas	
+100	221	4122723	Python3	Hydrazer	
 100	200	4935185	Swift	WolferWolfy	
 100	200	4872827	Java	DannyTheChamp	
 100	128	4831078	Javascript	senseiii	
@@ -337,7 +339,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=389,time=2022-07-14 00:36:35
 100	0	4729628	Python3	-Banana	
 100	0	4591216	Python3	Kazulhu	
 100	0	1711397	Go	DiogoGiassi	
-100	0	4122723	Rust	Hydrazer	
 100	0	4977195	C		
 100	0	4977002	Javascript	ferko_papulka	
 100	0	4976754	Python3	Stalhrim_	
@@ -387,4 +388,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=389,time=2022-07-14 00:36:35
 100	0	4982543	Python3	Lone_Wolf.013	
 100	0	4508271	Python3	Thorcode	
 100	0	4236076	Go	guedel	
-100	0	1537951	Java	Nerchio	
