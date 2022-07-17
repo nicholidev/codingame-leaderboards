@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=355,time=2022-07-16 00:32:38
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=355,time=2022-07-17 00:35:32
 100	291	2288263	Rust	dbdr	
 100	293	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -38,6 +38,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=355,time=2022-07-16 00:32:38
 100	322	1883740	C++	kermo	
 100	322	2350415	C++	Vintarel	
 100	323	1854246	C++	Counterbalance	
+100	323	4257906	Rust	NotSureWhyThisWorks	
 100	326	4208158	C++	Tiouz	
 100	327	1584802	C++	emh	
 100	328	1693448	C	KoenduBuf	
@@ -68,7 +69,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=355,time=2022-07-16 00:32:38
 100	387	841420	C#	RandomVariable	
 100	396	4446060	Python3	Prodigity	
 100	403	1684486	C++	Whopper	
-100	403	4257906	Rust	NotSureWhyThisWorks	
 100	405	4484024	C++	Hize	
 100	414	3226448	Rust	tobk	
 100	415	4526264	C++	cly	

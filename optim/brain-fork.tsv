@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6260,time=2022-07-16 00:32:36
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6262,time=2022-07-17 00:35:29
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -276,6 +276,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6260,time=2022-07-16 00:32:36
 100	4052	4053362	C#	Johan_Braanen	
 100	4059	1353260	Java	kluf	
 100	4061	915957	C	Tux	
+100	4065	972854	Python3	MrXo	
 100	4075	3766290	Javascript	xineohp	
 100	4081	518726	Haskell	nybble41	
 100	4081	2451652	Javascript	code_of_the_dead	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6260,time=2022-07-16 00:32:36
 100	5860	4553650	Python3	JRBensa	
 100	5860	4578584	Python3	Kronblom	
 100	5860	4200593	Python3	qwatry	
-100	5860	4039328	Python3	KleinesAtom93	

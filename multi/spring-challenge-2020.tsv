@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6579,time=2022-07-16 00:32:34
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6580,time=2022-07-17 00:35:26
 5	31.53	3193653	3004019	C++	karliso	
 5	31.39	880353	2975979	C++	zasmu	
 5	31.07	1082988	2982332	C++	Saelyos	
@@ -783,7 +783,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6579,time=2022-07-16 00:32:
 3	24.62	3783901	2976108	Python3	rlucas585	
 3	24.58	3819467	2975822	C++	bin101	
 3	24.52	3563633	2980017	Javascript	p1100i	
-3	24.52	3766690	3011380	C++	marty4545	
 3	24.5	3051977	2977133	Python3	YongJing	
 3	24.48	2392192	2991212	C++	lgm42	
 3	24.43	2135916	3144589	Python3	Oioi	
@@ -791,6 +790,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6579,time=2022-07-16 00:32:
 3	24.4	3806286	2977764	Python3	St7	
 3	24.39	1543177	2976634	Python3	Xoff	
 3	24.39	4287222	3799004	C++	Gaksoo	
+3	24.36	3766690	3011380	C++	marty4545	
 3	24.35	303151	2976855	Python3	MoOT.Cube	
 3	24.33	4401975	3793430	Java	Cyberhuman	
 3	24.33	3761568	3456886	C++	rimon	
@@ -810,8 +810,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6579,time=2022-07-16 00:32:
 3	24.2	3785981	2977576	Java	Banti	
 3	24.2	1802967	3366248	Python3	Meruem	
 3	24.18	1506970	2976707	C#	Speedrun	
+3	24.13	3803789	2980305	Java	jeffreyxiao	
 3	24.1	3797271	2978943	Python3	Cam_B	
-3	24.09	3803789	2980305	Java	jeffreyxiao	
 3	24.08	1015522	2977798	Python3	ratmir15	
 3	24.07	3380514	2976519	Java	DFrese	
 3	24.07	3802430	2979812	Java	Andronnix	
@@ -884,11 +884,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6579,time=2022-07-16 00:32:
 3	23.42	1105782	2979745	C#	RubenFilipe	
 3	23.41	4403610	3795696	C++	anakinCSA	
 3	23.4	3309229	2980217	Python3	igs_m	
+3	23.4	3039496	2976547	TypeScript	Jonne	
 3	23.37	2675308	2977204	Javascript	vkochev	
 3	23.37	3727948	2977044	Python3	cheaz910	
 3	23.36	1759839	2978707	Python3	matleg	
 3	23.35	1920644	2980506	C++	Skygge	
-3	23.35	3039496	2976547	TypeScript	Jonne	
 3	23.34	3723210	2976856	C#	ChristopherHahn	
 3	23.33	1853578	2976570	C#	Code.ama	
 3	23.33	3341311	2979027	Javascript	Amelieth	
@@ -908,7 +908,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6579,time=2022-07-16 00:32:
 3	23.23	3155517	2976259	C#	toto0121	
 3	23.21	1415773	2980377	Go	pierre31	
 3	23.18	154806	2979702	Python3	piwai	
-3	23.15	996279	2978733	C++	BOBKA	
+3	23.18	996279	2978733	C++	BOBKA	
 3	23.14	3802180	2979892	C++	SaminRK	
 3	23.13	3757728	2975969	C#	semera	
 3	23.13	1391220	2976750	PHP	mesavitae	

@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=14354,time=2022-07-16 00:32:37
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=14362,time=2022-07-17 00:35:30
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -170,6 +170,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14354,time=2022-07-16 00:32:37
 100	245640	854952	Java	dolmen1234	
 100	245600	1481544	C++	ZarthaxX	
 100	245340	4187405	C	1cogniTAU	
+100	245310	4963522	C++	Serhii_Kovalenko	
 100	243290	4960856	C	nacharov	
 100	243250	3344383	C++	Czejoo	
 100	243100	888898	C++	helgui	
@@ -594,6 +595,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14354,time=2022-07-16 00:32:37
 100	127410	1698954	Java	Neurovul	
 100	125820	1456860	Java	Ulli85	
 100	125800	3226448	Python3	tobk	
+100	125030	4953074	Rust	jwpapi	
 100	124600	3847976	Go	[SG]Mob-Programming	
 100	124560	813412	Go	datiti	
 100	124450	1139919	VB.NET	Lliane	
@@ -616,7 +618,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14354,time=2022-07-16 00:32:37
 100	115400	4037601	C++	Jelafo	
 100	115310	2479417	C++	Papa94	
 100	115000	3563934	C#	ChuckTheNinja	
-100	114710	4953074	Javascript	jwpapi	
 100	114690	4414812	C++	GPoll	
 100	114480	4119720	C++	maniekTC	
 100	114440	1741901	Go	Jerome_Laforge	
@@ -817,6 +818,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14354,time=2022-07-16 00:32:37
 100	72620	1022926	Python3	_BC_	
 100	72610	1175343	C++	Hankerspace	
 100	72610	648983	C++	Elliot	
+100	72610	1081173	Javascript	S-Axel	
 100	72530	1568785	C	Chalzy	
 100	72330	2419215	Python3	FinalFrag	
 100	72310	2104313	C++	TomPouce	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14354,time=2022-07-16 00:32:37
 100	64260	854169	Python3	Silmaen	
 100	64260	2212406	C#	ravikumar	
 100	64260	2220033	Python3		
-100	64260	2212259	C#	MayankDua	
-100	64260	1730834	C++	Sprinter_As	

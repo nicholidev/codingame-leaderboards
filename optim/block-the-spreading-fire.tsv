@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=389,time=2022-07-16 00:32:40
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=391,time=2022-07-17 00:35:33
 100	62936	977117	C++	Psyho	
 100	62932	2077805	C++	bamilan	
 100	62931	820000	C++	ValGrowth	
@@ -8,6 +8,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=389,time=2022-07-16 00:32:40
 100	62454	3918583	Rust	mikmak	
 100	61674	3902927	Python3	Bulgot	
 100	61250	2311105	C++	kovi	
+100	60735	1537951	Java	Nerchio	
 100	60348	3647844	Python3	rc95401	
 100	59793	4399833	C++	Peterpanda	
 100	58458	4277867	D	About	
@@ -50,6 +51,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=389,time=2022-07-16 00:32:40
 100	49769	3337117	Python3	timbersson	
 100	49764	3446473	Javascript	proprofondo	
 100	46407	4811550	Python3	lyconide	
+100	45525	335954	Java	nmahoude	
 100	44754	2463909	Kotlin	ckobayashi	
 100	43390	4974792	Python3	coutinho97	
 100	43390	1388952	Scala	Nik95	
@@ -73,7 +75,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=389,time=2022-07-16 00:32:40
 100	32386	3457031	C++	YurkovAS	
 100	31915	3700629	TypeScript	serialgg	
 100	31441	2948040	Javascript	Pouyou	
-100	31269	1537951	Java	Nerchio	
 100	30848	2616395	Javascript	welder	
 100	28762	1412263	PHP	PatrickMcGinnisII	
 100	28611	4935186	Python3	Gabay	
@@ -165,6 +166,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=389,time=2022-07-16 00:32:40
 100	14880	3118570	C++	Razovsky	
 100	14600	4031451	Java	pbou	
 100	14202	837350	Python3	BorisZ	
+100	13815	4063012	Java	LecOtio	
 100	13620	994468	C++	darkdieg	
 100	13500	2583545	C#	JasonGreen1	
 100	13500	4598834	Python3	Lynch[0]	
@@ -191,7 +193,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=389,time=2022-07-16 00:32:40
 100	9500	4982130	C++	EverKatniss	
 100	9382	3845610	Python3	pardouin	
 100	9300	1547956	Python3	BlaiseTano	
-100	9300	4063012	Java	LecOtio	
 100	8800	3221991	C++	JosiahWI	
 100	7988	2855929	C#	Smour	
 100	7800	4658485	Python3	I_love_CoC	
@@ -388,3 +389,4 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=389,time=2022-07-16 00:32:40
 100	0	4982543	Python3	Lone_Wolf.013	
 100	0	4508271	Python3	Thorcode	
 100	0	4236076	Go	guedel	
+100	0	4470306	Rust	NONstope	

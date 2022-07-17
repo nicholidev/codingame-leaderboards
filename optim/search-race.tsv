@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=854,time=2022-07-16 00:32:39
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=855,time=2022-07-17 00:35:32
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -815,6 +815,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=854,time=2022-07-16 00:32:39
 40	40123.36000000001	1835014	C	Frits	
 38	39536.13999999999	2928146	PHP	LolCat	
 36	41256.600000000006	3494301	Python3	CoreyCV	
+30	41983.66	4897675	Python3	Tybos	
 28	41979.189999999995	4030622	Javascript	Keongy	
 28	42412.28	1684020	Python3	tom_	
 28	42412.280000000006	3253187	Haskell	mivael	
