@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=391,time=2022-07-17 00:35:33
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=392,time=2022-07-18 00:58:48
 100	62936	977117	C++	Psyho	
 100	62932	2077805	C++	bamilan	
 100	62931	820000	C++	ValGrowth	
@@ -6,9 +6,9 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=391,time=2022-07-17 00:35:33
 100	62906	3903473	Python3	Konstant	
 100	62885	4257906	Rust	NotSureWhyThisWorks	
 100	62454	3918583	Rust	mikmak	
+100	61771	1537951	Java	Nerchio	
 100	61674	3902927	Python3	Bulgot	
 100	61250	2311105	C++	kovi	
-100	60735	1537951	Java	Nerchio	
 100	60348	3647844	Python3	rc95401	
 100	59793	4399833	C++	Peterpanda	
 100	58458	4277867	D	About	
@@ -26,6 +26,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=391,time=2022-07-17 00:35:33
 100	53209	3376722	Python3	oolivierr	
 100	53107	1802967	Python3	Meruem	
 100	52969	973040	F#	papyjo	
+100	52717	335954	Java	nmahoude	
 100	52377	4679461	Python3	K0ub	
 100	52347	1861258	Rust	Nazdhun	
 100	52285	4275410	Javascript	rk2021	
@@ -51,7 +52,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=391,time=2022-07-17 00:35:33
 100	49769	3337117	Python3	timbersson	
 100	49764	3446473	Javascript	proprofondo	
 100	46407	4811550	Python3	lyconide	
-100	45525	335954	Java	nmahoude	
 100	44754	2463909	Kotlin	ckobayashi	
 100	43390	4974792	Python3	coutinho97	
 100	43390	1388952	Scala	Nik95	
@@ -390,3 +390,4 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=391,time=2022-07-17 00:35:33
 100	0	4508271	Python3	Thorcode	
 100	0	4236076	Go	guedel	
 100	0	4470306	Rust	NONstope	
+100	0	4993321	C++	Kien123	
