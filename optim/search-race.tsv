@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=855,time=2022-07-18 00:58:46
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=856,time=2022-07-19 00:37:14
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -22,8 +22,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=855,time=2022-07-18 00:58:46
 100	10899.320000000002	154984	C++	_Royale	
 100	10919.46	2924895	C	trictrac	
 100	10935.47	735910	C++	Agade	
+100	10946.98	826372	Java	skyyker	
 100	10985.34	2311105	C++	kovi	
-100	11003.22	826372	Java	skyyker	
 100	11041.709999999995	2254195	Java	BrunoFelthes	
 100	11066.54	1106450	C++	RiSuS	
 100	11070.630000000005	1314316	C++	jolindien	
@@ -854,3 +854,4 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=855,time=2022-07-18 00:58:46
 0	50000	4811793	Python3	Verest_ven	
 0	50000	4717726	Python3	[Nexure]	
 0	50000	1614770	Python3	AdmiralShadow	
+0	50000	3535836	Python3	Thanh2022	
