@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6584,time=2022-07-20 00:37:14
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6584,time=2022-07-21 00:31:42
 5	31.53	3193653	3004019	C++	karliso	
 5	31.39	880353	2975979	C++	zasmu	
 5	31.07	1082988	2982332	C++	Saelyos	
@@ -775,7 +775,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6584,time=2022-07-20 00:37:
 3	25.33	1549145	2976014	C++	Mealc	
 3	25.21	2849183	3556349	Java	thebitspud	
 3	24.92	3800302	3459454	C++	v.cogut	
-3	24.9	300573	4399247	Rust	heretiK	
 3	24.88	3938395	3754079	C++	Quentin18	
 3	24.8	2990918	2979626	TypeScript	Dingodino	
 3	24.75	3783901	2976108	Python3	rlucas585	
@@ -812,7 +811,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6584,time=2022-07-20 00:37:
 3	24.2	1529396	2976805	Python3	ulukai	
 3	24.18	2729055	2980513	Python3	twray2	
 3	24.17	172938	2979616	PHP	kuzmaka	
-3	24.16	3680541	2977492	Java	Asela	
 3	24.15	3803789	2980305	Java	jeffreyxiao	
 3	24.14	3804005	2977797	Java	GlitchyByte	
 3	24.14	1062962	2980397	C++	ArmandO.S.	
@@ -820,6 +818,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6584,time=2022-07-20 00:37:
 3	24.13	1947436	2980511	C++	MoosPow	
 3	24.09	1506970	2976707	C#	Speedrun	
 3	24.08	2458172	2978312	C++	CaptainHamburger	
+3	24.08	3680541	2977492	Java	Asela	
 3	24.06	281532	2976665	Scala	SekoUrsil	
 3	24.01	849746	2976425	Python3	lmj	
 3	23.98	3380514	2976519	Java	DFrese	
@@ -941,6 +940,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6584,time=2022-07-20 00:37:
 3	22.5	4989252	4398441	Ruby	rezigned	
 3	22.49	3818278	2975715	C++	_____snow_____	
 3	22.47	3765905	2979695	Python3	edramire	
+3	22.47	3500889	3151415	Java	oPyRuSo	
 3	22.46	3817179	2976059	C#	MAPATKO	
 3	22.43	3772630	2979846	Go	BattleRattle	
 3	22.41	3553687	2976662	Java	ChrisJM	
@@ -954,7 +954,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6584,time=2022-07-20 00:37:
 3	22.35	1976585	2976728	C++	TheMadOcarina	
 3	22.35	2453008	3016804	Python3	Crypticsy	
 3	22.35	1807733	2976181	Python3	NoZ-	
-3	22.34	3500889	3151415	Java	oPyRuSo	
 3	22.34	1443538	2978237	Java	Tux4711	
 3	22.34	2824703	2976426	C#	NormantasStankevicius	
 3	22.34	2154217	2979149	Java	EliasCanalesNieto	
@@ -998,4 +997,5 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6584,time=2022-07-20 00:37:
 3	22.14	3597780	2975812	Python3	EParisot	
 3	22.13	1373231	2980233	Python3	shypiguy	
 3	22.13	2056541	2977345	Java	PeF	
+3	22.13	2313474	2987655	Java	EmmanuelPires	
 3	22.12	3926245	4306674	C#	afifix	
