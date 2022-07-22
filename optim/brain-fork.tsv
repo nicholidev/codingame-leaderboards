@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6278,time=2022-07-21 00:31:44
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6280,time=2022-07-22 00:43:24
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -354,6 +354,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6278,time=2022-07-21 00:31:44
 100	4324	1838612	Rust	statiolake	
 100	4325	574693	Java	Bikecicle	
 100	4333	1457223	C++	jleconte	
+100	4334	4949237	C#	FragJage	
 100	4337	194467	C++	funkeejeffou	
 100	4337	1290569	Python3	a76a44	
 100	4340	1178276	Java	Jerome_95	
@@ -499,7 +500,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6278,time=2022-07-21 00:31:44
 100	4822	1747684	C#	Enot_Rakoed	
 100	4825	860239	Java	Neilura	
 100	4826	3917420	Python3	trold	
-100	4831	4306157	Python3	Leuti	
+100	4827	4306157	Python3	Leuti	
 100	4840	4338213	Python3	rfe	
 100	4847	1853772	Python3	rickert	
 100	4856	897543	C++	Peiffer-antoine.fr	
@@ -799,7 +800,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6278,time=2022-07-21 00:31:44
 100	5760	1303159	C++	StarFox	
 100	5761	2791601	Python3	wjan	
 100	5761	3802525	C#	Chibikko	
-100	5763	4949237	C#	FragJage	
 100	5764	522661	Scala	aerosoul	
 100	5764	1840946	Ruby	zazaboon	
 100	5765	1858764	Python3	vdevid	
@@ -861,6 +861,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6278,time=2022-07-21 00:31:44
 100	5819	1628347	C++	wieczyk	
 100	5819	1667366	C	Rasky	
 100	5819	4275410	Javascript	rk2021	
+100	5820	4718620	Pascal	Hieronymus	
 100	5821	530441	C++	Prime541	
 100	5821	3436443	Python3	Mazelcop	
 100	5824	3868172	C++	Desjardins	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6278,time=2022-07-21 00:31:44
 100	5860	884874	D	Zauberer	
 100	5860	4144079	Java	raphau	
 100	5860	3744084	Python3	racaillou	
-100	5860	3366686	Python3	FAngelo94	

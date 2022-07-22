@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=358,time=2022-07-21 00:31:46
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=360,time=2022-07-22 00:43:26
 100	291	2288263	Rust	dbdr	
 100	293	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -15,6 +15,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=358,time=2022-07-21 00:31:46
 100	308	3918583	Rust	mikmak	
 100	308	4257906	Rust	NotSureWhyThisWorks	
 100	309	3621947	C	vrabosh	
+100	309	2522090	C++	MSmits	
 100	310	3903473	C++	Konstant	
 100	311	524638	C++	miklla	
 100	311	1336464	C++	magaiti	
@@ -298,6 +299,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=358,time=2022-07-21 00:31:46
 26.08695652173913	11553	4309574	Python3	KornDV	
 23.91304347826087	10585	1114496	Python3	BlasphemousCrossbreed	
 23.91304347826087	10593	1426685	C++	glebc	
+23.91304347826087	10863	4075712	Python3	bsapozhnikov	
 21.73913043478261	11029	4275035	Java	TsuNaMy4513	
 21.73913043478261	11234	1713174	Python3	BigUP	
 21.73913043478261	11250	4153433	Java	Deytrino	
