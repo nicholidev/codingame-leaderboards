@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=360,time=2022-07-23 00:38:47
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=360,time=2022-07-24 00:30:57
 100	291	2288263	Rust	dbdr	
 100	293	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -37,6 +37,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=360,time=2022-07-23 00:38:47
 100	320	1480426	C++	Hikari42	
 100	320	3741524	C	princess_of_zeal	
 100	321	3839774	Rust	gurvan_lullien	
+100	321	2968035	C++	DomiKo	
 100	322	1883740	C++	kermo	
 100	322	2350415	C++	Vintarel	
 100	323	1854246	C++	Counterbalance	
@@ -117,6 +118,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=360,time=2022-07-23 00:38:47
 100	820	4061329	C++	KLPP	
 100	828	2398608	Python3	M_C	
 100	847	3711954	Python3	kpjl	
+100	852	4075712	Python3	bsapozhnikov	
 100	890	1457162	Python3	JFB	
 100	907	2058158	Python3	RolandKnight	
 100	926	2660470	Java	Perdur	
@@ -129,7 +131,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=360,time=2022-07-23 00:38:47
 100	993	1910916	C#	VivienBillot	
 100	994	1229038	Python3	Kirsan	
 100	996	4000809	Kotlin	rst10h	
-100	1005	2968035	C++	DomiKo	
 100	1017	4039528	Python3	Elnaril	
 100	1024	3184049	Python3	ghhttt	
 100	1037	1782814	C#	Trilusion	
@@ -277,7 +278,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=360,time=2022-07-23 00:38:47
 43.47826086956522	9188	2478222	Python3	N4th	
 43.47826086956522	9344	2536589	Java	mjfcolas	
 41.30434782608695	8228	1050420	Python3	boi_led_egg	
-41.30434782608695	8813	4075712	Python3	bsapozhnikov	
 41.30434782608695	8830	2666105	Python3	win87	
 39.130434782608695	8520	3353015	Python3	Salted	
 39.130434782608695	8607	4210403	Python3	Sjeckem	

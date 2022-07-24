@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=35,time=2022-07-23 00:30:11
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=36,time=2022-07-24 00:30:37
 1	42.91	3136787	3879250	C++	jacek	
 1	37.35	2924895	3864336	C	trictrac	
 1	31.08	1540478	3861097	C++	struct	
@@ -20,17 +20,18 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=35,time=2022-07-23 00:30:11
 0	18.01	3141948	3865108	Python3	philRG	
 0	13.09	2069141	4294627	C#	tomeko	
 0	12	4626700	3955767	PHP	JohnyDarecek	
-0	11.96	973040	3909765	F#	papyjo	
-0	11.95	3569066	3861081	C++	derjack	
-0	11.89	2325449	3992974	Perl	otpv	
-0	11.84	1883670	4398213	Javascript	radekmie	
-0	11.81	3354337	4070318	C++	Westicles	
-0	11.69	4277867	4402669	D	About	
-0	11.68	4183089	3985095	Python3	PringleOrange	
-0	11.66	2779063	4397214	Python3	LegendsOfCodeAndMagic	
-0	11.66	3230794	4064112	Python3	tutubalin	
-0	11.6	4646980	3985584	Python3	Kururugi	
-0	11.57	4508271	3906830	Python3	Thorcode	
-0	11.36	4282042	4397268	Java	aCatAI	
-0	11.05	1713174	3874782	Python3	BigUP	
-0	-4.14	484004	4397126	Rust	aCat	
+0	12	3569066	3861081	C++	derjack	
+0	11.98	1883670	4398213	Javascript	radekmie	
+0	11.97	973040	3909765	F#	papyjo	
+0	11.92	2325449	3992974	Perl	otpv	
+0	11.83	2779063	4397214	Python3	LegendsOfCodeAndMagic	
+0	11.83	4183089	3985095	Python3	PringleOrange	
+0	11.78	4277867	4402669	D	About	
+0	11.71	3230794	4064112	Python3	tutubalin	
+0	11.69	3354337	4070318	C++	Westicles	
+0	11.67	4646980	3985584	Python3	Kururugi	
+0	11.63	4508271	3906830	Python3	Thorcode	
+0	11.59	3344383	4404123	C++	Czejoo	
+0	11.37	4282042	4397268	Java	aCatAI	
+0	11.3	1713174	3874782	Python3	BigUP	
+0	-4.22	484004	4397126	Rust	aCat	
