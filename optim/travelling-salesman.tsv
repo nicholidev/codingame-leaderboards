@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=238,time=2022-07-25 00:30:28
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=241,time=2022-07-26 00:30:28
 100	201382	2288263	Rust	dbdr	
 100	201382	4277867	D	About	
 100	201382	2077805	C++	bamilan	
@@ -13,6 +13,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=238,time=2022-07-25 00:30:28
 100	202103	3918583	Rust	mikmak	
 100	202139	2786666	C++	TetraktysPhi	
 100	202184	2311105	C++	kovi	
+100	202884	2968035	Python3	DomiKo	
 100	203031	1436776	C++	BrainSolver	
 100	203193	837436	C++	aropan	
 100	204027	3902927	Python3	Bulgot	
@@ -25,6 +26,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=238,time=2022-07-25 00:30:28
 100	205449	2451652	Java	code_of_the_dead	
 100	205481	4717726	C++	[Nexure]	
 100	205986	580424	C++	siman	
+100	206247	3535836	Python3	Thanh2022	
 100	206555	155774	C++	dwarfie	
 100	207158	3335896	C++	_martynas	
 100	207167	2007852	Lua	Zorg1	
@@ -115,6 +117,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=238,time=2022-07-25 00:30:28
 100	240723	3657937	Python3	elderlybeginner	
 100	240723	2616395	Javascript	welder	
 100	240892	4441094	Python3	Oric1	
+100	243801	3368067	Java	jgall	
 100	244644	2202771	Java	Kaplone	
 100	244834	4438822	Python3	ludodul	
 100	244945	2110342	Javascript	lchenay	
@@ -122,6 +125,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=238,time=2022-07-25 00:30:28
 100	246872	999637	Python3	dinobogan	
 100	247358	2625928	C#	Leonard.	
 100	247996	2628455	Python3	PDF	
+100	248007	3478673	Javascript	never-again	
 100	248048	4073854	Python3	Buk.	
 100	248147	4888782	PHP	xavier-dubreuil	
 100	248616	3533119	C++	wlesavo	
@@ -186,14 +190,15 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=238,time=2022-07-25 00:30:28
 100	250555	380805	TypeScript	Xtendz	
 100	250784	1179357	Rust	avdg	
 100	254188	3922731	Dart	Dartisan	
+100	257411	4871515	Rust	cl17	
 100	258239	992549	Java	Thaddy	
 100	268561	4062203	C++	soraie	
 100	279615	270881	Python3	Maurice_Moss	
 100	310436	4245841	C++	ADsun	
 100	316387	4537924	C++	ArtesScytale	
 100	318303	862919	C++	Astrobytes	
+100	319689	3094191	C++	GeraldJB	
 100	328546	1132011	C#	pci	
-100	338071	3094191	C++	GeraldJB	
 100	344482	1579627	C#	Bahrani	
 100	363220	4897675	Python3	Tybos	
 100	419282	1883740	C++	kermo	
@@ -201,8 +206,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=238,time=2022-07-25 00:30:28
 100	446137	4081634	Javascript	Wontonimo	
 100	452120	1473789	C++	jebouin	
 100	462125	1129326	Python3	CeliTop	
-100	588684	4871515	Rust	cl17	
-100	637532	3368067	Java	jgall	
 100	736037	3376722	Python3	oolivierr	
 100	805889	4916990	C++	YeLone-Chen	
 100	976283	894599	Java	DidierC	
@@ -211,8 +214,10 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=238,time=2022-07-25 00:30:28
 100	1050053	3268086	Javascript	Xaetral	
 100	1050053	4213251	C#	FrancisTafe	
 100	1320187	4756693	Python3	MorningWalk	
+100	1320187	4461635	Python3	Tibirius	
 100	1320334	2364617	C++	RomainPicot	
 100	1320334	425462	Python3	Azt-yur	
+100	1326249	4865140	Go	demetedPufferfish	
 100	1620202	4815186	Javascript	Nab1ee	
 100	1947232	2874091	Python3	5DN1L	
 100	2193922	4122723	Python3	Hydrazer	
@@ -232,8 +237,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=238,time=2022-07-25 00:30:28
 100	2784200	4211056	C#	Nachosauce	
 100	3211740	1378958	C#	Illedan	
 100	3246732	1500515	Python3	eulerscheZahl	
-0	-15	2968035	C++	DomiKo	
 0	-15	4899415	C++	vvgf	
 0	-15	4436271	Python3	Ayza	
-0	-15	3535836	Python3	Thanh2022	
 0	0	4759510	Java	Darleanow	
