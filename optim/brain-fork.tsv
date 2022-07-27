@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6292,time=2022-07-26 00:30:26
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6297,time=2022-07-27 00:30:31
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -350,6 +350,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6292,time=2022-07-26 00:30:26
 100	4308	4308802	Java	Ascodran	
 100	4310	155896	PHP	gamoul	
 100	4317	947693	Java	Sunglow	
+100	4319	2364805	Python3	LauriK	
 100	4321	3239970	Java	solaimanope	
 100	4323	4090777	Java	neilnh	
 100	4324	1838612	Rust	statiolake	
@@ -368,7 +369,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6292,time=2022-07-26 00:30:26
 100	4349	1076740	Python3	Nazo	
 100	4352	199646	Ruby	netoctone	
 100	4354	1863721	C#	intain	
-100	4358	2364805	Python3	LauriK	
 100	4359	1511645	Python3	OleksandrVoytsekhovskyy	
 100	4366	374125	C#	FlowerCoder	
 100	4369	828317	C++	bombardier	
@@ -569,6 +569,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6292,time=2022-07-26 00:30:26
 100	5277	3358736	Java	BuluBulu27	
 100	5278	248263	PHP	NewboO	
 100	5288	4134816	Python3	.[-.-].	
+100	5292	4994436	Python3	ldvcgllm	
 100	5293	1353669	Python3	XAnimaX	
 100	5296	3077269	TypeScript	fieldy_rockz	
 100	5300	586933	C++	cems	
@@ -766,7 +767,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6292,time=2022-07-26 00:30:26
 100	5724	1704251	C	Olmagzar	
 100	5724	4256559	Kotlin	pkostua	
 100	5726	4136008	Python3	jerry_laevis	
-100	5726	4994436	Python3	ldvcgllm	
 100	5728	952626	OCaml	Tesseract	
 100	5728	331880	Scala	Monstruo	
 100	5728	4771383	Python3	Mythael	
