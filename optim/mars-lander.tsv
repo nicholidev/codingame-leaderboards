@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5559,time=2022-07-27 00:30:31
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5564,time=2022-07-28 01:00:06
 100	2509	1327028	C++	FredericBautista	
 100	2507	154372	Bash	Plopx	
 100	2504	1249786	C#	Fededevi	
@@ -10,12 +10,12 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5559,time=2022-07-27 00:30:31
 100	2493	588426	Bash	Jeff06	
 100	2492	1399382	C#	Regulus136	
 100	2490	2968035	C++	DomiKo	
+100	2487	3647844	Python3	rc95401	
 100	2485	1039809	C#	Azziliz	
 100	2485	154984	PHP	_Royale	
 100	2481	3903473	Python3	Konstant	
 100	2478	338469	C++	__mcts__	
 100	2477	1201783	Python3	qsantos	
-100	2477	3647844	Python3	rc95401	
 100	2476	1629259	C#	Marchete	
 100	2476	1156834	Python3	dave9000	
 100	2476	893541	Java	wala	
@@ -695,6 +695,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5559,time=2022-07-27 00:30:31
 100	1991	4759510	Java	Darleanow	
 100	1991	4122723	Java	Hydrazer	
 100	1991	4377989	Java	khanglovesIT	
+100	1991	4199011	Java	MarTiaNe	
+100	1991	3498135	Java	ThierryPelouse	
 100	1990	876163	C#	AY1111	
 100	1990	1393802	Python3	amzh	
 100	1990	3762699	C	Nolliwood	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5559,time=2022-07-27 00:30:31
 100	1871	1310195	Python3	FuHok	
 100	1870	3895848	Ruby	fboccacini	
 100	1868	959757	Python3	buffer[]	
-100	1868	1279751	Rust	Tudou	
-100	1868	3930101	C#	MS1337	

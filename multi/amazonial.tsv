@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1719,time=2022-07-27 00:30:23
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1719,time=2022-07-28 00:59:59
 6	42.9	1400179	1501706	C++	reCurse	
 6	40.21	351062	2139699	C++	Neumann	
 6	37.53	3457031	3916653	C++	YurkovAS	
@@ -922,6 +922,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1719,time=2022-07-27 00:30:
 2	21.89	1520245	1917235	Python3	arxadev	
 2	21.72	1757404	1407116	C++	Firen95	
 2	21.6	3465969	3464214	Python3	ALCAA	
+2	21.58	2409067	4007834	Python3	CV13	
 2	21.55	4075986	3459378	Python3	Babadude	
 2	21.55	2350415	3846570	C++	Vintarel	
 2	21.53	2200765	1481718	Java	davgast	
@@ -929,10 +930,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1719,time=2022-07-27 00:30:
 2	21.52	4684374	4007833	Python3	Teunisv	
 2	21.52	4423522	3846565	Python3	maderovs	
 2	21.51	3975966	3474850	Python3	HoussemH	
-2	21.46	2409067	4007834	Python3	CV13	
+2	21.42	2653642	2316867	Python3	AnhDuyNguyen	
 2	21.4	1478706	3439217	Python3	The-Dude	
 2	21.39	2472606	3035853	Python3	MehdiTouil	
-2	21.38	2653642	2316867	Python3	AnhDuyNguyen	
 2	21.33	3308418	3938431	Python3	Utkarsh554	
 2	21.33	1981806	1408363	Python3	akeybako	
 2	21.31	1480242	1406214	Python3	daniel83fr	
@@ -957,7 +957,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1719,time=2022-07-27 00:30:
 2	20.64	1782216	1405153	C#	safulkin	
 2	20.56	3494301	3751617	Python3	CoreyCV	
 2	20.52	1977301	1457554	Java	Nasha	
-2	20.48	1397828	1421311	C++	_ryuu	
+2	20.49	1397828	1421311	C++	_ryuu	
 2	20.45	2074414	1627714	Python3	Lecerf	
 2	20.39	1374052	1406688	Java	Pesegato	
 2	20.38	3922731	3626303	Dart	Dartisan	
@@ -989,7 +989,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1719,time=2022-07-27 00:30:
 2	17	4652450	3954681	Python3	31416	
 2	16.9	1035630	3848456	Java	Vestiaz	
 2	16.55	2145291	1438197	Java	FogOfPain	
-2	16.43	2986209	2198229	Java	LesMinus	
+2	16.48	2986209	2198229	Java	LesMinus	
 2	16.31	1941799	1408587	C++	mcale	
 2	16.24	1545656	1393926	Ruby	mvren	
 2	16.06	1556368	1446348	Javascript	ATA_	

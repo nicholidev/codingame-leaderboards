@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=857,time=2022-07-27 00:30:33
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=857,time=2022-07-28 01:00:08
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -290,6 +290,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=857,time=2022-07-27 00:30:33
 100	17627.05	4746858	Python3	NrpYt7xe	
 100	17647	4372857	C++	Sirios	
 100	17653.620000000003	4726948	Python3	Mince	
+100	17654.530000000002	4865140	Go	demetedPufferfish	
 100	17663.67000000001	4802798	Python3	irina_nik	
 100	17669.659999999996	4743232	C#	TonyCardio	
 100	17672.68	4746860	Python3	3axapka	
@@ -435,7 +436,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=857,time=2022-07-27 00:30:33
 100	21369.98	1217418	Javascript	Methral	
 100	21412.78000000001	4761846	Python3	marakinina	
 100	21415.040000000005	1287344	Python3	Alshock	
-100	21420.4	4865140	Go	demetedPufferfish	
 100	21431.25999999999	3845610	Python3	pardouin	
 100	21439.179999999997	4813001	Python3	funch0za	
 100	21446.15	3724738	C++	BoatBuilder	
