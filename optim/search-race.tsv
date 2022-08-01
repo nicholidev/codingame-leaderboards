@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=858,time=2022-07-31 00:53:20
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=859,time=2022-08-01 00:32:13
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -599,6 +599,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=858,time=2022-07-31 00:53:20
 98	21076.78	3514820	Python3	Inferno_dragon	
 98	21099.27	4508271	Python3	Thorcode	
 98	21407.499999999993	4450463	Java	RickJ	
+98	21634.51000000001	4136008	Python3	jerry_laevis	
 98	22002.699999999997	4809619	Python3	dart_meller	
 98	22230.06	4614331	Python3	Abh1	
 98	22341.129999999994	4813292	Python3	ollxko	

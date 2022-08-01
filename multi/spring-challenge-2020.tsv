@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6599,time=2022-07-31 00:53:15
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6599,time=2022-08-01 00:32:07
 5	31.53	3193653	3004019	C++	karliso	
 5	31.39	880353	2975979	C++	zasmu	
 5	31.07	1082988	2982332	C++	Saelyos	
@@ -833,13 +833,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6599,time=2022-07-31 00:53:
 3	23.9	3586448	2980036	Python3	LeoT	
 3	23.9	3380514	2976519	Java	DFrese	
 3	23.88	2258829	3024505	C#	Hiker	
+3	23.88	900403	2980306	C++	0xC0FFEE	
 3	23.88	2102562	2979948	Python3	lyan	
 3	23.87	4402003	3796999	Java	10002	
 3	23.85	849746	2976425	Python3	lmj	
 3	23.85	648751	2978370	Haskell	dabino	
 3	23.84	1479137	3114400	C++	lorenzods	
 3	23.83	225875	2990713	C#	Leff	
-3	23.83	900403	2980306	C++	0xC0FFEE	
 3	23.82	1422936	2979359	Java	Luky	
 3	23.82	518243	2977062	C++	mbaros	
 3	23.81	3199548	2980221	C#	yonder83	
@@ -859,11 +859,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6599,time=2022-07-31 00:53:
 3	23.66	4066925	3412303	Python3	KrysmaCZ	
 3	23.66	4284674	3807799	Java	GuruLeo	
 3	23.66	3719253	2979699	Javascript	daffie	
-3	23.64	3419294	2976000	Javascript	Sissiimperatice	
 3	23.63	3414155	2977392	Scala	Smerk	
 3	23.62	227869	2978054	C++	CarniBlood	
 3	23.62	3764223	2978272	Go	ywake	
 3	23.62	2443365	2979951	Javascript	Lulemair	
+3	23.59	3419294	2976000	Javascript	Sissiimperatice	
 3	23.59	1452449	2977216	Java	m4nu8untu	
 3	23.59	4375436	3734490	Go	spinner-web	
 3	23.54	3563879	2975920	C#	Lugger	
@@ -926,7 +926,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6599,time=2022-07-31 00:53:
 3	23.04	3102977	2977642	Python3	Aprillion	
 3	23.02	3795574	2978549	Javascript	Iron-postier	
 3	23.01	1205152	2977612	Javascript	cfoll	
-3	22.98	3523406	2976755	Java	Pansier	
+3	22.95	3523406	2976755	Java	Pansier	
 3	22.95	154806	2979702	Python3	piwai	
 3	22.86	153045	2979746	C++	nib	
 3	22.81	1194069	3407975	Java	Redstrike	
@@ -957,6 +957,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6599,time=2022-07-31 00:53:
 3	22.36	3478926	3123865	C	Alexis.D	
 3	22.35	1976585	2976728	C++	TheMadOcarina	
 3	22.35	2453008	3016804	Python3	Crypticsy	
+3	22.35	1182388	3374671	Javascript	MiNhon	
 3	22.34	1443538	2978237	Java	Tux4711	
 3	22.34	2824703	2976426	C#	NormantasStankevicius	
 3	22.33	3329141	3038348	C#	andrea_angella	
@@ -965,7 +966,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6599,time=2022-07-31 00:53:
 3	22.3	4119720	3487811	C++	maniekTC	
 3	22.3	1077559	2979824	Java	PhOeNyX	
 3	22.3	3093780	2976177	Java	Stanhope	
-3	22.3	1182388	3374671	Javascript	MiNhon	
 3	22.29	3004542	2978235	Java	GaborHutya	
 3	22.29	3772630	2979846	Go	BattleRattle	
 3	22.28	2833733	3004906	Python3	pez	
