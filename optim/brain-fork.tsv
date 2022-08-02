@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6311,time=2022-08-01 00:32:10
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6313,time=2022-08-02 00:30:25
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -230,6 +230,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6311,time=2022-08-01 00:32:10
 100	3983	981878	Java	nicolasD	
 100	3984	165671	Python3	LoopCodeRecur	
 100	3991	1802935	C#		
+100	3993	4337092	Python3	Timinator	
 100	3996	320053	PHP	Zbug	
 100	3997	876163	C#	AY1111	
 100	4001	1485699	Python3	TabulaRasa	
@@ -857,6 +858,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6311,time=2022-08-01 00:32:10
 100	5809	3770485	C++	zakki	
 100	5811	1706883	C#	CommanderCero	
 100	5811	2320186	Java	aPoStAl	
+100	5811	4997385	C++	Bystri	
 100	5812	2932889	Python3	shushiri	
 100	5814	3509975	Pascal	bneumann	
 100	5815	186405	C#	d-mark	
@@ -888,6 +890,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6311,time=2022-08-01 00:32:10
 100	5838	971145	Python3	FranzR	
 100	5839	389632	Python3	ma	
 100	5839	1805927	Python3	jediknightjared	
+100	5839	2622559	Javascript	Gripnil	
 100	5840	817076	C++	IonutSimion	
 100	5840	1050490	C++	Snark_Chaser	
 100	5840	1197593	Javascript	NatNgs	
@@ -996,6 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6311,time=2022-08-01 00:32:10
 100	5860	2709791	Python3	YOMar	
 100	5860	762642	Python3	Wonyoung	
 100	5860	2858320	C++	Loule	
-100	5860	1657904	Python3	yschou	
-100	5860	1688826	TypeScript	statox	
-100	5860	1863217	C	Draradech	

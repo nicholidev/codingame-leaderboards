@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=363,time=2022-08-01 00:32:12
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=365,time=2022-08-02 00:30:27
 100	291	2288263	Rust	dbdr	
 100	293	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -164,6 +164,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=363,time=2022-08-01 00:32:12
 100	1597	4285437	Javascript	t3st1	
 100	1616	2266968	Python3	Steve2072	
 100	1618	1441239	Javascript	Dyd	
+100	1647	1348635	Ruby	ferbos	
 100	1697	894599	Java	DidierC	
 100	1698	1466631	Python3	Akrib	
 100	1730	2064637	Java	java_coffee_cup	
@@ -362,3 +363,4 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=363,time=2022-08-01 00:32:12
 0	13846	3556476	Python3	YohanC	
 0	13846	4353077	D	ast191001	
 0	13846	2765000	Javascript	Nowan	
+0	13846	342576	C++	oros	

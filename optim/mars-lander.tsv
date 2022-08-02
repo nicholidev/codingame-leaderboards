@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5584,time=2022-08-01 00:32:10
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5588,time=2022-08-02 00:30:25
 100	2509	1327028	C++	FredericBautista	
 100	2507	154372	Bash	Plopx	
 100	2504	1249786	C#	Fededevi	
@@ -11,9 +11,9 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5584,time=2022-08-01 00:32:10
 100	2492	1399382	C#	Regulus136	
 100	2490	2968035	C++	DomiKo	
 100	2487	3647844	Python3	rc95401	
+100	2487	3903473	Python3	Konstant	
 100	2485	1039809	C#	Azziliz	
 100	2485	154984	PHP	_Royale	
-100	2481	3903473	Python3	Konstant	
 100	2478	338469	C++	__mcts__	
 100	2477	1201783	Python3	qsantos	
 100	2476	1629259	C#	Marchete	
@@ -699,6 +699,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5584,time=2022-08-01 00:32:10
 100	1991	4377989	Java	khanglovesIT	
 100	1991	4199011	Java	MarTiaNe	
 100	1991	3498135	Java	ThierryPelouse	
+100	1991	4000888	Java	rico46	
 100	1990	876163	C#	AY1111	
 100	1990	1393802	Python3	amzh	
 100	1990	3762699	C	Nolliwood	
@@ -946,7 +947,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5584,time=2022-08-01 00:32:10
 100	1889	3526150	Java	Miek93	
 100	1889	4288730	Java	SkyfightTV	
 100	1889	4288724	Java	RenardFute	
-100	1888	1778304	Java	smiley_mechant	
+100	1888	1778304	Java	Mad_Smiley	
 100	1888	153683	Dart	40R15T3	
 100	1888	4068670	Python3	lvk	
 100	1888	4340924	Python3	poplique	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5584,time=2022-08-01 00:32:10
 100	1872	1291145	C	Hich	
 100	1872	1492016	C#	Julien56	
 100	1871	971177	Java	davidlepilote	
-100	1871	1310195	Python3	FuHok	
