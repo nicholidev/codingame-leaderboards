@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=250,time=2022-08-02 00:30:28
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=250,time=2022-08-03 00:33:53
 100	201382	2288263	Rust	dbdr	
 100	201382	4277867	D	About	
 100	201382	2077805	C++	bamilan	
@@ -85,6 +85,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=250,time=2022-08-02 00:30:28
 100	224638	1838549	Rust	orangesnowfox	
 100	225332	4378731	Python3	_Pauk_	
 100	225413	4627200	Python3	Fwcode	
+100	226263	4949237	C#	FragJage	
 100	228711	1287344	C++	Alshock	
 100	228720	3343665	Rust	Quidome	
 100	229002	3368067	Java	jgall	
@@ -95,7 +96,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=250,time=2022-08-02 00:30:28
 100	231551	1243354	C++	RSBat	
 100	231750	2069141	C#	tomeko	
 100	232969	4668562	Python3	theaddyct	
-100	233163	4949237	C#	FragJage	
 100	234148	4134943	Python3	vinc-r	
 100	234276	4760013	Python3	KinaKhongs	
 100	234565	925695	OCaml	Boulet	
@@ -201,8 +201,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=250,time=2022-08-02 00:30:28
 100	257411	4871515	Rust	cl17	
 100	258239	992549	Java	Thaddy	
 100	268561	4062203	C++	soraie	
+100	276301	3094191	C	GeraldJB	
 100	279615	270881	Python3	Maurice_Moss	
-100	281298	3094191	C	GeraldJB	
 100	310436	4245841	C++	ADsun	
 100	316387	4537924	C++	ArtesScytale	
 100	318303	862919	C++	Astrobytes	
