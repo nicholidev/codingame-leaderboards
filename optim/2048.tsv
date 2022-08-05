@@ -1,8 +1,8 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=892,time=2022-08-04 00:50:04
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=892,time=2022-08-05 01:05:20
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
+100	59353552	2436448	C++	FrancoisMeme	
 100	59353524	765200	Rust	FrancoisB	
-100	59353476	2436448	C++	FrancoisMeme	
 100	59353464	3457031	C++	YurkovAS	
 100	59353440	3354337	C++	Westicles	
 100	59353048	1336464	C++	magaiti	
@@ -139,6 +139,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=892,time=2022-08-04 00:50:04
 100	2450728	3626782	Java	ItsNotABug	
 100	2423384	154354	OCaml	Fougere	
 100	2330276	2833929	Python3	pcourrousse	
+100	2327896	3705601	Java	ido_the_pro	
 100	2319324	4036456	Python3	JeremSwak	
 100	2264560	4662405	Python3	helpmefindaname	
 100	2253844	475740	C#	Serg	
@@ -151,7 +152,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=892,time=2022-08-04 00:50:04
 100	2000068	1413257	C#	Bavoen	
 100	1923056	3958314	PHP	NicoDeug	
 100	1830476	3317816	Java	Jeeronimo	
-100	1816040	3705601	Java	ido_the_pro	
 100	1808372	3625469	Python3	Crimson_King	
 100	1767700	3525167	Java	fgsdt	
 100	1757832	1029663	C	Skreamly	
@@ -466,7 +466,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=892,time=2022-08-04 00:50:04
 100	47756	1221160	PHP	gendos_ua	
 100	47748	826671	Python3	kayou	
 100	47648	4059073	Python3	Sthaz	
-100	47348	3847872	Javascript	Gaspar-Cdv	
+100	47348	3847872	Javascript	[CG]Gaspar	
 100	47228	956529	C++	Moduus	
 100	46756	4261121	Python3	Louwi	
 100	46732	4100825	Javascript	ablin42	
