@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=859,time=2022-08-05 01:05:20
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=863,time=2022-08-06 00:30:30
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -9,6 +9,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=859,time=2022-08-05 01:05:20
 100	10637.02	1530051	C++	UlYoP	
 100	10643.479999999996	2007852	Go	Zorg1	
 100	10673.01	1415495	C	fenrir	
+100	10748.71	4876171	Python3	j4at	
 100	10750.69	1114834	C++	k4ng0u	
 100	10751.739999999994	1288527	C++	Snef	
 100	10751.95	2968035	Python3	DomiKo	
@@ -16,7 +17,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=859,time=2022-08-05 01:05:20
 100	10761.020000000002	893541	Java	wala	
 100	10785.819999999998	1838549	C++	orangesnowfox	
 100	10798.61	1566335	Java	BeardedWhale	
-100	10805.750000000002	4876171	Python3	j4at	
 100	10813.89	1540478	C++	struct	
 100	10866.450000000004	826372	Java	skyyker	
 100	10877.459999999995	2923506	C++	darkhorse64	
@@ -339,6 +339,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=859,time=2022-08-05 01:05:20
 100	19304.730000000003	4068866	Python3	JesseRichman	
 100	19307.64	4220057	Python3	EvilRed	
 100	19437.67	3518657	Python3	Obelix	
+100	19488.99	4717007	Python3	Anktinosia	
 100	19531.35	1543333	C++	ishibashijun	
 100	19591.360000000004	4813327	Python3	NikitaBaranov	
 100	19642.2	3513907	C++	Yorlock	
@@ -452,6 +453,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=859,time=2022-08-05 01:05:20
 100	21559.69	3763757	Rust	jiricodes	
 100	21611.72	2763458	Python3	Lokoslav	
 100	21621.090000000004	2719279	Python3	canag	
+100	21634.79	4023428	Java	HenTeK	
 100	21638.669999999995	1970506	Python3	Taldor	
 100	21648.860000000004	4245088	Python3	MiXFR	
 100	21675.71	4570225	Java	Hugo_godanceur	
@@ -465,6 +467,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=859,time=2022-08-05 01:05:20
 100	21761.30999999999	1979380	Python3	beatwinthewave	
 100	21767.910000000007	1467887	Java	Muscadeath	
 100	21805.94	3406987	Python3	Radu_Sav	
+100	21813.27	5017747	Python3	cfretter	
 100	21832.319999999996	3427517	Javascript	csysja	
 100	21848.929999999997	3255947	C#	sialino_florian	
 100	21862.029999999988	1630890	Java	Wld	
@@ -830,6 +833,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=859,time=2022-08-05 01:05:20
 12	46533.53999999999	3691491	Javascript	icecream17	
 10	47162.91	1523934	Kotlin	Touggo	
 8	47631.50000000001	4020110	C++	AlmostAtom	
+8	47789.02	3094191	C	GeraldJB	
 8	47880.37	3476964	Python3	Keltare	
 6	48315.86	4259591	Python3	yedi	
 4	48581.45	888358	Java	MinusKube	
