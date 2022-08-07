@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=251,time=2022-08-06 00:30:31
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=252,time=2022-08-07 00:32:19
 100	201382	2288263	Rust	dbdr	
 100	201382	4277867	D	About	
 100	201382	2077805	C++	bamilan	
@@ -206,8 +206,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=251,time=2022-08-06 00:30:31
 100	276301	3094191	C	GeraldJB	
 100	279615	270881	Python3	Maurice_Moss	
 100	310436	4245841	C++	ADsun	
+100	311467	862919	C++	Astrobytes	
 100	316387	4537924	C++	ArtesScytale	
-100	318303	862919	C++	Astrobytes	
 100	328546	1132011	C#	pci	
 100	344482	1579627	C#	Bahrani	
 100	363220	4897675	Python3	Tybos	
@@ -249,4 +249,5 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=251,time=2022-08-06 00:30:31
 100	3246732	1500515	Python3	eulerscheZahl	
 0	-15	4899415	C++	vvgf	
 0	-15	4436271	Python3	Ayza	
+0	-15	5021607	Python3		
 0	0	4759510	Java	Darleanow	
