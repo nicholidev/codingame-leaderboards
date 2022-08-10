@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=254,time=2022-08-09 01:02:38
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=256,time=2022-08-10 00:30:29
 100	201382	2288263	Rust	dbdr	
 100	201382	4277867	D	About	
 100	201382	2077805	C++	bamilan	
@@ -30,6 +30,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=254,time=2022-08-09 01:02:38
 100	206555	155774	C++	dwarfie	
 100	207158	3335896	C++	_martynas	
 100	207167	2007852	Lua	Zorg1	
+100	207522	3368067	Java	jgall	
 100	207940	992329	C++	BeeGee	
 100	208303	792813	Python3	VilBoub	
 100	209198	2962968	C#	Pukunya	
@@ -43,6 +44,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=254,time=2022-08-09 01:02:38
 100	210563	820000	C++	ValGrowth	
 100	210862	4083537	Python3	DavidAvsajanishvili	
 100	210883	2350415	C++	Vintarel	
+100	211310	3844625	C++	surgutti	
 100	211481	4754623	C++	kirillkulemin	
 100	211604	4726885	C++	Boooooooo	
 100	211747	2500089	C++	Fantomat75	
@@ -63,7 +65,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=254,time=2022-08-09 01:02:38
 100	214276	153965	Python3	[CG]Keelhaul	
 100	214489	224325	Go	[BZH]TidyMaze	
 100	214790	3349939	C++	mr.spring	
-100	215035	3844625	C++	surgutti	
 100	215421	4124688	Python3	Murat_Eroglu	
 100	215800	1430796	C	_PereKastor_	
 100	216035	1480426	Python3	Hikari42	
@@ -88,7 +89,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=254,time=2022-08-09 01:02:38
 100	225413	4627200	Python3	Fwcode	
 100	228711	1287344	C++	Alshock	
 100	228720	3343665	Rust	Quidome	
-100	229002	3368067	Java	jgall	
 100	229528	3490454	Python3	PAug	
 100	230165	3802525	C#	Chibikko	
 100	230430	4674218	Python3	Kirin04	
@@ -199,6 +199,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=254,time=2022-08-09 01:02:38
 100	250555	893259	Python3	pveniat	
 100	250555	2532837	Ruby	fauresebast	
 100	250555	4391280	Python3	RRRoumy	
+100	250555	911974	Lua	Manzazuu	
+100	250555	4717007	Python3	Anktinosia	
 100	250784	1179357	Rust	avdg	
 100	253965	938374	C#	UnmanagedCode	
 100	254188	3922731	Dart	Dartisan	
