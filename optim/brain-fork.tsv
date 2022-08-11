@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6337,time=2022-08-10 00:30:26
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6339,time=2022-08-11 01:08:44
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
 100	2765	2288263	Rust	dbdr	
@@ -30,6 +30,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6337,time=2022-08-10 00:30:26
 100	3221	403748	C#	[CG]SaiksyApo	
 100	3236	3845610	Python3	pardouin	
 100	3238	1477749	C++	Shadeke	
+100	3281	4337092	Python3	Timinator	
 100	3285	3230794	Python3	tutubalin	
 100	3290	1136521	C	nadrek	
 100	3294	1798477	C#	mnivet	
@@ -37,7 +38,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6337,time=2022-08-10 00:30:26
 100	3333	973040	F#	papyjo	
 100	3340	2311105	C++	kovi	
 100	3347	4270882	Python3	[ron]	
-100	3349	4337092	Python3	Timinator	
 100	3356	154984	PHP	_Royale	
 100	3367	806157	Python3	Aveuh	
 100	3370	1068877	C#	[CPC]Tamno	
@@ -664,6 +664,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6337,time=2022-08-10 00:30:26
 100	5567	1651569	Go	Insan	
 100	5567	236685	Java	Palawan	
 100	5569	1925452	C++	Cyriax	
+100	5572	1989412	C#	Skewnart	
 100	5578	2550213	C++	hogehoge	
 100	5580	1684030	Rust	Mator	
 100	5582	4209343	Java	petor	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6337,time=2022-08-10 00:30:26
 100	5860	1944726	Python3	bourgeof	
 100	5860	3727077	Python3	Manwi23	
 100	5860	1258656	C++	Batpapa	
-100	5860	2709791	Python3	YOMar	

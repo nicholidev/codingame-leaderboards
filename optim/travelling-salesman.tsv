@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=256,time=2022-08-10 00:30:29
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=259,time=2022-08-11 01:08:48
 100	201382	2288263	Rust	dbdr	
 100	201382	4277867	D	About	
 100	201382	2077805	C++	bamilan	
@@ -25,12 +25,12 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=256,time=2022-08-10 00:30:29
 100	205269	4341304	C++	Remi.	
 100	205449	2451652	Java	code_of_the_dead	
 100	205481	4717726	C++	[Nexure]	
+100	205778	3368067	Java	jgall	
 100	205986	580424	C++	siman	
 100	206247	3535836	Python3	Thanh2022	
 100	206555	155774	C++	dwarfie	
 100	207158	3335896	C++	_martynas	
 100	207167	2007852	Lua	Zorg1	
-100	207522	3368067	Java	jgall	
 100	207940	992329	C++	BeeGee	
 100	208303	792813	Python3	VilBoub	
 100	209198	2962968	C#	Pukunya	
@@ -126,6 +126,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=256,time=2022-08-10 00:30:29
 100	244945	2110342	Javascript	lchenay	
 100	245296	4534733	Python3	Damko757	
 100	246872	999637	Python3	dinobogan	
+100	247220	4717007	Python3	Anktinosia	
 100	247358	2625928	C#	Leonard.	
 100	247996	2628455	Python3	PDF	
 100	248007	3478673	Javascript	never-again	
@@ -138,6 +139,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=256,time=2022-08-10 00:30:29
 100	249440	837350	Python3	BorisZ	
 100	250047	2637659	C#	Barsy	
 100	250070	4704154	C++	unsinn	
+100	250070	4664816	C++	lexx_it	
 100	250215	3826720	C++	Noppo	
 100	250215	3439872	Python3	xdcomrade	
 100	250258	4044949	Java	Exanc	
@@ -200,14 +202,14 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=256,time=2022-08-10 00:30:29
 100	250555	2532837	Ruby	fauresebast	
 100	250555	4391280	Python3	RRRoumy	
 100	250555	911974	Lua	Manzazuu	
-100	250555	4717007	Python3	Anktinosia	
 100	250784	1179357	Rust	avdg	
+100	251824	278212	Python3	vmp	
 100	253965	938374	C#	UnmanagedCode	
 100	254188	3922731	Dart	Dartisan	
 100	257411	4871515	Rust	cl17	
 100	258239	992549	Java	Thaddy	
+100	267577	3094191	C	GeraldJB	
 100	268561	4062203	C++	soraie	
-100	276301	3094191	C	GeraldJB	
 100	279615	270881	Python3	Maurice_Moss	
 100	310436	4245841	C++	ADsun	
 100	311467	862919	C++	Astrobytes	
@@ -254,4 +256,5 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=256,time=2022-08-10 00:30:29
 0	-15	4899415	C++	vvgf	
 0	-15	4436271	Python3	Ayza	
 0	-15	5021607	Python3		
+0	-15	2325449	Perl	otpv	
 0	0	4759510	Java	Darleanow	
