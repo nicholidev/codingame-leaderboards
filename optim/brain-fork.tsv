@@ -1,7 +1,7 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6339,time=2022-08-11 01:08:44
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6342,time=2022-08-12 00:30:26
+100	2756	2288263	Rust	dbdr	
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
-100	2765	2288263	Rust	dbdr	
 100	2792	2316796	PHP	Psio	
 100	2793	1485989	Python3	ReActiveNZ	
 100	2808	2077805	C++	bamilan	
@@ -723,6 +723,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6339,time=2022-08-11 01:08:44
 100	5668	1501735	Python3	bernardlavilliers	
 100	5673	438981	Clojure	Drowsy	
 100	5674	959402	PHP	gmessier	
+100	5674	4841063	C#	Naxus	
 100	5676	3636931	Rust	v0lat1le	
 100	5678	482543	C++	seshoumara	
 100	5679	2124591	Rust	Rdjdv	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6339,time=2022-08-11 01:08:44
 100	5860	4041267	Javascript	Looney1300	
 100	5860	1944726	Python3	bourgeof	
 100	5860	3727077	Python3	Manwi23	
-100	5860	1258656	C++	Batpapa	
