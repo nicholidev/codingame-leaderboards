@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6353,time=2022-08-15 00:30:36
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6356,time=2022-08-16 00:30:27
 100	2756	2288263	Rust	dbdr	
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
@@ -601,6 +601,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6353,time=2022-08-15 00:30:36
 100	5404	927873	C	Charlot67	
 100	5411	1027294	Java	BigJ	
 100	5415	154858	Javascript	VincentEuloge	
+100	5420	4841063	C#	Naxus	
 100	5421	1113897	C	G.Pino	
 100	5422	1466631	Python3	Akrib	
 100	5424	1895217	C++	AAAAAnt	
@@ -686,7 +687,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6353,time=2022-08-15 00:30:36
 100	5601	3738782	C#	Inaniwa	
 100	5601	4178870	Go	hanabi1224	
 100	5604	1566335	Python3	BeardedWhale	
-100	5605	4841063	C#	Naxus	
 100	5606	155955	PHP	nht_dev	
 100	5609	1086050	Python3	aandrukhovich	
 100	5615	268835	Java	Adri	
