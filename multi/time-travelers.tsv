@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4872,time=2022-08-16 00:30:19
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4872,time=2022-08-17 00:35:50
 0	47.16	1433161	1484525	C	mingu1.kang	
 0	45.59	494104	455215	C++	Recar	
 0	45.18	990110	357643	C++	Rogerup	
@@ -268,7 +268,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4872,time=2022-08-16 00:30:
 0	36.66	335818	356610	Java	TyraEl	
 0	36.65	2675322	2016971	OCaml	mpsi-liv-test	
 0	36.63	2786666	2150454	C++	TetraktysPhi	
-0	36.62	1188212	382180	C	superredlark	
+0	36.6	1188212	382180	C	superredlark	
 0	36.57	599629	354154	VB.NET	robwaw	
 0	36.53	404777	345500	C++	Joodoc	
 0	36.51	827957	352275	Python	harvestsnow	
@@ -655,6 +655,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4872,time=2022-08-16 00:30:
 0	32.88	1057948	348513	C	Kavishankar	
 0	32.85	425757	415197	Ruby	Keres	
 0	32.84	973948	365559	Python3	Amnesix	
+0	32.84	1404539	417778	Python3	Furrane	
 0	32.84	890295	353410	C	Krayz	
 0	32.84	814274	356455	Scala	dnowak	
 0	32.82	979746	353489	C++		
@@ -664,7 +665,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4872,time=2022-08-16 00:30:
 0	32.8	887370	357727	C#	Luuna	
 0	32.8	902195	345241	Java	0x43-0x50	
 0	32.8	1057929	354240	Java	jcha93	
-0	32.79	1404539	417778	Python3	Furrane	
 0	32.79	604196	342430	Python3	sunny0	
 0	32.79	1411423	491913	Perl	Wyllyam	
 0	32.78	226115	340563	C++	Nergal	
@@ -900,7 +900,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4872,time=2022-08-16 00:30:
 0	30.86	610994	350148	Python3	Stan...	
 0	30.85	4347105	3722304	OCaml	Remi-MPSI_LIV	
 0	30.81	954005	477233	Python3	sulan	
-0	30.79	1299891	2403828	Lua	lesslucid	
 0	30.78	2720216	3682005	C++	ilgiocatore	
 0	30.78	3180562	3714333	C++	PeterTW	
 0	30.78	1428084	3978289	Dart	Mixolyde	
@@ -909,6 +908,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4872,time=2022-08-16 00:30:
 0	30.74	3734880	2754610	Swift	DavidJangdal	
 0	30.73	3707275	3962892	Python3	pikachusg	
 0	30.73	880353	1394154	C++	zasmu	
+0	30.73	1299891	2403828	Lua	lesslucid	
 0	30.73	1188273	370204	Python3	DevNico	
 0	30.73	1042351	354799	PHP	MPD	
 0	30.73	1067087	1456553	C#	Testoubidou	
