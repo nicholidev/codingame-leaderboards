@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4872,time=2022-08-17 00:35:50
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4872,time=2022-08-18 01:18:17
 0	47.16	1433161	1484525	C	mingu1.kang	
 0	45.59	494104	455215	C++	Recar	
 0	45.18	990110	357643	C++	Rogerup	
@@ -416,9 +416,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4872,time=2022-08-17 00:35:
 0	34.77	566909	346113	Python	the_travelling-salesman	
 0	34.76	1039456	343728	C++	nikokolas	
 0	34.75	792813	356355	Python3	VilBoub	
-0	34.75	1542460	861301	Java	[CPC]totoleharicotvert	
 0	34.75	200367	351271	Javascript	ecc	
 0	34.74	907714	354801	Java	Janot	
+0	34.74	1542460	861301	Java	[CPC]totoleharicotvert	
 0	34.73	273004	355833	C++	ptitrex	
 0	34.73	155920	3868223	PHP	t2_cyborg	
 0	34.73	370259	343960	VB.NET	Queloune	
@@ -548,7 +548,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4872,time=2022-08-17 00:35:
 0	34.05	607130	3931284	Go	asbjxrn	
 0	34.05	776882	505889	C#	Ersimi	
 0	34.04	1288865	411370	C	codyboto	
-0	34.04	1020325	342056	C	Gon	
 0	34.03	1291467	1393993	Javascript	Grimpeur	
 0	34.03	596425	349674	C#	Gammel	
 0	34.03	877003	350476	C++	PauloCezar	
@@ -556,6 +555,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4872,time=2022-08-17 00:35:
 0	33.96	153443	348544	Python	simopr	
 0	33.96	153927	346560	C++	Cubix	
 0	33.95	1010476	459895	C	Migrou	
+0	33.95	1020325	342056	C	Gon	
 0	33.95	1019883	357745	C#	Pedromdrp	
 0	33.95	1411379	601007	C#	R3N4U6	
 0	33.95	1145498	364197	Java	Mouseas	
@@ -607,11 +607,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4872,time=2022-08-17 00:35:
 0	33.55	416704	339841	Pascal	prgjff	
 0	33.54	1713174	2070006	Python3	BigUP	
 0	33.49	992144	350705	C++	MikeSixNine	
+0	33.47	1060834	342997	Python	WalterOLockerhead	
 0	33.43	972414	353118	Java	Hackman	
 0	33.42	895306	347955	Javascript	NikIvan	
 0	33.42	513456	343079	Python	nwin	
 0	33.42	1053198	385597	Python3	ProfessorWolf	
-0	33.39	1060834	342997	Python	WalterOLockerhead	
 0	33.38	1501735	789120	Python3	bernardlavilliers	
 0	33.33	1374887	415741	C#	NicolasViollette	
 0	33.29	831171	355703	Java	Recoding	

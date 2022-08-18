@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=400,time=2022-08-17 00:36:06
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=400,time=2022-08-18 01:18:30
 100	62937	2288263	Rust	dbdr	
 100	62936	977117	C++	Psyho	
 100	62932	2077805	C++	bamilan	
@@ -33,6 +33,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=400,time=2022-08-17 00:36:06
 100	52377	4679461	Python3	K0ub	
 100	52347	1861258	Rust	Nazdhun	
 100	52285	4275410	Javascript	rk2021	
+100	52260	4337092	Python3	Timinator	
 100	52076	4281681	TypeScript	BiasInput	
 100	51992	4375316	Python3	Flash7	
 100	51792	4158692	Python3	All2u	
@@ -44,7 +45,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=400,time=2022-08-17 00:36:06
 100	51134	2398608	Python3	M_C	
 100	50969	1803061	Python3	SmokingJoe	
 100	50958	2661980	C++	Leos	
-100	50840	4337092	Python3	Timinator	
 100	50800	4591097	Python3	Gandalfchris	
 100	50736	1492048	TypeScript	Karim-	
 100	50644	3814292	Python3	Beretta_Vexee	
@@ -143,7 +143,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=400,time=2022-08-17 00:36:06
 100	16638	4253472	Java	GreyRaven	
 100	16626	1854639	C#	iDxMeG	
 100	16566	4229382	Python3	ClawLegend	
-100	16552	3052608	C#	royal_cheese	
+100	16552	3052608	C#	rfillaudeau	
 100	16552	4962713	PHP	LePerfo	
 100	16449	780361	C++	BrutalCommiterInSpace	
 100	16372	222665	Lua	borrel	
