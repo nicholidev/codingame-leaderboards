@@ -1,8 +1,9 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=266,time=2022-08-23 00:30:35
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=266,time=2022-08-24 00:51:08
 100	201382	2288263	Rust	dbdr	
 100	201382	4277867	D	About	
 100	201382	2077805	C++	bamilan	
 100	201382	3647844	C++	rc95401	
+100	201384	4149818	Python3	ET_BB-8	
 100	201386	2924895	C	trictrac	
 100	201388	3354337	C++	Westicles	
 100	201389	3721214	Python3	jrke	
@@ -95,6 +96,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=266,time=2022-08-23 00:30:35
 100	225413	4627200	Python3	Fwcode	
 100	228711	1287344	C++	Alshock	
 100	228720	3343665	Rust	Quidome	
+100	229348	1131528	C#	Owl	
 100	229528	3490454	Python3	PAug	
 100	230165	3802525	C#	Chibikko	
 100	230430	4674218	Python3	Kirin04	
@@ -118,7 +120,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=266,time=2022-08-23 00:30:35
 100	236886	4562863	Python3	Benoit-Simunsol	
 100	236922	3783962	Python3	Mohsen1365ir	
 100	237407	3741491	C++	inverb	
-100	237783	4149818	Python3	ET_BB-8	
 100	238441	4510576	C++	__Malina	
 100	238441	4594770	Python3	picoplankton	
 100	238477	2833929	Python3	pcourrousse	
@@ -129,6 +130,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=266,time=2022-08-23 00:30:35
 100	240723	3657937	Python3	elderlybeginner	
 100	240723	2616395	Javascript	welder	
 100	240892	4441094	Python3	Oric1	
+100	243212	3478673	Javascript	never-again	
 100	244644	2202771	Java	Kaplone	
 100	244834	4438822	Python3	ludodul	
 100	244945	2110342	Javascript	lchenay	
@@ -137,7 +139,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=266,time=2022-08-23 00:30:35
 100	247220	4717007	Python3	Anktinosia	
 100	247358	2625928	C#	Leonard.	
 100	247996	2628455	Python3	PDF	
-100	248007	3478673	Javascript	never-again	
 100	248048	4073854	Python3	Buk.	
 100	248147	4888782	PHP	xavier-dubreuil	
 100	248320	4136008	Python3	jerry_laevis	
@@ -210,7 +211,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=266,time=2022-08-23 00:30:35
 100	250555	4391280	Python3	RRRoumy	
 100	250555	911974	Lua	Manzazuu	
 100	250555	4160659	Javascript	Phi-001	
-100	250555	1131528	C#	Owl	
 100	250555	4981075	Python3	Kengeru	
 100	250555	4454560	Javascript	ssgilfoyle	
 100	250784	1179357	Rust	avdg	
