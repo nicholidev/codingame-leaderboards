@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=112,time=2022-08-25 00:30:13
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=111,time=2022-08-26 00:32:20
 3	36.78	2290633	3053831	Python3	field3	
 3	35.79	2924895	3477729	C	trictrac	
 3	34.17	2288263	3057494	Rust	dbdr	
@@ -103,7 +103,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=112,time=2022-08-25 00:30:1
 0	9.3	2779063	4397215	Python3	LegendsOfCodeAndMagic	
 0	8.56	484004	4397127	Rust	aCat	
 0	2.32	2186563	3102011	Python3	Manu38	
-0	1.45	3755755	3695368	Go	AAhmed9	
 0	-2.54	2469285	3477410	Javascript	Lucky30_	
 0	-3.39	3355430	3501448	Javascript	Acediea	
 0	-3.43	4233955	3471664	C#	Hujing	
