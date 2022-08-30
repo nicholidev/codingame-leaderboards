@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6402,time=2022-08-29 00:54:31
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6405,time=2022-08-30 00:30:26
 100	2756	2288263	Rust	dbdr	
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
@@ -640,6 +640,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6402,time=2022-08-29 00:54:31
 100	5513	992691	Python3	tredden	
 100	5514	937073	Scala	Krlos	
 100	5516	1855354	C++	KiwiTae	
+100	5519	3478673	Javascript	never-again	
 100	5522	526070	C++	urusant	
 100	5522	2376044	C++	NecroSchmurf_IV	
 100	5525	2784019	Java	cryptoroot	
@@ -647,7 +648,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6402,time=2022-08-29 00:54:31
 100	5527	1256312	C#	Djoums	
 100	5533	3625469	Python3	Crimson_King	
 100	5543	1475413	Javascript	AlucardDH	
-100	5543	3478673	Javascript	never-again	
 100	5546	3770880	Java	Yu_212	
 100	5549	4262172	C++	highjump	
 100	5554	3342823	Javascript	Jacki	
