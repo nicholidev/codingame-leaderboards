@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5686,time=2022-08-30 00:30:25
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5689,time=2022-08-31 00:30:28
 100	2509	1327028	C++	FredericBautista	
 100	2507	154372	Bash	Plopx	
 100	2504	1249786	C#	Fededevi	
@@ -345,6 +345,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5686,time=2022-08-30 00:30:25
 100	2164	1234259	C	digit_ro	
 100	2164	3594074	C++	jopo	
 100	2163	2215615	C++	JonathanCasey	
+100	2162	5019972	Rust	DayKnight	
 100	2160	606890	C#	r2d2tm	
 100	2160	2468853	C++	ppajuel	
 100	2159	2440248	Python3	Javfres	
@@ -940,12 +941,12 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5686,time=2022-08-30 00:30:25
 100	1897	1022877	F#	MariosK	
 100	1897	1740037	Scala	ereiam	
 100	1897	4594914	Javascript	NeoJex	
+100	1897	4952348	Python3	albzn	
 100	1896	2207902	C++	PancakeFerret	
 100	1896	2431028	Javascript	Nahoj	
 100	1894	1330864	C	Myst22	
 100	1894	2410595	Javascript	weblp	
 100	1894	2850117	C++	CodeMasterApp	
-100	1894	5019972	Rust	DayKnight	
 100	1893	1248730	Python3	GYoRC	
 100	1893	3691366	Java	V90	
 100	1893	2575020	Javascript	iDash	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5686,time=2022-08-30 00:30:25
 100	1875	2581440	C#	Shadow25	
 100	1874	1061061	C#	Bandersnatch	
 100	1874	276480	Javascript	Karang	
-100	1874	1112073	Python3	Pouf	

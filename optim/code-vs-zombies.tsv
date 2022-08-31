@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=14873,time=2022-08-30 00:30:26
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=14891,time=2022-08-31 00:30:29
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -81,6 +81,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14873,time=2022-08-30 00:30:26
 100	355820	3410351	C	Deltaspace	
 100	354460	4065227	C++	Pamplemus	
 100	354420	1390607	C	Ivan_Derzhylo	
+100	354340	5052454	C++	chris.steele	
 100	354120	1479930	C++	LeRenard	
 100	353640	1489865	C++	EricSMSO	
 100	353450	2924895	C	trictrac	
@@ -289,6 +290,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14873,time=2022-08-30 00:30:26
 100	212670	4451368	C	Tsukabishi	
 100	212370	4518975	C++	civtrader	
 100	212000	1754295	C++	SF	
+100	212000	4725669	C	Porcaro	
 100	211860	4101514	Javascript	Pips42	
 100	210780	1077506	Go	gs2	
 100	210700	2515448	C++	ChuOkupai	
@@ -950,6 +952,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14873,time=2022-08-30 00:30:26
 100	65240	5000937	Python3	messan_ocloo	
 100	65230	4047152	Javascript	Willard21	
 100	65210	4691375	C++	ShefZeon	
+100	65210	4833428	Java	Bazinou	
 100	65170	602886	TypeScript	teuteuf	
 100	65150	4099017	Java	LeafQuery	
 100	65140	1418821	C++	input.txt	
@@ -996,6 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=14873,time=2022-08-30 00:30:26
 100	64480	1546042	Python3	lsh	
 100	64480	2333290	Javascript	aviomaksim	
 100	64480	4037117	C#	bodbod	
-100	64470	3418714	Python3		
-100	64440	2642287	Python3	uistyle	
-100	64430	568337	Python3	Ofire	
