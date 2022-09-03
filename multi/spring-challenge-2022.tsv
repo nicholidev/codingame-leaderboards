@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8000,time=2022-09-02 00:30:12
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8000,time=2022-09-03 00:30:12
 5	34.41	4802230	4264019	C++	Nanaeda	
 5	34.19	2577687	4261360	C++	blasterpoard	
 5	33.85	351062	4296067	C++	Neumann	
@@ -644,7 +644,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8000,time=2022-09-02 00:30:
 4	25.24	4019021	4274673	Dart	BuddyJ	
 4	25.23	3205555	4262343	C#	mmaderic	
 4	25.23	662291	4268080	Python3	koscrob	
-4	25.23	704875	4261810	C#	XaY	
+4	25.22	704875	4261810	C#	XaY	
 4	25.22	4616446	4260791	Python3	Navoos	
 4	25.19	3551741	4261366	Go	MorphiX00	
 4	25.19	3525167	4273702	C++	fgsdt	
@@ -670,7 +670,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8000,time=2022-09-02 00:30:
 4	24.64	3659194	4265710	Java	FreZzz	
 4	24.64	617317	4267588	Java	Med-Amine	
 4	24.61	3327027	4278025	Python3	Ton7on	
-4	24.6	3877700	4266403	Rust	Bytekeeper	
+4	24.58	3877700	4266403	Rust	Bytekeeper	
 4	24.47	4658485	4343208	Python3	I_love_CoC	
 4	24.45	1483234	4266844	C#	jbl	
 4	24.43	1664043	4263050	Javascript	GloboGamer	
@@ -734,9 +734,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8000,time=2022-09-02 00:30:
 4	23.1	4075765	4263101	Scala	vmchura	
 4	23.09	1729763	4267361	Java	Silverup	
 4	23.08	3130224	4258324	Python3	julesaf	
+4	23.08	3586725	4262700	PHP	obrozer	
 4	23.06	4856943	4263824	Python3	mephalia	
 4	23.04	1479552	4263100	Python3	Tom1	
-4	23.03	3586725	4262700	PHP	obrozer	
 4	23.01	2649897	4263871	C#	0fl	
 4	22.98	3501209	4300920	Python3	Whatar	
 4	22.97	2316796	4262794	PHP	Psio	
@@ -848,9 +848,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8000,time=2022-09-02 00:30:
 4	21.53	3570823	4262580	Python3	warmind	
 4	21.53	4845888	4259195	PHP	CaptainYan	
 4	21.52	1171469	4323625	Java	Reblochon	
-4	21.52	4789438	4428874	Ruby	Enowise	
 4	21.52	4122723	4285599	Rust	Hydrazer	
 4	21.52	4843722	4261354	C	Rock_You	
+4	21.52	4789438	4428874	Ruby	Enowise	
 4	21.52	4093861	4266603	TypeScript	masterada	
 4	21.51	3535836	4408826	Python3	Thanh2022	
 4	21.51	4857356	4259413	Python3	sound-round	

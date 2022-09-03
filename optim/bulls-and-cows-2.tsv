@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=374,time=2022-09-02 00:30:31
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=376,time=2022-09-03 00:30:34
 100	291	2288263	Rust	dbdr	
 100	293	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -140,6 +140,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=374,time=2022-09-02 00:30:31
 100	1079	2364617	C++	RomainPicot	
 100	1097	436451	F#	piri	
 100	1111	2153101	Python3	Sylvain0675	
+100	1113	4648805	C++	LordOfElements	
 100	1122	1378958	C#	Illedan	
 100	1136	4576463	Python3	Didelabedeli	
 100	1151	3846923	Kotlin	Hildan	
@@ -150,7 +151,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=374,time=2022-09-02 00:30:31
 100	1271	3965571	Python3	Smekarn	
 100	1277	4512488	C++	csKingBabar	
 100	1303	4261121	Python3	Louwi	
-100	1328	4648805	C++	LordOfElements	
 100	1355	4487490	Python3	cnk_gr	
 100	1360	4003601	C#	Mathieu1988	
 100	1370	508460	C++	Volia	
@@ -174,6 +174,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=374,time=2022-09-02 00:30:31
 100	1785	4821969	Python3	grizzur	
 100	1844	4146980	Python3	Bernathan	
 100	1850	4275410	Python3	rk2021	
+100	1891	4718620	Pascal	Hieronymus	
 100	1906	3750985	Python3	vexilla72	
 100	1936	3740208	Python3	Dinca	
 100	2002	4390014	Python3	yfe42	
@@ -347,6 +348,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=374,time=2022-09-02 00:30:31
 10.869565217391305	13032	1354165	Python3	Raichu2020	
 6.521739130434782	938	4286679	Python3	fungi_star	
 6.521739130434782	12963	1105871	Python3	PolonaisCripestro	
+4.3478260869565215	13252	1427341	C++	Kemosabe-TBC	
 2.1739130434782608	5	996606	C++	Indy	
 2.1739130434782608	5	4661927	C++	SatchShred	
 2.1739130434782608	1510	3707873	C++	Philbot	

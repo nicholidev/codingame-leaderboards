@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=408,time=2022-09-02 00:30:32
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=409,time=2022-09-03 00:30:36
 100	62937	2288263	Rust	dbdr	
 100	62936	977117	C++	Psyho	
 100	62932	2077805	C++	bamilan	
@@ -58,6 +58,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=408,time=2022-09-02 00:30:32
 100	46685	1684020	Python3	tom_	
 100	46407	4811550	Python3	lyconide	
 100	44754	2463909	Kotlin	ckobayashi	
+100	43890	2962968	C#	Pukunya	
 100	43390	4974792	Python3	coutinho97	
 100	43390	1388952	Scala	Nik95	
 100	40285	1111798	Java	lifetimeLearner007	
@@ -73,7 +74,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=408,time=2022-09-02 00:30:32
 100	33659	2544989	Javascript	lulugo19	
 100	33399	4935021	Python3	MelekElloumi	
 100	33003	2110342	Javascript	lchenay	
-100	32865	2962968	C#	Pukunya	
 100	32778	3621947	Python3	vrabosh	
 100	32606	935744	C++	Alcalyn	
 100	32526	2373953	TypeScript	Dridriun	
@@ -181,6 +181,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=408,time=2022-09-02 00:30:32
 100	13500	2583545	C#	JasonGreen1	
 100	13500	4598834	Python3	Lynch[0]	
 100	12760	2725239	C#	Zandy156	
+100	12325	4648805	C++	LordOfElements	
 100	12125	3806986	PHP	jjdb210	
 100	12005	4980719	PHP	Gabiru	
 100	11764	4587710	Scala	Smetalka	
