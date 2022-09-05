@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6418,time=2022-09-04 00:45:13
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6420,time=2022-09-05 00:33:09
 100	2756	2288263	Rust	dbdr	
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
@@ -316,6 +316,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6418,time=2022-09-04 00:45:13
 100	4181	1762054	Java	KirillJJ	
 100	4190	3723101	Python3	Lilac_Tsuki	
 100	4191	943784	Pascal	RobertK	
+100	4194	3936949	C++	Jasiek_	
 100	4197	3483051	Python3	micwo	
 100	4200	936495	Java	LittleCrow	
 100	4200	1420817	Javascript	TheMagicShop	
@@ -324,6 +325,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6418,time=2022-09-04 00:45:13
 100	4210	226115	C++	Nergal	
 100	4212	370969	C#	fgeo	
 100	4214	3362964	Python3	a314	
+100	4214	4609342	C++	jejis	
 100	4216	937214	C#	KissCool	
 100	4217	1715391	Java	Skolin	
 100	4224	1713497	C#	NoisyBoy	
@@ -619,6 +621,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6418,time=2022-09-04 00:45:13
 100	5438	3534078	Python3	chabes	
 100	5439	1257796	C	Oygron	
 100	5447	835054	Java	mkUltra	
+100	5450	5052131	C++	GrakeSon	
 100	5452	1411649	C++	Levatol	
 100	5457	3533119	Python3	wlesavo	
 100	5458	704677	Java	Slivercid	
@@ -700,7 +703,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6418,time=2022-09-04 00:45:13
 100	5619	829018	C++	alchemsti	
 100	5621	1481544	C++	ZarthaxX	
 100	5621	4726885	C++	Boooooooo	
-100	5622	3936949	C++	Jasiek_	
 100	5624	1498163	Java	Ben-oit	
 100	5625	3840675	C#	FeedThisDev	
 100	5626	4373790	Python3	Eltrion	
@@ -756,7 +758,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6418,time=2022-09-04 00:45:13
 100	5697	954830	C#	BoerJan	
 100	5697	1324974	C++	ViktorCs	
 100	5698	154942	Java	Polux	
-100	5700	5052131	C++	GrakeSon	
 100	5700	5052165	C++	Aigorm	
 100	5703	1398219	C#	Kenrugo	
 100	5703	4065227	C++	Pamplemus	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6418,time=2022-09-04 00:45:13
 100	5860	3354859	Python3	oneagain	
 100	5860	3611860	Python3	ChrisPBaconTM	
 100	5860	1216462	Python3	MartinVachovski	
-100	5860	209298	Python3	pipistrello	

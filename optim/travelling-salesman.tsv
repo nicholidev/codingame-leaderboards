@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=273,time=2022-09-04 00:45:21
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=274,time=2022-09-05 00:33:12
 100	201382	2288263	Rust	dbdr	
 100	201382	4277867	D	About	
 100	201382	2077805	C++	bamilan	
@@ -63,6 +63,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=273,time=2022-09-04 00:45:21
 100	213377	1380703	Python3	Blabbage	
 100	213461	1861258	Rust	Nazdhun	
 100	213842	973040	F#	papyjo	
+100	213865	2981630	C++	AstroHydes	
 100	214159	512097	Haskell	Stilgart	
 100	214247	4802208	C++	cestpasvrai	
 100	214276	153965	Python3	[CG]Keelhaul	
@@ -71,7 +72,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=273,time=2022-09-04 00:45:21
 100	214767	1272951	Rust	don_bovar	
 100	214790	3349939	C++	mr.spring	
 100	215421	4124688	Python3	Murat_Eroglu	
-100	215455	2981630	C++	AstroHydes	
 100	215800	1430796	C	_PereKastor_	
 100	216035	1480426	Python3	Hikari42	
 100	216187	862919	C++	Astrobytes	
@@ -93,7 +93,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=273,time=2022-09-04 00:45:21
 100	223029	841420	Python3	RandomVariable	
 100	223144	4402372	Python3	UltraLcD	
 100	223261	3532429	C++	Skyf0l	
-100	224013	3094191	C	GeraldJB	
+100	223679	3094191	C	GeraldJB	
 100	224415	4194994	Javascript	zLuki	
 100	224638	1838549	Rust	orangesnowfox	
 100	225332	4378731	Python3	_Pauk_	
@@ -220,6 +220,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=273,time=2022-09-04 00:45:21
 100	250555	1354165	Python3	Raichu2020	
 100	250555	3666698	Python3	masterOfPythonCode	
 100	250555	3536382	Python3	FranckR34	
+100	250555	3489223	Javascript	KarloHubai	
 100	250784	1179357	Rust	avdg	
 100	253965	938374	C#	UnmanagedCode	
 100	254188	3922731	Dart	Dartisan	

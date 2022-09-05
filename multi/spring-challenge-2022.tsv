@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8000,time=2022-09-04 00:45:01
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8001,time=2022-09-05 00:32:55
 5	34.41	4802230	4264019	C++	Nanaeda	
 5	34.19	2577687	4261360	C++	blasterpoard	
 5	33.85	351062	4296067	C++	Neumann	
@@ -752,6 +752,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8000,time=2022-09-04 00:45:
 4	22.85	1728288	4258285	Python3	MOLP	
 4	22.84	3501342	4258841	C#	madddmax	
 4	22.84	2316796	4262794	PHP	Psio	
+4	22.84	4056982	4275377	Java	kreska	
 4	22.83	4574813	4274174	Python3	tib-lp	
 4	22.83	4716095	4267658	Python3	MichMich31	
 4	22.83	1798034	4267037	Javascript	NKF	
@@ -762,7 +763,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8000,time=2022-09-04 00:45:
 4	22.8	2783687	4262961	PHP	AdrienLopez	
 4	22.8	1902901	4263551	Java	lebearnais	
 4	22.79	4119720	4260795	C++	maniekTC	
-4	22.78	4056982	4275377	Java	kreska	
 4	22.78	1470927	4264204	Ruby	MisterQuidam	
 4	22.78	1709071	4306926	Python3	MAWAAW	
 4	22.77	492970	4259176	Python3	Kromak	
@@ -874,12 +874,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8000,time=2022-09-04 00:45:
 4	21.43	4843722	4261354	C	Rock_You	
 4	21.42	1129987	4273388	Python3	morph	
 4	21.42	3004542	4307699	Java	GaborHutya	
+4	21.41	1344197	4258240	C	CsAdamK	
 4	21.39	1715811	4261970	Java	PositiveQuark	
 4	21.38	3769834	4259062	C#	Hoggins	
 4	21.38	2470677	4266951	Python3	Goujon	
 4	21.37	4841063	4313718	C#	Naxus	
 4	21.37	523846	4259664	C#	Palmipedus	
-4	21.36	1344197	4258240	C	CsAdamK	
 4	21.36	1931039	4259801	TypeScript	MooMooN	
 4	21.35	4266575	4266264	C++	AntoineG._IMTLilleDouai	
 4	21.35	4823073	4262001	Python3	davfrv	
