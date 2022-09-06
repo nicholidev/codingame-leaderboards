@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8001,time=2022-09-05 00:32:55
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8003,time=2022-09-06 00:30:13
 5	34.41	4802230	4264019	C++	Nanaeda	
 5	34.19	2577687	4261360	C++	blasterpoard	
 5	33.85	351062	4296067	C++	Neumann	
@@ -711,13 +711,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8001,time=2022-09-05 00:32:
 4	23.35	1642932	4260376	C++	Durkin	
 4	23.35	1421067	4263933	C#	EraStormbringer	
 4	23.35	1046623	4267197	Java	the_pins	
+4	23.35	2282553	4259009	Java	Y08413	
 4	23.33	1480501	4261521	C++	DaFish	
 4	23.33	4448227	4260898	Python3	bmerchin	
 4	23.33	4599485	4260044	Python3	Emerg	
 4	23.32	3519057	4276860	C++	tbrowang	
 4	23.29	2648445	4267768	C++	Keyu	
 4	23.28	559415	4260280	PHP	Azels	
-4	23.26	2282553	4259009	Java	Y08413	
 4	23.26	3712725	4264216	Python3	Th1nhNg0	
 4	23.26	1684323	4260218	C#	Admirallll	
 4	23.25	1068324	4311400	Python3	arrcpp	
@@ -802,7 +802,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8001,time=2022-09-05 00:32:
 4	22.29	4052198	4260489	Python3	naniwazu	
 4	22.26	1378958	4269272	C#	Illedan	
 4	22.24	2970772	4261671	TypeScript	Toukappa	
-4	22.2	4289808	4259078	C++	CBORJDNHR	
+4	22.22	4289808	4259078	C++	CBORJDNHR	
 4	22.09	3700629	4267822	Javascript	serialgg	
 4	22.06	153077	4263722	TypeScript	nerdzOrNotToBe	
 4	22.04	3184961	4260478	C++	khealer	
@@ -891,7 +891,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8001,time=2022-09-05 00:32:
 4	21.33	4057208	4263156	C++	casmith789	
 4	21.33	2343982	4263430	Python3	S0L0	
 4	21.33	4323412	4263174	Java	LeProblemeEDMN	
-4	21.33	155774	4268749	PHP	dwarfie	
 4	21.32	4075567	4264195	C++	magist3r	
 4	21.32	4399052	4258323	Python3	CodinBoss1234	
 4	21.32	4330224	4259765	Python3	Hilary02	
@@ -913,6 +912,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8001,time=2022-09-05 00:32:
 4	21.28	4034974	4299383	C#	Cajo	
 4	21.28	4839524	4259874	Dart	pablogof	
 4	21.27	3793095	4260846	Rust	Jasper_185	
+4	21.27	155774	4268749	PHP	dwarfie	
 4	21.26	2131818	4261604	Javascript	Takoouh	
 4	21.26	4873946	4264250	TypeScript	adaubric	
 4	21.26	1787494	4259758	C++	Quixx	
