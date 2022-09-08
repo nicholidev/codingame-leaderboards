@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=871,time=2022-09-07 00:34:20
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=872,time=2022-09-08 00:30:32
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -824,6 +824,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=871,time=2022-09-07 00:34:20
 54	36364.67	3594992	Python3	Babapt	
 52	37252.94000000002	4009018	Javascript	Deltfather	
 48	38008.48	3787419	Python3	Thyl	
+42	34008.19	4275410	Python3	rk2021	
 42	39624.899999999994	4579776	Python3	No_Way	
 40	38775.69	4508780	C++	nikita201150	
 40	40123.36000000001	1835014	C	Frits	
