@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=928,time=2022-09-09 00:30:28
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=929,time=2022-09-10 00:39:18
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
 100	59353552	2436448	C++	FrancoisMeme	
@@ -134,6 +134,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=928,time=2022-09-09 00:30:28
 100	2901060	2948040	Javascript	Pouyou	
 100	2856840	3381264	C#	Crying_Lightning	
 100	2833088	973040	C	papyjo	
+100	2699284	862919	C++	Astrobytes	
 100	2602560	4119778	Scala	Kwokster	
 100	2523096	4459243	Java	CodeNick	
 100	2460352	1243876	Java	Hi-Low_World	
@@ -143,6 +144,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=928,time=2022-09-09 00:30:28
 100	2327896	3705601	Java	ido_the_pro	
 100	2319324	4036456	Python3	JeremSwak	
 100	2264560	4662405	Python3	helpmefindaname	
+100	2262296	2981630	C++	AstroHydes	
 100	2253844	475740	C#	Serg	
 100	2194824	1309948	C++	Runner87	
 100	2124388	2012662	Python3	Natalka1122	
@@ -174,7 +176,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=928,time=2022-09-09 00:30:28
 100	1212664	4627477	Python3	REX26	
 100	1189100	1077506	Go	gs2	
 100	1106220	1785098	C++	E_pur_si_muove	
-100	1059480	862919	C++	Astrobytes	
 100	1036264	3406987	Python3	Radu_Sav	
 100	981320	1473789	C++	jebouin	
 100	930052	3141948	Java	philRG	
@@ -256,7 +257,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=928,time=2022-09-09 00:30:28
 100	182532	1069779	Python3	salanger	
 100	175944	3657275	Python3	jujurocking	
 100	166428	4132744	Python3	XeinyX	
-100	163808	2981630	C++	AstroHydes	
 100	163796	531863	Java	Amin	
 100	161352	1457162	Python3	JFB	
 100	157876	1740237	Python3	OlegKornelsen	
@@ -354,6 +354,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=928,time=2022-09-09 00:30:28
 100	66420	385699	Go	Nikai	
 100	66064	304363	Javascript	chocolord	
 100	65944	2069141	C#	tomeko	
+100	65944	3025295	C++	DimaKalabuk	
 100	65832	1782005	Python3	AlexW	
 100	65832	3586671	Python3	Uemu	
 100	65288	1703441	Java	Michelou	
@@ -520,7 +521,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=928,time=2022-09-09 00:30:28
 100	42704	3555728	Python3	KVNMDS	
 100	42480	4038295	Python3	rmnShk	
 100	42296	899745	C#	vabaaalas	
-100	42260	3025295	C++	DimaKalabuk	
 100	41980	1932980	Rust	AlexandreK	
 100	41912	1030709	Python3	Cmdr.Shepard	
 100	41356	4286679	Python3	fungi_star	
@@ -925,5 +925,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=928,time=2022-09-09 00:30:28
 100	240	4549700	Java		
 100	192	5063213	C++	kate05	
 93.33333333333331	248928	1339675	C++	SR4	
+93.33333333333331	14760	5052454	Javascript	chris.steele	
 83.33333333333333	178644	1546445	PHP	didoo	
 0	0	5033889	Python3		
