@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=872,time=2022-09-10 00:39:17
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=873,time=2022-09-11 00:30:53
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -871,3 +871,4 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=872,time=2022-09-10 00:39:17
 0	50000	4717726	Python3	[Nexure]	
 0	50000	1614770	Python3	AdmiralShadow	
 0	50000	2325449	Perl	otpv	
+0	50000	3478673	C	never-again	
