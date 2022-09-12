@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=410,time=2022-09-11 00:30:54
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=410,time=2022-09-12 00:32:46
 100	62937	2288263	Rust	dbdr	
 100	62936	977117	C++	Psyho	
 100	62932	2077805	C++	bamilan	
@@ -17,6 +17,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=410,time=2022-09-11 00:30:54
 100	57323	2786666	C++	TetraktysPhi	
 100	55612	1081827	Python3	[CG]MathisHammel	
 100	55550	2924895	C	trictrac	
+100	55425	2962968	C#	Pukunya	
 100	55236	4182831	Python3	Flaaamort	
 100	54108	2923506	C++	darkhorse64	
 100	54108	899666	C#	Whykonen	
@@ -35,7 +36,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=410,time=2022-09-11 00:30:54
 100	52347	1861258	Rust	Nazdhun	
 100	52285	4275410	Javascript	rk2021	
 100	52260	4337092	Python3	Timinator	
-100	52157	2962968	C#	Pukunya	
 100	52076	4281681	TypeScript	BiasInput	
 100	51992	4375316	Python3	Flash7	
 100	51792	4158692	Python3	All2u	
@@ -56,10 +56,10 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=410,time=2022-09-11 00:30:54
 100	50117	3938395	Python3	Quentin18	
 100	49769	3337117	Python3	timbersson	
 100	49764	3446473	Javascript	proprofondo	
+100	47420	3478673	Javascript	never-again	
 100	46933	3772488	Python3	molombo	
 100	46685	1684020	Python3	tom_	
 100	46407	4811550	Python3	lyconide	
-100	46244	3478673	Javascript	never-again	
 100	44754	2463909	Kotlin	ckobayashi	
 100	43390	4974792	Python3	coutinho97	
 100	43390	1388952	Scala	Nik95	
