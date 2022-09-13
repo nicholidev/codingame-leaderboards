@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=933,time=2022-09-12 00:32:45
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=933,time=2022-09-13 00:46:07
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
 100	59353552	2436448	C++	FrancoisMeme	
@@ -110,6 +110,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=933,time=2022-09-12 00:32:45
 100	4681288	1077559	Java	PhOeNyX	
 100	4658788	3165536	C++	barbora	
 100	4551296	2258829	C#	Hiker	
+100	4527456	862919	C++	Astrobytes	
 100	4354272	1566335	Java	BeardedWhale	
 100	4330608	2629686	C#	krutovsky	
 100	4289648	4673683	C++	BartK	
@@ -119,7 +120,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=933,time=2022-09-12 00:32:45
 100	3841448	1067069	Kotlin	Reiska	
 100	3825460	1854246	C++	Counterbalance	
 100	3824732	4341304	C++	Remi.	
-100	3748452	862919	C++	Astrobytes	
 100	3668428	3817827	Go	optplx	
 100	3488032	3754066	C++	jast.e.new.name	
 100	3455812	4120837	C++	philipplenk	
@@ -347,6 +347,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=933,time=2022-09-12 00:32:45
 100	68904	4030968	Python3	MBucas	
 100	68888	4092149	Python3	MarcTu	
 100	68756	4594770	Python3	picoplankton	
+100	68400	5063218	Python3	mnik0_0	
 100	68208	4022435	Python3	Timothee1997	
 100	67532	3596893	Python3	vincent8	
 100	67436	3908630	Python3	Kilbiz	
@@ -480,7 +481,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=933,time=2022-09-12 00:32:45
 100	49232	4585938	Python3	Risodu	
 100	49232	1131528	C#	Owl	
 100	49232	5063221	Python3	paashaaaaa	
-100	49232	5063218	C++	mnik0_0	
 100	49232	5063227	C++	Lexus_FPMI	
 100	49232	5063224	C++	TTog3aJlyTTHblu_TBopoJOKE	
 100	49232	5063216	C++	Lamposhka	
@@ -629,7 +629,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=933,time=2022-09-12 00:32:45
 100	27780	3766476	C++	mhouppin	
 100	27708	4074861	Java	kishore.t	
 100	27708	1854639	C#	iDxMeG	
-100	27708	5063228	Python3		
+100	27708	5063228	Python3	KirillGurin891	
 100	27616	1896128	Python3	Vhanire	
 100	27572	3741524	C	princess_of_zeal	
 100	27468	3867882	Javascript	HoaiDien	
