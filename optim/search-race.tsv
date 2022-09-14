@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=873,time=2022-09-13 00:46:06
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=873,time=2022-09-14 00:36:03
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -408,6 +408,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=873,time=2022-09-13 00:46:06
 100	20846.900000000005	3325369	C++	pleurk	
 100	20848.64	3473592	Python3	VoidWizard	
 100	20860.240000000005	2238839	Java	PhilippeBarrielle	
+100	20876.82	4648805	C++	LordOfElements	
 100	20912.91	951676	Python3	ApfelPresse	
 100	20916.81	1579627	C#	Bahrani	
 100	20918.660000000003	1186292	Rust	GLE	
@@ -516,7 +517,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=873,time=2022-09-13 00:46:06
 100	22256.03	3700430	Python3	Sandivar	
 100	22267.069999999996	2233179	Python3	Samsa	
 100	22268.42	4072317	C#	JonWon	
-100	22272.889999999996	4648805	C++	LordOfElements	
 100	22306.51	2719604	Python3	vpoulailleau	
 100	22313.210000000006	3981595	Python3	Alexiosity	
 100	22320.66	4587710	Scala	Smetalka	

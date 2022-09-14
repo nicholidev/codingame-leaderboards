@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=378,time=2022-09-13 00:46:06
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=379,time=2022-09-14 00:36:02
 100	291	2288263	Rust	dbdr	
 100	293	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -95,7 +95,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=378,time=2022-09-13 00:46:06
 100	581	2290633	Ruby	field3	
 100	583	552776	TypeScript	player_one	
 100	586	3685512	C	CobraTV	
-100	619	1427341	C++	Kemosabe-TBC	
+100	606	1427341	C++	Kemosabe-TBC	
 100	631	3792309	Python3	schachmatt	
 100	660	1179950	Swift	Patorikkuyatta	
 100	668	4046903	C#	Matt_Eagle	
@@ -165,6 +165,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=378,time=2022-09-13 00:46:06
 100	1505	1802967	Python3	Meruem	
 100	1516	1335230	Python3	jft63	
 100	1562	328782	PHP	lorky	
+100	1565	3532429	Python3	Skyf0l	
 100	1597	4285437	Javascript	t3st1	
 100	1616	2266968	Python3	Steve2072	
 100	1618	1441239	Javascript	Dyd	
@@ -311,6 +312,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=378,time=2022-09-13 00:46:06
 28.26086956521739	10653	4073854	Python3	Buk.	
 26.08695652173913	10832	1579653	Python3	zweedeend	
 26.08695652173913	11553	4309574	Python3	KornDV	
+23.91304347826087	9302	3489223	Javascript	KarloHubai	
 23.91304347826087	10585	1114496	Python3	BlasphemousCrossbreed	
 23.91304347826087	10593	1426685	C++	glebc	
 21.73913043478261	11029	4275035	Java	TsuNaMy4513	
@@ -339,7 +341,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=378,time=2022-09-13 00:46:06
 15.217391304347826	12549	3136787	Python3	jacek	
 15.217391304347826	12967	1229845	Java	Jipe	
 13.043478260869565	2702	1341520	Java	egaetan	
-13.043478260869565	10565	3489223	Javascript	KarloHubai	
 13.043478260869565	11928	1193459	C++	izanbf	
 13.043478260869565	12082	2612889	Python3	Symphonia	
 13.043478260869565	12245	2387233	C#	SinOfWrath	
