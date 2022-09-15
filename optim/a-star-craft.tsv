@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1334,time=2022-09-14 00:36:01
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1336,time=2022-09-15 00:30:27
 100	11920	2077805	C++	bamilan	
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
@@ -172,6 +172,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1334,time=2022-09-14 00:36:01
 100	7217	2058158	C#	RolandKnight	
 100	7200	1754295	Rust	SF	
 100	7189	1206537	C++	MadKnight	
+100	7147	4577030	Java		
 100	7140	1343111	Javascript	Thal	
 100	7106	1193679	C++	Icebox	
 100	7089	2490008	C++	ebicochineal	
@@ -360,7 +361,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1334,time=2022-09-14 00:36:01
 100	3636	2255945	C++	PoppyTrail	
 100	3622	4261456	Javascript	zachmae	
 100	3621	4286679	Javascript	fungi_star	
-100	3610	4511827	Java	priitl	
+100	3618	4511827	Java	priitl	
 100	3606	389786	Java	menu	
 100	3603	2981630	C++	AstroHydes	
 100	3602	2006324	Python3	Djangonaut	
@@ -570,7 +571,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1334,time=2022-09-14 00:36:01
 100	2375	3878056	Python3	LighTender	
 100	2366	3478673	Javascript	never-again	
 100	2358	3778409	Kotlin	l_o_g_a_n	
-100	2349	4515517	C#	AndresTr	
+100	2350	4515517	C#	AndresTr	
 100	2339	650661	Ruby	Syro	
 100	2337	2663983	C#	TheStrategist97	
 100	2336	4590271	Java	Therannos	
@@ -603,6 +604,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1334,time=2022-09-14 00:36:01
 100	2199	4269720	Python3	ShuP1	
 100	2199	4576463	Python3	Didelabedeli	
 100	2198	2100572	Python3	sirsatan	
+100	2196	5076454	C#	TPSaarinen	
 100	2193	2431028	Javascript	Nahoj	
 100	2191	2297753	Python3	Warly7692	
 100	2191	4534731	Java	pire038	
@@ -779,7 +781,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1334,time=2022-09-14 00:36:01
 100	1154	484031	PHP	LeSSeR	
 100	1151	1342663	C++	JeromeFavrou	
 100	1149	1664528	Python3	intervlan	
-100	1142	5076454	C#	TPSaarinen	
 100	1140	3657937	Python3	elderlybeginner	
 100	1138	2890710	Java	The_Xperience	
 100	1138	2255187	PHP	rom_02	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1334,time=2022-09-14 00:36:01
 100	1045	3327302	C++	krishna_jalan_	
 100	1045	3845610	Python3	pardouin	
 100	1045	3879814	Bash	saix	
-100	1045	3894309	Python3	AT950	
