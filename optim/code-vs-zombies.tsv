@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=15073,time=2022-09-15 00:30:26
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=15084,time=2022-09-16 00:30:36
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -217,6 +217,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15073,time=2022-09-15 00:30:26
 100	229290	4148846	C	SkyWhait	
 100	228940	3965226	C		
 100	228670	4269627	C	Pec2K	
+100	228580	2641712	C	Scarlatine	
 100	228460	2202751	C++	MacedoH	
 100	227780	273876	C#	JeremyLefevre	
 100	227210	4328352	C++	Esael	
@@ -313,6 +314,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15073,time=2022-09-15 00:30:26
 100	208100	4425076	C	Malu38	
 100	208000	4007973	C	FML128	
 100	207890	3965104	C	casd2	
+100	207630	3115713	C	faneyer	
 100	207540	331248	C	Zycho	
 100	207490	3626931	C	BlackStorm	
 100	207090	4937137	C++	Rayshin	
@@ -515,7 +517,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15073,time=2022-09-15 00:30:26
 100	158400	2731276	C++	panda42	
 100	158380	2064511	Java	Semenyutenko_Andrey	
 100	158350	608132	C	seiji	
-100	158320	2641712	C	Scarlatine	
 100	158100	2526316	Rust	wuno8	
 100	157950	3964625	C#	hypocrite	
 100	157710	153965	Python3	[CG]Keelhaul	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15073,time=2022-09-15 00:30:26
 100	64540	252533	Javascript	AlexSurin	
 100	64540	4018239	Java	MACKEYTH	
 100	64520	1348621	C	sephi	
-100	64520	1701631	Kotlin	lrouquette	

@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=273,time=2022-09-15 00:30:27
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=273,time=2022-09-16 00:30:37
 100	1570	4618693	PHP	cedricdd	
 100	1596	3918583	Rust	mikmak	
 100	1675	2288263	Rust	dbdr	
@@ -187,6 +187,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=273,time=2022-09-15 00:30:27
 0	0	4489336	Python3	Paul-Augustin_Poisson	
 0	0	335954	Java	nmahoude	
 0	0	4169982	Javascript	Madjestik	
+0	0	3478673	Javascript	never-again	
 0	7	4788358	C#	mattyPea	
 0	16	3503501	C++	Dagnarus	
 0	30	1060181	Ruby	Dabou	
@@ -266,7 +267,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=273,time=2022-09-15 00:30:27
 0	3150	4626700	PHP	JohnyDarecek	
 0	3150	2625928	C#	Leonard.	
 0	3150	1076716	Rust	OEtzi007	
-0	3150	3478673	C	never-again	
 0	6000	1885745	Javascript	CodeSprut	
 0	11200	3059123	Python3	Svarme	
 0	15549	854952	Java	dolmen1234	
