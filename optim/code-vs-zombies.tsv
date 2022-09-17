@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=15084,time=2022-09-16 00:30:36
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=15098,time=2022-09-17 00:30:25
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -153,6 +153,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15084,time=2022-09-16 00:30:36
 100	253340	1314316	C++	jolindien	
 100	253110	1129777	C++	Velvacaine	
 100	252850	943556	C++	DollarAkshay	
+100	251760	2641712	C	Scarlatine	
 100	250670	1779483	C#	h.otto	
 100	250660	2500089	C++	Fantomat75	
 100	250340	1186250	C#	Gabbek	
@@ -217,7 +218,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15084,time=2022-09-16 00:30:36
 100	229290	4148846	C	SkyWhait	
 100	228940	3965226	C		
 100	228670	4269627	C	Pec2K	
-100	228580	2641712	C	Scarlatine	
 100	228460	2202751	C++	MacedoH	
 100	227780	273876	C#	JeremyLefevre	
 100	227210	4328352	C++	Esael	
@@ -490,6 +490,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15084,time=2022-09-16 00:30:36
 100	168080	484004	C#	aCat	
 100	168040	2321957	C++	Xenoid	
 100	167610	4399052	Python3	CodinBoss1234	
+100	166030	4433569	Python3	nullo	
 100	165740	859803	C#	stauik	
 100	165720	3774397	Java	FreezeRain	
 100	164750	3298988	C#	PotatoCoder	
@@ -513,7 +514,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15084,time=2022-09-16 00:30:36
 100	159910	2566623	PHP	VincentBab	
 100	159610	1125115	C#	RafaelSan	
 100	159600	4252924	Java	mike82	
-100	159320	4433569	Python3	nullo	
 100	158400	2731276	C++	panda42	
 100	158380	2064511	Java	Semenyutenko_Andrey	
 100	158350	608132	C	seiji	
@@ -852,6 +852,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15084,time=2022-09-16 00:30:36
 100	72100	715319	C#	poksh	
 100	72100	2052376	Rust	JoeySK	
 100	71970	973040	C++	papyjo	
+100	71940	1268618	Java	Barnou	
 100	71870	4524851	Python3	Frikxxx	
 100	71790	984854	Haskell	DKurilo	
 100	71660	4085072	Rust	Estebansi	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15084,time=2022-09-16 00:30:36
 100	64570	4399761	Python3	Knowa	
 100	64540	252533	Javascript	AlexSurin	
 100	64540	4018239	Java	MACKEYTH	
-100	64520	1348621	C	sephi	
