@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=873,time=2022-09-17 00:30:33
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=875,time=2022-09-18 00:30:28
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -521,6 +521,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=873,time=2022-09-17 00:30:33
 100	22313.210000000006	3981595	Python3	Alexiosity	
 100	22320.66	4587710	Scala	Smetalka	
 100	22323.78000000001	839879	C#	Washier	
+100	22356.68	395576	C++	djedje	
 100	22383.69000000001	4084120	Java	jake11	
 100	22391.56000000001	3514465	Python3	BenWo	
 100	22398.48999999999	4083271	Java	CheeseTrains	
@@ -872,3 +873,4 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=873,time=2022-09-17 00:30:33
 0	50000	1614770	Python3	AdmiralShadow	
 0	50000	2325449	Perl	otpv	
 0	50000	3478673	C	never-again	
+0	50000	5084346	Python3	Treasurey	
