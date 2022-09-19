@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2473,time=2022-09-18 00:30:17
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2475,time=2022-09-19 00:30:23
 6	26.3	1400179	2086196	C++	reCurse	
 6	25.88	1841051	2086085	C++	0xbeefed	
 6	25.81	2725066	2119940	C#	Cize	
@@ -681,6 +681,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2473,time=2022-09-18 00:30:
 3	23.46	1103557	2449541	C#	JulienP	
 3	23.45	4182149	3426300	Javascript	Elindrage	
 3	23.43	3390983	2429459	C#	Hokers	
+3	23.42	1261518	2848851	Ruby	BitOfUniverse	
 3	23.42	2464755	3005280	Java	Gunj	
 3	23.41	2545748	2317824	Java	sybernatuz	
 3	23.41	2952263	2195023	Python3	RenSuzaku	
@@ -692,7 +693,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2473,time=2022-09-18 00:30:
 3	23.39	4120837	3429202	C++	philipplenk	
 3	23.39	1727322	2124699	Python	pyjama	
 3	23.38	3334658	3516199	Java	Aquaphobe	
-3	23.38	1261518	2848851	Ruby	BitOfUniverse	
 3	23.37	914013	2069099	Python3	HexTree	
 3	23.37	4226745	3501503	C++	40747020S	
 3	23.36	837350	2405090	Python3	BorisZ	
@@ -872,10 +872,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2473,time=2022-09-18 00:30:
 3	21.1	2662709	2133890	C++	dead_man	
 3	21.09	1993004	2851447	C#	olivR	
 3	21.08	4694431	3979709	Python3	Plaqueminier	
+3	21.07	1461866	2068474	Java	Spacebird1313	
 3	21.07	2890353	2127421	Java	Lenocia	
 3	21.06	2629686	3708009	Python3	krutovsky	
 3	21.04	3770485	3059115	TypeScript	zakki	
-3	21.04	1461866	2068474	Java	Spacebird1313	
 3	21.03	3370267	2408495	C++	SamCWill	
 3	21.01	1014040	3960693	C#	Doria	
 3	20.99	1030604	2637724	Javascript	jon0231	
@@ -973,7 +973,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2473,time=2022-09-18 00:30:
 3	19.83	2310615	2698289	Rust	Str4ngeL00p	
 3	19.8	3499669	2503271	Python3	CyberneticLion	
 3	19.79	3927709	3059477	Lua	Cabledragon	
-3	19.79	1803811	2176067	C	TabascoEye	
+3	19.76	1803811	2176067	C	TabascoEye	
 3	19.76	1288168	2883085	Python3	Nebkaure	
 3	19.75	3186368	2419951	Javascript	awfeioajwiodfws	
 3	19.75	1598470	3844209	Java	WolfDarrigan	
