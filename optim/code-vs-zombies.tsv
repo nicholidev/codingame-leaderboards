@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=15119,time=2022-09-19 00:30:32
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=15139,time=2022-09-20 00:30:28
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -16,6 +16,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15119,time=2022-09-19 00:30:32
 100	721100	1629259	C++	Marchete	
 100	705070	805067	Javascript	Magus	
 100	701040	2419544	Java	Intergalactic_space_lord	
+100	683700	3965571	C#	Smekarn	
 100	682520	2522090	C#	MSmits	
 100	672970	2968035	C++	DomiKo	
 100	665770	2316796	PHP	Psio	
@@ -25,7 +26,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15119,time=2022-09-19 00:30:32
 100	651630	937221	Java	vrampal	
 100	649860	338469	C++	__mcts__	
 100	648260	2923506	C++	darkhorse64	
-100	645780	3965571	C#	Smekarn	
 100	644300	1378958	C#	Illedan	
 100	639440	2557590	Kotlin	raaperrotta	
 100	624280	820000	C++	ValGrowth	
@@ -255,7 +255,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15119,time=2022-09-19 00:30:32
 100	221250	4749968	C	skyhelper	
 100	221150	4308802	Java	Ascodran	
 100	220750	1946777	C	Chibdanam	
-100	220060	336685	C	JulienBe	
+100	220060	336685	C	particulitis	
 100	219970	3990938	C	T01	
 100	219850	3894009	C	Orange_2020	
 100	219810	3721214	C	jrke	
@@ -695,6 +695,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15119,time=2022-09-19 00:30:32
 100	99730	3621947	Python3	vrabosh	
 100	99620	2149927	C++	funkyJb	
 100	98450	4557825	Python3	OSSFF7	
+100	98450	4248868	C#	slecourt	
 100	98260	386721	Javascript	Scareware	
 100	97950	2421089	Python3	Smlep	
 100	97910	629371	C#	BALEK	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15119,time=2022-09-19 00:30:32
 100	64610	3575624	TypeScript	mpoo	
 100	64580	1070919	Java	Thas	
 100	64580	2430741	Javascript	Faust1	
-100	64570	4399761	Python3	Knowa	
