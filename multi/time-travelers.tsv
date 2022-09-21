@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4874,time=2022-09-20 00:30:18
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4874,time=2022-09-21 00:30:17
 0	47.16	1433161	1484525	C	mingu1.kang	
 0	45.59	494104	455215	C++	Recar	
 0	45.18	990110	357643	C++	Rogerup	
@@ -104,16 +104,16 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4874,time=2022-09-20 00:30:
 0	39.85	217547	358235	Haskell	stderr	
 0	39.76	311423	3880568	Javascript	kirzyka	
 0	39.61	2522090	4291598	C++	MSmits	
+0	39.48	841085	339404	C#	Risen	
 0	39.42	3918583	3977220	Rust	mikmak	
 0	39.39	1766582	913056	C++	smugiss	
-0	39.37	841085	339404	C#	Risen	
 0	39.36	409952	343905	C++	Noblesse	
 0	39.35	2489026	3848190	OCaml	TOPetit	
 0	39.3	884367	343493	Python	frozar	
 0	39.24	1052271	362037	C#	Bleash	
 0	39.21	2073179	1420299	C++	Biwere	
 0	39.19	518726	353087	Haskell	nybble41	
-0	39.13	947693	352491	Java	Sunglow	
+0	39.14	947693	352491	Java	Sunglow	
 0	39.09	970195	351972	C++	Elbanono	
 0	39.07	995238	346682	Lua	Pyvain	
 0	39.06	840697	411514	Java	st00p1d	
@@ -207,7 +207,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4874,time=2022-09-20 00:30:
 0	37.66	598416	356135	Java	alexandr9519	
 0	37.64	1025212	371677	Java	Asterixk	
 0	37.64	1489865	1099783	C++	EricSMSO	
-0	37.64	1644437	794918	C++	SurfDog	
 0	37.63	341401	351400	OCaml	morf	
 0	37.63	1046361	348222	C#	Dragonic	
 0	37.63	886483	488764	ObjectiveC	R4N4R4M4	
@@ -219,6 +218,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4874,time=2022-09-20 00:30:
 0	37.59	935802	357751	Java	Jerhyn	
 0	37.58	972854	494282	Python	MrXo	
 0	37.57	3749793	2985507	C#	WINWINWIN	
+0	37.57	1644437	794918	C++	SurfDog	
 0	37.57	933134	350672	F#	polkduran	
 0	37.57	1316938	2611987	Ruby	YoannR	
 0	37.56	847745	358028	PHP	Orminot	
@@ -279,13 +279,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4874,time=2022-09-20 00:30:
 0	36.45	416762	356436	Javascript	Khao	
 0	36.44	845360	357693	Python	user736	
 0	36.44	153557	339776	C++	ISMAX	
+0	36.42	783215	348453	C++	AndreiS	
 0	36.42	1018437	1425565	C++	dubicube	
 0	36.4	846192	345809	Python	phdmnt	
 0	36.4	1335230	2105553	C++	jft63	
 0	36.37	195088	339496	C++	Jopie64	
 0	36.37	154967	352568	Python3	trnsnt	
 0	36.37	2786666	2150454	C++	TetraktysPhi	
-0	36.36	783215	348453	C++	AndreiS	
 0	36.3	351327	356872	C#	sGeeK	
 0	36.28	840102	340103	C#	KooKiz	
 0	36.22	599629	354154	VB.NET	robwaw	
@@ -395,10 +395,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4874,time=2022-09-20 00:30:
 0	34.9	617638	339705	Python3	jcampion	
 0	34.9	1183644	369972	C++	Donotalo	
 0	34.89	593099	406417	Python3	Maldo	
-0	34.89	733749	3673963	Python3	Hidjy	
 0	34.88	704875	353003	C#	XaY	
 0	34.87	922810	354216	C#	FCT	
 0	34.85	1480501	4017624	C++	DaFish	
+0	34.85	733749	3673963	Python3	Hidjy	
 0	34.85	2488395	1917074	OCaml	MPSI-LIVff	
 0	34.85	969316	345795	Python	masterglob	
 0	34.85	198916	1094348	Java	WhatTrickeryIsThis	
@@ -486,11 +486,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4874,time=2022-09-20 00:30:
 0	34.36	1070477	382458	Java	Stirius	
 0	34.36	1390682	1503912	Javascript	arachno7	
 0	34.36	2653583	1913970	OCaml	glhf	
+0	34.36	527739	347262	Python3	i_v_a	
 0	34.35	957701	348873	Python	Kremlin	
 0	34.35	1058272	346773	PHP	Nazalas	
 0	34.35	941843	356067	Java	S4M37	
 0	34.35	916705	344624	Python	csurfer	
-0	34.35	527739	347262	Python3	i_v_a	
 0	34.35	1000361	354894	C++	Ardenrian	
 0	34.34	1269687	375475	Python3	Maggles	
 0	34.34	1005110	342305	Java	daremer	
@@ -523,6 +523,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4874,time=2022-09-20 00:30:
 0	34.23	445200	885503	Go	khreenberg	
 0	34.23	760921	349645	VB.NET	Skleroz	
 0	34.22	751369	340843	C++	tibithegreat	
+0	34.22	569315	340182	C	calibandalsal	
 0	34.22	964187	356160	C#	Ali-AlMosawi	
 0	34.21	873958	341119	C#	cheeser	
 0	34.21	1062192	348596	C	Ch_Amine	
@@ -535,7 +536,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4874,time=2022-09-20 00:30:
 0	34.18	596425	349674	C#	Gammel	
 0	34.17	244742	351221	C#	bhdejager	
 0	34.16	2488368	1916524	OCaml	frayien	
-0	34.16	569315	340182	C	calibandalsal	
 0	34.16	900460	352430	PHP	Payalord	
 0	34.14	1070781	344999	Python	Peterke	
 0	34.14	218189	415584	Python3	[CG]Maxime	
