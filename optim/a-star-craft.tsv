@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1346,time=2022-09-21 00:30:31
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1347,time=2022-09-22 00:30:28
 100	11920	2077805	C++	bamilan	
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
@@ -81,6 +81,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1346,time=2022-09-21 00:30:31
 100	9194	3380514	Java	DFrese	
 100	9170	1481544	C++	ZarthaxX	
 100	9160	1479137	C++	lorenzods	
+100	9160	4528331	C++	AllanB	
 100	9117	2577687	C++	blasterpoard	
 100	9104	1327028	C++	FredericBautista	
 100	9075	1238934	C++	accorp	
@@ -416,6 +417,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1346,time=2022-09-21 00:30:31
 100	3485	4684374	Javascript	Teunisv	
 100	3481	4155983	Javascript	o0lit3	
 100	3473	2377210	Rust	mrBen	
+100	3467	1484601	Java	theFool	
 100	3466	754792	C++	Ramdeath	
 100	3465	2003111	PHP	Krikolo	
 100	3465	4377648	Javascript	Salguero	
@@ -452,10 +454,10 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1346,time=2022-09-21 00:30:31
 100	3224	4781063	Javascript	Nicholi	
 100	3213	4159245	Lua	Karhuttaja	
 100	3213	3625469	VB.NET	Crimson_King	
-100	3205	1484601	Java	theFool	
 100	3189	1480384	C++	RockyMullet	
 100	3179	5077419	TypeScript	Lemmiw1nks	
 100	3160	3770928	C++	ku-haku	
+100	3149	5069945	Python3	RaceBot	
 100	3142	808454	C++	.EagleDawn.	
 100	3127	3762763	C	grisifab	
 100	3126	704875	C#	XaY	
@@ -483,7 +485,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1346,time=2022-09-21 00:30:31
 100	2908	1733593	Scala	Wei-1	
 100	2888	2687239	Go	Baltilius	
 100	2887	795321	Java	berthy424	
-100	2883	5069945	Python3	RaceBot	
 100	2875	3740208	Python3	Dinca	
 100	2862	4851909	Javascript	Yozamu	
 100	2853	2482615	Python3	Zenobia	
@@ -740,6 +741,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1346,time=2022-09-21 00:30:31
 100	1480	2532837	Ruby	fauresebast	
 100	1479	4106688	PHP	LovePou	
 100	1477	1466631	Python3	Akrib	
+100	1464	4187405	C#	1cogniTAU	
 100	1463	2841249	Python3	MathysCouvreur	
 100	1455	4055680	Python3	JOKER5	
 100	1451	4061750	Kotlin	dStulle	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1346,time=2022-09-21 00:30:31
 100	1045	2837367	Javascript	Mozzem	
 100	1045	3806383	Python3	Anaxagore	
 100	1045	3493826	Python3	colmax06	
-100	1045	3488890	Python3	Feulou	
-100	1045	3774856	Python3	_O-MEGA	
