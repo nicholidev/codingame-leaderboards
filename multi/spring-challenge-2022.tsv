@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8016,time=2022-09-22 00:30:14
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8015,time=2022-09-23 00:36:56
 5	34.41	4802230	4264019	C++	Nanaeda	
 5	34.19	2577687	4261360	C++	blasterpoard	
 5	33.85	351062	4296067	C++	Neumann	
@@ -685,8 +685,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8016,time=2022-09-22 00:30:
 4	24.2	1034635	4265104	C++	SlyB	
 4	24.19	925695	4267711	OCaml	Boulet	
 4	24.16	3877700	4266403	Rust	Bytekeeper	
+4	24.06	4838361	4264081	PHP	Ivan1000	
 4	24.04	617317	4267588	Java	Med-Amine	
-4	24.02	4838361	4264081	PHP	Ivan1000	
 4	24	896747	4260450	Javascript	Ab33	
 4	23.95	3673627	4258680	Python3	Elvis_Depresley	
 4	23.9	1787026	4261876	C++	xurei	
@@ -872,6 +872,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8016,time=2022-09-22 00:30:
 4	21.48	2343982	4263430	Python3	S0L0	
 4	21.47	4678802	4258563	Java	CalebC	
 4	21.47	4863398	4261186	C++	Sinkat	
+4	21.47	3938500	4261419	Go	evanforCodin	
 4	21.47	4545142	4267304	C++	akiiino	
 4	21.46	3775061	4260682	Python3	czuk	
 4	21.46	4803555	4259478	C++	cdine	
@@ -884,7 +885,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8016,time=2022-09-22 00:30:
 4	21.43	3586671	4258782	C++	Uemu	
 4	21.43	3260297	4267415	Ruby	Murphyslaw	
 4	21.43	1658810	4267737	Java	khris78	
-4	21.43	3938500	4261419	Go	evanforCodin	
 4	21.43	3055199	4288644	Python3	riedberg	
 4	21.42	4283515	4289206	PHP	FrancoisBaveye	
 4	21.42	1425182	4260970	Scala	Dipucian	
@@ -954,7 +954,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8016,time=2022-09-22 00:30:
 4	20.76	4868138	4259609	Java	Dragicafit	
 4	20.75	4134816	4262423	Python3	.[-.-].	
 4	20.75	4590269	4259102	C#	Cheeriohz	
-4	20.74	4564296	4456484	Kotlin	Yevhen_Sibahatullin	
 4	20.73	3965571	4315700	Python3	Smekarn	
 4	20.73	4977931	4395003	C#	Drezounet	
 4	20.72	3818698	4267328	Python3	Potato-God	
@@ -983,6 +982,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8016,time=2022-09-22 00:30:
 4	20.64	2796534	4261129	TypeScript	Vadrek	
 4	20.64	4856157	4260129	C++	bird01	
 4	20.63	4562863	4263969	Python3	Benoit-Simunsol	
+4	20.63	3123981	4259806	C#	AAAAnt	
 4	20.62	4834769	4258518	C#	ovidiu.caba	
 4	20.61	2124646	4262746	TypeScript	bill86	
 4	20.61	4301550	4264821	C	Sabenson	
@@ -998,4 +998,4 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8016,time=2022-09-22 00:30:
 4	20.55	3821899	4263026	Java	Arakoma	
 4	20.55	1869170	4259507	Javascript	Nauss	
 4	20.55	4046568	4261708	Rust	jfaixo	
-4	20.55	3123981	4259806	C#	AAAAnt	
+4	20.53	4515968	4262926	Java	TetraGG	

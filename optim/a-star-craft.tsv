@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1347,time=2022-09-22 00:30:28
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1350,time=2022-09-23 00:37:15
 100	11920	2077805	C++	bamilan	
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
@@ -63,6 +63,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1347,time=2022-09-22 00:30:28
 100	9589	2436448	Java	FrancoisMeme	
 100	9588	1352413	C++	Bikibi	
 100	9573	1854246	C++	Counterbalance	
+100	9544	4528331	C++	AllanB	
 100	9539	1760921	Go	[Leonardone]-[-_-]-[NEETSDKASU]	
 100	9535	1457162	C++	JFB	
 100	9522	1304841	C++	NitMpez	
@@ -81,7 +82,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1347,time=2022-09-22 00:30:28
 100	9194	3380514	Java	DFrese	
 100	9170	1481544	C++	ZarthaxX	
 100	9160	1479137	C++	lorenzods	
-100	9160	4528331	C++	AllanB	
 100	9117	2577687	C++	blasterpoard	
 100	9104	1327028	C++	FredericBautista	
 100	9075	1238934	C++	accorp	
@@ -275,6 +275,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1347,time=2022-09-22 00:30:28
 100	4919	1227148	Java	Schneewittchen	
 100	4865	1613949	Java	elaaboum	
 100	4863	4673683	C++	BartK	
+100	4818	4513704	C#	Bernardas	
 100	4811	2711438	Python3	Aeneas	
 100	4795	4510436	C#	PauliusG	
 100	4779	3226448	Python3	tobk	
@@ -332,7 +333,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1347,time=2022-09-22 00:30:28
 100	3887	3770880	Java	Yu_212	
 100	3885	3356703	C++	MickaelB	
 100	3882	1824376	Java	Kodle	
-100	3876	4513704	C#	Bernardas	
 100	3869	3792309	C++	schachmatt	
 100	3848	1470927	Javascript	MisterQuidam	
 100	3841	3376849	Python3	Horrip	
@@ -554,6 +554,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1347,time=2022-09-22 00:30:28
 100	2470	3381410	Python3	laurent33	
 100	2470	4034494	Rust	GTaf	
 100	2469	2837454	Java	Inc_	
+100	2466	5076454	C#	TPSaarinen	
 100	2457	4993857	Python3	WouterSolutions	
 100	2447	1792532	C#	Zanbez	
 100	2445	1997415	Java	LordCatello	
@@ -611,7 +612,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1347,time=2022-09-22 00:30:28
 100	2199	4269720	Python3	ShuP1	
 100	2199	4576463	Python3	Didelabedeli	
 100	2198	2100572	Python3	sirsatan	
-100	2196	5076454	C#	TPSaarinen	
 100	2193	2431028	Javascript	Nahoj	
 100	2191	2297753	Python3	Warly7692	
 100	2191	4534731	Java	pire038	
@@ -678,6 +678,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1347,time=2022-09-22 00:30:28
 100	1829	3855753	Python3	tuan91	
 100	1818	2616350	C++	Schnibble	
 100	1816	4505065	Python3	Mbarek	
+100	1815	4187405	C#	1cgn	
 100	1801	3160962	Python3	Aygalic	
 100	1788	1812801	C#	Chauca	
 100	1781	2655682	Java	CoderFromOuterSpace	
@@ -741,7 +742,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1347,time=2022-09-22 00:30:28
 100	1480	2532837	Ruby	fauresebast	
 100	1479	4106688	PHP	LovePou	
 100	1477	1466631	Python3	Akrib	
-100	1464	4187405	C#	1cogniTAU	
 100	1463	2841249	Python3	MathysCouvreur	
 100	1455	4055680	Python3	JOKER5	
 100	1451	4061750	Kotlin	dStulle	
