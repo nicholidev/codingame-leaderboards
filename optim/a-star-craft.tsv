@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1350,time=2022-09-23 00:37:15
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1350,time=2022-09-24 00:30:27
 100	11920	2077805	C++	bamilan	
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
@@ -47,6 +47,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1350,time=2022-09-23 00:37:15
 100	10032	331880	C++	Monstruo	
 100	9997	2731276	C++	panda42	
 100	9900	3647844	C++	rc95401	
+100	9881	4528331	C++	AllanB	
 100	9862	1314316	C++	jolindien	
 100	9856	892056	Java	LaurentTrk	
 100	9805	311035	Python3	leojean890	
@@ -63,7 +64,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1350,time=2022-09-23 00:37:15
 100	9589	2436448	Java	FrancoisMeme	
 100	9588	1352413	C++	Bikibi	
 100	9573	1854246	C++	Counterbalance	
-100	9544	4528331	C++	AllanB	
 100	9539	1760921	Go	[Leonardone]-[-_-]-[NEETSDKASU]	
 100	9535	1457162	C++	JFB	
 100	9522	1304841	C++	NitMpez	
@@ -231,6 +231,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1350,time=2022-09-23 00:37:15
 100	5600	475134	Python3	AgathokakologicalBit	
 100	5575	1243354	C++	RSBat	
 100	5573	1209562	C++	Jiway	
+100	5527	4513704	C#	Bernardas	
 100	5457	2781520	Python3	Karnt	
 100	5456	225875	C#	Leff	
 100	5434	3742936	Python3	David26	
@@ -275,7 +276,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1350,time=2022-09-23 00:37:15
 100	4919	1227148	Java	Schneewittchen	
 100	4865	1613949	Java	elaaboum	
 100	4863	4673683	C++	BartK	
-100	4818	4513704	C#	Bernardas	
 100	4811	2711438	Python3	Aeneas	
 100	4795	4510436	C#	PauliusG	
 100	4779	3226448	Python3	tobk	
@@ -767,6 +767,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1350,time=2022-09-23 00:37:15
 100	1277	1505954	C#	Salintas	
 100	1274	1599552	Go	FlyingRatBull	
 100	1272	2604075	Python3	[CG]NaejDoree	
+100	1265	5093460	Java	Mered	
 100	1249	2069141	C#	tomeko	
 100	1243	414278	Java	oobException	
 100	1239	4386234	Python3	EnoGic	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1350,time=2022-09-23 00:37:15
 100	1045	3783962	C++	Mohsen1365ir	
 100	1045	2837367	Javascript	Mozzem	
 100	1045	3806383	Python3	Anaxagore	
-100	1045	3493826	Python3	colmax06	
