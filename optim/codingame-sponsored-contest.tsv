@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=15472,time=2022-09-24 00:30:27
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=15475,time=2022-09-25 00:44:12
 100	14337	329200	C++	BlitzProg	
 100	13905	3533119	C++	wlesavo	
 100	13603	1366631	Javascript	Morhaus	
@@ -111,6 +111,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15472,time=2022-09-24 00:30:27
 100	3776	1250469	C#	AZen	
 100	3772	1531874	Python3	Raven_Darkhold	
 100	3762	1786164	Pascal	jeromino	
+100	3760	2984707	Python3	Darkduv	
 100	3738	1927198	Java	Glop_Glop	
 100	3736	735910	C++	Agade	
 100	3733	1323814	C++	Wildcat-SC	
@@ -234,6 +235,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15472,time=2022-09-24 00:30:27
 100	3031	1794108	C++	Jeric	
 100	3030	1479137	PHP	lorenzods	
 100	3030	594697	C#	dimulien	
+100	3029	5080275	Javascript	fredericMalard	
 100	3027	3340387	Java	lambdamu	
 100	3025	3166728	C++	0ddlyoko	
 100	3022	828830	C++	duffman	
@@ -908,7 +910,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15472,time=2022-09-24 00:30:27
 100	2454	1855429	Java	Mariusdv	
 100	2454	3427420	Python3	Valno	
 100	2450	2898291	C++	m.zahniser	
-100	2450	5080275	Javascript	fredericMalard	
 100	2442	2668370	Python3	HenriChabert	
 100	2441	1489865	Python3	EricSMSO	
 100	2439	1129326	Python3	CeliTop	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15472,time=2022-09-24 00:30:27
 100	2306	3783481	C#	Yatech	
 100	2304	1196349	C++	SomeNumbers	
 100	2304	1711525	C#	Obe	
-100	2302	1375394	Go	geekk	
