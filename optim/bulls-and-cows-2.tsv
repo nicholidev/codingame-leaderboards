@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=380,time=2022-09-25 00:44:14
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=381,time=2022-09-26 00:30:34
 100	291	2288263	Rust	dbdr	
 100	293	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -58,6 +58,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=380,time=2022-09-25 00:44:14
 100	338	1838549	Rust	orangesnowfox	
 100	339	2438514	C++	davi_bart	
 100	340	4262172	C++	highjump	
+100	343	4641581	C++	hoody7	
 100	345	952784	C++	[CG]Simon	
 100	349	3809853	C++	Emilio-EH	
 100	362	935744	C	Alcalyn	
@@ -209,7 +210,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=380,time=2022-09-25 00:44:14
 95.65217391304348	1721	3783962	Python3	Mohsen1365ir	
 95.65217391304348	1776	3165536	C#	barbora	
 95.65217391304348	5101	314869	Python3	Feromax	
-93.47826086956522	1241	4641581	C++	hoody7	
 93.47826086956522	2083	1072200	C	alze	
 93.47826086956522	4413	3406987	Python3	Radu_Sav	
 91.30434782608695	1912	342576	C++	oros	
@@ -366,6 +366,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=380,time=2022-09-25 00:44:14
 2.1739130434782608	13550	3744084	Python3	racaillou	
 2.1739130434782608	13550	3555728	Python3	KVNMDS	
 2.1739130434782608	13550	2070953	Java	programdestroyer	
+2.1739130434782608	13550	4819486	Java	AbonDukar	
 0	301	4506498	Rust	TimeEngineer	
 0	13846	3627342	C#	Zuabros	
 0	13846	3901646	Python3	VarjaListopad	

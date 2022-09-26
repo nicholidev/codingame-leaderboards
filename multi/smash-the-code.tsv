@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2632,time=2022-09-25 00:43:58
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2632,time=2022-09-26 00:30:22
 5	32.5	1327028	2990369	C++	FredericBautista	
 5	32.04	1400179	2986754	C++	reCurse	
 5	30.68	1413236	511966	Go	Medici	
@@ -879,6 +879,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2632,time=2022-09-25 00:43:
 1	24.66	3141948	4034404	Python3	philRG	
 1	23.87	1559074	735117	C#	Meilby	
 1	23.76	1526032	781283	C++	AdamBadura	
+1	23.69	3143143	2267027	C	TripleCrown	
 1	23.69	880353	497129	Python3	zasmu	
 1	23.69	831171	3342570	Java	Recoding	
 1	23.68	1514906	678800	C++	Gwaka	
@@ -887,10 +888,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2632,time=2022-09-25 00:43:
 1	23.66	2740243	2983464	Python3	Rprades	
 1	23.6	3396528	2578454	C++	surffer3d	
 1	23.57	1195394	593115	Python3	Larnak	
-1	23.56	3143143	2267027	C	TripleCrown	
 1	23.55	1455512	484767	Javascript	Khar	
 1	23.54	1472964	562536	C#	fnudd	
 1	23.54	859508	573090	C#	ger0000	
+1	23.53	1482103	595604	C	BlasterBaz	
 1	23.51	1567782	725150	Perl	brt	
 1	23.5	1508772	805634	PHP	LeadFarmer	
 1	23.5	359746	628910	Java	Shoohei	
@@ -903,7 +904,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2632,time=2022-09-25 00:43:
 1	23.47	1304340	1295886	Java	AntoineLatour	
 1	23.46	1476242	576247	VB.NET	Txiwi	
 1	23.45	3331361	2346994	Javascript	Hikyu	
-1	23.45	1482103	595604	C	BlasterBaz	
 1	23.44	1494618	625811	Javascript	Lune	
 1	23.44	1472464	507333	Javascript	und3fined	
 1	23.44	1409204	487289	Javascript	Ricco7La	
@@ -948,7 +948,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2632,time=2022-09-25 00:43:
 1	23.3	1385478	498347	Python3	ssssssssssssspppppprrrrrrrr	
 1	23.3	890335	1481109	C++	ttr	
 1	23.29	1412502	498595	Javascript	falsidge	
-1	23.29	1505744	648167	Python3	KEKW	
+1	23.29	1505744	648167	Python3	Med.B	
 1	23.29	1448599	508856	C#	MdNght	
 1	23.29	1517028	936212	Python3	Nicau	
 1	23.29	1502298	610550	C#	skargg	
@@ -997,5 +997,5 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2632,time=2022-09-25 00:43:
 1	23.2	1411423	484831	Perl	Wyllyam	
 1	23.2	1439710	614967	Javascript	Buesto	
 1	23.2	1377467	512115	C#	GeorgeClooney	
+1	23.19	1012020	634685	Python3	Markusha	
 1	23.19	3477232	3030518	Python3	AxelVo	
-1	23.19	3101644	2622382	Python3	HerrHagner	
