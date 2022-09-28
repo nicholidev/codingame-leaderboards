@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=382,time=2022-09-27 01:09:36
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=382,time=2022-09-28 00:36:44
 100	291	2288263	Rust	dbdr	
 100	293	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -50,6 +50,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=382,time=2022-09-27 01:09:36
 100	329	4802208	C++	cestpasvrai	
 100	330	4870604	Go	willbeason	
 100	332	759147	C++	kisszots	
+100	332	4641581	C++	hoody7	
 100	334	1449433	C++	Rolf	
 100	335	888898	C++	helgui	
 100	336	2110342	Javascript	lchenay	
@@ -58,7 +59,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=382,time=2022-09-27 01:09:36
 100	338	1838549	Rust	orangesnowfox	
 100	339	2438514	C++	davi_bart	
 100	340	4262172	C++	highjump	
-100	343	4641581	C++	hoody7	
 100	345	952784	C++	[CG]Simon	
 100	349	3809853	C++	Emilio-EH	
 100	362	935744	C	Alcalyn	
@@ -211,9 +211,9 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=382,time=2022-09-27 01:09:36
 95.65217391304348	1776	3165536	C#	barbora	
 95.65217391304348	5101	314869	Python3	Feromax	
 93.47826086956522	2083	1072200	C	alze	
+93.47826086956522	3053	4199011	Python3	_MarTiaN_	
 93.47826086956522	4413	3406987	Python3	Radu_Sav	
 91.30434782608695	1912	342576	C++	oros	
-91.30434782608695	4708	4199011	Python3	MarTiaNe	
 89.1304347826087	2426	580424	Ruby	siman	
 89.1304347826087	2950	4269171	Python3	actualCoderTrevor	
 89.1304347826087	3333	3382273	Python3	hasleron	
