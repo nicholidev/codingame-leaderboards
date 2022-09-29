@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=285,time=2022-09-28 00:36:45
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=294,time=2022-09-29 00:30:29
 100	201382	2288263	Rust	dbdr	
 100	201382	4277867	D	About	
 100	201382	2077805	C++	bamilan	
@@ -67,7 +67,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=285,time=2022-09-28 00:36:45
 100	213842	973040	F#	papyjo	
 100	213865	2981630	C++	AstroHydes	
 100	214159	512097	Haskell	Stilgart	
-100	214247	4802208	C++	cestpasvrai	
 100	214276	153965	Python3	[CG]Keelhaul	
 100	214489	224325	Go	[BZH]TidyMaze	
 100	214729	278212	Python3	vmp	
@@ -84,7 +83,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=285,time=2022-09-28 00:36:45
 100	217926	3771662	Python3	meltice	
 100	218086	4949237	C#	FragJage	
 100	218692	1630890	Java	Wld	
-100	219001	3094191	C	GeraldJB	
+100	218990	3094191	C	GeraldJB	
 100	219228	1131528	C#	Owl	
 100	219855	3938395	C++	Quentin18	
 100	220943	4562865	Python3	VilBoub_junior	
@@ -228,6 +227,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=285,time=2022-09-28 00:36:45
 100	250555	4213251	C#	FrancisTafe	
 100	250555	4819330	Javascript	rocambille	
 100	250555	1766900	Python3	zanintony	
+100	250555	5103561	Python3	Anonymous331133	
 100	250784	1179357	Rust	avdg	
 100	251611	4954542	Python3	DrunkeyCPP	
 100	253965	938374	C#	UnmanagedCode	
@@ -259,8 +259,14 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=285,time=2022-09-28 00:36:45
 100	1326249	4865140	Go	demetedPufferfish	
 100	1609568	4815186	Javascript	Nab1ee	
 100	1947232	2874091	Python3	5DN1L	
+100	1967291	3781953	Python3	ivvv	
+100	1974769	5103557	Python3	Belykh	
+100	1977532	5103574	Python3	viktor_korneeb	
+100	1978526	5103558	Python3	Slabinsky.Artem	
+100	1980741	5103539	Python3	MoscalT	
 100	2193922	4122723	Python3	Hydrazer	
 100	2199609	2064637	Java	java_coffee_cup	
+100	2209816	5103568	C++	Pushak	
 100	2212202	3738308	Javascript	sgbd	
 100	2217143	4442007	C++	D3Dou	
 100	2219406	4367329	C#	Mr.WhiskeyPerson	
@@ -275,12 +281,15 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=285,time=2022-09-28 00:36:45
 100	2219406	3889087	Java	NaturelOUI	
 100	2219406	436451	Rust	piri	
 100	2219406	4802305	Python3	GervantFromRovia	
+100	2219406	5077862	Python3	KolokolovAlexandr	
 100	2223289	3136787	Python3	jacek	
 100	2784200	4211056	C#	Nachosauce	
 100	3211740	1378958	C#	Illedan	
 100	3246732	1500515	Python3	eulerscheZahl	
+33.333333333333336	151690	5103569	Python3	VeronikaAccel	
 0	-15	4899415	C++	vvgf	
 0	-15	4436271	Python3	Ayza	
 0	-15	5021607	Python3		
 0	-15	2325449	Perl	otpv	
 0	0	4759510	Java	Darleanow	
+0	0	5103578	Python3		

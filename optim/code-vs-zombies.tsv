@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=15229,time=2022-09-28 00:36:42
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=15248,time=2022-09-29 00:30:26
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -328,6 +328,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15229,time=2022-09-28 00:36:42
 100	206040	2080768	C++	Binchy	
 100	205690	2051334	C++	Dwarth	
 100	205670	1487392	Java	Razielwar	
+100	205540	4841063	Go	Naxus	
 100	205460	3884461	C	NguyenHoangSon	
 100	205310	1547011	C	Mandzi	
 100	205280	3877700	Rust	Bytekeeper	
@@ -736,7 +737,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15229,time=2022-09-28 00:36:42
 100	89080	1181432	C#	ftpud	
 100	89060	4428968	Python3	neufdeux	
 100	88630	779372	C++	ncin	
-100	88540	4802208	C++	cestpasvrai	
+100	88540	5104410	C++	Dracaufeu	
 100	88410	425477	Java	selslack	
 100	88300	3792309	Python3	schachmatt	
 100	88150	992078	Java	TheNumberOne	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15229,time=2022-09-28 00:36:42
 100	64680	1652969	C#	Berci79	
 100	64660	1806837	C++	Pecpeck	
 100	64660	1066745	Java	DepartmentOfRedundancy	
-100	64660	1256312	C#	Djoums	

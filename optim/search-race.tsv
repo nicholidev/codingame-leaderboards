@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=876,time=2022-09-28 00:36:44
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=877,time=2022-09-29 00:30:28
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -816,6 +816,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=876,time=2022-09-28 00:36:44
 68	33147.86000000001	4075086	C++	StanislawLem	
 66	33439.409999999996	2557040	Python3	AndriusJonaitis	
 66	34227.29000000001	3499956	Python3	Kickafarce	
+64	30532.78	1384397	C#	BigZ	
 64	33658.37999999998	4124486	Python3	JoTue	
 64	33764.51000000001	935744	TypeScript	Alcalyn	
 62	33823.42999999999	4182777	Python3	Andrei125	
