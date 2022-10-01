@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=877,time=2022-09-30 00:42:46
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=878,time=2022-10-01 01:12:38
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -667,6 +667,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=877,time=2022-09-30 00:42:46
 96	23352.36	1178401	Python3	mizzHuarta	
 96	23412.66	1286800	C++	CursingLlama	
 96	23723.76	4446060	Python3	Prodigity	
+96	23765.869999999995	2802293	Python3	KarimGehad	
 96	24124.110000000008	4084022	TypeScript	Omega1515	
 96	24468.73999999999	3498674	C++	Sko0owi	
 96	24523.69	4589257	Python3	Anger1st	
