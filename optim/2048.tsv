@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=944,time=2022-10-02 01:03:25
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=945,time=2022-10-03 00:30:34
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
 100	59353552	2436448	C++	FrancoisMeme	
@@ -65,6 +65,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=944,time=2022-10-02 01:03:25
 100	10745408	3839774	Rust	gurvan_lullien	
 100	10628172	3721214	C++	jrke	
 100	10404892	3173494	Java	WKDE	
+100	10233464	4641581	C++	hoody7	
 100	10183760	1861258	Rust	Nazdhun	
 100	10014568	4334077	C++	Paul_Demanze	
 100	10013012	3726978	C++	VirtualAtom	
@@ -184,7 +185,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=944,time=2022-10-02 01:03:25
 100	801432	4288724	Java	RenardFute	
 100	775968	1879060	Python3	Bozydarek	
 100	743920	4481912	Python3	Dr_Monkey	
-100	742560	4641581	C++	hoody7	
 100	728216	4081047	Javascript	Rezhay	
 100	725440	3842838	TypeScript	Streusel	
 100	718036	4105514	Python3	FeiChong	
@@ -929,6 +929,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=944,time=2022-10-02 01:03:25
 100	344	4796246	C++	Razgoul	
 100	344	5016177	Javascript	ashutoshpatro	
 100	344	5020096	TypeScript	dabai~	
+100	344	1630012	Rust	vinogradnick	
 100	300	4094683	Python3	Loes	
 100	300	275626	Javascript	GreyMoon	
 100	300	3487406	C#	SyvachenkoMK	
