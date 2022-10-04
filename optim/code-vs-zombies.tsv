@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=15289,time=2022-10-03 00:30:32
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=15308,time=2022-10-04 01:04:36
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -173,6 +173,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15289,time=2022-10-03 00:30:32
 100	246140	1314796	C#	JBence	
 100	245760	1861258	Rust	Nazdhun	
 100	245640	854952	Java	dolmen1234	
+100	245630	4537924	Rust	ArtesScytale	
 100	245600	1481544	C++	ZarthaxX	
 100	245340	4187405	C	1cgn	
 100	243290	4960856	C	nacharov	
@@ -198,7 +199,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15289,time=2022-10-03 00:30:32
 100	236160	860404	C++	Vitruvius	
 100	235280	2196209	C++	Actium	
 100	235020	2006324	C	Djangonaut	
-100	234990	4537924	Rust	ArtesScytale	
 100	234820	976712	C++	Ridakz	
 100	234560	1831684	Java	dbf	
 100	234480	1206537	C++	MadKnight	
@@ -344,7 +344,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15289,time=2022-10-03 00:30:32
 100	204210	4759510	C	Darleanow	
 100	204080	4039794	C	Codeab	
 100	204000	154388	C++	PonyPonyCodeCode	
-100	203960	1179950	Go	Patorikkuyatta	
+100	203960	1179950	Go	PattoWaGuruDesu	
 100	203890	1715811	Java	PositiveQuark	
 100	203480	2350846	C++	DrBloodmoney	
 100	203400	1880319	C++	WildSmilodon	
@@ -656,6 +656,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15289,time=2022-10-03 00:30:32
 100	113480	3310317	Python3	AWOL	
 100	113260	4899513	Python3	TheOtherNameWasTaken	
 100	113140	965891	Javascript	ElanVB	
+100	112950	4026427	Rust	Ratavaj	
 100	112920	1181768	Javascript	dio_O	
 100	112900	2818736	C++	smurfWTIT	
 100	112670	1442344	PHP	PavelRaskin	
@@ -718,7 +719,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15289,time=2022-10-03 00:30:32
 100	96180	1894833	Python3	Rimailleur	
 100	95970	4519620	C++	Mmhmm	
 100	95780	1034635	C++	SlyB	
-100	95590	4026427	Rust	Ratavaj	
 100	95430	1546222	Javascript	julidon	
 100	95330	1039456	Go	nikokolas	
 100	95230	754792	C++	Ramdeath	
