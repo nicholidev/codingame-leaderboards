@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4876,time=2022-10-06 00:30:17
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4877,time=2022-10-07 00:30:22
 0	47.16	1433161	1484525	C	mingu1.kang	
 0	45.59	494104	455215	C++	Recar	
 0	45.18	990110	357643	C++	Rogerup	
@@ -99,8 +99,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4876,time=2022-10-06 00:30:
 0	40.39	842532	345362	Ruby	spy	
 0	40.31	335954	2238670	Java	nmahoude	
 0	40.2	1062653	356269	C++	planB	
-0	39.94	834728	352887	Java	ki-ki33	
-0	39.91	567736	357038	C++	dam94	
+0	40	567736	357038	C++	dam94	
+0	39.91	834728	352887	Java	ki-ki33	
 0	39.85	217547	358235	Haskell	stderr	
 0	39.76	311423	3880568	Javascript	kirzyka	
 0	39.61	2522090	4291598	C++	MSmits	
@@ -418,13 +418,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4876,time=2022-10-06 00:30:
 0	34.78	566909	346113	Python	the_travelling-salesman	
 0	34.76	536072	343971	Java	IKarl	
 0	34.75	792813	356355	Python3	VilBoub	
-0	34.75	4347092	3722700	OCaml	Tenroc_MPSI_LIV	
 0	34.74	907714	354801	Java	Janot	
 0	34.73	273004	355833	C++	ptitrex	
 0	34.73	155920	3868223	PHP	t2_cyborg	
 0	34.73	370259	343960	VB.NET	Queloune	
 0	34.72	1054276	344538	C#	Alexein	
 0	34.7	1039456	343728	C++	nikokolas	
+0	34.69	4347092	3722700	OCaml	Tenroc_MPSI_LIV	
 0	34.69	4347098	3721730	OCaml	Axelle_MPSI_LIV_2020	
 0	34.67	1060548	358090	Python	Marc-	
 0	34.67	1542460	861301	Java	[CPC]totoleharicotvert	
@@ -638,7 +638,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4876,time=2022-10-06 00:30:
 0	33.06	1442633	468758	Java	buldozer	
 0	33.02	604196	342430	Python3	sunny0	
 0	33	369018	452292	C++	Bnc	
-0	33	1441132	475633	Python	ryan-morra	
 0	32.98	1005061	351609	Ruby	drac	
 0	32.96	1087109	361761	C++	Norival	
 0	32.95	1501735	789120	Python3	bernardlavilliers	
@@ -649,6 +648,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4876,time=2022-10-06 00:30:
 0	32.92	1234905	479664	Java	DavidAvakov	
 0	32.92	431256	344924	C#	Ps-spectre	
 0	32.92	1068652	355894	C++	Stormer	
+0	32.91	1441132	475633	Python	ryan-morra	
 0	32.9	902195	345241	Java	0x43-0x50	
 0	32.89	1061542	355530	Java	Mwha	
 0	32.88	1502379	3977721	Java	B-GangsteR	
