@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=15406,time=2022-10-12 00:42:13
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=15414,time=2022-10-13 00:30:36
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -324,6 +324,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15406,time=2022-10-12 00:42:13
 100	207540	331248	C	Zycho	
 100	207490	3626931	C	BlackStorm	
 100	207090	4937137	C++	Rayshin	
+100	206860	5086754	C#	degreste	
 100	206770	3356703	C	MickaelB	
 100	206700	4809631	C++	Bruicanlas	
 100	206480	4659075	C	WillyChen	
@@ -355,7 +356,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15406,time=2022-10-12 00:42:13
 100	203220	2661980	C++	Leos	
 100	203110	3920887	C	~raiders	
 100	202890	3960362	C	Asgardinho	
-100	202660	5086754	Java	degreste	
 100	202450	1853167	Java	rcode	
 100	202360	272290	Go	Clement0635	
 100	202300	3939443	C++	Lafihalas	
@@ -485,6 +485,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15406,time=2022-10-12 00:42:13
 100	172010	3203557	C++	burnpanck	
 100	171870	1258533	Rust	MathJason	
 100	171820	957176	F#	MWilliam	
+100	171820	961887	C++	PadFooT	
 100	171720	1096201	Javascript	Maksimov	
 100	171060	1049935	C++	Azkellas	
 100	171010	1759839	C++	matleg	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15406,time=2022-10-12 00:42:13
 100	64910	3399400	C++	MisterFlos	
 100	64910	4960358	C++	VPM	
 100	64910	4913721	C++	VPH	
-100	64890	1372843	Java	djjeck	
