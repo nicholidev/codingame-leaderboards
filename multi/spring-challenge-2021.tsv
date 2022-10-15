@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7934,time=2022-10-14 00:30:10
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7935,time=2022-10-15 00:34:54
 5	43.97	1400179	3665384	C++	reCurse	
 5	39.58	3457031	3873772	C++	YurkovAS	
 5	38.21	4300424	3704114	Rust	kurnevsky	
@@ -444,8 +444,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7934,time=2022-10-14 00:30:
 4	39.13	3664238	3668212	Javascript	fbouibao	
 4	39.1	4307227	3670254	C++	doosan.baek	
 4	39.06	4307296	3671142	Java	JusteEtienne	
-4	39.02	532050	3665598	Java	zeTerror	
 4	39.02	4322180	3668302	Python3	PetrV	
+4	39.02	532050	3665598	Java	zeTerror	
 4	39.01	2123423	3665728	Java	splanard	
 4	38.98	3699585	3675621	Python3	Viande	
 4	38.98	3501209	3704459	Python3	Whatar	
@@ -665,6 +665,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7934,time=2022-10-14 00:30:
 4	35.67	4059758	3669210	Rust	scolen	
 4	35.67	154078	3665764	Java	Yahya.Elfakir	
 4	35.66	2783687	3665708	PHP	AdrienLopez	
+4	35.66	4061491	3669678	Python3	pbc	
 4	35.65	2881783	3665555	C++	eki	
 4	35.65	1439344	3668861	Python3	Gronahak	
 4	35.65	1609946	3674832	C++	PeopleOfPlay	
@@ -672,7 +673,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7934,time=2022-10-14 00:30:
 4	35.64	4338330	3669917	C#	0Ph	
 4	35.63	2045078	3753234	C#	Sharaks	
 4	35.63	1162034	3669847	C++	krakeusz	
-4	35.63	4061491	3669678	Python3	pbc	
 4	35.63	512169	4276988	Javascript	Soul_0000	
 4	35.63	2102562	3668149	Python3	lyan	
 4	35.62	4046568	3668519	Rust	jfaixo	
@@ -971,7 +971,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7934,time=2022-10-14 00:30:
 4	32.12	4324604	3670548	C++	Ziurke	
 4	32.11	1329263	3669777	C++	Mihai_	
 4	32.11	536072	3670026	Java	IKarl	
-4	32.11	3820556	3665780	C++	first_vil	
 4	32.1	4054608	3667418	C++	Rikus	
 4	32.1	1492846	3665807	Java	mdaw	
 4	32.09	3512678	3670694	C++	jjjjjjjtgpptmjj	
@@ -999,3 +998,4 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7934,time=2022-10-14 00:30:
 4	31.97	424510	3668118	Kotlin	csj	
 4	31.97	867381	3665219	Java	Kryword	
 4	31.96	1386924	3674626	Python3	Ylec	
+4	31.96	3049775	3668203	TypeScript	lbrillet	
