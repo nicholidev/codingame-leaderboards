@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=15558,time=2022-10-16 00:37:35
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=15561,time=2022-10-17 00:56:33
 100	14337	329200	C++	BlitzProg	
 100	13905	3533119	C++	wlesavo	
 100	13603	1366631	Javascript	Morhaus	
@@ -923,6 +923,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15558,time=2022-10-16 00:37:35
 100	2441	1489865	Python3	EricSMSO	
 100	2439	1129326	Python3	CeliTop	
 100	2434	984854	Haskell	DKurilo	
+100	2434	4470326	Haskell	BrokenBrain	
 100	2432	1953786	Python3	ludowsky	
 100	2430	3724092	Python3	zurakin	
 100	2428	3533314	C#	skotz	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15558,time=2022-10-16 00:37:35
 100	2322	1165720	Java	HuXi	
 100	2322	3546264	Java	cpuid	
 100	2322	3775656	Python3	Folichon	
-100	2320	925695	OCaml	Boulet	

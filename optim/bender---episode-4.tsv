@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=276,time=2022-10-16 00:37:35
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=276,time=2022-10-17 00:56:34
 100	1570	4618693	PHP	cedricdd	
 100	1596	3918583	Rust	mikmak	
 100	1675	2288263	Rust	dbdr	
@@ -68,6 +68,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=276,time=2022-10-16 00:37:35
 100	5436	792813	Python3	VilBoub	
 100	5940	1333869	Python3	kiwijam	
 100	6128	3317508	Javascript	m4683	
+100	6206	4551333	Python3	Darazdeblek	
 100	6332	3271550	C++	Eggface	
 100	6615	3518006	Python3	mvpnek	
 100	8624	2662309	F#	AnInventiveNameOfRepute	
@@ -190,7 +191,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=276,time=2022-10-16 00:37:35
 0	0	4169982	Javascript	Madjestik	
 0	0	3478673	Javascript	never-again	
 0	0	4993857	Python3	WouterSolutions	
-0	0	4551333	Python3	Darazdeblek	
 0	7	4788358	C#	mattyPea	
 0	16	3503501	C++	Dagnarus	
 0	30	1060181	Ruby	Dabou	
