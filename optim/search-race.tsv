@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=886,time=2022-10-19 00:30:33
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=886,time=2022-10-20 00:39:23
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -585,6 +585,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=886,time=2022-10-19 00:30:33
 100	23265.46	4068639	Java	IxionTour	
 100	23295.250000000007	3497305	Python3	PyPatzer	
 100	23384.120000000003	2708267	Javascript	XyoloJR	
+100	23476.06999999999	4551333	Python3	Darazdeblek	
 100	23559.509999999995	1438487	Java	dawici	
 100	23580.36	3657937	Python3	elderlybeginner	
 100	23601.38	1968855	Java	ThePurificator	
@@ -677,6 +678,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=886,time=2022-10-19 00:30:33
 96	24468.73999999999	3498674	C++	Sko0owi	
 96	24523.69	4589257	Python3	Anger1st	
 96	24579.090000000007	1077506	Go	gs2	
+96	24678.929999999997	5054746	Python3	Tristan_Ba	
 96	24812.420000000013	4058594	Javascript	WisTala	
 96	24990.300000000003	3837943	C++	NullInf	
 96	25144.01	2243940	Python3	Revenge911	
@@ -735,7 +737,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=886,time=2022-10-19 00:30:33
 88	28046.39999999999	3644165	Python3	uuk1301	
 88	28079.53	4010453	C#	PavelKsdnv	
 88	28095.37	1492846	Python3	mdaw	
-88	28151.450000000004	4551333	Python3	Darazdeblek	
 86	27078.370000000003	2696431	Python3	NJBF	
 86	27745.33	3946057	Go	boogiepop	
 86	28144.07999999999	1205152	Javascript	cfoll	
@@ -834,7 +835,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=886,time=2022-10-19 00:30:33
 56	36662.31	3774500	Javascript	zakariamouhid	
 54	36364.67	3594992	Python3	Babapt	
 52	37252.94000000002	4009018	Javascript	Deltfather	
-50	37891.98	5054746	Python3	Tristan_Ba	
 48	38008.48	3787419	Python3	Thyl	
 42	39624.899999999994	4579776	Python3	No_Way	
 40	38775.69	4508780	C++	nikita201150	
