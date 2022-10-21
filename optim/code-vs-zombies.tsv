@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=15530,time=2022-10-20 00:39:21
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=15550,time=2022-10-21 00:30:36
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -160,6 +160,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15530,time=2022-10-20 00:39:21
 100	250340	1186250	C#	Gabbek	
 100	250300	4251195	C	Smelty	
 100	250100	4392205	C	unknownTBD	
+100	249710	1728326	C++	yduf	
 100	249510	2178660	Javascript	monkeyD.Luffy	
 100	248650	1566335	Java	BeardedWhale	
 100	248580	862336	C++	Zaphus	
@@ -199,7 +200,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15530,time=2022-10-20 00:39:21
 100	236260	4661946	C	Justix	
 100	236160	860404	C++	Vitruvius	
 100	235280	2196209	C++	Actium	
-100	235020	2006324	C	Djangonaut	
+100	235020	2006324	C	Oussama_SIharde	
 100	234820	976712	C++	Ridakz	
 100	234560	1831684	Java	dbf	
 100	234480	1206537	C++	MadKnight	
@@ -286,6 +287,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15530,time=2022-10-20 00:39:21
 100	214920	3750700	C++	VulpesCorsac	
 100	214740	3965091	C		
 100	214650	581921	C++	GuyBol	
+100	214620	5131313	C	Pell66	
 100	214510	3965095	C	Scotty9	
 100	214280	2377220	C++	arstneio	
 100	214050	4067707	C++	therealbeef	
@@ -393,6 +395,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15530,time=2022-10-20 00:39:21
 100	195000	925695	OCaml	Boulet	
 100	194890	2521360	C	g.naboychenko	
 100	194710	4827859	C	00unknown	
+100	194600	1268618	Java	Barnou	
 100	194440	1018437	C++	dubicube	
 100	194240	4392570	C++	Know~~Nothing	
 100	193290	1989412	C#	Skewnart	
@@ -431,7 +434,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15530,time=2022-10-20 00:39:21
 100	185110	1122412	Java	TheNinja	
 100	184740	3924101	C++	kzntz	
 100	184390	4083405	C++	jzen	
-100	184380	1268618	Java	Barnou	
 100	183740	4370748	C++	Raphiking	
 100	183690	3941506	C#	Blacksheep	
 100	183080	2592027	C#	ParticleBeam	
@@ -733,7 +735,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15530,time=2022-10-20 00:39:21
 100	94120	935744	C	Alcalyn	
 100	93690	2212306	C++	asad_nitp	
 100	93690	2211649	C++	MdAsadRub	
-100	93310	1728326	C++	yduf	
 100	92730	1693448	Python3	KoenduBuf	
 100	92600	530441	C++	Prime541	
 100	92090	3774010	Python3	Presac	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15530,time=2022-10-20 00:39:21
 100	65030	3018110	Python3	MechLizardThing	
 100	65010	1234947	Javascript	kuro	
 100	64960	4730289	Python3	Claypiston	
-100	64930	509738	C#	Konrad_Wer	
