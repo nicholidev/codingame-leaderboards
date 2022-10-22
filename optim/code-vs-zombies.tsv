@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=15550,time=2022-10-21 00:30:36
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=15562,time=2022-10-22 00:30:35
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -32,6 +32,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15550,time=2022-10-21 00:30:36
 100	611130	837350	C++	BorisZ	
 100	543500	1273065	C++	TheRadical	
 100	505510	1549145	C++	Mealc	
+100	499810	1728326	C++	yduf	
 100	496310	893541	Java	wala	
 100	494650	4070745	C	HoriMiyamura	
 100	487200	862919	C++	Astrobytes	
@@ -160,7 +161,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15550,time=2022-10-21 00:30:36
 100	250340	1186250	C#	Gabbek	
 100	250300	4251195	C	Smelty	
 100	250100	4392205	C	unknownTBD	
-100	249710	1728326	C++	yduf	
 100	249510	2178660	Javascript	monkeyD.Luffy	
 100	248650	1566335	Java	BeardedWhale	
 100	248580	862336	C++	Zaphus	
