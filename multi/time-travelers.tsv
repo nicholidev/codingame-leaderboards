@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4884,time=2022-10-24 00:41:50
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4885,time=2022-10-25 00:37:00
 0	47.16	1433161	1484525	C	mingu1.kang	
 0	45.59	494104	455215	C++	Recar	
 0	45.18	990110	357643	C++	Rogerup	
@@ -80,7 +80,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4884,time=2022-10-24 00:41:
 0	41.03	1062082	344773	C++	MaxKamensky	
 0	41.02	818534	347972	C++	Ixanezis	
 0	40.93	893541	3174272	Java	wala	
-0	40.87	507383	341342	C#	Vadasz	
+0	40.9	507383	341342	C#	Vadasz	
 0	40.86	2233179	1762001	C++	Samsa	
 0	40.82	1195934	1611063	C++	odinmillion	
 0	40.79	1910916	3837849	C++	VivienBillot	
@@ -284,9 +284,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4884,time=2022-10-24 00:41:
 0	36.39	783215	348453	C++	AndreiS	
 0	36.38	827957	352275	Python	harvestsnow	
 0	36.38	1400179	1311380	C++	reCurse	
-0	36.37	2786666	2150454	C++	TetraktysPhi	
 0	36.36	404777	345500	C++	Joodoc	
 0	36.34	840102	340103	C#	KooKiz	
+0	36.33	2786666	2150454	C++	TetraktysPhi	
 0	36.33	884069	357502	Python3	punxxy	
 0	36.31	225875	2139918	C#	Leff	
 0	36.29	913697	575048	Java	Tsa6	
@@ -678,7 +678,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4884,time=2022-10-24 00:41:
 0	32.8	1110041	3354243	C#	Partybwal	
 0	32.8	1321710	410641	OCaml	Swagboy	
 0	32.79	1045884	410907	C++	Jaestrim	
-0	32.79	425757	415197	Ruby	Keres	
 0	32.79	973948	365559	Python3	Amnesix	
 0	32.79	1411423	491913	Perl	Wyllyam	
 0	32.79	4347131	3722352	OCaml	Auxence-MPSI-LIV	
@@ -707,6 +706,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4884,time=2022-10-24 00:41:
 0	32.73	863425	353693	C#	Antlershy	
 0	32.73	1040245	355307	C	Matze	
 0	32.73	4108926	3434689	Python3	Saydrick	
+0	32.72	425757	415197	Ruby	Keres	
 0	32.72	155906	354046	Scala	AlainBearez	
 0	32.71	692782	1466297	C++	lafraise	
 0	32.71	406152	357568	Python	TiarinBlate	
@@ -774,6 +774,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4884,time=2022-10-24 00:41:
 0	32.34	1512968	906123	Java	cuduputu	
 0	32.34	1081827	4010953	Python3	[CG]MathisHammel	
 0	32.32	292846	1622962	C++	Ninja	
+0	32.32	1042422	343985	Java	Chabal	
 0	32.32	811622	3899786	C++	Scarfield	
 0	32.31	1065546	355994	C++		
 0	32.31	1755689	911450	Javascript	dgjxqz	
@@ -789,7 +790,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4884,time=2022-10-24 00:41:
 0	32.24	905697	355097	C#	SharkyRS	
 0	32.2	2962429	3862411	Python3	Daneon	
 0	32.19	2106827	1445894	C++	shangshandaye	
-0	32.18	1042422	343985	Java	Chabal	
 0	32.16	1427078	485036	Java	ToshiTuringMachine	
 0	32.16	4087664	3364065	C++	YodaMaster123	
 0	32.14	922495	375118	Python3	Dx	
