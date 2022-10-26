@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=318,time=2022-10-25 00:37:12
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=319,time=2022-10-26 00:51:59
 100	201382	2288263	Rust	dbdr	
 100	201382	4277867	D	About	
 100	201382	2077805	C++	bamilan	
@@ -36,6 +36,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=318,time=2022-10-25 00:37:12
 100	207167	2007852	Lua	Zorg1	
 100	207602	3478673	Javascript	never-again	
 100	207940	992329	C++	BeeGee	
+100	208094	3338501	C#	mox90oly	
 100	208303	792813	Python3	VilBoub	
 100	209198	2962968	C#	Pukunya	
 100	209210	1489865	C++	EricSMSO	
@@ -114,7 +115,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=318,time=2022-10-25 00:37:12
 100	232969	4668562	Python3	theaddyct	
 100	234148	4134943	Python3	vinc-r	
 100	234276	4760013	Python3	KinaKhongs	
-100	234380	3338501	C#	mox90oly	
 100	234565	925695	OCaml	Boulet	
 100	234909	3787419	C++	Thyl	
 100	235231	1193459	C++	izanbf	
@@ -311,6 +311,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=318,time=2022-10-25 00:37:12
 100	2784200	4211056	C#	Nachosauce	
 100	3211740	1378958	C#	Illedan	
 100	3246732	1500515	Python3	eulerscheZahl	
+13.333333333333334	8583	5098609	Java	proprogramermer	
 0	-15	4899415	C++	vvgf	
 0	-15	4436271	Python3	Ayza	
 0	-15	5021607	Python3		

@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=957,time=2022-10-25 00:37:12
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=960,time=2022-10-26 00:51:59
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
 100	59353552	2436448	C++	FrancoisMeme	
@@ -9,6 +9,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=957,time=2022-10-25 00:37:12
 100	58727648	735487	C++	amurushkin	
 100	58266452	3012238	C++	miszu	
 100	57212812	351062	C++	Neumann	
+100	57211540	860404	C++	Vitruvius	
 100	56971532	3319855	C#	Drobor	
 100	56714844	1344487	C++	UnnamedCodinGamer	
 100	56705576	2923506	C++	darkhorse64	
@@ -18,7 +19,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=957,time=2022-10-25 00:37:12
 100	55152672	893541	Java	wala	
 100	54242784	2968035	C++	DomiKo	
 100	54182244	1500515	C#	eulerscheZahl	
-100	49735712	860404	C++	Vitruvius	
 100	47465840	1709070	Rust	platypus999	
 100	46940352	3918583	Rust	mikmak	
 100	46719868	3348388	C++	bowwowforeach	
@@ -191,6 +191,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=957,time=2022-10-25 00:37:12
 100	718036	4105514	Python3	FeiChong	
 100	710608	3755551	C++	Zeffar	
 100	709680	3496153	Python3	lndshs	
+100	705536	2674460	Python3	Malte42	
 100	643904	1452327	Rust	solmir	
 100	607052	2978314	Python3	guir	
 100	600680	1861852	Javascript	Cramer	
@@ -403,7 +404,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=957,time=2022-10-25 00:37:12
 100	59364	2802015	PHP	Psycholoveur	
 100	59284	3787419	C++	Thyl	
 100	59284	4801044	C++	T19	
-100	58892	2674460	Python3	Malte42	
 100	58428	2592027	C#	ParticleBeam	
 100	58392	2662368	Python3	NikitaSkybytskyi	
 100	58056	3750985	Python3	vexilla72	
@@ -430,6 +430,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=957,time=2022-10-25 00:37:12
 100	55744	1158098	Javascript	Matjaz	
 100	55744	4275410	Python3	rk2021	
 100	55744	5063226	Javascript	K-J	
+100	55744	5079842	C++	Yaroslav_Denisovich	
 100	55420	4105993	Java	Angeles	
 100	55300	3941789	Dart	LastRick	
 100	54884	3728105	Python3	Marcusde36ste	
@@ -942,6 +943,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=957,time=2022-10-25 00:37:12
 100	344	1129366	Java	kkkaaa	
 100	344	1673734	Javascript	pshezgyr	
 100	344	5139303	C		
+100	344	5149581	C#	ThoCo	
+100	344	2874091	Python3	5DN1L	
 100	300	4094683	Python3	Loes	
 100	300	275626	Javascript	GreyMoon	
 100	300	3487406	C#	SyvachenkoMK	
