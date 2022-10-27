@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4885,time=2022-10-26 00:46:14
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4886,time=2022-10-27 00:41:52
 0	47.16	1433161	1484525	C	mingu1.kang	
 0	45.59	494104	455215	C++	Recar	
 0	45.18	990110	357643	C++	Rogerup	
@@ -130,10 +130,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4885,time=2022-10-26 00:46:
 0	38.97	877850	348071	Java	Edin	
 0	38.94	969333	348490	Python3	ItsJasper	
 0	38.87	712421	347830	Java	Kiwi	
+0	38.84	4470306	3878475	C++	NONstope	
 0	38.83	1170254	364830	C++	Vytma	
 0	38.82	844547	340421	Java	Superthib	
 0	38.82	3235897	3716403	Java	Zylo	
-0	38.76	4470306	3878475	C++	NONstope	
 0	38.74	2662838	1917411	OCaml	bowser	
 0	38.73	848394	352597	Java	schwarzahl	
 0	38.68	2639926	2356200	OCaml	PROF-LIV	
@@ -143,9 +143,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4885,time=2022-10-26 00:46:
 0	38.56	1767134	1325988	Java	AntonYuriev	
 0	38.56	3583985	3945762	Java	Nefael	
 0	38.54	1073397	890427	C++	Calsmurf2904	
-0	38.53	806823	356569	C	Zer0	
 0	38.53	1010004	354546	C#	[O]nclejoe	
 0	38.51	950512	943649	C++	salim.aboubacar	
+0	38.47	806823	356569	C	Zer0	
 0	38.46	935565	354751	Java	Vil_Rouquin	
 0	38.46	701722	355905	C#	Pouleto	
 0	38.45	715319	339017	C#	poksh	
@@ -479,8 +479,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4885,time=2022-10-26 00:46:
 0	34.41	1058254	347144	Java	GAik	
 0	34.4	995658	354941	C++	Faithy	
 0	34.4	4255803	3722462	OCaml	Thomas_MPSI1_LIV	
+0	34.38	941843	356067	Java	S4M37	
 0	34.37	393267	354450	C#	M-Graf	
 0	34.37	527739	347262	Python3	i_v_a	
+0	34.37	957701	348873	Python	Kremlin	
 0	34.37	1854246	2068259	C++	Counterbalance	
 0	34.37	612827	352529	C++	Wellan	
 0	34.36	516255	341232	Java	Vargas	
@@ -488,10 +490,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4885,time=2022-10-26 00:46:
 0	34.36	1070477	382458	Java	Stirius	
 0	34.36	1122412	474240	Java	TheNinja	
 0	34.36	2653583	1913970	OCaml	glhf	
-0	34.35	957701	348873	Python	Kremlin	
 0	34.35	153941	351207	C++	webNeat	
 0	34.35	1058272	346773	PHP	Nazalas	
-0	34.35	941843	356067	Java	S4M37	
 0	34.35	916705	344624	Python	csurfer	
 0	34.35	1065666	1479280	Python3	chuck	
 0	34.35	1853805	2422539	C++	LuckyMullet	

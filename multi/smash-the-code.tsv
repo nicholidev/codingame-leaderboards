@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2644,time=2022-10-26 00:46:14
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2645,time=2022-10-27 00:41:52
 5	32.62	1400179	2986754	C++	reCurse	
 5	32.3	1327028	2990369	C++	FredericBautista	
 5	30.55	3457031	4488860	C++	YurkovAS	
@@ -215,7 +215,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2644,time=2022-10-26 00:46:
 4	19.34	334009	499364	PHP	abouvier	
 4	19.33	3489223	4493396	Javascript	KarloHubai	
 4	19.17	209439	573706	C	D4yBr3ak	
-4	19.11	4414812	4397068	C++	GPoll	
+4	19.11	4414812	4397068	C++	S_A	
 4	19.06	403748	651739	C#	[CG]SaiksyApo	
 4	19.05	855094	577399	C#	Crazydogto	
 4	18.84	1241501	492396	Rust	JW	
@@ -910,10 +910,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2644,time=2022-10-26 00:46:
 1	23.47	1245243	495360	Javascript	Clement134	
 1	23.47	1195394	593115	Python3	Larnak	
 1	23.46	1476242	576247	VB.NET	Txiwi	
+1	23.46	2522090	2831618	C++	MSmits	
 1	23.45	3331361	2346994	Javascript	Hikyu	
 1	23.44	1494618	625811	Javascript	Lune	
 1	23.44	1472464	507333	Javascript	und3fined	
-1	23.43	2522090	2831618	C++	MSmits	
 1	23.43	4350492	3833890	Python3	omboyo	
 1	23.43	2632447	4031496	C#	Andrey135296	
 1	23.42	1220347	579377	C#	Pooky	
@@ -942,6 +942,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2644,time=2022-10-26 00:46:
 1	23.34	2285360	1505940	Javascript	Tatyana	
 1	23.34	1836084	1218206	C++	TaoLu	
 1	23.34	1428356	878484	C++	VictorTimoftii	
+1	23.33	1603310	713892	Java	yarwest	
 1	23.33	1113415	653895	Python3	Lhassa	
 1	23.33	1446587	486540	Python3	Cooch	
 1	23.32	1446679	484869	Javascript	Janus	
@@ -973,7 +974,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2644,time=2022-10-26 00:46:
 1	23.27	1012020	634685	Python3	Markusha	
 1	23.27	2411860	2690075	C++	Aurelien-Quillet	
 1	23.27	1297591	653520	C	BigHead	
-1	23.27	1603310	713892	Java	yarwest	
 1	23.26	1385478	498347	Python3	ssssssssssssspppppprrrrrrrr	
 1	23.26	4508271	3835550	Python3	The-remainer	
 1	23.26	2133806	1428550	C++	Thechrist	

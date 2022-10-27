@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=960,time=2022-10-26 00:51:59
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=961,time=2022-10-27 00:42:05
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
 100	59353552	2436448	C++	FrancoisMeme	
@@ -16,7 +16,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=960,time=2022-10-26 00:51:59
 100	56679460	2311105	C++	kovi	
 100	56228180	1378958	C#	Illedan	
 100	56158848	3533119	C++	wlesavo	
-100	55152672	893541	Java	wala	
+100	55575436	893541	Java	wala	
 100	54242784	2968035	C++	DomiKo	
 100	54182244	1500515	C#	eulerscheZahl	
 100	47465840	1709070	Rust	platypus999	
@@ -161,6 +161,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=960,time=2022-10-26 00:51:59
 100	1808372	3625469	Python3	Crimson_King	
 100	1767700	3525167	Java	fgsdt	
 100	1757832	1029663	C	Skreamly	
+100	1697600	2674460	Python3	Malte42	
 100	1673952	4061329	C++	KLPP	
 100	1670096	2135916	Python3	Oioi	
 100	1532544	903179	Go	maksmas	
@@ -191,7 +192,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=960,time=2022-10-26 00:51:59
 100	718036	4105514	Python3	FeiChong	
 100	710608	3755551	C++	Zeffar	
 100	709680	3496153	Python3	lndshs	
-100	705536	2674460	Python3	Malte42	
 100	643904	1452327	Rust	solmir	
 100	607052	2978314	Python3	guir	
 100	600680	1861852	Javascript	Cramer	
@@ -215,10 +215,10 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=960,time=2022-10-26 00:51:59
 100	373936	1234947	Java	kuro	
 100	371360	2255945	C++	PoppyTrail	
 100	368976	4526264	C++	cly	
+100	365748	4718620	Pascal	Hieronymus	
 100	357444	3008857	Python3	timoru	
 100	354160	4470306	Python3	NONstope	
 100	353616	1287344	C++	Alshock	
-100	345444	4718620	Pascal	Hieronymus	
 100	334272	969500	Python3	AnasShami	
 100	324228	4664816	C++	lexx_it	
 100	320004	3954213	Python3	FrederickOr	
@@ -650,6 +650,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=960,time=2022-10-26 00:51:59
 100	27572	3741524	C	princess_of_zeal	
 100	27468	3867882	Javascript	HoaiDien	
 100	27436	3603097	Javascript	lanathlor	
+100	27372	1302700	C#	Tounsi	
 100	27336	4085698	Python3	sbs7	
 100	27292	1393802	Python3	amzh	
 100	27036	2353603	Pascal	MrSok	
