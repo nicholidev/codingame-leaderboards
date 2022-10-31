@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6616,time=2022-10-30 00:30:26
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6620,time=2022-10-31 10:14:22
 100	2756	2288263	Rust	dbdr	
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
@@ -896,6 +896,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6616,time=2022-10-30 00:30:26
 100	5819	1628347	C++	wieczyk	
 100	5819	1667366	C	Rasky	
 100	5819	4275410	Javascript	rk2021	
+100	5819	395576	C++	djedje	
 100	5821	530441	C++	Prime541	
 100	5821	3436443	Python3	Mazelcop	
 100	5824	3868172	C++	Desjardins	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6616,time=2022-10-30 00:30:26
 100	5860	2019052	C#	KevinM.Brooks	
 100	5860	2040637	Perl	polettix	
 100	5860	1586397	Python3	menger3	
-100	5860	1127532	Python3	Sergii_Krivokhatko	

@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=962,time=2022-10-30 00:30:29
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=962,time=2022-10-31 10:14:24
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
 100	59353552	2436448	C++	FrancoisMeme	
@@ -8,13 +8,13 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=962,time=2022-10-30 00:30:29
 100	59353048	1336464	C++	magaiti	
 100	58727648	735487	C++	amurushkin	
 100	58266452	3012238	C++	miszu	
+100	57795804	893541	Java	wala	
 100	57212812	351062	C++	Neumann	
 100	57211540	860404	C++	Vitruvius	
 100	56971532	3319855	C#	Drobor	
 100	56714844	1344487	C++	UnnamedCodinGamer	
 100	56705576	2923506	C++	darkhorse64	
 100	56679460	2311105	C++	kovi	
-100	56678132	893541	Java	wala	
 100	56228180	1378958	C#	Illedan	
 100	56158848	3533119	C++	wlesavo	
 100	54242784	2968035	C++	DomiKo	
@@ -123,6 +123,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=962,time=2022-10-30 00:30:29
 100	3825460	1854246	C++	Counterbalance	
 100	3824732	4341304	C++	Remi.	
 100	3668428	3817827	Go	optplx	
+100	3547456	1052387	Javascript	RomaricM	
 100	3488032	3754066	C++	jast.e.new.name	
 100	3455812	4120837	C++	philipplenk	
 100	3379696	2340294	C	deviluc	
@@ -179,7 +180,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=962,time=2022-10-30 00:30:29
 100	1212664	4627477	Python3	REX26	
 100	1189100	1077506	Go	gs2	
 100	1188736	2984707	Python3	Darkduv	
-100	1090484	1052387	Javascript	RomaricM	
 100	1036264	3406987	Python3	Radu_Sav	
 100	981320	1473789	C++	jebouin	
 100	930052	3141948	Java	philRG	
@@ -692,6 +692,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=962,time=2022-10-30 00:30:29
 100	23680	4412933	Java	art10101	
 100	23680	4184379	Go	romain.wg	
 100	23680	4819360	C	Vemore	
+100	23680	2874091	Python3	5DN1L	
 100	23192	3365527	Go	Civiled	
 100	22996	4759510	Python3	Darleanow	
 100	22380	938374	C#	UnmanagedCode	
@@ -946,7 +947,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=962,time=2022-10-30 00:30:29
 100	344	1673734	Javascript	pshezgyr	
 100	344	5139303	C		
 100	344	5149581	C#	ThoCo	
-100	344	2874091	Python3	5DN1L	
 100	300	4094683	Python3	Loes	
 100	300	275626	Javascript	GreyMoon	
 100	300	3487406	C#	SyvachenkoMK	

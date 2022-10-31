@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6751,time=2022-10-30 00:30:23
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6752,time=2022-10-31 10:11:13
 5	31.41	3193653	3004019	C++	karliso	
 5	31.39	880353	2975979	C++	zasmu	
 5	31.07	1082988	2982332	C++	Saelyos	
@@ -785,14 +785,14 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6751,time=2022-10-30 00:30:
 3	25.45	1549145	2976014	C++	Mealc	
 3	25.42	3938395	3754079	C++	Quentin18	
 3	25.41	2341005	2975605	C#	Crispy23	
-3	25.01	3804005	2977797	Java	GlitchyByte	
+3	25.04	3804005	2977797	Java	GlitchyByte	
 3	24.98	3800302	3459454	C++	v.cogut	
 3	24.8	4401975	3793430	Java	Cyberhuman	
 3	24.8	1596238	2978681	C#	NickStahl	
+3	24.79	347029	2983067	Python3	Kevapo	
 3	24.78	3427517	3691444	Javascript	csysja	
 3	24.76	3783901	2976108	Python3	rlucas585	
 3	24.74	1894833	3024587	Python3	Rimailleur	
-3	24.72	347029	2983067	Python3	Kevapo	
 3	24.71	2990918	2979626	TypeScript	Dingodino	
 3	24.68	1140677	2975871	C++	Crog	
 3	24.65	3802430	2979812	Java	Andronnix	
@@ -808,8 +808,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6751,time=2022-10-30 00:30:
 3	24.49	3803789	2980305	Java	jeffreyxiao	
 3	24.47	3799710	2976686	Java	adyg77	
 3	24.46	2320004	2978210	C#	Arthurique	
+3	24.46	4284674	3807799	Java	GuruLeo	
 3	24.43	3563633	2980017	Javascript	p1100i	
-3	24.43	4284674	3807799	Java	GuruLeo	
 3	24.42	3470270	4431210	PHP	Tabaxi3K	
 3	24.39	1802967	3366248	Python3	Meruem	
 3	24.32	3051977	2977133	Python3	YongJing	
@@ -855,10 +855,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6751,time=2022-10-30 00:30:
 3	23.92	281532	2976665	Scala	SekoUrsil	
 3	23.91	1687809	2995372	Java	egoprince	
 3	23.9	2443365	2979951	Javascript	Lulemair	
+3	23.9	2735427	2979295	Go	tbmc	
 3	23.9	3523406	2976755	Java	Pansier	
 3	23.89	3414155	2977392	Scala	Smerk	
 3	23.88	849746	2976425	Python3	lmj	
-3	23.88	2735427	2979295	Go	tbmc	
 3	23.87	2729055	2980513	Python3	twray2	
 3	23.87	1671658	2976535	C++	Kirbiby	
 3	23.86	4066925	3412303	Python3	KrysmaCZ	
@@ -887,8 +887,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6751,time=2022-10-30 00:30:
 3	23.7	2297753	2979684	Python3	Warly7692	
 3	23.69	518243	2977062	C++	mbaros	
 3	23.68	1062962	2980397	C++	ArmandO.S.	
+3	23.66	3811032	2976467	Go	LadislavZigo	
 3	23.66	3419294	2976000	Javascript	Sissiimperatice	
-3	23.65	3811032	2976467	Go	LadislavZigo	
 3	23.64	3686275	2978967	C#	udu	
 3	23.63	3723210	2976856	C#	ChristopherHahn	
 3	23.61	4392259	3793537	C#	lRunMusk	
@@ -909,13 +909,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6751,time=2022-10-30 00:30:
 3	23.5	1714054	2975900	C++	Marau	
 3	23.5	3418590	2978233	C++	LaPatateU	
 3	23.49	3039496	2976547	TypeScript	Jonne	
+3	23.49	990110	2977590	C++	Rogerup	
 3	23.47	1452449	2977216	Java	m4nu8untu	
-3	23.47	990110	2977590	C++	Rogerup	
+3	23.46	3169011	2976857	Java	geschaftsman	
+3	23.46	3341311	2979027	Javascript	Amelieth	
 3	23.45	3794483	2976115	Python3	yuribr	
 3	23.44	3785053	2976272	Python3	Khajyeet	
-3	23.44	3169011	2976857	Java	geschaftsman	
 3	23.42	1276766	2979360	Python3	brian__fr	
-3	23.38	3341311	2979027	Javascript	Amelieth	
 3	23.38	1853578	2976570	C#	Code.ama	
 3	23.36	3744758	2980378	Python3	Mateuszrze	
 3	23.35	3329141	3038348	C#	andrea_angella	
@@ -953,7 +953,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6751,time=2022-10-30 00:30:
 3	22.68	2112007	2978055	Javascript	KRAKEN	
 3	22.67	893177	2980474	C#	Rebelwillow	
 3	22.67	1437684	2979624	C#	Maulkin	
-3	22.66	2497472	2975990	Java	Hexabin	
 3	22.65	3511049	2976652	C++	Nacho_Vigi	
 3	22.63	1480640	2976744	C#	nodes	
 3	22.62	3647844	3451270	Python3	rc95401	
@@ -975,6 +974,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6751,time=2022-10-30 00:30:
 3	22.46	2824703	2976426	C#	NormantasStankevicius	
 3	22.42	1306541	2978844	C++	Steuh	
 3	22.41	2056541	2977345	Java	PeF	
+3	22.4	2497472	2975990	Java	Hexabin	
 3	22.37	2154217	2979149	Java	EliasCanalesNieto	
 3	22.35	3806519	2978641	Python3	ijc90	
 3	22.33	2422378	3881872	Java	C2H5OH	
@@ -995,7 +995,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6751,time=2022-10-30 00:30:
 3	22.22	1342745	3319872	Python3	Catiminie	
 3	22.22	3803288	2976278	Ruby	ugnpaul	
 3	22.22	846553	2975603	C++	Aleks	
-3	22.22	3817179	2976059	C#	MAPATKO	
 3	22.21	3004542	2978235	Java	GaborHutya	
 3	22.21	3501475	2979491	Python3	Over9000	
 3	22.21	3814797	2977649	Java	adam-balazs	
+3	22.21	3818012	2975919	C++	-k	
