@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=962,time=2022-11-02 00:40:12
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=963,time=2022-11-03 00:30:29
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
 100	59353552	2436448	C++	FrancoisMeme	
@@ -94,6 +94,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=962,time=2022-11-02 00:40:12
 100	6841104	1050490	C++	Snark_Chaser	
 100	6741832	3927891	C++	whywhy_	
 100	6722180	3996809	C++	VizGhar	
+100	6705292	1052387	C++	RomaricM	
 100	6682840	935744	C++	Alcalyn	
 100	6638148	992329	Java	BeeGee	
 100	6415556	4746790	C#	AydartsyanGrisha	
@@ -123,7 +124,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=962,time=2022-11-02 00:40:12
 100	3825460	1854246	C++	Counterbalance	
 100	3824732	4341304	C++	Remi.	
 100	3668428	3817827	Go	optplx	
-100	3547456	1052387	Javascript	RomaricM	
 100	3488032	3754066	C++	jast.e.new.name	
 100	3455812	4120837	C++	philipplenk	
 100	3379696	2340294	C	deviluc	
@@ -156,6 +156,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=962,time=2022-11-02 00:40:12
 100	2055904	3489223	C#	KarloHubai	
 100	2013220	1720605	Rust	carlicolosse	
 100	2000068	1413257	C#	Bavoen	
+100	1957952	4718620	Pascal	Hieronymus	
 100	1923056	3958314	PHP	NicoDeug	
 100	1881632	4994436	Python3	ldvcgllm	
 100	1830476	3317816	Java	Jeeronimo	
@@ -196,7 +197,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=962,time=2022-11-02 00:40:12
 100	643904	1452327	Rust	solmir	
 100	607052	2978314	Python3	guir	
 100	600680	1861852	Javascript	Cramer	
-100	578648	4718620	Pascal	Hieronymus	
 100	560876	4745511	C#	Markus88	
 100	538168	3774500	Javascript	zakariamouhid	
 100	474760	2290633	Python3	field3	
@@ -212,6 +212,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=962,time=2022-11-02 00:40:12
 100	398076	2172874	Rust	Med1ane	
 100	391812	3127864	C++	TeamT	
 100	387012	2785892	Python3	levbor	
+100	386688	2874091	Python3	5DN1L	
 100	381420	1427078	C++	ToshiTuringMachine	
 100	377016	3433089	Java	lionandmouse	
 100	373936	1234947	Java	kuro	
@@ -438,7 +439,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=962,time=2022-11-02 00:40:12
 100	54884	3728105	Python3	Marcusde36ste	
 100	54884	5063222	Javascript	DariaDmitrieva	
 100	54728	574371	Javascript	Dillysfriend	
-100	54472	2850342	Javascript		
+100	54472	2850342	Javascript	ThE_MaD	
 100	54324	4864714	C++	Dzenon	
 100	54176	3876796	Python3	Dyavolo	
 100	54156	2419811	Rust	Valbou	
@@ -536,6 +537,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=962,time=2022-11-02 00:40:12
 100	43648	4124472	Python3	Valdez001	
 100	43648	4658023	C#	KaKatze	
 100	43648	4709820	Python3	Globostofo	
+100	43648	5143268	C#	.dfx	
 100	43508	481564	VB.NET	mihei	
 100	43468	4065637	C#	Baby1991	
 100	43220	1259143	C++	Bence886	
@@ -568,7 +570,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=962,time=2022-11-02 00:40:12
 100	36768	3904540	Java	Queuebee	
 100	36672	4314795	C++	CPX99	
 100	36476	3898994	C	SirMagic	
-100	36440	2874091	Python3	5DN1L	
 100	36408	2701664	C++	Quartzzz	
 100	36092	4335605	C++	Tokuzoo	
 100	35820	4104482	Python3	Hericendre	
