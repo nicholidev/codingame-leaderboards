@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4886,time=2022-11-03 00:30:16
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4887,time=2022-11-04 00:30:16
 0	47.16	1433161	1484525	C	mingu1.kang	
 0	45.59	494104	455215	C++	Recar	
 0	45.18	990110	357643	C++	Rogerup	
@@ -409,8 +409,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4886,time=2022-11-03 00:30:
 0	34.84	568261	352287	Java	Tristan	
 0	34.83	894599	339636	Java	DidierC	
 0	34.8	697152	350691	Java	Bander88	
-0	34.8	1007939	340639	Python	Poruk	
 0	34.79	154372	351178	C++	Plopx	
+0	34.79	1007939	340639	Python	Poruk	
 0	34.78	4347098	3721730	OCaml	Axelle_MPSI_LIV_2020	
 0	34.77	2488395	1917074	OCaml	MPSI-LIVff	
 0	34.77	1378399	610995	Python3	DN38416	
@@ -707,7 +707,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4886,time=2022-11-03 00:30:
 0	32.73	1040245	355307	C	Matze	
 0	32.73	4108926	3434689	Python3	Saydrick	
 0	32.72	425757	415197	Ruby	Keres	
-0	32.72	155906	354046	Scala	AlainBearez	
 0	32.71	692782	1466297	C++	lafraise	
 0	32.71	406152	357568	Python	TiarinBlate	
 0	32.71	368727	339155	Java	p0wonTnx	
@@ -726,6 +725,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4886,time=2022-11-03 00:30:
 0	32.67	1223426	570116	Java	VolgoAK	
 0	32.67	514460	341304	C++	Harv	
 0	32.67	1411649	643459	C++	Levatol	
+0	32.64	155906	354046	Scala	AlainBearez	
 0	32.6	389175	355844	Java	Folkenn84	
 0	32.6	154362	342420	C++	Ely	
 0	32.59	4108927	3434701	Python3	JteVenDuReve	
@@ -768,6 +768,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4886,time=2022-11-03 00:30:
 0	32.39	1068749	354060	C++	MarcioReis	
 0	32.39	4466025	3788398	C++	FluffySalmon	
 0	32.38	1096274	455234	C#	DrBrask	
+0	32.38	1252307	600305	Clojure	rand-int	
 0	32.37	1400653	2257488	Python3	tsalin	
 0	32.35	1068125	344809	Lua	Irvineflon	
 0	32.35	1425395	450509	C++	Tsoin122	
@@ -779,7 +780,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4886,time=2022-11-03 00:30:
 0	32.31	1065546	355994	C++		
 0	32.31	1755689	911450	Javascript	dgjxqz	
 0	32.31	820983	344847	Javascript	Funnybobby	
-0	32.31	1252307	600305	Clojure	rand-int	
 0	32.3	4108916	3434716	Python3	Nailil_Ruojnob	
 0	32.29	926124	1284436	Java	Beerus	
 0	32.28	4108919	3434712	Python3	PaPyTiger	
