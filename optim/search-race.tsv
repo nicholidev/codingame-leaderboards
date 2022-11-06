@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=895,time=2022-11-05 00:52:34
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=896,time=2022-11-06 00:30:28
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -602,6 +602,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=895,time=2022-11-05 00:52:34
 100	23765.430000000004	3223953	Java	StempfiFlo	
 100	23794.669999999995	3941789	Dart	LastRick	
 100	23812.120000000006	4037760	Python3	l_p_kongroo	
+100	23842.49	4819330	Javascript	rocambille	
 100	23848.82	1407654	C++	JulienAmarir	
 100	23870.91	3627342	C#	Zuabros	
 100	23876.57	153002	C#	fantasyo	
@@ -796,7 +797,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=895,time=2022-11-05 00:52:34
 70	31946.539999999994	3883379	Python3	MichelDarty	
 70	31946.539999999994	3532429	Python3	Skyf0l	
 70	31946.539999999994	4911086	Python3		
-70	31946.539999999994	4819330	Javascript	rocambille	
 70	31946.539999999997	4771365	Python3	J56164	
 70	32405.080000000005	3420134	Python3	KelvinAndHubbles	
 70	33039.1	425462	Python3	Azt-yur	
@@ -894,3 +894,4 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=895,time=2022-11-05 00:52:34
 0	50000	3478673	C	never-again	
 0	50000	5084346	Python3	Treasurey	
 0	50000	4390977	Python3	mrq0340a	
+0	50000	5166293	C++	MasonClever824	
