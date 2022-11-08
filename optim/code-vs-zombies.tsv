@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=15756,time=2022-11-07 00:30:28
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=15769,time=2022-11-08 00:30:26
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -185,6 +185,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15756,time=2022-11-07 00:30:28
 100	242970	4996868	C	Enamahc	
 100	242510	1194057	C++	Altivar	
 100	242380	820983	Javascript	Funnybobby	
+100	241990	4832181	Java	VisualDev-FR	
 100	241400	1309948	C++	Runner87	
 100	241150	1449433	C++	Rolf	
 100	241010	331880	Scala	Monstruo	
@@ -312,7 +313,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15756,time=2022-11-07 00:30:28
 100	210290	3069534	Java	LoganWlv	
 100	210270	4338330	C#	0Ph	
 100	210130	952796	C#	CodingTurtle	
-100	210040	4832181	Java	VisualDev-FR	
 100	209760	2980709	C++	ninnghazad	
 100	209700	1341520	C	egaetan	
 100	209600	2455616	Java	JeanClaude44	
@@ -924,6 +924,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15756,time=2022-11-07 00:30:28
 100	67370	2711016	C#	Manuel0814	
 100	67340	517890	C++	Altaire	
 100	67300	4418069	Python3	manuelseeger	
+100	67280	630050	Rust	Chulepa	
 100	67140	1767134	Java	AntonYuriev	
 100	67070	4440520	C#	Azertisbenc	
 100	67040	2177661	Python3	Tioude	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15756,time=2022-11-07 00:30:28
 100	65130	3645680	Javascript	DevWeb13	
 100	65120	365796	Javascript	CvxFous	
 100	65090	1811179	Java	Tetarus	
-100	65070	2867405	Python3	Hilly	
