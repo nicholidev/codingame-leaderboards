@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=897,time=2022-11-08 00:30:28
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=897,time=2022-11-09 00:59:25
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -350,6 +350,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=897,time=2022-11-08 00:30:28
 100	19307.64	4220057	Python3	EvilRed	
 100	19389.22	4136008	Python3	jerry_laevis	
 100	19396.7	3518657	Python3	Obelix	
+100	19407.339999999997	4158692	C++	All2u	
 100	19488.99	4717007	Python3	Anktinosia	
 100	19531.35	1543333	C++	ishibashijun	
 100	19591.360000000004	4813327	Python3	NikitaBaranov	
@@ -396,7 +397,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=897,time=2022-11-08 00:30:28
 100	20480.000000000004	2414853	Python3	StephaneLaveau	
 100	20487.29	4058416	C++	ZacDonald	
 100	20495.35000000001	1178320	Python3	Trunksistor	
-100	20518.15	4158692	Python3	All2u	
 100	20555.71	3770485	Java	zakki	
 100	20588.800000000003	4758331	TypeScript	fatalen	
 100	20619.32999999999	1272263	Python3	Caled	
@@ -504,6 +504,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=897,time=2022-11-08 00:30:28
 100	21987.72	4074456	Java	zurada	
 100	21989.41	4065822	Javascript	Capela	
 100	22004.099999999995	4002254	Python3	PlanetSuburbia	
+100	22019.209999999992	4612315	Python3	Gerritvw	
 100	22024.990000000005	2041520	Python3	AnotherCatPicture	
 100	22034.509999999995	4459243	Java	CodeNick	
 100	22049.6	682715	Python3	orkipastafari	
@@ -513,7 +514,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=897,time=2022-11-08 00:30:28
 100	22053.23999999999	3772488	Python3	molombo	
 100	22053.24	4870649	Python3	VictoriousTriceraton	
 100	22053.24	4778025	Python3	MGTRFELIPEURREGO	
-100	22053.24	4612315	Python3	Gerritvw	
 100	22071.950000000004	4787676	C++	Gilk	
 100	22084.640000000003	4251195	Java	Smelty	
 100	22087.320000000003	4801044	C++	T19	
