@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=326,time=2022-11-14 00:30:28
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=329,time=2022-11-15 00:34:21
 100	201382	2288263	Rust	dbdr	
 100	201382	4277867	D	About	
 100	201382	2077805	C++	bamilan	
@@ -73,6 +73,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=326,time=2022-11-14 00:30:28
 100	214159	512097	Haskell	Stilgart	
 100	214276	153965	Python3	[CG]Keelhaul	
 100	214489	224325	Go	[BZH]TidyMaze	
+100	214548	1348635	C++	ferbos	
 100	214729	278212	Python3	vmp	
 100	214767	1272951	Rust	don_bovar	
 100	214790	3349939	C++	mr.spring	
@@ -133,6 +134,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=326,time=2022-11-14 00:30:28
 100	236748	4619569	Python3	moustave	
 100	236748	981878	Java	nicolasD	
 100	236748	2948040	Javascript	Pouyou	
+100	236749	3834291	C++	yhyoxx	
 100	236886	4562863	Python3	Benoit-Simunsol	
 100	236922	3783962	Python3	Mohsen1365ir	
 100	237407	3741491	C++	inverb	
@@ -161,7 +163,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=326,time=2022-11-14 00:30:28
 100	248320	4136008	Python3	jerry_laevis	
 100	248616	3533119	C++	wlesavo	
 100	248690	4801044	C++	T19	
-100	249291	1348635	C++	ferbos	
 100	249335	4023428	Java	HenTeK	
 100	249440	837350	Python3	BorisZ	
 100	250047	2637659	C#	Barsy	
@@ -263,11 +264,13 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=326,time=2022-11-14 00:30:28
 100	253965	938374	C#	UnmanagedCode	
 100	253965	5103633	Python3		
 100	254188	3922731	Dart	Dartisan	
+100	255731	3389226	C#	Peti88	
 100	257411	4871515	Rust	cl17	
 100	258239	992549	Java	Thaddy	
 100	268561	4062203	C++	soraie	
 100	310436	4245841	C++	ADsun	
 100	316387	4537924	C++	ArtesScytale	
+100	322329	3389236	C#	spuriga	
 100	328546	1132011	C#	pci	
 100	344482	1579627	C#	Bahrani	
 100	363220	4897675	Python3	Tybos	
