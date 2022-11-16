@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4887,time=2022-11-15 00:30:17
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4888,time=2022-11-16 00:32:37
 0	47.16	1433161	1484525	C	mingu1.kang	
 0	45.59	494104	455215	C++	Recar	
 0	45.18	990110	357643	C++	Rogerup	
@@ -37,11 +37,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4887,time=2022-11-15 00:30:
 0	42.29	1229284	668346	C++	Prajyoth	
 0	42.29	1407621	455279	C++	Taohbi	
 0	42.28	956606	339732	Java	NighTurs	
+0	42.08	854169	1575126	C++	Silmaen	
 0	42.07	4334077	4036085	C++	Paul_Demanze	
 0	42.03	843126	370546	C++	ItsBuddha	
 0	42.02	735487	2332712	C++	amurushkin	
 0	42.02	1399382	2672407	C++	Regulus136	
-0	42.02	854169	1575126	C++	Silmaen	
 0	42.02	5052454	4446830	C++	chris.steele	
 0	42.01	1071140	465610	C++	BeberLeNewbie	
 0	41.84	888746	3362447	C++	Phate	
@@ -84,10 +84,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4887,time=2022-11-15 00:30:
 0	40.86	2233179	1762001	C++	Samsa	
 0	40.82	1195934	1611063	C++	odinmillion	
 0	40.79	3846244	3428120	C++	JLukeSkywalker	
-0	40.79	1910916	3837849	C++	VivienBillot	
 0	40.78	995463	1266072	C++	Carmen	
 0	40.76	1017169	346143	C#	bLasT	
 0	40.72	1001096	348402	C#	MyIIone	
+0	40.71	1910916	3837849	C++	VivienBillot	
 0	40.68	788361	344057	C++	Bob	
 0	40.65	1034338	342969	Python	Galilleos	
 0	40.64	620448	357152	C++	AB	
@@ -626,10 +626,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4887,time=2022-11-15 00:30:
 0	33.34	895306	347955	Javascript	NikIvan	
 0	33.34	1384971	415930	PHP	BoyanYankov	
 0	33.33	153784	417722	C#	Whitec	
+0	33.3	832111	349892	C++	esteine32	
 0	33.28	890575	341257	C++	Mr.Raoul	
 0	33.26	1356964	1086223	Java	Willathon	
 0	33.26	831171	355703	Java	Recoding	
-0	33.23	832111	349892	C++	esteine32	
 0	33.23	854854	355762	Python3	dmitritch	
 0	33.2	1037848	358461	Javascript	pretension-itself	
 0	33.16	814274	356455	Scala	dnowak	
@@ -653,7 +653,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4887,time=2022-11-15 00:30:
 0	33.02	1350974	411575	PHP	Zyxx	
 0	33.01	1501735	789120	Python3	bernardlavilliers	
 0	32.98	902195	345241	Java	0x43-0x50	
-0	32.96	513456	343079	Python	nwin	
 0	32.92	819803	345626	Java	Anordil	
 0	32.92	154078	357997	Java	Yahya.Elfakir	
 0	32.92	788357	358240	Python	DrDr3ck	
@@ -662,6 +661,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4887,time=2022-11-15 00:30:
 0	32.91	4347131	3722352	OCaml	Auxence-MPSI-LIV	
 0	32.91	921111	354536	Python	Kyria	
 0	32.9	425757	415197	Ruby	Keres	
+0	32.9	513456	343079	Python	nwin	
 0	32.9	1061542	355530	Java	Mwha	
 0	32.88	1005061	351609	Ruby	drac	
 0	32.88	1898847	2242355	C	faga	

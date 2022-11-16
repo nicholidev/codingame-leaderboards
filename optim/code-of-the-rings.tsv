@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6660,time=2022-11-15 00:34:17
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6666,time=2022-11-16 00:41:40
 100	2756	2288263	Rust	dbdr	
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
@@ -90,6 +90,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6660,time=2022-11-15 00:34:17
 100	3613	536400	C++	Atmel	
 100	3616	2025868	C++	sumoru	
 100	3621	518889	C++	athin	
+100	3625	4341304	C++	Remi.	
 100	3630	1077559	Java	PhOeNyX	
 100	3630	4083537	Javascript	DavidAvsajanishvili	
 100	3636	2492576	Python3	nehok	
@@ -300,6 +301,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6660,time=2022-11-15 00:34:17
 100	4108	1579042	C++	Hulous	
 100	4111	739475	Pascal	HeliX666	
 100	4111	4453922	C++	kariiii	
+100	4112	4493066	Python3	Polynomu	
 100	4124	931502	Python3	TonyDu	
 100	4124	4609342	C++	jejis	
 100	4125	1793238	Javascript	Thats_nick	
@@ -454,7 +456,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6660,time=2022-11-15 00:34:17
 100	4609	865548	Python3	Kktus	
 100	4612	155887	Javascript	BanBan	
 100	4615	1072200	C	alze	
-100	4616	4341304	C++	Remi.	
 100	4617	943556	C++	DollarAkshay	
 100	4617	973948	C++	Amnesix	
 100	4617	1170641	C++	ioncodes	
@@ -614,7 +615,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6660,time=2022-11-15 00:34:17
 100	5369	2210894	C++	Kubo	
 100	5382	4193469	Rust	yannick-t	
 100	5390	593523	C++	supermassive	
-100	5398	4493066	Python3	Polynomu	
 100	5400	1961440	C++	simon_v	
 100	5404	927873	C	Charlot67	
 100	5411	1027294	Java	BigJ	
