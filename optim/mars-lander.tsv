@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=5964,time=2022-11-16 00:41:40
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=5966,time=2022-11-17 00:30:26
 100	2509	1327028	C++	FredericBautista	
 100	2507	154372	Bash	Plopx	
 100	2504	1249786	C#	Fededevi	
@@ -53,7 +53,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5964,time=2022-11-16 00:41:40
 100	2436	3657944	PHP	xyz-1	
 100	2435	3235897	Java	Zylo	
 100	2433	3457031	C++	YurkovAS	
-100	2433	1781541	Python3	Schwase	
 100	2430	4452961	C	Sheeesh---	
 100	2429	557990	C++	Wazemo	
 100	2428	4194801	Python3	jdeveil	
@@ -306,6 +305,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5964,time=2022-11-16 00:41:40
 100	2204	4165137	Python3	tactile	
 100	2203	920987	Python3	redna70	
 100	2203	3481994	Python3	nipaC	
+100	2202	4341304	C++	Remi.	
 100	2200	3317583	Python3	Mjo	
 100	2200	1077506	Go	gs2	
 100	2198	3330730	C++		
@@ -374,7 +374,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5964,time=2022-11-16 00:41:40
 100	2141	4555810	C++	JakubM30	
 100	2139	1017169	C#	bLasT	
 100	2139	1134660	C++	CrimsonDeus	
-100	2139	4341304	C++	Remi.	
 100	2138	759912	Javascript	felipeptcho	
 100	2138	1107171	Groovy	Enough	
 100	2138	1062962	C++	ArmandO.S.	
@@ -481,6 +480,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5964,time=2022-11-16 00:41:40
 100	2073	936078	C++	foolproof	
 100	2073	4643728	TypeScript	Flaise	
 100	2073	1575342	C++	T7ung	
+100	2073	1105849	PHP	Savagge	
 100	2072	2889769	C++	GauravNanda	
 100	2071	2785892	Python3	levbor	
 100	2071	884624	C++	mascapone	
@@ -964,6 +964,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5964,time=2022-11-16 00:41:40
 100	1898	2067176	Javascript	0bug	
 100	1898	2592027	C#	ParticleBeam	
 100	1898	3954613	Rust	kellda	
+100	1898	5153421	Python3	pere-mission	
 100	1897	1022877	F#	MariosK	
 100	1897	1740037	Scala	ereiam	
 100	1897	4594914	Javascript	NeoJex	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=5964,time=2022-11-16 00:41:40
 100	1887	3444208	Java	Anatoli	
 100	1886	1358848	Python3	rickyok	
 100	1886	3127469	C++	ArturoHuerta	
-100	1886	1863721	C#	intain	
