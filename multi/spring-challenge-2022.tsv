@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8174,time=2022-11-17 00:30:12
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8174,time=2022-11-18 00:30:12
 5	34.39	4802230	4264019	C++	Nanaeda	
 5	34.21	2577687	4261360	C++	blasterpoard	
 5	33.85	351062	4296067	C++	Neumann	
@@ -751,6 +751,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8174,time=2022-11-17 00:30:
 4	23.22	4087883	4266277	Javascript	yed-dyb	
 4	23.21	3727077	4258825	C++	Manwi23	
 4	23.21	5104410	4473472	C++	Dracaufeu	
+4	23.2	308188	4258751	TypeScript	Azimov	
 4	23.19	1896065	4264892	C++	FeZar97	
 4	23.19	2202771	4260587	Java	Kaplone	
 4	23.19	4876490	4509567	Python3	JoslinSP	
@@ -761,7 +762,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8174,time=2022-11-17 00:30:
 4	23.14	2182272	4267110	C#	mykar	
 4	23.14	4062138	4261010	TypeScript	Azium	
 4	23.13	1169264	4267497	C++	moarrrr	
-4	23.1	308188	4258751	TypeScript	Azimov	
 4	23.1	1601217	4268452	C++	Heide	
 4	23.09	2104877	4263669	Go	Youen	
 4	23.07	4817346	4259289	C++	MarcelHJ	
@@ -883,11 +883,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8174,time=2022-11-17 00:30:
 4	22.07	4857356	4259413	Python3	sound-round	
 4	22.07	4856157	4260129	C++	bird01	
 4	22.06	3730284	4261619	Javascript	k-g-a	
-4	22.06	1164464	4267713	C#	SirLoxley	
 4	22.04	4059573	4260921	Java	alexrbro	
 4	22.04	1715811	4261970	Java	PositiveQuark	
 4	22.04	2438575	4258535	Python3	laeith	
 4	22.03	1162014	4260650	Java	Bojan	
+4	21.99	1164464	4267713	C#	SirLoxley	
 4	21.99	3809155	4259056	Java	Myssteriion	
 4	21.99	4089252	4263018	Python3	Miki09	
 4	21.98	862498	4261195	TypeScript	Graviton_Noir	
