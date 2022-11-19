@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2524,time=2022-11-18 00:30:19
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2524,time=2022-11-19 00:30:18
 6	26.21	1400179	2086196	C++	reCurse	
 6	25.94	1841051	2086085	C++	0xbeefed	
 6	25.86	1896128	2086118	Python3	Vhanire	
@@ -725,9 +725,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2524,time=2022-11-18 00:30:
 3	23.17	2025987	2358709	C++	Cham	
 3	23.16	3800599	3099952	Python3	Robsob	
 3	23.16	3686503	4493152	Python3	Harpiste	
-3	23.15	4246691	3497275	C#	DelZ	
 3	23.15	1261518	2848851	Ruby	BitOfUniverse	
 3	23.11	3881980	3028088	Javascript	Yefis	
+3	23.09	4246691	3497275	C#	DelZ	
 3	23.09	925769	3674957	C#	troll	
 3	23.08	5066335	4490721	Python3	Erydor	
 3	23.08	914013	2069099	Python3	HexTree	
@@ -791,10 +791,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2524,time=2022-11-18 00:30:
 3	22.28	3390297	2497920	Javascript	useAllTheThings	
 3	22.26	3079881	2222287	Python3	MarekZieba	
 3	22.25	1396806	2072363	Javascript	djcaesar9114	
+3	22.25	4246372	3505595	C++	40675023H	
 3	22.24	1732500	2218059	Python3	123ABC	
 3	22.22	1281870	3413739	Python3	Sheerockoff	
 3	22.21	4085043	3846451	Python3	EldronGah	
-3	22.21	4246372	3505595	C++	40675023H	
 3	22.21	1004767	3819889	Java	RayanFadhlaoui	
 3	22.2	4018239	3907867	Java	MACKEYTH	
 3	22.2	3714230	2743254	Python3	StephenIMT	
@@ -901,8 +901,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2524,time=2022-11-18 00:30:
 3	21.29	994468	2151425	C++	darkdieg	
 3	21.29	3937083	3131388	C#	Gamerever	
 3	21.28	4477789	3798285	Python3	Plasmids	
-3	21.21	3370267	2408495	C++	SamCWill	
 3	21.2	2613606	2098146	C++	Nivekiba	
+3	21.18	3370267	2408495	C++	SamCWill	
 3	21.16	3657944	3953059	Python3	xyz-1	
 3	21.14	1744591	2065063	C++	JonathanMead	
 3	21.12	3563934	3105807	C#	ChuckTheNinja	
@@ -949,6 +949,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2524,time=2022-11-18 00:30:
 3	20.4	4411430	3744690	Python3	Draspag	
 3	20.4	4372719	4292090	C#	YannigSmagghe	
 3	20.39	3544449	3801526	Java	RypKor	
+3	20.39	3616128	2633874	Swift	cayZ	
 3	20.38	4900977	4285373	C++	Grociu	
 3	20.38	4463707	3792642	Python3	connor-john	
 3	20.38	911777	2235429	C#	MasakiKyosuke	
@@ -957,7 +958,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2524,time=2022-11-18 00:30:
 3	20.33	1601561	2108257	Java	Ligarnes	
 3	20.33	3851504	4405543	C++	ayhanC	
 3	20.33	4512488	3835200	C++	csKingBabar	
-3	20.32	3616128	2633874	Swift	cayZ	
 3	20.32	3325429	2340641	C#	Volpel30	
 3	20.31	2782074	2078186	C#	LancerX0	
 3	20.3	4153396	3399434	Java	Celtis24	

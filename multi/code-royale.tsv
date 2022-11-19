@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4793,time=2022-11-18 00:30:23
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4797,time=2022-11-19 00:30:24
 6	31.51	1049935	3941001	C++	Azkellas	
 6	30.05	1607522	1886979	C++	RoboStac	
 6	28.69	735910	1886983	C++	Agade	
@@ -668,8 +668,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4793,time=2022-11-18 00:30:
 3	23.24	3173155	4387176	Python3	Th3Kr0w	
 3	23.22	1402518	2258347	Java	PinkiePool	
 3	23.21	1195663	4018952	Java	TimberLefief	
+3	23.19	1415878	2476981	Scala	roman-roman	
 3	23.18	3775656	2835477	Python3	Folichon	
-3	23.17	1415878	2476981	Scala	roman-roman	
 3	23.15	1185187	1872163	Java	gamerOfThrons	
 3	23.13	3010654	2219845	Javascript	Taghurei	
 3	23.12	3576761	3046840	Python3	Ahjit	
@@ -780,11 +780,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4793,time=2022-11-18 00:30:
 3	21.38	1903031	1861337	Python3	hard-coded	
 3	21.38	3487032	3514949	Java	GrekMaR	
 3	21.34	2397787	3379424	Perl	BenLeGob	
+3	21.34	1172385	2678769	C#	LuckyMe	
 3	21.33	3382273	2666062	Python3	hasleron	
 3	21.32	4460636	4288595	Python3	NukeGandhi	
 3	21.3	3515687	3861498	TypeScript	F3YoD	
 3	21.3	944365	2282094	C++	thomas.colibert	
-3	21.3	1172385	2678769	C#	LuckyMe	
 3	21.29	2662460	1887282	Javascript	Gamli	
 3	21.28	1317264	2996591	Python3	Manny42	
 3	21.26	1109907	3674866	Javascript	polpoul	
@@ -913,6 +913,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4793,time=2022-11-18 00:30:
 3	19.64	4856689	4166217	Javascript	kader01bouch	
 3	19.63	1462449	2411026	C++	wackadoodle	
 3	19.63	2057540	2133874	Java	liz22	
+3	19.61	2442182	3101542	C#	Kojesma	
 3	19.61	2771439	3126209	C++	fixthegame	
 3	19.61	888746	3323163	Python3	Phate	
 3	19.61	5025272	4423640	TypeScript	theKwoka	
@@ -933,7 +934,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4793,time=2022-11-18 00:30:
 3	19.58	3373712	2435348	C#	SuperStrange	
 3	19.58	4662405	3985375	Python3	helpmefindaname	
 3	19.57	2255187	2073459	PHP	rom_02	
-3	19.57	2442182	3101542	C#	Kojesma	
 3	19.57	1348832	2136709	C#	AzatJalilov	
 3	19.56	3105160	3984944	TypeScript	valentinwmtz	
 3	19.56	3772452	2989940	Go	thibaut_bremand	
