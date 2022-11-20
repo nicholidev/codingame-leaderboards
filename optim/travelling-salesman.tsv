@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=332,time=2022-11-19 00:30:29
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=332,time=2022-11-20 00:30:29
 100	201382	2288263	Rust	dbdr	
 100	201382	4277867	D	About	
 100	201382	2077805	C++	bamilan	
@@ -43,6 +43,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=332,time=2022-11-19 00:30:29
 100	209210	1489865	C++	EricSMSO	
 100	209280	4257906	Rust	NotSureWhyThisWorks	
 100	209635	1152991	C#	xoposhiy	
+100	210009	1348635	C++	ferbos	
 100	210094	4110073	C++	souta_1326	
 100	210261	3184049	Python3	ghhttt	
 100	210408	2438514	C++	davi_bart	
@@ -50,7 +51,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=332,time=2022-11-19 00:30:29
 100	210563	820000	C++	ValGrowth	
 100	210862	4083537	Python3	DavidAvsajanishvili	
 100	210883	2350415	C++	Vintarel	
-100	211231	1348635	C++	ferbos	
 100	211310	3844625	C++	surgutti	
 100	211481	4754623	C++	kirillkulemin	
 100	211604	4726885	C++	Boooooooo	
@@ -157,6 +157,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=332,time=2022-11-19 00:30:29
 100	247220	4717007	Python3	Anktinosia	
 100	247258	4718620	Pascal	Hieronymus	
 100	247358	2625928	C#	Leonard.	
+100	247949	4493066	Python3	Polynomu	
 100	247996	2628455	Python3	PDF	
 100	248048	4073854	Python3	Buk.	
 100	248147	4888782	PHP	xavier-dubreuil	
@@ -259,7 +260,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=332,time=2022-11-19 00:30:29
 100	250555	5103639	Python3	MrFrozenNik	
 100	250555	5098609	Java	proprogramermer	
 100	250555	1477791	Python3	seitec01	
-100	250555	4493066	Python3	Polynomu	
 100	250784	1179357	Rust	avdg	
 100	251611	4954542	Python3	Drunkey	
 100	252346	4610806	C#	Nickythita	
