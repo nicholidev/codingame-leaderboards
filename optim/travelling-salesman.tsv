@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=332,time=2022-11-21 00:42:06
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=333,time=2022-11-22 00:30:31
 100	201382	2288263	Rust	dbdr	
 100	201382	4277867	D	About	
 100	201382	2077805	C++	bamilan	
@@ -111,6 +111,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=332,time=2022-11-21 00:42:06
 100	224638	1838549	Rust	orangesnowfox	
 100	225332	4378731	Python3	_Pauk_	
 100	225413	4627200	Python3	Fwcode	
+100	228073	4493066	Python3	Polynomu	
 100	228711	1287344	C++	Alshock	
 100	228720	3343665	Rust	Quidome	
 100	229528	3490454	Python3	PAug	
@@ -157,7 +158,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=332,time=2022-11-21 00:42:06
 100	247220	4717007	Python3	Anktinosia	
 100	247258	4718620	Pascal	Hieronymus	
 100	247358	2625928	C#	Leonard.	
-100	247673	4493066	Python3	Polynomu	
 100	247996	2628455	Python3	PDF	
 100	248048	4073854	Python3	Buk.	
 100	248147	4888782	PHP	xavier-dubreuil	
@@ -329,5 +329,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=332,time=2022-11-21 00:42:06
 0	-15	4436271	Python3	Ayza	
 0	-15	5021607	Python3		
 0	-15	2325449	Perl	otpv	
+0	-15	3556476	Python3	YohanC	
 0	0	4759510	Java	Darleanow	
 0	0	5103578	Python3		
