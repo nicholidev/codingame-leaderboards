@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=433,time=2022-11-23 00:30:30
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=434,time=2022-11-24 00:30:28
 100	999	1629259	PHP	Marchete	
 100	999	3354337	C++	Westicles	
 100	999	3949307	C++	xevixevi	
@@ -47,6 +47,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=433,time=2022-11-23 00:30:30
 100	70	2311105	C++	kovi	
 100	70	862919	PHP	Astrobytes	
 100	70	1566335	PHP	BeardedWhale	
+100	70	2874091	Python3	5DN1L	
 100	69	338469	PHP	__mcts__	
 100	69	1657690	Kotlin	vinzz	
 100	68	3916254	Python3	mikronex	
@@ -58,7 +59,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=433,time=2022-11-23 00:30:30
 100	60	3235897	Java	Zylo	
 100	60	3983017	PHP	TLbuis	
 100	60	1052387	PHP	RomaricM	
-100	60	2874091	Python3	5DN1L	
 100	53	512097	Haskell	Stilgart	
 100	53	2980709	C++	ninnghazad	
 100	52	925695	PHP	Boulet	
@@ -102,6 +102,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=433,time=2022-11-23 00:30:30
 100	30	3845610	Python3	pardouin	
 100	30	792813	Python3	VilBoub	
 100	30	4562860	Python3	clxm	
+100	30	4341304	C++	Remi.	
 100	29	992329	Python3	BeeGee	
 100	29	3611257	C++	Apodus	
 100	28	1630890	PHP	Wld	
@@ -147,7 +148,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=433,time=2022-11-23 00:30:30
 100	21	3839774	Rust	gurvan_lullien	
 100	21	153965	Python3	[CG]Keelhaul	
 100	21	3343665	PHP	Quidome	
-100	21	4341304	C++	Remi.	
 100	20	2715508	Bash	Anth	
 100	20	2124591	Rust	Rdjdv	
 100	20	1802967	Python3	Meruem	
@@ -246,6 +246,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=433,time=2022-11-23 00:30:30
 100	8	1072200	C	alze	
 100	8	2928316	Python3	pompotesboy	
 100	8	4044949	Java	Exanc	
+100	8	5125079	Python3	DCTG	
 100	7	1728288	C#	MOLP	
 100	7	886483	Javascript	R4N4R4M4	
 100	7	881817	Python3	Major_Tom	
