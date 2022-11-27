@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7984,time=2022-11-26 00:30:10
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7985,time=2022-11-27 00:30:09
 5	43.97	1400179	3665384	C++	reCurse	
 5	39.58	3457031	3873772	C++	YurkovAS	
 5	38.21	4300424	3704114	Rust	kurnevsky	
@@ -469,8 +469,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7984,time=2022-11-26 00:30:
 4	38.45	2217652	3668312	Go	candid82	
 4	38.39	1761802	3666414	Java	Ghani56	
 4	38.37	4053013	3669246	Java	nagoke	
+4	38.35	3789424	3667095	Python3	JohnCM	
 4	38.35	4319544	3668837	Python3	BradL	
-4	38.34	3789424	3667095	Python3	JohnCM	
 4	38.34	2606832	3667732	Python3	theycallmedavid	
 4	38.33	862819	3667845	C#	Umbakrail	
 4	38.32	4285073	3665026	C++	Guntae	
@@ -594,9 +594,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7984,time=2022-11-26 00:30:
 4	36.75	4056982	3665778	Java	kreska	
 4	36.72	3821899	3670035	Python3	Arakoma	
 4	36.68	3244897	3665196	Java	Romii	
+4	36.68	4275441	3665006	C++	abaudot	
 4	36.67	3764504	3666055	C++	amoussai	
 4	36.66	1046623	3993272	Java	the_pins	
-4	36.65	4275441	3665006	C++	abaudot	
 4	36.65	865548	3667499	Rust	Kktus	
 4	36.61	2073457	3667228	Java	A_WHO_	
 4	36.6	2536487	3671262	Java	Sumo-Naony	
@@ -633,8 +633,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7984,time=2022-11-26 00:30:
 4	36	3956663	3665658	Java	MaximeLeblanc	
 4	35.98	4069184	4072166	C++	Nimon	
 4	35.92	1164242	3665552	Python3	Andry_	
+4	35.88	443750	3664856	C++	mlomb	
 4	35.88	1593992	3668754	Python3	nierin	
-4	35.87	443750	3664856	C++	mlomb	
 4	35.86	1439344	3668861	Python3	Gronahak	
 4	35.85	3970247	3673570	C	Conidev	
 4	35.84	925769	3797630	C#	troll	
@@ -743,9 +743,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7984,time=2022-11-26 00:30:
 4	34.99	4088387	3671069	C#	StrykrJ	
 4	34.98	3541008	3669396	Python3	Toilal45	
 4	34.98	1443769	3669677	C#	weweno	
+4	34.98	4287519	3671723	C++	kke0949	
 4	34.98	2184856	3665083	C++	MichalOp	
 4	34.98	754792	3670443	C++	Ramdeath	
-4	34.98	4287519	3671723	C++	kke0949	
 4	34.97	2064322	3670885	Dart	adrienarcuri	
 4	34.95	2197019	3667272	C++	caduk	
 4	34.95	3795676	3667059	Ruby	sofinms	
@@ -816,7 +816,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7984,time=2022-11-26 00:30:
 4	34.25	4322005	3667998	C++	izumo	
 4	34.23	3472279	3667466	C++	DataWasTaken	
 4	34.21	1406638	3665505	Java	TwoSteps	
-4	34.21	863888	3668343	Python3	WJChua	
 4	34.21	3594990	3668499	C#	Matti82	
 4	34.16	4320580	3665690	TypeScript	ValentinDSJ	
 4	34.16	844968	3670321	Python3	MoMaT	
@@ -826,6 +825,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7984,time=2022-11-26 00:30:
 4	34.15	4341261	3665653	C++	VanPhat	
 4	34.11	3244343	3666819	C#	StevenTCramer	
 4	34.08	3031573	3665210	Java	aghiles	
+4	34.08	863888	3668343	Python3	WJChua	
 4	34.07	3052895	3670561	Java	4GS2k4	
 4	34.07	2092623	3669266	C++	YoshiNoob	
 4	34.03	4294396	3669918	Java	aal1254	
@@ -921,7 +921,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7984,time=2022-11-26 00:30:
 4	32.8	1258129	3679087	VB.NET	Pink	
 4	32.79	664272	3668447	Java	tsa	
 4	32.79	4089683	3668148	Rust	Skyware_	
-4	32.77	3763923	3667525	C++	nforay	
 4	32.76	4320133	3665705	C	kaiz	
 4	32.75	3018178	3693364	C++	Fallback	
 4	32.74	1569420	3669433	Python3	Tuo	
@@ -930,6 +929,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7984,time=2022-11-26 00:30:
 4	32.69	517890	3683254	C++	Altaire	
 4	32.69	1741614	3668724	Python3	toutatis	
 4	32.69	4618463	4483806	Python3	seitanEX_	
+4	32.66	3763923	3667525	C++	nforay	
 4	32.66	2336164	3666711	TypeScript	hwd	
 4	32.57	3888289	3669926	Python3	jean216	
 4	32.56	998504	3667402	C#	SzEmProg	
