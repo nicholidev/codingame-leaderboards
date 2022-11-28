@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=441,time=2022-11-27 00:30:28
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=442,time=2022-11-28 00:37:18
 100	62937	2288263	Rust	dbdr	
 100	62936	977117	C++	Psyho	
 100	62932	2077805	C++	bamilan	
@@ -20,6 +20,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=441,time=2022-11-27 00:30:28
 100	55612	1081827	Python3	[CG]MathisHammel	
 100	55550	2924895	C	trictrac	
 100	55236	4182831	Python3	Flaaamort	
+100	54518	1952778	C++	blast_beat	
 100	54513	5174619	Python3	Datascientist07	
 100	54108	2923506	C++	darkhorse64	
 100	54108	899666	C#	Whykonen	
@@ -61,7 +62,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=441,time=2022-11-27 00:30:28
 100	50117	3938395	Python3	Quentin18	
 100	49769	3337117	Python3	timbersson	
 100	49764	3446473	Javascript	proprofondo	
-100	49697	1952778	C++	blast_beat	
 100	47462	3478673	Javascript	never-again	
 100	46933	3772488	Python3	molombo	
 100	46685	1684020	Python3	tom_	
@@ -164,6 +164,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=441,time=2022-11-27 00:30:28
 100	16678	1328296	Go	Kellthazar	
 100	16638	4253472	Java	GreyRaven	
 100	16626	1854639	C#	iDxMeG	
+100	16589	1724069	F#	jmpeg	
 100	16566	4229382	Python3	ClawLegend	
 100	16552	3052608	C#	royal_cheese	
 100	16552	4962713	PHP	LePerfo	
@@ -242,6 +243,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=441,time=2022-11-27 00:30:28
 100	5170	3533119	C++	wlesavo	
 100	4809	3489223	Javascript	KarloHubai	
 100	4415	1442750	Javascript	GwadaKing	
+100	4411	3302115	C#	Pouchiquet	
 100	4211	4923917	Python3	Nynif	
 100	4205	3500877	Javascript	Magictruks	
 100	4024	2515448	Python3	ChuOkupai	
@@ -438,5 +440,4 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=441,time=2022-11-27 00:30:28
 100	0	2414853	Python3	StephaneLaveau	
 100	0	5057466	Python3	Yai	
 100	0	3556476	Python3	YohanC	
-100	0	1724069	Python3	jmpeg	
 100	0	4059072	C#	MatthiasGatier	
