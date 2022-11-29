@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=921,time=2022-11-28 00:37:16
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=921,time=2022-11-29 00:30:27
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -175,6 +175,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=921,time=2022-11-28 00:37:16
 100	13416.78	4803764	Python3	maksimpeshkov	
 100	13425.97	4814601	Python3	OneTell	
 100	13427.419999999998	4758191	Python3	ChickiBoomBoxer	
+100	13438.900000000003	3305510	PHP	TBali	
 100	13480.220000000005	4810061	Python3	HairySnake	
 100	13484.470000000005	4804402	Python3	NicKName[]	
 100	13493.75	1737246	Java	Adam798	
@@ -207,6 +208,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=921,time=2022-11-28 00:37:16
 100	13930.63	5132819	C++	Salmar	
 100	13934.139999999998	4752152	Python3	TeaMary	
 100	13954.069999999996	4714702	Python3	toje_sw1ftin	
+100	13981	1070655	C++	shanks	
 100	14023.220000000005	4803996	Python3	svv3384	
 100	14036.199999999995	4713863	Python3	starscreeper	
 100	14037.98	4802288	Python3	Pylaeva	
@@ -637,7 +639,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=921,time=2022-11-28 00:37:16
 98	19308.55	2998967	TypeScript	Gilde	
 98	19749.700000000004	1427078	C++	ToshiTuringMachine	
 98	20518.800000000003	2926667	C++	RonRo	
-98	20696.220000000005	1070655	C++	shanks	
 98	20925.330000000005	4078395	Python3	KevinDaniel-S	
 98	21076.78	3514820	Python3	Inferno_dragon	
 98	21099.27	4508271	Python3	The-remainer	
@@ -825,7 +826,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=921,time=2022-11-28 00:37:16
 70	33039.1	425462	Python3	Azt-yur	
 68	32739.529999999995	2635038	C++	DrBoom	
 68	32739.529999999995	4756693	Python3	MorningWalk	
-68	32739.53	3305510	Pascal	TBali	
 68	32739.53	4309574	Python3	KornDV	
 68	32739.53	2390962	C++	madpro3	
 68	32739.53	4550513	Python3	bearpoohcf	
