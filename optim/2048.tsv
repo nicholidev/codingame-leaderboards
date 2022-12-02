@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=976,time=2022-12-01 00:35:32
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=978,time=2022-12-02 00:30:28
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
 100	59353552	2436448	C++	FrancoisMeme	
@@ -150,6 +150,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=976,time=2022-12-01 00:35:32
 100	2330276	2833929	Python3	pcourrousse	
 100	2327896	3705601	Java	ido_the_pro	
 100	2319324	4036456	Python3	JeremSwak	
+100	2303968	1863311	C++	SDFG44	
 100	2264560	4662405	Python3	helpmefindaname	
 100	2262296	2981630	C++	AstroHydes	
 100	2253844	475740	C#	Serg	
@@ -194,7 +195,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=976,time=2022-12-01 00:35:32
 100	801432	4288724	Java	RenardFute	
 100	775968	1879060	Python3	Bozydarek	
 100	743920	4481912	Python3	Dr_Monkey	
-100	730436	1863311	C++	SDFG44	
 100	728216	4081047	Javascript	Rezhay	
 100	725440	3842838	TypeScript	Streusel	
 100	718036	4105514	Python3	FeiChong	
@@ -962,6 +962,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=976,time=2022-12-01 00:35:32
 100	344	1673734	Javascript	pshezgyr	
 100	344	5139303	C		
 100	344	5149581	C#	ThoCo	
+100	344	5213896	Python3		
+100	344	5214116	Python3	Ledey	
 100	300	4094683	Python3	Loes	
 100	300	275626	Javascript	GreyMoon	
 100	300	3487406	C#	SyvachenkoMK	

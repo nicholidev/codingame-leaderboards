@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6822,time=2022-12-01 00:35:27
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6822,time=2022-12-02 00:30:22
 5	31.38	880353	2975979	C++	zasmu	
 5	31.08	1082988	2982332	C++	Saelyos	
 5	31.02	3193653	3004019	C++	karliso	
@@ -801,9 +801,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6822,time=2022-12-01 00:35:
 3	24.67	3427517	3691444	Javascript	csysja	
 3	24.63	3680541	2977492	Java	Asela	
 3	24.58	3422956	3627670	Java	Martichou	
+3	24.57	3806286	2977764	Python3	St7	
 3	24.53	3819467	2975822	C++	bin101	
 3	24.52	3799710	2976686	Java	adyg77	
-3	24.52	3806286	2977764	Python3	St7	
 3	24.51	3766690	3011380	C++	marty4545	
 3	24.51	1802967	3366248	Python3	Meruem	
 3	24.48	2320004	2978210	C#	Arthurique	
@@ -852,8 +852,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6822,time=2022-12-01 00:35:
 3	24.01	3563879	2975920	C#	Lugger	
 3	24	3727948	2977044	Python3	cheaz910	
 3	24	3380514	2976519	Java	DFrese	
+3	24	2729055	2980513	Python3	twray2	
 3	24	900403	2980306	C++	0xC0FFEE	
-3	23.99	2729055	2980513	Python3	twray2	
 3	23.99	225875	2990713	C#	Leff	
 3	23.98	1539215	2979634	C#	the-JJ	
 3	23.98	3749358	2975743	Java	jon26	
@@ -920,7 +920,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6822,time=2022-12-01 00:35:
 3	23.36	1205152	2977612	Javascript	cfoll	
 3	23.32	221648	2979958	C++	stephenvk	
 3	23.32	1276766	2979360	Python3	brian__fr	
-3	23.29	1391220	2976750	PHP	mesavitae	
+3	23.3	1391220	2976750	PHP	mesavitae	
 3	23.28	3794483	2976115	Python3	yuribr	
 3	23.25	3169011	2976857	Java	geschaftsman	
 3	23.22	1853578	2976570	C#	Code.ama	
@@ -950,11 +950,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6822,time=2022-12-01 00:35:
 3	22.71	1152991	3875930	C#	xoposhiy	
 3	22.67	893177	2980474	C#	Rebelwillow	
 3	22.67	1437684	2979624	C#	Maulkin	
-3	22.63	3230794	2977172	Java	tutubalin	
+3	22.65	3230794	2977172	Java	tutubalin	
 3	22.61	3647844	3451270	Python3	rc95401	
 3	22.61	2302190	2977352	Python3	Skrakout	
 3	22.6	1098634	2987916	Javascript	grsoares	
-3	22.6	1065947	2980390	C#	RPA	
 3	22.6	3511049	2976652	C++	Nacho_Vigi	
 3	22.59	3041715	2977613	Java	hlin	
 3	22.58	3802577	2979218	C++	rhs99	
@@ -974,6 +973,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6822,time=2022-12-01 00:35:
 3	22.48	2868769	2977348	C#	Lionel_	
 3	22.46	154806	2979702	Python3	piwai	
 3	22.46	2824703	2976426	C#	NormantasStankevicius	
+3	22.41	1065947	2980390	C#	RPA	
 3	22.4	2497472	2975990	Java	Hexabin	
 3	22.37	877888	2982474	Java	kael	
 3	22.35	3806519	2978641	Python3	ijc90	

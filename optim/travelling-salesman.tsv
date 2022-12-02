@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=339,time=2022-12-01 00:35:33
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=340,time=2022-12-02 00:30:28
 100	201382	2288263	Rust	dbdr	
 100	201382	4277867	D	About	
 100	201382	2077805	C++	bamilan	
@@ -30,7 +30,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=339,time=2022-12-01 00:35:33
 100	205269	4341304	C++	Remi.	
 100	205449	2451652	Java	code_of_the_dead	
 100	205481	4717726	C++	[Nexure]	
-100	205762	1952778	C++	blast_beat	
+100	205668	1952778	C++	blast_beat	
 100	205879	3338501	C#	mox90oly	
 100	205986	580424	C++	siman	
 100	206247	3535836	Python3	Thanh2022	
@@ -42,6 +42,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=339,time=2022-12-01 00:35:33
 100	208303	792813	Python3	VilBoub	
 100	208873	1348635	C++	ferbos	
 100	209198	2962968	C#	Pukunya	
+100	209203	1549856	TypeScript	Keylan	
 100	209210	1489865	C++	EricSMSO	
 100	209280	4257906	Rust	NotSureWhyThisWorks	
 100	209635	1152991	C#	xoposhiy	
@@ -123,7 +124,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=339,time=2022-12-01 00:35:33
 100	231750	2069141	C#	tomeko	
 100	232969	4668562	Python3	theaddyct	
 100	234148	4134943	Python3	vinc-r	
-100	234236	1549856	TypeScript	Keylan	
 100	234276	4760013	Python3	KinaKhongs	
 100	234565	925695	OCaml	Boulet	
 100	234909	3787419	C++	Thyl	
@@ -297,6 +297,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=339,time=2022-12-01 00:35:33
 100	1007690	1522266	Javascript	Sliya	
 100	1045150	4768303	Javascript	YaRi78	
 100	1045150	5103596	Python3	leviathanictr	
+100	1046742	4356869	C++	mateusvmv	
 100	1050053	3268086	Javascript	Xaetral	
 100	1290033	5025755	Javascript	TomBAN	
 100	1320187	4756693	Python3	MorningWalk	
