@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6025,time=2022-12-06 00:33:10
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6030,time=2022-12-07 00:42:03
 100	2509	1327028	C++	FredericBautista	
 100	2507	154372	Bash	Plopx	
 100	2504	1249786	C#	Fededevi	
@@ -149,6 +149,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6025,time=2022-12-06 00:33:10
 100	2341	3389236	C#	spuriga	
 100	2340	973040	C	papyjo	
 100	2340	837350	Go	BorisZ	
+100	2340	1186273	Rust	knacky	
 100	2339	2242201	C++	Maryan	
 100	2338	1754295	Java	SF	
 100	2338	999637	C	dinobogan	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6025,time=2022-12-06 00:33:10
 100	1888	4068670	Python3	lvk	
 100	1888	4340924	Python3	poplique	
 100	1888	1463496	Java	jch_bruneau	
-100	1887	2253218	C#	Miiiick	
