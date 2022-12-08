@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2871,time=2022-12-07 00:41:58
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2871,time=2022-12-08 12:22:33
 4	35.18	3193653	2708375	C++	karliso	
 4	32.67	3502867	2707285	C++	The_Duck	
 4	32.01	2970414	2709863	Python3	Fangel	
@@ -875,8 +875,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2871,time=2022-12-07 00:41:
 2	24.18	1803872	2707111	Python3	happyweary	
 2	24.12	1538549	2707624	Python3	Nikodimishe	
 2	24.09	1243876	2707646	Python3	Hi-Low_World	
+2	24.05	3518930	2707871	C#	WhiteRo	
 2	24.05	969298	2708533	C#	Dopp	
-2	24.04	3518930	2707871	C#	WhiteRo	
 2	23.85	3477071	2985732	C#	CookieMonster2703	
 2	23.81	1766181	2707808	Javascript	jantorestolsvik	
 2	23.76	2061249	2707672	C++	delisea	
@@ -920,7 +920,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2871,time=2022-12-07 00:41:
 2	22.84	221911	2708482	Python3	fafl	
 2	22.84	2122087	2708745	C++	RENZOU	
 2	22.84	240454	2707602	C#	Mikkanu	
-2	22.83	3504625	2707969	Java	Somny	
 2	22.83	3517009	2707787	Java	grue	
 2	22.82	1438036	2707753	Java	Bubbly_Bee	
 2	22.82	1295850	2708311	Java	EvbCFfp1XB	
@@ -935,6 +934,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2871,time=2022-12-07 00:41:
 2	22.69	223576	2708790	C#	laveugle	
 2	22.69	4994607	4436528	PHP	yoannh	
 2	22.69	2191163	3048955	Lua	Arteries	
+2	22.64	3504625	2707969	Java	Somny	
 2	22.61	373834	2707573	Javascript	Pirquessa	
 2	22.61	371603	2709136	Ruby	martin	
 2	22.6	2237703	2707382	Python3	VidOS	
