@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=12,time=2022-12-10 00:30:03
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=13,time=2022-12-11 00:30:03
 4	28.06	2924895	4520025	C	trictrac	
 4	25.13	3647844	4518211	Python3	rc95401	
 4	23.88	1412263	4535728	PHP	PatrickMcGinnisII	
@@ -9,5 +9,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=12,time=2022-12-10 00:30:03
 3	22.52	3983017	4519436	PHP	TLbuis	
 1	17.55	3323757	4514787	Python3	ByteWolf	
 1	0.94	973040	4536940	Rust	papyjo	
-0	-0.65	4277867	4534993	D	About	
-0	-1.52	1713174	4514815	Python3	BigUP	
+0	1.56	4277867	4534993	D	About	
+0	1.08	1713174	4514815	Python3	BigUP	
+0	-0.14	3136787	4559001	D	jacek	
