@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6736,time=2022-12-12 00:36:35
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6738,time=2022-12-13 00:30:26
 100	2756	2288263	Rust	dbdr	
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
@@ -533,6 +533,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6736,time=2022-12-12 00:36:35
 100	4879	4011783	TypeScript	sylbouns	
 100	4882	4456275	C#	giawa	
 100	4886	1607522	Go	RoboStac	
+100	4888	5050888	C++	Lidrias	
 100	4893	3971358	Ruby	OldJohn	
 100	4897	518191	ObjectiveC	gustokashin	
 100	4901	2536589	Java	mjfcolas	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6736,time=2022-12-12 00:36:35
 100	5860	1252380	Java	Glopp	
 100	5860	1377805	Java	MHavlovick	
 100	5860	1420269	Python3	Vischtor	
-100	5860	1438943	Python3	LelouchSDark	
