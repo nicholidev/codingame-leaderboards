@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8001,time=2022-12-13 00:30:12
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8001,time=2022-12-14 00:30:12
 5	43.97	1400179	3665384	C++	reCurse	
 5	39.58	3457031	3873772	C++	YurkovAS	
 5	38.21	4300424	3704114	Rust	kurnevsky	
@@ -317,7 +317,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8001,time=2022-12-13 00:30:
 5	14.82	3855753	4524648	Python3	tuan91	
 5	14.53	3730284	3713151	Javascript	k-g-a	
 5	14.26	4081634	3751214	C++	Wontonimo	
-5	13.8	3874898	3667313	C	Ashbury	
+5	13.8	3874898	3667313	C	Dial	
 5	12.67	3651427	3667442	Rust	Stoub	
 5	8.76	4335153	3665352	C++	Idaldemanis	
 5	2.98	3828059	3666016	Python3	Valphyr1	
@@ -404,8 +404,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8001,time=2022-12-13 00:30:
 4	40.57	1275262	3670678	Python3	fluffy_unicorn	
 4	40.47	4016179	3678515	Python3	Tony.	
 4	40.42	1768916	3668853	C++	YetAnotherAdam	
+4	40.42	2941038	3668291	Javascript	Soukasays	
 4	40.42	4283515	3673272	PHP	FrancoisBaveye	
-4	40.4	2941038	3668291	Javascript	Soukasays	
 4	40.27	1603802	3675533	Python3	BigNozMG	
 4	40.24	1876721	3667815	C++	poInT	
 4	40.16	3800393	3665762	Python3	Abdlali	
@@ -638,7 +638,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8001,time=2022-12-13 00:30:
 4	35.9	4069184	4072166	C++	Nimon	
 4	35.88	443750	3664856	C++	mlomb	
 4	35.88	1593992	3668754	Python3	nierin	
-4	35.85	3970247	3673570	C	Conidev	
+4	35.87	3970247	3673570	C	Conidev	
 4	35.84	925769	3797630	C#	troll	
 4	35.79	2450542	3665602	C++	MARClUS	
 4	35.77	4284701	3670614	TypeScript	Tutto	
@@ -680,7 +680,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8001,time=2022-12-13 00:30:
 4	35.59	2045078	3753234	C#	Sharaks	
 4	35.59	4061491	3669678	Python3	pbc	
 4	35.56	4338330	3669917	C#	0Ph	
-4	35.55	2881783	3665555	C++	eki	
+4	35.56	2881783	3665555	C++	eki	
 4	35.54	154078	3665764	Java	Yahya.Elfakir	
 4	35.54	3813795	3668584	C++	betrue12	
 4	35.52	3811375	3665747	Java	L.P.BINH	
@@ -875,13 +875,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8001,time=2022-12-13 00:30:
 4	33.43	1095913	3665531	C++	Yamatan	
 4	33.42	3005726	3665971	C#	leyo	
 4	33.42	3919237	3671226	C#	Quick_Kick	
+4	33.41	1291692	3669111	C#	CedricHulin	
 4	33.41	1356356	3668811	Javascript	BaconPepe	
 4	33.4	3877700	3672853	Rust	Bytekeeper	
 4	33.4	3501077	3666955	C++	Augis154	
 4	33.39	4014501	3670866	C++	aj941	
 4	33.38	3765181	3668652	C++	kshimada	
 4	33.38	3513265	3710174	C++	DaNinja	
-4	33.38	1291692	3669111	C#	CedricHulin	
 4	33.38	3359490	3669285	Dart	Gr0mph	
 4	33.37	4325171	3666951	Python3	RapSmith	
 4	33.36	4055392	3665630	C++	totori	
