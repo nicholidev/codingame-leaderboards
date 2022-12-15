@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=349,time=2022-12-14 00:30:30
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=350,time=2022-12-15 01:22:21
 100	201382	2288263	Rust	dbdr	
 100	201382	4277867	D	About	
 100	201382	2077805	C++	bamilan	
@@ -91,7 +91,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=349,time=2022-12-14 00:30:30
 100	217926	3771662	Python3	meltice	
 100	217990	3611257	C++	Apodus	
 100	218086	4949237	C#	FragJage	
-100	218537	3094191	C	GeraldJB	
+100	218518	3094191	C	GeraldJB	
 100	218692	1630890	Java	Wld	
 100	219228	1131528	C#	Owl	
 100	219619	4044949	Java	Exanc	
@@ -345,6 +345,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=349,time=2022-12-14 00:30:30
 0	-15	2325449	Perl	otpv	
 0	-15	3556476	Python3	YohanC	
 0	-15	5215769	Python3	56288	
+0	-15	5234423	C		
 0	0	4759510	Java	Darleanow	
 0	0	5103578	Python3		
 0	0	5224036	Java		
