@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=15834,time=2022-12-19 00:30:26
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=15838,time=2022-12-20 00:30:25
 100	14337	329200	C++	BlitzProg	
 100	13905	3533119	C++	wlesavo	
 100	13603	1366631	Javascript	Morhaus	
@@ -249,6 +249,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15834,time=2022-12-19 00:30:26
 100	3022	828830	C++	duffman	
 100	3020	677251	C++		
 100	3018	604234	Go	ArnaldurBjarnason	
+100	3018	5069945	Python3	RaceBot	
 100	3016	1511356	C++	Wan.2000	
 100	3012	990110	C++	Rogerup	
 100	3008	1205052	Clojure	Hc232	
@@ -461,7 +462,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15834,time=2022-12-19 00:30:26
 100	2570	1203593	C#	[CPC]Naity	
 100	2566	1779407	Java	HellFiveDay	
 100	2566	3067066	C#	EDust	
-100	2566	5069945	Python3	RaceBot	
 100	2564	1158783	C++	Platypus	
 100	2564	1860493	Java	Erz	
 100	2564	2202771	Java	Kaplone	
@@ -754,7 +754,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15834,time=2022-12-19 00:30:26
 100	2532	3425476	Python3	SteachTheTurtle	
 100	2532	3657275	Python3	jujurocking	
 100	2532	2066683	Python3	padobranac	
-100	2532	1800997	Python3	Nagato_Uzumaki	
+100	2532	1800997	Python3	TheProCode	
 100	2532	3999695	Python3	ShaxoLudo	
 100	2532	3446921	Python3	TheOtherAKS	
 100	2532	4001904	Python3	the_red_hat	
@@ -894,6 +894,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15834,time=2022-12-19 00:30:26
 100	2532	3750700	Python3	VulpesCorsac	
 100	2532	4068307	Python3	Lord_Beubeuh	
 100	2532	4781063	Python3	Nicholi	
+100	2532	5066309	Python3	SIR-EBI	
 100	2528	1034635	C++	SlyB	
 100	2528	1740237	Python3	OlegKornelsen	
 100	2526	2950978	Python3	icecuber	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=15834,time=2022-12-19 00:30:26
 100	2362	1535066	C#	mard	
 100	2362	1637520	Python3	Wakim	
 100	2362	1475413	Javascript	AlucardDH	
-100	2360	1173064	C#	a.oryol	
