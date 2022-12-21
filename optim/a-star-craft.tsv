@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1408,time=2022-12-20 00:30:26
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1409,time=2022-12-21 00:30:27
 100	11920	2077805	C++	bamilan	
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
@@ -142,6 +142,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1408,time=2022-12-20 00:30:26
 100	7985	4915479	C++	Tix81	
 100	7948	1845617	C++	Shingy	
 100	7929	5052454	C++	chris.steele	
+100	7910	5066309	C++	SIR-EBI	
 100	7899	2455616	Java	JeanClaude44	
 100	7884	329200	C++	BlitzProg	
 100	7855	1869024	Java	Xa2017	
@@ -653,6 +654,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1408,time=2022-12-20 00:30:26
 100	2076	1393802	Python3	amzh	
 100	2076	4193153	Python3	pabx06	
 100	2067	3406987	Python3	Radu_Sav	
+100	2057	1754421	Python3	GuyBarash	
 100	2052	3349939	C++	mr.spring	
 100	2048	2660470	Java	Perdur	
 100	2046	1505665	Python3	NicolasGrosjean	
@@ -801,7 +803,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1408,time=2022-12-20 00:30:26
 100	1235	2631176	PHP	Sedera	
 100	1235	1925452	Python3	Cyriax	
 100	1235	4399098	Javascript	koheikkk	
-100	1234	1754421	Python3	GuyBarash	
 100	1233	2497890	C#	BlackBird	
 100	1216	3496138	Python3	HayTheFirst	
 100	1216	2826280	C++	guilhembn	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1408,time=2022-12-20 00:30:26
 100	1045	3526028	C++	severrabaen	
 100	1045	3535045	Ruby	Wraithan	
 100	1045	3177616	Python3	kawacchu	
-100	1045	328782	PHP	lorky	
