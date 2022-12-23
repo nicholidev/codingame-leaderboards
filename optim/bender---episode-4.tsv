@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=281,time=2022-12-22 00:30:26
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=281,time=2022-12-23 00:30:26
 100	1570	4618693	PHP	cedricdd	
 100	1596	3918583	Rust	mikmak	
 100	1675	2288263	Rust	dbdr	
@@ -56,6 +56,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=281,time=2022-12-22 00:30:26
 100	3359	3465661	TypeScript	Thiesjoo	
 100	3474	311035	Python3	leojean890	
 100	3626	512097	Haskell	Stilgart	
+100	3729	1754421	Python3	GuyBarash	
 100	4276	894599	Java	DidierC	
 100	4438	3457031	C++	YurkovAS	
 100	4886	668906	Kotlin	Sandworm	
@@ -70,7 +71,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=281,time=2022-12-22 00:30:26
 100	5436	792813	Python3	VilBoub	
 100	5940	1333869	Python3	kiwijam	
 100	6128	3317508	Javascript	m4683	
-100	6236	1754421	Python3	GuyBarash	
 100	6332	3271550	C++	Eggface	
 100	6615	3518006	Python3	mvpnek	
 100	8624	2662309	F#	AnInventiveNameOfRepute	
