@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2551,time=2022-12-27 00:30:19
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2551,time=2022-12-28 00:30:20
 6	26.21	1400179	2086196	C++	reCurse	
 6	25.94	1841051	2086085	C++	0xbeefed	
 6	25.86	1896128	2086118	Python3	Vhanire	
@@ -752,7 +752,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2551,time=2022-12-27 00:30:
 3	22.84	3555728	4248600	Python3	KVNMDS	
 3	22.81	3966842	3127222	Python3	PitrPi	
 3	22.8	3036434	2191944	Java	MiticoPalla	
-3	22.79	3084976	2304459	Python3	JayP	
 3	22.78	2060993	2599687	Scala	Nabaki	
 3	22.78	4737139	4014297	TypeScript	Melynoji-komanda	
 3	22.78	820130	2086042	Python3	Miles	
@@ -762,6 +761,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2551,time=2022-12-27 00:30:
 3	22.76	3464032	2489720	C#	Pinkviini	
 3	22.75	2545748	2317824	Java	sybernatuz	
 3	22.72	4633082	3932602	Python3	Perterte	
+3	22.7	3084976	2304459	Python3	JayP	
 3	22.69	1731211	2125079	Python3	fala	
 3	22.69	1694898	3438871	C++	tcchiang	
 3	22.66	2171878	4525611	Scala	Louis_ZA	
@@ -846,12 +846,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2551,time=2022-12-27 00:30:
 3	21.96	4637082	3959594	Java	mazomat	
 3	21.96	4235941	3503857	C++	AllenHsu	
 3	21.94	4866464	4311354	C++	vjules	
+3	21.91	4228252	3507799	C++	tyh_0420	
 3	21.91	3056905	2222448	Python3	Kacpi	
 3	21.9	1461866	2068474	Java	Spacebird1313	
 3	21.87	3335380	4046340	C++	Darkproduct	
 3	21.87	3798090	2985308	C++	Aalleman	
 3	21.86	1422880	4507455	C++	loginius	
-3	21.86	4228252	3507799	C++	tyh_0420	
 3	21.85	2642273	3061821	Python3	Pluk	
 3	21.85	3016830	2842706	Javascript	Doubrixel	
 3	21.81	3432863	3826136	Bash	kReid	
@@ -892,7 +892,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2551,time=2022-12-27 00:30:
 3	21.47	1815235	4280694	C#	Maliamnon	
 3	21.45	3366104	2414261	Javascript	Anonymousellama21	
 3	21.45	352971	2087091	Javascript	BigD	
-3	21.4	3689606	4463665	C++	DuckDuckGoose	
 3	21.4	4236411	3942149	Python3	Warhead333	
 3	21.4	1014040	3960693	C#	Doria	
 3	21.4	4232545	3538362	C++	TYranno	
@@ -999,3 +998,4 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2551,time=2022-12-27 00:30:
 3	19.92	3186368	2419951	Javascript	awfeioajwiodfws	
 3	19.91	1861300	2802197	TypeScript	Jakkyl	
 3	19.9	3383568	3728059	Rust	Sympel	
+3	19.89	828964	2677683	C#	Brooms	
