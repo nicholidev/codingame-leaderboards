@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6775,time=2022-12-28 00:44:46
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6777,time=2022-12-29 00:30:26
 100	2756	2288263	Rust	dbdr	
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
@@ -644,6 +644,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6775,time=2022-12-28 00:44:46
 100	5457	3533119	Python3	wlesavo	
 100	5458	704677	Java	Slivercid	
 100	5460	517890	C++	Altaire	
+100	5461	5246850	C++	deltameth	
 100	5465	597560	C#	DarkWaw	
 100	5466	3174072	Python3	zakarfromdakar	
 100	5476	1207736	C#	Medium	
@@ -749,7 +750,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6775,time=2022-12-28 00:44:46
 100	5650	1156798	C++	taka-no-me	
 100	5650	3307806	C++	IlyaTkemal	
 100	5652	3965571	Python3	Smekarn	
-100	5654	5246850	C++	deltameth	
 100	5656	631359	Python3	Aratz	
 100	5659	759912	Javascript	felipeptcho	
 100	5659	2792232	Python3	Monoterpene	
