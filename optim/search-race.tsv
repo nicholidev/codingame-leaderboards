@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=934,time=2022-12-31 01:52:59
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=935,time=2023-01-01 00:30:27
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -252,6 +252,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=934,time=2022-12-31 01:52:59
 100	15332.769999999997	4804344	Python3	SomovAndrey	
 100	15362.77	4178870	Go	hanabi1224	
 100	15414.2	3877700	Rust	Bytekeeper	
+100	15445.08	5134379	Python3	JCLV	
 100	15555.069999999994	4053362	C#	Johan_Braanen	
 100	15642.7	3488045	C++	SaverHar	
 100	15661.350000000002	4673683	C++	BartK	

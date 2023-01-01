@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7006,time=2022-12-31 00:30:21
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7006,time=2023-01-01 00:30:20
 5	36.36	3379871	3985659	C	Bitse	
 5	34.42	3348388	3516552	C++	bowwowforeach	
 5	32.92	1194069	4421985	C++	Redstrike	
@@ -673,14 +673,14 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7006,time=2022-12-31 00:30:
 4	21.03	3324324	3765054	C++	plantita	
 4	21.01	1644896	803568	C++	pokorska	
 4	21	2096064	1445512	C++	xiao.sha	
-4	21	2473192	4038338	Python3	game-ai-course	
+4	20.94	2473192	4038338	Python3	game-ai-course	
 4	20.93	3667481	3678061	Python3	Giorno.	
 4	20.93	1555572	2222854	C#	ThunderbirdOne	
 4	20.89	2233676	2210996	C++	cleanrock	
 4	20.84	1864032	1443106	C#	MadcapET	
 4	20.79	1624567	787320	C++	DTA	
+4	20.75	4883159	4272623	Rust	rs02	
 4	20.74	1525831	1936652	Python3	ntsd	
-4	20.67	4883159	4272623	Rust	rs02	
 4	20.6	3416055	3330807	Python3	ItsAFeature	
 4	20.6	3741491	3744864	Python3	inverb	
 4	20.49	834202	1304016	C#	Racso	
@@ -716,6 +716,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7006,time=2022-12-31 00:30:
 4	19.47	1864493	1588443	Java	raicos	
 4	19.44	1373231	671585	Python3	shypiguy	
 4	19.43	1861852	1657330	Javascript	Cramer	
+4	19.42	1470392	649429	C#	TechSession	
 4	19.39	1407720	2996687	Rust	bananaMixer	
 4	19.39	3226448	2694748	C	tobk	
 4	19.38	577849	4533302	C++	streb	
@@ -723,7 +724,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7006,time=2022-12-31 00:30:
 4	19.35	155723	2129781	Javascript	gfauchart	
 4	19.35	1525392	778503	Haskell	migorec	
 4	19.34	903179	3883964	Go	maksmas	
-4	19.33	1470392	649429	C#	TechSession	
 4	19.31	1327028	647433	C++	FredericBautista	
 4	19.3	1603088	1499444	Java	HyperDec	
 4	19.26	1229845	1440776	Java	Jipe	
@@ -768,13 +768,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=7006,time=2022-12-31 00:30:
 4	18.8	3331745	3354425	Python3	XeraFiu	
 4	18.79	1262539	3897317	C++	schizo	
 4	18.79	3763923	3914126	Python3	nforay	
-4	18.78	2092623	2836075	C++	YoshiNoob	
 4	18.77	490588	3019762	Python3	Uljahn	
 4	18.77	1638393	808897	C#	Foonesh	
 4	18.77	1123581	1754548	Java	Luksis	
 4	18.76	364493	647518	Java	RAdam	
 4	18.76	3785176	2836060	Python3	kelvinluime	
 4	18.75	2379525	1604118	Python3	Dragonslayer1337	
+4	18.75	2092623	2836075	C++	YoshiNoob	
 4	18.75	3144403	2319327	Python3	hugoLaugier	
 4	18.73	3104953	2254238	Python3	Wajeeha	
 4	18.71	4021153	3516965	C++	KamBal	
