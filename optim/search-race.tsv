@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=935,time=2023-01-01 00:30:27
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=936,time=2023-01-02 00:30:28
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -871,6 +871,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=935,time=2023-01-01 00:30:27
 64	33764.51000000001	935744	TypeScript	Alcalyn	
 62	33823.42999999999	4182777	Python3	Andrei125	
 62	33973.71	4199011	Python3	_MarTiaN_	
+62	34367.17	5212231	Python3	Fresti	
 60	33354.57000000001	1724069	F#	jmpeg	
 58	36124.33	490905	Python3	lechium06_	
 56	35893.469999999994	1302770	Java	DNightOwl	
