@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=936,time=2023-01-03 00:30:29
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=937,time=2023-01-04 00:30:31
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -733,6 +733,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=936,time=2023-01-03 00:30:29
 94	24829.299999999992	4844939	Javascript		
 94	25064.650000000005	1502114	C#	Sambock	
 94	25187.50999999999	4033813	C	TempusFugit	
+94	25639.410000000003	4072593	C++	Der_Wendler	
 94	25818.71999999999	3171296	Python3	clem35fav	
 94	26095.870000000006	4084920	Java	Folluin	
 92	23576.1	1453140	VB.NET	believerboy	
