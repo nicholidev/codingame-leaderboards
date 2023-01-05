@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=937,time=2023-01-04 00:30:31
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=938,time=2023-01-05 00:30:29
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -780,6 +780,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=937,time=2023-01-04 00:30:31
 88	28095.37	1492846	Python3	mdaw	
 86	27078.370000000003	2696431	Python3	NJBF	
 86	27745.33	3946057	Go	boogiepop	
+86	27957.74	5222668	Java	BillyTheTaco	
 86	28144.07999999999	1205152	Javascript	cfoll	
 86	28296.960000000003	4360797	C++	Napstablook_	
 86	28388.06	3904540	C++	Queuebee	
