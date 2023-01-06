@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6793,time=2023-01-05 00:30:26
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6797,time=2023-01-06 00:30:26
 100	2756	2288263	Rust	dbdr	
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
@@ -321,6 +321,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6793,time=2023-01-05 00:30:26
 100	4168	765200	C#	FrancoisB	
 100	4173	3556476	C#	YohanC	
 100	4177	404956	Python3	mcsimm	
+100	4178	3647844	Python3	rc95401	
 100	4181	1799284	Java	Mick2Pac	
 100	4181	1762054	Java	KirillJJ	
 100	4190	3723101	Python3	Lilac_Tsuki	
@@ -340,7 +341,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6793,time=2023-01-05 00:30:26
 100	4228	4168646	Rust	RaccoonWithSpork	
 100	4229	783215	C++	AndreiS	
 100	4233	631323	Python3	herve056	
-100	4234	3647844	Python3	rc95401	
 100	4238	826921	Java	msontag	
 100	4242	4726023	Python3	Monluc	
 100	4246	818780	Python3	bbodin01	
@@ -963,6 +963,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6793,time=2023-01-05 00:30:26
 100	5849	4166555	Ruby	Natanalel	
 100	5849	2325540	Scala	ifossz	
 100	5850	934381	C++	PolyB	
+100	5851	5174694	C++	EgorSM	
 100	5852	231653	C++	kappy	
 100	5852	952784	C++	[CG]Simon	
 100	5852	1488793	Python3	kerloic	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6793,time=2023-01-05 00:30:26
 100	5860	860297	Javascript	charlieamer	
 100	5860	993670	Python3	Dvermd	
 100	5860	1202744	Pascal	KILLogic	
-100	5860	1201118	Python3	Til	

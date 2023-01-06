@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=63,time=2023-01-05 00:30:07
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=63,time=2023-01-06 00:30:07
 3	32.11	4119720	3848686	C++	maniekTC	
 3	28.01	2311105	3457413	C++	kovi	
 3	23.58	2288263	3481308	Rust	dbdr	
@@ -9,21 +9,21 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=63,time=2023-01-05 00:30:07
 3	20.66	2923506	3456983	C#	darkhorse64	
 3	20.03	1500515	3409988	C#	eulerscheZahl	
 3	11.63	1757792	3421525	Java	oreshnik	
-2	23.46	1412263	3701844	PHP	PatrickMcGinnisII	
-2	21.1	969000	3469818	Javascript	KB	
-2	20.97	2482615	3652537	Scala	Zenobia	
-2	20.45	2433536	3460001	Python3	GiantPanda	
-2	19.6	2290633	3414008	Python3	field3	
-2	18.91	973040	3471078	F#	papyjo	
-2	18.42	311035	3508981	Python3	leojean890	
-2	17.13	2704172	3460859	Python3	darkCoder	
-2	17.05	1544524	3873782	Python3	RTheophile	
-2	16.71	3699585	3491101	Python3	Viande	
-2	16.66	1569722	3460249	Rust	baysmith	
-2	16.5	1569420	3480991	Python3	Tuo	
-2	15.39	4198291	3460078	Python3	elcio	
+2	23.87	1412263	3701844	PHP	PatrickMcGinnisII	
+2	21.74	2482615	3652537	Scala	Zenobia	
+2	21.61	969000	3469818	Javascript	KB	
+2	20.69	2433536	3460001	Python3	GiantPanda	
+2	19.64	973040	4688227	F#	papyjo	
+2	19.34	2290633	3414008	Python3	field3	
+2	18.58	311035	3508981	Python3	leojean890	
+2	17.42	1544524	3873782	Python3	RTheophile	
+2	16.97	3699585	3491101	Python3	Viande	
+2	16.59	2704172	3460859	Python3	darkCoder	
+2	16.58	1569722	3460249	Rust	baysmith	
+2	16.47	1569420	3480991	Python3	Tuo	
+2	15.34	4198291	3460078	Python3	elcio	
 2	13.75	3657937	4509011	Python3	elderlybeginner	
-2	10.07	3337117	3502940	Rust	timbersson	
+2	10.04	3337117	3502940	Rust	timbersson	
 1	13.11	4223250	3456911	C#	Absentiy	
 1	13.05	1123581	3460232	Python3	Luksis	
 1	12.53	3136787	3459439	C#	jacek	

@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8015,time=2023-01-05 00:30:12
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8015,time=2023-01-06 00:30:12
 5	43.95	1400179	3665384	C++	reCurse	
 5	39.58	3457031	3873772	C++	YurkovAS	
 5	38.2	4300424	3704114	Rust	kurnevsky	
@@ -510,9 +510,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8015,time=2023-01-05 00:30:
 4	37.58	4067800	3679979	C++	SilentAndroid	
 4	37.57	1932031	3667886	Javascript	Briossant	
 4	37.57	3916254	3691224	Python3	mikronex	
-4	37.57	2173816	3671061	C++	mthakur	
 4	37.56	154194	3669700	Java	E-B-A	
 4	37.56	2786666	3666240	C++	TetraktysPhi	
+4	37.55	2173816	3671061	C++	mthakur	
 4	37.53	4256376	3670159	Python3	tinyhhj	
 4	37.52	2600493	3667982	Java	[Nit]	
 4	37.52	4282530	3667488	Python3	Dururu	
@@ -718,7 +718,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8015,time=2023-01-05 00:30:
 4	35.13	3706223	3665801	TypeScript	Yab94	
 4	35.12	4320516	3835661	Javascript	Lottot	
 4	35.12	2592367	3667903	C#	Jokero	
-4	35.12	1399688	3813347	C++	jeyries	
 4	35.11	2927320	3668393	C#	itectori	
 4	35.11	3446140	3668860	PHP	Upcy	
 4	35.11	4256411	3670375	C++	Pick8chu	
@@ -727,6 +726,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8015,time=2023-01-05 00:30:
 4	35.11	4073807	3684441	C++	CMOS_BIHI	
 4	35.11	3817179	3666149	C#	MAPATKO	
 4	35.11	1186538	3666954	Kotlin	G_Ostro	
+4	35.1	1399688	3813347	C++	jeyries	
 4	35.09	4313500	3666242	C#	HDainester	
 4	35.09	4088387	3671069	C#	StrykrJ	
 4	35.08	1443769	3669677	C#	weweno	
@@ -959,9 +959,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8015,time=2023-01-05 00:30:
 4	32.2	2090434	3673016	Java	natrian	
 4	32.19	4313596	3666634	Kotlin	Heinszn	
 4	32.19	1760406	3667311	Python3	[nico]	
-4	32.19	1687754	3673700	Java	cg123	
 4	32.19	3016536	3666806	Java	SejongDaewang	
 4	32.18	735910	3666800	C++	Agade	
+4	32.18	1687754	3673700	Java	cg123	
 4	32.17	3756445	3680801	C#	GUiToU	
 4	32.17	607179	3668593	Rust	emkjp	
 4	32.17	4205176	3667207	Go	svzh	

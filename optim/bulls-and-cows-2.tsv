@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=400,time=2023-01-05 00:30:28
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=401,time=2023-01-06 00:30:27
 100	291	2288263	Rust	dbdr	
 100	293	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -371,6 +371,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=400,time=2023-01-05 00:30:28
 10.869565217391305	12392	1279172	Python3	Alphaloc	
 10.869565217391305	13032	1354165	Python3	Raichu2020	
 6.521739130434782	938	4286679	Python3	fungi_star	
+6.521739130434782	3023	154935	Scala	yamo	
 6.521739130434782	12963	1105871	Python3	PolonaisCripestro	
 2.1739130434782608	5	996606	C++	Indy	
 2.1739130434782608	5	4661927	C++	SatchShred	
