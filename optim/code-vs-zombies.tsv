@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=16442,time=2023-01-06 00:30:26
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=16457,time=2023-01-07 00:35:53
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -33,6 +33,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=16442,time=2023-01-06 00:30:26
 100	543500	1273065	C++	TheRadical	
 100	511870	1728326	C++	yduf	
 100	505510	1549145	C++	Mealc	
+100	499560	1485690	C++	Kikoo	
 100	496310	893541	Java	wala	
 100	494650	4070745	C	HoriMiyamura	
 100	487200	862919	C++	Astrobytes	
@@ -41,7 +42,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=16442,time=2023-01-06 00:30:26
 100	480190	3845610	C++	pardouin	
 100	478880	3919068	C++	14598366	
 100	477560	4528331	C++	AllanB	
-100	476930	1485690	C++	Kikoo	
 100	473600	1029663	C	Skreamly	
 100	473010	4073052	C++	slrn	
 100	472260	4124688	C++	Murat_Eroglu	
@@ -988,6 +988,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=16442,time=2023-01-06 00:30:26
 100	66280	4372857	C++	Sirios	
 100	66260	2984707	Python3	Darkduv	
 100	66220	3418512	Python3		
+100	66190	411147	C#	HunterX	
 100	66140	3066640	Java	MaherYounsi	
 100	66120	1015754	Python3	Sinek	
 100	66120	1703003	Java	SteamR	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=16442,time=2023-01-06 00:30:26
 100	65940	3843750	Rust	mathias-vandaele	
 100	65890	2406605	Python3	docri	
 100	65880	523846	C#	Palmipedus	
-100	65800	1216057	Java	RedTheOne	

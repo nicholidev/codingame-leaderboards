@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2873,time=2023-01-06 00:30:20
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2873,time=2023-01-07 00:35:47
 4	35.18	3193653	2708375	C++	karliso	
 4	32.67	3502867	2707285	C++	The_Duck	
 4	32.01	2970414	2709863	Python3	Fangel	
@@ -867,7 +867,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2873,time=2023-01-06 00:30:
 2	24.46	2779651	2708291	Python3	panxman	
 2	24.45	1418821	2707093	C++	input.txt	
 2	24.42	2228881	3061959	Java	praxus	
-2	24.35	1355842	2708204	Java	slaghn	
 2	24.34	156876	2708330	Python3	ShinjiKun	
 2	24.34	1449433	2842523	C++	Rolf	
 2	24.33	3051977	2707698	Python3	YongJing	
@@ -875,6 +874,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2873,time=2023-01-06 00:30:
 2	24.25	2822689	2707253	Python3	DoubleTrouble	
 2	24.21	1566179	2707289	C#	ArcaneSaint	
 2	24.18	1803872	2707111	Python3	happyweary	
+2	24.14	1355842	2708204	Java	slaghn	
 2	24.07	1538549	2707624	Python3	Nikodimishe	
 2	24.06	1243876	2707646	Python3	Hi-Low_World	
 2	24.05	969298	2708533	C#	Dopp	
@@ -906,12 +906,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2873,time=2023-01-06 00:30:
 2	23.09	3125495	2707130	Java	Ezzou	
 2	23.09	2360690	2707059	Python3	Galrauch	
 2	23.07	2669810	2708347	C#	Anto_Gl	
+2	23.06	2662460	2708810	C#	Gamli	
 2	23.05	2969181	2708585	C++	maras	
 2	23.04	1416686	2708068	C#	Avatar256	
 2	23.04	3514205	2707983	C++	fifco	
 2	23.04	3524758	2707821	Python3	Deks	
 2	23.03	311035	2837399	Python3	leojean890	
-2	23.01	2662460	2708810	C#	Gamli	
 2	22.98	153030	2707523	C++	joH	
 2	22.97	1382584	2708213	Python3	Fer	
 2	22.94	3516048	2708400	C#	biscuitchief	
@@ -950,11 +950,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2873,time=2023-01-06 00:30:
 2	22.22	835581	2708523	C++	FishKOH	
 2	22.1	3819989	3471401	C++	KawattaTaido	
 2	22.09	1013350	2708997	Java	Absolutata	
-2	21.9	3347955	2707390	Ruby	jonez	
 2	21.87	1160218	2707575	C#	unimatrixZero	
-2	21.87	2455124	2709033	C	agiordan	
 2	21.78	973627	2708231	Java	Denman	
+2	21.77	3347955	2707390	Ruby	jonez	
 2	21.77	3502066	2707426	Python3	Pusil	
+2	21.74	2455124	2709033	C	agiordan	
 2	21.73	153683	3536603	Dart	40R15T3	
 2	21.72	1570610	2709019	Python3	Simplyzero	
 2	21.71	4662405	3953583	Python3	helpmefindaname	
