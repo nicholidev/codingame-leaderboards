@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6865,time=2023-01-07 00:35:50
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6865,time=2023-01-08 01:26:18
 5	31.63	1082988	2982332	C++	Saelyos	
 5	31.34	880353	2975979	C++	zasmu	
 5	31.02	3193653	3004019	C++	karliso	
@@ -815,7 +815,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6865,time=2023-01-07 00:35:
 3	24.33	2458172	2978312	C++	CaptainHamburger	
 3	24.32	3470270	4431210	PHP	Tabaxi3K	
 3	24.31	1105782	2979745	C#	RubenFilipe	
-3	24.28	3563633	2980017	Javascript	p1100i	
 3	24.25	3800220	2977466	C++	Kurpilyansky	
 3	24.24	2675308	2977204	Javascript	vkochev	
 3	24.24	3581203	2979566	C++	franckCJ	
@@ -823,6 +822,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6865,time=2023-01-07 00:35:
 3	24.23	904209	4083274	Python3	Myrtille44	
 3	24.22	1178251	2977875	Java	Briag	
 3	24.22	4402003	3796999	Java	10002	
+3	24.21	3563633	2980017	Javascript	p1100i	
 3	24.2	1798477	4063837	C#	mnivet	
 3	24.2	3266132	2975654	C++	itohdak	
 3	24.18	3799445	2978257	Python3	S3v3vn	
@@ -864,7 +864,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6865,time=2023-01-07 00:35:
 3	23.93	518243	2977062	C++	mbaros	
 3	23.93	2443365	2979951	Javascript	Lulemair	
 3	23.93	2735427	2979295	Go	tbmc	
-3	23.92	281532	2976665	Scala	SekoUrsil	
 3	23.91	1687809	2995372	Java	egoprince	
 3	23.91	3468263	2978760	Python3	Flyingkid	
 3	23.9	3523406	2976755	Java	Pansier	
@@ -889,6 +888,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6865,time=2023-01-07 00:35:
 3	23.71	1062962	2980397	C++	ArmandO.S.	
 3	23.69	1506970	2976707	C#	Speedrun	
 3	23.67	3419294	2976000	Javascript	Sissiimperatice	
+3	23.65	281532	2976665	Scala	SekoUrsil	
 3	23.65	3723210	2976856	C#	ChristopherHahn	
 3	23.64	1759839	2978707	Python3	matleg	
 3	23.64	3686275	2978967	C#	udu	
@@ -931,9 +931,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6865,time=2023-01-07 00:35:
 3	23.16	4403610	3795696	C++	anakinCSA	
 3	23.16	3802180	2979892	C++	SaminRK	
 3	23.08	3736924	2979495	Java	Autilis	
+3	23.08	1070655	2979498	C++	shanks	
 3	23.06	1815235	2977737	C#	Maliamnon	
 3	23.02	3765905	2979695	Python3	edramire	
-3	22.99	1070655	2979498	C++	shanks	
 3	22.98	1525821	2979841	C#	Jeroo	
 3	22.97	3757728	2975969	C#	semera	
 3	22.96	153045	2979746	C++	nib	
@@ -959,9 +959,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=6865,time=2023-01-07 00:35:
 3	22.59	3041715	2977613	Java	goldkeeper	
 3	22.58	3802577	2979218	C++	rhs99	
 3	22.56	2112007	2978055	Javascript	KRAKEN	
+3	22.55	3102977	2977642	Python3	Aprillion	
 3	22.54	4398412	3798694	Java	JinGOGO	
 3	22.54	4119720	3487811	C++	maniekTC	
-3	22.54	3102977	2977642	Python3	Aprillion	
 3	22.52	1417805	2979138	Java	hiro116s	
 3	22.52	2497472	2975990	Java	Hexabin	
 3	22.51	1443538	2978237	Java	Tux4711	
