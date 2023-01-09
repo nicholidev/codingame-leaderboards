@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4893,time=2023-01-08 00:30:16
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4894,time=2023-01-09 00:40:29
 0	47.16	1433161	1484525	C	mingu1.kang	
 0	45.59	494104	455215	C++	Recar	
 0	45.18	990110	357643	C++	Rogerup	
@@ -10,9 +10,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4893,time=2023-01-08 00:30:
 0	43.44	1629259	2238404	C++	Marchete	
 0	43.4	351062	1847653	Java	Neumann	
 0	43.38	2472606	3005863	C++	MehdiTouil	
-0	43.37	4070745	3849319	Java	HoriMiyamura	
 0	43.29	836415	363206	Java	tallo	
 0	43.26	3443015	3501494	C++	Wozniak	
+0	43.22	4070745	3849319	Java	HoriMiyamura	
 0	43.16	2924895	3506308	C++	trictrac	
 0	43	3211735	2307448	C++	Fireballl	
 0	42.99	739151	341011	C++	Romka	
@@ -160,6 +160,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4893,time=2023-01-08 00:30:
 0	38.26	1404934	2584976	C++	tarriel	
 0	38.26	682376	356493	Java	fraagol	
 0	38.24	225892	345329	F#	ikarni	
+0	38.24	545951	341940	C++	AntonT	
 0	38.24	1457162	2083083	C++	JFB	
 0	38.22	1673971	1113063	C++	Lanken	
 0	38.22	574656	357657	Python	dmpage	
@@ -167,7 +168,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4893,time=2023-01-08 00:30:
 0	38.2	226528	362440	Java	Manwe	
 0	38.19	856695	350539	Java	colegu	
 0	38.16	4347119	3722677	C++	Alexandr-MPSI-LIV	
-0	38.11	545951	341940	C++	AntonT	
 0	38.11	1436776	3664349	C++	BrainSolver	
 0	38.11	207714	339810	Scala	TrueLaurel	
 0	38.07	1069340	354924	C++	Diler	
@@ -658,7 +658,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4893,time=2023-01-08 00:30:
 0	32.92	154078	357997	Java	Yahya.Elfakir	
 0	32.92	1336198	412279	Java	andreaca	
 0	32.91	826372	348172	C++	skyyker	
-0	32.91	4347131	3722352	OCaml	Auxence-MPSI-LIV	
+0	32.91	4347131	3722352	OCaml	TchoukTchouk	
 0	32.91	921111	354536	Python	Kyria	
 0	32.9	425757	415197	Ruby	Keres	
 0	32.9	513456	343079	Python	nwin	
@@ -762,8 +762,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4893,time=2023-01-08 00:30:
 0	32.45	3847976	3002488	C#	[SG]Mob-Programming	
 0	32.43	1479930	2463459	C++	LeRenard	
 0	32.43	1057929	354240	Java	jcha93	
+0	32.42	4108919	3434712	Python3	PaPyTiger	
 0	32.41	978754	352232	Java	flower_child	
-0	32.4	4108919	3434712	Python3	PaPyTiger	
 0	32.4	1068125	344809	Lua	Irvineflon	
 0	32.4	1305685	1313021	Python3	grigoriy.tretyakov	
 0	32.39	1068749	354060	C++	MarcioReis	
