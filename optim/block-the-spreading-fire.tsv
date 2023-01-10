@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=449,time=2023-01-09 01:00:29
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=450,time=2023-01-10 01:11:54
 100	62940	2077805	C++	bamilan	
 100	62937	2288263	Rust	dbdr	
 100	62936	977117	C++	Psyho	
@@ -151,6 +151,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=449,time=2023-01-09 01:00:29
 100	19600	4430070	C#	SamuelCDA6	
 100	19291	4791882	Ruby	FlorentC	
 100	18822	952784	Java	[CG]Simon	
+100	18676	2968035	C++	DomiKo	
 100	18609	539752	TypeScript	princeakara	
 100	18562	3914241	Javascript	EDais	
 100	18479	1378958	C#	Illedan	
@@ -185,7 +186,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=449,time=2023-01-09 01:00:29
 100	15921	4865140	Go	demetedPufferfish	
 100	15920	4562863	Python3	Benoit-Simunsol	
 100	15904	1027945	TypeScript	TriForMine	
-100	15900	2968035	C++	DomiKo	
 100	15900	2202771	Java	Kaplone	
 100	15816	1479930	C++	LeRenard	
 100	15813	1740037	Scala	ereiam	
@@ -202,6 +202,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=449,time=2023-01-09 01:00:29
 100	14880	3118570	C++	Razovsky	
 100	14600	4031451	Java	pbou	
 100	14209	2118425	Javascript	geekuillaume	
+100	14206	5163410	Java	LOKI_78	
 100	14202	837350	Python3	BorisZ	
 100	13815	4063012	Java	LecOtio	
 100	13620	994468	C++	darkdieg	
@@ -214,7 +215,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=449,time=2023-01-09 01:00:29
 100	11764	4587710	Scala	Smetalka	
 100	11604	2919255	C#	Codefan	
 100	11400	3282334	Java	Wokan	
-100	10906	5163410	Java	LOKI_78	
 100	10901	2532837	Ruby	fauresebast	
 100	10900	862919	C++	Astrobytes	
 100	10900	2889053	TypeScript	anderium	
@@ -448,3 +448,4 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=449,time=2023-01-09 01:00:29
 100	0	4916990	C++	YeLone-Chen	
 100	0	5149711	Python3	burdanas	
 100	0	5262935	Python3	WhiteKnight127	
+100	0	4315171	Java	Soucis	

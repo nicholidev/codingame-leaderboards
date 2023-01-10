@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1000,time=2023-01-09 01:00:28
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1000,time=2023-01-10 01:11:51
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
 100	59353552	2436448	C++	FrancoisMeme	
@@ -142,11 +142,13 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1000,time=2023-01-09 01:00:28
 100	2833088	973040	C	papyjo	
 100	2802328	4044949	Java	Exanc	
 100	2602560	4119778	Scala	Kwokster	
+100	2549536	1309948	C++	Runner87	
 100	2523096	4459243	Java	CodeNick	
 100	2507088	3569066	C++	derjack	
 100	2469116	481988	Kotlin	DevKirill	
 100	2460352	1243876	Java	Hi-Low_World	
 100	2450728	3626782	Java	ItsNotABug	
+100	2449280	4050016	Python3	CharlesSenemaud	
 100	2423384	154354	OCaml	Fougere	
 100	2330276	2833929	Python3	pcourrousse	
 100	2327896	3705601	Java	ido_the_pro	
@@ -156,7 +158,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1000,time=2023-01-09 01:00:28
 100	2262296	2981630	C++	IHateTheIDEPlayLimit	
 100	2253844	475740	C#	Serg	
 100	2221800	4719404	C++	Duamutef	
-100	2194824	1309948	C++	Runner87	
 100	2124388	2012662	Python3	Natalka1122	
 100	2099264	806416	Python3	awnion	
 100	2098516	4506498	Rust	TimeEngineer	
@@ -225,6 +226,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1000,time=2023-01-09 01:00:28
 100	377016	3433089	Java	lionandmouse	
 100	373936	1234947	Java	kuro	
 100	371360	2255945	C++	PoppyTrail	
+100	371176	508460	C++	Volia	
 100	368976	4526264	C++	cly	
 100	357444	3008857	Python3	timoru	
 100	354160	4470306	Python3	NONstope	
@@ -238,12 +240,12 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1000,time=2023-01-09 01:00:28
 100	307404	3687134	Java	Puccre	
 100	305628	792813	Python3	VilBoub	
 100	302160	4003601	C#	Mathieu1988	
+100	300216	4073854	C++	Buk.	
 100	299136	3700430	C++	Sandivar	
 100	295132	3815413	Swift	Michael_Howard	
 100	294676	2661980	C++	Leos	
 100	292452	3738052	Python3	samirMaoude	
 100	291324	2350587	Python3	loxaxs	
-100	287992	508460	C++	Volia	
 100	285004	4016170	C	GMCG	
 100	276084	4142307	Python3	Editsira	
 100	272192	3617678	Python3	j0	
@@ -262,7 +264,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1000,time=2023-01-09 01:00:28
 100	220668	2017805	Python3	Winter_not_comming	
 100	220520	3235897	Java	Zylo	
 100	216072	586074	Ruby	Nakilon	
-100	213700	4073854	C++	Buk.	
 100	202752	3657937	Python3	elderlybeginner	
 100	200944	1179950	Java	PattoWaGuruDesu	
 100	194768	1588135	Swift	bjurner	
@@ -335,7 +336,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1000,time=2023-01-09 01:00:28
 100	82928	4771383	Python3	Mythael	
 100	82772	4119534	Javascript	owloff	
 100	82596	4206982	Ruby	slempel	
-100	81408	4050016	Python3	CharlesSenemaud	
 100	81012	4360410	Java	phinou	
 100	80700	3478673	Javascript	never-again	
 100	80464	2257655	C++	rycbaryana	

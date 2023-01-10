@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2665,time=2023-01-09 00:40:28
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2665,time=2023-01-10 00:31:38
 5	33.29	1327028	2990369	C++	FredericBautista	
 5	31.72	1400179	2986754	C++	reCurse	
 5	30.46	1413236	511966	Go	Medici	
@@ -898,6 +898,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2665,time=2023-01-09 00:40:
 2	-10.05	1630901	1327361	C++	Pand0re	
 1	23.39	3141948	4034404	Python3	philRG	
 1	23.37	1471723	505853	Javascript	munizart	
+1	23.33	1443075	484310	C++	Wolfy82	
 1	23.32	4255666	3483342	Javascript	denRoz	
 1	23.32	1195394	593115	Python3	Larnak	
 1	23.32	4350492	3833890	Python3	omboyo	
@@ -912,6 +913,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2665,time=2023-01-09 00:40:
 1	23.31	1482103	595604	C	BlasterBaz	
 1	23.31	1280770	486102	C	John_Black	
 1	23.31	1463575	494417	Javascript	Kittenschnitzel	
+1	23.31	614489	493173	C	Nazoum81	
 1	23.31	2522090	2831618	C++	MSmits	
 1	23.31	1062481	483910	Java	MauroSemproni	
 1	23.31	859508	573090	C#	ger0000	
@@ -974,11 +976,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2665,time=2023-01-09 00:40:
 1	23.29	4309574	3569799	Python3	KornDV	
 1	23.29	1502298	610550	C#	skargg	
 1	23.29	810902	628546	Python	bouletta	
-1	23.28	1443075	484310	C++	Wolfy82	
 1	23.28	152953	570509	Go	Minicalion	
+1	23.28	973155	576064	C++	Namal	
 1	23.28	1422880	570414	C++	loginius	
 1	23.28	1479835	534250	C++	skill	
-1	23.28	973155	576064	C++	Namal	
 1	23.28	1600351	687536	Python	rmark	
 1	23.27	1439371	505383	Python3	Irnakk	
 1	23.27	435967	664050	Ruby	NullNilNone	
@@ -986,7 +987,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2665,time=2023-01-09 00:40:
 1	23.27	1537927	1218353	Javascript	thecavemanlogic	
 1	23.27	1409204	487289	Javascript	Ricco7La	
 1	23.27	1393911	501141	Javascript	neal_s	
-1	23.27	614489	493173	C	Nazoum81	
 1	23.27	1012020	634685	Python3	Markusha	
 1	23.27	1567782	725150	Perl	brt	
 1	23.27	1297591	653520	C	BigHead	
