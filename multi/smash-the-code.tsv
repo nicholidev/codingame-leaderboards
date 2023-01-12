@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2666,time=2023-01-11 01:00:31
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2667,time=2023-01-12 01:16:02
 5	33.29	1327028	2990369	C++	FredericBautista	
 5	31.72	1400179	2986754	C++	reCurse	
 5	30.46	1413236	511966	Go	Medici	
@@ -63,7 +63,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2666,time=2023-01-11 01:00:
 5	21.67	5212231	4583416	C++	Fresti	
 5	21.59	4154326	3474130	Go	montplusa	
 5	21.52	4745525	4557664	C++	NewCoder09	
-5	21.37	5140378	4526726	C++	menisaxlamaqolarqaqawww	
+5	21.37	5140378	4526726	C++	presidentaz	
 5	21.33	2924895	4064176	C	trictrac	
 5	21.3	1241062	575726	Java	jbs	
 5	21.27	3470270	4490970	C++	Tabaxi3K	
@@ -898,11 +898,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2666,time=2023-01-11 01:00:
 2	-10.05	1630901	1327361	C++	Pand0re	
 1	23.39	3141948	4034404	Python3	philRG	
 1	23.37	1471723	505853	Javascript	munizart	
+1	23.35	1385626	962800	C#	Wabash9000	
+1	23.35	1482103	595604	C	BlasterBaz	
 1	23.33	1443075	484310	C++	Wolfy82	
 1	23.32	4255666	3483342	Javascript	denRoz	
 1	23.32	1195394	593115	Python3	Larnak	
 1	23.32	4350492	3833890	Python3	omboyo	
-1	23.32	1603310	713892	Java	yarwest	
 1	23.32	1557154	3433898	C++	BigToeMan	
 1	23.32	1494618	625811	Javascript	Lune	
 1	23.31	1113415	653895	Python3	Lhassa	
@@ -910,7 +911,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2666,time=2023-01-11 01:00:
 1	23.31	1477028	577663	Ruby	CbIC	
 1	23.31	1494734	589398	Java	Leogelas	
 1	23.31	215395	502717	Python3	Enknable	
-1	23.31	1482103	595604	C	BlasterBaz	
 1	23.31	1280770	486102	C	John_Black	
 1	23.31	1463575	494417	Javascript	Kittenschnitzel	
 1	23.31	614489	493173	C	Nazoum81	
@@ -958,7 +958,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2666,time=2023-01-11 01:00:
 1	23.3	1081818	504765	Python	Indispira	
 1	23.3	1620096	749641	C	InvisibleUSA	
 1	23.3	1231500	547484	C#	Kinga	
-1	23.3	1385626	962800	C#	Wabash9000	
 1	23.3	1526032	781283	C++	AdamBadura	
 1	23.3	1517028	936212	Python3	Nicau	
 1	23.3	1476242	576247	VB.NET	Txiwi	
@@ -999,3 +998,4 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2666,time=2023-01-11 01:00:
 1	23.26	1364114	493061	C++	Unforgiven	
 1	23.26	1411423	484831	Perl	Wyllyam	
 1	23.26	1397268	2454349	C	RTLB	
+1	23.26	1026791	885989	Javascript	Alfalfamale	

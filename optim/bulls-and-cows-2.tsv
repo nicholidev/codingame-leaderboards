@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=405,time=2023-01-11 01:01:26
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=405,time=2023-01-12 01:17:59
 100	291	2288263	Rust	dbdr	
 100	293	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -35,6 +35,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=405,time=2023-01-11 01:01:26
 100	319	1114834	C++	k4ng0u	
 100	319	4753187	C++	boldcrew	
 100	319	2414853	C++	StephaneLaveau	
+100	319	154935	Scala	yamo	
 100	320	2164798	Java	Mihai-Boicu	
 100	320	1480426	C++	Hikari42	
 100	320	3741524	C	princess_of_zeal	
@@ -225,7 +226,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=405,time=2023-01-11 01:01:26
 93.47826086956522	3000	1179357	Rust	avdg	
 93.47826086956522	3053	4199011	Python3	_MarTiaN_	
 93.47826086956522	4413	3406987	Python3	Radu_Sav	
-91.30434782608695	1507	154935	Scala	yamo	
 91.30434782608695	1912	342576	C++	oros	
 91.30434782608695	3189	4356446	Javascript	El.Manu	
 89.1304347826087	2239	4551333	Python3	Darazdeblek	
